@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "vaissellesjetables_1175425assiettesblanchesencanneasucreo23cmdomedia_html",
+      "name": "25 Assiettes blanches en canne \u00e0 sucre \u00d823cm",
+      "prix_base": 23900,
+      "prix_comparaison": 23900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_7037yaourtbrassesucrepommerouge100g_html",
+      "name": "Yaourt brasse sucr\u00e9 pomme rouge 100g",
+      "prix_base": 990,
+      "prix_comparaison": 990,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tablettesdechocolat_13841tablettedechocolatmenageaurizsouffle400gtopbudget_html",
+      "name": "Tablette de chocolat  m\u00e9nage au riz souffl\u00e9 400g",
+      "prix_base": 18900,
+      "prix_comparaison": 18900,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

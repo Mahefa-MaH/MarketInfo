@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "produit_bouquetderosesrougesetblanchesfleursfraiches_",
+      "name": "Bouquet de roses rouges et blanches | fleurs fraiches",
+      "prix_base": 20000,
+      "prix_comparaison": 20000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_wcfosseseptiquehorizontalblanc_",
+      "name": "WC Fosse S\u00e9ptique Horizontal Blanc",
+      "prix_base": 486540,
+      "prix_comparaison": 486540,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_vinaigrederizblanc625ml_",
+      "name": "Vinaigre de riz 625ml | Blanc",
+      "prix_base": 9870,
+      "prix_comparaison": 9870,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

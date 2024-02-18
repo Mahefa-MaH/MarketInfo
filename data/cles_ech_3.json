@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "produit_saucesojasucreecarrefour125mlbouteilleenverre_",
+      "name": "Sauce soja sucr\u00e9e Carrefour\u2122 125ml | Bouteille en verre",
+      "prix_base": 9390,
+      "prix_comparaison": 9390,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_patesblanchesvermicellilongkou50g_",
+      "name": "Vermicelles Blanches de Riz LongKou\u2122 | 50g \u2013 P\u00e2tes blanches",
+      "prix_base": 1800,
+      "prix_comparaison": 1800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_vermicellesblanchesderizlongkou100gpatesblanches_",
+      "name": "Vermicelles Blanches de Riz LongKou\u2122 100g | P\u00e2tes blanches",
+      "prix_base": 3000,
+      "prix_comparaison": 3000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod000137",
+      "name": "TERRE ROUGE - Huile Essentielle Ylang Ylang",
+      "prix_base": 32000,
+      "prix_comparaison": 32000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod000136",
+      "name": "TERRE ROUGE - Huile Essentielle Ravintsara",
+      "prix_base": 25000,
+      "prix_comparaison": 25000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod000134",
+      "name": "TERRE ROUGE - Huile Essentielle Geranium",
+      "prix_base": 28000,
+      "prix_comparaison": 28000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

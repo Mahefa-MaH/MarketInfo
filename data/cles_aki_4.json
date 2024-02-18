@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod000130",
+      "name": "TERRE ROUGE - Huile Essentielle Romarin",
+      "prix_base": 23000,
+      "prix_comparaison": 23000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod000127",
+      "name": "TERRE ROUGE - Huile Essentielle Gingembre",
+      "prix_base": 31000,
+      "prix_comparaison": 31000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod000125",
+      "name": "TERRE ROUGE - Huile Essentielle Taratana",
+      "prix_base": 20000,
+      "prix_comparaison": 20000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

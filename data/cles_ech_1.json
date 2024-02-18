@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 4154,
+      "prix_comparaison": 4154,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_filozofiamalagasyauteurprahajarizafyversionmalagasy_",
+      "name": "Filozofia malagasy | Auteur: P. Rahajarizafy | Version malagasy",
+      "prix_base": 22230,
+      "prix_comparaison": 22230,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_haricotrougefrais1kapoakatsaramasomenalena_",
+      "name": "Haricots rouges frais 250 g | Tsaramaso mena lena",
+      "prix_base": 2000,
+      "prix_comparaison": 2000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

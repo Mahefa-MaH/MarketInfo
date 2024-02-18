@@ -1,0 +1,820 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "produit_shampooingalhuiledarganextraitdabricotnutricap200mlcheveuxsecsabimes_",
+      "name": "Shampooing Huile d\u2019Argan et Abricot Nutricap\u2122 200ml | Cheveux Secs et Ab\u00eem\u00e9s",
+      "prix_base": 35470,
+      "prix_comparaison": 35470,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huilenourrissanteamandedoucetsara50ml_",
+      "name": "Huile nourrissante amande douce Tsara\u2122 50ml | Prot\u00e8ge et nourrit",
+      "prix_base": 6440,
+      "prix_comparaison": 6440,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chorizoenviron500g_",
+      "name": "Chorizo environ 500g LeaderPrice\u2122",
+      "prix_base": 45300,
+      "prix_comparaison": 45300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 4154,
+      "prix_comparaison": 4154,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_cremehydratantenutritionubeurredekariteamandedouceethuiledargan75mllepetitmarseillaispourlespeauxtresseches_",
+      "name": "Cr\u00e8me hydratante Nutrition au Beurre de Karit\u00e9 Amande Douce et Huile d\u2019Argan 75ml Le Petit Marseillais\u2122 | Pour les peaux tr\u00e8s s\u00e8ches | Livraison J+2",
+      "prix_base": 21540,
+      "prix_comparaison": 21540,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_apresshampoingeclatcouleurapulpedegrenadehuiledargan200mlpetitmarseillaischeveuxcoloresmeches_",
+      "name": "Apr\u00e8s Shampooing \u00c9clat Couleur \u00e0 la Pulpe de Grenade et Huile d\u2019Argan 200ml Le Petit Marseillais\u2122 | Pour les Cheveux Color\u00e9s et M\u00e9ch\u00e9s | Livraison J+2",
+      "prix_base": 24490,
+      "prix_comparaison": 24490,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_laviedefrederickdouglassesclaveamericainecriteparluimemeversionfrancaiseeditionsnouveauxhorizons_",
+      "name": "La vie de Frederick Douglass, esclave am\u00e9ricain, \u00e9crite par lui-m\u00eame | Version fran\u00e7aise | Editions Nouveaux Horizons",
+      "prix_base": 14850,
+      "prix_comparaison": 14850,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_lemotdesophieversionfrancaiseeditionsnouveauxhorizons_",
+      "name": "Le MOT de Sophie | Version fran\u00e7aise | Editions Nouveaux Horizons",
+      "prix_base": 27780,
+      "prix_comparaison": 27780,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_lesrevoltesdelamistadversionfrancaiseauteurmarcusredikereditionsnouveauxhorizons_",
+      "name": "Les R\u00e9volt\u00e9s de l\u2019Amistad | Version fran\u00e7aise | Auteur: Marcus Rediker | Editions Nouveaux Horizons",
+      "prix_base": 22230,
+      "prix_comparaison": 22230,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_mamamitilameredesarbresprixnobeldelapaixversionfrancaiseeditionsnouveauxhorizons_",
+      "name": "Mama Miti la m\u00e8re des arbres | Prix nobel de la paix |Version fran\u00e7aise |Editions Nouveaux Horizons",
+      "prix_base": 20370,
+      "prix_comparaison": 20370,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chocolatnoir63cocoapeanutscrunchsambika100gpureoriginesucredecanne_",
+      "name": "Chocolat Noir 63% Cocoa peanuts crunch Sambika\u2122 100g | Pure origine, Sucre de canne",
+      "prix_base": 25600,
+      "prix_comparaison": 25600,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chocolatnoir63pralinecacahuetesambika100gsucre_",
+      "name": "Chocolat Noir 63% Pralin\u00e9 cacahu\u00e8te Sambika\u2122 100g | Sucre",
+      "prix_base": 18600,
+      "prix_comparaison": 18600,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chocolatnoir63crunchysesamebarks100gpureoriginesucredecannesesame_",
+      "name": "Chocolat noir 63% Crunchy Sesame Barks Sambika\u2122 100g| pureorigine , Sucre de canne ,S\u00e9same",
+      "prix_base": 25600,
+      "prix_comparaison": 25600,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_serumcheveuxextranourrissanteviolet30mlyellowsuperfoodserumhuileux_",
+      "name": "S\u00e9rum Cheveux Extra-Nourrissante Violet\u2122 30ml | Yellow Superfood | Serum huileux | Livraison J+2",
+      "prix_base": 44780,
+      "prix_comparaison": 44780,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_filozofiamalagasyauteurprahajarizafyversionmalagasy_",
+      "name": "Filozofia malagasy | Auteur: P. Rahajarizafy | Version malagasy",
+      "prix_base": 22230,
+      "prix_comparaison": 22230,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_finance3eeditionauteurzvibodieetrobertmertoneditionsnouveauxhorizons_",
+      "name": "Finance | 3e \u00e9dition | Auteur: Zvi Bodie et Robert Merton | Editions Nouveaux Horizons",
+      "prix_base": 145500,
+      "prix_comparaison": 145500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhevertefreedentbouteillede46dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Verte Freedent Bouteille de 46 Dragees",
+      "prix_base": 15380,
+      "prix_comparaison": 15380,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_pommesucre1kgfruitfraisdemadagascar2_",
+      "name": "Pomme sucr\u00e9e 1kg | Fruit frais de Madagascar",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_prostabiolnutrisanteboitede60capsulesconforturinairehuiledepepindecourge_",
+      "name": "Prostabiol Nutrisant\u00e9\u2122 Boite de 60 Capsules | Confort Urinaire | Huile de p\u00e9pin de courge",
+      "prix_base": 69290,
+      "prix_comparaison": 69290,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huileomega3sunny1l_",
+      "name": "Huile de Tournesol Sunny\u2122 1L",
+      "prix_base": 18090,
+      "prix_comparaison": 18090,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huiledetournesolcoeurdor1l_",
+      "name": "Huile de Tournesol Coeur d\u2019or\u2122 1L",
+      "prix_base": 16923,
+      "prix_comparaison": 16923,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huiledetournesolhuilor1lhuilealimentairechoixamadagascar_",
+      "name": "Huile de Tournesol Huilor\u2122 par Lesieur 1L | Riche en Vitamine A | 1er Choix \u00e0 Madagascar",
+      "prix_base": 17360,
+      "prix_comparaison": 17360,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_croquettepourchienadultesensibletoutestailles15kgultrapremiumagneauriz_",
+      "name": "Croquette Pour Chien Adulte Sensible Toutes Tailles 15kg Ultra Premium\u2122 Agneau & riz",
+      "prix_base": 320000,
+      "prix_comparaison": 320000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_fevedechocolatpuredark70sambika45gsucrebeurredecacaoemuslifiant_",
+      "name": "F\u00e8ve de Chocolat Pure Dark 70%  Sambika\u2122 45g | Sucre, Beurre de Cacao, \u00e9muslifiant",
+      "prix_base": 8300,
+      "prix_comparaison": 8300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_fevedechocolatpuredark70sambika75gsucrebeurredecacaoemuslifiant_",
+      "name": "F\u00e8ve de Chocolat Pure dark 70%  Sambika\u2122 75g | Sucre, Beurre de cacao, \u00e9muslifiant",
+      "prix_base": 16000,
+      "prix_comparaison": 16000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_fevesdecacaobiopuredark80sambika45gsucrebiobeurredecacaobiolecithinedetournesolbioemulsifiant_",
+      "name": "F\u00e8ves de Cacao Bio Pure dark 80% Sambika\u2122 45g |  Sucre bio, Beurre de cacao bio, L\u00e9cithine de tournesol bio (\u00e9mulsifiant)",
+      "prix_base": 8300,
+      "prix_comparaison": 8300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_fevesdecacaobiopuredark80sambika75gsucrebiobeurredecacaobiolecithinedetournesolbioemulsifiant_",
+      "name": "F\u00e8ves de Cacao Bio Pure dark 80% Sambika\u2122 75g | Sucre bio, Beurre de cacao bio, L\u00e9cithine de tournesol bio (\u00e9mulsifiant)",
+      "prix_base": 16000,
+      "prix_comparaison": 16000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huiledesaumon500ml_",
+      "name": "Huile de Saumon Ultra Premium 500ml",
+      "prix_base": 100000,
+      "prix_comparaison": 100000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_shampooingantipelliculaireaux4huilesessentiellesmenthevertpetitmarseillais250mlcheveuxnormaux_",
+      "name": "Shampooing Anti-Pelliculaire aux 4 Huiles Essentielles et Menthe Vert Le Petit Marseillais\u2122250ml | Pour cheveux normaux | Livraison J+2",
+      "prix_base": 20200,
+      "prix_comparaison": 20200,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_minichorizoaperoenvironenviron500g_",
+      "name": "Mini Chorizo Ap\u00e9ro environ environ 500g LeaderPrice\u2122",
+      "prix_base": 53430,
+      "prix_comparaison": 53430,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_laitconcentrenonsucreregilait170g_",
+      "name": "Lait concentr\u00e9 entier non sucr\u00e9 Regilait\u2122 170g",
+      "prix_base": 12690,
+      "prix_comparaison": 12690,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_riznoir1kg_",
+      "name": "Riz noir 1kg",
+      "prix_base": 37037,
+      "prix_comparaison": 37037,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sepresenterauxelectionsversionfrancaiseeditionsnouveauxhorizons_",
+      "name": "Se pr\u00e9senter aux \u00e9lections | Version fran\u00e7aise | Editions Nouveaux Horizons",
+      "prix_base": 11150,
+      "prix_comparaison": 11150,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_crememainscallibelle150mlonglesprotegeethydratealakeratineetalhuiledargan_",
+      "name": "Cr\u00e8me mains Callibelle 150ml | Ongles Prot\u00e8ge et Hydrate \u00e0 la K\u00e9ratine et \u00e0 l\u2019huile d\u2019argan",
+      "prix_base": 12100,
+      "prix_comparaison": 12100,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_cremepiedssecsabimescallibelle150mlsublimeetadoucitalhuiledenoisettebio_",
+      "name": "Cr\u00e8me pieds secs & Abim\u00e9s Callibelle 150ml |  sublime et adoucit \u00e0 l\u2019huile de noisette bio",
+      "prix_base": 21400,
+      "prix_comparaison": 21400,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_deodorantnaturelbasicviolet20gsansbicarbonatedesoudealhuileessentielledepalmarosaplasticfree100naturel_",
+      "name": "D\u00e9odorant naturel Basics Voanio Violet\u2122 | Sans bicarbonate de soude | A l\u2019huile essentielle de Palmarosa | Plastic Free",
+      "prix_base": 8570,
+      "prix_comparaison": 8570,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_fevesdecacaobioaunoixdecocogrilleechocolat70sambika75gsucredecannebiobeurredecacaobiolecithinedetournesolbioemulsifiantaromenatureldenoixdecocoextrait_",
+      "name": "F\u00e8ves de Cacao Bio au Noix de coco grill\u00e9e, Chocolat 70% Sambika\u2122 75g | Sucre de Canne Bio, Beurre de cacao bio, L\u00e9cithine de Tournesol Bio (\u00e9mulsifiant), Ar\u00f4me Naturel de Noix de Coco, Extrait de Vanille",
+      "prix_base": 16000,
+      "prix_comparaison": 16000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_fevesdecacaobiofleurdeseletgruechocolat63sambika75gsucredecannebiobeurredecacaobiolecithinedetournesolbioemulsifiant_",
+      "name": "F\u00e8ves de Cacao Bio Fleur de Sel et Gru\u00e9, Chocolat 63%, Sambika\u2122 75g | Sucre de Canne bio, Beurre de Cacao bio, L\u00e9cithine de Tournesol Bio (\u00e9mulsifiant)",
+      "prix_base": 16000,
+      "prix_comparaison": 16000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_cerealespetaledeblechocolat375gdoodingues_",
+      "name": "C\u00e9r\u00e9ales P\u00e9tales sucr\u00e9s craquantes 375g Doodingues\u2122",
+      "prix_base": 21200,
+      "prix_comparaison": 21200,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huileessentielleniaouliphaelflor10ml_",
+      "name": "Huile essentielle Niaouli Actiflora\u2122 10ml",
+      "prix_base": 9750,
+      "prix_comparaison": 9750,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huileessentielleniaouligreenmove10ml_",
+      "name": "Huile essentielle Niaouli GreenMove\u2122 10ml",
+      "prix_base": 6070,
+      "prix_comparaison": 6070,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_acommeameliavingtsixfemmesquiontchangelemondeversionfrancaiseeditionsnouveauxhorizons_",
+      "name": "A comme Am\u00e9lia | Version fran\u00e7aise | Editions Nouveaux Horizons",
+      "prix_base": 20370,
+      "prix_comparaison": 20370,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_alertealafermeversionfrancaiseeditionsnouveauxhorizons_",
+      "name": "Alerte \u00e0 la ferme | Version fran\u00e7aise |Editions Nouveaux Horizons",
+      "prix_base": 9260,
+      "prix_comparaison": 9260,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_savonravintsarabasicsviolet_",
+      "name": "Savon Basics Manitriniala Violet\u2122 60g | A l\u2019huile essentielle de ravintsara",
+      "prix_base": 10000,
+      "prix_comparaison": 10000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_deodorantnaturelbasicviolet20gavecbicarbonatedesoudealhuileessentielledepalmarosaplasticfree100naturel_",
+      "name": "D\u00e9odorant naturel Basics Voanio Violet\u2122 | Avec bicarbonate de soude | A l\u2019huile essentielle de Palmarosa | Plastic Free",
+      "prix_base": 9000,
+      "prix_comparaison": 9000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huilenoixdecocoextraiteafroidnourissanteassouplissanteregeneranteapaisante_",
+      "name": "Huile vierge noix de coco Violet\u2122 65ml | Huile noix de coco extraite \u00e0 froid, nourrissante, assouplissante, r\u00e9g\u00e9n\u00e9rante, apaisante",
+      "prix_base": 25810,
+      "prix_comparaison": 25810,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_prairieendangerauteurjanekelleyversionfrancaiseeditionsnouveauxhorizons_",
+      "name": "Prairie en danger | Auteur: Jane Kelley | Version fran\u00e7aise | Editions Nouveaux Horizons",
+      "prix_base": 11150,
+      "prix_comparaison": 11150,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_soustespiedsauteurmariagillversionfrancaiseeditionsnouveauxhorizons_",
+      "name": "Sous tes pieds | Auteur: Maria Gill | Version fran\u00e7aise | Editions Nouveaux Horizons",
+      "prix_base": 11150,
+      "prix_comparaison": 11150,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_systemesdexploitation3eeditionauteurandrewtanenbaumeditionsnouveauxhorizons_",
+      "name": "Syst\u00e8mes d\u2019exploitation | 3e \u00e9dition | Auteur: Andrew Tanenbaum | Editions Nouveaux Horizons",
+      "prix_base": 145500,
+      "prix_comparaison": 145500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_25clhuilesesamecrf_",
+      "name": "Huile de S\u00e9same Carrefour\u2122 25cl",
+      "prix_base": 28230,
+      "prix_comparaison": 28230,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huilesoja1l_",
+      "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
+      "prix_base": 10210,
+      "prix_comparaison": 10210,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huiledoliveviergeextrafontoliva100ml_",
+      "name": "Huile d\u2019Olive Vierge Extra Font Oliva\u2122 1L | Bouteille en PET",
+      "prix_base": 70260,
+      "prix_comparaison": 70260,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huiledoucheargan250mllcs_",
+      "name": "Huile de douche hydratante \u00e0 l\u2019huile d\u2019argan Nectar of beauty Les Cosm\u00e9tiques\u2122 250ml",
+      "prix_base": 9260,
+      "prix_comparaison": 9260,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chocolatnoir63crunchysesamebarkssambika100gpureoriginesucredecannesesame_",
+      "name": "Chocolat Noir 63% Crunchy Sesame Barks Sambika\u2122 100g | Pure origine , Sucre de canne , S\u00e9same",
+      "prix_base": 25600,
+      "prix_comparaison": 25600,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chocolatnoir63pralinecacahuetesambika45gsucre_",
+      "name": "Chocolat Noir 63% Pralin\u00e9 cacahu\u00e8te Sambika\u2122 45g | Sucre",
+      "prix_base": 10900,
+      "prix_comparaison": 10900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_bonbonsanssucreminiminthsmenthefortehollywood_",
+      "name": "Bonbon Sans sucre Mini Minths Menthe Forte Hollywood",
+      "prix_base": 6150,
+      "prix_comparaison": 6150,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_bonbonsanssucreminiminthsmenthehollywood_",
+      "name": "Bonbon Sans sucre Mini Minths Menthe Hollywood",
+      "prix_base": 6150,
+      "prix_comparaison": 6150,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_bonbonsbisoussucre100grmila_",
+      "name": "Bonbons Bisous Sucre 100GR Mila",
+      "prix_base": 5260,
+      "prix_comparaison": 5260,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_bonbonscoeurssucres100grmila_",
+      "name": "Bonbons Coeurs Sucres 100GR Mila",
+      "prix_base": 5260,
+      "prix_comparaison": 5260,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_bonbonsoursonssucre100grmila_",
+      "name": "Bonbons Oursons Sucre 100GR Mila",
+      "prix_base": 5260,
+      "prix_comparaison": 5260,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggum2freshsanssucrementhevertechlorophyllehollywood10pieces_",
+      "name": "Chewing-Gum 2 Fresh Sans Sucre Menthe Verte/ Chlorophylle Hollywood 10pi\u00e8ces",
+      "prix_base": 7850,
+      "prix_comparaison": 7850,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggummaxsanssucrefraisecitronverthollywood10pieces_",
+      "name": "Chewing-Gum Max Sans Sucre Fraise/Citron vert Hollywood 10pi\u00e8ces",
+      "prix_base": 7850,
+      "prix_comparaison": 7850,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucreblancheurhollywood10pieces_",
+      "name": "Chewing-Gum Sans Sucre Blancheur Hollywood 10pi\u00e8ces",
+      "prix_base": 4500,
+      "prix_comparaison": 4500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucregreenfreshhollywood10pieces_",
+      "name": "Chewing-Gum Sans Sucre Greenfresh Hollywood 10pi\u00e8ces",
+      "prix_base": 4500,
+      "prix_comparaison": 4500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_apresshampooingheadshoulder220mlsupremereparation_",
+      "name": "Apr\u00e8s-Shampooing supr\u00eame r\u00e9paration Head & Shoulders\u2122 220ml |  A l\u2019huile d\u2019argan&Argan",
+      "prix_base": 16670,
+      "prix_comparaison": 16670,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_deodorantamandedoucehuileessentielledesaugepetitmarseillais50mlantitracesefficacite24h_",
+      "name": "D\u00e9odorant Soin Amande Douce et Huile Essentielle de Sauge\u00a0 Le Petit Marseillais\u2122 50ml | Anti-traces | Efficacit\u00e9 24h | Livraison J+2",
+      "prix_base": 23800,
+      "prix_comparaison": 23800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_pursavonliquidealhuileessentieldelavandepetitmarseillais300mlfabricationalancienne_",
+      "name": "Pur savon liquide \u00e0 l\u2019huile essentielle de Lavande\u00a0Le Petit Marseillais\u2122 300ml | Fabrication \u00e0 l\u2019ancienne",
+      "prix_base": 21030,
+      "prix_comparaison": 21030,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_savonliquidealhuiledolivepetitmarseillais250mlfabricationalancienne_",
+      "name": "Recharge Savon Liquide \u00e0 l\u2019Huile d\u2019Olive Le Petit Marseillais\u2122 250ml | Fabrication \u00e0 l\u2019Ancienne",
+      "prix_base": 9280,
+      "prix_comparaison": 9280,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_saucesojasucreecarrefour125mlbouteilleenverre_",
+      "name": "Sauce soja sucr\u00e9e Carrefour\u2122 125ml | Bouteille en verre",
+      "prix_base": 9390,
+      "prix_comparaison": 9390,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_patesblanchesvermicellilongkou50g_",
+      "name": "Vermicelles Blanches de Riz LongKou\u2122 | 50g \u2013 P\u00e2tes blanches",
+      "prix_base": 1800,
+      "prix_comparaison": 1800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_vermicellesblanchesderizlongkou100gpatesblanches_",
+      "name": "Vermicelles Blanches de Riz LongKou\u2122 100g | P\u00e2tes blanches",
+      "prix_base": 3000,
+      "prix_comparaison": 3000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_galettederizpournemsetsambosx100_",
+      "name": "Galette de riz pour Nems et Sambos x100",
+      "prix_base": 17530,
+      "prix_comparaison": 17530,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_250mlpotcireorientaleenpotcarrefour_",
+      "name": "Cire orientale au sucre en pot Carrefour\u2122 250 g",
+      "prix_base": 23430,
+      "prix_comparaison": 23430,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_202618_",
+      "name": "Cassonade pure canne La Perruche BEGHIN SAY\u2122 750g | Sucre en poche verseur",
+      "prix_base": 16470,
+      "prix_comparaison": 16470,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3200,
+      "prix_comparaison": 3200,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sucreblancramatoa1kg_",
+      "name": "Sucre Blanc Ramatoa\u2122 1kg | Sucre de canne raffin\u00e9",
+      "prix_base": 9510,
+      "prix_comparaison": 9510,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sucredecannecarrefour1kgenmorceaux_",
+      "name": "Sucre de canne roux Simpl\u2122 1KG | en morceaux",
+      "prix_base": 19870,
+      "prix_comparaison": 19870,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sucrerouxramatoa1kg_",
+      "name": "Sucre Roux Ramatoa\u21221kg",
+      "prix_base": 8960,
+      "prix_comparaison": 8960,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sucreblanc1kg_",
+      "name": "Sucre blanc 1kg",
+      "prix_base": 6200,
+      "prix_comparaison": 6200,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huilenourrissanteargan50mltsara_",
+      "name": "Huile nourrissante Argan Tsara\u2122 50ml | R\u00e9pare et hydrate",
+      "prix_base": 6700,
+      "prix_comparaison": 6700,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huilenourrissantekarite50mltsara_",
+      "name": "Huile nourrissante karit\u00e9 Tsara\u2122 50ml | R\u00e9g\u00e9n\u00e8re et prot\u00e8ge",
+      "prix_base": 6440,
+      "prix_comparaison": 6440,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_insectesenmouvementsauteursophiefernversionfrancaiseeditionsnouveauxhorizons_",
+      "name": "Insectes en mouvements | Auteur: Sophie Fern | Version fran\u00e7aise | Editions Nouveaux Horizons",
+      "prix_base": 11150,
+      "prix_comparaison": 11150,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_cafesolublekopiko3en130g_",
+      "name": "Caf\u00e9 soluble 3 en 1 Kopiko\u2122 30g | 3 en 1 Caf\u00e9, lait et sucre | Dosette individuelle",
+      "prix_base": 1030,
+      "prix_comparaison": 1030,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_pateatartinerchocolatnoisettemaestro400gsanshuiledepalme_",
+      "name": "Pate \u00e0 Tartiner Chocolat Noisette Maestro\u2122 350g  | Sans huile de palme",
+      "prix_base": 14550,
+      "prix_comparaison": 14550,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_saucecruditecasino500mlvinaigrettealhuiledoliveetaucitron_",
+      "name": "Sauce crudit\u00e9 Casino\u2122 500ml | Vinaigrette \u00e0 l\u2019huile d\u2019olive et au citron",
+      "prix_base": 12860,
+      "prix_comparaison": 12860,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_kalvaryjosephdaf_",
+      "name": "Kalvary \u2013 Joseph d\u2019Af",
+      "prix_base": 500,
+      "prix_comparaison": 500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucreicefreshhollywood10pieces_",
+      "name": "Chewing-Gum Sans Sucre Ice Fresh Hollywood 10pi\u00e8ces",
+      "prix_base": 4500,
+      "prix_comparaison": 4500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucrepowerfreshhollywood10pieces_",
+      "name": "Chewing-Gum Sans Sucre Power Fresh Hollywood 10pi\u00e8ces",
+      "prix_base": 4500,
+      "prix_comparaison": 4500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucrestylecocktailhollywood12pieces_",
+      "name": "Chewing-Gum Sans Sucre Style Cocktail Hollywood 12pi\u00e8ces",
+      "prix_base": 7310,
+      "prix_comparaison": 7310,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3310,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedentbouteillede46dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent Bouteille de 46 Dragees",
+      "prix_base": 15380,
+      "prix_comparaison": 15380,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhefortefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3310,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhegivreefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Givr\u00e9e Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3310,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_wcfosseseptiquehorizontalblanc_",
+      "name": "WC Fosse S\u00e9ptique Horizontal Blanc",
+      "prix_base": 486540,
+      "prix_comparaison": 486540,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_vinaigrederizblanc625ml_",
+      "name": "Vinaigre de riz 625ml | Blanc",
+      "prix_base": 9870,
+      "prix_comparaison": 9870,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_gommageeclatexfolieenprofondeurcallibelle150mlalhuiledepepinsderaisin_",
+      "name": "Gommage Eclat Exfolie en profondeur Callibelle 150ml | \u00e0 l\u2019huile de p\u00e9pins de raisin",
+      "prix_base": 9230,
+      "prix_comparaison": 9230,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_gommageembellissantcallibelle150mlalhuiledarganbiofavoriselerenouvellementcellulaire_",
+      "name": "Gommage Embellissant Callibelle 150ml | \u00e0 l\u2019Huile d\u2019Argan Bio \u2013 Favorise le renouvellement Cellulaire",
+      "prix_base": 9230,
+      "prix_comparaison": 9230,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_gommageonctueuxcolorline150mlalhuiledargansmoothscrub_",
+      "name": "Gommage Onctueux Colorline150 ml | \u00e0 l\u2019Huile d\u2019Argan | Smooth Scrub",
+      "prix_base": 9740,
+      "prix_comparaison": 9740,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sacde25kgpourleriz_",
+      "name": "Sac de 25 kg pour le riz",
+      "prix_base": 800,
+      "prix_comparaison": 800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_packde6sardinealhuilevegetaledelmonaco125g_",
+      "name": "Pack de 6 Sardines \u00e0 l\u2019huile v\u00e9g\u00e9tale Delmonaco\u2122 125g",
+      "prix_base": 5600,
+      "prix_comparaison": 33600,
+      "variation": 28000,
+      "indice_prix": 600.0
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 4154,
+      "prix_comparaison": 105850,
+      "variation": 101696,
+      "indice_prix": 2548.1463649494463
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4154,
+      "prix_comparaison": 209700,
+      "variation": 205546,
+      "indice_prix": 5048.146364949446
+    }
+  ]
+}

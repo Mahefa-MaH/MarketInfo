@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "promo2023_4377chewinggumsanssucresblancheur10pieces_html",
+      "name": "Chewing-gum sans sucres blancheur 10 pi\u00e8ces",
+      "prix_base": 4200,
+      "prix_comparaison": 4200,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "huiles_8994huiledesoja1l_html",
+      "name": "Huile de soja 1L",
+      "prix_base": 15500,
+      "prix_comparaison": 15500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 8900,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
+      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
+      "prix_base": 3890,
+      "prix_comparaison": 3890,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_8358marqueurrougepourtableaublanc_html",
+      "name": "Marqueur rouge pour tableau blanc",
+      "prix_base": 900,
+      "prix_comparaison": 900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "vaissellesjetables_11965coffretmenagere18piecesrougedomedia_html",
+      "name": "Coffret m\u00e9nag\u00e8re 18 pi\u00e8ces rouge",
+      "prix_base": 15900,
+      "prix_comparaison": 15900,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

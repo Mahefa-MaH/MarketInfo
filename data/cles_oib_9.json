@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "sauceschaudessaucestomates_13425saucesojasucree300mlitinerairedessaveurs_html",
+      "name": "Sauce soja sucr\u00e9e 300ml",
+      "prix_base": 23900,
+      "prix_comparaison": 23900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "confituresetgelees_12814confitureextrade4fruitsrougesallegeeensucres335g_html",
+      "name": "Confiture extra de 4 fruits rouges all\u00e9g\u00e9e en sucres 335g",
+      "prix_base": 12900,
+      "prix_comparaison": 12900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "vaissellesjetables_1175325assiettesblanchesencanneasucreo18cmdomedia_html",
+      "name": "25 Assiettes blanches en canne \u00e0 sucre \u00d818cm",
+      "prix_base": 15900,
+      "prix_comparaison": 15900,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

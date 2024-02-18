@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "promo2023_1666sucreblancstick5g_html",
+      "name": "Sucre blanc stick 5g",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_7186savondemenageblancs24c24_html",
+      "name": "Savon de m\u00e9nage blanc S24 C24",
+      "prix_base": 600,
+      "prix_comparaison": 600,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_7187savondemenageblancs27c36_html",
+      "name": "Savon de m\u00e9nage blanc S27 C36",
+      "prix_base": 900,
+      "prix_comparaison": 900,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

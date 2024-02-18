@@ -1,0 +1,272 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "promo2023_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 7988000,
+      "prix_comparaison": 7780000,
+      "variation": -208000
+    },
+    {
+      "cle": "promo2023_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5663000,
+      "prix_comparaison": 5527000,
+      "variation": -136000
+    },
+    {
+      "cle": "promo2023_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6494000,
+      "prix_comparaison": 6365000,
+      "variation": -129000
+    },
+    {
+      "cle": "promo2023_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 5316000,
+      "prix_comparaison": 5188000,
+      "variation": -128000
+    },
+    {
+      "cle": "promo2023_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4609000,
+      "prix_comparaison": 4499000,
+      "variation": -110000
+    },
+    {
+      "cle": "promo2023_14645samsunggalaxys22128go5gvert_html",
+      "name": "SAMSUNG GALAXY S22 128Go 5G Vert",
+      "prix_base": 4022000,
+      "prix_comparaison": 3926000,
+      "variation": -96000
+    },
+    {
+      "cle": "promo2023_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 4470000,
+      "prix_comparaison": 4376000,
+      "variation": -94000
+    },
+    {
+      "cle": "promo2023_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3365000,
+      "prix_comparaison": 3285000,
+      "variation": -80000
+    },
+    {
+      "cle": "promo2023_14640iphone13128gomidnight_html",
+      "name": "iPhone 13 128Go Midnight",
+      "prix_base": 3376000,
+      "prix_comparaison": 3302000,
+      "variation": -74000
+    },
+    {
+      "cle": "promo2023_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2283000,
+      "prix_comparaison": 2234000,
+      "variation": -49000
+    },
+    {
+      "cle": "promo2023_14652xiaomipocom5s128go4gnoirredmibuds4litemipowerredmi_html",
+      "name": "XIAOMI POCO M5S 128Go 4G Noir + Redmi Buds 4 Lite + MI POWER REDMI",
+      "prix_base": 1257000,
+      "prix_comparaison": 1212000,
+      "variation": -45000
+    },
+    {
+      "cle": "promo2023_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1569000,
+      "prix_comparaison": 1532000,
+      "variation": -37000
+    },
+    {
+      "cle": "promo2023_14643xiaomiredmi12128go5gsilve_html",
+      "name": "XIAOMI Redmi 12 128Go 5G Silve",
+      "prix_base": 1076000,
+      "prix_comparaison": 1050000,
+      "variation": -26000
+    },
+    {
+      "cle": "promo2023_14641xiaomiredmi124128goargent_html",
+      "name": "XIAOMI - REDMI 12 4 - 128Go - ARGENT",
+      "prix_base": 984000,
+      "prix_comparaison": 960000,
+      "variation": -24000
+    },
+    {
+      "cle": "promo2023_14650xiaomiecouteurssansfilbluetoothredmibuds4active_html",
+      "name": "XIAOMI - Ecouteurs sans fil Bluetooth - Redmi Buds 4 Active",
+      "prix_base": 175000,
+      "prix_comparaison": 155000,
+      "variation": -20000
+    },
+    {
+      "cle": "promo2023_14651motorolag13128gonoir_html",
+      "name": "MOTOROLA G13 - 128 Go - Noir",
+      "prix_base": 987000,
+      "prix_comparaison": 967000,
+      "variation": -20000
+    },
+    {
+      "cle": "promo2023_13989remingtons8540feralisserlisseurkeratinprotectplaquesflottantesadvancedceramicsoinkeratinehuiledamande_html",
+      "name": "Remington S8540 Fer a lisser, Lisseur Keratin Protect, Plaques Flottantes Advanced Ceramic, Soin K\u00e9ratine Huile d'Amande",
+      "prix_base": 220000,
+      "prix_comparaison": 215000,
+      "variation": -5000
+    },
+    {
+      "cle": "promo2023_1088nectargoyavesucre1l_html",
+      "name": "Nectar goyave sucr\u00e9 1L",
+      "prix_base": 8500,
+      "prix_comparaison": 6900,
+      "variation": -1600
+    },
+    {
+      "cle": "promo2023_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 5900,
+      "variation": -1000
+    }
+  ],
+  "indice de prix": [
+    {
+      "cle": "promo2023_1088nectargoyavesucre1l_html",
+      "name": "Nectar goyave sucr\u00e9 1L",
+      "prix_base": 8500,
+      "prix_comparaison": 6900,
+      "indice_prix": 81.17647058823529
+    },
+    {
+      "cle": "promo2023_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 5900,
+      "indice_prix": 85.5072463768116
+    },
+    {
+      "cle": "promo2023_14650xiaomiecouteurssansfilbluetoothredmibuds4active_html",
+      "name": "XIAOMI - Ecouteurs sans fil Bluetooth - Redmi Buds 4 Active",
+      "prix_base": 175000,
+      "prix_comparaison": 155000,
+      "indice_prix": 88.57142857142857
+    },
+    {
+      "cle": "promo2023_14652xiaomipocom5s128go4gnoirredmibuds4litemipowerredmi_html",
+      "name": "XIAOMI POCO M5S 128Go 4G Noir + Redmi Buds 4 Lite + MI POWER REDMI",
+      "prix_base": 1257000,
+      "prix_comparaison": 1212000,
+      "indice_prix": 96.4200477326969
+    },
+    {
+      "cle": "promo2023_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 7988000,
+      "prix_comparaison": 7780000,
+      "indice_prix": 97.39609414121182
+    },
+    {
+      "cle": "promo2023_14641xiaomiredmi124128goargent_html",
+      "name": "XIAOMI - REDMI 12 4 - 128Go - ARGENT",
+      "prix_base": 984000,
+      "prix_comparaison": 960000,
+      "indice_prix": 97.5609756097561
+    },
+    {
+      "cle": "promo2023_14643xiaomiredmi12128go5gsilve_html",
+      "name": "XIAOMI Redmi 12 128Go 5G Silve",
+      "prix_base": 1076000,
+      "prix_comparaison": 1050000,
+      "indice_prix": 97.58364312267658
+    },
+    {
+      "cle": "promo2023_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 5316000,
+      "prix_comparaison": 5188000,
+      "indice_prix": 97.59217456734386
+    },
+    {
+      "cle": "promo2023_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5663000,
+      "prix_comparaison": 5527000,
+      "indice_prix": 97.59844605332863
+    },
+    {
+      "cle": "promo2023_14645samsunggalaxys22128go5gvert_html",
+      "name": "SAMSUNG GALAXY S22 128Go 5G Vert",
+      "prix_base": 4022000,
+      "prix_comparaison": 3926000,
+      "indice_prix": 97.61312779711587
+    },
+    {
+      "cle": "promo2023_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4609000,
+      "prix_comparaison": 4499000,
+      "indice_prix": 97.61336515513126
+    },
+    {
+      "cle": "promo2023_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3365000,
+      "prix_comparaison": 3285000,
+      "indice_prix": 97.6225854383358
+    },
+    {
+      "cle": "promo2023_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1569000,
+      "prix_comparaison": 1532000,
+      "indice_prix": 97.64181007010835
+    },
+    {
+      "cle": "promo2023_13989remingtons8540feralisserlisseurkeratinprotectplaquesflottantesadvancedceramicsoinkeratinehuiledamande_html",
+      "name": "Remington S8540 Fer a lisser, Lisseur Keratin Protect, Plaques Flottantes Advanced Ceramic, Soin K\u00e9ratine Huile d'Amande",
+      "prix_base": 220000,
+      "prix_comparaison": 215000,
+      "indice_prix": 97.72727272727273
+    },
+    {
+      "cle": "promo2023_14640iphone13128gomidnight_html",
+      "name": "iPhone 13 128Go Midnight",
+      "prix_base": 3376000,
+      "prix_comparaison": 3302000,
+      "indice_prix": 97.80805687203791
+    },
+    {
+      "cle": "promo2023_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2283000,
+      "prix_comparaison": 2234000,
+      "indice_prix": 97.85370127025843
+    },
+    {
+      "cle": "promo2023_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 4470000,
+      "prix_comparaison": 4376000,
+      "indice_prix": 97.89709172259508
+    },
+    {
+      "cle": "promo2023_14651motorolag13128gonoir_html",
+      "name": "MOTOROLA G13 - 128 Go - Noir",
+      "prix_base": 987000,
+      "prix_comparaison": 967000,
+      "indice_prix": 97.97365754812563
+    },
+    {
+      "cle": "promo2023_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6494000,
+      "prix_comparaison": 6365000,
+      "indice_prix": 98.01355097012627
+    }
+  ]
+}

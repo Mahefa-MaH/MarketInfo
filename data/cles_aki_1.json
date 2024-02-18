@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod006250",
+      "name": "TERRE ROUGE - Huile Sublime Baobab Moringa S\u00e9same - 50ml",
+      "prix_base": 71600,
+      "prix_comparaison": 71600,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod006255",
+      "name": "Terre Rouge - Huile d'Argan - 20ml",
+      "prix_base": 52900,
+      "prix_comparaison": 52900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod006249",
+      "name": "Terre Rouge - Huile V\u00e9g\u00e9tale Calophylle - 10ml",
+      "prix_base": 27500,
+      "prix_comparaison": 27500,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

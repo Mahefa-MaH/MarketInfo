@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "promo2023_7183savondemenageblancs3c30_html",
+      "name": "Savon de m\u00e9nage blanc S3 C30",
+      "prix_base": 550,
+      "prix_comparaison": 550,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_7184savondemenageblancs6c36_html",
+      "name": "Savon de m\u00e9nage blanc S6 C36",
+      "prix_base": 500,
+      "prix_comparaison": 500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_10482savondemenagemarseillebaobabfotsy_html",
+      "name": "Savon de m\u00e9nage Marseille Baobab fotsy",
+      "prix_base": 1500,
+      "prix_comparaison": 1500,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}
