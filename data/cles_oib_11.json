@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "promo2023_4377chewinggumsanssucresblancheur10pieces_html",
+      "name": "Chewing-gum sans sucres blancheur 10 pi\u00e8ces",
+      "prix_base": 4200,
+      "prix_comparaison": 4200,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_8358marqueurrougepourtableaublanc_html",
-      "name": "Marqueur rouge pour tableau blanc",
-      "prix_base": 900,
-      "prix_comparaison": 900,
+      "cle": "sucres_13804sucreenpoudre1kg_html",
+      "name": "Sucre blanc en poudre 1kg",
+      "prix_base": 11500,
+      "prix_comparaison": 11500,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "vaissellesjetables_11965coffretmenagere18piecesrougedomedia_html",
-      "name": "Coffret m\u00e9nag\u00e8re 18 pi\u00e8ces rouge",
-      "prix_base": 15900,
-      "prix_comparaison": 15900,
+      "cle": "promo2023_1666sucreblancstick5g_html",
+      "name": "Sucre blanc stick 5g",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
       "variation": 0,
       "indice_prix": 100.0
     }

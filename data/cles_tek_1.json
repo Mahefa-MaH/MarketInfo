@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "list_id": 10575,
+      "name": "Chaussette de No\u00ebl rouge et blanche",
+      "list_price_base": 9500,
+      "list_price_comparaison": 9500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "list_price_base": 6900,
+      "list_price_comparaison": 6900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 11107,
+      "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
+      "list_price_base": 184000,
+      "list_price_comparaison": 184000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

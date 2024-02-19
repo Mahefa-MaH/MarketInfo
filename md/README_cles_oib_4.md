@@ -2,21 +2,21 @@
 
 ## Varition et indice de prix
 
-1. **Chewing-gum sans sucres blancheur 10 pièces**
-   - Prix avant: 4,200 Ar
-   - Prix actuel: 4,200 Ar
+1. **Marqueur rouge pour tableau blanc**
+   - Prix avant: 900.00 Ar
+   - Prix actuel: 900.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Huile de soja 1L**
-   - Prix avant: 15,500 Ar
-   - Prix actuel: 15,500 Ar
+2. **Sucre blanc cristallisé 1kg**
+   - Prix avant: 5,900.00 Ar
+   - Prix actuel: 5,900.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Huile de soja Hina 1L**
-   - Prix avant: 8,900 Ar
-   - Prix actuel: 8,900 Ar
+3. **Yaourt brasse sucré pomme rouge 100g**
+   - Prix avant: 990.00 Ar
+   - Prix actuel: 990.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

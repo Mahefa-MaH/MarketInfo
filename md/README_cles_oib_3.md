@@ -2,21 +2,21 @@
 
 ## Varition et indice de prix
 
-1. **Savon de ménage blanc S3 C30**
-   - Prix avant: 550 Ar
-   - Prix actuel: 550 Ar
+1. **Confiture extra de 4 fruits rouges allégée en sucres 335g**
+   - Prix avant: 12,900.00 Ar
+   - Prix actuel: 12,900.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Savon de ménage blanc S6 C36**
-   - Prix avant: 500 Ar
-   - Prix actuel: 500 Ar
+2. **Sucre blanc en morceaux 1kg**
+   - Prix avant: 14,900.00 Ar
+   - Prix actuel: 14,900.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Savon de ménage Marseille Baobab fotsy**
-   - Prix avant: 1,500 Ar
-   - Prix actuel: 1,500 Ar
+3. **Détartrant ménager rouge 1L**
+   - Prix avant: 3,890.00 Ar
+   - Prix actuel: 3,890.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

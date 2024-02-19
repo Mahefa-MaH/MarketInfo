@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_7183savondemenageblancs3c30_html",
-      "name": "Savon de m\u00e9nage blanc S3 C30",
-      "prix_base": 550,
-      "prix_comparaison": 550,
+      "cle": "confituresetgelees_12814confitureextrade4fruitsrougesallegeeensucres335g_html",
+      "name": "Confiture extra de 4 fruits rouges all\u00e9g\u00e9e en sucres 335g",
+      "prix_base": 12900,
+      "prix_comparaison": 12900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_7184savondemenageblancs6c36_html",
-      "name": "Savon de m\u00e9nage blanc S6 C36",
-      "prix_base": 500,
-      "prix_comparaison": 500,
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14900,
+      "prix_comparaison": 14900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_10482savondemenagemarseillebaobabfotsy_html",
-      "name": "Savon de m\u00e9nage Marseille Baobab fotsy",
-      "prix_base": 1500,
-      "prix_comparaison": 1500,
+      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
+      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
+      "prix_base": 3890,
+      "prix_comparaison": 3890,
       "variation": 0,
       "indice_prix": 100.0
     }

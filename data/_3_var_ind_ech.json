@@ -31,18 +31,18 @@
       "variation": -695750
     },
     {
+      "cle": "produit_rondellesdecourgettes_",
+      "name": "Courgettes Pr\u00eat \u00e0 cuisiner | 200g \u2013  en Rondelles",
+      "prix_base": 517500,
+      "prix_comparaison": 0,
+      "variation": -517500
+    },
+    {
       "cle": "produit_pack6sardinesalasaucetomateanny125g_",
       "name": "Pack de 6 Sardines \u00e0 la sauce tomate Anny\u2122 125g",
       "prix_base": 243590,
       "prix_comparaison": 0,
       "variation": -243590
-    },
-    {
-      "cle": "produit_packde6minisaltooriginaldelicieuxetcraquantbiscuits_",
-      "name": "Pack de 6 mini Salto\u2122 original | D\u00e9licieux et craquant biscuits",
-      "prix_base": 224250,
-      "prix_comparaison": 0,
-      "variation": -224250
     }
   ],
   "indices_prix_plus_eleves": [
@@ -77,16 +77,16 @@
       "indice_prix": 0.0
     },
     {
-      "cle": "produit_packde6minisaltooriginaldelicieuxetcraquantbiscuits_",
-      "name": "Pack de 6 mini Salto\u2122 original | D\u00e9licieux et craquant biscuits",
-      "prix_base": 224250,
+      "cle": "produit_rondellesdecourgettes_",
+      "name": "Courgettes Pr\u00eat \u00e0 cuisiner | 200g \u2013  en Rondelles",
+      "prix_base": 517500,
       "prix_comparaison": 0,
       "indice_prix": 0.0
     },
     {
-      "cle": "produit_packde7kobaainagoutfraise35gdes6mois_",
-      "name": "Pack de 7 Koba Aina go\u00fbt Fraise 35g | D\u00e8s 6 mois",
-      "prix_base": 695750,
+      "cle": "produit_oignonsendes200g_",
+      "name": "Oignons Pr\u00eat \u00e0 cuisiner | 200g \u2013  en D\u00e9s",
+      "prix_base": 900,
       "prix_comparaison": 0,
       "indice_prix": 0.0
     }

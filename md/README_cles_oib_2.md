@@ -2,21 +2,21 @@
 
 ## Varition et indice de prix
 
-1. **Sucre blanc stick 5g**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 8,000 Ar
+1. **Savon de ménage blanc S6 C36**
+   - Prix avant: 500.00 Ar
+   - Prix actuel: 500.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Savon de ménage blanc S24 C24**
-   - Prix avant: 600 Ar
-   - Prix actuel: 600 Ar
+2. **Savon de ménage Marseille Baobab fotsy**
+   - Prix avant: 1,500.00 Ar
+   - Prix actuel: 1,500.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Savon de ménage blanc S27 C36**
-   - Prix avant: 900 Ar
-   - Prix actuel: 900 Ar
+3. **Sauce soja sucrée 300ml**
+   - Prix avant: 23,900.00 Ar
+   - Prix actuel: 23,900.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

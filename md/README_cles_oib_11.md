@@ -2,21 +2,21 @@
 
 ## Varition et indice de prix
 
-1. **Détartrant ménager rouge 1L**
-   - Prix avant: 3,890 Ar
-   - Prix actuel: 3,890 Ar
+1. **Chewing-gum sans sucres blancheur 10 pièces**
+   - Prix avant: 4,200.00 Ar
+   - Prix actuel: 4,200.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Marqueur rouge pour tableau blanc**
-   - Prix avant: 900 Ar
-   - Prix actuel: 900 Ar
+2. **Sucre blanc en poudre 1kg**
+   - Prix avant: 11,500.00 Ar
+   - Prix actuel: 11,500.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Coffret ménagère 18 pièces rouge**
-   - Prix avant: 15,900 Ar
-   - Prix actuel: 15,900 Ar
+3. **Sucre blanc stick 5g**
+   - Prix avant: 8,000.00 Ar
+   - Prix actuel: 8,000.00 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
