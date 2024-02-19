@@ -2,19 +2,19 @@
 
 ## Varition et indice de prix
 
-1. **Chaussette de Noël rouge et blanche**
+1. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
    - Prix avant: N/A Ar
    - Prix actuel: N/A Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre Blanc Cristallisé 1 Kg**
+2. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
    - Prix avant: N/A Ar
    - Prix actuel: N/A Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
+3. **Riz blanc parfumé 5 kg**
    - Prix avant: N/A Ar
    - Prix actuel: N/A Ar
    - Variation: 0 Ar

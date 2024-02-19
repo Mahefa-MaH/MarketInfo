@@ -2,13 +2,13 @@
 
 ## Varition et indice de prix
 
-1. **Sauce soja sucrée 125 ml**
+1. **Huile De Soja 1 L**
    - Prix avant: N/A Ar
    - Prix actuel: N/A Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre Blanc Brésilien En Sac De 50 Kg**
+2. **Huile De Soja 1 L**
    - Prix avant: N/A Ar
    - Prix actuel: N/A Ar
    - Variation: 0 Ar

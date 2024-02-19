@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "list_id": 10575,
+      "name": "Chaussette de No\u00ebl rouge et blanche",
+      "price_base": 9500,
+      "price_comparaison": 9500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "price_base": 6300,
+      "price_comparaison": 6300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 9685,
+      "name": "Sucrettes blanches 100 pi\u00e8ces 3 g",
+      "price_base": 13100,
+      "price_comparaison": 13100,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

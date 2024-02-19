@@ -1,0 +1,88 @@
+{
+  "prix_augmentes": [
+    {
+      "list_id": 9862,
+      "price_base": 42500,
+      "price_comparaison": 8371200,
+      "variation": 8328700
+    },
+    {
+      "list_id": 9861,
+      "price_base": 97200,
+      "price_comparaison": 8371200,
+      "variation": 8274000
+    },
+    {
+      "list_id": 9855,
+      "price_base": 144000,
+      "price_comparaison": 8371200,
+      "variation": 8227200
+    }
+  ],
+  "prix_diminues": [
+    {
+      "list_id": 6328,
+      "price_base": 14151700,
+      "price_comparaison": 436000,
+      "variation": -13715700
+    },
+    {
+      "list_id": 6299,
+      "price_base": 12701500,
+      "price_comparaison": 436000,
+      "variation": -12265500
+    },
+    {
+      "list_id": 9906,
+      "price_base": 10464000,
+      "price_comparaison": 897000,
+      "variation": -9567000
+    }
+  ],
+  "indices_prix_plus_eleves": [
+    {
+      "list_id": 7264,
+      "name": "sac de classement A4 transparents",
+      "prix_base": 1000,
+      "prix_comparaison": 938900,
+      "indice_prix": 93890.0
+    },
+    {
+      "list_id": 4427,
+      "name": "Double d\u00e9cim\u00e8tre Cristal 20 cm",
+      "prix_base": 1400,
+      "prix_comparaison": 436000,
+      "indice_prix": 31142.85714285714
+    },
+    {
+      "list_id": 4220,
+      "name": "Biscuits fourr\u00e9s au chocolat/fraise/vanille",
+      "prix_base": 300,
+      "prix_comparaison": 75000,
+      "indice_prix": 25000.0
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "list_id": 8580,
+      "name": "Table direction 6849 2,2 m",
+      "prix_base": 7475000,
+      "prix_comparaison": 11200,
+      "indice_prix": 0.14983277591973243
+    },
+    {
+      "list_id": 6290,
+      "name": "R\u00e9frig\u00e9rateur Combin\u00e9 A3FE743CPJ Platinium 431 L",
+      "prix_base": 6469200,
+      "prix_comparaison": 18700,
+      "indice_prix": 0.2890620169418166
+    },
+    {
+      "list_id": 10371,
+      "name": "jouet Bateau pirates",
+      "prix_base": 766600,
+      "prix_comparaison": 2500,
+      "indice_prix": 0.32611531437516306
+    }
+  ]
+}
