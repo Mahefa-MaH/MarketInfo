@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "list_id": 12923,
+      "name": "Riz blanc parfum\u00e9 5 kg",
+      "prix_base": 40800,
+      "prix_comparaison": 40800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 12650,
       "name": "Sauce soja sucr\u00e9e 125 ml",
       "prix_base": 15100,
@@ -13,14 +21,6 @@
       "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
       "prix_base": 249300,
       "prix_comparaison": 249300,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 3826,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 7300,
-      "prix_comparaison": 7300,
       "variation": 0,
       "indice_prix": 100.0
     }

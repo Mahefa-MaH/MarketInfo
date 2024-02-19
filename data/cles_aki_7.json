@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod000424",
-      "name": "Riz Rouge (kg)",
-      "prix_base": 3300,
-      "prix_comparaison": 3300,
+      "cle": "home_jspbutvente_fichecleproduitprod000425",
+      "name": "Sucre Blanc (kg)",
+      "prix_base": 5400,
+      "prix_comparaison": 5400,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod006257",
-      "name": "TERRE ROUGE- Gel Contour des yeux aux huiles essentiels- 30 ml",
-      "prix_base": 85800,
-      "prix_comparaison": 85800,
+      "cle": "home_jspbutvente_fichecleproduitprod000424",
+      "name": "Riz Rouge (kg)",
+      "prix_base": 3300,
+      "prix_comparaison": 3300,
       "variation": 0,
       "indice_prix": 100.0
     }

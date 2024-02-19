@@ -2,9 +2,9 @@
 
 ## Varition et indice de prix
 
-1. **Sauce soja sucrée Carrefour™ 125ml | Bouteille en verre**
-   - Prix avant: 9,390 Ar
-   - Prix actuel: 9,390 Ar
+1. **Bouquet de roses rouges et blanches | fleurs fraiches**
+   - Prix avant: 20,000 Ar
+   - Prix actuel: 20,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 4154,
-      "prix_comparaison": 4154,
+      "cle": "produit_saucesojasucreecarrefour125mlbouteilleenverre_",
+      "name": "Sauce soja sucr\u00e9e Carrefour\u2122 125ml | Bouteille en verre",
+      "prix_base": 9390,
+      "prix_comparaison": 9390,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_filozofiamalagasyauteurprahajarizafyversionmalagasy_",
-      "name": "Filozofia malagasy | Auteur: P. Rahajarizafy | Version malagasy",
-      "prix_base": 22230,
-      "prix_comparaison": 22230,
+      "cle": "produit_vinaigrederizblanc625ml_",
+      "name": "Vinaigre de riz 625ml | Blanc",
+      "prix_base": 9870,
+      "prix_comparaison": 9870,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_haricotrougefrais1kapoakatsaramasomenalena_",
-      "name": "Haricots rouges frais 250 g | Tsaramaso mena lena",
-      "prix_base": 2000,
-      "prix_comparaison": 2000,
+      "cle": "produit_huilesoja1l_",
+      "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
+      "prix_base": 10210,
+      "prix_comparaison": 10210,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_saucesojasucreecarrefour125mlbouteilleenverre_",
-      "name": "Sauce soja sucr\u00e9e Carrefour\u2122 125ml | Bouteille en verre",
-      "prix_base": 9390,
-      "prix_comparaison": 9390,
+      "cle": "produit_bouquetderosesrougesetblanchesfleursfraiches_",
+      "name": "Bouquet de roses rouges et blanches | fleurs fraiches",
+      "prix_base": 20000,
+      "prix_comparaison": 20000,
       "variation": 0,
       "indice_prix": 100.0
     },
