@@ -2,40 +2,40 @@
   "prix_augmentes": [
     {
       "list_id": 9862,
-      "price_base": 42500,
-      "price_comparaison": 8371200,
+      "prix_base": 42500,
+      "prix_comparaison": 8371200,
       "variation": 8328700
     },
     {
       "list_id": 9861,
-      "price_base": 97200,
-      "price_comparaison": 8371200,
+      "prix_base": 97200,
+      "prix_comparaison": 8371200,
       "variation": 8274000
     },
     {
       "list_id": 9855,
-      "price_base": 144000,
-      "price_comparaison": 8371200,
+      "prix_base": 144000,
+      "prix_comparaison": 8371200,
       "variation": 8227200
     }
   ],
   "prix_diminues": [
     {
       "list_id": 6328,
-      "price_base": 14151700,
-      "price_comparaison": 436000,
+      "prix_base": 14151700,
+      "prix_comparaison": 436000,
       "variation": -13715700
     },
     {
       "list_id": 6299,
-      "price_base": 12701500,
-      "price_comparaison": 436000,
+      "prix_base": 12701500,
+      "prix_comparaison": 436000,
       "variation": -12265500
     },
     {
       "list_id": 9906,
-      "price_base": 10464000,
-      "price_comparaison": 897000,
+      "prix_base": 10464000,
+      "prix_comparaison": 897000,
       "variation": -9567000
     }
   ],

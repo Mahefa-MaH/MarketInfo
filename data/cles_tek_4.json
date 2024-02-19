@@ -3,24 +3,24 @@
     {
       "list_id": 370,
       "name": "Sucre Blanc 250 g",
-      "price_base": 2800,
-      "price_comparaison": 2800,
+      "prix_base": 2800,
+      "prix_comparaison": 2800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
       "list_id": 10663,
       "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "price_base": 6900,
-      "price_comparaison": 6900,
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
       "list_id": 8528,
       "name": "Riz blanc import de Inde 50 kg",
-      "price_base": 143000,
-      "price_comparaison": 143000,
+      "prix_base": 143000,
+      "prix_comparaison": 143000,
       "variation": 0,
       "indice_prix": 100.0
     }

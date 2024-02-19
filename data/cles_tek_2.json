@@ -3,24 +3,24 @@
     {
       "list_id": 12650,
       "name": "Sauce soja sucr\u00e9e 125 ml",
-      "price_base": 15100,
-      "price_comparaison": 15100,
+      "prix_base": 15100,
+      "prix_comparaison": 15100,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
       "list_id": 3824,
       "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "price_base": 249300,
-      "price_comparaison": 249300,
+      "prix_base": 249300,
+      "prix_comparaison": 249300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
       "list_id": 3826,
       "name": "Sucre Blanc 1 Kg",
-      "price_base": 7300,
-      "price_comparaison": 7300,
+      "prix_base": 7300,
+      "prix_comparaison": 7300,
       "variation": 0,
       "indice_prix": 100.0
     }

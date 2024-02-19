@@ -3,8 +3,8 @@
     {
       "list_id": 9687,
       "name": "Sucre blanc 1 kg",
-      "price_base": 6900,
-      "price_comparaison": 6900,
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     }

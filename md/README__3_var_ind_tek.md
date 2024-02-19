@@ -3,35 +3,35 @@
 ## Prix augmentés
 
 1. **N/A**
-   - Prix avant: N/A Ar
-   - Prix actuel: N/A Ar
+   - Prix avant: 42,500 Ar
+   - Prix actuel: 8,371,200 Ar
    - Variation: +8,328,700 Ar
 
 2. **N/A**
-   - Prix avant: N/A Ar
-   - Prix actuel: N/A Ar
+   - Prix avant: 97,200 Ar
+   - Prix actuel: 8,371,200 Ar
    - Variation: +8,274,000 Ar
 
 3. **N/A**
-   - Prix avant: N/A Ar
-   - Prix actuel: N/A Ar
+   - Prix avant: 144,000 Ar
+   - Prix actuel: 8,371,200 Ar
    - Variation: +8,227,200 Ar
 
 ## Prix diminués
 
 1. **N/A**
-   - Prix avant: N/A Ar
-   - Prix actuel: N/A Ar
+   - Prix avant: 14,151,700 Ar
+   - Prix actuel: 436,000 Ar
    - Variation: -13,715,700 Ar
 
 2. **N/A**
-   - Prix avant: N/A Ar
-   - Prix actuel: N/A Ar
+   - Prix avant: 12,701,500 Ar
+   - Prix actuel: 436,000 Ar
    - Variation: -12,265,500 Ar
 
 3. **N/A**
-   - Prix avant: N/A Ar
-   - Prix actuel: N/A Ar
+   - Prix avant: 10,464,000 Ar
+   - Prix actuel: 897,000 Ar
    - Variation: -9,567,000 Ar
 
 ## Indices de prix plus élevés
