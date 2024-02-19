@@ -1,12 +1,12 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8197,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9300,
-      "prix_comparaison": 9700,
-      "variation": 400,
-      "indice_prix": 104.3010752688172
+      "list_id": 9687,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

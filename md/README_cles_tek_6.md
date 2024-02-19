@@ -2,9 +2,9 @@
 
 ## Varition et indice de prix
 
-1. **Huile De Soja 1 L**
-   - Prix avant: 9,300 Ar
-   - Prix actuel: 9,700 Ar
-   - Variation: +400 Ar
-   - Indice de prix : 104.30
+1. **Sucre blanc 1 kg**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 6,900 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 

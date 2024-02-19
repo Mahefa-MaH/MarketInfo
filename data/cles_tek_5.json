@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "list_id": 10575,
+      "name": "Chaussette de No\u00ebl rouge et blanche",
+      "prix_base": 9500,
+      "prix_comparaison": 9500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 9679,
       "name": "Sucrettes blanches  50 g",
       "prix_base": 6300,
@@ -13,14 +21,6 @@
       "name": "Sucrettes blanches 100 pi\u00e8ces 3 g",
       "prix_base": 13100,
       "prix_comparaison": 13100,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     }
