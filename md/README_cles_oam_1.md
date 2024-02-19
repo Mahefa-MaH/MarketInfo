@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **DISNEY Mickey Cape de bain - 80 x 80 cm Blanc/Rouge**
-   - Prix avant: 163,000 Ar
-   - Prix actuel: 163,000 Ar
+3. **Réfrigérateur américain SAMSUNG - RF18A5202SL - Multiportes - 495L - L82cm - Inox**
+   - Prix avant: 10,010,000 Ar
+   - Prix actuel: 10,010,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

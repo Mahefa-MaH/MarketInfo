@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **WC Fosse Séptique Horizontal Blanc**
-   - Prix avant: 486,540 Ar
-   - Prix actuel: 486,540 Ar
+2. **Filozofia malagasy | Auteur: P. Rahajarizafy | Version malagasy**
+   - Prix avant: 22,230 Ar
+   - Prix actuel: 22,230 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Marqueur effaçable Rouge pour tableau blanc Dollar™**
-   - Prix avant: 1,300 Ar
-   - Prix actuel: 1,300 Ar
+3. **Marqueur tableau blanc chisel rouge**
+   - Prix avant: 2,050 Ar
+   - Prix actuel: 2,050 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

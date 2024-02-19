@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod006250",
-      "name": "TERRE ROUGE - Huile Sublime Baobab Moringa S\u00e9same - 50ml",
-      "prix_base": 71600,
-      "prix_comparaison": 71600,
+      "cle": "home_jspbutvente_fichecleproduitprod006709",
+      "name": "Hina - huile de soja - 1 l",
+      "prix_base": 8900,
+      "prix_comparaison": 8900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod006255",
-      "name": "Terre Rouge - Huile d'Argan - 20ml",
-      "prix_base": 52900,
-      "prix_comparaison": 52900,
+      "cle": "home_jspbutvente_fichecleproduitprod000576",
+      "name": "Riz de tabe blanc Makalioka",
+      "prix_base": 3300,
+      "prix_comparaison": 3300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod006249",
-      "name": "Terre Rouge - Huile V\u00e9g\u00e9tale Calophylle - 10ml",
-      "prix_base": 27500,
-      "prix_comparaison": 27500,
+      "cle": "home_jspbutvente_fichecleproduitprod000425",
+      "name": "Sucre Blanc (kg)",
+      "prix_base": 5400,
+      "prix_comparaison": 5400,
       "variation": 0,
       "indice_prix": 100.0
     }

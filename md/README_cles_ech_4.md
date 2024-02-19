@@ -2,15 +2,21 @@
 
 ## Varition de prix
 
-1. **Vermicelles Blanches de Riz LongKou™ | 50g – Pâtes blanches**
-   - Prix avant: 1,800 Ar
-   - Prix actuel: 1,800 Ar
+1. **Marqueur tableau blanc rouge**
+   - Prix avant: 2,050 Ar
+   - Prix actuel: 2,050 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Vermicelles Blanches de Riz LongKou™ 100g | Pâtes blanches**
-   - Prix avant: 3,000 Ar
-   - Prix actuel: 3,000 Ar
+2. **Chewing-Gum Sans Sucre Blancheur Hollywood 10pièces**
+   - Prix avant: 4,500 Ar
+   - Prix actuel: 4,500 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **WC Fosse Séptique Horizontal Blanc**
+   - Prix avant: 486,540 Ar
+   - Prix actuel: 486,540 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_bouquetderosesrougesetblanchesfleursfraiches_",
-      "name": "Bouquet de roses rouges et blanches | fleurs fraiches",
-      "prix_base": 20000,
-      "prix_comparaison": 20000,
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3200,
+      "prix_comparaison": 3200,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_wcfosseseptiquehorizontalblanc_",
-      "name": "WC Fosse S\u00e9ptique Horizontal Blanc",
-      "prix_base": 486540,
-      "prix_comparaison": 486540,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "produit_vinaigrederizblanc625ml_",
-      "name": "Vinaigre de riz 625ml | Blanc",
-      "prix_base": 9870,
-      "prix_comparaison": 9870,
+      "cle": "produit_sucreblancramatoa1kg_",
+      "name": "Sucre Blanc Ramatoa\u2122 1kg | Sucre de canne raffin\u00e9",
+      "prix_base": 9510,
+      "prix_comparaison": 9510,
       "variation": 0,
       "indice_prix": 100.0
     }

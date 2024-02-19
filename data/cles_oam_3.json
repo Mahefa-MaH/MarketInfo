@@ -1,0 +1,20 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "sortiedebainponchodebain_16487disneymickeycapedebain80x80cmblancrouge3148801024201_html",
+      "name": "DISNEY Mickey Cape de bain - 80 x 80 cm Blanc/Rouge",
+      "prix_base": 163000,
+      "prix_comparaison": 163000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "refrigerateuramericain_5356samsungrf24r7201srru00e9frigu00e9rateurmultiporte510l348l123l39lfroidventilu00e9plusl908cmxh1777c8801643678708_html",
+      "name": "SAMSUNG RF24R7201SR - R\u00e9frig\u00e9rateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventil\u00e9 plus - L90,8cm x H177,7 cm - Inox",
+      "prix_base": 17179000,
+      "prix_comparaison": 17179000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "promo2023_14618ecranpcgamerviewsonicvx2718pmhd27fhddalleva1ms165hzhdmidisplayport_html",
-      "name": "Ecran PC Gamer - VIEWSONIC VX2718-P-MHD - 27 FHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort",
-      "prix_base": 1199000,
-      "prix_comparaison": 1501000,
-      "variation": 302000
+      "cle": "promo2023_14679476appleiphone11proreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11 Pro\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1710000,
+      "prix_comparaison": 1900000,
+      "variation": 190000
     },
     {
-      "cle": "promo2023_14626liseusenumriquetouchlux5vivliorouge68go758x1024212ppi_html",
-      "name": "Liseuse Num\u008erique Touch Lux 5 - VIVLIO - Rouge - 6 - 8 Go - 758 x 1024 (212 ppi)",
-      "prix_base": 785000,
-      "prix_comparaison": 927000,
-      "variation": 142000
-    },
-    {
-      "cle": "promo2023_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
-      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
-      "prix_base": 348000,
-      "prix_comparaison": 360000,
-      "variation": 12000
+      "cle": "promo2023_14571serumlissantantirides30ml_html",
+      "name": "S\u00e9rum lissant anti-rides 30ml",
+      "prix_base": 260000,
+      "prix_comparaison": 325000,
+      "variation": 65000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "consoles_14600consoleasusrogally7fhdtactileamdryzenz1extremeram16go512gossdwindows11_html",
-      "name": "Console ASUS ROG Ally | 7 FHD Tactile - AMD Ryzen Z1 Extreme - RAM 16Go - 512Go SSD - Windows 11",
-      "prix_base": 4800000,
-      "prix_comparaison": 3833000,
-      "variation": -967000
+      "cle": "promo2023_8846easypackpilon1kg_html",
+      "name": "Pilon de poulet Easy pack 1kg",
+      "prix_base": 29000,
+      "prix_comparaison": 22500,
+      "variation": -6500
     },
     {
-      "cle": "promo2023_14601consoleplaystation5editionstandardmodeleslim_html",
-      "name": "Console PlayStation 5 - Edition Standard (Modele Slim)",
-      "prix_base": 3500000,
-      "prix_comparaison": 3061000,
-      "variation": -439000
-    },
-    {
-      "cle": "promo2023_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
-      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
-      "prix_base": 7988000,
-      "prix_comparaison": 7780000,
-      "variation": -208000
+      "cle": "fromagesduresetrapes_2143fromageemmentalensachetrape60g_html",
+      "name": "Fromage emmental en sachet r\u00e2p\u00e9 60g",
+      "prix_base": 6500,
+      "prix_comparaison": 5900,
+      "variation": -600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "promo2023_14618ecranpcgamerviewsonicvx2718pmhd27fhddalleva1ms165hzhdmidisplayport_html",
-      "name": "Ecran PC Gamer - VIEWSONIC VX2718-P-MHD - 27 FHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort",
-      "prix_base": 1199000,
-      "prix_comparaison": 1501000,
-      "indice_prix": 125.18765638031694
+      "cle": "promo2023_8633liquidepurificateurdeau150ml_html",
+      "name": "Liquide purificateur d'eau 150ml",
+      "prix_base": 790,
+      "prix_comparaison": 990,
+      "indice_prix": 125.31645569620254
     },
     {
-      "cle": "promo2023_14626liseusenumriquetouchlux5vivliorouge68go758x1024212ppi_html",
-      "name": "Liseuse Num\u008erique Touch Lux 5 - VIVLIO - Rouge - 6 - 8 Go - 758 x 1024 (212 ppi)",
-      "prix_base": 785000,
-      "prix_comparaison": 927000,
-      "indice_prix": 118.08917197452229
-    },
-    {
-      "cle": "promo2023_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
-      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
-      "prix_base": 348000,
-      "prix_comparaison": 360000,
-      "indice_prix": 103.44827586206897
+      "cle": "promo2023_14547soinnuitheliagreen_html",
+      "name": "Soin nuit HELIAGREEN",
+      "prix_base": 156000,
+      "prix_comparaison": 195000,
+      "indice_prix": 125.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "promo2023_6558ketchup5kg_html",
-      "name": "Ketchup 5kg",
-      "prix_base": 59500,
-      "prix_comparaison": 35000,
-      "indice_prix": 58.8235294117647
+      "cle": "promo2023_8846easypackpilon1kg_html",
+      "name": "Pilon de poulet Easy pack 1kg",
+      "prix_base": 29000,
+      "prix_comparaison": 22500,
+      "indice_prix": 77.58620689655173
     },
     {
-      "cle": "promo2023_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 9350,
-      "prix_comparaison": 6000,
-      "indice_prix": 64.1711229946524
-    },
-    {
-      "cle": "promo2023_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 5450,
-      "prix_comparaison": 3500,
-      "indice_prix": 64.22018348623853
+      "cle": "promo2023_14205yaourtcoeurpatissiercocoexquis100g_html",
+      "name": "Yaourt c\u0153ur p\u00e2tissier coco exquis 100g",
+      "prix_base": 1790,
+      "prix_comparaison": 1590,
+      "indice_prix": 88.8268156424581
     }
   ]
 }

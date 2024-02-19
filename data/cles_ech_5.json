@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_marqueurtableaublancchiselrouge_",
-      "name": "Marqueur tableau blanc chisel rouge",
-      "prix_base": 2050,
-      "prix_comparaison": 2050,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "produit_marqueurtableaublancrouge_",
-      "name": "Marqueur tableau blanc rouge",
-      "prix_base": 2050,
-      "prix_comparaison": 2050,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "produit_marqueurpourtableaublancrougedollar_",
       "name": "Marqueur effa\u00e7able Rouge pour tableau blanc Dollar\u2122",
       "prix_base": 1300,
       "prix_comparaison": 1300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_patesblanchesvermicellilongkou50g_",
+      "name": "Vermicelles Blanches de Riz LongKou\u2122 | 50g \u2013 P\u00e2tes blanches",
+      "prix_base": 1800,
+      "prix_comparaison": 1800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_vermicellesblanchesderizlongkou100gpatesblanches_",
+      "name": "Vermicelles Blanches de Riz LongKou\u2122 100g | P\u00e2tes blanches",
+      "prix_base": 3000,
+      "prix_comparaison": 3000,
       "variation": 0,
       "indice_prix": 100.0
     }
