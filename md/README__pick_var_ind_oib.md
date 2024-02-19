@@ -97,9 +97,9 @@
    - Prix actuel: 5,900 Ar
    - Variation: -1,000 Ar
 
-## 
 
-Indice de prix
+
+## Indice de prix
 
 1. **Nectar goyave sucré 1L**
    - Prix avant: 8,500 Ar

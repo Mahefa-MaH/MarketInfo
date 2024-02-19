@@ -27,9 +27,9 @@
    - Prix actuel: 9,700 Ar
    - Variation: +400 Ar
 
-## 
 
-Indice de prix
+
+## Indice de prix
 
 1. **Huile De Tournesol 1 L**
    - Prix avant: 14,500 Ar
