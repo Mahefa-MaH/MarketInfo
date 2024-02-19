@@ -13,6 +13,13 @@
       "prix_base": 260000,
       "prix_comparaison": 325000,
       "variation": 65000
+    },
+    {
+      "cle": "promo2023_14572cremeantiageantitaches50ml_html",
+      "name": "Cr\u00e8me anti-\u00e2ge anti-t\u00e2ches 50ml",
+      "prix_base": 220000,
+      "prix_comparaison": 275000,
+      "variation": 55000
     }
   ],
   "prix_diminues": [
@@ -29,9 +36,23 @@
       "prix_base": 6500,
       "prix_comparaison": 5900,
       "variation": -600
+    },
+    {
+      "cle": "promo2023_14205yaourtcoeurpatissiercocoexquis100g_html",
+      "name": "Yaourt c\u0153ur p\u00e2tissier coco exquis 100g",
+      "prix_base": 1790,
+      "prix_comparaison": 1590,
+      "variation": -200
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "promo2023_2682tablettedechocolatnoirextra100g_html",
+      "name": "Tablette de chocolat noir extra 100g",
+      "prix_base": 4100,
+      "prix_comparaison": 5200,
+      "indice_prix": 126.82926829268293
+    },
     {
       "cle": "promo2023_8633liquidepurificateurdeau150ml_html",
       "name": "Liquide purificateur d'eau 150ml",
@@ -58,6 +79,13 @@
     {
       "cle": "promo2023_14205yaourtcoeurpatissiercocoexquis100g_html",
       "name": "Yaourt c\u0153ur p\u00e2tissier coco exquis 100g",
+      "prix_base": 1790,
+      "prix_comparaison": 1590,
+      "indice_prix": 88.8268156424581
+    },
+    {
+      "cle": "promo2023_14207yaourtcoeurpatissiernoisette100g_html",
+      "name": "Yaourt c\u0153ur p\u00e2tissier noisette 100g",
       "prix_base": 1790,
       "prix_comparaison": 1590,
       "indice_prix": 88.8268156424581

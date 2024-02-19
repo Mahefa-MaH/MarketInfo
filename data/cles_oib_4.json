@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_8358marqueurrougepourtableaublanc_html",
-      "name": "Marqueur rouge pour tableau blanc",
-      "prix_base": 900,
-      "prix_comparaison": 900,
+      "cle": "promo2023_7474rizrougecomplet5kg_html",
+      "name": "Riz rouge complet 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 5900,
-      "prix_comparaison": 5900,
+      "cle": "promo2023_4952rizdeluxemakalioka5kg_html",
+      "name": "Riz de luxe Makalioka 5kg",
+      "prix_base": 19550,
+      "prix_comparaison": 19550,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_7037yaourtbrassesucrepommerouge100g_html",
-      "name": "Yaourt brasse sucr\u00e9 pomme rouge 100g",
-      "prix_base": 990,
-      "prix_comparaison": 990,
+      "cle": "promo2023_7290rizblancdelitasy25kg_html",
+      "name": "Riz blanc de l'Itasy 25kg",
+      "prix_base": 92000,
+      "prix_comparaison": 92000,
       "variation": 0,
       "indice_prix": 100.0
     }
