@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Confiture extra de 4 fruits rouges allégée en sucres 335g**
    - Prix avant: 12,900 Ar

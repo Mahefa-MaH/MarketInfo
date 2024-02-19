@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Savon de ménage blanc S6 C36**
    - Prix avant: 500 Ar

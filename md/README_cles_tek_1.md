@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
    - Prix avant: 184,000 Ar

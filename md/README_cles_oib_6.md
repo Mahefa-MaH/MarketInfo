@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Riz makalioka 1kg**
    - Prix avant: 4,350 Ar

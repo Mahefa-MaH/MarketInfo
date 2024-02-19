@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Ferme Aina - Huile de Sésame (pression a froide) - 100ml**
    - Prix avant: 9,200 Ar

@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
    - Prix avant: 4,154 Ar

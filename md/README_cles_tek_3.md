@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Huile De Soja 1 L**
    - Prix avant: 10,700 Ar

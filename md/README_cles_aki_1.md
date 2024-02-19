@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **TERRE ROUGE - Huile Sublime Baobab Moringa Sésame - 50ml**
    - Prix avant: 71,600 Ar

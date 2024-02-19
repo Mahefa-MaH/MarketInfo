@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Bouquet de roses rouges et blanches | fleurs fraiches**
    - Prix avant: 20,000 Ar

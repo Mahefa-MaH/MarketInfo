@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Marqueur rouge pour tableau blanc**
    - Prix avant: 900 Ar

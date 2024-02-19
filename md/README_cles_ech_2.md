@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Sauce soja sucrée Carrefour™ 125ml | Bouteille en verre**
    - Prix avant: 9,390 Ar

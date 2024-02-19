@@ -1,4 +1,4 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 

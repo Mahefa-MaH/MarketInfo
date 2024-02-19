@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Savon de ménage blanc S24 C24**
    - Prix avant: 600 Ar

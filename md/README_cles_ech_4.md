@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Vermicelles Blanches de Riz LongKou™ | 50g – Pâtes blanches**
    - Prix avant: 1,800 Ar

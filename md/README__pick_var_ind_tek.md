@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Huile De Tournesol 1 L**
    - Prix avant: 14,500 Ar

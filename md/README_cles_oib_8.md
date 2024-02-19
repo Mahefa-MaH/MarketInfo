@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Riz de luxe Makalioka 5kg**
    - Prix avant: 19,550 Ar

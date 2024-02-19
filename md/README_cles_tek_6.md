@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Sucre blanc 1 kg**
    - Prix avant: 6,900 Ar

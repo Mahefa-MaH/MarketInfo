@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **TERRE ROUGE - Huile Essentielle Palmarosa**
    - Prix avant: 22,000 Ar

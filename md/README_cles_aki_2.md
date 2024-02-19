@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **TERRE ROUGE - Huile Essentielle Ylang Ylang**
    - Prix avant: 32,000 Ar

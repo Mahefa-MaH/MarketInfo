@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Sauce soja sucrée 125 ml**
    - Prix avant: 15,100 Ar

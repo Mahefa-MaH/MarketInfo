@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Riz de table Makalioka 5kg**
    - Prix avant: 18,990 Ar

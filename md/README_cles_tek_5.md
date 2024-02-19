@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Chaussette de Noël rouge et blanche**
    - Prix avant: 9,500 Ar

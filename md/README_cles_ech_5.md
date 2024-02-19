@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Marqueur tableau blanc chisel rouge**
    - Prix avant: 2,050 Ar

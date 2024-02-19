@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Chewing-gum sans sucres blancheur 10 pièces**
    - Prix avant: 4,200 Ar

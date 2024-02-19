@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Riz blanc de l'Itasy 50kg**
    - Prix avant: 184,000 Ar

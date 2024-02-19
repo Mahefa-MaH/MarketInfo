@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Huile de soja Hina 20L**
    - Prix avant: 179,400 Ar

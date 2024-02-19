@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition et indice de prix
+## Varition de prix
 
 1. **Sucre Blanc 250 g**
    - Prix avant: 2,800 Ar
