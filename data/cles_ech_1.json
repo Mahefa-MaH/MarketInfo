@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_saucesojasucreecarrefour125mlbouteilleenverre_",
-      "name": "Sauce soja sucr\u00e9e Carrefour\u2122 125ml | Bouteille en verre",
-      "prix_base": 9390,
-      "prix_comparaison": 9390,
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 4154,
+      "prix_comparaison": 4154,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_vinaigrederizblanc625ml_",
-      "name": "Vinaigre de riz 625ml | Blanc",
-      "prix_base": 9870,
-      "prix_comparaison": 9870,
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 105850,
+      "prix_comparaison": 105850,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_huilesoja1l_",
-      "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
-      "prix_base": 10210,
-      "prix_comparaison": 10210,
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 209700,
+      "prix_comparaison": 209700,
       "variation": 0,
       "indice_prix": 100.0
     }

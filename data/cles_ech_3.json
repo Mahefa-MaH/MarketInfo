@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_patesblanchesvermicellilongkou50g_",
-      "name": "Vermicelles Blanches de Riz LongKou\u2122 | 50g \u2013 P\u00e2tes blanches",
-      "prix_base": 1800,
-      "prix_comparaison": 1800,
+      "cle": "produit_wcfosseseptiquehorizontalblanc_",
+      "name": "WC Fosse S\u00e9ptique Horizontal Blanc",
+      "prix_base": 486540,
+      "prix_comparaison": 486540,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_vermicellesblanchesderizlongkou100gpatesblanches_",
-      "name": "Vermicelles Blanches de Riz LongKou\u2122 100g | P\u00e2tes blanches",
-      "prix_base": 3000,
-      "prix_comparaison": 3000,
+      "cle": "produit_marqueurpourtableaublancrougedollar_",
+      "name": "Marqueur effa\u00e7able Rouge pour tableau blanc Dollar\u2122",
+      "prix_base": 1300,
+      "prix_comparaison": 1300,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -2,21 +2,21 @@
 
 ## Varition et indice de prix
 
-1. **Sauce soja sucrée Carrefour™ 125ml | Bouteille en verre**
-   - Prix avant: 9,390 Ar
-   - Prix actuel: 9,390 Ar
+1. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 4,154 Ar
+   - Prix actuel: 4,154 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Vinaigre de riz 625ml | Blanc**
-   - Prix avant: 9,870 Ar
-   - Prix actuel: 9,870 Ar
+2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 105,850 Ar
+   - Prix actuel: 105,850 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Huile de Soja Hina™ 1L | Riche en Oméga 3 et en Vitamine E**
-   - Prix avant: 10,210 Ar
-   - Prix actuel: 10,210 Ar
+3. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 209,700 Ar
+   - Prix actuel: 209,700 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

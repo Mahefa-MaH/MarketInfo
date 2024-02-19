@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_sucreblanc500genvrac_",
-      "name": "Sucre blanc 500g | En vrac",
-      "prix_base": 3200,
-      "prix_comparaison": 3200,
+      "cle": "produit_patesblanchesvermicellilongkou50g_",
+      "name": "Vermicelles Blanches de Riz LongKou\u2122 | 50g \u2013 P\u00e2tes blanches",
+      "prix_base": 1800,
+      "prix_comparaison": 1800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_sucreblancramatoa1kg_",
-      "name": "Sucre Blanc Ramatoa\u2122 1kg | Sucre de canne raffin\u00e9",
-      "prix_base": 9510,
-      "prix_comparaison": 9510,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "produit_sucreblanc1kg_",
-      "name": "Sucre blanc 1kg",
-      "prix_base": 6200,
-      "prix_comparaison": 6200,
+      "cle": "produit_vermicellesblanchesderizlongkou100gpatesblanches_",
+      "name": "Vermicelles Blanches de Riz LongKou\u2122 100g | P\u00e2tes blanches",
+      "prix_base": 3000,
+      "prix_comparaison": 3000,
       "variation": 0,
       "indice_prix": 100.0
     }
