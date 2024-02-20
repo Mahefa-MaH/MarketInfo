@@ -1,76 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3831,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 14500,
-      "prix_comparaison": 12500,
-      "variation": -2000
-    },
-    {
-      "list_id": 11100,
-      "name": "D\u00e9odorant \u00e0 bille Invisible 50 ml",
-      "prix_base": 11400,
-      "prix_comparaison": 9900,
-      "variation": -1500
-    },
-    {
-      "list_id": 3828,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 10700,
-      "prix_comparaison": 9700,
-      "variation": -1000
-    },
-    {
-      "list_id": 3829,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 12400,
-      "prix_comparaison": 12100,
-      "variation": -300
-    },
-    {
-      "list_id": 8197,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9300,
-      "prix_comparaison": 9700,
+      "list_id": 7161,
+      "name": "Crayons de 12 couleurs cire \u00e0 l'huile",
+      "prix_base": 5000,
+      "prix_comparaison": 5400,
       "variation": 400
     }
   ],
   "indice de prix": [
     {
-      "list_id": 3831,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 14500,
-      "prix_comparaison": 12500,
-      "indice_prix": 86.20689655172414
-    },
-    {
-      "list_id": 11100,
-      "name": "D\u00e9odorant \u00e0 bille Invisible 50 ml",
-      "prix_base": 11400,
-      "prix_comparaison": 9900,
-      "indice_prix": 86.84210526315789
-    },
-    {
-      "list_id": 3828,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 10700,
-      "prix_comparaison": 9700,
-      "indice_prix": 90.65420560747664
-    },
-    {
-      "list_id": 3829,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 12400,
-      "prix_comparaison": 12100,
-      "indice_prix": 97.58064516129032
-    },
-    {
-      "list_id": 8197,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9300,
-      "prix_comparaison": 9700,
-      "indice_prix": 104.3010752688172
+      "list_id": 7161,
+      "name": "Crayons de 12 couleurs cire \u00e0 l'huile",
+      "prix_base": 5000,
+      "prix_comparaison": 5400,
+      "indice_prix": 108.0
     }
   ]
 }

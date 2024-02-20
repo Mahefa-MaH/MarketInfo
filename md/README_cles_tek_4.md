@@ -2,21 +2,21 @@
 
 ## Varition de prix
 
-1. **Riz makalioka rouge 5 kg**
-   - Prix avant: 19,800 Ar
-   - Prix actuel: 19,800 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-2. **Riz Makalioka blanc 5 kg**
-   - Prix avant: 18,600 Ar
-   - Prix actuel: 18,600 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **Sucre Blanc 1 Kg**
+1. **Sucre Blanc 1 Kg**
    - Prix avant: 12,400 Ar
    - Prix actuel: 12,400 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+2. **Sucre Blanc 250 g**
+   - Prix avant: 2,800 Ar
+   - Prix actuel: 2,800 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **Sucre blanc 1 kg**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 7,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

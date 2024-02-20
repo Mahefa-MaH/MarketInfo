@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Huile De Soja 1 L**
-   - Prix avant: 9,700 Ar
-   - Prix actuel: 9,700 Ar
+3. **Riz Rouge 5 Kg**
+   - Prix avant: 18,100 Ar
+   - Prix actuel: 18,100 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
