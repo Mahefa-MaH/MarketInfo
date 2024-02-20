@@ -1,6 +1,6 @@
 # Market Info
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Crayons de 12 couleurs cire à l'huile**
    - Prix avant: 5,000 Ar

@@ -1,6 +1,6 @@
 # Market Info
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre Blanc Brésilien En Sac De 50 Kg**
    - Prix avant: 249,300 Ar
