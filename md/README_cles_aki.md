@@ -1,6 +1,6 @@
 # Market Info
 
-## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Ferme Aina - Huile de Sésame (pression a froide) - 100ml**
    - Prix avant: 9,200 Ar
