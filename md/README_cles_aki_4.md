@@ -1,6 +1,6 @@
 # Market Info
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **TERRE ROUGE - Huile Essentielle Romarin**
    - Prix avant: 23,000 Ar

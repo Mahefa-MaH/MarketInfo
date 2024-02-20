@@ -1,6 +1,6 @@
 # Market Info
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Bouquet de roses rouges et blanches | fleurs fraiches**
    - Prix avant: 20,000 Ar
