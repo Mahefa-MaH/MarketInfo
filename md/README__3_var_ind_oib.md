@@ -1,6 +1,6 @@
 # Market Info
 
-## Ireto indray ny entana ahitana fihakaram-bidy androany
+## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY AMIN'NY ANDROANY
 
 1. **APPLE iPhone 11 Pro
                                                   - Reconditionné**
@@ -13,7 +13,7 @@
    - Prix actuel: 5,200 Ar
    - Variation: +1,100 Ar
 
-## Ireto indray ny entana ahitana FIHENAM-bidy androany
+## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY ANDROANY
 
 1. **Crevettes décortiquées MM 500g**
    - Prix avant: 39,000 Ar
