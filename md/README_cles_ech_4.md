@@ -1,6 +1,6 @@
 # Market Info
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Marqueur tableau blanc rouge**
    - Prix avant: 2,050 Ar

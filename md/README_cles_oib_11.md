@@ -1,6 +1,6 @@
 # Market Info
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Chewing-gum sans sucres blancheur 10 pièces**
    - Prix avant: 4,200 Ar
