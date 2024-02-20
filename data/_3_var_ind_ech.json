@@ -1,0 +1,86 @@
+{
+  "prix_augmentes": [],
+  "prix_diminues": [
+    {
+      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 5400,
+      "prix_comparaison": 3300,
+      "variation": -2100
+    },
+    {
+      "cle": "produit_tomatesfraiches_",
+      "name": "Tomates allong\u00e9es bien fermes 1kg | Calibre Moyen | A consommer d\u2019ici 2 ou 3 jours",
+      "prix_base": 4800,
+      "prix_comparaison": 3500,
+      "variation": -1300
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kggroscalibreaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Gros Calibre | A consommer le jours m\u00eame",
+      "prix_base": 4667,
+      "prix_comparaison": 3500,
+      "variation": -1167
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 4300,
+      "prix_comparaison": 3500,
+      "variation": -800
+    },
+    {
+      "cle": "produit_tomatesjaponaisefraichesbienferme1kgaconsommerdici2ou3jours_",
+      "name": "Tomates rondes bien fermes 1kg | Calibre Moyen | A consommer d\u2019ici 2 ou 3 jours",
+      "prix_base": 4300,
+      "prix_comparaison": 3500,
+      "variation": -800
+    }
+  ],
+  "indices_prix_plus_eleves": [
+    {
+      "cle": "produit_tomatesallongeesbienfermes1kggroscalibreaconsommerdici2ou3jours_",
+      "name": "Tomates allong\u00e9es bien fermes 1kg | Gros Calibre | A consommer d\u2019ici 2 ou 3 jours",
+      "prix_base": 4000,
+      "prix_comparaison": 3500,
+      "indice_prix": 87.5
+    },
+    {
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |  Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 4000,
+      "prix_comparaison": 3500,
+      "indice_prix": 87.5
+    },
+    {
+      "cle": "produit_tomatesrondesmures1kggroscalibreaconsommerlejourmeme_",
+      "name": "Tomates rondes m\u00fbres 1kg | Gros Calibre | A consommer le jour m\u00eame",
+      "prix_base": 4300,
+      "prix_comparaison": 3500,
+      "indice_prix": 81.3953488372093
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 5400,
+      "prix_comparaison": 3300,
+      "indice_prix": 61.111111111111114
+    },
+    {
+      "cle": "produit_thym1botte2_",
+      "name": "Thym 1 botte",
+      "prix_base": 2000,
+      "prix_comparaison": 1250,
+      "indice_prix": 62.5
+    },
+    {
+      "cle": "produit_tomatesfraiches_",
+      "name": "Tomates allong\u00e9es bien fermes 1kg | Calibre Moyen | A consommer d\u2019ici 2 ou 3 jours",
+      "prix_base": 4800,
+      "prix_comparaison": 3500,
+      "indice_prix": 72.91666666666667
+    }
+  ]
+}

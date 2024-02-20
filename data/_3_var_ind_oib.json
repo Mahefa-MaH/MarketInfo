@@ -13,9 +13,37 @@
       "prix_base": 4100,
       "prix_comparaison": 5200,
       "variation": 1100
+    },
+    {
+      "cle": "promo2023_5504eaugazeusetonic1l_html",
+      "name": "Eau gazeuse Tonic 1L",
+      "prix_base": 3000,
+      "prix_comparaison": 3300,
+      "variation": 300
+    },
+    {
+      "cle": "promo2023_8633liquidepurificateurdeau150ml_html",
+      "name": "Liquide purificateur d'eau 150ml",
+      "prix_base": 790,
+      "prix_comparaison": 990,
+      "variation": 200
+    },
+    {
+      "cle": "promo2023_8312spiralesantimoustiquescitron_html",
+      "name": "Spirales anti-moustiques citron",
+      "prix_base": 1690,
+      "prix_comparaison": 1700,
+      "variation": 10
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "poissonsetfruitsdemer_7499crevettesdecortiqueesgm500g_html",
+      "name": "Crevettes d\u00e9cortiqu\u00e9es GM 500g",
+      "prix_base": 40900,
+      "prix_comparaison": 36900,
+      "variation": -4000
+    },
     {
       "cle": "promo2023_7501crevettesdecortiqueesmm500g_html",
       "name": "Crevettes d\u00e9cortiqu\u00e9es MM 500g",
@@ -24,11 +52,25 @@
       "variation": -4000
     },
     {
-      "cle": "poissonsetfruitsdemer_7499crevettesdecortiqueesgm500g_html",
-      "name": "Crevettes d\u00e9cortiqu\u00e9es GM 500g",
-      "prix_base": 40900,
-      "prix_comparaison": 36900,
-      "variation": -4000
+      "cle": "promo2023_7500crevettesdecortiqueesgm250g_html",
+      "name": "Crevettes d\u00e9cortiqu\u00e9es GM 250g",
+      "prix_base": 20500,
+      "prix_comparaison": 18500,
+      "variation": -2000
+    },
+    {
+      "cle": "promo2023_14206yaourtcoeurpatissiercappuccino100g_html",
+      "name": "Yaourt c\u0153ur p\u00e2tissier cappuccino 100g",
+      "prix_base": 1790,
+      "prix_comparaison": 1590,
+      "variation": -200
+    },
+    {
+      "cle": "promo2023_14205yaourtcoeurpatissiercocoexquis100g_html",
+      "name": "Yaourt c\u0153ur p\u00e2tissier coco exquis 100g",
+      "prix_base": 1790,
+      "prix_comparaison": 1590,
+      "variation": -200
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,9 +87,37 @@
       "prix_base": 790,
       "prix_comparaison": 990,
       "indice_prix": 125.31645569620254
+    },
+    {
+      "cle": "promo2023_14679476appleiphone11proreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11 Pro\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1710000,
+      "prix_comparaison": 1900000,
+      "indice_prix": 111.11111111111111
+    },
+    {
+      "cle": "promo2023_5504eaugazeusetonic1l_html",
+      "name": "Eau gazeuse Tonic 1L",
+      "prix_base": 3000,
+      "prix_comparaison": 3300,
+      "indice_prix": 110.0
+    },
+    {
+      "cle": "promo2023_8312spiralesantimoustiquescitron_html",
+      "name": "Spirales anti-moustiques citron",
+      "prix_base": 1690,
+      "prix_comparaison": 1700,
+      "indice_prix": 100.59171597633136
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "promo2023_14206yaourtcoeurpatissiercappuccino100g_html",
+      "name": "Yaourt c\u0153ur p\u00e2tissier cappuccino 100g",
+      "prix_base": 1790,
+      "prix_comparaison": 1590,
+      "indice_prix": 88.8268156424581
+    },
     {
       "cle": "promo2023_14205yaourtcoeurpatissiercocoexquis100g_html",
       "name": "Yaourt c\u0153ur p\u00e2tissier coco exquis 100g",
@@ -61,6 +131,20 @@
       "prix_base": 1790,
       "prix_comparaison": 1590,
       "indice_prix": 88.8268156424581
+    },
+    {
+      "cle": "promo2023_7501crevettesdecortiqueesmm500g_html",
+      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 500g",
+      "prix_base": 39000,
+      "prix_comparaison": 35000,
+      "indice_prix": 89.74358974358974
+    },
+    {
+      "cle": "promo2023_9109boissongazeusecristalenverre50cl_html",
+      "name": "Boisson gazeuse cristal en verre 50cl",
+      "prix_base": 1500,
+      "prix_comparaison": 1350,
+      "indice_prix": 90.0
     }
   ]
 }

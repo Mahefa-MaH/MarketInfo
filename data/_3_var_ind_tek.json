@@ -1,0 +1,94 @@
+{
+  "prix_augmentes": [
+    {
+      "list_id": 8274,
+      "prix_base": 60720,
+      "name": "Multiprise FB 4x2P+T standard 1.5 m 1mm\u00b2 050207 Noir",
+      "prix_comparaison": 67000,
+      "variation": 6280
+    },
+    {
+      "list_id": 7136,
+      "prix_base": 19300,
+      "name": "Agrafeuse noir 24/6 26/6 25 feuilles",
+      "prix_comparaison": 23400,
+      "variation": 4100
+    },
+    {
+      "list_id": 7459,
+      "prix_base": 9400,
+      "name": "R\u00e8gle m\u00e9tallique 50 cm",
+      "prix_comparaison": 11600,
+      "variation": 2200
+    }
+  ],
+  "prix_diminues": [
+    {
+      "list_id": 7193,
+      "prix_base": 115500,
+      "name": "Cartable \u00e9colier",
+      "prix_comparaison": 93000,
+      "variation": -22500
+    },
+    {
+      "list_id": 7263,
+      "prix_base": 900,
+      "name": "File bag A4",
+      "prix_comparaison": 1000,
+      "variation": 100
+    },
+    {
+      "list_id": 7135,
+      "prix_base": 11800,
+      "name": "Agrafeuse noir 24/6  26/6 25 feuilles",
+      "prix_comparaison": 12000,
+      "variation": 200
+    }
+  ],
+  "indices_prix_plus_eleves": [
+    {
+      "list_id": 6992,
+      "name": "stylo \u00e0 bille top 505 rouge",
+      "prix_base": 700,
+      "prix_comparaison": 1000,
+      "indice_prix": 142.85714285714286
+    },
+    {
+      "list_id": 7365,
+      "name": "P\u00e2te \u00e0 modeler 12 couleurs",
+      "prix_base": 5000,
+      "prix_comparaison": 6600,
+      "indice_prix": 132.0
+    },
+    {
+      "list_id": 7272,
+      "name": "Feutre 18 couleurs",
+      "prix_base": 5200,
+      "prix_comparaison": 6500,
+      "indice_prix": 125.0
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "list_id": 7193,
+      "name": "Cartable \u00e9colier",
+      "prix_base": 115500,
+      "prix_comparaison": 93000,
+      "indice_prix": 80.51948051948052
+    },
+    {
+      "list_id": 7135,
+      "name": "Agrafeuse noir 24/6  26/6 25 feuilles",
+      "prix_base": 11800,
+      "prix_comparaison": 12000,
+      "indice_prix": 101.69491525423729
+    },
+    {
+      "list_id": 7452,
+      "name": "R\u00e8gle complet couleur set 4 pi\u00e8ces",
+      "prix_base": 2800,
+      "prix_comparaison": 3000,
+      "indice_prix": 107.14285714285714
+    }
+  ]
+}

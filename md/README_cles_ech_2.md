@@ -1,6 +1,6 @@
 # Market Info
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Huile de Soja Hina™ 1L | Riche en Oméga 3 et en Vitamine E**
    - Prix avant: 10,210 Ar
