@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition de prix
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Riz blanc de l'Itasy 50kg**
    - Prix avant: 184,000 Ar

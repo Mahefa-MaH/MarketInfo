@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition de prix
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre blanc en morceaux 1kg**
    - Prix avant: 14,900 Ar

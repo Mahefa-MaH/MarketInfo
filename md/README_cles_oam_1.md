@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition de prix
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Yaourt brasse sucré pomme rouge 100g**
    - Prix avant: 1,100 Ar

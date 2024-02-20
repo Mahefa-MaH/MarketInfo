@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition de prix
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre blanc 500g | En vrac**
    - Prix avant: 3,200 Ar

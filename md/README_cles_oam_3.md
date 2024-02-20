@@ -1,6 +1,6 @@
 # Market Info
 
-## Varition de prix
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **DISNEY Mickey Cape de bain - 80 x 80 cm Blanc/Rouge**
    - Prix avant: 163,000 Ar
