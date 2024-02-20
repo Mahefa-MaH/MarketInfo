@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "promo2023_4952rizdeluxemakalioka5kg_html",
+      "name": "Riz de luxe Makalioka 5kg",
+      "prix_base": 19550,
+      "prix_comparaison": 19550,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "promo2023_4951rizdetablemakalioka5kg_html",
       "name": "Riz de table Makalioka 5kg",
       "prix_base": 18990,
@@ -13,14 +21,6 @@
       "name": "Riz gasy mena  1kg",
       "prix_base": 4250,
       "prix_comparaison": 4250,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "promo2023_9403rizgasysacde1kg_html",
-      "name": "Riz gasy sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     }

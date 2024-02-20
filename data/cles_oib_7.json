@@ -1,0 +1,12 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "promo2023_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 5900,
+      "prix_comparaison": 6900,
+      "variation": 1000,
+      "indice_prix": 116.94915254237289
+    }
+  ]
+}
