@@ -2,21 +2,21 @@
 
 ## Varition de prix
 
-1. **Huile De Soja 1 L**
-   - Prix avant: 10,700 Ar
-   - Prix actuel: 10,700 Ar
+1. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
+   - Prix avant: 184,000 Ar
+   - Prix actuel: 184,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Huile De Soja 1 L**
-   - Prix avant: 9,300 Ar
-   - Prix actuel: 9,300 Ar
+2. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
+   - Prix avant: 172,500 Ar
+   - Prix actuel: 172,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre Blanc 1 Kg**
-   - Prix avant: 12,400 Ar
-   - Prix actuel: 12,400 Ar
+3. **Sucre blanc 1 kg**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 6,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

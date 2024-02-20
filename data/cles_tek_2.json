@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12650,
-      "name": "Sauce soja sucr\u00e9e 125 ml",
-      "prix_base": 15100,
-      "prix_comparaison": 15100,
+      "list_id": 1561,
+      "name": "Riz Rouge 5 Kg",
+      "prix_base": 18100,
+      "prix_comparaison": 18100,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 249300,
-      "prix_comparaison": 249300,
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 6300,
+      "prix_comparaison": 6300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3826,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 7300,
-      "prix_comparaison": 7300,
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 143000,
+      "prix_comparaison": 143000,
       "variation": 0,
       "indice_prix": 100.0
     }

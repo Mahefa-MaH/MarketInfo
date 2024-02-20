@@ -2,21 +2,21 @@
 
 ## Varition de prix
 
-1. **Chaussette de Noël rouge et blanche**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 9,500 Ar
+1. **Sucre Blanc 250 g**
+   - Prix avant: 2,800 Ar
+   - Prix actuel: 2,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucrettes blanches  50 g**
-   - Prix avant: 6,300 Ar
-   - Prix actuel: 6,300 Ar
+2. **Sucre blanc 1 kg**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 7,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucrettes blanches 100 pièces 3 g**
-   - Prix avant: 13,100 Ar
-   - Prix actuel: 13,100 Ar
+3. **Riz blanc parfumé 5 kg**
+   - Prix avant: 40,800 Ar
+   - Prix actuel: 40,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

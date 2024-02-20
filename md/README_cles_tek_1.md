@@ -2,21 +2,21 @@
 
 ## Varition de prix
 
-1. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
-   - Prix avant: 184,000 Ar
-   - Prix actuel: 184,000 Ar
+1. **Sucre Blanc Brésilien En Sac De 50 Kg**
+   - Prix avant: 249,300 Ar
+   - Prix actuel: 249,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
-   - Prix avant: 172,500 Ar
-   - Prix actuel: 172,500 Ar
+2. **Sucre Blanc 1 Kg**
+   - Prix avant: 7,300 Ar
+   - Prix actuel: 7,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz blanc parfumé 5 kg**
-   - Prix avant: 40,800 Ar
-   - Prix actuel: 40,800 Ar
+3. **Huile De Soja 1 L**
+   - Prix avant: 9,700 Ar
+   - Prix actuel: 9,700 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
