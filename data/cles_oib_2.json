@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_4951rizdetablemakalioka5kg_html",
-      "name": "Riz de table Makalioka 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
+      "cle": "promo2023_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 8900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_11442rizgasymena1kg_html",
-      "name": "Riz gasy mena  1kg",
-      "prix_base": 4250,
-      "prix_comparaison": 4250,
+      "cle": "promo2023_1894huiledesoja20lhina_html",
+      "name": "Huile de soja Hina 20L",
+      "prix_base": 179400,
+      "prix_comparaison": 179400,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_9403rizgasysacde1kg_html",
-      "name": "Riz gasy sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
+      "cle": "promo2023_7290rizblancdelitasy25kg_html",
+      "name": "Riz blanc de l'Itasy 25kg",
+      "prix_base": 92000,
+      "prix_comparaison": 92000,
       "variation": 0,
       "indice_prix": 100.0
     }

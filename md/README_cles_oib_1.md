@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Détartrant ménager rouge 1L**
-   - Prix avant: 3,890 Ar
-   - Prix actuel: 3,890 Ar
+2. **Sucre blanc en poudre 1kg**
+   - Prix avant: 11,500 Ar
+   - Prix actuel: 11,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc cristallisé 1kg**
-   - Prix avant: 5,900 Ar
-   - Prix actuel: 5,900 Ar
+3. **Huile de soja 1L**
+   - Prix avant: 15,500 Ar
+   - Prix actuel: 15,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

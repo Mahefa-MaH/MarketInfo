@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "offrestbloc_75263yaourtbrassesucrepommerouge100g_html",
-      "name": "Yaourt brasse sucr\u00e9 pomme rouge 100g",
-      "prix_base": 1100,
-      "prix_comparaison": 1100,
+      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
+      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
+      "prix_base": 11017000,
+      "prix_comparaison": 11017000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "friteuseelectrique_83055philipsairfryeressentialcompactdigitalhd925200friteusesanshuile08kgtechnologierapidair7prereglagesblanc8710103972082_html",
-      "name": "PHILIPS Airfryer Essential Compact Digital HD9252/00, Friteuse sans huile, 0,8kg, Technologie Rapid Air, 7 pr\u00e9r\u00e9glages, Blanc",
-      "prix_base": 871000,
-      "prix_comparaison": 871000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "sortiedebainponchodebain_16487disneymickeycapedebain80x80cmblancrouge3148801024201_html",
-      "name": "DISNEY Mickey Cape de bain - 80 x 80 cm Blanc/Rouge",
-      "prix_base": 163000,
-      "prix_comparaison": 163000,
+      "cle": "ensemblesommiermatelas_52218dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x90x200cmmatelasressortsensaches5412618134476_html",
+      "name": "DEKO DREAM Ensemble matelas+sommier relaxation \u00e9lectrique ERGO 9 Dreamzone - 2x90x200 cm - Matelas ressorts ensach\u00e9s",
+      "prix_base": 13428000,
+      "prix_comparaison": 13428000,
       "variation": 0,
       "indice_prix": 100.0
     }

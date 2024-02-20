@@ -2,21 +2,15 @@
 
 ## Varition de prix
 
-1. **Yaourt brasse sucré pomme rouge 100g**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 1,100 Ar
+1. **Bosch KGN39AIAT - Série 6 Réfrigérateur combiné pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox**
+   - Prix avant: 11,017,000 Ar
+   - Prix actuel: 11,017,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **PHILIPS Airfryer Essential Compact Digital HD9252/00, Friteuse sans huile, 0,8kg, Technologie Rapid Air, 7 préréglages, Blanc**
-   - Prix avant: 871,000 Ar
-   - Prix actuel: 871,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **DISNEY Mickey Cape de bain - 80 x 80 cm Blanc/Rouge**
-   - Prix avant: 163,000 Ar
-   - Prix actuel: 163,000 Ar
+2. **DEKO DREAM Ensemble matelas+sommier relaxation électrique ERGO 9 Dreamzone - 2x90x200 cm - Matelas ressorts ensachés**
+   - Prix avant: 13,428,000 Ar
+   - Prix actuel: 13,428,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

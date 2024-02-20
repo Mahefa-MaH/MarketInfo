@@ -2,21 +2,21 @@
 
 ## Varition de prix
 
-1. **Riz de table Makalioka 5kg**
-   - Prix avant: 18,990 Ar
-   - Prix actuel: 18,990 Ar
+1. **Huile de soja Hina 1L**
+   - Prix avant: 8,900 Ar
+   - Prix actuel: 8,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz gasy mena  1kg**
-   - Prix avant: 4,250 Ar
-   - Prix actuel: 4,250 Ar
+2. **Huile de soja Hina 20L**
+   - Prix avant: 179,400 Ar
+   - Prix actuel: 179,400 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz gasy sac de 1kg**
-   - Prix avant: 4,490 Ar
-   - Prix actuel: 4,490 Ar
+3. **Riz blanc de l'Itasy 25kg**
+   - Prix avant: 92,000 Ar
+   - Prix actuel: 92,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
