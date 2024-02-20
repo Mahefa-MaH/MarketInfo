@@ -2,21 +2,21 @@
 
 ## Varition de prix
 
-1. **TERRE ROUGE - Huile Sublime Baobab Moringa Sésame - 50ml**
-   - Prix avant: 71,600 Ar
-   - Prix actuel: 71,600 Ar
+1. **Hina - huile de soja - 1 l**
+   - Prix avant: 8,900 Ar
+   - Prix actuel: 8,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Terre Rouge - Huile d'Argan - 20ml**
-   - Prix avant: 52,900 Ar
-   - Prix actuel: 52,900 Ar
+2. **Riz de tabe blanc Makalioka**
+   - Prix avant: 3,300 Ar
+   - Prix actuel: 3,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Terre Rouge - Huile Végétale Calophylle - 10ml**
-   - Prix avant: 27,500 Ar
-   - Prix actuel: 27,500 Ar
+3. **Sucre Blanc (kg)**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,400 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

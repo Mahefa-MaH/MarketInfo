@@ -2,21 +2,21 @@
 
 ## Varition de prix
 
-1. **Savon de ménage blanc S6 C36**
-   - Prix avant: 500 Ar
-   - Prix actuel: 500 Ar
+1. **Riz de table Makalioka 5kg**
+   - Prix avant: 18,990 Ar
+   - Prix actuel: 18,990 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Savon de ménage Marseille Baobab fotsy**
-   - Prix avant: 1,500 Ar
-   - Prix actuel: 1,500 Ar
+2. **Riz gasy mena  1kg**
+   - Prix avant: 4,250 Ar
+   - Prix actuel: 4,250 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sauce soja sucrée 300ml**
-   - Prix avant: 23,900 Ar
-   - Prix actuel: 23,900 Ar
+3. **Riz gasy sac de 1kg**
+   - Prix avant: 4,490 Ar
+   - Prix actuel: 4,490 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

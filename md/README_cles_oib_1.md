@@ -2,21 +2,21 @@
 
 ## Varition de prix
 
-1. **Savon de ménage blanc S24 C24**
-   - Prix avant: 600 Ar
-   - Prix actuel: 600 Ar
+1. **Sucre blanc en morceaux 1kg**
+   - Prix avant: 14,900 Ar
+   - Prix actuel: 14,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Savon de ménage blanc S27 C36**
-   - Prix avant: 900 Ar
-   - Prix actuel: 900 Ar
+2. **Détartrant ménager rouge 1L**
+   - Prix avant: 3,890 Ar
+   - Prix actuel: 3,890 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Savon de ménage blanc S3 C30**
-   - Prix avant: 550 Ar
-   - Prix actuel: 550 Ar
+3. **Sucre blanc cristallisé 1kg**
+   - Prix avant: 5,900 Ar
+   - Prix actuel: 5,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

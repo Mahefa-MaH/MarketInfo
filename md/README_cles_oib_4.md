@@ -2,21 +2,21 @@
 
 ## Varition de prix
 
-1. **Marqueur rouge pour tableau blanc**
-   - Prix avant: 900 Ar
-   - Prix actuel: 900 Ar
+1. **Riz rouge complet 5kg**
+   - Prix avant: 18,990 Ar
+   - Prix actuel: 18,990 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre blanc cristallisé 1kg**
-   - Prix avant: 5,900 Ar
-   - Prix actuel: 5,900 Ar
+2. **Riz de luxe Makalioka 5kg**
+   - Prix avant: 19,550 Ar
+   - Prix actuel: 19,550 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Yaourt brasse sucré pomme rouge 100g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 990 Ar
+3. **Riz blanc de l'Itasy 25kg**
+   - Prix avant: 92,000 Ar
+   - Prix actuel: 92,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
