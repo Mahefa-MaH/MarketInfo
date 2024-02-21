@@ -1,12 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 5900,
-      "prix_comparaison": 6900,
-      "variation": 1000,
-      "indice_prix": 116.94915254237289
+      "cle": "promo2023_4952rizdeluxemakalioka5kg_html",
+      "name": "Riz de luxe Makalioka 5kg",
+      "prix_base": 19550,
+      "prix_comparaison": 19550,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_9404rizmakaliokasacde1kg_html",
-      "name": "Riz Makalioka sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
+      "cle": "promo2023_7290rizblancdelitasy25kg_html",
+      "name": "Riz blanc de l'Itasy 25kg",
+      "prix_base": 92000,
+      "prix_comparaison": 92000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_7474rizrougecomplet5kg_html",
-      "name": "Riz rouge complet 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
+      "cle": "promo2023_7291rizblancdelitasy50kg_html",
+      "name": "Riz blanc de l'Itasy 50kg",
+      "prix_base": 184000,
+      "prix_comparaison": 184000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "riz_7289rizblancdeitasy5kg_html",
+      "name": "Riz blanc de l'Itasy 5kg",
+      "prix_base": 18400,
+      "prix_comparaison": 18400,
       "variation": 0,
       "indice_prix": 100.0
     }
