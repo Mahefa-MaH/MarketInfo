@@ -6,6 +6,13 @@
       "prix_base": 1710000,
       "prix_comparaison": 1900000,
       "variation": 190000
+    },
+    {
+      "cle": "promo2023_2682tablettedechocolatnoirextra100g_html",
+      "name": "Tablette de chocolat noir extra 100g",
+      "prix_base": 4100,
+      "prix_comparaison": 5200,
+      "variation": 1100
     }
   ],
   "prix_diminues": [
@@ -14,6 +21,13 @@
       "name": "Crevettes d\u00e9cortiqu\u00e9es GM 500g",
       "prix_base": 40900,
       "prix_comparaison": 36900,
+      "variation": -4000
+    },
+    {
+      "cle": "promo2023_7501crevettesdecortiqueesmm500g_html",
+      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 500g",
+      "prix_base": 39000,
+      "prix_comparaison": 35000,
       "variation": -4000
     }
   ],
@@ -24,12 +38,26 @@
       "prix_base": 4100,
       "prix_comparaison": 5200,
       "indice_prix": 126.82926829268293
+    },
+    {
+      "cle": "promo2023_8633liquidepurificateurdeau150ml_html",
+      "name": "Liquide purificateur d'eau 150ml",
+      "prix_base": 790,
+      "prix_comparaison": 990,
+      "indice_prix": 125.31645569620254
     }
   ],
   "indices_prix_plus_faibles": [
     {
       "cle": "promo2023_14206yaourtcoeurpatissiercappuccino100g_html",
       "name": "Yaourt c\u0153ur p\u00e2tissier cappuccino 100g",
+      "prix_base": 1790,
+      "prix_comparaison": 1590,
+      "indice_prix": 88.8268156424581
+    },
+    {
+      "cle": "promo2023_14205yaourtcoeurpatissiercocoexquis100g_html",
+      "name": "Yaourt c\u0153ur p\u00e2tissier coco exquis 100g",
       "prix_base": 1790,
       "prix_comparaison": 1590,
       "indice_prix": 88.8268156424581
