@@ -1,6 +1,6 @@
 # Market Info
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **DEKO DREAM Ensemble matelas+sommier relaxation électrique ERGO 9 Dreamzone - 2x90x200 cm - Matelas ressorts ensachés**
    - Prix avant: 13,428,000 Ar

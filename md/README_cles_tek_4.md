@@ -1,6 +1,6 @@
 # Market Info
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre blanc 1 kg**
    - Prix avant: 7,500 Ar
