@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY AMIN'NY ANDROANY
 
-1. **Multiprise FB 4x2P+T standard 1.5 m 1mm² 050207 Noir**
-   - Prix avant: 60,720 Ar
-   - Prix actuel: 67,000 Ar
-   - Variation: +6,280 Ar
+1. **Biberon en plastique Large Ouverture Blanc 2eme âge tétine en silicone 330 ml**
+   - Prix avant: 37,100 Ar
+   - Prix actuel: 50,800 Ar
+   - Variation: +13,700 Ar
 
-2. **Agrafeuse noir 24/6 26/6 25 feuilles**
-   - Prix avant: 19,300 Ar
-   - Prix actuel: 23,400 Ar
-   - Variation: +4,100 Ar
+2. **Spray Aérien Sommeil & Détente 75 ml**
+   - Prix avant: 47,600 Ar
+   - Prix actuel: 59,700 Ar
+   - Variation: +12,100 Ar
 
-3. **Règle métallique 50 cm**
-   - Prix avant: 9,400 Ar
-   - Prix actuel: 11,600 Ar
-   - Variation: +2,200 Ar
+3. **Sérum Physiologique pour bébé 0,9 % 40 Unidoses**
+   - Prix avant: 16,900 Ar
+   - Prix actuel: 25,400 Ar
+   - Variation: +8,500 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY ANDROANY
 
-1. **Cartable écolier**
-   - Prix avant: 115,500 Ar
-   - Prix actuel: 93,000 Ar
-   - Variation: -22,500 Ar
+1. **Gel Cryo pure Articulations & Muscles 80 ml**
+   - Prix avant: 53,500 Ar
+   - Prix actuel: 50,000 Ar
+   - Variation: -3,500 Ar
 
-2. **File bag A4**
-   - Prix avant: 900 Ar
-   - Prix actuel: 1,000 Ar
-   - Variation: +100 Ar
+2. **Tétine en caoutchouc NN 1er âge**
+   - Prix avant: 16,000 Ar
+   - Prix actuel: 16,700 Ar
+   - Variation: +700 Ar
 
-3. **Agrafeuse noir 24/6  26/6 25 feuilles**
-   - Prix avant: 11,800 Ar
-   - Prix actuel: 12,000 Ar
-   - Variation: +200 Ar
+3. **Varitétine Pur Caoutchouc bébé + 4 mois**
+   - Prix avant: 17,000 Ar
+   - Prix actuel: 17,700 Ar
+   - Variation: +700 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **stylo à bille top 505 rouge**
-   - Prix avant: 700 Ar
-   - Prix actuel: 1,000 Ar
-   - Indice de prix : 142.86
+1. **Sérum Physiologique pour bébé 0,9 % 40 Unidoses**
+   - Prix avant: 16,900 Ar
+   - Prix actuel: 25,400 Ar
+   - Indice de prix : 150.30
 
-2. **Pâte à modeler 12 couleurs**
-   - Prix avant: 5,000 Ar
-   - Prix actuel: 6,600 Ar
-   - Indice de prix : 132.00
+2. **Eau de rose 250 ml**
+   - Prix avant: 15,000 Ar
+   - Prix actuel: 20,600 Ar
+   - Indice de prix : 137.33
 
-3. **Feutre 18 couleurs**
-   - Prix avant: 5,200 Ar
-   - Prix actuel: 6,500 Ar
-   - Indice de prix : 125.00
+3. **Biberon en plastique Large Ouverture Blanc 2eme âge tétine en silicone 330 ml**
+   - Prix avant: 37,100 Ar
+   - Prix actuel: 50,800 Ar
+   - Indice de prix : 136.93
 
 ## Ireo entana hita midina ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Cartable écolier**
-   - Prix avant: 115,500 Ar
-   - Prix actuel: 93,000 Ar
-   - Indice de prix : 80.52
+1. **Gel Cryo pure Articulations & Muscles 80 ml**
+   - Prix avant: 53,500 Ar
+   - Prix actuel: 50,000 Ar
+   - Indice de prix : 93.46
 
-2. **Agrafeuse noir 24/6  26/6 25 feuilles**
-   - Prix avant: 11,800 Ar
-   - Prix actuel: 12,000 Ar
-   - Indice de prix : 101.69
+2. **Varitétine Pur Caoutchouc bébé + 4 mois**
+   - Prix avant: 17,000 Ar
+   - Prix actuel: 17,700 Ar
+   - Indice de prix : 104.12
 
-3. **Règle complet couleur set 4 pièces**
-   - Prix avant: 2,800 Ar
-   - Prix actuel: 3,000 Ar
-   - Indice de prix : 107.14
+3. **Ciseaux bébé Blanc**
+   - Prix avant: 33,600 Ar
+   - Prix actuel: 35,000 Ar
+   - Indice de prix : 104.17
 

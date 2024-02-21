@@ -1,6 +1,6 @@
-# Market Info - File 25
+# Market Info - File 26
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Bosch KGN39AIAT - Série 6 Réfrigérateur combiné pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox**
    - Prix avant: 11,017,000 Ar

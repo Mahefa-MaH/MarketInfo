@@ -1,6 +1,6 @@
-# Market Info - File 36
+# Market Info - File 37
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Pilonneuse SP80-345x285 mm**
    - Prix avant: 15,800,000 Ar

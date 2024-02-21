@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "cle": "promo2023_8785beurredecacahuetesel500g_html",
+      "name": "Beurre de cacahu\u00e8te sel 500g",
+      "prix_base": 10000,
+      "prix_comparaison": 11000,
+      "variation": 1000
+    },
+    {
       "cle": "promo2023_728fromagenature120g_html",
       "name": "Fromage nature 108g",
       "prix_base": 10800,
@@ -15,9 +22,23 @@
       "prix_base": 10800,
       "prix_comparaison": 11500,
       "variation": 700
+    },
+    {
+      "cle": "promo2023_8785beurredecacahuetesel500g_html",
+      "name": "Beurre de cacahu\u00e8te sel 500g",
+      "prix_base": 10000,
+      "prix_comparaison": 11000,
+      "variation": 1000
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "promo2023_8785beurredecacahuetesel500g_html",
+      "name": "Beurre de cacahu\u00e8te sel 500g",
+      "prix_base": 10000,
+      "prix_comparaison": 11000,
+      "indice_prix": 110.0
+    },
     {
       "cle": "promo2023_728fromagenature120g_html",
       "name": "Fromage nature 108g",
@@ -33,6 +54,13 @@
       "prix_base": 10800,
       "prix_comparaison": 11500,
       "indice_prix": 106.48148148148148
+    },
+    {
+      "cle": "promo2023_8785beurredecacahuetesel500g_html",
+      "name": "Beurre de cacahu\u00e8te sel 500g",
+      "prix_base": 10000,
+      "prix_comparaison": 11000,
+      "indice_prix": 110.0
     }
   ]
 }

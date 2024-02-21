@@ -1,0 +1,94 @@
+{
+  "prix_augmentes": [
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod007279",
+      "name": "Bon Appetit - Mais Doux - 340g",
+      "prix_base": 4000,
+      "prix_comparaison": 4100,
+      "variation": 100
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod002461",
+      "name": "Francia - Spaghetti - 500g",
+      "prix_base": 2800,
+      "prix_comparaison": 2700,
+      "variation": -100
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod002538",
+      "name": "Bloom - Serviette de table - 100 Feuilles",
+      "prix_base": 2600,
+      "prix_comparaison": 2500,
+      "variation": -100
+    }
+  ],
+  "prix_diminues": [
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod008024",
+      "name": "Evet - Beurre premium margarine - 200g",
+      "prix_base": 3100,
+      "prix_comparaison": 2900,
+      "variation": -200
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod002538",
+      "name": "Bloom - Serviette de table - 100 Feuilles",
+      "prix_base": 2600,
+      "prix_comparaison": 2500,
+      "variation": -100
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod002461",
+      "name": "Francia - Spaghetti - 500g",
+      "prix_base": 2800,
+      "prix_comparaison": 2700,
+      "variation": -100
+    }
+  ],
+  "indices_prix_plus_eleves": [
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod007279",
+      "name": "Bon Appetit - Mais Doux - 340g",
+      "prix_base": 4000,
+      "prix_comparaison": 4100,
+      "indice_prix": 102.5
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod002461",
+      "name": "Francia - Spaghetti - 500g",
+      "prix_base": 2800,
+      "prix_comparaison": 2700,
+      "indice_prix": 96.42857142857143
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod002538",
+      "name": "Bloom - Serviette de table - 100 Feuilles",
+      "prix_base": 2600,
+      "prix_comparaison": 2500,
+      "indice_prix": 96.15384615384616
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod008024",
+      "name": "Evet - Beurre premium margarine - 200g",
+      "prix_base": 3100,
+      "prix_comparaison": 2900,
+      "indice_prix": 93.54838709677419
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod002538",
+      "name": "Bloom - Serviette de table - 100 Feuilles",
+      "prix_base": 2600,
+      "prix_comparaison": 2500,
+      "indice_prix": 96.15384615384616
+    },
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod002461",
+      "name": "Francia - Spaghetti - 500g",
+      "prix_base": 2800,
+      "prix_comparaison": 2700,
+      "indice_prix": 96.42857142857143
+    }
+  ]
+}
