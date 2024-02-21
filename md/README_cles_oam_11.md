@@ -1,6 +1,6 @@
-# Market Info
+# Market Info - File 3
 
-## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Nettoyeur HP eau chaude 170 bars***
    - Prix avant: 12,650,000 Ar

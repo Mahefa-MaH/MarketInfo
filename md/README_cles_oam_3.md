@@ -1,6 +1,6 @@
-# Market Info
+# Market Info - File 14
 
-## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent**
    - Prix avant: 12,961,000 Ar

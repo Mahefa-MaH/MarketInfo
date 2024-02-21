@@ -1,6 +1,6 @@
-# Market Info
+# Market Info - File 27
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Groupe de soudage essence 250Amp 4.5KVA Aux 220V**
    - Prix avant: 10,450,000 Ar

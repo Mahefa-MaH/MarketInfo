@@ -1,6 +1,6 @@
-# Market Info
+# Market Info - File 6
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Betonnière 255L gasoil KM178F**
    - Prix avant: 14,290,000 Ar

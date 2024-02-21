@@ -1,6 +1,6 @@
-# Market Info
+# Market Info - File 8
 
-## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre Blanc Cristallisé 1 Kg**
    - Prix avant: 6,900 Ar
