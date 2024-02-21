@@ -1,22 +1,22 @@
 # Market Info
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Yaourt brasse sucré pomme rouge 100g**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 1,100 Ar
+1. **générateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)**
+   - Prix avant: 22,657,000 Ar
+   - Prix actuel: 22,657,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **PHILIPS Airfryer Essential Compact Digital HD9252/00, Friteuse sans huile, 0,8kg, Technologie Rapid Air, 7 préréglages, Blanc**
-   - Prix avant: 871,000 Ar
-   - Prix actuel: 871,000 Ar
+2. **générateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)**
+   - Prix avant: 11,068,000 Ar
+   - Prix actuel: 11,068,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Réfrigérateur américain SAMSUNG - RF18A5202SL - Multiportes - 495L - L82cm - Inox**
-   - Prix avant: 10,010,000 Ar
-   - Prix actuel: 10,010,000 Ar
+3. **Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sidéral**
+   - Prix avant: 13,845,000 Ar
+   - Prix actuel: 13,845,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

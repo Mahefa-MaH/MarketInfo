@@ -1,18 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "sortiedebainponchodebain_16487disneymickeycapedebain80x80cmblancrouge3148801024201_html",
-      "name": "DISNEY Mickey Cape de bain - 80 x 80 cm Blanc/Rouge",
-      "prix_base": 163000,
-      "prix_comparaison": 163000,
+      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
+      "prix_base": 12961000,
+      "prix_comparaison": 12961000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "refrigerateuramericain_5356samsungrf24r7201srru00e9frigu00e9rateurmultiporte510l348l123l39lfroidventilu00e9plusl908cmxh1777c8801643678708_html",
-      "name": "SAMSUNG RF24R7201SR - R\u00e9frig\u00e9rateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventil\u00e9 plus - L90,8cm x H177,7 cm - Inox",
-      "prix_base": 17179000,
-      "prix_comparaison": 17179000,
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11149000,
+      "prix_comparaison": 11149000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 10696000,
+      "prix_comparaison": 10696000,
       "variation": 0,
       "indice_prix": 100.0
     }

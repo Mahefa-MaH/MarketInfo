@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
+      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
+      "prix_base": 11733000,
+      "prix_comparaison": 11733000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "unitecentraleseuleminipc_125031applemacstudioapplem2ultra24corecpu60coregpuram64gostockage1tosilver0194253433538_html",
+      "name": "Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver",
+      "prix_base": 20964000,
+      "prix_comparaison": 20964000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "unitecentraleseuleminipc_124797pcdebureaugamingomenbyhp45lgt221038nfintelcorei913900kram32goddr51tossdgeforcertx408016gofreedo0197497044515_html",
+      "name": "PC de bureau Gaming Omen by HP 45L GT22-1038nf - Intel Core i9-13900K - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDO",
+      "prix_base": 32178000,
+      "prix_comparaison": 32178000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
+      "name": "Echafaudage roulant Neolium 200 Line 14m",
+      "prix_base": 37000000,
+      "prix_comparaison": 37000000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

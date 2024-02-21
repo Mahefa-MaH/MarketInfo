@@ -1,16 +1,22 @@
 # Market Info
 
-## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **DISNEY Mickey Cape de bain - 80 x 80 cm Blanc/Rouge**
-   - Prix avant: 163,000 Ar
-   - Prix actuel: 163,000 Ar
+1. **Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent**
+   - Prix avant: 12,961,000 Ar
+   - Prix actuel: 12,961,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **SAMSUNG RF24R7201SR - Réfrigérateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventilé plus - L90,8cm x H177,7 cm - Inox**
-   - Prix avant: 17,179,000 Ar
-   - Prix actuel: 17,179,000 Ar
+2. **Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sidéral**
+   - Prix avant: 11,149,000 Ar
+   - Prix actuel: 11,149,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sidéral**
+   - Prix avant: 10,696,000 Ar
+   - Prix actuel: 10,696,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

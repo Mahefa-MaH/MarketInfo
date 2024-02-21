@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
+      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
+      "prix_base": 11017000,
+      "prix_comparaison": 11017000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
+      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
+      "prix_base": 21450000,
+      "prix_comparaison": 21450000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
+      "name": "Echafaudage Speed XL Ht travail 10.44m",
+      "prix_base": 22000000,
+      "prix_comparaison": 22000000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

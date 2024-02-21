@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "offrestbloc_75263yaourtbrassesucrepommerouge100g_html",
-      "name": "Yaourt brasse sucr\u00e9 pomme rouge 100g",
-      "prix_base": 1100,
-      "prix_comparaison": 1100,
+      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
+      "prix_base": 22657000,
+      "prix_comparaison": 22657000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "friteuseelectrique_83055philipsairfryeressentialcompactdigitalhd925200friteusesanshuile08kgtechnologierapidair7prereglagesblanc8710103972082_html",
-      "name": "PHILIPS Airfryer Essential Compact Digital HD9252/00, Friteuse sans huile, 0,8kg, Technologie Rapid Air, 7 pr\u00e9r\u00e9glages, Blanc",
-      "prix_base": 871000,
-      "prix_comparaison": 871000,
+      "cle": "groupeelectrogene_95226generateurelectriqueportabledeltamax16001612wh4sortieca2000wautotalsurtension4600w4897082665243_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)",
+      "prix_base": 11068000,
+      "prix_comparaison": 11068000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "refrigerateuramericain_63326refrigerateursamsungrf18a5202slmultiportes495ll82cminox8806090838439_html",
-      "name": "R\u00e9frig\u00e9rateur am\u00e9ricain SAMSUNG - RF18A5202SL - Multiportes - 495L - L82cm - Inox",
-      "prix_base": 10010000,
-      "prix_comparaison": 10010000,
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13845000,
+      "prix_comparaison": 13845000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,0 +1,28 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "piscinecompletekitpiscine_99520grepiscinerondeaciero480mxh122mimitationboisnordiquefiltrationasable8412081313771_html",
+      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,22m - Imitation bois Nordique Filtration a sable",
+      "prix_base": 10303000,
+      "prix_comparaison": 10303000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "piscinecompletekitpiscine_99517grepiscinerondeaciero370mxh132mimitationboisnordiquefiltrationasable8412081313733_html",
+      "name": "GRE - Piscine ronde acier \u00d83,70m x H: 1,32m - Imitation bois Nordique Filtration a sable",
+      "prix_base": 10700000,
+      "prix_comparaison": 10700000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "piscinecompletekitpiscine_99516grepiscinerondeaciero480mxh132mimitationboisnordiquefiltrationasable8412081313726_html",
+      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,32m - Imitation bois Nordique Filtration a sable",
+      "prix_base": 13428000,
+      "prix_comparaison": 13428000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}
