@@ -1,6 +1,6 @@
-# Market Info - File 36
+# Market Info - File 37
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Riz Makalioka blanc 5 kg**
    - Prix avant: 18,600 Ar

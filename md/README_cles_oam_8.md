@@ -1,6 +1,6 @@
-# Market Info - File 35
+# Market Info - File 36
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Tondeuse autoportée thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m²**
    - Prix avant: 13,013,000 Ar

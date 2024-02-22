@@ -1,16 +1,16 @@
-# Market Info - File 40
+# Market Info - File 41
 
-## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
-   - Prix avant: 4,154 Ar
-   - Prix actuel: 4,154 Ar
+1. **Haricots Rouges séchés 1kg | Tsaramaso mena maina**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 8,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
-   - Prix avant: 105,850 Ar
-   - Prix actuel: 105,850 Ar
+2. **Huile de Soja Hina™ 1L | Riche en Oméga 3 et en Vitamine E**
+   - Prix avant: 10,210 Ar
+   - Prix actuel: 10,210 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

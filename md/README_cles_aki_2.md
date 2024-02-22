@@ -1,6 +1,6 @@
-# Market Info - File 39
+# Market Info - File 40
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Riz Rouge (kg)**
    - Prix avant: 3,300 Ar

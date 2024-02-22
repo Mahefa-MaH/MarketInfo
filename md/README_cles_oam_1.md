@@ -1,6 +1,6 @@
-# Market Info - File 24
+# Market Info - File 25
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Four intégrable/combiné vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox**
    - Prix avant: 12,303,000 Ar

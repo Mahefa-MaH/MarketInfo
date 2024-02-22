@@ -1,6 +1,6 @@
-# Market Info - File 27
+# Market Info - File 28
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Groupe électrogène Hyundai 9/10kva 230V DHY12000XSE**
    - Prix avant: 27,000,000 Ar
