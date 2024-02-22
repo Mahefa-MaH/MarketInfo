@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7500,
-      "prix_comparaison": 7500,
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 6300,
+      "prix_comparaison": 6300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 12451,
-      "name": "Riz rouge long grain complet 500 g",
-      "prix_base": 11900,
-      "prix_comparaison": 11900,
+      "list_id": 368,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 12400,
+      "prix_comparaison": 12400,
       "variation": 0,
       "indice_prix": 100.0
     }

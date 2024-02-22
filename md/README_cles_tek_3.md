@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre blanc 1 kg**
-   - Prix avant: 7,500 Ar
-   - Prix actuel: 7,500 Ar
+2. **Sucrettes blanches  50 g**
+   - Prix avant: 6,300 Ar
+   - Prix actuel: 6,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz rouge long grain complet 500 g**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 11,900 Ar
+3. **Sucre Blanc 1 Kg**
+   - Prix avant: 12,400 Ar
+   - Prix actuel: 12,400 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
