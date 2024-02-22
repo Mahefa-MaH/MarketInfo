@@ -1,122 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_saucissemerguezenviron500g_",
-      "name": "Saucisse Merguez environ 500g",
-      "prix_base": 20600,
-      "prix_comparaison": 24183,
-      "variation": 3583
-    },
-    {
-      "cle": "produit_chipslaysthaisweetchilliflavour20x105g_",
-      "name": "Chips Thai Sweet Chilli  Lays\u2122 105g",
-      "prix_base": 8970,
-      "prix_comparaison": 12180,
-      "variation": 3210
-    },
-    {
-      "cle": "produit_saucissechipolatasenviron500g_",
-      "name": "Saucisse Chipolatas environ 500g",
-      "prix_base": 18228,
-      "prix_comparaison": 20781,
-      "variation": 2553
-    },
-    {
-      "cle": "produit_mortadellemelangeenviron200g_",
-      "name": "Mortadelle M\u00e9lange Environ 200g LeaderPrice\u2122",
-      "prix_base": 6330,
-      "prix_comparaison": 8205,
-      "variation": 1875
-    },
-    {
-      "cle": "produit_cervelasenviron200g_",
-      "name": "Cervelas Environ 200g LeaderPrice\u2122",
-      "prix_base": 7390,
-      "prix_comparaison": 9205,
-      "variation": 1815
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 14000,
+      "prix_comparaison": 16000,
+      "variation": 2000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_cuissedepouletenbarquettechanteclerentre350get500gfraisoucongeleauchoix_",
-      "name": "Cuisse de poulet en barquette Chantecler\u2122 entre 400g et 500g | Surgel\u00e9 | Livraison J+2",
-      "prix_base": 16800,
-      "prix_comparaison": 10582,
-      "variation": -6218
-    },
-    {
-      "cle": "produit_saucissepurporcfumeeenviron500g_",
-      "name": "Saucisse Pur Porc Fum\u00e9e environ 500g",
-      "prix_base": 29080,
-      "prix_comparaison": 27171,
-      "variation": -1909
-    },
-    {
-      "cle": "produit_terrinedefoiedevolailleenviron200g_",
-      "name": "Terrine de Foie de Volaille environ 200g",
-      "prix_base": 5400,
-      "prix_comparaison": 4987,
-      "variation": -413
-    },
-    {
-      "cle": "produit_chouxvertlaisoalegumefrais_",
-      "name": "Choux Vert 1 pi\u00e8ce | Laisoa",
-      "prix_base": 2667,
-      "prix_comparaison": 2400,
-      "variation": -267
-    },
-    {
-      "cle": "produit_minimadeleinesaveurbeurregouty6minimadeleinesmoelleusesgourmandesetsavoureuses_",
-      "name": "Mini madeleine aux Oeufs  Gouty\u2122 | 6 mini madeleines moelleuses, gourmandes et savoureuses",
-      "prix_base": 2300,
-      "prix_comparaison": 2341,
-      "variation": 41
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 14000,
+      "prix_comparaison": 16000,
+      "variation": 2000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_betteraverouge_",
-      "name": "Betterave rouge 500g",
-      "prix_base": 3067,
-      "prix_comparaison": 4800,
-      "indice_prix": 156.50472774698403
-    },
-    {
-      "cle": "produit_croquemonsieurauparmesan_",
-      "name": "Croque monsieur au parmesan",
-      "prix_base": 1000,
-      "prix_comparaison": 1500,
-      "indice_prix": 150.0
-    },
-    {
-      "cle": "produit_saladeverte1piecelegumefrais_",
-      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
-      "prix_base": 1000,
-      "prix_comparaison": 1500,
-      "indice_prix": 150.0
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 14000,
+      "prix_comparaison": 16000,
+      "indice_prix": 114.28571428571429
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_cuissedepouletenbarquettechanteclerentre350get500gfraisoucongeleauchoix_",
-      "name": "Cuisse de poulet en barquette Chantecler\u2122 entre 400g et 500g | Surgel\u00e9 | Livraison J+2",
-      "prix_base": 16800,
-      "prix_comparaison": 10582,
-      "indice_prix": 62.98809523809524
-    },
-    {
-      "cle": "produit_chouxvertlaisoalegumefrais_",
-      "name": "Choux Vert 1 pi\u00e8ce | Laisoa",
-      "prix_base": 2667,
-      "prix_comparaison": 2400,
-      "indice_prix": 89.98875140607424
-    },
-    {
-      "cle": "produit_terrinedefoiedevolailleenviron200g_",
-      "name": "Terrine de Foie de Volaille environ 200g",
-      "prix_base": 5400,
-      "prix_comparaison": 4987,
-      "indice_prix": 92.35185185185185
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 14000,
+      "prix_comparaison": 16000,
+      "indice_prix": 114.28571428571429
     }
   ]
 }

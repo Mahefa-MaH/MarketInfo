@@ -1,160 +1,62 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8515,
-      "name": "Huiles Essentielles Bio Eucalyptus Radi\u00e9 10 ml",
-      "prix_base": 23600,
-      "prix_comparaison": 24600,
-      "variation": 1000
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 6900,
+      "prix_comparaison": 7200,
+      "variation": 300
     },
     {
-      "list_id": 8423,
-      "name": "Huiles Essentielles Bio Arbre \u00e0 Th\u00e9 10 ml",
-      "prix_base": 27800,
-      "prix_comparaison": 29000,
-      "variation": 1200
+      "list_id": 3615,
+      "name": "Chewing-Gums Sans Sucres White Menthe Douce 10 D",
+      "prix_base": 2700,
+      "prix_comparaison": 3100,
+      "variation": 400
     },
     {
-      "list_id": 8506,
-      "name": "Huiles Essentielles Bio Menthe Poivr\u00e9e 10 ml",
-      "prix_base": 27700,
-      "prix_comparaison": 28900,
-      "variation": 1200
+      "list_id": 3617,
+      "name": "Chewing-Gums Sans Sucres White Menthe Givr\u00e9e 10 D",
+      "prix_base": 2700,
+      "prix_comparaison": 3100,
+      "variation": 400
     },
     {
-      "list_id": 8507,
-      "name": "Huiles Essentielles Bio Lavande Vraie 10 ml",
-      "prix_base": 35600,
-      "prix_comparaison": 37100,
-      "variation": 1500
-    },
-    {
-      "list_id": 8508,
-      "name": "Huiles Essentielles Bio Gaultherie 10 ml",
-      "prix_base": 36300,
-      "prix_comparaison": 37900,
-      "variation": 1600
-    },
-    {
-      "list_id": 8470,
-      "name": "Huiles Essentielles Bio Ravintsara 10 ml",
-      "prix_base": 40100,
-      "prix_comparaison": 41800,
-      "variation": 1700
-    },
-    {
-      "list_id": 8511,
-      "name": "Huiles Essentielles Bio Lavande Aspic 10 ml",
-      "prix_base": 39100,
-      "prix_comparaison": 40800,
-      "variation": 1700
-    },
-    {
-      "list_id": 8417,
-      "name": "Huiles Essentielles pour Diffusion Air pur 30 ml",
-      "prix_base": 47300,
-      "prix_comparaison": 49400,
-      "variation": 2100
-    },
-    {
-      "list_id": 8500,
-      "name": "Huiles Essentielles pour Diffusion Citronnelle + 3 Huiles essentielles 30 ml",
-      "prix_base": 47300,
-      "prix_comparaison": 49400,
-      "variation": 2100
-    },
-    {
-      "list_id": 8504,
-      "name": "Huiles Essentielles pour Diffusion Respi 30 ml",
-      "prix_base": 47300,
-      "prix_comparaison": 49400,
-      "variation": 2100
-    },
-    {
-      "list_id": 8509,
-      "name": "Huiles Essentielles Pour Diffusion Zen 30 ml",
-      "prix_base": 47300,
-      "prix_comparaison": 49400,
-      "variation": 2100
+      "list_id": 8331,
+      "name": "D\u00e9odorant Bille Min\u00e9ral Fra\u00eecheur Agrumes 50 ml",
+      "prix_base": 26300,
+      "prix_comparaison": 27400,
+      "variation": 1100
     }
   ],
   "indice de prix": [
     {
-      "list_id": 8507,
-      "name": "Huiles Essentielles Bio Lavande Vraie 10 ml",
-      "prix_base": 35600,
-      "prix_comparaison": 37100,
-      "indice_prix": 104.21348314606742
+      "list_id": 8331,
+      "name": "D\u00e9odorant Bille Min\u00e9ral Fra\u00eecheur Agrumes 50 ml",
+      "prix_base": 26300,
+      "prix_comparaison": 27400,
+      "indice_prix": 104.18250950570342
     },
     {
-      "list_id": 8515,
-      "name": "Huiles Essentielles Bio Eucalyptus Radi\u00e9 10 ml",
-      "prix_base": 23600,
-      "prix_comparaison": 24600,
-      "indice_prix": 104.23728813559322
-    },
-    {
-      "list_id": 8470,
-      "name": "Huiles Essentielles Bio Ravintsara 10 ml",
-      "prix_base": 40100,
-      "prix_comparaison": 41800,
-      "indice_prix": 104.23940149625935
-    },
-    {
-      "list_id": 8423,
-      "name": "Huiles Essentielles Bio Arbre \u00e0 Th\u00e9 10 ml",
-      "prix_base": 27800,
-      "prix_comparaison": 29000,
-      "indice_prix": 104.31654676258992
-    },
-    {
-      "list_id": 8506,
-      "name": "Huiles Essentielles Bio Menthe Poivr\u00e9e 10 ml",
-      "prix_base": 27700,
-      "prix_comparaison": 28900,
-      "indice_prix": 104.33212996389892
-    },
-    {
-      "list_id": 8511,
-      "name": "Huiles Essentielles Bio Lavande Aspic 10 ml",
-      "prix_base": 39100,
-      "prix_comparaison": 40800,
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 6900,
+      "prix_comparaison": 7200,
       "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 8508,
-      "name": "Huiles Essentielles Bio Gaultherie 10 ml",
-      "prix_base": 36300,
-      "prix_comparaison": 37900,
-      "indice_prix": 104.40771349862258
+      "list_id": 3615,
+      "name": "Chewing-Gums Sans Sucres White Menthe Douce 10 D",
+      "prix_base": 2700,
+      "prix_comparaison": 3100,
+      "indice_prix": 114.81481481481481
     },
     {
-      "list_id": 8417,
-      "name": "Huiles Essentielles pour Diffusion Air pur 30 ml",
-      "prix_base": 47300,
-      "prix_comparaison": 49400,
-      "indice_prix": 104.43974630021141
-    },
-    {
-      "list_id": 8500,
-      "name": "Huiles Essentielles pour Diffusion Citronnelle + 3 Huiles essentielles 30 ml",
-      "prix_base": 47300,
-      "prix_comparaison": 49400,
-      "indice_prix": 104.43974630021141
-    },
-    {
-      "list_id": 8504,
-      "name": "Huiles Essentielles pour Diffusion Respi 30 ml",
-      "prix_base": 47300,
-      "prix_comparaison": 49400,
-      "indice_prix": 104.43974630021141
-    },
-    {
-      "list_id": 8509,
-      "name": "Huiles Essentielles Pour Diffusion Zen 30 ml",
-      "prix_base": 47300,
-      "prix_comparaison": 49400,
-      "indice_prix": 104.43974630021141
+      "list_id": 3617,
+      "name": "Chewing-Gums Sans Sucres White Menthe Givr\u00e9e 10 D",
+      "prix_base": 2700,
+      "prix_comparaison": 3100,
+      "indice_prix": 114.81481481481481
     }
   ]
 }
