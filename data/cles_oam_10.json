@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "piscinecompletekitpiscine_99520grepiscinerondeaciero480mxh122mimitationboisnordiquefiltrationasable8412081313771_html",
-      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,22m - Imitation bois Nordique Filtration a sable",
-      "prix_base": 10303000,
-      "prix_comparaison": 10303000,
+      "cle": "tondeuse_100076tondeuseautoportee61cmdecoupe224ccmr22461scheppach4046664176213_html",
+      "name": "Tondeuse rider autoport\u00e9e thermique 61 cm de coupe 224cc MR224-61 SCHEPPACH - Bac de collecte de 150L",
+      "prix_base": 10010000,
+      "prix_comparaison": 10010000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "piscinecompletekitpiscine_99517grepiscinerondeaciero370mxh132mimitationboisnordiquefiltrationasable8412081313733_html",
-      "name": "GRE - Piscine ronde acier \u00d83,70m x H: 1,32m - Imitation bois Nordique Filtration a sable",
-      "prix_base": 10700000,
-      "prix_comparaison": 10700000,
+      "cle": "tondeuseautoporteetracteurtondeuserider_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
+      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
+      "prix_base": 11766000,
+      "prix_comparaison": 11766000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "piscinecompletekitpiscine_99516grepiscinerondeaciero480mxh132mimitationboisnordiquefiltrationasable8412081313726_html",
-      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,32m - Imitation bois Nordique Filtration a sable",
-      "prix_base": 13428000,
-      "prix_comparaison": 13428000,
+      "cle": "tondeuseautoporteetracteurtondeuserider_136387tondeuseautoporteethermique98cmdecoupealpinaat398hatransmissionhydrostatique8008984851559_html",
+      "name": "Tondeuse autoport\u00e9e thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique",
+      "prix_base": 14433000,
+      "prix_comparaison": 14433000,
       "variation": 0,
       "indice_prix": 100.0
     }

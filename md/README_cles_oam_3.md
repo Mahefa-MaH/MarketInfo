@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent**
-   - Prix avant: 12,961,000 Ar
-   - Prix actuel: 12,961,000 Ar
+1. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - vert**
+   - Prix avant: 10,074,000 Ar
+   - Prix actuel: 10,074,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sidéral**
-   - Prix avant: 11,149,000 Ar
-   - Prix actuel: 11,149,000 Ar
+2. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Argent**
+   - Prix avant: 10,074,000 Ar
+   - Prix actuel: 10,074,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sidéral**
-   - Prix avant: 10,696,000 Ar
-   - Prix actuel: 10,696,000 Ar
+3. **Plaque vibrante réversible 820x480mm Honda**
+   - Prix avant: 21,000,000 Ar
+   - Prix actuel: 21,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
-      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
-      "prix_base": 11733000,
-      "prix_comparaison": 11733000,
+      "cle": "outillage_100755coffretaoutils416200mz_html",
+      "name": "Coffret \u00e0 outils 416-200MZ",
+      "prix_base": 13200000,
+      "prix_comparaison": 13200000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_125031applemacstudioapplem2ultra24corecpu60coregpuram64gostockage1tosilver0194253433538_html",
-      "name": "Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver",
-      "prix_base": 20964000,
-      "prix_comparaison": 20964000,
+      "cle": "outillage_104003pilonneusesp80345x285mm_html",
+      "name": "Pilonneuse SP80-345x285 mm",
+      "prix_base": 15800000,
+      "prix_comparaison": 15800000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_124797pcdebureaugamingomenbyhp45lgt221038nfintelcorei913900kram32goddr51tossdgeforcertx408016gofreedo0197497044515_html",
-      "name": "PC de bureau Gaming Omen by HP 45L GT22-1038nf - Intel Core i9-13900K - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDO",
-      "prix_base": 32178000,
-      "prix_comparaison": 32178000,
+      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
+      "prix_base": 14242000,
+      "prix_comparaison": 14242000,
       "variation": 0,
       "indice_prix": 100.0
     }

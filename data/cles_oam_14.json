@@ -1,0 +1,12 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "electricitedomotique_120268onduleurapceasyupssrv6000va230vavecbatterieexterne_html",
+      "name": "Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe",
+      "prix_base": 11000000,
+      "prix_comparaison": 11000000,
+      "variation": 0,
+      "indice_prix": 100.0
+    }
+  ]
+}

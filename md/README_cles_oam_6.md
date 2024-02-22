@@ -2,21 +2,21 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Betonnière 255L gasoil KM178F**
-   - Prix avant: 14,290,000 Ar
-   - Prix actuel: 14,290,000 Ar
+1. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
+   - Prix avant: 10,049,000 Ar
+   - Prix actuel: 10,049,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Betonnière tractable 290 L avec moteur électrique de 2CV**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+2. **Station d'énergie MECAFER 3600W - PW3600**
+   - Prix avant: 10,621,000 Ar
+   - Prix actuel: 10,621,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Betonnière 290L essence GX 160 Honda (BET.350L-RG-LAT)**
-   - Prix avant: 12,500,000 Ar
-   - Prix actuel: 12,500,000 Ar
+3. **Station totale électronique**
+   - Prix avant: 17,600,000 Ar
+   - Prix actuel: 17,600,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

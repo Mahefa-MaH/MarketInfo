@@ -1,22 +1,22 @@
-# Market Info - File 23
+# Market Info - File 24
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **générateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)**
-   - Prix avant: 22,657,000 Ar
-   - Prix actuel: 22,657,000 Ar
+1. **Four intégrable/combiné vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox**
+   - Prix avant: 12,303,000 Ar
+   - Prix actuel: 12,303,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **générateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)**
-   - Prix avant: 11,068,000 Ar
-   - Prix actuel: 11,068,000 Ar
+2. **LG OLED 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI - W**
+   - Prix avant: 10,123,000 Ar
+   - Prix actuel: 10,123,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sidéral**
-   - Prix avant: 13,845,000 Ar
-   - Prix actuel: 13,845,000 Ar
+3. **TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1**
+   - Prix avant: 10,451,000 Ar
+   - Prix actuel: 10,451,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

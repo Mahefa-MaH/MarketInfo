@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
+      "cle": "groupeelectrogene_95225generateurelectriqueportabledeltamax20002016wh4sortieca2400wautotalsurtension4600w4897082664710_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA MAX (2000), 2016Wh , 4 sortie CA - 2400 W au total (surtension 4600 W)",
+      "prix_base": 12167000,
+      "prix_comparaison": 12167000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
-      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
-      "prix_base": 11801000,
-      "prix_comparaison": 11801000,
+      "cle": "tondeuse_88490tondeuserobotgardenasilenolife125015103264078500043816_html",
+      "name": "Tondeuse robot connect\u00e9e Bluetooth GARDENA SILENO life 1250 - 1250 m\u00b2 - 15103-26",
+      "prix_base": 10946000,
+      "prix_comparaison": 10946000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_100755coffretaoutils416200mz_html",
-      "name": "Coffret \u00e0 outils 416-200MZ",
-      "prix_base": 13200000,
-      "prix_comparaison": 13200000,
+      "cle": "tondeuserobot_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
+      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
+      "prix_base": 21218000,
+      "prix_comparaison": 21218000,
       "variation": 0,
       "indice_prix": 100.0
     }

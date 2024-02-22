@@ -1,22 +1,22 @@
-# Market Info - File 37
+# Market Info - File 38
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Pilonneuse SP80-345x285 mm**
-   - Prix avant: 15,800,000 Ar
-   - Prix actuel: 15,800,000 Ar
+1. **Nettoyeur HP eau chaude 170 bars***
+   - Prix avant: 12,650,000 Ar
+   - Prix actuel: 12,650,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Station d'énergie MECAFER 3600W - PW3600**
-   - Prix avant: 10,621,000 Ar
-   - Prix actuel: 10,621,000 Ar
+2. **MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go**
+   - Prix avant: 12,384,000 Ar
+   - Prix actuel: 12,384,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Station totale électronique**
-   - Prix avant: 17,600,000 Ar
-   - Prix actuel: 17,600,000 Ar
+3. **SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI**
+   - Prix avant: 11,076,000 Ar
+   - Prix actuel: 11,076,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

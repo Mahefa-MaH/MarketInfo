@@ -1,22 +1,22 @@
-# Market Info - File 19
+# Market Info - File 20
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz makalioka 1kg**
-   - Prix avant: 4,350 Ar
-   - Prix actuel: 4,350 Ar
+1. **Huile de soja Hina 20L**
+   - Prix avant: 179,400 Ar
+   - Prix actuel: 179,400 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz makalioka 5kg**
-   - Prix avant: 21,750 Ar
-   - Prix actuel: 21,750 Ar
+2. **Farine de riz 1kg**
+   - Prix avant: 5,000 Ar
+   - Prix actuel: 5,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz Makalioka sac de 1kg**
-   - Prix avant: 4,490 Ar
-   - Prix actuel: 4,490 Ar
+3. **Riz blanc de l'Itasy 25kg**
+   - Prix avant: 92,000 Ar
+   - Prix actuel: 92,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

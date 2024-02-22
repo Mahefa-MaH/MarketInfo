@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
-      "prix_base": 11580000,
-      "prix_comparaison": 11580000,
+      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
+      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 11580000,
-      "prix_comparaison": 11580000,
+      "cle": "tondeuse_95365gardenatondeuserobotsmartsilenolife1000tondsouslapluieetpassagesetroitsappsilencieuxrobotdetonte4078500060592_html",
+      "name": "GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages \u00e9troits, App, Silencieux, Robot de Tonte",
+      "prix_base": 11434000,
+      "prix_comparaison": 11434000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
-      "prix_base": 10696000,
-      "prix_comparaison": 10696000,
+      "cle": "ordinateurtoutenun_133166apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursbleu0194253781509_html",
+      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Bleu",
+      "prix_base": 10074000,
+      "prix_comparaison": 10074000,
       "variation": 0,
       "indice_prix": 100.0
     }

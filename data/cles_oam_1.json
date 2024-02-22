@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
-      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
-      "prix_base": 22657000,
-      "prix_comparaison": 22657000,
+      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
+      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
+      "prix_base": 12303000,
+      "prix_comparaison": 12303000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_95226generateurelectriqueportabledeltamax16001612wh4sortieca2000wautotalsurtension4600w4897082665243_html",
-      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)",
-      "prix_base": 11068000,
-      "prix_comparaison": 11068000,
+      "cle": "televiseurled_133093lgoled65c3tvoled65163cm4kultrahd3840x2160100hzsmarttvprocesseura9gen6dolbyatmos4xhdmiw8806091792013_html",
+      "name": "LG OLED 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI - W",
+      "prix_base": 10123000,
+      "prix_comparaison": 10123000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 13845000,
-      "prix_comparaison": 13845000,
+      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
+      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
+      "prix_base": 10451000,
+      "prix_comparaison": 10451000,
       "variation": 0,
       "indice_prix": 100.0
     }

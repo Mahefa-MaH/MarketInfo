@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
+      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
+      "prix_base": 13013000,
+      "prix_comparaison": 13013000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
-      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
-      "prix_base": 27000000,
-      "prix_comparaison": 27000000,
+      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
+      "prix_base": 22657000,
+      "prix_comparaison": 22657000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
-      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
-      "prix_base": 13208000,
-      "prix_comparaison": 13208000,
+      "cle": "groupeelectrogene_95226generateurelectriqueportabledeltamax16001612wh4sortieca2000wautotalsurtension4600w4897082665243_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)",
+      "prix_base": 11068000,
+      "prix_comparaison": 11068000,
       "variation": 0,
       "indice_prix": 100.0
     }
