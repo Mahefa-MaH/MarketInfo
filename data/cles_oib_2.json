@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14900,
+      "prix_comparaison": 14900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_8994huiledesoja1l_html",
-      "name": "Huile de soja 1L",
-      "prix_base": 15500,
-      "prix_comparaison": 15500,
+      "cle": "promo2023_4952rizdeluxemakalioka5kg_html",
+      "name": "Riz de luxe Makalioka 5kg",
+      "prix_base": 19550,
+      "prix_comparaison": 19550,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8900,
-      "prix_comparaison": 8900,
+      "cle": "promo2023_4951rizdetablemakalioka5kg_html",
+      "name": "Riz de table Makalioka 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
       "variation": 0,
       "indice_prix": 100.0
     }
