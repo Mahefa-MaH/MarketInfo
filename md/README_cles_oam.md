@@ -2,15 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Bosch KGN39AIAT - Série 6 Réfrigérateur combiné pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox**
-   - Prix avant: 11,017,000 Ar
-   - Prix actuel: 11,017,000 Ar
+1. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
+   - Prix avant: 10,049,000 Ar
+   - Prix actuel: 10,049,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **DEKO DREAM Ensemble matelas+sommier relaxation électrique ERGO 9 Dreamzone - 2x90x200 cm - Matelas ressorts ensachés**
-   - Prix avant: 13,428,000 Ar
-   - Prix actuel: 13,428,000 Ar
+2. **Armoire a fusils Ranger BURG-WÄCHTER 800/8 K**
+   - Prix avant: 13,103,000 Ar
+   - Prix actuel: 13,103,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go**
+   - Prix avant: 12,384,000 Ar
+   - Prix actuel: 12,384,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

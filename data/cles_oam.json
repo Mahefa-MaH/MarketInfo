@@ -1,18 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
-      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
-      "prix_base": 11017000,
-      "prix_comparaison": 11017000,
+      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
+      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
+      "prix_base": 10049000,
+      "prix_comparaison": 10049000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ensemblesommiermatelas_52218dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x90x200cmmatelasressortsensaches5412618134476_html",
-      "name": "DEKO DREAM Ensemble matelas+sommier relaxation \u00e9lectrique ERGO 9 Dreamzone - 2x90x200 cm - Matelas ressorts ensach\u00e9s",
-      "prix_base": 13428000,
-      "prix_comparaison": 13428000,
+      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
+      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
+      "prix_base": 13103000,
+      "prix_comparaison": 13103000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
+      "prix_base": 12384000,
+      "prix_comparaison": 12384000,
       "variation": 0,
       "indice_prix": 100.0
     }
