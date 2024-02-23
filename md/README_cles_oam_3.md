@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - vert**
-   - Prix avant: 10,074,000 Ar
-   - Prix actuel: 10,074,000 Ar
+1. **Tondeuse autoportée thermique ALPINA AT2 66 QA - 66cm de coupe - éjection bac 150L**
+   - Prix avant: 11,766,000 Ar
+   - Prix actuel: 11,766,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Argent**
-   - Prix avant: 10,074,000 Ar
-   - Prix actuel: 10,074,000 Ar
+2. **Tondeuse autoportée thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique**
+   - Prix avant: 14,433,000 Ar
+   - Prix actuel: 14,433,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Plaque vibrante réversible 820x480mm Honda**
-   - Prix avant: 21,000,000 Ar
-   - Prix actuel: 21,000,000 Ar
+3. **Echafaudage roulant Neolium 200 Line 14m**
+   - Prix avant: 37,000,000 Ar
+   - Prix actuel: 37,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

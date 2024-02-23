@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 6627,
-      "prix_base": 55500,
-      "name": "Lait infantile 2\u00e8me \u00e2ge Nursie 900 g",
-      "prix_comparaison": 76400,
-      "variation": 20900
+      "list_id": 8358,
+      "prix_base": 66800,
+      "name": "Moustiquaire Sp\u00e9ciale Lit Adulte (non impr\u00e9gn\u00e9e)",
+      "prix_comparaison": 69700,
+      "variation": 2900
     },
     {
-      "list_id": 6626,
-      "prix_base": 55600,
-      "name": "Lait infantile 1\u00e8re \u00e2ge Nursie 900 g",
-      "prix_comparaison": 76400,
-      "variation": 20800
+      "list_id": 8786,
+      "prix_base": 17700,
+      "name": "Fromage gouter 150 g",
+      "prix_comparaison": 20400,
+      "variation": 2700
     },
     {
-      "list_id": 6688,
-      "prix_base": 28000,
-      "name": "Lait infantile 1\u00e8re \u00e2ge Nursie Confort 400 g",
-      "prix_comparaison": 38400,
-      "variation": 10400
+      "list_id": 8787,
+      "prix_base": 17300,
+      "name": "Fromage barquette 200 g",
+      "prix_comparaison": 19900,
+      "variation": 2600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 8146,
-      "prix_base": 49142,
-      "name": "S\u00e8ve nutritive pour corps au Mono\u00ef de Tahiti 200 ml",
-      "prix_comparaison": 43200,
-      "variation": -5942
+      "list_id": 3693,
+      "prix_base": 7700,
+      "name": "Papier Cuisson 10 M",
+      "prix_comparaison": 8600,
+      "variation": 900
     },
     {
-      "list_id": 8147,
-      "prix_base": 33850,
-      "name": "Baume au Mono\u00ef corps et cheveux 100 ml",
-      "prix_comparaison": 29400,
-      "variation": -4450
+      "list_id": 8787,
+      "prix_base": 17300,
+      "name": "Fromage barquette 200 g",
+      "prix_comparaison": 19900,
+      "variation": 2600
     },
     {
-      "list_id": 8353,
-      "prix_base": 46200,
-      "name": "Soin nettoyant pour b\u00e9b\u00e9 Liniment Ol\u00e9o-calcaire Bio 480 ml",
-      "prix_comparaison": 45300,
-      "variation": -900
+      "list_id": 8786,
+      "prix_base": 17700,
+      "name": "Fromage gouter 150 g",
+      "prix_comparaison": 20400,
+      "variation": 2700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3490,
-      "name": "Olives Vertes D\u00e9noyaut\u00e9es 370 Cl",
-      "prix_base": 7200,
-      "prix_comparaison": 11200,
-      "indice_prix": 155.55555555555554
+      "list_id": 8786,
+      "name": "Fromage gouter 150 g",
+      "prix_base": 17700,
+      "prix_comparaison": 20400,
+      "indice_prix": 115.2542372881356
     },
     {
-      "list_id": 6627,
-      "name": "Lait infantile 2\u00e8me \u00e2ge Nursie 900 g",
-      "prix_base": 55500,
-      "prix_comparaison": 76400,
-      "indice_prix": 137.65765765765767
+      "list_id": 8787,
+      "name": "Fromage barquette 200 g",
+      "prix_base": 17300,
+      "prix_comparaison": 19900,
+      "indice_prix": 115.02890173410404
     },
     {
-      "list_id": 6685,
-      "name": "Lait infantile 1\u00e8re \u00e2ge Nursie 400 g",
-      "prix_base": 25300,
-      "prix_comparaison": 34800,
-      "indice_prix": 137.5494071146245
+      "list_id": 3693,
+      "name": "Papier Cuisson 10 M",
+      "prix_base": 7700,
+      "prix_comparaison": 8600,
+      "indice_prix": 111.68831168831169
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 8147,
-      "name": "Baume au Mono\u00ef corps et cheveux 100 ml",
-      "prix_base": 33850,
-      "prix_comparaison": 29400,
-      "indice_prix": 86.85376661742984
+      "list_id": 8358,
+      "name": "Moustiquaire Sp\u00e9ciale Lit Adulte (non impr\u00e9gn\u00e9e)",
+      "prix_base": 66800,
+      "prix_comparaison": 69700,
+      "indice_prix": 104.34131736526946
     },
     {
-      "list_id": 8146,
-      "name": "S\u00e8ve nutritive pour corps au Mono\u00ef de Tahiti 200 ml",
-      "prix_base": 49142,
-      "prix_comparaison": 43200,
-      "indice_prix": 87.90851003215172
+      "list_id": 3693,
+      "name": "Papier Cuisson 10 M",
+      "prix_base": 7700,
+      "prix_comparaison": 8600,
+      "indice_prix": 111.68831168831169
     },
     {
-      "list_id": 8353,
-      "name": "Soin nettoyant pour b\u00e9b\u00e9 Liniment Ol\u00e9o-calcaire Bio 480 ml",
-      "prix_base": 46200,
-      "prix_comparaison": 45300,
-      "indice_prix": 98.05194805194805
+      "list_id": 8787,
+      "name": "Fromage barquette 200 g",
+      "prix_base": 17300,
+      "prix_comparaison": 19900,
+      "indice_prix": 115.02890173410404
     }
   ]
 }

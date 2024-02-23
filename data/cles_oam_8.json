@@ -1,26 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
-      "prix_base": 13013000,
-      "prix_comparaison": 13013000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
-      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
-      "prix_base": 22657000,
-      "prix_comparaison": 22657000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "groupeelectrogene_95226generateurelectriqueportabledeltamax16001612wh4sortieca2000wautotalsurtension4600w4897082665243_html",
-      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)",
-      "prix_base": 11068000,
-      "prix_comparaison": 11068000,
+      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
+      "prix_base": 12384000,
+      "prix_comparaison": 12384000,
       "variation": 0,
       "indice_prix": 100.0
     }

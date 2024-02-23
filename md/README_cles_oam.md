@@ -1,6 +1,6 @@
-# Market Info - File 27
+# Market Info - File 28
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
    - Prix avant: 10,049,000 Ar

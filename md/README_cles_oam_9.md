@@ -1,6 +1,6 @@
-# Market Info - File 30
+# Market Info - File 31
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **générateur electrique portable DELTA MAX (2000), 2016Wh , 4 sortie CA - 2400 W au total (surtension 4600 W)**
    - Prix avant: 12,167,000 Ar

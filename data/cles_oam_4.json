@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
-      "name": "Nettoyeur HP eau chaude 170 bars*",
-      "prix_base": 12650000,
-      "prix_comparaison": 12650000,
+      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
+      "name": "Echafaudage Speed XL Ht travail 10.44m",
+      "prix_base": 22000000,
+      "prix_comparaison": 22000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
-      "prix_base": 12384000,
-      "prix_comparaison": 12384000,
+      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
+      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
+      "prix_base": 10049000,
+      "prix_comparaison": 10049000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "televiseurled_96219samsung85au7172tvledcrystal4kuhd85214cmsmarttv3portshdmi8806094907964_html",
-      "name": "SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI",
-      "prix_base": 11076000,
-      "prix_comparaison": 11076000,
+      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
+      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
+      "prix_base": 13103000,
+      "prix_comparaison": 13103000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_100755coffretaoutils416200mz_html",
-      "name": "Coffret \u00e0 outils 416-200MZ",
-      "prix_base": 13200000,
-      "prix_comparaison": 13200000,
+      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
+      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
+      "prix_base": 27000000,
+      "prix_comparaison": 27000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_104003pilonneusesp80345x285mm_html",
-      "name": "Pilonneuse SP80-345x285 mm",
-      "prix_base": 15800000,
-      "prix_comparaison": 15800000,
+      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
+      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
+      "prix_base": 28000000,
+      "prix_comparaison": 28000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
-      "prix_base": 14242000,
-      "prix_comparaison": 14242000,
+      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
+      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
+      "prix_base": 10450000,
+      "prix_comparaison": 10450000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
-      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
-      "prix_base": 12303000,
-      "prix_comparaison": 12303000,
+      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
+      "name": "Nettoyeur HP eau chaude 170 bars*",
+      "prix_base": 12650000,
+      "prix_comparaison": 12650000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "televiseurled_133093lgoled65c3tvoled65163cm4kultrahd3840x2160100hzsmarttvprocesseura9gen6dolbyatmos4xhdmiw8806091792013_html",
-      "name": "LG OLED 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI - W",
-      "prix_base": 10123000,
-      "prix_comparaison": 10123000,
+      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
+      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
+      "prix_base": 21000000,
+      "prix_comparaison": 21000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
-      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
-      "prix_base": 10451000,
-      "prix_comparaison": 10451000,
+      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
+      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
+      "prix_base": 19532000,
+      "prix_comparaison": 19532000,
       "variation": 0,
       "indice_prix": 100.0
     }

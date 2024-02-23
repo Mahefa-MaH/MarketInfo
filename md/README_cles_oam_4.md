@@ -1,22 +1,22 @@
-# Market Info - File 39
+# Market Info - File 41
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Nettoyeur HP eau chaude 170 bars***
-   - Prix avant: 12,650,000 Ar
-   - Prix actuel: 12,650,000 Ar
+1. **Echafaudage Speed XL Ht travail 10.44m**
+   - Prix avant: 22,000,000 Ar
+   - Prix actuel: 22,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go**
-   - Prix avant: 12,384,000 Ar
-   - Prix actuel: 12,384,000 Ar
+2. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
+   - Prix avant: 10,049,000 Ar
+   - Prix actuel: 10,049,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI**
-   - Prix avant: 11,076,000 Ar
-   - Prix actuel: 11,076,000 Ar
+3. **Armoire a fusils Ranger BURG-WÄCHTER 800/8 K**
+   - Prix avant: 13,103,000 Ar
+   - Prix actuel: 13,103,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

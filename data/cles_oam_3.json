@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurtoutenun_133164apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursvert0194253780625_html",
-      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - vert",
-      "prix_base": 10074000,
-      "prix_comparaison": 10074000,
+      "cle": "tondeuseautoporteetracteurtondeuserider_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
+      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
+      "prix_base": 11766000,
+      "prix_comparaison": 11766000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurtoutenun_133162apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursargent0194253778868_html",
-      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Argent",
-      "prix_base": 10074000,
-      "prix_comparaison": 10074000,
+      "cle": "tondeuseautoporteetracteurtondeuserider_136387tondeuseautoporteethermique98cmdecoupealpinaat398hatransmissionhydrostatique8008984851559_html",
+      "name": "Tondeuse autoport\u00e9e thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique",
+      "prix_base": 14433000,
+      "prix_comparaison": 14433000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
-      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
-      "prix_base": 21000000,
-      "prix_comparaison": 21000000,
+      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
+      "name": "Echafaudage roulant Neolium 200 Line 14m",
+      "prix_base": 37000000,
+      "prix_comparaison": 37000000,
       "variation": 0,
       "indice_prix": 100.0
     }

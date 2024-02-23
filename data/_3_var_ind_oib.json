@@ -8,42 +8,21 @@
       "variation": 205000
     },
     {
-      "cle": "promo2023_14667marvelsmidnightsunsiaditionenhancedjeups5_html",
-      "name": "Marvel's Midnight Suns - \u00cc\u00e4dition Enhanced Jeu PS5",
-      "prix_base": 175000,
-      "prix_comparaison": 171000,
-      "variation": -4000
-    },
-    {
-      "cle": "promo2023_14671mafiatrilogyjeups4_html",
-      "name": "Mafia : Trilogy Jeu PS4",
-      "prix_base": 191000,
-      "prix_comparaison": 187000,
-      "variation": -4000
-    },
-    {
       "cle": "promo2023_14673dragonballzkakarotjeups5_html",
       "name": "Dragon Ball Z : Kakarot Jeu PS5",
       "prix_base": 191000,
       "prix_comparaison": 187000,
       "variation": -4000
+    },
+    {
+      "cle": "promo2023_14672assassinscreedvalhallajeups5_html",
+      "name": "Assassin's Creed Valhalla Jeu PS5",
+      "prix_base": 206000,
+      "prix_comparaison": 201000,
+      "variation": -5000
     }
   ],
   "prix_diminues": [
-    {
-      "cle": "promo2023_14669packconsolexboxseriesx1000godiabloiv_html",
-      "name": "Pack Console Xbox Series X - 1000 Go +  Diablo IV",
-      "prix_base": 3439000,
-      "prix_comparaison": 3114000,
-      "variation": -325000
-    },
-    {
-      "cle": "promo2023_14668packconsolexboxseriess512gogamepassultimate6mois_html",
-      "name": "Pack Console Xbox Series S - 512 Go + Game Pass Ultimate 6 mois",
-      "prix_base": 2265000,
-      "prix_comparaison": 2211000,
-      "variation": -54000
-    },
     {
       "cle": "promo2023_14674hotwheelsunleashed2turbochargedjeuxboxseriesxetxboxone_html",
       "name": "Hot Wheels Unleashed 2 Turbocharged - Jeu Xbox Series X et Xbox One",
@@ -57,6 +36,13 @@
       "prix_base": 206000,
       "prix_comparaison": 201000,
       "variation": -5000
+    },
+    {
+      "cle": "promo2023_14673dragonballzkakarotjeups5_html",
+      "name": "Dragon Ball Z : Kakarot Jeu PS5",
+      "prix_base": 191000,
+      "prix_comparaison": 187000,
+      "variation": -4000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -68,13 +54,6 @@
       "indice_prix": 322.82608695652175
     },
     {
-      "cle": "promo2023_14671mafiatrilogyjeups4_html",
-      "name": "Mafia : Trilogy Jeu PS4",
-      "prix_base": 191000,
-      "prix_comparaison": 187000,
-      "indice_prix": 97.90575916230367
-    },
-    {
       "cle": "promo2023_14673dragonballzkakarotjeups5_html",
       "name": "Dragon Ball Z : Kakarot Jeu PS5",
       "prix_base": 191000,
@@ -82,21 +61,14 @@
       "indice_prix": 97.90575916230367
     },
     {
-      "cle": "promo2023_14667marvelsmidnightsunsiaditionenhancedjeups5_html",
-      "name": "Marvel's Midnight Suns - \u00cc\u00e4dition Enhanced Jeu PS5",
-      "prix_base": 175000,
-      "prix_comparaison": 171000,
-      "indice_prix": 97.71428571428571
+      "cle": "promo2023_14672assassinscreedvalhallajeups5_html",
+      "name": "Assassin's Creed Valhalla Jeu PS5",
+      "prix_base": 206000,
+      "prix_comparaison": 201000,
+      "indice_prix": 97.57281553398059
     }
   ],
   "indices_prix_plus_faibles": [
-    {
-      "cle": "promo2023_14669packconsolexboxseriesx1000godiabloiv_html",
-      "name": "Pack Console Xbox Series X - 1000 Go +  Diablo IV",
-      "prix_base": 3439000,
-      "prix_comparaison": 3114000,
-      "indice_prix": 90.54957836580401
-    },
     {
       "cle": "promo2023_14674hotwheelsunleashed2turbochargedjeuxboxseriesxetxboxone_html",
       "name": "Hot Wheels Unleashed 2 Turbocharged - Jeu Xbox Series X et Xbox One",
@@ -112,11 +84,11 @@
       "indice_prix": 97.57281553398059
     },
     {
-      "cle": "promo2023_14668packconsolexboxseriess512gogamepassultimate6mois_html",
-      "name": "Pack Console Xbox Series S - 512 Go + Game Pass Ultimate 6 mois",
-      "prix_base": 2265000,
-      "prix_comparaison": 2211000,
-      "indice_prix": 97.6158940397351
+      "cle": "promo2023_14673dragonballzkakarotjeups5_html",
+      "name": "Dragon Ball Z : Kakarot Jeu PS5",
+      "prix_base": 191000,
+      "prix_comparaison": 187000,
+      "indice_prix": 97.90575916230367
     }
   ]
 }
