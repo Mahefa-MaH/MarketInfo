@@ -1,62 +1,132 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13109,
-      "name": "Sucre blanc 1 Kg",
+      "list_id": 9687,
+      "name": "Sucre blanc 1 kg",
       "prix_base": 6900,
       "prix_comparaison": 7200,
       "variation": 300
     },
     {
-      "list_id": 3615,
-      "name": "Chewing-Gums Sans Sucres White Menthe Douce 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 3100,
+      "list_id": 3700,
+      "name": "Cr\u00e8me Chaussure Applicateur Noir 75 Ml",
+      "prix_base": 10500,
+      "prix_comparaison": 10900,
       "variation": 400
     },
     {
-      "list_id": 3617,
-      "name": "Chewing-Gums Sans Sucres White Menthe Givr\u00e9e 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 3100,
-      "variation": 400
+      "list_id": 3655,
+      "name": "Bonbons Sans Sucres Mini Mints Menthe Verte 12,5 G",
+      "prix_base": 5000,
+      "prix_comparaison": 5800,
+      "variation": 800
     },
     {
-      "list_id": 8331,
-      "name": "D\u00e9odorant Bille Min\u00e9ral Fra\u00eecheur Agrumes 50 ml",
-      "prix_base": 26300,
-      "prix_comparaison": 27400,
-      "variation": 1100
+      "list_id": 3656,
+      "name": "Bonbons Sans Sucres Mini Mints Menthe Forte 12,5 G",
+      "prix_base": 5000,
+      "prix_comparaison": 5800,
+      "variation": 800
+    },
+    {
+      "list_id": 3695,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Tube Marron 100 Ml",
+      "prix_base": 20700,
+      "prix_comparaison": 21900,
+      "variation": 1200
+    },
+    {
+      "list_id": 3696,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Tube Incolore 100 Ml",
+      "prix_base": 20700,
+      "prix_comparaison": 21900,
+      "variation": 1200
+    },
+    {
+      "list_id": 3697,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Noir Boite 50 Ml",
+      "prix_base": 25700,
+      "prix_comparaison": 27200,
+      "variation": 1500
+    },
+    {
+      "list_id": 3698,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Miel Boite 50 Ml",
+      "prix_base": 25700,
+      "prix_comparaison": 27200,
+      "variation": 1500
+    },
+    {
+      "list_id": 3699,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Marine Boite 50 Ml",
+      "prix_base": 25700,
+      "prix_comparaison": 27200,
+      "variation": 1500
     }
   ],
   "indice de prix": [
     {
-      "list_id": 8331,
-      "name": "D\u00e9odorant Bille Min\u00e9ral Fra\u00eecheur Agrumes 50 ml",
-      "prix_base": 26300,
-      "prix_comparaison": 27400,
-      "indice_prix": 104.18250950570342
+      "list_id": 3700,
+      "name": "Cr\u00e8me Chaussure Applicateur Noir 75 Ml",
+      "prix_base": 10500,
+      "prix_comparaison": 10900,
+      "indice_prix": 103.80952380952381
     },
     {
-      "list_id": 13109,
-      "name": "Sucre blanc 1 Kg",
+      "list_id": 9687,
+      "name": "Sucre blanc 1 kg",
       "prix_base": 6900,
       "prix_comparaison": 7200,
       "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 3615,
-      "name": "Chewing-Gums Sans Sucres White Menthe Douce 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 3100,
-      "indice_prix": 114.81481481481481
+      "list_id": 3695,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Tube Marron 100 Ml",
+      "prix_base": 20700,
+      "prix_comparaison": 21900,
+      "indice_prix": 105.79710144927536
     },
     {
-      "list_id": 3617,
-      "name": "Chewing-Gums Sans Sucres White Menthe Givr\u00e9e 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 3100,
-      "indice_prix": 114.81481481481481
+      "list_id": 3696,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Tube Incolore 100 Ml",
+      "prix_base": 20700,
+      "prix_comparaison": 21900,
+      "indice_prix": 105.79710144927536
+    },
+    {
+      "list_id": 3697,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Noir Boite 50 Ml",
+      "prix_base": 25700,
+      "prix_comparaison": 27200,
+      "indice_prix": 105.83657587548637
+    },
+    {
+      "list_id": 3698,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Miel Boite 50 Ml",
+      "prix_base": 25700,
+      "prix_comparaison": 27200,
+      "indice_prix": 105.83657587548637
+    },
+    {
+      "list_id": 3699,
+      "name": "Cr\u00e8me Pour Cuir De Luxe Marine Boite 50 Ml",
+      "prix_base": 25700,
+      "prix_comparaison": 27200,
+      "indice_prix": 105.83657587548637
+    },
+    {
+      "list_id": 3655,
+      "name": "Bonbons Sans Sucres Mini Mints Menthe Verte 12,5 G",
+      "prix_base": 5000,
+      "prix_comparaison": 5800,
+      "indice_prix": 116.0
+    },
+    {
+      "list_id": 3656,
+      "name": "Bonbons Sans Sucres Mini Mints Menthe Forte 12,5 G",
+      "prix_base": 5000,
+      "prix_comparaison": 5800,
+      "indice_prix": 116.0
     }
   ]
 }

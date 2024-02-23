@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
-      "name": "Echafaudage Speed XL Ht travail 10.44m",
-      "prix_base": 22000000,
-      "prix_comparaison": 22000000,
+      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
+      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
-      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
-      "prix_base": 10049000,
-      "prix_comparaison": 10049000,
+      "cle": "piscinecompletekitpiscine_136589piscinerectangulairetubulaireultraxtrintex26374gn975x488x132mfiltreasablegris6941057413853_html",
+      "name": "Piscine rectangulaire tubulaire Ultra XTR - INTEX - 26374GN - 9,75 x 4,88 x 1,32m - Filtre a sable - Gris",
+      "prix_base": 11454000,
+      "prix_comparaison": 11454000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
-      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
-      "prix_base": 13103000,
-      "prix_comparaison": 13103000,
+      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
+      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
+      "prix_base": 21450000,
+      "prix_comparaison": 21450000,
       "variation": 0,
       "indice_prix": 100.0
     }

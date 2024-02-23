@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Tondeuse autoportée thermique ALPINA AT2 66 QA - 66cm de coupe - éjection bac 150L**
-   - Prix avant: 11,766,000 Ar
-   - Prix actuel: 11,766,000 Ar
+1. **Plaque vibrante réversible 820x480mm Honda**
+   - Prix avant: 21,000,000 Ar
+   - Prix actuel: 21,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Tondeuse autoportée thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique**
-   - Prix avant: 14,433,000 Ar
-   - Prix actuel: 14,433,000 Ar
+2. **Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magnésium - Classe énergétique A+**
+   - Prix avant: 19,532,000 Ar
+   - Prix actuel: 19,532,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Echafaudage roulant Neolium 200 Line 14m**
-   - Prix avant: 37,000,000 Ar
-   - Prix actuel: 37,000,000 Ar
+3. **Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magnésium**
+   - Prix avant: 16,683,000 Ar
+   - Prix actuel: 16,683,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -13,20 +13,6 @@
       "prix_base": 191000,
       "prix_comparaison": 187000,
       "variation": -4000
-    },
-    {
-      "cle": "promo2023_14672assassinscreedvalhallajeups5_html",
-      "name": "Assassin's Creed Valhalla Jeu PS5",
-      "prix_base": 206000,
-      "prix_comparaison": 201000,
-      "variation": -5000
-    },
-    {
-      "cle": "promo2023_14674hotwheelsunleashed2turbochargedjeuxboxseriesxetxboxone_html",
-      "name": "Hot Wheels Unleashed 2 Turbocharged - Jeu Xbox Series X et Xbox One",
-      "prix_base": 264000,
-      "prix_comparaison": 257000,
-      "variation": -7000
     }
   ],
   "prix_diminues": [
@@ -43,20 +29,6 @@
       "prix_base": 206000,
       "prix_comparaison": 201000,
       "variation": -5000
-    },
-    {
-      "cle": "promo2023_14673dragonballzkakarotjeups5_html",
-      "name": "Dragon Ball Z : Kakarot Jeu PS5",
-      "prix_base": 191000,
-      "prix_comparaison": 187000,
-      "variation": -4000
-    },
-    {
-      "cle": "promo2023_14670assassinscreedmiragejeups4_html",
-      "name": "Assassin's Creed Mirage Jeu PS4",
-      "prix_base": 92000,
-      "prix_comparaison": 297000,
-      "variation": 205000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -73,20 +45,6 @@
       "prix_base": 191000,
       "prix_comparaison": 187000,
       "indice_prix": 97.90575916230367
-    },
-    {
-      "cle": "promo2023_14672assassinscreedvalhallajeups5_html",
-      "name": "Assassin's Creed Valhalla Jeu PS5",
-      "prix_base": 206000,
-      "prix_comparaison": 201000,
-      "indice_prix": 97.57281553398059
-    },
-    {
-      "cle": "promo2023_14674hotwheelsunleashed2turbochargedjeuxboxseriesxetxboxone_html",
-      "name": "Hot Wheels Unleashed 2 Turbocharged - Jeu Xbox Series X et Xbox One",
-      "prix_base": 264000,
-      "prix_comparaison": 257000,
-      "indice_prix": 97.34848484848484
     }
   ],
   "indices_prix_plus_faibles": [
@@ -103,20 +61,6 @@
       "prix_base": 206000,
       "prix_comparaison": 201000,
       "indice_prix": 97.57281553398059
-    },
-    {
-      "cle": "promo2023_14673dragonballzkakarotjeups5_html",
-      "name": "Dragon Ball Z : Kakarot Jeu PS5",
-      "prix_base": 191000,
-      "prix_comparaison": 187000,
-      "indice_prix": 97.90575916230367
-    },
-    {
-      "cle": "promo2023_14670assassinscreedmiragejeups4_html",
-      "name": "Assassin's Creed Mirage Jeu PS4",
-      "prix_base": 92000,
-      "prix_comparaison": 297000,
-      "indice_prix": 322.82608695652175
     }
   ]
 }

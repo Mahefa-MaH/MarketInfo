@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Tondeuse rider autoportée thermique 61 cm de coupe 224cc MR224-61 SCHEPPACH - Bac de collecte de 150L**
-   - Prix avant: 10,010,000 Ar
-   - Prix actuel: 10,010,000 Ar
+1. **Groupe électrogène Hyundai 9/10kva 230V DHY12000XSE**
+   - Prix avant: 27,000,000 Ar
+   - Prix actuel: 27,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Tondeuse autoportée thermique ALPINA AT2 66 QA - 66cm de coupe - éjection bac 150L**
-   - Prix avant: 11,766,000 Ar
-   - Prix actuel: 11,766,000 Ar
+2. **Groupe electrogène 13000 H mn ins E TBL**
+   - Prix avant: 28,000,000 Ar
+   - Prix actuel: 28,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Tondeuse autoportée thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique**
-   - Prix avant: 14,433,000 Ar
-   - Prix actuel: 14,433,000 Ar
+3. **Groupe de soudage essence 250Amp 4.5KVA Aux 220V**
+   - Prix avant: 10,450,000 Ar
+   - Prix actuel: 10,450,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

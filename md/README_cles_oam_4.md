@@ -2,21 +2,21 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Echafaudage Speed XL Ht travail 10.44m**
-   - Prix avant: 22,000,000 Ar
-   - Prix actuel: 22,000,000 Ar
+1. **Théodolite digital avec trépied et mire**
+   - Prix avant: 11,900,000 Ar
+   - Prix actuel: 11,900,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
-   - Prix avant: 10,049,000 Ar
-   - Prix actuel: 10,049,000 Ar
+2. **Piscine rectangulaire tubulaire Ultra XTR - INTEX - 26374GN - 9,75 x 4,88 x 1,32m - Filtre a sable - Gris**
+   - Prix avant: 11,454,000 Ar
+   - Prix actuel: 11,454,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Armoire a fusils Ranger BURG-WÄCHTER 800/8 K**
-   - Prix avant: 13,103,000 Ar
-   - Prix actuel: 13,103,000 Ar
+3. **Pompe pneumatique Airless pro sur chariot 322 bars***
+   - Prix avant: 21,450,000 Ar
+   - Prix actuel: 21,450,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

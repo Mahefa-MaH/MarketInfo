@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
-      "name": "Nettoyeur HP eau chaude 170 bars*",
-      "prix_base": 12650000,
-      "prix_comparaison": 12650000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
+      "prix_base": 14242000,
+      "prix_comparaison": 11246000,
+      "variation": -2996000,
+      "indice_prix": 78.96362870383373
     },
     {
-      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
-      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
-      "prix_base": 21000000,
-      "prix_comparaison": 21000000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
+      "prix_base": 13013000,
+      "prix_comparaison": 10276000,
+      "variation": -2737000,
+      "indice_prix": 78.96718665949435
     },
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 19532000,
-      "prix_comparaison": 19532000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tondeuse_88490tondeuserobotgardenasilenolife125015103264078500043816_html",
+      "name": "Tondeuse robot connect\u00e9e Bluetooth GARDENA SILENO life 1250 - 1250 m\u00b2 - 15103-26",
+      "prix_base": 10946000,
+      "prix_comparaison": 8644000,
+      "variation": -2302000,
+      "indice_prix": 78.96948657043669
     }
   ]
 }
