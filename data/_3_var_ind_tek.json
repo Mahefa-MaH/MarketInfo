@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 8358,
-      "prix_base": 66800,
-      "name": "Moustiquaire Sp\u00e9ciale Lit Adulte (non impr\u00e9gn\u00e9e)",
-      "prix_comparaison": 69700,
-      "variation": 2900
+      "list_id": 8781,
+      "prix_base": 81700,
+      "name": "Fromage dur entier 2,25 kg",
+      "prix_comparaison": 94300,
+      "variation": 12600
     },
     {
-      "list_id": 8786,
-      "prix_base": 17700,
-      "name": "Fromage gouter 150 g",
-      "prix_comparaison": 20400,
-      "variation": 2700
+      "list_id": 13095,
+      "prix_base": 29400,
+      "name": "Moelleux chocolat avec p\u00e9pites 500 g",
+      "prix_comparaison": 34700,
+      "variation": 5300
     },
     {
-      "list_id": 8787,
-      "prix_base": 17300,
-      "name": "Fromage barquette 200 g",
-      "prix_comparaison": 19900,
-      "variation": 2600
+      "list_id": 3686,
+      "prix_base": 18100,
+      "name": "Sacs Poubelles 240 L",
+      "prix_comparaison": 22200,
+      "variation": 4100
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 3693,
-      "prix_base": 7700,
-      "name": "Papier Cuisson 10 M",
-      "prix_comparaison": 8600,
-      "variation": 900
+      "list_id": 13101,
+      "prix_base": 22650,
+      "name": "Bonbons Acidul\u00e9s saveur fruit 150 g",
+      "prix_comparaison": 17850,
+      "variation": -4800
     },
     {
-      "list_id": 8787,
-      "prix_base": 17300,
-      "name": "Fromage barquette 200 g",
-      "prix_comparaison": 19900,
-      "variation": 2600
+      "list_id": 12429,
+      "prix_base": 22650,
+      "name": "Soupe velout\u00e9 7 l\u00e9gumes 1 L",
+      "prix_comparaison": 17850,
+      "variation": -4800
     },
     {
-      "list_id": 8786,
-      "prix_base": 17700,
-      "name": "Fromage gouter 150 g",
-      "prix_comparaison": 20400,
-      "variation": 2700
+      "list_id": 3716,
+      "prix_base": 26800,
+      "name": "Gomme \u00c0 Daim",
+      "prix_comparaison": 22700,
+      "variation": -4100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 8786,
-      "name": "Fromage gouter 150 g",
-      "prix_base": 17700,
-      "prix_comparaison": 20400,
-      "indice_prix": 115.2542372881356
+      "list_id": 3491,
+      "name": "Olives Vertes Entieres 370 Cl",
+      "prix_base": 6800,
+      "prix_comparaison": 10200,
+      "indice_prix": 150.0
     },
     {
-      "list_id": 8787,
-      "name": "Fromage barquette 200 g",
-      "prix_base": 17300,
-      "prix_comparaison": 19900,
-      "indice_prix": 115.02890173410404
+      "list_id": 3665,
+      "name": "Chocolat Tablette Blanc Croustillant 95 G",
+      "prix_base": 9800,
+      "prix_comparaison": 13000,
+      "indice_prix": 132.6530612244898
     },
     {
-      "list_id": 3693,
-      "name": "Papier Cuisson 10 M",
-      "prix_base": 7700,
-      "prix_comparaison": 8600,
-      "indice_prix": 111.68831168831169
+      "list_id": 3684,
+      "name": "Sacs Poubelles 100 L",
+      "prix_base": 9000,
+      "prix_comparaison": 11200,
+      "indice_prix": 124.44444444444444
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 8358,
-      "name": "Moustiquaire Sp\u00e9ciale Lit Adulte (non impr\u00e9gn\u00e9e)",
-      "prix_base": 66800,
-      "prix_comparaison": 69700,
-      "indice_prix": 104.34131736526946
+      "list_id": 13101,
+      "name": "Bonbons Acidul\u00e9s saveur fruit 150 g",
+      "prix_base": 22650,
+      "prix_comparaison": 17850,
+      "indice_prix": 78.80794701986756
     },
     {
-      "list_id": 3693,
-      "name": "Papier Cuisson 10 M",
-      "prix_base": 7700,
-      "prix_comparaison": 8600,
-      "indice_prix": 111.68831168831169
+      "list_id": 12429,
+      "name": "Soupe velout\u00e9 7 l\u00e9gumes 1 L",
+      "prix_base": 22650,
+      "prix_comparaison": 17850,
+      "indice_prix": 78.80794701986756
     },
     {
-      "list_id": 8787,
-      "name": "Fromage barquette 200 g",
-      "prix_base": 17300,
-      "prix_comparaison": 19900,
-      "indice_prix": 115.02890173410404
+      "list_id": 3716,
+      "name": "Gomme \u00c0 Daim",
+      "prix_base": 26800,
+      "prix_comparaison": 22700,
+      "indice_prix": 84.70149253731343
     }
   ]
 }

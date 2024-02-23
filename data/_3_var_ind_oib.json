@@ -8,27 +8,55 @@
       "variation": 205000
     },
     {
-      "cle": "promo2023_14673dragonballzkakarotjeups5_html",
-      "name": "Dragon Ball Z : Kakarot Jeu PS5",
-      "prix_base": 191000,
-      "prix_comparaison": 187000,
-      "variation": -4000
+      "cle": "promo2023_14617ecranpcgamerphilips242e1gaj24fhd144hzdalleva1ms144hzdphdmivgahautparleurs_html",
+      "name": "Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs",
+      "prix_base": 1024000,
+      "prix_comparaison": 1077000,
+      "variation": 53000
+    },
+    {
+      "cle": "promo2023_4428papiertoilette6rouleaux_html",
+      "name": "Papier toilette 6 rouleaux",
+      "prix_base": 3300,
+      "prix_comparaison": 2990,
+      "variation": -310
+    },
+    {
+      "cle": "promo2023_1672sucrerouxambilobe1kg_html",
+      "name": "Sucre roux Ambilobe 1kg",
+      "prix_base": 5450,
+      "prix_comparaison": 4990,
+      "variation": -460
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "promo2023_14618ecranpcgamerviewsonicvx2718pmhd27fhddalleva1ms165hzhdmidisplayport_html",
+      "name": "Ecran PC Gamer - VIEWSONIC VX2718-P-MHD - 27 FHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort",
+      "prix_base": 1501000,
+      "prix_comparaison": 1170000,
+      "variation": -331000
+    },
+    {
+      "cle": "promo2023_14639appleiphone14128gbblue_html",
+      "name": "APPLE iPhone 14 128GB Blue",
+      "prix_base": 3890000,
+      "prix_comparaison": 3624000,
+      "variation": -266000
+    },
+    {
+      "cle": "promo2023_14029karcherwv1plusnettoyeurvitresansfil100mlbatterieintegree_html",
+      "name": "Nettoyeur vitre sans fil - 100 ml (batterie int\u00e9gr\u00e9e)",
+      "prix_base": 351000,
+      "prix_comparaison": 323000,
+      "variation": -28000
+    },
     {
       "cle": "promo2023_14674hotwheelsunleashed2turbochargedjeuxboxseriesxetxboxone_html",
       "name": "Hot Wheels Unleashed 2 Turbocharged - Jeu Xbox Series X et Xbox One",
       "prix_base": 264000,
       "prix_comparaison": 257000,
       "variation": -7000
-    },
-    {
-      "cle": "promo2023_14672assassinscreedvalhallajeups5_html",
-      "name": "Assassin's Creed Valhalla Jeu PS5",
-      "prix_base": 206000,
-      "prix_comparaison": 201000,
-      "variation": -5000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -40,20 +68,18 @@
       "indice_prix": 322.82608695652175
     },
     {
+      "cle": "promo2023_14617ecranpcgamerphilips242e1gaj24fhd144hzdalleva1ms144hzdphdmivgahautparleurs_html",
+      "name": "Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs",
+      "prix_base": 1024000,
+      "prix_comparaison": 1077000,
+      "indice_prix": 105.17578125
+    },
+    {
       "cle": "promo2023_14673dragonballzkakarotjeups5_html",
       "name": "Dragon Ball Z : Kakarot Jeu PS5",
       "prix_base": 191000,
       "prix_comparaison": 187000,
       "indice_prix": 97.90575916230367
-    }
-  ],
-  "indices_prix_plus_faibles": [
-    {
-      "cle": "promo2023_14674hotwheelsunleashed2turbochargedjeuxboxseriesxetxboxone_html",
-      "name": "Hot Wheels Unleashed 2 Turbocharged - Jeu Xbox Series X et Xbox One",
-      "prix_base": 264000,
-      "prix_comparaison": 257000,
-      "indice_prix": 97.34848484848484
     },
     {
       "cle": "promo2023_14672assassinscreedvalhallajeups5_html",
@@ -61,6 +87,36 @@
       "prix_base": 206000,
       "prix_comparaison": 201000,
       "indice_prix": 97.57281553398059
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "cle": "promo2023_14618ecranpcgamerviewsonicvx2718pmhd27fhddalleva1ms165hzhdmidisplayport_html",
+      "name": "Ecran PC Gamer - VIEWSONIC VX2718-P-MHD - 27 FHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort",
+      "prix_base": 1501000,
+      "prix_comparaison": 1170000,
+      "indice_prix": 77.94803464357095
+    },
+    {
+      "cle": "promo2023_10484maisdoux390g_html",
+      "name": "Ma\u00efs doux 390g",
+      "prix_base": 4690,
+      "prix_comparaison": 3990,
+      "indice_prix": 85.07462686567165
+    },
+    {
+      "cle": "promo2023_7391laitconcentremilgro390g_html",
+      "name": "Lait concentr\u00e9 Milgro 390g",
+      "prix_base": 5990,
+      "prix_comparaison": 5200,
+      "indice_prix": 86.81135225375625
+    },
+    {
+      "cle": "promo2023_4428papiertoilette6rouleaux_html",
+      "name": "Papier toilette 6 rouleaux",
+      "prix_base": 3300,
+      "prix_comparaison": 2990,
+      "indice_prix": 90.60606060606061
     }
   ]
 }

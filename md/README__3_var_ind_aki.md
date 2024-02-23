@@ -1,6 +1,6 @@
 # Market Info
 
-## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY AMIN'NY ANDROANY
+## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
 1. **Bon Appetit - Mais Doux - 340g**
    - Prix avant: 4,000 Ar
@@ -17,7 +17,7 @@
    - Prix actuel: 2,500 Ar
    - Variation: -100 Ar
 
-## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY ANDROANY
+## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Evet - Beurre premium margarine - 200g**
    - Prix avant: 3,100 Ar
@@ -51,7 +51,7 @@
    - Prix actuel: 2,500 Ar
    - Indice de prix : 96.15
 
-## Ireo entana hita midina ny vidiny eny amin'ny supermarche eto an-toerana
+## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Evet - Beurre premium margarine - 200g**
    - Prix avant: 3,100 Ar
