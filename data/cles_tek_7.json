@@ -1,10 +1,18 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8197,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9300,
-      "prix_comparaison": 9300,
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 2800,
+      "prix_comparaison": 2800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 143000,
+      "prix_comparaison": 143000,
       "variation": 0,
       "indice_prix": 100.0
     }

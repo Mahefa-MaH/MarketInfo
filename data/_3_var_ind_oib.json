@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "promo2023_14670assassinscreedmiragejeups4_html",
-      "name": "Assassin's Creed Mirage Jeu PS4",
-      "prix_base": 92000,
-      "prix_comparaison": 297000,
-      "variation": 205000
-    },
-    {
-      "cle": "promo2023_14617ecranpcgamerphilips242e1gaj24fhd144hzdalleva1ms144hzdphdmivgahautparleurs_html",
-      "name": "Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs",
-      "prix_base": 1024000,
-      "prix_comparaison": 1077000,
-      "variation": 53000
-    },
-    {
-      "cle": "promo2023_14032infantinoportebebeflipergo4en1_html",
-      "name": "INFANTINO Porte B\u00e9b\u00e9 Flip Ergo 4 en 1",
-      "prix_base": 211000,
-      "prix_comparaison": 244000,
-      "variation": 33000
+      "cle": "promo2023_7391laitconcentremilgro390g_html",
+      "name": "Lait concentr\u00e9 Milgro 390g",
+      "prix_base": 5990,
+      "prix_comparaison": 5200,
+      "variation": -790
     }
   ],
   "prix_diminues": [
     {
-      "cle": "promo2023_14618ecranpcgamerviewsonicvx2718pmhd27fhddalleva1ms165hzhdmidisplayport_html",
-      "name": "Ecran PC Gamer - VIEWSONIC VX2718-P-MHD - 27 FHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort",
-      "prix_base": 1501000,
-      "prix_comparaison": 1170000,
-      "variation": -331000
-    },
-    {
-      "cle": "promo2023_14639appleiphone14128gbblue_html",
-      "name": "APPLE iPhone 14 128GB Blue",
-      "prix_base": 3890000,
-      "prix_comparaison": 3624000,
-      "variation": -266000
-    },
-    {
-      "cle": "promo2023_14640iphone13128gomidnight_html",
-      "name": "iPhone 13 128Go Midnight",
-      "prix_base": 3302000,
-      "prix_comparaison": 3194000,
-      "variation": -108000
+      "cle": "promo2023_7391laitconcentremilgro390g_html",
+      "name": "Lait concentr\u00e9 Milgro 390g",
+      "prix_base": 5990,
+      "prix_comparaison": 5200,
+      "variation": -790
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "promo2023_14670assassinscreedmiragejeups4_html",
-      "name": "Assassin's Creed Mirage Jeu PS4",
-      "prix_base": 92000,
-      "prix_comparaison": 297000,
-      "indice_prix": 322.82608695652175
-    },
-    {
-      "cle": "promo2023_14032infantinoportebebeflipergo4en1_html",
-      "name": "INFANTINO Porte B\u00e9b\u00e9 Flip Ergo 4 en 1",
-      "prix_base": 211000,
-      "prix_comparaison": 244000,
-      "indice_prix": 115.63981042654028
-    },
-    {
-      "cle": "promo2023_14617ecranpcgamerphilips242e1gaj24fhd144hzdalleva1ms144hzdphdmivgahautparleurs_html",
-      "name": "Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs",
-      "prix_base": 1024000,
-      "prix_comparaison": 1077000,
-      "indice_prix": 105.17578125
+      "cle": "promo2023_7391laitconcentremilgro390g_html",
+      "name": "Lait concentr\u00e9 Milgro 390g",
+      "prix_base": 5990,
+      "prix_comparaison": 5200,
+      "indice_prix": 86.81135225375625
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "promo2023_14618ecranpcgamerviewsonicvx2718pmhd27fhddalleva1ms165hzhdmidisplayport_html",
-      "name": "Ecran PC Gamer - VIEWSONIC VX2718-P-MHD - 27 FHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort",
-      "prix_base": 1501000,
-      "prix_comparaison": 1170000,
-      "indice_prix": 77.94803464357095
-    },
-    {
-      "cle": "promo2023_8726savonbarrevaoline500g_html",
-      "name": "Savon barre Vao Line 500g",
-      "prix_base": 6900,
-      "prix_comparaison": 5500,
-      "indice_prix": 79.71014492753623
-    },
-    {
-      "cle": "promo2023_10484maisdoux390g_html",
-      "name": "Ma\u00efs doux 390g",
-      "prix_base": 4690,
-      "prix_comparaison": 3990,
-      "indice_prix": 85.07462686567165
+      "cle": "promo2023_7391laitconcentremilgro390g_html",
+      "name": "Lait concentr\u00e9 Milgro 390g",
+      "prix_base": 5990,
+      "prix_comparaison": 5200,
+      "indice_prix": 86.81135225375625
     }
   ]
 }
