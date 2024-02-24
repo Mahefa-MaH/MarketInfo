@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_100755coffretaoutils416200mz_html",
-      "name": "Coffret \u00e0 outils 416-200MZ",
-      "prix_base": 13200000,
-      "prix_comparaison": 13200000,
+      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
+      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
+      "prix_base": 12500000,
+      "prix_comparaison": 12500000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_104176stationtotaleelectronique_html",
-      "name": "Station totale \u00e9lectronique",
-      "prix_base": 17600000,
-      "prix_comparaison": 17600000,
+      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
+      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_95365gardenatondeuserobotsmartsilenolife1000tondsouslapluieetpassagesetroitsappsilencieuxrobotdetonte4078500060592_html",
-      "name": "GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages \u00e9troits, App, Silencieux, Robot de Tonte",
-      "prix_base": 11434000,
-      "prix_comparaison": 11434000,
+      "cle": "outillage_103928betonniere255lgasoilkm178f_html",
+      "name": "Betonni\u00e8re 255L gasoil KM178F",
+      "prix_base": 14290000,
+      "prix_comparaison": 14290000,
       "variation": 0,
       "indice_prix": 100.0
     }

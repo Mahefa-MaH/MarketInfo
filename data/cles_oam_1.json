@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
-      "prix_base": 14242000,
-      "prix_comparaison": 11246000,
-      "variation": -2996000,
-      "indice_prix": 78.96362870383373
+      "cle": "hotte_127089tabledecuissoninductionaspirantesiemens4feux81cmex875lx67eiq7004242003867198_html",
+      "name": "Table de cuisson induction aspirante SIEMENS - 4 feux - 81 cm - EX875LX67E IQ700",
+      "prix_base": 15381000,
+      "prix_comparaison": 12146000,
+      "variation": -3235000,
+      "indice_prix": 78.96755737598336
     },
     {
-      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
-      "prix_base": 13013000,
-      "prix_comparaison": 10276000,
-      "variation": -2737000,
-      "indice_prix": 78.96718665949435
+      "cle": "machineacafeexpressobroyeur_91317siemensct636les6machineacafeiq700reservoir24l1600wprepare2tass4242003703595_html",
+      "name": "SIEMENS CT636LES6 Machine a caf\u00e9 iQ700 - R\u00e9servoir 2.4L - 1600W - Pr\u00e9pare 2 tass",
+      "prix_base": 13306000,
+      "prix_comparaison": 10507000,
+      "variation": -2799000,
+      "indice_prix": 78.96437697279423
     },
     {
-      "cle": "tondeuse_88490tondeuserobotgardenasilenolife125015103264078500043816_html",
-      "name": "Tondeuse robot connect\u00e9e Bluetooth GARDENA SILENO life 1250 - 1250 m\u00b2 - 15103-26",
-      "prix_base": 10946000,
-      "prix_comparaison": 8644000,
-      "variation": -2302000,
-      "indice_prix": 78.96948657043669
+      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
+      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
+      "prix_base": 13208000,
+      "prix_comparaison": 10430000,
+      "variation": -2778000,
+      "indice_prix": 78.96729254996971
     }
   ]
 }

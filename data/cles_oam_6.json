@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
-      "name": "Echafaudage Speed XL Ht travail 10.44m",
-      "prix_base": 22000000,
-      "prix_comparaison": 22000000,
+      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
+      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
+      "prix_base": 27000000,
+      "prix_comparaison": 27000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
-      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
-      "prix_base": 10049000,
-      "prix_comparaison": 10049000,
+      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
+      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
+      "prix_base": 10450000,
+      "prix_comparaison": 10450000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "piscinecompletekitpiscine_99520grepiscinerondeaciero480mxh122mimitationboisnordiquefiltrationasable8412081313771_html",
-      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,22m - Imitation bois Nordique Filtration a sable",
-      "prix_base": 10303000,
-      "prix_comparaison": 10303000,
+      "cle": "outillage_100755coffretaoutils416200mz_html",
+      "name": "Coffret \u00e0 outils 416-200MZ",
+      "prix_base": 13200000,
+      "prix_comparaison": 13200000,
       "variation": 0,
       "indice_prix": 100.0
     }

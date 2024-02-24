@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **GRE - Piscine ronde acier Ø4,80m x H: 1,32m - Imitation bois Nordique Filtration a sable**
-   - Prix avant: 13,428,000 Ar
-   - Prix actuel: 13,428,000 Ar
+1. **Station totale électronique**
+   - Prix avant: 17,600,000 Ar
+   - Prix actuel: 17,600,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Armoire a fusils Ranger BURG-WÄCHTER 800/8 K**
-   - Prix avant: 13,103,000 Ar
-   - Prix actuel: 13,103,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **Pilonneuse SP80-345x285 mm**
+2. **Pilonneuse SP80-345x285 mm**
    - Prix avant: 15,800,000 Ar
    - Prix actuel: 15,800,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver**
+   - Prix avant: 11,733,000 Ar
+   - Prix actuel: 11,733,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

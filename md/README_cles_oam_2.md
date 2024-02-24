@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Tondeuse rider autoportée thermique 61 cm de coupe 224cc MR224-61 SCHEPPACH - Bac de collecte de 150L**
-   - Prix avant: 10,010,000 Ar
-   - Prix actuel: 7,905,000 Ar
-   - Variation: -2,105,000 Ar
+1. **Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E**
+   - Prix avant: 13,118,000 Ar
+   - Prix actuel: 10,359,000 Ar
+   - Variation: -2,759,000 Ar
    - Indice de prix : 78.97
 
-2. **Nettoyeur HP eau chaude 170 bars***
-   - Prix avant: 12,650,000 Ar
-   - Prix actuel: 12,650,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+2. **Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four électrique - multifonction - Noire**
+   - Prix avant: 12,614,000 Ar
+   - Prix actuel: 9,961,000 Ar
+   - Variation: -2,653,000 Ar
+   - Indice de prix : 78.97
 
-3. **GRE - Piscine ronde acier Ø3,70m x H: 1,32m - Imitation bois Nordique Filtration a sable**
-   - Prix avant: 10,700,000 Ar
-   - Prix actuel: 10,700,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+3. **Station d'énergie MECAFER 3600W - PW3600**
+   - Prix avant: 10,621,000 Ar
+   - Prix actuel: 8,059,000 Ar
+   - Variation: -2,562,000 Ar
+   - Indice de prix : 75.88
 

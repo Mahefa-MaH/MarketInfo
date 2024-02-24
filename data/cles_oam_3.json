@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
-      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
-      "prix_base": 21000000,
-      "prix_comparaison": 21000000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "groupeelectrogene_95225generateurelectriqueportabledeltamax20002016wh4sortieca2400wautotalsurtension4600w4897082664710_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA MAX (2000), 2016Wh , 4 sortie CA - 2400 W au total (surtension 4600 W)",
+      "prix_base": 12167000,
+      "prix_comparaison": 9608000,
+      "variation": -2559000,
+      "indice_prix": 78.96769951508178
     },
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 19532000,
-      "prix_comparaison": 19532000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
+      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
+      "prix_base": 12303000,
+      "prix_comparaison": 9747000,
+      "variation": -2556000,
+      "indice_prix": 79.22457937088515
     },
     {
-      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
-      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
-      "prix_base": 16683000,
-      "prix_comparaison": 16683000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
+      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
+      "prix_base": 11801000,
+      "prix_comparaison": 9319000,
+      "variation": -2482000,
+      "indice_prix": 78.96788407762054
     }
   ]
 }

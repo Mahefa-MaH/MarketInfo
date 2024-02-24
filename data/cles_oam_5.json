@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuseautoporteetracteurtondeuserider_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
-      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
-      "prix_base": 11766000,
-      "prix_comparaison": 11766000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tableplaquedecuissoninduction_126375plaqueinductionelicanikolateslaprimesbla83prf01823227400w240v63dbsafeactivationnoir8020283054554_html",
+      "name": "Plaque Induction Elica NikolaTesla Prime S BL/A/83 PRF0182322 7400W 240V 63dB Safe Activation Noir",
+      "prix_base": 10173000,
+      "prix_comparaison": 8033000,
+      "variation": -2140000,
+      "indice_prix": 78.96392411284774
     },
     {
-      "cle": "tondeuseautoporteetracteurtondeuserider_136387tondeuseautoporteethermique98cmdecoupealpinaat398hatransmissionhydrostatique8008984851559_html",
-      "name": "Tondeuse autoport\u00e9e thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique",
-      "prix_base": 14433000,
-      "prix_comparaison": 14433000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "refrigerateuramericain_63326refrigerateursamsungrf18a5202slmultiportes495ll82cminox8806090838439_html",
+      "name": "R\u00e9frig\u00e9rateur am\u00e9ricain SAMSUNG - RF18A5202SL - Multiportes - 495L - L82cm - Inox",
+      "prix_base": 10010000,
+      "prix_comparaison": 7894000,
+      "variation": -2116000,
+      "indice_prix": 78.86113886113885
     },
     {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
+      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
+      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
+      "prix_base": 28000000,
+      "prix_comparaison": 28000000,
       "variation": 0,
       "indice_prix": 100.0
     }
