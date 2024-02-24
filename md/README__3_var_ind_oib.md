@@ -12,15 +12,10 @@
    - Prix actuel: 1,077,000 Ar
    - Variation: +53,000 Ar
 
-3. **Papier toilette 6 rouleaux**
-   - Prix avant: 3,300 Ar
-   - Prix actuel: 2,990 Ar
-   - Variation: -310 Ar
-
-4. **Sucre roux Ambilobe 1kg**
-   - Prix avant: 5,450 Ar
-   - Prix actuel: 4,990 Ar
-   - Variation: -460 Ar
+3. **INFANTINO Porte Bébé Flip Ergo 4 en 1**
+   - Prix avant: 211,000 Ar
+   - Prix actuel: 244,000 Ar
+   - Variation: +33,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -34,15 +29,10 @@
    - Prix actuel: 3,624,000 Ar
    - Variation: -266,000 Ar
 
-3. **Nettoyeur vitre sans fil - 100 ml (batterie intégrée)**
-   - Prix avant: 351,000 Ar
-   - Prix actuel: 323,000 Ar
-   - Variation: -28,000 Ar
-
-4. **Hot Wheels Unleashed 2 Turbocharged - Jeu Xbox Series X et Xbox One**
-   - Prix avant: 264,000 Ar
-   - Prix actuel: 257,000 Ar
-   - Variation: -7,000 Ar
+3. **iPhone 13 128Go Midnight**
+   - Prix avant: 3,302,000 Ar
+   - Prix actuel: 3,194,000 Ar
+   - Variation: -108,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -51,20 +41,15 @@
    - Prix actuel: 297,000 Ar
    - Indice de prix : 322.83
 
-2. **Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs**
+2. **INFANTINO Porte Bébé Flip Ergo 4 en 1**
+   - Prix avant: 211,000 Ar
+   - Prix actuel: 244,000 Ar
+   - Indice de prix : 115.64
+
+3. **Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs**
    - Prix avant: 1,024,000 Ar
    - Prix actuel: 1,077,000 Ar
    - Indice de prix : 105.18
-
-3. **Dragon Ball Z : Kakarot Jeu PS5**
-   - Prix avant: 191,000 Ar
-   - Prix actuel: 187,000 Ar
-   - Indice de prix : 97.91
-
-4. **Assassin's Creed Valhalla Jeu PS5**
-   - Prix avant: 206,000 Ar
-   - Prix actuel: 201,000 Ar
-   - Indice de prix : 97.57
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
@@ -73,18 +58,13 @@
    - Prix actuel: 1,170,000 Ar
    - Indice de prix : 77.95
 
-2. **Maïs doux 390g**
+2. **Savon barre Vao Line 500g**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 5,500 Ar
+   - Indice de prix : 79.71
+
+3. **Maïs doux 390g**
    - Prix avant: 4,690 Ar
    - Prix actuel: 3,990 Ar
    - Indice de prix : 85.07
-
-3. **Lait concentré Milgro 390g**
-   - Prix avant: 5,990 Ar
-   - Prix actuel: 5,200 Ar
-   - Indice de prix : 86.81
-
-4. **Papier toilette 6 rouleaux**
-   - Prix avant: 3,300 Ar
-   - Prix actuel: 2,990 Ar
-   - Indice de prix : 90.61
 

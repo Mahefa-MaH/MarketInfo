@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_14679476appleiphone11proreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1710000,
-      "prix_comparaison": 1900000,
-      "variation": 190000
+      "cle": "promo2023_14639appleiphone14128gbblue_html",
+      "name": "APPLE iPhone 14 128GB Blue",
+      "prix_base": 3890000,
+      "prix_comparaison": 3624000,
+      "variation": -266000
     }
   ],
   "indice de prix": [
     {
-      "cle": "promo2023_14679476appleiphone11proreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1710000,
-      "prix_comparaison": 1900000,
-      "indice_prix": 111.11111111111111
+      "cle": "promo2023_14639appleiphone14128gbblue_html",
+      "name": "APPLE iPhone 14 128GB Blue",
+      "prix_base": 3890000,
+      "prix_comparaison": 3624000,
+      "indice_prix": 93.16195372750643
     }
   ]
 }
