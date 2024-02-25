@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "sucres_13804sucreenpoudre1kg_html",
-      "name": "Sucre blanc en poudre 1kg",
-      "prix_base": 11500,
-      "prix_comparaison": 11500,
+      "cle": "promo2023_1894huiledesoja20lhina_html",
+      "name": "Huile de soja Hina 20L",
+      "prix_base": 179400,
+      "prix_comparaison": 179400,
       "variation": 0,
       "indice_prix": 100.0
     }
