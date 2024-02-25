@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104176stationtotaleelectronique_html",
-      "name": "Station totale \u00e9lectronique",
-      "prix_base": 17600000,
-      "prix_comparaison": 17600000,
+      "cle": "outillage_100755coffretaoutils416200mz_html",
+      "name": "Coffret \u00e0 outils 416-200MZ",
+      "prix_base": 13200000,
+      "prix_comparaison": 13200000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_104003pilonneusesp80345x285mm_html",
-      "name": "Pilonneuse SP80-345x285 mm",
-      "prix_base": 15800000,
-      "prix_comparaison": 15800000,
+      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
+      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
+      "prix_base": 10359000,
+      "prix_comparaison": 10359000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
-      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
-      "prix_base": 11733000,
-      "prix_comparaison": 11733000,
+      "cle": "hotte_127089tabledecuissoninductionaspirantesiemens4feux81cmex875lx67eiq7004242003867198_html",
+      "name": "Table de cuisson induction aspirante SIEMENS - 4 feux - 81 cm - EX875LX67E IQ700",
+      "prix_base": 12146000,
+      "prix_comparaison": 12146000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Argent**
-   - Prix avant: 10,074,000 Ar
-   - Prix actuel: 10,074,000 Ar
+1. **Betonnière tractable 290 L avec moteur électrique de 2CV**
+   - Prix avant: 11,900,000 Ar
+   - Prix actuel: 11,900,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Bleu**
-   - Prix avant: 10,074,000 Ar
-   - Prix actuel: 10,074,000 Ar
+2. **Betonnière 290L essence GX 160 Honda (BET.350L-RG-LAT)**
+   - Prix avant: 12,500,000 Ar
+   - Prix actuel: 12,500,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - vert**
-   - Prix avant: 10,074,000 Ar
-   - Prix actuel: 10,074,000 Ar
+3. **Betonnière 255L gasoil KM178F**
+   - Prix avant: 14,290,000 Ar
+   - Prix actuel: 14,290,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

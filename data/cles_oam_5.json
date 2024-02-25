@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tableplaquedecuissoninduction_126375plaqueinductionelicanikolateslaprimesbla83prf01823227400w240v63dbsafeactivationnoir8020283054554_html",
-      "name": "Plaque Induction Elica NikolaTesla Prime S BL/A/83 PRF0182322 7400W 240V 63dB Safe Activation Noir",
-      "prix_base": 10173000,
-      "prix_comparaison": 8033000,
-      "variation": -2140000,
-      "indice_prix": 78.96392411284774
+      "cle": "electricitedomotique_120268onduleurapceasyupssrv6000va230vavecbatterieexterne_html",
+      "name": "Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe",
+      "prix_base": 11000000,
+      "prix_comparaison": 11000000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "refrigerateuramericain_63326refrigerateursamsungrf18a5202slmultiportes495ll82cminox8806090838439_html",
-      "name": "R\u00e9frig\u00e9rateur am\u00e9ricain SAMSUNG - RF18A5202SL - Multiportes - 495L - L82cm - Inox",
-      "prix_base": 10010000,
-      "prix_comparaison": 7894000,
-      "variation": -2116000,
-      "indice_prix": 78.86113886113885
+      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
+      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
+      "prix_base": 13174000,
+      "prix_comparaison": 13174000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
+      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
+      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
+      "prix_base": 15423000,
+      "prix_comparaison": 15423000,
       "variation": 0,
       "indice_prix": 100.0
     }

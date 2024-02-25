@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "groupeelectrogene_95225generateurelectriqueportabledeltamax20002016wh4sortieca2400wautotalsurtension4600w4897082664710_html",
-      "name": "g\u00e9n\u00e9rateur electrique portable DELTA MAX (2000), 2016Wh , 4 sortie CA - 2400 W au total (surtension 4600 W)",
-      "prix_base": 12167000,
-      "prix_comparaison": 9608000,
-      "variation": -2559000,
-      "indice_prix": 78.96769951508178
+      "cle": "refrigerateuramericain_5356samsungrf24r7201srru00e9frigu00e9rateurmultiporte510l348l123l39lfroidventilu00e9plusl908cmxh1777c8801643678708_html",
+      "name": "SAMSUNG RF24R7201SR - R\u00e9frig\u00e9rateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventil\u00e9 plus - L90,8cm x H177,7 cm - Inox",
+      "prix_base": 13566000,
+      "prix_comparaison": 13566000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
-      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
-      "prix_base": 12303000,
-      "prix_comparaison": 9747000,
-      "variation": -2556000,
-      "indice_prix": 79.22457937088515
+      "cle": "machineacafeexpressobroyeur_91317siemensct636les6machineacafeiq700reservoir24l1600wprepare2tass4242003703595_html",
+      "name": "SIEMENS CT636LES6 Machine a caf\u00e9 iQ700 - R\u00e9servoir 2.4L - 1600W - Pr\u00e9pare 2 tass",
+      "prix_base": 10507000,
+      "prix_comparaison": 10507000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
-      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
-      "prix_base": 11801000,
-      "prix_comparaison": 9319000,
-      "variation": -2482000,
-      "indice_prix": 78.96788407762054
+      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
+      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
+      "prix_base": 10450000,
+      "prix_comparaison": 10450000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
