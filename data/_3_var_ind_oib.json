@@ -1,50 +1,50 @@
 {
   "prix_augmentes": [
     {
+      "cle": "promo2023_8726savonbarrevaoline500g_html",
+      "name": "Savon barre Vao Line 500g",
+      "prix_base": 5500,
+      "prix_comparaison": 6900,
+      "variation": 1400
+    },
+    {
       "cle": "promo2023_1672sucrerouxambilobe1kg_html",
       "name": "Sucre roux Ambilobe 1kg",
       "prix_base": 4990,
       "prix_comparaison": 5900,
       "variation": 910
-    },
-    {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7500,
-      "variation": 600
     }
   ],
   "prix_diminues": [
     {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7500,
-      "variation": 600
+      "cle": "promo2023_10469serviettedetable_html",
+      "name": "Serviettes en papier blanches",
+      "prix_base": 2300,
+      "prix_comparaison": 2590,
+      "variation": 290
     },
     {
-      "cle": "promo2023_1672sucrerouxambilobe1kg_html",
-      "name": "Sucre roux Ambilobe 1kg",
-      "prix_base": 4990,
-      "prix_comparaison": 5900,
-      "variation": 910
+      "cle": "promo2023_4428papiertoilette6rouleaux_html",
+      "name": "Papier toilette 6 rouleaux",
+      "prix_base": 2990,
+      "prix_comparaison": 3300,
+      "variation": 310
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "promo2023_8726savonbarrevaoline500g_html",
+      "name": "Savon barre Vao Line 500g",
+      "prix_base": 5500,
+      "prix_comparaison": 6900,
+      "indice_prix": 125.45454545454545
+    },
     {
       "cle": "promo2023_1672sucrerouxambilobe1kg_html",
       "name": "Sucre roux Ambilobe 1kg",
       "prix_base": 4990,
       "prix_comparaison": 5900,
       "indice_prix": 118.23647294589178
-    },
-    {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7500,
-      "indice_prix": 108.69565217391305
     }
   ],
   "indices_prix_plus_faibles": [
@@ -56,11 +56,11 @@
       "indice_prix": 108.69565217391305
     },
     {
-      "cle": "promo2023_1672sucrerouxambilobe1kg_html",
-      "name": "Sucre roux Ambilobe 1kg",
-      "prix_base": 4990,
-      "prix_comparaison": 5900,
-      "indice_prix": 118.23647294589178
+      "cle": "promo2023_4428papiertoilette6rouleaux_html",
+      "name": "Papier toilette 6 rouleaux",
+      "prix_base": 2990,
+      "prix_comparaison": 3300,
+      "indice_prix": 110.36789297658864
     }
   ]
 }

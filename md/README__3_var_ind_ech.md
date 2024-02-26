@@ -2,89 +2,79 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Carottes fraîches 1kg  | Calibre moyen**
-   - Prix avant: 4,700 Ar
-   - Prix actuel: 6,000 Ar
-   - Variation: +1,300 Ar
+1. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 209,700 Ar
+   - Prix actuel: 210,500 Ar
+   - Variation: +800 Ar
 
-2. **Carottes Fraîche 500g | Calibre moyen**
-   - Prix avant: 1,700 Ar
-   - Prix actuel: 3,000 Ar
-   - Variation: +1,300 Ar
+2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 105,850 Ar
+   - Prix actuel: 106,250 Ar
+   - Variation: +400 Ar
 
-3. **Haricots verts 1kg Avec bouts**
-   - Prix avant: 3,500 Ar
-   - Prix actuel: 4,700 Ar
-   - Variation: +1,200 Ar
+3. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
+   - Prix avant: 21,670 Ar
+   - Prix actuel: 21,750 Ar
+   - Variation: +80 Ar
 
-4. **Oignons frais 500g | Gros Calibre**
-   - Prix avant: 2,400 Ar
-   - Prix actuel: 3,500 Ar
-   - Variation: +1,100 Ar
-
-5. **Persil 1 botte**
-   - Prix avant: 1,600 Ar
-   - Prix actuel: 2,700 Ar
-   - Variation: +1,100 Ar
+4. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 4,154 Ar
+   - Prix actuel: 4,170 Ar
+   - Variation: +16 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Basilic frais 1 botte**
-   - Prix avant: 2,700 Ar
-   - Prix actuel: 1,500 Ar
-   - Variation: -1,200 Ar
+1. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 4,154 Ar
+   - Prix actuel: 4,170 Ar
+   - Variation: +16 Ar
 
-2. **Aubergine 500g**
-   - Prix avant: 2,700 Ar
-   - Prix actuel: 2,000 Ar
-   - Variation: -700 Ar
+2. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
+   - Prix avant: 21,670 Ar
+   - Prix actuel: 21,750 Ar
+   - Variation: +80 Ar
 
-3. **Concombres 1kg | Calibre Moyen**
-   - Prix avant: 2,667 Ar
-   - Prix actuel: 2,000 Ar
-   - Variation: -667 Ar
+3. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 105,850 Ar
+   - Prix actuel: 106,250 Ar
+   - Variation: +400 Ar
 
-4. **Citrouille Voatavo en tranches 1kg | environ 5 tranches**
-   - Prix avant: 2,667 Ar
-   - Prix actuel: 2,000 Ar
-   - Variation: -667 Ar
-
-5. **Chouchoute 1kg | Sosety**
-   - Prix avant: 1,400 Ar
-   - Prix actuel: 1,000 Ar
-   - Variation: -400 Ar
+4. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 209,700 Ar
+   - Prix actuel: 210,500 Ar
+   - Variation: +800 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Carottes Fraîche 500g | Calibre moyen**
-   - Prix avant: 1,700 Ar
-   - Prix actuel: 3,000 Ar
-   - Indice de prix : 176.47
+1. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 4,154 Ar
+   - Prix actuel: 4,170 Ar
+   - Indice de prix : 100.39
 
-2. **Persil 1 botte**
-   - Prix avant: 1,600 Ar
-   - Prix actuel: 2,700 Ar
-   - Indice de prix : 168.75
+2. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 209,700 Ar
+   - Prix actuel: 210,500 Ar
+   - Indice de prix : 100.38
 
-3. **Oignons frais 500g | Gros Calibre**
-   - Prix avant: 2,400 Ar
-   - Prix actuel: 3,500 Ar
-   - Indice de prix : 145.83
+3. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 105,850 Ar
+   - Prix actuel: 106,250 Ar
+   - Indice de prix : 100.38
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Basilic frais 1 botte**
-   - Prix avant: 2,700 Ar
-   - Prix actuel: 1,500 Ar
-   - Indice de prix : 55.56
+1. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
+   - Prix avant: 21,670 Ar
+   - Prix actuel: 21,750 Ar
+   - Indice de prix : 100.37
 
-2. **Chouchoute 1kg | Sosety**
-   - Prix avant: 1,400 Ar
-   - Prix actuel: 1,000 Ar
-   - Indice de prix : 71.43
+2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 105,850 Ar
+   - Prix actuel: 106,250 Ar
+   - Indice de prix : 100.38
 
-3. **Aubergine 500g**
-   - Prix avant: 2,700 Ar
-   - Prix actuel: 2,000 Ar
-   - Indice de prix : 74.07
+3. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 209,700 Ar
+   - Prix actuel: 210,500 Ar
+   - Indice de prix : 100.38
 

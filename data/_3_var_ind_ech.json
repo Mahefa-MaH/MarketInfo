@@ -1,122 +1,108 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_carottesnaturelles_",
-      "name": "Carottes fra\u00eeches 1kg  | Calibre moyen",
-      "prix_base": 4700,
-      "prix_comparaison": 6000,
-      "variation": 1300
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 209700,
+      "prix_comparaison": 210500,
+      "variation": 800
     },
     {
-      "cle": "produit_carottesfraiche500g_",
-      "name": "Carottes Fra\u00eeche 500g | Calibre moyen",
-      "prix_base": 1700,
-      "prix_comparaison": 3000,
-      "variation": 1300
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 105850,
+      "prix_comparaison": 106250,
+      "variation": 400
     },
     {
-      "cle": "produit_haricotsvert1kgavecbouts_",
-      "name": "Haricots verts 1kg Avec bouts",
-      "prix_base": 3500,
-      "prix_comparaison": 4700,
-      "variation": 1200
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 21670,
+      "prix_comparaison": 21750,
+      "variation": 80
     },
     {
-      "cle": "produit_oignonsfrais500ggroscalibre_",
-      "name": "Oignons frais 500g | Gros Calibre",
-      "prix_base": 2400,
-      "prix_comparaison": 3500,
-      "variation": 1100
-    },
-    {
-      "cle": "produit_persil1botte_",
-      "name": "Persil 1 botte",
-      "prix_base": 1600,
-      "prix_comparaison": 2700,
-      "variation": 1100
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 4154,
+      "prix_comparaison": 4170,
+      "variation": 16
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_basilicfrais1botte_",
-      "name": "Basilic frais 1 botte",
-      "prix_base": 2700,
-      "prix_comparaison": 1500,
-      "variation": -1200
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 4154,
+      "prix_comparaison": 4170,
+      "variation": 16
     },
     {
-      "cle": "produit_aubergine500g_",
-      "name": "Aubergine 500g",
-      "prix_base": 2700,
-      "prix_comparaison": 2000,
-      "variation": -700
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 21670,
+      "prix_comparaison": 21750,
+      "variation": 80
     },
     {
-      "cle": "produit_concombrelegumefrais_",
-      "name": "Concombres 1kg | Calibre Moyen",
-      "prix_base": 2667,
-      "prix_comparaison": 2000,
-      "variation": -667
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 105850,
+      "prix_comparaison": 106250,
+      "variation": 400
     },
     {
-      "cle": "produit_citrouillevoatavoentranches1kgenviron5tranches_",
-      "name": "Citrouille Voatavo en tranches 1kg | environ 5 tranches",
-      "prix_base": 2667,
-      "prix_comparaison": 2000,
-      "variation": -667
-    },
-    {
-      "cle": "produit_chouchoute1kgsosety_",
-      "name": "Chouchoute 1kg | Sosety",
-      "prix_base": 1400,
-      "prix_comparaison": 1000,
-      "variation": -400
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 209700,
+      "prix_comparaison": 210500,
+      "variation": 800
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_carottesfraiche500g_",
-      "name": "Carottes Fra\u00eeche 500g | Calibre moyen",
-      "prix_base": 1700,
-      "prix_comparaison": 3000,
-      "indice_prix": 176.47058823529412
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 4154,
+      "prix_comparaison": 4170,
+      "indice_prix": 100.38517091959557
     },
     {
-      "cle": "produit_persil1botte_",
-      "name": "Persil 1 botte",
-      "prix_base": 1600,
-      "prix_comparaison": 2700,
-      "indice_prix": 168.75
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 209700,
+      "prix_comparaison": 210500,
+      "indice_prix": 100.38149737720553
     },
     {
-      "cle": "produit_oignonsfrais500ggroscalibre_",
-      "name": "Oignons frais 500g | Gros Calibre",
-      "prix_base": 2400,
-      "prix_comparaison": 3500,
-      "indice_prix": 145.83333333333334
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 105850,
+      "prix_comparaison": 106250,
+      "indice_prix": 100.37789324515825
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_basilicfrais1botte_",
-      "name": "Basilic frais 1 botte",
-      "prix_base": 2700,
-      "prix_comparaison": 1500,
-      "indice_prix": 55.55555555555556
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 21670,
+      "prix_comparaison": 21750,
+      "indice_prix": 100.3691739732349
     },
     {
-      "cle": "produit_chouchoute1kgsosety_",
-      "name": "Chouchoute 1kg | Sosety",
-      "prix_base": 1400,
-      "prix_comparaison": 1000,
-      "indice_prix": 71.42857142857143
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 105850,
+      "prix_comparaison": 106250,
+      "indice_prix": 100.37789324515825
     },
     {
-      "cle": "produit_aubergine500g_",
-      "name": "Aubergine 500g",
-      "prix_base": 2700,
-      "prix_comparaison": 2000,
-      "indice_prix": 74.07407407407408
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 209700,
+      "prix_comparaison": 210500,
+      "indice_prix": 100.38149737720553
     }
   ]
 }
