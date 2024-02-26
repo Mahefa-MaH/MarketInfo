@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "promo2023_14597rizmakalioka5kg_html",
+      "name": "Riz makalioka 5kg",
+      "prix_base": 21750,
+      "prix_comparaison": 21750,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "promo2023_9404rizmakaliokasacde1kg_html",
       "name": "Riz Makalioka sac de 1kg",
       "prix_base": 4490,
@@ -13,14 +21,6 @@
       "name": "Riz rouge complet 5kg",
       "prix_base": 18990,
       "prix_comparaison": 18990,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     }

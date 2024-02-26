@@ -1,10 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
-      "name": "Nettoyeur HP eau chaude 170 bars*",
-      "prix_base": 12650000,
-      "prix_comparaison": 12650000,
+      "cle": "outillage_104003pilonneusesp80345x285mm_html",
+      "name": "Pilonneuse SP80-345x285 mm",
+      "prix_base": 15800000,
+      "prix_comparaison": 15800000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "outillage_104176stationtotaleelectronique_html",
+      "name": "Station totale \u00e9lectronique",
+      "prix_base": 17600000,
+      "prix_comparaison": 17600000,
       "variation": 0,
       "indice_prix": 100.0
     }

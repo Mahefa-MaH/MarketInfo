@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Coffret à outils 416-200MZ**
-   - Prix avant: 13,200,000 Ar
-   - Prix actuel: 13,200,000 Ar
+1. **SIEMENS CT636LES6 Machine a café iQ700 - Réservoir 2.4L - 1600W - Prépare 2 tass**
+   - Prix avant: 10,507,000 Ar
+   - Prix actuel: 10,507,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E**
-   - Prix avant: 10,359,000 Ar
-   - Prix actuel: 10,359,000 Ar
+2. **Groupe de soudage essence 250Amp 4.5KVA Aux 220V**
+   - Prix avant: 10,450,000 Ar
+   - Prix actuel: 10,450,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Table de cuisson induction aspirante SIEMENS - 4 feux - 81 cm - EX875LX67E IQ700**
-   - Prix avant: 12,146,000 Ar
-   - Prix actuel: 12,146,000 Ar
+3. **Groupe electrogène 13000 H mn ins E TBL**
+   - Prix avant: 28,000,000 Ar
+   - Prix actuel: 28,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

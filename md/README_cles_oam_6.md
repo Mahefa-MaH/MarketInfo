@@ -2,21 +2,21 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Théodolite digital avec trépied et mire**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+1. **Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sidéral - Azerty**
+   - Prix avant: 10,031,000 Ar
+   - Prix actuel: 10,031,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Plaque vibrante réversible 820x480mm Honda**
-   - Prix avant: 21,000,000 Ar
-   - Prix actuel: 21,000,000 Ar
+2. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 14,661,000 Ar
+   - Prix actuel: 14,661,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Nettoyeur HP eau chaude 170 bars***
-   - Prix avant: 12,650,000 Ar
-   - Prix actuel: 12,650,000 Ar
+3. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 19,542,000 Ar
+   - Prix actuel: 19,542,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
