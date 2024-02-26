@@ -1,6 +1,6 @@
-# Market Info - File 15
+# Market Info - File 16
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre blanc en poudre 1kg**
    - Prix avant: 11,500 Ar

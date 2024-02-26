@@ -1,6 +1,6 @@
-# Market Info - File 30
+# Market Info - File 31
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Huile de soja 1L**
    - Prix avant: 15,500 Ar

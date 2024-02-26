@@ -1,6 +1,6 @@
-# Market Info - File 31
+# Market Info - File 32
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Armoire a fusils Ranger BURG-WÄCHTER 800/8 K**
    - Prix avant: 10,347,000 Ar

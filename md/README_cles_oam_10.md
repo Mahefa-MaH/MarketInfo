@@ -1,6 +1,6 @@
-# Market Info - File 19
+# Market Info - File 20
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
    - Prix avant: 19,101,000 Ar

@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucrettes blanches  50 g**
-   - Prix avant: 6,300 Ar
-   - Prix actuel: 6,300 Ar
+3. **Riz Rouge 5 Kg**
+   - Prix avant: 18,100 Ar
+   - Prix actuel: 18,100 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

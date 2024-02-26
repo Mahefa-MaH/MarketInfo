@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 1561,
-      "name": "Riz Rouge 5 Kg",
-      "prix_base": 18100,
-      "prix_comparaison": 18100,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 3827,
       "name": "Huile De Soja 1 L",
       "prix_base": 9700,
@@ -21,6 +13,14 @@
       "name": "Huile De Soja 1 L",
       "prix_base": 10700,
       "prix_comparaison": 10700,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9300,
+      "prix_comparaison": 9300,
       "variation": 0,
       "indice_prix": 100.0
     }

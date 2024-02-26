@@ -1,22 +1,22 @@
-# Market Info - File 36
+# Market Info - File 37
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Huile De Soja 1 L**
-   - Prix avant: 9,300 Ar
-   - Prix actuel: 9,300 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-2. **Sucre Blanc Brésilien En Sac De 50 Kg**
+1. **Sucre Blanc Brésilien En Sac De 50 Kg**
    - Prix avant: 249,300 Ar
    - Prix actuel: 249,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre Blanc 1 Kg**
+2. **Sucre Blanc 1 Kg**
    - Prix avant: 7,300 Ar
    - Prix actuel: 7,300 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **Sucre Blanc Cristallisé 1 Kg**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 6,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

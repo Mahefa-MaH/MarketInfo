@@ -1,6 +1,6 @@
-# Market Info - File 37
+# Market Info - File 38
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Betonnière tractable 290 L avec moteur électrique de 2CV**
    - Prix avant: 11,900,000 Ar

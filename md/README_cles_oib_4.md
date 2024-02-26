@@ -1,6 +1,6 @@
-# Market Info - File 33
+# Market Info - File 34
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Riz gasy mena  1kg**
    - Prix avant: 4,250 Ar

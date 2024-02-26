@@ -1,6 +1,6 @@
-# Market Info - File 14
+# Market Info - File 15
 
-## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Betonnière 290L essence GX 160 Honda (BET.350L-RG-LAT)**
    - Prix avant: 12,500,000 Ar
