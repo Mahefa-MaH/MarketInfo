@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 6300,
+      "prix_comparaison": 6300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 8267,
       "name": "Sucre rouge 1 kg",
       "prix_base": 5200,
@@ -13,14 +21,6 @@
       "name": "Sucre blanc 1 kg",
       "prix_base": 7200,
       "prix_comparaison": 7200,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 1561,
-      "name": "Riz Rouge 5 Kg",
-      "prix_base": 18100,
-      "prix_comparaison": 18100,
       "variation": 0,
       "indice_prix": 100.0
     }

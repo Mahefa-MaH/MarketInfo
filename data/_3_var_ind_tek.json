@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 3640,
-      "prix_base": 123800,
-      "name": "Rouleau De Papier Cuisson En Aluminium En Boite 150 M",
-      "prix_comparaison": 142600,
-      "variation": 18800
-    },
-    {
-      "list_id": 3641,
-      "prix_base": 97900,
-      "name": "Rouleau De Papier Cuisson En Aluminium En Boite 200 M",
-      "prix_comparaison": 108000,
-      "variation": 10100
-    },
-    {
-      "list_id": 3608,
-      "prix_base": 46900,
-      "name": "D\u00e9poussiereant Cire D'Abeille Bidon 750 Ml",
-      "prix_comparaison": 53700,
-      "variation": 6800
+      "list_id": 3581,
+      "prix_base": 11500,
+      "name": "Cookies Choco Blanc Et Cranberries 150 G",
+      "prix_comparaison": 12800,
+      "variation": 1300
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 3715,
-      "prix_base": 26800,
-      "name": "Brosse \u00c0 Daim",
-      "prix_comparaison": 22700,
-      "variation": -4100
-    },
-    {
-      "list_id": 3637,
-      "prix_base": 20600,
-      "name": "Adoucissant Frescor 2 L",
-      "prix_comparaison": 18700,
-      "variation": -1900
-    },
-    {
-      "list_id": 3721,
-      "prix_base": 21700,
-      "name": "Imperm\u00e9abilisant Basket 200 Ml",
-      "prix_comparaison": 20200,
-      "variation": -1500
+      "list_id": 3581,
+      "prix_base": 11500,
+      "name": "Cookies Choco Blanc Et Cranberries 150 G",
+      "prix_comparaison": 12800,
+      "variation": 1300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3616,
-      "name": "Chewing-Gums Sans Sucres White Menthe Forte 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 4000,
-      "indice_prix": 148.14814814814815
-    },
-    {
-      "list_id": 3614,
-      "name": "Chewing-Gums Sans Sucres White Menthe Verte 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 4000,
-      "indice_prix": 148.14814814814815
-    },
-    {
-      "list_id": 3613,
-      "name": "Chewing-Gums Sans Sucres Fraise 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 4000,
-      "indice_prix": 148.14814814814815
+      "list_id": 3581,
+      "name": "Cookies Choco Blanc Et Cranberries 150 G",
+      "prix_base": 11500,
+      "prix_comparaison": 12800,
+      "indice_prix": 111.30434782608695
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 3520,
-      "name": "Epices Origan Entier 10 G",
-      "prix_base": 6300,
-      "prix_comparaison": 4900,
-      "indice_prix": 77.77777777777777
-    },
-    {
-      "list_id": 3715,
-      "name": "Brosse \u00c0 Daim",
-      "prix_base": 26800,
-      "prix_comparaison": 22700,
-      "indice_prix": 84.70149253731343
-    },
-    {
-      "list_id": 3637,
-      "name": "Adoucissant Frescor 2 L",
-      "prix_base": 20600,
-      "prix_comparaison": 18700,
-      "indice_prix": 90.77669902912622
+      "list_id": 3581,
+      "name": "Cookies Choco Blanc Et Cranberries 150 G",
+      "prix_base": 11500,
+      "prix_comparaison": 12800,
+      "indice_prix": 111.30434782608695
     }
   ]
 }
