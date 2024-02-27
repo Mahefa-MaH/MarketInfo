@@ -13,6 +13,20 @@
       "prix_base": 4990,
       "prix_comparaison": 5900,
       "variation": 910
+    },
+    {
+      "cle": "promo2023_10484maisdoux390g_html",
+      "name": "Ma\u00efs doux 390g",
+      "prix_base": 3990,
+      "prix_comparaison": 4690,
+      "variation": 700
+    },
+    {
+      "cle": "promo2023_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 7500,
+      "variation": 600
     }
   ],
   "prix_diminues": [
@@ -29,6 +43,20 @@
       "prix_base": 2990,
       "prix_comparaison": 3300,
       "variation": 310
+    },
+    {
+      "cle": "promo2023_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 7500,
+      "variation": 600
+    },
+    {
+      "cle": "promo2023_10484maisdoux390g_html",
+      "name": "Ma\u00efs doux 390g",
+      "prix_base": 3990,
+      "prix_comparaison": 4690,
+      "variation": 700
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +73,20 @@
       "prix_base": 4990,
       "prix_comparaison": 5900,
       "indice_prix": 118.23647294589178
+    },
+    {
+      "cle": "promo2023_10484maisdoux390g_html",
+      "name": "Ma\u00efs doux 390g",
+      "prix_base": 3990,
+      "prix_comparaison": 4690,
+      "indice_prix": 117.54385964912281
+    },
+    {
+      "cle": "promo2023_10469serviettedetable_html",
+      "name": "Serviettes en papier blanches",
+      "prix_base": 2300,
+      "prix_comparaison": 2590,
+      "indice_prix": 112.6086956521739
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +103,20 @@
       "prix_base": 2990,
       "prix_comparaison": 3300,
       "indice_prix": 110.36789297658864
+    },
+    {
+      "cle": "promo2023_10469serviettedetable_html",
+      "name": "Serviettes en papier blanches",
+      "prix_base": 2300,
+      "prix_comparaison": 2590,
+      "indice_prix": 112.6086956521739
+    },
+    {
+      "cle": "promo2023_10484maisdoux390g_html",
+      "name": "Ma\u00efs doux 390g",
+      "prix_base": 3990,
+      "prix_comparaison": 4690,
+      "indice_prix": 117.54385964912281
     }
   ]
 }

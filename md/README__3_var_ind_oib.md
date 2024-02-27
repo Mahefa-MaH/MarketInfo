@@ -12,6 +12,16 @@
    - Prix actuel: 5,900 Ar
    - Variation: +910 Ar
 
+3. **Maïs doux 390g**
+   - Prix avant: 3,990 Ar
+   - Prix actuel: 4,690 Ar
+   - Variation: +700 Ar
+
+4. **Sucre blanc cristallisé 1kg**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,500 Ar
+   - Variation: +600 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Serviettes en papier blanches**
@@ -23,6 +33,16 @@
    - Prix avant: 2,990 Ar
    - Prix actuel: 3,300 Ar
    - Variation: +310 Ar
+
+3. **Sucre blanc cristallisé 1kg**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,500 Ar
+   - Variation: +600 Ar
+
+4. **Maïs doux 390g**
+   - Prix avant: 3,990 Ar
+   - Prix actuel: 4,690 Ar
+   - Variation: +700 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -36,6 +56,16 @@
    - Prix actuel: 5,900 Ar
    - Indice de prix : 118.24
 
+3. **Maïs doux 390g**
+   - Prix avant: 3,990 Ar
+   - Prix actuel: 4,690 Ar
+   - Indice de prix : 117.54
+
+4. **Serviettes en papier blanches**
+   - Prix avant: 2,300 Ar
+   - Prix actuel: 2,590 Ar
+   - Indice de prix : 112.61
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Sucre blanc cristallisé 1kg**
@@ -47,4 +77,14 @@
    - Prix avant: 2,990 Ar
    - Prix actuel: 3,300 Ar
    - Indice de prix : 110.37
+
+3. **Serviettes en papier blanches**
+   - Prix avant: 2,300 Ar
+   - Prix actuel: 2,590 Ar
+   - Indice de prix : 112.61
+
+4. **Maïs doux 390g**
+   - Prix avant: 3,990 Ar
+   - Prix actuel: 4,690 Ar
+   - Indice de prix : 117.54
 
