@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
-      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
-      "prix_base": 10347000,
-      "prix_comparaison": 10347000,
+      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
+      "name": "Nettoyeur HP eau chaude 170 bars*",
+      "prix_base": 12650000,
+      "prix_comparaison": 12650000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133928apple16macbookprom3max2023ram36gostockage1toargentazerty0195949076138_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 20174000,
-      "prix_comparaison": 20174000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ordinateurportable_133172apple16macbookprom3pro2023ram18gostockage512goargentazerty0195949075254_html",
-      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 14661000,
-      "prix_comparaison": 14661000,
+      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
+      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     }

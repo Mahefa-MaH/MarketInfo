@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
-      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
-      "prix_base": 27000000,
-      "prix_comparaison": 27000000,
+      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
+      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
+      "prix_base": 10049000,
+      "prix_comparaison": 10049000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
-      "prix_base": 10276000,
-      "prix_comparaison": 10276000,
+      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
+      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
+      "prix_base": 21000000,
+      "prix_comparaison": 21000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
-      "prix_base": 11246000,
-      "prix_comparaison": 11246000,
+      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
+      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
+      "prix_base": 10430000,
+      "prix_comparaison": 10430000,
       "variation": 0,
       "indice_prix": 100.0
     }

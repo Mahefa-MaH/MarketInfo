@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz de table Makalioka 5kg**
-   - Prix avant: 18,990 Ar
-   - Prix actuel: 18,990 Ar
+3. **Farine de riz 1kg**
+   - Prix avant: 5,000 Ar
+   - Prix actuel: 5,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

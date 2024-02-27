@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Betonnière 290L essence GX 160 Honda (BET.350L-RG-LAT)**
-   - Prix avant: 12,500,000 Ar
-   - Prix actuel: 12,500,000 Ar
+1. **Onduleur APC Smart-UPS RV 10000VA 230V**
+   - Prix avant: 17,500,000 Ar
+   - Prix actuel: 17,500,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Nettoyeur HP eau chaude 170 bars***
-   - Prix avant: 12,650,000 Ar
-   - Prix actuel: 12,650,000 Ar
+2. **Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe**
+   - Prix avant: 11,000,000 Ar
+   - Prix actuel: 11,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Plaque vibrante réversible 820x480mm Honda**
-   - Prix avant: 21,000,000 Ar
-   - Prix actuel: 21,000,000 Ar
+3. **MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go**
+   - Prix avant: 12,384,000 Ar
+   - Prix actuel: 12,384,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
