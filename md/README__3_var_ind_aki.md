@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Bon Appetit - Mais Doux - 340g**
-   - Prix avant: 4,000 Ar
-   - Prix actuel: 4,100 Ar
-   - Variation: +100 Ar
+1. **T-shirt Shelby - Taille L**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Variation: -5,500 Ar
 
-2. **Francia - Spaghetti - 500g**
-   - Prix avant: 2,800 Ar
-   - Prix actuel: 2,700 Ar
-   - Variation: -100 Ar
+2. **T-shirt SKULL - Taille XL**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Variation: -5,500 Ar
 
-3. **Bloom - Serviette de table - 100 Feuilles**
-   - Prix avant: 2,600 Ar
-   - Prix actuel: 2,500 Ar
-   - Variation: -100 Ar
+3. **T-shirt Bulls - Taille L**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Variation: -5,500 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Evet - Beurre premium margarine - 200g**
-   - Prix avant: 3,100 Ar
-   - Prix actuel: 2,900 Ar
-   - Variation: -200 Ar
+1. **T-shirt Oldies - Taille L**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Variation: -5,500 Ar
 
-2. **Bloom - Serviette de table - 100 Feuilles**
-   - Prix avant: 2,600 Ar
-   - Prix actuel: 2,500 Ar
-   - Variation: -100 Ar
+2. **T-shirt Sangoku - Taille M**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Variation: -5,500 Ar
 
-3. **Francia - Spaghetti - 500g**
-   - Prix avant: 2,800 Ar
-   - Prix actuel: 2,700 Ar
-   - Variation: -100 Ar
+3. **T-shirt Bulls - Taille L**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Variation: -5,500 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Bon Appetit - Mais Doux - 340g**
-   - Prix avant: 4,000 Ar
-   - Prix actuel: 4,100 Ar
-   - Indice de prix : 102.50
+1. **T-shirt Shelby - Taille L**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Indice de prix : 78.26
 
-2. **Francia - Spaghetti - 500g**
-   - Prix avant: 2,800 Ar
-   - Prix actuel: 2,700 Ar
-   - Indice de prix : 96.43
+2. **T-shirt SKULL - Taille XL**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Indice de prix : 78.26
 
-3. **Bloom - Serviette de table - 100 Feuilles**
-   - Prix avant: 2,600 Ar
-   - Prix actuel: 2,500 Ar
-   - Indice de prix : 96.15
+3. **T-shirt Bulls - Taille L**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Indice de prix : 78.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Evet - Beurre premium margarine - 200g**
-   - Prix avant: 3,100 Ar
-   - Prix actuel: 2,900 Ar
-   - Indice de prix : 93.55
+1. **T-shirt Oldies - Taille L**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Indice de prix : 78.26
 
-2. **Bloom - Serviette de table - 100 Feuilles**
-   - Prix avant: 2,600 Ar
-   - Prix actuel: 2,500 Ar
-   - Indice de prix : 96.15
+2. **T-shirt Sangoku - Taille M**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Indice de prix : 78.26
 
-3. **Francia - Spaghetti - 500g**
-   - Prix avant: 2,800 Ar
-   - Prix actuel: 2,700 Ar
-   - Indice de prix : 96.43
+3. **T-shirt Bulls - Taille L**
+   - Prix avant: 25,300 Ar
+   - Prix actuel: 19,800 Ar
+   - Indice de prix : 78.26
 

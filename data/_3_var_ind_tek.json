@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 3581,
-      "prix_base": 11500,
-      "name": "Cookies Choco Blanc Et Cranberries 150 G",
-      "prix_comparaison": 12800,
-      "variation": 1300
+      "list_id": 3532,
+      "prix_base": 52600,
+      "name": "Graines De Pavot 250 G",
+      "prix_comparaison": 64800,
+      "variation": 12200
+    },
+    {
+      "list_id": 13202,
+      "prix_base": 13200,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_comparaison": 21450,
+      "variation": 8250
+    },
+    {
+      "list_id": 3536,
+      "prix_base": 50400,
+      "name": "Graine Sesame Blanc 1 Kg",
+      "prix_comparaison": 57600,
+      "variation": 7200
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 3581,
-      "prix_base": 11500,
-      "name": "Cookies Choco Blanc Et Cranberries 150 G",
-      "prix_comparaison": 12800,
-      "variation": 1300
+      "list_id": 11563,
+      "prix_base": 10750,
+      "name": "Gel douche orchid\u00e9e 250 ml",
+      "prix_comparaison": 9450,
+      "variation": -1300
+    },
+    {
+      "list_id": 3977,
+      "prix_base": 10200,
+      "name": "Farine Fine \u201c00\u201d 1 Kg",
+      "prix_comparaison": 9000,
+      "variation": -1200
+    },
+    {
+      "list_id": 11325,
+      "prix_base": 11900,
+      "name": "Gel douche exfoliant argan 250 ml",
+      "prix_comparaison": 10800,
+      "variation": -1100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3581,
-      "name": "Cookies Choco Blanc Et Cranberries 150 G",
-      "prix_base": 11500,
-      "prix_comparaison": 12800,
-      "indice_prix": 111.30434782608695
+      "list_id": 13202,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_base": 13200,
+      "prix_comparaison": 21450,
+      "indice_prix": 162.5
+    },
+    {
+      "list_id": 3527,
+      "name": "Epices Herbes De Provence 250 G",
+      "prix_base": 13900,
+      "prix_comparaison": 18400,
+      "indice_prix": 132.37410071942446
+    },
+    {
+      "list_id": 3524,
+      "name": "Epices Cumin Moulu 250 G",
+      "prix_base": 12300,
+      "prix_comparaison": 16100,
+      "indice_prix": 130.89430894308944
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 3581,
-      "name": "Cookies Choco Blanc Et Cranberries 150 G",
-      "prix_base": 11500,
-      "prix_comparaison": 12800,
-      "indice_prix": 111.30434782608695
+      "list_id": 11563,
+      "name": "Gel douche orchid\u00e9e 250 ml",
+      "prix_base": 10750,
+      "prix_comparaison": 9450,
+      "indice_prix": 87.90697674418605
+    },
+    {
+      "list_id": 3977,
+      "name": "Farine Fine \u201c00\u201d 1 Kg",
+      "prix_base": 10200,
+      "prix_comparaison": 9000,
+      "indice_prix": 88.23529411764706
+    },
+    {
+      "list_id": 11325,
+      "name": "Gel douche exfoliant argan 250 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 10800,
+      "indice_prix": 90.75630252100841
     }
   ]
 }

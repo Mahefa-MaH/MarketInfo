@@ -1,0 +1,66 @@
+{
+  "prix_augmentes": [
+    {
+      "cle": "outillage_101869degrippantanticorrosionlm40200ml112_html",
+      "name": "D\u00e9grippant Anti-corrosion LM40 200ML-1/12",
+      "prix_base": 29000,
+      "prix_comparaison": 35000,
+      "variation": 6000
+    },
+    {
+      "cle": "outillage_101850liquidedefreindot3250ml124_html",
+      "name": "Liquide de frein DOT 3 250ML - 1/24",
+      "prix_base": 27000,
+      "prix_comparaison": 30000,
+      "variation": 3000
+    }
+  ],
+  "prix_diminues": [
+    {
+      "cle": "outillage_101850liquidedefreindot3250ml124_html",
+      "name": "Liquide de frein DOT 3 250ML - 1/24",
+      "prix_base": 27000,
+      "prix_comparaison": 30000,
+      "variation": 3000
+    },
+    {
+      "cle": "outillage_101869degrippantanticorrosionlm40200ml112_html",
+      "name": "D\u00e9grippant Anti-corrosion LM40 200ML-1/12",
+      "prix_base": 29000,
+      "prix_comparaison": 35000,
+      "variation": 6000
+    }
+  ],
+  "indices_prix_plus_eleves": [
+    {
+      "cle": "outillage_101869degrippantanticorrosionlm40200ml112_html",
+      "name": "D\u00e9grippant Anti-corrosion LM40 200ML-1/12",
+      "prix_base": 29000,
+      "prix_comparaison": 35000,
+      "indice_prix": 120.6896551724138
+    },
+    {
+      "cle": "outillage_101850liquidedefreindot3250ml124_html",
+      "name": "Liquide de frein DOT 3 250ML - 1/24",
+      "prix_base": 27000,
+      "prix_comparaison": 30000,
+      "indice_prix": 111.11111111111111
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "cle": "outillage_101850liquidedefreindot3250ml124_html",
+      "name": "Liquide de frein DOT 3 250ML - 1/24",
+      "prix_base": 27000,
+      "prix_comparaison": 30000,
+      "indice_prix": 111.11111111111111
+    },
+    {
+      "cle": "outillage_101869degrippantanticorrosionlm40200ml112_html",
+      "name": "D\u00e9grippant Anti-corrosion LM40 200ML-1/12",
+      "prix_base": 29000,
+      "prix_comparaison": 35000,
+      "indice_prix": 120.6896551724138
+    }
+  ]
+}

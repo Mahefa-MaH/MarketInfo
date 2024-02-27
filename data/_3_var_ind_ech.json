@@ -1,108 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 209700,
-      "prix_comparaison": 210500,
-      "variation": 800
+      "cle": "produit_fromagenatureapericube125g24portions_",
+      "name": "Fromage Nature Ap\u00e9ricube  125g | 24 portions",
+      "prix_base": 18150,
+      "prix_comparaison": 22807,
+      "variation": 4657
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 105850,
-      "prix_comparaison": 106250,
-      "variation": 400
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 21670,
-      "prix_comparaison": 21750,
-      "variation": 80
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 4154,
-      "prix_comparaison": 4170,
-      "variation": 16
+      "cle": "produit_paprikadoux40gralba_",
+      "name": "Paprika Doux 40gr Alba",
+      "prix_base": 4740,
+      "prix_comparaison": 7051,
+      "variation": 2311
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 4154,
-      "prix_comparaison": 4170,
-      "variation": 16
+      "cle": "produit_paprikadoux40gralba_",
+      "name": "Paprika Doux 40gr Alba",
+      "prix_base": 4740,
+      "prix_comparaison": 7051,
+      "variation": 2311
     },
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 21670,
-      "prix_comparaison": 21750,
-      "variation": 80
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 105850,
-      "prix_comparaison": 106250,
-      "variation": 400
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 209700,
-      "prix_comparaison": 210500,
-      "variation": 800
+      "cle": "produit_fromagenatureapericube125g24portions_",
+      "name": "Fromage Nature Ap\u00e9ricube  125g | 24 portions",
+      "prix_base": 18150,
+      "prix_comparaison": 22807,
+      "variation": 4657
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 4154,
-      "prix_comparaison": 4170,
-      "indice_prix": 100.38517091959557
+      "cle": "produit_paprikadoux40gralba_",
+      "name": "Paprika Doux 40gr Alba",
+      "prix_base": 4740,
+      "prix_comparaison": 7051,
+      "indice_prix": 148.75527426160338
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 209700,
-      "prix_comparaison": 210500,
-      "indice_prix": 100.38149737720553
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 105850,
-      "prix_comparaison": 106250,
-      "indice_prix": 100.37789324515825
+      "cle": "produit_fromagenatureapericube125g24portions_",
+      "name": "Fromage Nature Ap\u00e9ricube  125g | 24 portions",
+      "prix_base": 18150,
+      "prix_comparaison": 22807,
+      "indice_prix": 125.65840220385675
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 21670,
-      "prix_comparaison": 21750,
-      "indice_prix": 100.3691739732349
+      "cle": "produit_fromagenatureapericube125g24portions_",
+      "name": "Fromage Nature Ap\u00e9ricube  125g | 24 portions",
+      "prix_base": 18150,
+      "prix_comparaison": 22807,
+      "indice_prix": 125.65840220385675
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 105850,
-      "prix_comparaison": 106250,
-      "indice_prix": 100.37789324515825
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 209700,
-      "prix_comparaison": 210500,
-      "indice_prix": 100.38149737720553
+      "cle": "produit_paprikadoux40gralba_",
+      "name": "Paprika Doux 40gr Alba",
+      "prix_base": 4740,
+      "prix_comparaison": 7051,
+      "indice_prix": 148.75527426160338
     }
   ]
 }
