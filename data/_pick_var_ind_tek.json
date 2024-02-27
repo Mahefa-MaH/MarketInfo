@@ -1,188 +1,62 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3624,
-      "name": "Chewing-Gums Sans Sucres Green Fresh 10 Pi\u00e8ces",
-      "prix_base": 3800,
-      "prix_comparaison": 4200,
-      "variation": 400
-    },
-    {
-      "list_id": 3625,
-      "name": "Chewing-Gums Sans Sucre Power Fresh 10 Pi\u00e8ces",
-      "prix_base": 3800,
-      "prix_comparaison": 4200,
-      "variation": 400
-    },
-    {
-      "list_id": 3626,
-      "name": "Chewing-Gums Sans Sucre Blancheur 10 Pi\u00e8ces",
-      "prix_base": 3800,
-      "prix_comparaison": 4200,
-      "variation": 400
-    },
-    {
-      "list_id": 3627,
-      "name": "Chewing-Gums Sans Sucres Ice Fresh 10 Pi\u00e8ces",
-      "prix_base": 3800,
-      "prix_comparaison": 4200,
-      "variation": 400
-    },
-    {
-      "list_id": 3631,
-      "name": "Chewing-Gums Sans Sucres Style Chloro 12 Pi\u00e8ces",
-      "prix_base": 6300,
-      "prix_comparaison": 6800,
-      "variation": 500
-    },
-    {
-      "list_id": 3632,
-      "name": "Chewing-Gums Style Sans Sucres Cocktails De Fruits 12 Pi\u00e8ces",
-      "prix_base": 6300,
-      "prix_comparaison": 6800,
-      "variation": 500
-    },
-    {
-      "list_id": 3630,
-      "name": "Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche",
-      "prix_base": 6700,
-      "prix_comparaison": 7300,
-      "variation": 600
-    },
-    {
-      "list_id": 3629,
-      "name": "Chewing-Gums 2 Fresh Sans Sucre Chloro 10 Pi\u00e8ces",
-      "prix_base": 6700,
-      "prix_comparaison": 7400,
-      "variation": 700
-    },
-    {
-      "list_id": 3613,
-      "name": "Chewing-Gums Sans Sucres Fraise 10 D",
+      "list_id": 3612,
+      "name": "Chewing-Gums Sans Sucres Menthe Verte 10 D",
       "prix_base": 2700,
-      "prix_comparaison": 4000,
-      "variation": 1300
+      "prix_comparaison": 3100,
+      "variation": 400
     },
     {
-      "list_id": 3614,
-      "name": "Chewing-Gums Sans Sucres White Menthe Verte 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 4000,
-      "variation": 1300
+      "list_id": 11591,
+      "name": "Cr\u00e8me de douche au lait de miel 250 ml",
+      "prix_base": 10750,
+      "prix_comparaison": 11850,
+      "variation": 1100
     },
     {
-      "list_id": 3616,
-      "name": "Chewing-Gums Sans Sucres White Menthe Forte 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 4000,
-      "variation": 1300
+      "list_id": 11298,
+      "name": "Gel douche \u00e0 l'huile d'argan 250 ml",
+      "prix_base": 10800,
+      "prix_comparaison": 11900,
+      "variation": 1100
     },
     {
-      "list_id": 3618,
-      "name": "Chewing-Gums Sans Sucres White Menthe Douce",
-      "prix_base": 13100,
-      "prix_comparaison": 14400,
-      "variation": 1300
-    },
-    {
-      "list_id": 3619,
-      "name": "Chewing-Gums Sans Sucres White Menthe Verte En Bo\u00eete",
-      "prix_base": 13100,
-      "prix_comparaison": 14400,
+      "list_id": 11729,
+      "name": "Cr\u00e8me de douche au lait de coton 750 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 20400,
       "variation": 1300
     }
   ],
   "indice de prix": [
     {
-      "list_id": 3631,
-      "name": "Chewing-Gums Sans Sucres Style Chloro 12 Pi\u00e8ces",
-      "prix_base": 6300,
-      "prix_comparaison": 6800,
-      "indice_prix": 107.93650793650794
+      "list_id": 11729,
+      "name": "Cr\u00e8me de douche au lait de coton 750 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 20400,
+      "indice_prix": 106.80628272251309
     },
     {
-      "list_id": 3632,
-      "name": "Chewing-Gums Style Sans Sucres Cocktails De Fruits 12 Pi\u00e8ces",
-      "prix_base": 6300,
-      "prix_comparaison": 6800,
-      "indice_prix": 107.93650793650794
+      "list_id": 11298,
+      "name": "Gel douche \u00e0 l'huile d'argan 250 ml",
+      "prix_base": 10800,
+      "prix_comparaison": 11900,
+      "indice_prix": 110.18518518518519
     },
     {
-      "list_id": 3630,
-      "name": "Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche",
-      "prix_base": 6700,
-      "prix_comparaison": 7300,
-      "indice_prix": 108.95522388059702
+      "list_id": 11591,
+      "name": "Cr\u00e8me de douche au lait de miel 250 ml",
+      "prix_base": 10750,
+      "prix_comparaison": 11850,
+      "indice_prix": 110.23255813953489
     },
     {
-      "list_id": 3618,
-      "name": "Chewing-Gums Sans Sucres White Menthe Douce",
-      "prix_base": 13100,
-      "prix_comparaison": 14400,
-      "indice_prix": 109.92366412213741
-    },
-    {
-      "list_id": 3619,
-      "name": "Chewing-Gums Sans Sucres White Menthe Verte En Bo\u00eete",
-      "prix_base": 13100,
-      "prix_comparaison": 14400,
-      "indice_prix": 109.92366412213741
-    },
-    {
-      "list_id": 3629,
-      "name": "Chewing-Gums 2 Fresh Sans Sucre Chloro 10 Pi\u00e8ces",
-      "prix_base": 6700,
-      "prix_comparaison": 7400,
-      "indice_prix": 110.44776119402985
-    },
-    {
-      "list_id": 3624,
-      "name": "Chewing-Gums Sans Sucres Green Fresh 10 Pi\u00e8ces",
-      "prix_base": 3800,
-      "prix_comparaison": 4200,
-      "indice_prix": 110.52631578947368
-    },
-    {
-      "list_id": 3625,
-      "name": "Chewing-Gums Sans Sucre Power Fresh 10 Pi\u00e8ces",
-      "prix_base": 3800,
-      "prix_comparaison": 4200,
-      "indice_prix": 110.52631578947368
-    },
-    {
-      "list_id": 3626,
-      "name": "Chewing-Gums Sans Sucre Blancheur 10 Pi\u00e8ces",
-      "prix_base": 3800,
-      "prix_comparaison": 4200,
-      "indice_prix": 110.52631578947368
-    },
-    {
-      "list_id": 3627,
-      "name": "Chewing-Gums Sans Sucres Ice Fresh 10 Pi\u00e8ces",
-      "prix_base": 3800,
-      "prix_comparaison": 4200,
-      "indice_prix": 110.52631578947368
-    },
-    {
-      "list_id": 3613,
-      "name": "Chewing-Gums Sans Sucres Fraise 10 D",
+      "list_id": 3612,
+      "name": "Chewing-Gums Sans Sucres Menthe Verte 10 D",
       "prix_base": 2700,
-      "prix_comparaison": 4000,
-      "indice_prix": 148.14814814814815
-    },
-    {
-      "list_id": 3614,
-      "name": "Chewing-Gums Sans Sucres White Menthe Verte 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 4000,
-      "indice_prix": 148.14814814814815
-    },
-    {
-      "list_id": 3616,
-      "name": "Chewing-Gums Sans Sucres White Menthe Forte 10 D",
-      "prix_base": 2700,
-      "prix_comparaison": 4000,
-      "indice_prix": 148.14814814814815
+      "prix_comparaison": 3100,
+      "indice_prix": 114.81481481481481
     }
   ]
 }
