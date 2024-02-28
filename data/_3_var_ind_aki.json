@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009927",
-      "name": "T-shirt Shelby - Taille L",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "variation": -5500
+      "cle": "home_jspbutvente_fichecleproduitprod010062",
+      "name": "Krazy - Vetsin - 250g",
+      "prix_base": 1700,
+      "prix_comparaison": 1800,
+      "variation": 100
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009928",
-      "name": "T-shirt SKULL - Taille XL",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "variation": -5500
+      "cle": "home_jspbutvente_fichecleproduitprod009698",
+      "name": "Jua - Moutarde de Dijon - 260ml",
+      "prix_base": 6800,
+      "prix_comparaison": 6600,
+      "variation": -200
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009929",
-      "name": "T-shirt Bulls - Taille L",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "variation": -5500
+      "cle": "home_jspbutvente_fichecleproduitprod006408",
+      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
+      "prix_base": 9900,
+      "prix_comparaison": 9300,
+      "variation": -600
     }
   ],
   "prix_diminues": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009931",
-      "name": "T-shirt Oldies - Taille L",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "variation": -5500
+      "cle": "home_jspbutvente_fichecleproduitprod006408",
+      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
+      "prix_base": 9900,
+      "prix_comparaison": 9300,
+      "variation": -600
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009930",
-      "name": "T-shirt Sangoku - Taille M",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "variation": -5500
+      "cle": "home_jspbutvente_fichecleproduitprod009698",
+      "name": "Jua - Moutarde de Dijon - 260ml",
+      "prix_base": 6800,
+      "prix_comparaison": 6600,
+      "variation": -200
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009929",
-      "name": "T-shirt Bulls - Taille L",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "variation": -5500
+      "cle": "home_jspbutvente_fichecleproduitprod010062",
+      "name": "Krazy - Vetsin - 250g",
+      "prix_base": 1700,
+      "prix_comparaison": 1800,
+      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009927",
-      "name": "T-shirt Shelby - Taille L",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "indice_prix": 78.26086956521739
+      "cle": "home_jspbutvente_fichecleproduitprod010062",
+      "name": "Krazy - Vetsin - 250g",
+      "prix_base": 1700,
+      "prix_comparaison": 1800,
+      "indice_prix": 105.88235294117646
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009928",
-      "name": "T-shirt SKULL - Taille XL",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "indice_prix": 78.26086956521739
+      "cle": "home_jspbutvente_fichecleproduitprod009698",
+      "name": "Jua - Moutarde de Dijon - 260ml",
+      "prix_base": 6800,
+      "prix_comparaison": 6600,
+      "indice_prix": 97.05882352941177
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009929",
-      "name": "T-shirt Bulls - Taille L",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "indice_prix": 78.26086956521739
+      "cle": "home_jspbutvente_fichecleproduitprod006408",
+      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
+      "prix_base": 9900,
+      "prix_comparaison": 9300,
+      "indice_prix": 93.93939393939394
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009931",
-      "name": "T-shirt Oldies - Taille L",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "indice_prix": 78.26086956521739
+      "cle": "home_jspbutvente_fichecleproduitprod006408",
+      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
+      "prix_base": 9900,
+      "prix_comparaison": 9300,
+      "indice_prix": 93.93939393939394
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009930",
-      "name": "T-shirt Sangoku - Taille M",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "indice_prix": 78.26086956521739
+      "cle": "home_jspbutvente_fichecleproduitprod009698",
+      "name": "Jua - Moutarde de Dijon - 260ml",
+      "prix_base": 6800,
+      "prix_comparaison": 6600,
+      "indice_prix": 97.05882352941177
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009929",
-      "name": "T-shirt Bulls - Taille L",
-      "prix_base": 25300,
-      "prix_comparaison": 19800,
-      "indice_prix": 78.26086956521739
+      "cle": "home_jspbutvente_fichecleproduitprod010062",
+      "name": "Krazy - Vetsin - 250g",
+      "prix_base": 1700,
+      "prix_comparaison": 1800,
+      "indice_prix": 105.88235294117646
     }
   ]
 }

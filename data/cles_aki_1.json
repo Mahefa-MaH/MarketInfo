@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod000576",
-      "name": "Riz de tabe blanc Makalioka",
+      "cle": "home_jspbutvente_fichecleproduitprod000424",
+      "name": "Riz Rouge (kg)",
       "prix_base": 3300,
       "prix_comparaison": 3300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "home_jspbutvente_fichecleproduitprod000425",
-      "name": "Sucre Blanc (kg)",
-      "prix_base": 5400,
-      "prix_comparaison": 5400,
+      "cle": "home_jspbutvente_fichecleproduitprod000576",
+      "name": "Riz de tabe blanc Makalioka",
+      "prix_base": 3300,
+      "prix_comparaison": 3300,
       "variation": 0,
       "indice_prix": 100.0
     }

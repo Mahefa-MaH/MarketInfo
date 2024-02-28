@@ -1,0 +1,20 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod006408",
+      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
+      "prix_base": 9900,
+      "prix_comparaison": 9300,
+      "variation": -600
+    }
+  ],
+  "indice de prix": [
+    {
+      "cle": "home_jspbutvente_fichecleproduitprod006408",
+      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
+      "prix_base": 9900,
+      "prix_comparaison": 9300,
+      "indice_prix": 93.93939393939394
+    }
+  ]
+}
