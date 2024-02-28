@@ -1,66 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_fromagenatureapericube125g24portions_",
-      "name": "Fromage Nature Ap\u00e9ricube  125g | 24 portions",
-      "prix_base": 18150,
-      "prix_comparaison": 22807,
-      "variation": 4657
+      "cle": "produit_chargegazbutane39kg_",
+      "name": "CHARGE GAZ Butane 39kg Vitogaz\u2122",
+      "prix_base": 399300,
+      "prix_comparaison": 403400,
+      "variation": 4100
     },
     {
-      "cle": "produit_paprikadoux40gralba_",
-      "name": "Paprika Doux 40gr Alba",
-      "prix_base": 4740,
-      "prix_comparaison": 7051,
-      "variation": 2311
+      "cle": "produit_e39bouteillechargee39kg_",
+      "name": "E39 \u2013 Bouteille Charg\u00e9e 39KG Vitogaz\u2122",
+      "prix_base": 560300,
+      "prix_comparaison": 564400,
+      "variation": 4100
+    },
+    {
+      "cle": "produit_fromagerapespecialepourgratincarrefour150g_",
+      "name": "Fromage R\u00e2p\u00e9 Sp\u00e9ciale pour Gratin Carrefour\u2122 150g",
+      "prix_base": 19870,
+      "prix_comparaison": 22530,
+      "variation": 2660
+    },
+    {
+      "cle": "produit_chocolattablettelaitextrapoulain95g_",
+      "name": "Chocolat Tablette Lait Extra Poulain 95g",
+      "prix_base": 10260,
+      "prix_comparaison": 12160,
+      "variation": 1900
+    },
+    {
+      "cle": "produit_poischiche12400grmila_",
+      "name": "Pois Chiche 1/2 400GR Mila",
+      "prix_base": 5510,
+      "prix_comparaison": 6880,
+      "variation": 1370
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_paprikadoux40gralba_",
-      "name": "Paprika Doux 40gr Alba",
-      "prix_base": 4740,
-      "prix_comparaison": 7051,
-      "variation": 2311
+      "cle": "produit_chargegazbutane4kg_",
+      "name": "CHARGE GAZ Butane 4kg Vitogaz\u2122",
+      "prix_base": 26900,
+      "prix_comparaison": 27400,
+      "variation": 500
     },
     {
-      "cle": "produit_fromagenatureapericube125g24portions_",
-      "name": "Fromage Nature Ap\u00e9ricube  125g | 24 portions",
-      "prix_base": 18150,
-      "prix_comparaison": 22807,
-      "variation": 4657
+      "cle": "produit_e4bouteillechargee4kg_",
+      "name": "E4 \u2013 Bouteille Charg\u00e9e 4KG Vitogaz\u2122",
+      "prix_base": 53900,
+      "prix_comparaison": 54400,
+      "variation": 500
+    },
+    {
+      "cle": "produit_chargegazbutane9kg_",
+      "name": "CHARGE GAZ Butane 9kg Vitogaz\u2122",
+      "prix_base": 61800,
+      "prix_comparaison": 62800,
+      "variation": 1000
+    },
+    {
+      "cle": "produit_e9bouteillechargee9kg_",
+      "name": "E9 \u2013 Bouteille Charg\u00e9e 9KG Vitogaz\u2122",
+      "prix_base": 106800,
+      "prix_comparaison": 107800,
+      "variation": 1000
+    },
+    {
+      "cle": "produit_poischiche12400grmila_",
+      "name": "Pois Chiche 1/2 400GR Mila",
+      "prix_base": 5510,
+      "prix_comparaison": 6880,
+      "variation": 1370
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_paprikadoux40gralba_",
-      "name": "Paprika Doux 40gr Alba",
-      "prix_base": 4740,
-      "prix_comparaison": 7051,
-      "indice_prix": 148.75527426160338
+      "cle": "produit_poischiche12400grmila_",
+      "name": "Pois Chiche 1/2 400GR Mila",
+      "prix_base": 5510,
+      "prix_comparaison": 6880,
+      "indice_prix": 124.86388384754991
     },
     {
-      "cle": "produit_fromagenatureapericube125g24portions_",
-      "name": "Fromage Nature Ap\u00e9ricube  125g | 24 portions",
-      "prix_base": 18150,
-      "prix_comparaison": 22807,
-      "indice_prix": 125.65840220385675
+      "cle": "produit_chocolattablettelaitextrapoulain95g_",
+      "name": "Chocolat Tablette Lait Extra Poulain 95g",
+      "prix_base": 10260,
+      "prix_comparaison": 12160,
+      "indice_prix": 118.51851851851852
+    },
+    {
+      "cle": "produit_fromagerapespecialepourgratincarrefour150g_",
+      "name": "Fromage R\u00e2p\u00e9 Sp\u00e9ciale pour Gratin Carrefour\u2122 150g",
+      "prix_base": 19870,
+      "prix_comparaison": 22530,
+      "indice_prix": 113.38701560140916
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_fromagenatureapericube125g24portions_",
-      "name": "Fromage Nature Ap\u00e9ricube  125g | 24 portions",
-      "prix_base": 18150,
-      "prix_comparaison": 22807,
-      "indice_prix": 125.65840220385675
+      "cle": "produit_e39bouteillechargee39kg_",
+      "name": "E39 \u2013 Bouteille Charg\u00e9e 39KG Vitogaz\u2122",
+      "prix_base": 560300,
+      "prix_comparaison": 564400,
+      "indice_prix": 100.73175084776013
     },
     {
-      "cle": "produit_paprikadoux40gralba_",
-      "name": "Paprika Doux 40gr Alba",
-      "prix_base": 4740,
-      "prix_comparaison": 7051,
-      "indice_prix": 148.75527426160338
+      "cle": "produit_e4bouteillechargee4kg_",
+      "name": "E4 \u2013 Bouteille Charg\u00e9e 4KG Vitogaz\u2122",
+      "prix_base": 53900,
+      "prix_comparaison": 54400,
+      "indice_prix": 100.92764378478664
+    },
+    {
+      "cle": "produit_e9bouteillechargee9kg_",
+      "name": "E9 \u2013 Bouteille Charg\u00e9e 9KG Vitogaz\u2122",
+      "prix_base": 106800,
+      "prix_comparaison": 107800,
+      "indice_prix": 100.93632958801498
     }
   ]
 }
