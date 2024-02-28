@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133173apple16macbookprom3pro2023ram36gostockage512goargentazerty0195949075698_html",
-      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 16906000,
-      "prix_comparaison": 16906000,
+      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
+      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
+      "prix_base": 10450000,
+      "prix_comparaison": 10450000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133171apple16macbookprom3pro2023ram36gostockage512gonoirsideralazerty0195949074370_html",
-      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
-      "prix_base": 16906000,
-      "prix_comparaison": 16906000,
+      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
+      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
+      "prix_base": 27000000,
+      "prix_comparaison": 27000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133170apple16macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949073939_html",
-      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
-      "prix_base": 14661000,
-      "prix_comparaison": 14661000,
+      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
+      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
+      "prix_base": 28000000,
+      "prix_comparaison": 28000000,
       "variation": 0,
       "indice_prix": 100.0
     }

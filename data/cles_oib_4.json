@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
-      "name": "Sucre blanc en morceaux 1kg",
-      "prix_base": 14900,
-      "prix_comparaison": 14900,
+      "cle": "promo2023_11442rizgasymena1kg_html",
+      "name": "Riz gasy mena  1kg",
+      "prix_base": 4250,
+      "prix_comparaison": 4250,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "sucres_13804sucreenpoudre1kg_html",
-      "name": "Sucre blanc en poudre 1kg",
-      "prix_base": 11500,
-      "prix_comparaison": 11500,
+      "cle": "promo2023_9403rizgasysacde1kg_html",
+      "name": "Riz gasy sac de 1kg",
+      "prix_base": 4490,
+      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_4951rizdetablemakalioka5kg_html",
-      "name": "Riz de table Makalioka 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
+      "cle": "promo2023_11443rizmakalioka1kg_html",
+      "name": "Riz makalioka 1kg",
+      "prix_base": 4350,
+      "prix_comparaison": 4350,
       "variation": 0,
       "indice_prix": 100.0
     }

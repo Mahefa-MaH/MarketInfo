@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1**
-   - Prix avant: 10,451,000 Ar
-   - Prix actuel: 10,451,000 Ar
+1. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Rose**
+   - Prix avant: 10,025,000 Ar
+   - Prix actuel: 10,025,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **SIEMENS CT636LES6 Machine a café iQ700 - Réservoir 2.4L - 1600W - Prépare 2 tass**
-   - Prix avant: 10,507,000 Ar
-   - Prix actuel: 10,507,000 Ar
+2. **SAMSUNG RF24R7201SR - Réfrigérateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventilé plus - L90,8cm x H177,7 cm - Inox**
+   - Prix avant: 13,566,000 Ar
+   - Prix actuel: 13,566,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Pompe pneumatique Airless pro sur chariot 322 bars***
-   - Prix avant: 21,450,000 Ar
-   - Prix actuel: 21,450,000 Ar
+3. **Betonnière 290L essence GX 160 Honda (BET.350L-RG-LAT)**
+   - Prix avant: 12,500,000 Ar
+   - Prix actuel: 12,500,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -2,21 +2,21 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Pilonneuse SP80-345x285 mm**
-   - Prix avant: 15,800,000 Ar
-   - Prix actuel: 15,800,000 Ar
+1. **Echafaudage roulant Neolium 200 Line 14m**
+   - Prix avant: 37,000,000 Ar
+   - Prix actuel: 37,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magnésium - Classe énergétique A+**
-   - Prix avant: 15,423,000 Ar
-   - Prix actuel: 15,423,000 Ar
+2. **Echafaudage Speed XL Ht travail 10.44m**
+   - Prix avant: 22,000,000 Ar
+   - Prix actuel: 22,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magnésium**
-   - Prix avant: 13,174,000 Ar
-   - Prix actuel: 13,174,000 Ar
+3. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
+   - Prix avant: 10,049,000 Ar
+   - Prix actuel: 10,049,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Groupe électrogène Hyundai 9/10kva 230V DHY12000XSE**
-   - Prix avant: 27,000,000 Ar
-   - Prix actuel: 27,000,000 Ar
+1. **Plaque vibrante réversible 820x480mm Honda**
+   - Prix avant: 21,000,000 Ar
+   - Prix actuel: 21,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Groupe electrogène 13000 H mn ins E TBL**
-   - Prix avant: 28,000,000 Ar
-   - Prix actuel: 28,000,000 Ar
+2. **Pompe pneumatique Airless pro sur chariot 322 bars***
+   - Prix avant: 21,450,000 Ar
+   - Prix actuel: 21,450,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Groupe de soudage essence 250Amp 4.5KVA Aux 220V**
-   - Prix avant: 10,450,000 Ar
-   - Prix actuel: 10,450,000 Ar
+3. **Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sidéral**
+   - Prix avant: 11,149,000 Ar
+   - Prix actuel: 11,149,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

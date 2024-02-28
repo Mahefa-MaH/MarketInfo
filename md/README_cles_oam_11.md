@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Argent - Azerty**
-   - Prix avant: 16,906,000 Ar
-   - Prix actuel: 16,906,000 Ar
+1. **Groupe de soudage essence 250Amp 4.5KVA Aux 220V**
+   - Prix avant: 10,450,000 Ar
+   - Prix actuel: 10,450,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Noir sidéral - Azerty**
-   - Prix avant: 16,906,000 Ar
-   - Prix actuel: 16,906,000 Ar
+2. **Groupe électrogène Hyundai 9/10kva 230V DHY12000XSE**
+   - Prix avant: 27,000,000 Ar
+   - Prix actuel: 27,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sidéral - Azerty**
-   - Prix avant: 14,661,000 Ar
-   - Prix actuel: 14,661,000 Ar
+3. **Groupe electrogène 13000 H mn ins E TBL**
+   - Prix avant: 28,000,000 Ar
+   - Prix actuel: 28,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

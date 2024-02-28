@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
-      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
-      "prix_base": 27000000,
-      "prix_comparaison": 27000000,
+      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
+      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
+      "prix_base": 21000000,
+      "prix_comparaison": 21000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
+      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
+      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
+      "prix_base": 21450000,
+      "prix_comparaison": 21450000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11149000,
+      "prix_comparaison": 11149000,
       "variation": 0,
       "indice_prix": 100.0
     }

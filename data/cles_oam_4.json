@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_100755coffretaoutils416200mz_html",
-      "name": "Coffret \u00e0 outils 416-200MZ",
-      "prix_base": 13200000,
-      "prix_comparaison": 13200000,
+      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
+      "prix_base": 12961000,
+      "prix_comparaison": 12961000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_104176stationtotaleelectronique_html",
-      "name": "Station totale \u00e9lectronique",
-      "prix_base": 17600000,
-      "prix_comparaison": 17600000,
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13845000,
+      "prix_comparaison": 13845000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "televiseurled_133093lgoled65c3tvoled65163cm4kultrahd3840x2160100hzsmarttvprocesseura9gen6dolbyatmos4xhdmiw8806091792013_html",
-      "name": "LG OLED 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI - W",
-      "prix_base": 10123000,
-      "prix_comparaison": 10123000,
+      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
+      "prix_base": 10696000,
+      "prix_comparaison": 10696000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_135417apple16macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949074813_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 19101000,
-      "prix_comparaison": 19101000,
+      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
+      "prix_base": 11246000,
+      "prix_comparaison": 11246000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133946apple16macbookprom3max2023ram48gostockage1tonoirsideralazerty0195949185151_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 21795000,
-      "prix_comparaison": 21795000,
+      "cle": "tondeuserobot_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
+      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
+      "prix_base": 17383000,
+      "prix_comparaison": 17383000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133947apple16macbookprom3max2023ram48gostockage1toargentazerty0195949185601_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 21795000,
-      "prix_comparaison": 21795000,
+      "cle": "outillage_100755coffretaoutils416200mz_html",
+      "name": "Coffret \u00e0 outils 416-200MZ",
+      "prix_base": 13200000,
+      "prix_comparaison": 13200000,
       "variation": 0,
       "indice_prix": 100.0
     }

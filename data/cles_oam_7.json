@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
-      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
-      "prix_base": 10451000,
-      "prix_comparaison": 10451000,
+      "cle": "ordinateurtoutenun_133168apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursrose0194253782384_html",
+      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Rose",
+      "prix_base": 10025000,
+      "prix_comparaison": 10025000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "machineacafeexpressobroyeur_91317siemensct636les6machineacafeiq700reservoir24l1600wprepare2tass4242003703595_html",
-      "name": "SIEMENS CT636LES6 Machine a caf\u00e9 iQ700 - R\u00e9servoir 2.4L - 1600W - Pr\u00e9pare 2 tass",
-      "prix_base": 10507000,
-      "prix_comparaison": 10507000,
+      "cle": "refrigerateuramericain_5356samsungrf24r7201srru00e9frigu00e9rateurmultiporte510l348l123l39lfroidventilu00e9plusl908cmxh1777c8801643678708_html",
+      "name": "SAMSUNG RF24R7201SR - R\u00e9frig\u00e9rateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventil\u00e9 plus - L90,8cm x H177,7 cm - Inox",
+      "prix_base": 13566000,
+      "prix_comparaison": 13566000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
-      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
-      "prix_base": 21450000,
-      "prix_comparaison": 21450000,
+      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
+      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
+      "prix_base": 12500000,
+      "prix_comparaison": 12500000,
       "variation": 0,
       "indice_prix": 100.0
     }
