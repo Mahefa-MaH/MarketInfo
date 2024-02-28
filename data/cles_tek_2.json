@@ -1,28 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 12400,
-      "prix_comparaison": 12400,
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 7200,
+      "prix_comparaison": 7200,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 2800,
-      "prix_comparaison": 2800,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 7131,
-      "name": "Riz makalioka rouge 5 kg",
-      "prix_base": 19800,
-      "prix_comparaison": 19800,
-      "variation": 0,
-      "indice_prix": 100.0
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 6900,
+      "prix_comparaison": 7200,
+      "variation": 300,
+      "indice_prix": 104.34782608695652
     }
   ]
 }
