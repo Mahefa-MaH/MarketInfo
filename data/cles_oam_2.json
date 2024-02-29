@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
-      "prix_base": 11580000,
-      "prix_comparaison": 11580000,
+      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
+      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
+      "prix_base": 21000000,
+      "prix_comparaison": 21000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
-      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 11149000,
-      "prix_comparaison": 11149000,
+      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
+      "name": "Nettoyeur HP eau chaude 170 bars*",
+      "prix_base": 12650000,
+      "prix_comparaison": 12650000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
-      "prix_base": 10696000,
-      "prix_comparaison": 10696000,
+      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
+      "name": "Echafaudage roulant Neolium 200 Line 14m",
+      "prix_base": 37000000,
+      "prix_comparaison": 37000000,
       "variation": 0,
       "indice_prix": 100.0
     }

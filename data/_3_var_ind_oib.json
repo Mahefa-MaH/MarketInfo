@@ -1,122 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "promo2023_8726savonbarrevaoline500g_html",
-      "name": "Savon barre Vao Line 500g",
-      "prix_base": 5500,
-      "prix_comparaison": 6900,
-      "variation": 1400
+      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "variation": -2510
     },
     {
-      "cle": "promo2023_1672sucrerouxambilobe1kg_html",
-      "name": "Sucre roux Ambilobe 1kg",
-      "prix_base": 4990,
-      "prix_comparaison": 5900,
-      "variation": 910
+      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "variation": -2510
     },
     {
-      "cle": "promo2023_10484maisdoux390g_html",
-      "name": "Ma\u00efs doux 390g",
-      "prix_base": 3990,
-      "prix_comparaison": 4690,
-      "variation": 700
+      "cle": "cirages_3248cirageautobrillantebrunpourchaussurebufalo75ml_html",
+      "name": "Cirage auto brillante brun pour chaussure 75ml",
+      "prix_base": 7200,
+      "prix_comparaison": 3990,
+      "variation": -3210
     },
     {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7500,
-      "variation": 600
+      "cle": "cirages_6785cirageexpressincolore_html",
+      "name": "Cirage express incolore",
+      "prix_base": 12500,
+      "prix_comparaison": 7900,
+      "variation": -4600
+    },
+    {
+      "cle": "cirages_3239cirageclassicincolorepourchaussurebufalo75ml_html",
+      "name": "Cirage classic incolore pour chaussure 75ml",
+      "prix_base": 10990,
+      "prix_comparaison": 5500,
+      "variation": -5490
     }
   ],
   "prix_diminues": [
     {
-      "cle": "promo2023_10469serviettedetable_html",
-      "name": "Serviettes en papier blanches",
-      "prix_base": 2300,
-      "prix_comparaison": 2590,
-      "variation": 290
+      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
+      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
+      "prix_base": 12700,
+      "prix_comparaison": 6900,
+      "variation": -5800
     },
     {
-      "cle": "promo2023_4428papiertoilette6rouleaux_html",
-      "name": "Papier toilette 6 rouleaux",
-      "prix_base": 2990,
-      "prix_comparaison": 3300,
-      "variation": 310
+      "cle": "cirages_3239cirageclassicincolorepourchaussurebufalo75ml_html",
+      "name": "Cirage classic incolore pour chaussure 75ml",
+      "prix_base": 10990,
+      "prix_comparaison": 5500,
+      "variation": -5490
     },
     {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7500,
-      "variation": 600
+      "cle": "cirages_6785cirageexpressincolore_html",
+      "name": "Cirage express incolore",
+      "prix_base": 12500,
+      "prix_comparaison": 7900,
+      "variation": -4600
     },
     {
-      "cle": "promo2023_10484maisdoux390g_html",
-      "name": "Ma\u00efs doux 390g",
-      "prix_base": 3990,
-      "prix_comparaison": 4690,
-      "variation": 700
+      "cle": "cirages_3248cirageautobrillantebrunpourchaussurebufalo75ml_html",
+      "name": "Cirage auto brillante brun pour chaussure 75ml",
+      "prix_base": 7200,
+      "prix_comparaison": 3990,
+      "variation": -3210
+    },
+    {
+      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "variation": -2510
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "promo2023_8726savonbarrevaoline500g_html",
-      "name": "Savon barre Vao Line 500g",
-      "prix_base": 5500,
+      "cle": "cirages_6785cirageexpressincolore_html",
+      "name": "Cirage express incolore",
+      "prix_base": 12500,
+      "prix_comparaison": 7900,
+      "indice_prix": 63.2
+    },
+    {
+      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "indice_prix": 61.38461538461539
+    },
+    {
+      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "indice_prix": 61.38461538461539
+    },
+    {
+      "cle": "cirages_3248cirageautobrillantebrunpourchaussurebufalo75ml_html",
+      "name": "Cirage auto brillante brun pour chaussure 75ml",
+      "prix_base": 7200,
+      "prix_comparaison": 3990,
+      "indice_prix": 55.416666666666664
+    },
+    {
+      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
+      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
+      "prix_base": 12700,
       "prix_comparaison": 6900,
-      "indice_prix": 125.45454545454545
-    },
-    {
-      "cle": "promo2023_1672sucrerouxambilobe1kg_html",
-      "name": "Sucre roux Ambilobe 1kg",
-      "prix_base": 4990,
-      "prix_comparaison": 5900,
-      "indice_prix": 118.23647294589178
-    },
-    {
-      "cle": "promo2023_10484maisdoux390g_html",
-      "name": "Ma\u00efs doux 390g",
-      "prix_base": 3990,
-      "prix_comparaison": 4690,
-      "indice_prix": 117.54385964912281
-    },
-    {
-      "cle": "promo2023_10469serviettedetable_html",
-      "name": "Serviettes en papier blanches",
-      "prix_base": 2300,
-      "prix_comparaison": 2590,
-      "indice_prix": 112.6086956521739
+      "indice_prix": 54.330708661417326
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7500,
-      "indice_prix": 108.69565217391305
+      "cle": "cirages_3239cirageclassicincolorepourchaussurebufalo75ml_html",
+      "name": "Cirage classic incolore pour chaussure 75ml",
+      "prix_base": 10990,
+      "prix_comparaison": 5500,
+      "indice_prix": 50.04549590536852
     },
     {
-      "cle": "promo2023_4428papiertoilette6rouleaux_html",
-      "name": "Papier toilette 6 rouleaux",
-      "prix_base": 2990,
-      "prix_comparaison": 3300,
-      "indice_prix": 110.36789297658864
+      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
+      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
+      "prix_base": 12700,
+      "prix_comparaison": 6900,
+      "indice_prix": 54.330708661417326
     },
     {
-      "cle": "promo2023_10469serviettedetable_html",
-      "name": "Serviettes en papier blanches",
-      "prix_base": 2300,
-      "prix_comparaison": 2590,
-      "indice_prix": 112.6086956521739
+      "cle": "cirages_3248cirageautobrillantebrunpourchaussurebufalo75ml_html",
+      "name": "Cirage auto brillante brun pour chaussure 75ml",
+      "prix_base": 7200,
+      "prix_comparaison": 3990,
+      "indice_prix": 55.416666666666664
     },
     {
-      "cle": "promo2023_10484maisdoux390g_html",
-      "name": "Ma\u00efs doux 390g",
-      "prix_base": 3990,
-      "prix_comparaison": 4690,
-      "indice_prix": 117.54385964912281
+      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "indice_prix": 61.38461538461539
+    },
+    {
+      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "indice_prix": 61.38461538461539
     }
   ]
 }

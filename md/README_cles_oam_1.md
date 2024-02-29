@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent**
-   - Prix avant: 12,961,000 Ar
-   - Prix actuel: 12,961,000 Ar
+2. **Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magnésium**
+   - Prix avant: 13,174,000 Ar
+   - Prix actuel: 13,174,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sidéral**
-   - Prix avant: 11,580,000 Ar
-   - Prix actuel: 11,580,000 Ar
+3. **Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magnésium - Classe énergétique A+**
+   - Prix avant: 15,423,000 Ar
+   - Prix actuel: 15,423,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

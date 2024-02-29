@@ -2,21 +2,21 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Bleu**
-   - Prix avant: 10,074,000 Ar
-   - Prix actuel: 10,074,000 Ar
+1. **GRE - Piscine ronde acier Ø4,80m x H: 1,32m - Imitation bois Nordique Filtration a sable**
+   - Prix avant: 10,604,000 Ar
+   - Prix actuel: 10,604,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - vert**
-   - Prix avant: 10,074,000 Ar
-   - Prix actuel: 10,074,000 Ar
+2. **Groupe electrogène 13000 H mn ins E TBL**
+   - Prix avant: 28,000,000 Ar
+   - Prix actuel: 28,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Argent**
-   - Prix avant: 10,074,000 Ar
-   - Prix actuel: 10,074,000 Ar
+3. **Groupe de soudage essence 250Amp 4.5KVA Aux 220V**
+   - Prix avant: 10,450,000 Ar
+   - Prix actuel: 10,450,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

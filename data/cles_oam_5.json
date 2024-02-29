@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
+      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 10696000,
+      "prix_comparaison": 10696000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
-      "name": "Echafaudage Speed XL Ht travail 10.44m",
-      "prix_base": 22000000,
-      "prix_comparaison": 22000000,
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13845000,
+      "prix_comparaison": 13845000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
-      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
-      "prix_base": 10049000,
-      "prix_comparaison": 10049000,
+      "cle": "outillage_104003pilonneusesp80345x285mm_html",
+      "name": "Pilonneuse SP80-345x285 mm",
+      "prix_base": 15800000,
+      "prix_comparaison": 15800000,
       "variation": 0,
       "indice_prix": 100.0
     }

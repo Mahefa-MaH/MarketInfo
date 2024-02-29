@@ -1,20 +1,48 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_14639appleiphone14128gbblue_html",
-      "name": "APPLE iPhone 14 128GB Blue",
-      "prix_base": 3890000,
-      "prix_comparaison": 3624000,
-      "variation": -266000
+      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
+      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
+      "prix_base": 12700,
+      "prix_comparaison": 6900,
+      "variation": -5800
+    },
+    {
+      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "variation": -2510
+    },
+    {
+      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "variation": -2510
     }
   ],
   "indice de prix": [
     {
-      "cle": "promo2023_14639appleiphone14128gbblue_html",
-      "name": "APPLE iPhone 14 128GB Blue",
-      "prix_base": 3890000,
-      "prix_comparaison": 3624000,
-      "indice_prix": 93.16195372750643
+      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
+      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
+      "prix_base": 12700,
+      "prix_comparaison": 6900,
+      "indice_prix": 54.330708661417326
+    },
+    {
+      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "indice_prix": 61.38461538461539
+    },
+    {
+      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
+      "prix_base": 6500,
+      "prix_comparaison": 3990,
+      "indice_prix": 61.38461538461539
     }
   ]
 }

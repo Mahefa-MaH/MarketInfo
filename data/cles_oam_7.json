@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurtoutenun_133168apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursrose0194253782384_html",
-      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Rose",
-      "prix_base": 10025000,
-      "prix_comparaison": 10025000,
+      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
+      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
+      "prix_base": 27000000,
+      "prix_comparaison": 27000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "refrigerateuramericain_5356samsungrf24r7201srru00e9frigu00e9rateurmultiporte510l348l123l39lfroidventilu00e9plusl908cmxh1777c8801643678708_html",
-      "name": "SAMSUNG RF24R7201SR - R\u00e9frig\u00e9rateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventil\u00e9 plus - L90,8cm x H177,7 cm - Inox",
-      "prix_base": 13566000,
-      "prix_comparaison": 13566000,
+      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
+      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
