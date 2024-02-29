@@ -1,39 +1,39 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
-      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
+      "cle": "biscuitschocolatesfruites_13813tartelettesgoutfraise200gtopbudget_html",
+      "name": "Tartelettes go\u00fbt fraise 200g",
+      "prix_base": 7900,
+      "prix_comparaison": 7500,
+      "variation": -400
+    },
+    {
+      "cle": "biscuitschocolatesfruites_13814tartelettesalabricot200gtopbudget_html",
+      "name": "Tartelettes \u00e0 l'abricot 200g",
+      "prix_base": 7900,
+      "prix_comparaison": 7500,
+      "variation": -400
+    },
+    {
+      "cle": "sucres_13804sucreenpoudre1kg_html",
+      "name": "Sucre blanc en poudre 1kg",
+      "prix_base": 11500,
+      "prix_comparaison": 10900,
+      "variation": -600
+    },
+    {
+      "cle": "boitespatessachetschat_13901boulettesensaucealavolaillepourchien24kgtopbudget_html",
+      "name": "Boulettes en sauce \u00e0 la volaille pour chien 24kg",
+      "prix_base": 13500,
+      "prix_comparaison": 12500,
+      "variation": -1000
+    },
+    {
+      "cle": "fromagesentranches_5735fromagefondutoasthuilevegetale100g_html",
+      "name": "Fromage fondu toast huile v\u00e9g\u00e9tale 100g",
       "prix_base": 6500,
-      "prix_comparaison": 3990,
-      "variation": -2510
-    },
-    {
-      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
-      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
-      "prix_base": 6500,
-      "prix_comparaison": 3990,
-      "variation": -2510
-    },
-    {
-      "cle": "cirages_3248cirageautobrillantebrunpourchaussurebufalo75ml_html",
-      "name": "Cirage auto brillante brun pour chaussure 75ml",
-      "prix_base": 7200,
-      "prix_comparaison": 3990,
-      "variation": -3210
-    },
-    {
-      "cle": "cirages_6785cirageexpressincolore_html",
-      "name": "Cirage express incolore",
-      "prix_base": 12500,
-      "prix_comparaison": 7900,
-      "variation": -4600
-    },
-    {
-      "cle": "cirages_3239cirageclassicincolorepourchaussurebufalo75ml_html",
-      "name": "Cirage classic incolore pour chaussure 75ml",
-      "prix_base": 10990,
       "prix_comparaison": 5500,
-      "variation": -5490
+      "variation": -1000
     }
   ],
   "prix_diminues": [
@@ -52,62 +52,62 @@
       "variation": -5490
     },
     {
-      "cle": "cirages_6785cirageexpressincolore_html",
-      "name": "Cirage express incolore",
-      "prix_base": 12500,
-      "prix_comparaison": 7900,
-      "variation": -4600
+      "cle": "boitespatessachetschat_13884terrinesalavolaillepourchat4x400gtopbudget_html",
+      "name": "Terrines \u00e0 la volaille pour chat 4x400g",
+      "prix_base": 24900,
+      "prix_comparaison": 19900,
+      "variation": -5000
     },
     {
-      "cle": "cirages_3248cirageautobrillantebrunpourchaussurebufalo75ml_html",
-      "name": "Cirage auto brillante brun pour chaussure 75ml",
-      "prix_base": 7200,
-      "prix_comparaison": 3990,
-      "variation": -3210
+      "cle": "potages_12761soupedepoissonsrecettebretonne730gcapitainecook_html",
+      "name": "Soupe de poissons recette Bretonne 730g",
+      "prix_base": 21500,
+      "prix_comparaison": 16500,
+      "variation": -5000
     },
     {
-      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
-      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
-      "prix_base": 6500,
-      "prix_comparaison": 3990,
-      "variation": -2510
+      "cle": "potages_12762soupedepoissonsrecettemediterranieenne730gcapitainecook_html",
+      "name": "Soupe de poissons recette M\u00e9diterran\u00e9enne 730g",
+      "prix_base": 21500,
+      "prix_comparaison": 16500,
+      "variation": -5000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cirages_6785cirageexpressincolore_html",
-      "name": "Cirage express incolore",
-      "prix_base": 12500,
-      "prix_comparaison": 7900,
-      "indice_prix": 63.2
+      "cle": "biscuitschocolatesfruites_13813tartelettesgoutfraise200gtopbudget_html",
+      "name": "Tartelettes go\u00fbt fraise 200g",
+      "prix_base": 7900,
+      "prix_comparaison": 7500,
+      "indice_prix": 94.9367088607595
     },
     {
-      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
-      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
-      "prix_base": 6500,
-      "prix_comparaison": 3990,
-      "indice_prix": 61.38461538461539
+      "cle": "biscuitschocolatesfruites_13814tartelettesalabricot200gtopbudget_html",
+      "name": "Tartelettes \u00e0 l'abricot 200g",
+      "prix_base": 7900,
+      "prix_comparaison": 7500,
+      "indice_prix": 94.9367088607595
     },
     {
-      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
-      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
-      "prix_base": 6500,
-      "prix_comparaison": 3990,
-      "indice_prix": 61.38461538461539
+      "cle": "sucres_13804sucreenpoudre1kg_html",
+      "name": "Sucre blanc en poudre 1kg",
+      "prix_base": 11500,
+      "prix_comparaison": 10900,
+      "indice_prix": 94.78260869565217
     },
     {
-      "cle": "cirages_3248cirageautobrillantebrunpourchaussurebufalo75ml_html",
-      "name": "Cirage auto brillante brun pour chaussure 75ml",
-      "prix_base": 7200,
-      "prix_comparaison": 3990,
-      "indice_prix": 55.416666666666664
+      "cle": "boitespatessachetschat_13901boulettesensaucealavolaillepourchien24kgtopbudget_html",
+      "name": "Boulettes en sauce \u00e0 la volaille pour chien 24kg",
+      "prix_base": 13500,
+      "prix_comparaison": 12500,
+      "indice_prix": 92.5925925925926
     },
     {
-      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
-      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
-      "prix_base": 12700,
-      "prix_comparaison": 6900,
-      "indice_prix": 54.330708661417326
+      "cle": "pizzas_115833pizzasmargherita900gtopbudget_html",
+      "name": "3 Pizzas margherita 900g",
+      "prix_base": 29900,
+      "prix_comparaison": 27500,
+      "indice_prix": 91.97324414715719
     }
   ],
   "indices_prix_plus_faibles": [

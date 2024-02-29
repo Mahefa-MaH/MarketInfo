@@ -1,122 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_chargegazbutane39kg_",
-      "name": "CHARGE GAZ Butane 39kg Vitogaz\u2122",
-      "prix_base": 399300,
-      "prix_comparaison": 403400,
-      "variation": 4100
+      "cle": "produit_epauledagnaeuentiereoutrancherenviron500g_",
+      "name": "Epaule d\u2019Agnaeu Enti\u00e8re ou Trancher Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 16000,
+      "prix_comparaison": 20010,
+      "variation": 4010
     },
     {
-      "cle": "produit_e39bouteillechargee39kg_",
-      "name": "E39 \u2013 Bouteille Charg\u00e9e 39KG Vitogaz\u2122",
-      "prix_base": 560300,
-      "prix_comparaison": 564400,
-      "variation": 4100
-    },
-    {
-      "cle": "produit_fromagerapespecialepourgratincarrefour150g_",
-      "name": "Fromage R\u00e2p\u00e9 Sp\u00e9ciale pour Gratin Carrefour\u2122 150g",
-      "prix_base": 19870,
-      "prix_comparaison": 22530,
-      "variation": 2660
-    },
-    {
-      "cle": "produit_chocolattablettelaitextrapoulain95g_",
-      "name": "Chocolat Tablette Lait Extra Poulain 95g",
-      "prix_base": 10260,
-      "prix_comparaison": 12160,
-      "variation": 1900
-    },
-    {
-      "cle": "produit_poischiche12400grmila_",
-      "name": "Pois Chiche 1/2 400GR Mila",
-      "prix_base": 5510,
-      "prix_comparaison": 6880,
-      "variation": 1370
+      "cle": "produit_cotedagneauenviron500g_",
+      "name": "C\u00f4te d\u2019Agneau Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 17160,
+      "prix_comparaison": 18800,
+      "variation": 1640
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_chargegazbutane4kg_",
-      "name": "CHARGE GAZ Butane 4kg Vitogaz\u2122",
-      "prix_base": 26900,
-      "prix_comparaison": 27400,
-      "variation": 500
+      "cle": "produit_cotedagneauenviron500g_",
+      "name": "C\u00f4te d\u2019Agneau Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 17160,
+      "prix_comparaison": 18800,
+      "variation": 1640
     },
     {
-      "cle": "produit_e4bouteillechargee4kg_",
-      "name": "E4 \u2013 Bouteille Charg\u00e9e 4KG Vitogaz\u2122",
-      "prix_base": 53900,
-      "prix_comparaison": 54400,
-      "variation": 500
-    },
-    {
-      "cle": "produit_chargegazbutane9kg_",
-      "name": "CHARGE GAZ Butane 9kg Vitogaz\u2122",
-      "prix_base": 61800,
-      "prix_comparaison": 62800,
-      "variation": 1000
-    },
-    {
-      "cle": "produit_e9bouteillechargee9kg_",
-      "name": "E9 \u2013 Bouteille Charg\u00e9e 9KG Vitogaz\u2122",
-      "prix_base": 106800,
-      "prix_comparaison": 107800,
-      "variation": 1000
-    },
-    {
-      "cle": "produit_poischiche12400grmila_",
-      "name": "Pois Chiche 1/2 400GR Mila",
-      "prix_base": 5510,
-      "prix_comparaison": 6880,
-      "variation": 1370
+      "cle": "produit_epauledagnaeuentiereoutrancherenviron500g_",
+      "name": "Epaule d\u2019Agnaeu Enti\u00e8re ou Trancher Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 16000,
+      "prix_comparaison": 20010,
+      "variation": 4010
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_poischiche12400grmila_",
-      "name": "Pois Chiche 1/2 400GR Mila",
-      "prix_base": 5510,
-      "prix_comparaison": 6880,
-      "indice_prix": 124.86388384754991
+      "cle": "produit_epauledagnaeuentiereoutrancherenviron500g_",
+      "name": "Epaule d\u2019Agnaeu Enti\u00e8re ou Trancher Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 16000,
+      "prix_comparaison": 20010,
+      "indice_prix": 125.0625
     },
     {
-      "cle": "produit_chocolattablettelaitextrapoulain95g_",
-      "name": "Chocolat Tablette Lait Extra Poulain 95g",
-      "prix_base": 10260,
-      "prix_comparaison": 12160,
-      "indice_prix": 118.51851851851852
-    },
-    {
-      "cle": "produit_fromagerapespecialepourgratincarrefour150g_",
-      "name": "Fromage R\u00e2p\u00e9 Sp\u00e9ciale pour Gratin Carrefour\u2122 150g",
-      "prix_base": 19870,
-      "prix_comparaison": 22530,
-      "indice_prix": 113.38701560140916
+      "cle": "produit_cotedagneauenviron500g_",
+      "name": "C\u00f4te d\u2019Agneau Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 17160,
+      "prix_comparaison": 18800,
+      "indice_prix": 109.55710955710956
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_e39bouteillechargee39kg_",
-      "name": "E39 \u2013 Bouteille Charg\u00e9e 39KG Vitogaz\u2122",
-      "prix_base": 560300,
-      "prix_comparaison": 564400,
-      "indice_prix": 100.73175084776013
+      "cle": "produit_cotedagneauenviron500g_",
+      "name": "C\u00f4te d\u2019Agneau Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 17160,
+      "prix_comparaison": 18800,
+      "indice_prix": 109.55710955710956
     },
     {
-      "cle": "produit_e4bouteillechargee4kg_",
-      "name": "E4 \u2013 Bouteille Charg\u00e9e 4KG Vitogaz\u2122",
-      "prix_base": 53900,
-      "prix_comparaison": 54400,
-      "indice_prix": 100.92764378478664
-    },
-    {
-      "cle": "produit_e9bouteillechargee9kg_",
-      "name": "E9 \u2013 Bouteille Charg\u00e9e 9KG Vitogaz\u2122",
-      "prix_base": 106800,
-      "prix_comparaison": 107800,
-      "indice_prix": 100.93632958801498
+      "cle": "produit_epauledagnaeuentiereoutrancherenviron500g_",
+      "name": "Epaule d\u2019Agnaeu Enti\u00e8re ou Trancher Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 16000,
+      "prix_comparaison": 20010,
+      "indice_prix": 125.0625
     }
   ]
 }

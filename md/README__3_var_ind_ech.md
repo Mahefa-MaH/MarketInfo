@@ -2,89 +2,49 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **CHARGE GAZ Butane 39kg Vitogaz™**
-   - Prix avant: 399,300 Ar
-   - Prix actuel: 403,400 Ar
-   - Variation: +4,100 Ar
+1. **Epaule d’Agnaeu Entière ou Trancher Environ 500g LeaderPrice™ | Spécialement Halal**
+   - Prix avant: 16,000 Ar
+   - Prix actuel: 20,010 Ar
+   - Variation: +4,010 Ar
 
-2. **E39 – Bouteille Chargée 39KG Vitogaz™**
-   - Prix avant: 560,300 Ar
-   - Prix actuel: 564,400 Ar
-   - Variation: +4,100 Ar
-
-3. **Fromage Râpé Spéciale pour Gratin Carrefour™ 150g**
-   - Prix avant: 19,870 Ar
-   - Prix actuel: 22,530 Ar
-   - Variation: +2,660 Ar
-
-4. **Chocolat Tablette Lait Extra Poulain 95g**
-   - Prix avant: 10,260 Ar
-   - Prix actuel: 12,160 Ar
-   - Variation: +1,900 Ar
-
-5. **Pois Chiche 1/2 400GR Mila**
-   - Prix avant: 5,510 Ar
-   - Prix actuel: 6,880 Ar
-   - Variation: +1,370 Ar
+2. **Côte d’Agneau Environ 500g LeaderPrice™ | Spécialement Halal**
+   - Prix avant: 17,160 Ar
+   - Prix actuel: 18,800 Ar
+   - Variation: +1,640 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **CHARGE GAZ Butane 4kg Vitogaz™**
-   - Prix avant: 26,900 Ar
-   - Prix actuel: 27,400 Ar
-   - Variation: +500 Ar
+1. **Côte d’Agneau Environ 500g LeaderPrice™ | Spécialement Halal**
+   - Prix avant: 17,160 Ar
+   - Prix actuel: 18,800 Ar
+   - Variation: +1,640 Ar
 
-2. **E4 – Bouteille Chargée 4KG Vitogaz™**
-   - Prix avant: 53,900 Ar
-   - Prix actuel: 54,400 Ar
-   - Variation: +500 Ar
-
-3. **CHARGE GAZ Butane 9kg Vitogaz™**
-   - Prix avant: 61,800 Ar
-   - Prix actuel: 62,800 Ar
-   - Variation: +1,000 Ar
-
-4. **E9 – Bouteille Chargée 9KG Vitogaz™**
-   - Prix avant: 106,800 Ar
-   - Prix actuel: 107,800 Ar
-   - Variation: +1,000 Ar
-
-5. **Pois Chiche 1/2 400GR Mila**
-   - Prix avant: 5,510 Ar
-   - Prix actuel: 6,880 Ar
-   - Variation: +1,370 Ar
+2. **Epaule d’Agnaeu Entière ou Trancher Environ 500g LeaderPrice™ | Spécialement Halal**
+   - Prix avant: 16,000 Ar
+   - Prix actuel: 20,010 Ar
+   - Variation: +4,010 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Pois Chiche 1/2 400GR Mila**
-   - Prix avant: 5,510 Ar
-   - Prix actuel: 6,880 Ar
-   - Indice de prix : 124.86
+1. **Epaule d’Agnaeu Entière ou Trancher Environ 500g LeaderPrice™ | Spécialement Halal**
+   - Prix avant: 16,000 Ar
+   - Prix actuel: 20,010 Ar
+   - Indice de prix : 125.06
 
-2. **Chocolat Tablette Lait Extra Poulain 95g**
-   - Prix avant: 10,260 Ar
-   - Prix actuel: 12,160 Ar
-   - Indice de prix : 118.52
-
-3. **Fromage Râpé Spéciale pour Gratin Carrefour™ 150g**
-   - Prix avant: 19,870 Ar
-   - Prix actuel: 22,530 Ar
-   - Indice de prix : 113.39
+2. **Côte d’Agneau Environ 500g LeaderPrice™ | Spécialement Halal**
+   - Prix avant: 17,160 Ar
+   - Prix actuel: 18,800 Ar
+   - Indice de prix : 109.56
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **E39 – Bouteille Chargée 39KG Vitogaz™**
-   - Prix avant: 560,300 Ar
-   - Prix actuel: 564,400 Ar
-   - Indice de prix : 100.73
+1. **Côte d’Agneau Environ 500g LeaderPrice™ | Spécialement Halal**
+   - Prix avant: 17,160 Ar
+   - Prix actuel: 18,800 Ar
+   - Indice de prix : 109.56
 
-2. **E4 – Bouteille Chargée 4KG Vitogaz™**
-   - Prix avant: 53,900 Ar
-   - Prix actuel: 54,400 Ar
-   - Indice de prix : 100.93
-
-3. **E9 – Bouteille Chargée 9KG Vitogaz™**
-   - Prix avant: 106,800 Ar
-   - Prix actuel: 107,800 Ar
-   - Indice de prix : 100.94
+2. **Epaule d’Agnaeu Entière ou Trancher Environ 500g LeaderPrice™ | Spécialement Halal**
+   - Prix avant: 16,000 Ar
+   - Prix actuel: 20,010 Ar
+   - Indice de prix : 125.06
 
