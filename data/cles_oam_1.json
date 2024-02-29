@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
+      "cle": "tondeuserobot_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
+      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
+      "prix_base": 17383000,
+      "prix_comparaison": 17383000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
+      "prix_base": 12961000,
+      "prix_comparaison": 12961000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
       "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
       "prix_base": 11580000,
       "prix_comparaison": 11580000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
-      "prix_base": 11580000,
-      "prix_comparaison": 11580000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 13845000,
-      "prix_comparaison": 13845000,
       "variation": 0,
       "indice_prix": 100.0
     }
