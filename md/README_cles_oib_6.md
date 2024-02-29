@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Huile de soja Hina 20L**
-   - Prix avant: 179,400 Ar
-   - Prix actuel: 179,400 Ar
+3. **Sucre blanc cristallisé 1kg**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 7,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

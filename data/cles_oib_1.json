@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 7500,
-      "prix_comparaison": 7500,
+      "cle": "promo2023_1894huiledesoja20lhina_html",
+      "name": "Huile de soja Hina 20L",
+      "prix_base": 179400,
+      "prix_comparaison": 179400,
       "variation": 0,
       "indice_prix": 100.0
     },
@@ -17,10 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "sucres_13804sucreenpoudre1kg_html",
-      "name": "Sucre blanc en poudre 1kg",
-      "prix_base": 11500,
-      "prix_comparaison": 11500,
+      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
+      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
+      "prix_base": 3890,
+      "prix_comparaison": 3890,
       "variation": 0,
       "indice_prix": 100.0
     }
