@@ -17,6 +17,11 @@
    - Prix actuel: 3,990 Ar
    - Variation: -2,510 Ar
 
+4. **Crème glacée vanille de Madagascar 478g**
+   - Prix avant: 16,900 Ar
+   - Prix actuel: 14,500 Ar
+   - Variation: -2,400 Ar
+
 
 
 ## Indice de prix
@@ -35,4 +40,9 @@
    - Prix avant: 6,500 Ar
    - Prix actuel: 3,990 Ar
    - Indice de prix : 61.38
+
+4. **Crème glacée vanille de Madagascar 478g**
+   - Prix avant: 16,900 Ar
+   - Prix actuel: 14,500 Ar
+   - Indice de prix : 85.80
 

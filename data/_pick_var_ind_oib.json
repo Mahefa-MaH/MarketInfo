@@ -20,6 +20,13 @@
       "prix_base": 6500,
       "prix_comparaison": 3990,
       "variation": -2510
+    },
+    {
+      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
+      "prix_base": 16900,
+      "prix_comparaison": 14500,
+      "variation": -2400
     }
   ],
   "indice de prix": [
@@ -43,6 +50,13 @@
       "prix_base": 6500,
       "prix_comparaison": 3990,
       "indice_prix": 61.38461538461539
+    },
+    {
+      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
+      "prix_base": 16900,
+      "prix_comparaison": 14500,
+      "indice_prix": 85.79881656804734
     }
   ]
 }
