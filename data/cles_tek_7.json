@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3828,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 10700,
-      "prix_comparaison": 10700,
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 2800,
+      "prix_comparaison": 2800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 8197,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9300,
-      "prix_comparaison": 9300,
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 6300,
+      "prix_comparaison": 6300,
       "variation": 0,
       "indice_prix": 100.0
     }
