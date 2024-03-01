@@ -6,6 +6,20 @@
       "prix_base": 8500,
       "prix_comparaison": 4990,
       "variation": -3510
+    },
+    {
+      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
+      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
+      "prix_base": 9850,
+      "prix_comparaison": 4990,
+      "variation": -4860
+    },
+    {
+      "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
+      "name": "Liquide vaisselle vinaigre de framboise 500ml",
+      "prix_base": 10500,
+      "prix_comparaison": 4990,
+      "variation": -5510
     }
   ],
   "prix_diminues": [
@@ -15,6 +29,20 @@
       "prix_base": 10500,
       "prix_comparaison": 4990,
       "variation": -5510
+    },
+    {
+      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
+      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
+      "prix_base": 9850,
+      "prix_comparaison": 4990,
+      "variation": -4860
+    },
+    {
+      "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
+      "name": "Liquide vaisselle aloe vera 500ml",
+      "prix_base": 8500,
+      "prix_comparaison": 4990,
+      "variation": -3510
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +52,20 @@
       "prix_base": 8500,
       "prix_comparaison": 4990,
       "indice_prix": 58.705882352941174
+    },
+    {
+      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
+      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
+      "prix_base": 9850,
+      "prix_comparaison": 4990,
+      "indice_prix": 50.65989847715736
+    },
+    {
+      "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
+      "name": "Liquide vaisselle vinaigre de framboise 500ml",
+      "prix_base": 10500,
+      "prix_comparaison": 4990,
+      "indice_prix": 47.523809523809526
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +75,20 @@
       "prix_base": 10500,
       "prix_comparaison": 4990,
       "indice_prix": 47.523809523809526
+    },
+    {
+      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
+      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
+      "prix_base": 9850,
+      "prix_comparaison": 4990,
+      "indice_prix": 50.65989847715736
+    },
+    {
+      "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
+      "name": "Liquide vaisselle aloe vera 500ml",
+      "prix_base": 8500,
+      "prix_comparaison": 4990,
+      "indice_prix": 58.705882352941174
     }
   ]
 }
