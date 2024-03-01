@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
-      "name": "Echafaudage Speed XL Ht travail 10.44m",
-      "prix_base": 22000000,
-      "prix_comparaison": 22000000,
+      "cle": "refrigerateuramericain_5356samsungrf24r7201srru00e9frigu00e9rateurmultiporte510l348l123l39lfroidventilu00e9plusl908cmxh1777c8801643678708_html",
+      "name": "SAMSUNG RF24R7201SR - R\u00e9frig\u00e9rateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventil\u00e9 plus - L90,8cm x H177,7 cm - Inox",
+      "prix_base": 13566000,
+      "prix_comparaison": 13566000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
-      "prix_base": 12961000,
-      "prix_comparaison": 12961000,
+      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
+      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
+      "prix_base": 21450000,
+      "prix_comparaison": 21450000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 11580000,
-      "prix_comparaison": 11580000,
+      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
+      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
+      "prix_base": 27000000,
+      "prix_comparaison": 27000000,
       "variation": 0,
       "indice_prix": 100.0
     }

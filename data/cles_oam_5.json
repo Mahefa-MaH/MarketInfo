@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 10696000,
-      "prix_comparaison": 10696000,
+      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
+      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 13845000,
-      "prix_comparaison": 13845000,
+      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
+      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
+      "prix_base": 12500000,
+      "prix_comparaison": 12500000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_104003pilonneusesp80345x285mm_html",
-      "name": "Pilonneuse SP80-345x285 mm",
-      "prix_base": 15800000,
-      "prix_comparaison": 15800000,
+      "cle": "outillage_103928betonniere255lgasoilkm178f_html",
+      "name": "Betonni\u00e8re 255L gasoil KM178F",
+      "prix_base": 14290000,
+      "prix_comparaison": 14290000,
       "variation": 0,
       "indice_prix": 100.0
     }

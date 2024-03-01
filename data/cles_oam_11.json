@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
+      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
+      "prix_base": 10696000,
+      "prix_comparaison": 10696000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
-      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
-      "prix_base": 27000000,
-      "prix_comparaison": 27000000,
+      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
+      "name": "Nettoyeur HP eau chaude 170 bars*",
+      "prix_base": 12650000,
+      "prix_comparaison": 12650000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
+      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
+      "name": "Echafaudage Speed XL Ht travail 10.44m",
+      "prix_base": 22000000,
+      "prix_comparaison": 22000000,
       "variation": 0,
       "indice_prix": 100.0
     }

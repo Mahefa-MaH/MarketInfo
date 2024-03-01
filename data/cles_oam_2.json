@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
-      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
-      "prix_base": 21000000,
-      "prix_comparaison": 21000000,
+      "cle": "outillage_104003pilonneusesp80345x285mm_html",
+      "name": "Pilonneuse SP80-345x285 mm",
+      "prix_base": 15800000,
+      "prix_comparaison": 15800000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
-      "name": "Nettoyeur HP eau chaude 170 bars*",
-      "prix_base": 12650000,
-      "prix_comparaison": 12650000,
+      "cle": "litmezzanine_124871litmezzanineedi90x190cmblancenmetalsommierinclus3619996688382_html",
+      "name": "Lit mezzanine enfant avec bureau EDI - Blanc - 90 x 190 cm - Sommier inclus",
+      "prix_base": 10540000,
+      "prix_comparaison": 10540000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
+      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
+      "prix_base": 17891000,
+      "prix_comparaison": 17891000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuserobot_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
-      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
-      "prix_base": 17383000,
-      "prix_comparaison": 17383000,
+      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
+      "prix_base": 10276000,
+      "prix_comparaison": 10276000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
-      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
-      "prix_base": 13174000,
-      "prix_comparaison": 13174000,
+      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
+      "prix_base": 11246000,
+      "prix_comparaison": 11246000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 15423000,
-      "prix_comparaison": 15423000,
+      "cle": "outillage_104176stationtotaleelectronique_html",
+      "name": "Station totale \u00e9lectronique",
+      "prix_base": 17600000,
+      "prix_comparaison": 17600000,
       "variation": 0,
       "indice_prix": 100.0
     }

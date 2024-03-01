@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
+      "cle": "riz_7289rizblancdeitasy5kg_html",
+      "name": "Riz blanc de l'Itasy 5kg",
+      "prix_base": 18400,
+      "prix_comparaison": 15500,
+      "variation": -2900,
+      "indice_prix": 84.23913043478261
+    },
+    {
+      "cle": "sucres_13804sucreenpoudre1kg_html",
+      "name": "Sucre blanc en poudre 1kg",
+      "prix_base": 11500,
+      "prix_comparaison": 10900,
+      "variation": -600,
+      "indice_prix": 94.78260869565217
+    },
+    {
       "cle": "promo2023_1894huiledesoja20lhina_html",
       "name": "Huile de soja Hina 20L",
       "prix_base": 179400,
       "prix_comparaison": 179400,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
-      "name": "Sucre blanc en morceaux 1kg",
-      "prix_base": 14900,
-      "prix_comparaison": 14900,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
       "variation": 0,
       "indice_prix": 100.0
     }

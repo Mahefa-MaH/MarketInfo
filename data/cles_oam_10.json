@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
-      "prix_base": 11246000,
-      "prix_comparaison": 11246000,
+      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
+      "prix_base": 12961000,
+      "prix_comparaison": 12961000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuserobot_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
-      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
-      "prix_base": 17383000,
-      "prix_comparaison": 17383000,
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11149000,
+      "prix_comparaison": 11149000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_100755coffretaoutils416200mz_html",
-      "name": "Coffret \u00e0 outils 416-200MZ",
-      "prix_base": 13200000,
-      "prix_comparaison": 13200000,
+      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 10696000,
+      "prix_comparaison": 10696000,
       "variation": 0,
       "indice_prix": 100.0
     }

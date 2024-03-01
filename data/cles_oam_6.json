@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
-      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
-      "prix_base": 10359000,
-      "prix_comparaison": 10359000,
+      "cle": "outillage_100755coffretaoutils416200mz_html",
+      "name": "Coffret \u00e0 outils 416-200MZ",
+      "prix_base": 13200000,
+      "prix_comparaison": 13200000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "piscinecompletekitpiscine_99516grepiscinerondeaciero480mxh132mimitationboisnordiquefiltrationasable8412081313726_html",
-      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,32m - Imitation bois Nordique Filtration a sable",
-      "prix_base": 10604000,
-      "prix_comparaison": 10604000,
+      "cle": "ordinateurtoutenun_133168apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursrose0194253782384_html",
+      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Rose",
+      "prix_base": 10025000,
+      "prix_comparaison": 10025000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
-      "prix_base": 12384000,
-      "prix_comparaison": 12384000,
+      "cle": "ordinateurtoutenun_133164apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursvert0194253780625_html",
+      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - vert",
+      "prix_base": 10074000,
+      "prix_comparaison": 10074000,
       "variation": 0,
       "indice_prix": 100.0
     }

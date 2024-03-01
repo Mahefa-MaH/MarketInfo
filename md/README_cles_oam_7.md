@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Groupe electrogène 13000 H mn ins E TBL**
-   - Prix avant: 28,000,000 Ar
-   - Prix actuel: 28,000,000 Ar
+1. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Argent**
+   - Prix avant: 10,074,000 Ar
+   - Prix actuel: 10,074,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Groupe de soudage essence 250Amp 4.5KVA Aux 220V**
-   - Prix avant: 10,450,000 Ar
-   - Prix actuel: 10,450,000 Ar
+2. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Bleu**
+   - Prix avant: 10,074,000 Ar
+   - Prix actuel: 10,074,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Groupe électrogène Hyundai 9/10kva 230V DHY12000XSE**
-   - Prix avant: 27,000,000 Ar
-   - Prix actuel: 27,000,000 Ar
+3. **Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magnésium - Classe énergétique A+**
+   - Prix avant: 15,423,000 Ar
+   - Prix actuel: 15,423,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
