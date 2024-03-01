@@ -2,21 +2,15 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Betonnière tractable 290 L avec moteur électrique de 2CV**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+1. **SIEMENS CT636LES6 Machine a café iQ700 - Réservoir 2.4L - 1600W - Prépare 2 tass**
+   - Prix avant: 10,507,000 Ar
+   - Prix actuel: 13,306,000 Ar
+   - Variation: +2,799,000 Ar
+   - Indice de prix : 126.64
 
-2. **Betonnière 290L essence GX 160 Honda (BET.350L-RG-LAT)**
-   - Prix avant: 12,500,000 Ar
-   - Prix actuel: 12,500,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **Onduleur APC Smart-UPS RV 10000VA 230V**
-   - Prix avant: 17,500,000 Ar
-   - Prix actuel: 17,500,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+2. **Tondeuse autoportée thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm³ - Jusqu'a 2800 m²**
+   - Prix avant: 11,246,000 Ar
+   - Prix actuel: 14,242,000 Ar
+   - Variation: +2,996,000 Ar
+   - Indice de prix : 126.64
 

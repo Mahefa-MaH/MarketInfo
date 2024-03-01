@@ -1,6 +1,6 @@
-# Market Info - File 44
+# Market Info - File 45
 
-## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
    - Prix avant: 106,250 Ar

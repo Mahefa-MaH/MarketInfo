@@ -1,0 +1,314 @@
+{
+  "Variation de prix": [
+    {
+      "cle": "ecranordinateur_96178ecranpcsamsungs24c310eau24fhddalleips5ms75hzhdmivga8806094769197_html",
+      "name": "Ecran PC - SAMSUNG - S24C310EAU - 24 FHD - Dalle IPS - 5 ms - 75 Hz - HDMI / VGA",
+      "prix_base": 884000,
+      "prix_comparaison": 798000,
+      "variation": -86000
+    },
+    {
+      "cle": "ecranordinateur_93068ecranpcgamersamsungodysseyg300ls24ag304nrxen24fhddalleva1ms144hzfreesyncpremium8806094672220_html",
+      "name": "Ecran PC Gamer - SAMSUNG ODYSSEY G300 - LS24AG304NRXEN - 24 FHD - Dalle VA - 1ms - 144Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1208000,
+      "prix_comparaison": 1135000,
+      "variation": -73000
+    },
+    {
+      "cle": "ecranordinateur_100002ecranpcincurvesamsungls32c390eauxen32fhddalleva4ms75hzamdfreesync8806094713657_html",
+      "name": "Ecran PC Incurv\u00e9 - SAMSUNG LS32C390EAUXEN - 32 FHD - Dalle VA - 4 ms - 75Hz - AMD Freesync",
+      "prix_base": 1614000,
+      "prix_comparaison": 1563000,
+      "variation": -51000
+    },
+    {
+      "cle": "ecranordinateur_100026ecranpcgamerincurvesamsungodysseyg5g55tc34g55twwp34uwqhddalleva1ms165hzhdmidisplayportu8806094796315_html",
+      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY G5 - G55T C34G55TWWP - 34'' UWQHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort / U",
+      "prix_base": 2166000,
+      "prix_comparaison": 2121000,
+      "variation": -45000
+    },
+    {
+      "cle": "ecranordinateur_135593ecranpcsamsungsmartmonitorm5cm50032fhd1920x108060hzva4msnoirhdmitelecommande8806094938142_html",
+      "name": "Ecran PC - SAMSUNG - Smart Monitor M5 - CM500 - 32 FHD 1920x1080 - 60Hz - VA - 4ms - Noir - HDMI + T\u00e9l\u00e9commande",
+      "prix_base": 1743000,
+      "prix_comparaison": 1721000,
+      "variation": -22000
+    },
+    {
+      "cle": "lesimbattablesmeilleursproduitsaumeilleurprix_129771ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium8806094659184_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1632000,
+      "prix_comparaison": 1611000,
+      "variation": -21000
+    },
+    {
+      "cle": "ecranordinateur_125175ecranpcincurvesamsungu32r590cwp324kdalleva4ms60hzhdmidp8806094772005_html",
+      "name": "Ecran PC Incurv\u00e9 - SAMSUNG - U32R590CWP - 32'' 4K - Dalle VA - 4 ms - 60Hz - HDMI / DP",
+      "prix_base": 2062000,
+      "prix_comparaison": 2064000,
+      "variation": 2000
+    },
+    {
+      "cle": "ecranordinateur_96189ecranpcgamersamsungodysseyg7g70bs28bg700ep284kdalleips1ms144hzhdmidisplayportamdfreesync8806094796537_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G7 - G70B S28BG700EP - 28'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync",
+      "prix_base": 3109000,
+      "prix_comparaison": 3279000,
+      "variation": 170000
+    },
+    {
+      "cle": "trottinetteelectriquesport_133514trottinetteelectriquexiaomielectricscooter4go250w81noir6941812713518_html",
+      "name": "Trottinette \u00e9lectrique - XIAOMI - Electric Scooter 4 Go - 250 W - 8,1 - Noir",
+      "prix_base": 1858000,
+      "prix_comparaison": 2353000,
+      "variation": 495000
+    },
+    {
+      "cle": "lavelinge_55343lavelingehublotsamsungecobubbleww80ta046tt8kginduction1400trsminblanc8806090762840_html",
+      "name": "Lave-linge hublot SAMSUNG Ecobubble\u2122 WW80TA046TT - 8 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
+      "prix_base": 2934000,
+      "prix_comparaison": 3715000,
+      "variation": 781000
+    },
+    {
+      "cle": "lavelinge_55342lavelingehublotsamsungecobubbleww70ta046tt7kginduction1400trsminblanc8806090606465_html",
+      "name": "Lave-linge hublot SAMSUNG Ecobubble WW70TA046TT - 7 kg - Induction - 1400 trs/min - Blanc",
+      "prix_base": 3290000,
+      "prix_comparaison": 4165000,
+      "variation": 875000
+    },
+    {
+      "cle": "lavelinge_55344lavelingehublotsamsungecobubbleww90ta046tt9kginductionclassea1400trsminblanc8806090762932_html",
+      "name": "Lave-linge hublot SAMSUNG Ecobubble\u2122 WW90TA046TT - 9 kg - Induction - Classe A - 1400 trs/min - Programme Vapeur - Blanc",
+      "prix_base": 3568000,
+      "prix_comparaison": 4518000,
+      "variation": 950000
+    },
+    {
+      "cle": "ecranordinateur_96171ecranpcgamerincurvesamsungodysseyg6g65bs32bg650eu32qhddalleva1ms240hzhdmidisplayportamd8806094192711_html",
+      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY G6 - G65B S32BG650EU - 32'' WQHD - VA - 1 ms - 240Hz - HDMI / DisplayPort - Freesync",
+      "prix_base": 3693000,
+      "prix_comparaison": 4677000,
+      "variation": 984000
+    },
+    {
+      "cle": "lavelinge_26977lavelingehublotsamsungaddwashww80t554dtes3induction8kg1400trsminblanc8806090607585_html",
+      "name": "Lave-linge hublot SAMSUNG AddWash\u2122 Ecobubble\u2122 WW80T554DTE/S3 - 8 kg - Induction - Classe B - 1400 trs/min - Connect\u00e9 - Blanc",
+      "prix_base": 3943000,
+      "prix_comparaison": 4993000,
+      "variation": 1050000
+    },
+    {
+      "cle": "lavelingesechant_62672lavelingesechantsamsungecobubblewd70t4046ewef74kginduction1400trsminprogrammevapeurblanc8806090580819_html",
+      "name": "Lave-linge s\u00e9chant SAMSUNG Ecobubble\u2122 WD70T4046EW/EF - 7 / 4 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
+      "prix_base": 3878000,
+      "prix_comparaison": 4930000,
+      "variation": 1052000
+    },
+    {
+      "cle": "lavelingesechant_26974lavelingesu00e9chantsamsungecobubblewd80t4046eweflavage8kgsu00e9chage5kginduction1400trsminblanc8806090605086_html",
+      "name": "Lave-linge s\u00e9chant SAMSUNG Ecobubble\u2122 WD80T4046EW/EF - 8 / 5 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
+      "prix_base": 4191000,
+      "prix_comparaison": 5307000,
+      "variation": 1116000
+    },
+    {
+      "cle": "lavelinge_26975lavelingehublotsamsungww70t554daxinduction7kg1400trsmininoxsilver8806090606397_html",
+      "name": "Lave-linge hublot SAMSUNG AddWash\u2122 Ecobubble\u2122 WW70T554DAX - 7 kg - Induction - 1400 trs/min - Connect\u00e9 - Inox/Silver",
+      "prix_base": 4248000,
+      "prix_comparaison": 5379000,
+      "variation": 1131000
+    },
+    {
+      "cle": "lavelinge_26972lavelingehublotsamsungww90t634dhh9kginduction1400trsminblanc8806090602788_html",
+      "name": "Lave-linge hublot SAMSUNG Ecobubble\u2122 WW90T634DHH - 9 kg - Induction - 1400 trs/min - Distributeur automatique de lessive - Conne",
+      "prix_base": 4548000,
+      "prix_comparaison": 5760000,
+      "variation": 1212000
+    },
+    {
+      "cle": "ecranordinateur_96168ecranpcgamersamsungodysseyg7g70bs32bg700eu324kdalleips1ms144hzhdmidisplayportamdfreesyncp8806094138818_html",
+      "name": "Ecran PC Gamer - SAMSUNG ODYSSEY G7 - G70B S32BG700EU - 32'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync P",
+      "prix_base": 5431000,
+      "prix_comparaison": 6877000,
+      "variation": 1446000
+    },
+    {
+      "cle": "lavelinge_59609lavelingehublotwifisamsungecobubblewf18t8000gv18kgl686cmmoteurdigitalinverter1100trsminnoir8806092013308_html",
+      "name": "Lave-linge hublot SAMSUNG WF18T8000GV - 18 kg - 1100trs/min - Classe C - Noir",
+      "prix_base": 6877000,
+      "prix_comparaison": 8488000,
+      "variation": 1611000
+    },
+    {
+      "cle": "ecranordinateur_125177ecranpcgamerincurvesamsungodysseyneog8g85nbs32bg850np324kdalleminiledva1ms240hzhdmidp8806094796582_html",
+      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY NEO G8 - G85NB S32BG850NP - 32'' 4k - Dalle Mini LED VA - 1 ms - 240Hz - HDMI / DP",
+      "prix_base": 6138000,
+      "prix_comparaison": 7772000,
+      "variation": 1634000
+    },
+    {
+      "cle": "ecranordinateur_125173ecranpcgamerincurvesamsungodysseyg8g85sb34uwqhddalleoled01ms175hzhdmi21minidpusbc38806094525175_html",
+      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY - G8 G85SB - 34'' UWQHD - Dalle OLED - 0.1 ms - 175Hz - HDMI 2.1 / mini DP / USB C 3",
+      "prix_base": 7210000,
+      "prix_comparaison": 9131000,
+      "variation": 1921000
+    }
+  ],
+  "indice de prix": [
+    {
+      "cle": "ecranordinateur_96178ecranpcsamsungs24c310eau24fhddalleips5ms75hzhdmivga8806094769197_html",
+      "name": "Ecran PC - SAMSUNG - S24C310EAU - 24 FHD - Dalle IPS - 5 ms - 75 Hz - HDMI / VGA",
+      "prix_base": 884000,
+      "prix_comparaison": 798000,
+      "indice_prix": 90.27149321266968
+    },
+    {
+      "cle": "ecranordinateur_93068ecranpcgamersamsungodysseyg300ls24ag304nrxen24fhddalleva1ms144hzfreesyncpremium8806094672220_html",
+      "name": "Ecran PC Gamer - SAMSUNG ODYSSEY G300 - LS24AG304NRXEN - 24 FHD - Dalle VA - 1ms - 144Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1208000,
+      "prix_comparaison": 1135000,
+      "indice_prix": 93.95695364238411
+    },
+    {
+      "cle": "ecranordinateur_100002ecranpcincurvesamsungls32c390eauxen32fhddalleva4ms75hzamdfreesync8806094713657_html",
+      "name": "Ecran PC Incurv\u00e9 - SAMSUNG LS32C390EAUXEN - 32 FHD - Dalle VA - 4 ms - 75Hz - AMD Freesync",
+      "prix_base": 1614000,
+      "prix_comparaison": 1563000,
+      "indice_prix": 96.84014869888476
+    },
+    {
+      "cle": "ecranordinateur_100026ecranpcgamerincurvesamsungodysseyg5g55tc34g55twwp34uwqhddalleva1ms165hzhdmidisplayportu8806094796315_html",
+      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY G5 - G55T C34G55TWWP - 34'' UWQHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort / U",
+      "prix_base": 2166000,
+      "prix_comparaison": 2121000,
+      "indice_prix": 97.92243767313019
+    },
+    {
+      "cle": "lesimbattablesmeilleursproduitsaumeilleurprix_129771ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium8806094659184_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1632000,
+      "prix_comparaison": 1611000,
+      "indice_prix": 98.71323529411765
+    },
+    {
+      "cle": "ecranordinateur_135593ecranpcsamsungsmartmonitorm5cm50032fhd1920x108060hzva4msnoirhdmitelecommande8806094938142_html",
+      "name": "Ecran PC - SAMSUNG - Smart Monitor M5 - CM500 - 32 FHD 1920x1080 - 60Hz - VA - 4ms - Noir - HDMI + T\u00e9l\u00e9commande",
+      "prix_base": 1743000,
+      "prix_comparaison": 1721000,
+      "indice_prix": 98.7378083763626
+    },
+    {
+      "cle": "ecranordinateur_125175ecranpcincurvesamsungu32r590cwp324kdalleva4ms60hzhdmidp8806094772005_html",
+      "name": "Ecran PC Incurv\u00e9 - SAMSUNG - U32R590CWP - 32'' 4K - Dalle VA - 4 ms - 60Hz - HDMI / DP",
+      "prix_base": 2062000,
+      "prix_comparaison": 2064000,
+      "indice_prix": 100.09699321047526
+    },
+    {
+      "cle": "ecranordinateur_96189ecranpcgamersamsungodysseyg7g70bs28bg700ep284kdalleips1ms144hzhdmidisplayportamdfreesync8806094796537_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G7 - G70B S28BG700EP - 28'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync",
+      "prix_base": 3109000,
+      "prix_comparaison": 3279000,
+      "indice_prix": 105.46799614023801
+    },
+    {
+      "cle": "lavelinge_59609lavelingehublotwifisamsungecobubblewf18t8000gv18kgl686cmmoteurdigitalinverter1100trsminnoir8806092013308_html",
+      "name": "Lave-linge hublot SAMSUNG WF18T8000GV - 18 kg - 1100trs/min - Classe C - Noir",
+      "prix_base": 6877000,
+      "prix_comparaison": 8488000,
+      "indice_prix": 123.42591246182928
+    },
+    {
+      "cle": "lavelinge_55342lavelingehublotsamsungecobubbleww70ta046tt7kginduction1400trsminblanc8806090606465_html",
+      "name": "Lave-linge hublot SAMSUNG Ecobubble WW70TA046TT - 7 kg - Induction - 1400 trs/min - Blanc",
+      "prix_base": 3290000,
+      "prix_comparaison": 4165000,
+      "indice_prix": 126.59574468085107
+    },
+    {
+      "cle": "lavelinge_55343lavelingehublotsamsungecobubbleww80ta046tt8kginduction1400trsminblanc8806090762840_html",
+      "name": "Lave-linge hublot SAMSUNG Ecobubble\u2122 WW80TA046TT - 8 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
+      "prix_base": 2934000,
+      "prix_comparaison": 3715000,
+      "indice_prix": 126.61895023858214
+    },
+    {
+      "cle": "ecranordinateur_125177ecranpcgamerincurvesamsungodysseyneog8g85nbs32bg850np324kdalleminiledva1ms240hzhdmidp8806094796582_html",
+      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY NEO G8 - G85NB S32BG850NP - 32'' 4k - Dalle Mini LED VA - 1 ms - 240Hz - HDMI / DP",
+      "prix_base": 6138000,
+      "prix_comparaison": 7772000,
+      "indice_prix": 126.62104920169436
+    },
+    {
+      "cle": "lavelinge_26975lavelingehublotsamsungww70t554daxinduction7kg1400trsmininoxsilver8806090606397_html",
+      "name": "Lave-linge hublot SAMSUNG AddWash\u2122 Ecobubble\u2122 WW70T554DAX - 7 kg - Induction - 1400 trs/min - Connect\u00e9 - Inox/Silver",
+      "prix_base": 4248000,
+      "prix_comparaison": 5379000,
+      "indice_prix": 126.62429378531074
+    },
+    {
+      "cle": "ecranordinateur_96168ecranpcgamersamsungodysseyg7g70bs32bg700eu324kdalleips1ms144hzhdmidisplayportamdfreesyncp8806094138818_html",
+      "name": "Ecran PC Gamer - SAMSUNG ODYSSEY G7 - G70B S32BG700EU - 32'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync P",
+      "prix_base": 5431000,
+      "prix_comparaison": 6877000,
+      "indice_prix": 126.62493095194255
+    },
+    {
+      "cle": "lavelinge_55344lavelingehublotsamsungecobubbleww90ta046tt9kginductionclassea1400trsminblanc8806090762932_html",
+      "name": "Lave-linge hublot SAMSUNG Ecobubble\u2122 WW90TA046TT - 9 kg - Induction - Classe A - 1400 trs/min - Programme Vapeur - Blanc",
+      "prix_base": 3568000,
+      "prix_comparaison": 4518000,
+      "indice_prix": 126.62556053811659
+    },
+    {
+      "cle": "lavelingesechant_26974lavelingesu00e9chantsamsungecobubblewd80t4046eweflavage8kgsu00e9chage5kginduction1400trsminblanc8806090605086_html",
+      "name": "Lave-linge s\u00e9chant SAMSUNG Ecobubble\u2122 WD80T4046EW/EF - 8 / 5 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
+      "prix_base": 4191000,
+      "prix_comparaison": 5307000,
+      "indice_prix": 126.62848962061561
+    },
+    {
+      "cle": "lavelinge_26977lavelingehublotsamsungaddwashww80t554dtes3induction8kg1400trsminblanc8806090607585_html",
+      "name": "Lave-linge hublot SAMSUNG AddWash\u2122 Ecobubble\u2122 WW80T554DTE/S3 - 8 kg - Induction - Classe B - 1400 trs/min - Connect\u00e9 - Blanc",
+      "prix_base": 3943000,
+      "prix_comparaison": 4993000,
+      "indice_prix": 126.62946994674105
+    },
+    {
+      "cle": "trottinetteelectriquesport_133514trottinetteelectriquexiaomielectricscooter4go250w81noir6941812713518_html",
+      "name": "Trottinette \u00e9lectrique - XIAOMI - Electric Scooter 4 Go - 250 W - 8,1 - Noir",
+      "prix_base": 1858000,
+      "prix_comparaison": 2353000,
+      "indice_prix": 126.64155005382132
+    },
+    {
+      "cle": "ecranordinateur_125173ecranpcgamerincurvesamsungodysseyg8g85sb34uwqhddalleoled01ms175hzhdmi21minidpusbc38806094525175_html",
+      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY - G8 G85SB - 34'' UWQHD - Dalle OLED - 0.1 ms - 175Hz - HDMI 2.1 / mini DP / USB C 3",
+      "prix_base": 7210000,
+      "prix_comparaison": 9131000,
+      "indice_prix": 126.64355062413316
+    },
+    {
+      "cle": "ecranordinateur_96171ecranpcgamerincurvesamsungodysseyg6g65bs32bg650eu32qhddalleva1ms240hzhdmidisplayportamd8806094192711_html",
+      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY G6 - G65B S32BG650EU - 32'' WQHD - VA - 1 ms - 240Hz - HDMI / DisplayPort - Freesync",
+      "prix_base": 3693000,
+      "prix_comparaison": 4677000,
+      "indice_prix": 126.64500406173842
+    },
+    {
+      "cle": "lavelinge_26972lavelingehublotsamsungww90t634dhh9kginduction1400trsminblanc8806090602788_html",
+      "name": "Lave-linge hublot SAMSUNG Ecobubble\u2122 WW90T634DHH - 9 kg - Induction - 1400 trs/min - Distributeur automatique de lessive - Conne",
+      "prix_base": 4548000,
+      "prix_comparaison": 5760000,
+      "indice_prix": 126.64907651715039
+    },
+    {
+      "cle": "lavelingesechant_62672lavelingesechantsamsungecobubblewd70t4046ewef74kginduction1400trsminprogrammevapeurblanc8806090580819_html",
+      "name": "Lave-linge s\u00e9chant SAMSUNG Ecobubble\u2122 WD70T4046EW/EF - 7 / 4 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
+      "prix_base": 3878000,
+      "prix_comparaison": 4930000,
+      "indice_prix": 127.12738525012894
+    }
+  ]
+}

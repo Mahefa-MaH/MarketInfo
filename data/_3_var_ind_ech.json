@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_epauledagnaeuentiereoutrancherenviron500g_",
-      "name": "Epaule d\u2019Agnaeu Enti\u00e8re ou Trancher Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
-      "prix_base": 16000,
-      "prix_comparaison": 20010,
-      "variation": 4010
-    },
-    {
-      "cle": "produit_cotedagneauenviron500g_",
-      "name": "C\u00f4te d\u2019Agneau Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
-      "prix_base": 17160,
-      "prix_comparaison": 18800,
-      "variation": 1640
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3200,
+      "prix_comparaison": 3700,
+      "variation": 500
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_cotedagneauenviron500g_",
-      "name": "C\u00f4te d\u2019Agneau Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
-      "prix_base": 17160,
-      "prix_comparaison": 18800,
-      "variation": 1640
-    },
-    {
-      "cle": "produit_epauledagnaeuentiereoutrancherenviron500g_",
-      "name": "Epaule d\u2019Agnaeu Enti\u00e8re ou Trancher Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
-      "prix_base": 16000,
-      "prix_comparaison": 20010,
-      "variation": 4010
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3200,
+      "prix_comparaison": 3700,
+      "variation": 500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_epauledagnaeuentiereoutrancherenviron500g_",
-      "name": "Epaule d\u2019Agnaeu Enti\u00e8re ou Trancher Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
-      "prix_base": 16000,
-      "prix_comparaison": 20010,
-      "indice_prix": 125.0625
-    },
-    {
-      "cle": "produit_cotedagneauenviron500g_",
-      "name": "C\u00f4te d\u2019Agneau Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
-      "prix_base": 17160,
-      "prix_comparaison": 18800,
-      "indice_prix": 109.55710955710956
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3200,
+      "prix_comparaison": 3700,
+      "indice_prix": 115.625
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_cotedagneauenviron500g_",
-      "name": "C\u00f4te d\u2019Agneau Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
-      "prix_base": 17160,
-      "prix_comparaison": 18800,
-      "indice_prix": 109.55710955710956
-    },
-    {
-      "cle": "produit_epauledagnaeuentiereoutrancherenviron500g_",
-      "name": "Epaule d\u2019Agnaeu Enti\u00e8re ou Trancher Environ 500g LeaderPrice\u2122 | Sp\u00e9cialement Halal",
-      "prix_base": 16000,
-      "prix_comparaison": 20010,
-      "indice_prix": 125.0625
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3200,
+      "prix_comparaison": 3700,
+      "indice_prix": 115.625
     }
   ]
 }

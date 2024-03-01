@@ -1,28 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
-      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "machineacafeexpressobroyeur_91317siemensct636les6machineacafeiq700reservoir24l1600wprepare2tass4242003703595_html",
+      "name": "SIEMENS CT636LES6 Machine a caf\u00e9 iQ700 - R\u00e9servoir 2.4L - 1600W - Pr\u00e9pare 2 tass",
+      "prix_base": 10507000,
+      "prix_comparaison": 13306000,
+      "variation": 2799000,
+      "indice_prix": 126.63938326829732
     },
     {
-      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
-      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
-      "prix_base": 12500000,
-      "prix_comparaison": 12500000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "electricitedomotique_120267onduleurapcsmartupsrv10000va230v_html",
-      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
-      "prix_base": 17500000,
-      "prix_comparaison": 17500000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
+      "prix_base": 11246000,
+      "prix_comparaison": 14242000,
+      "variation": 2996000,
+      "indice_prix": 126.64058331851325
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
       "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
       "prix_base": 10430000,
       "prix_comparaison": 10430000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "piscinecompletekitpiscine_99516grepiscinerondeaciero480mxh132mimitationboisnordiquefiltrationasable8412081313726_html",
+      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,32m - Imitation bois Nordique Filtration a sable",
+      "prix_base": 10604000,
+      "prix_comparaison": 10604000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
+      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     }

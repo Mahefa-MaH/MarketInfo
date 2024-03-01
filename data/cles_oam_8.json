@@ -1,18 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 15423000,
-      "prix_comparaison": 15423000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
-      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
-      "prix_base": 13174000,
-      "prix_comparaison": 13174000,
+      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
+      "prix_base": 12384000,
+      "prix_comparaison": 12384000,
       "variation": 0,
       "indice_prix": 100.0
     },
@@ -21,6 +13,14 @@
       "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
       "prix_base": 11900000,
       "prix_comparaison": 11900000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
+      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
+      "prix_base": 21000000,
+      "prix_comparaison": 21000000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,6 +1,6 @@
-# Market Info - File 46
+# Market Info - File 47
 
-## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **1er choix - Galettes de Riz jaune - 22Cm 300 g**
    - Prix avant: 9,900 Ar

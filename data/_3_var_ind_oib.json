@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "cle": "cerealesetbarres_2055petalesdemaiscroustillantssucres375g_html",
+      "name": "P\u00e9tales de ma\u00efs croustillants sucr\u00e9s 375g",
+      "prix_base": 12900,
+      "prix_comparaison": 13500,
+      "variation": 600
+    },
+    {
       "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
       "name": "Liquide vaisselle aloe vera 500ml",
       "prix_base": 8500,
@@ -24,6 +31,20 @@
   ],
   "prix_diminues": [
     {
+      "cle": "promo2023_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
+      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
+      "prix_base": 360000,
+      "prix_comparaison": 341000,
+      "variation": -19000
+    },
+    {
+      "cle": "promo2023_13997steampod30lisseurvapeurprofessionnel2en1lorealprofessionnelparis_html",
+      "name": "Steampod 3.0 - Lisseur Vapeur Professionnel 2-en-1 - L'Or\u00e9al Professionnel Paris",
+      "prix_base": 1244000,
+      "prix_comparaison": 1229000,
+      "variation": -15000
+    },
+    {
       "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
       "name": "Liquide vaisselle vinaigre de framboise 500ml",
       "prix_base": 10500,
@@ -36,36 +57,36 @@
       "prix_base": 9850,
       "prix_comparaison": 4990,
       "variation": -4860
-    },
-    {
-      "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
-      "name": "Liquide vaisselle aloe vera 500ml",
-      "prix_base": 8500,
-      "prix_comparaison": 4990,
-      "variation": -3510
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "cerealesetbarres_2055petalesdemaiscroustillantssucres375g_html",
+      "name": "P\u00e9tales de ma\u00efs croustillants sucr\u00e9s 375g",
+      "prix_base": 12900,
+      "prix_comparaison": 13500,
+      "indice_prix": 104.65116279069767
+    },
+    {
+      "cle": "promo2023_13997steampod30lisseurvapeurprofessionnel2en1lorealprofessionnelparis_html",
+      "name": "Steampod 3.0 - Lisseur Vapeur Professionnel 2-en-1 - L'Or\u00e9al Professionnel Paris",
+      "prix_base": 1244000,
+      "prix_comparaison": 1229000,
+      "indice_prix": 98.79421221864952
+    },
+    {
+      "cle": "promo2023_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
+      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
+      "prix_base": 360000,
+      "prix_comparaison": 341000,
+      "indice_prix": 94.72222222222223
+    },
     {
       "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
       "name": "Liquide vaisselle aloe vera 500ml",
       "prix_base": 8500,
       "prix_comparaison": 4990,
       "indice_prix": 58.705882352941174
-    },
-    {
-      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
-      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
-      "prix_base": 9850,
-      "prix_comparaison": 4990,
-      "indice_prix": 50.65989847715736
-    },
-    {
-      "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
-      "name": "Liquide vaisselle vinaigre de framboise 500ml",
-      "prix_base": 10500,
-      "prix_comparaison": 4990,
-      "indice_prix": 47.523809523809526
     }
   ],
   "indices_prix_plus_faibles": [
@@ -89,6 +110,13 @@
       "prix_base": 8500,
       "prix_comparaison": 4990,
       "indice_prix": 58.705882352941174
+    },
+    {
+      "cle": "promo2023_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
+      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
+      "prix_base": 360000,
+      "prix_comparaison": 341000,
+      "indice_prix": 94.72222222222223
     }
   ]
 }
