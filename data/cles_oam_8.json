@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
-      "prix_base": 12384000,
-      "prix_comparaison": 12384000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
       "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
       "prix_base": 11900000,
@@ -21,6 +13,14 @@
       "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
       "prix_base": 21000000,
       "prix_comparaison": 21000000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13845000,
+      "prix_comparaison": 13845000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -42,72 +42,32 @@
    - Prix actuel: 3,279,000 Ar
    - Variation: +170,000 Ar
 
-9. **Trottinette électrique - XIAOMI - Electric Scooter 4 Go - 250 W - 8,1 - Noir**
-   - Prix avant: 1,858,000 Ar
-   - Prix actuel: 2,353,000 Ar
-   - Variation: +495,000 Ar
-
-10. **Lave-linge hublot SAMSUNG Ecobubble™ WW80TA046TT - 8 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
-   - Prix avant: 2,934,000 Ar
-   - Prix actuel: 3,715,000 Ar
-   - Variation: +781,000 Ar
-
-11. **Lave-linge hublot SAMSUNG Ecobubble WW70TA046TT - 7 kg - Induction - 1400 trs/min - Blanc**
-   - Prix avant: 3,290,000 Ar
-   - Prix actuel: 4,165,000 Ar
-   - Variation: +875,000 Ar
-
-12. **Lave-linge hublot SAMSUNG Ecobubble™ WW90TA046TT - 9 kg - Induction - Classe A - 1400 trs/min - Programme Vapeur - Blanc**
-   - Prix avant: 3,568,000 Ar
-   - Prix actuel: 4,518,000 Ar
-   - Variation: +950,000 Ar
-
-13. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY G6 - G65B S32BG650EU - 32'' WQHD - VA - 1 ms - 240Hz - HDMI / DisplayPort - Freesync**
+9. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY G6 - G65B S32BG650EU - 32'' WQHD - VA - 1 ms - 240Hz - HDMI / DisplayPort - Freesync**
    - Prix avant: 3,693,000 Ar
    - Prix actuel: 4,677,000 Ar
    - Variation: +984,000 Ar
 
-14. **Lave-linge hublot SAMSUNG AddWash™ Ecobubble™ WW80T554DTE/S3 - 8 kg - Induction - Classe B - 1400 trs/min - Connecté - Blanc**
-   - Prix avant: 3,943,000 Ar
-   - Prix actuel: 4,993,000 Ar
-   - Variation: +1,050,000 Ar
-
-15. **Lave-linge séchant SAMSUNG Ecobubble™ WD70T4046EW/EF - 7 / 4 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
+10. **Lave-linge séchant SAMSUNG Ecobubble™ WD70T4046EW/EF - 7 / 4 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
    - Prix avant: 3,878,000 Ar
    - Prix actuel: 4,930,000 Ar
    - Variation: +1,052,000 Ar
 
-16. **Lave-linge séchant SAMSUNG Ecobubble™ WD80T4046EW/EF - 8 / 5 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
+11. **Lave-linge séchant SAMSUNG Ecobubble™ WD80T4046EW/EF - 8 / 5 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
    - Prix avant: 4,191,000 Ar
    - Prix actuel: 5,307,000 Ar
    - Variation: +1,116,000 Ar
 
-17. **Lave-linge hublot SAMSUNG AddWash™ Ecobubble™ WW70T554DAX - 7 kg - Induction - 1400 trs/min - Connecté - Inox/Silver**
-   - Prix avant: 4,248,000 Ar
-   - Prix actuel: 5,379,000 Ar
-   - Variation: +1,131,000 Ar
-
-18. **Lave-linge hublot SAMSUNG Ecobubble™ WW90T634DHH - 9 kg - Induction - 1400 trs/min - Distributeur automatique de lessive - Conne**
-   - Prix avant: 4,548,000 Ar
-   - Prix actuel: 5,760,000 Ar
-   - Variation: +1,212,000 Ar
-
-19. **Ecran PC Gamer - SAMSUNG ODYSSEY G7 - G70B S32BG700EU - 32'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync P**
+12. **Ecran PC Gamer - SAMSUNG ODYSSEY G7 - G70B S32BG700EU - 32'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync P**
    - Prix avant: 5,431,000 Ar
    - Prix actuel: 6,877,000 Ar
    - Variation: +1,446,000 Ar
 
-20. **Lave-linge hublot SAMSUNG WF18T8000GV - 18 kg - 1100trs/min - Classe C - Noir**
-   - Prix avant: 6,877,000 Ar
-   - Prix actuel: 8,488,000 Ar
-   - Variation: +1,611,000 Ar
-
-21. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY NEO G8 - G85NB S32BG850NP - 32'' 4k - Dalle Mini LED VA - 1 ms - 240Hz - HDMI / DP**
+13. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY NEO G8 - G85NB S32BG850NP - 32'' 4k - Dalle Mini LED VA - 1 ms - 240Hz - HDMI / DP**
    - Prix avant: 6,138,000 Ar
    - Prix actuel: 7,772,000 Ar
    - Variation: +1,634,000 Ar
 
-22. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY - G8 G85SB - 34'' UWQHD - Dalle OLED - 0.1 ms - 175Hz - HDMI 2.1 / mini DP / USB C 3**
+14. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY - G8 G85SB - 34'' UWQHD - Dalle OLED - 0.1 ms - 175Hz - HDMI 2.1 / mini DP / USB C 3**
    - Prix avant: 7,210,000 Ar
    - Prix actuel: 9,131,000 Ar
    - Variation: +1,921,000 Ar
@@ -156,72 +116,32 @@
    - Prix actuel: 3,279,000 Ar
    - Indice de prix : 105.47
 
-9. **Lave-linge hublot SAMSUNG WF18T8000GV - 18 kg - 1100trs/min - Classe C - Noir**
-   - Prix avant: 6,877,000 Ar
-   - Prix actuel: 8,488,000 Ar
-   - Indice de prix : 123.43
-
-10. **Lave-linge hublot SAMSUNG Ecobubble WW70TA046TT - 7 kg - Induction - 1400 trs/min - Blanc**
-   - Prix avant: 3,290,000 Ar
-   - Prix actuel: 4,165,000 Ar
-   - Indice de prix : 126.60
-
-11. **Lave-linge hublot SAMSUNG Ecobubble™ WW80TA046TT - 8 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
-   - Prix avant: 2,934,000 Ar
-   - Prix actuel: 3,715,000 Ar
-   - Indice de prix : 126.62
-
-12. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY NEO G8 - G85NB S32BG850NP - 32'' 4k - Dalle Mini LED VA - 1 ms - 240Hz - HDMI / DP**
+9. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY NEO G8 - G85NB S32BG850NP - 32'' 4k - Dalle Mini LED VA - 1 ms - 240Hz - HDMI / DP**
    - Prix avant: 6,138,000 Ar
    - Prix actuel: 7,772,000 Ar
    - Indice de prix : 126.62
 
-13. **Lave-linge hublot SAMSUNG AddWash™ Ecobubble™ WW70T554DAX - 7 kg - Induction - 1400 trs/min - Connecté - Inox/Silver**
-   - Prix avant: 4,248,000 Ar
-   - Prix actuel: 5,379,000 Ar
-   - Indice de prix : 126.62
-
-14. **Ecran PC Gamer - SAMSUNG ODYSSEY G7 - G70B S32BG700EU - 32'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync P**
+10. **Ecran PC Gamer - SAMSUNG ODYSSEY G7 - G70B S32BG700EU - 32'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync P**
    - Prix avant: 5,431,000 Ar
    - Prix actuel: 6,877,000 Ar
    - Indice de prix : 126.62
 
-15. **Lave-linge hublot SAMSUNG Ecobubble™ WW90TA046TT - 9 kg - Induction - Classe A - 1400 trs/min - Programme Vapeur - Blanc**
-   - Prix avant: 3,568,000 Ar
-   - Prix actuel: 4,518,000 Ar
-   - Indice de prix : 126.63
-
-16. **Lave-linge séchant SAMSUNG Ecobubble™ WD80T4046EW/EF - 8 / 5 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
+11. **Lave-linge séchant SAMSUNG Ecobubble™ WD80T4046EW/EF - 8 / 5 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
    - Prix avant: 4,191,000 Ar
    - Prix actuel: 5,307,000 Ar
    - Indice de prix : 126.63
 
-17. **Lave-linge hublot SAMSUNG AddWash™ Ecobubble™ WW80T554DTE/S3 - 8 kg - Induction - Classe B - 1400 trs/min - Connecté - Blanc**
-   - Prix avant: 3,943,000 Ar
-   - Prix actuel: 4,993,000 Ar
-   - Indice de prix : 126.63
-
-18. **Trottinette électrique - XIAOMI - Electric Scooter 4 Go - 250 W - 8,1 - Noir**
-   - Prix avant: 1,858,000 Ar
-   - Prix actuel: 2,353,000 Ar
-   - Indice de prix : 126.64
-
-19. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY - G8 G85SB - 34'' UWQHD - Dalle OLED - 0.1 ms - 175Hz - HDMI 2.1 / mini DP / USB C 3**
+12. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY - G8 G85SB - 34'' UWQHD - Dalle OLED - 0.1 ms - 175Hz - HDMI 2.1 / mini DP / USB C 3**
    - Prix avant: 7,210,000 Ar
    - Prix actuel: 9,131,000 Ar
    - Indice de prix : 126.64
 
-20. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY G6 - G65B S32BG650EU - 32'' WQHD - VA - 1 ms - 240Hz - HDMI / DisplayPort - Freesync**
+13. **Ecran PC Gamer Incurvé - SAMSUNG - ODYSSEY G6 - G65B S32BG650EU - 32'' WQHD - VA - 1 ms - 240Hz - HDMI / DisplayPort - Freesync**
    - Prix avant: 3,693,000 Ar
    - Prix actuel: 4,677,000 Ar
    - Indice de prix : 126.65
 
-21. **Lave-linge hublot SAMSUNG Ecobubble™ WW90T634DHH - 9 kg - Induction - 1400 trs/min - Distributeur automatique de lessive - Conne**
-   - Prix avant: 4,548,000 Ar
-   - Prix actuel: 5,760,000 Ar
-   - Indice de prix : 126.65
-
-22. **Lave-linge séchant SAMSUNG Ecobubble™ WD70T4046EW/EF - 7 / 4 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
+14. **Lave-linge séchant SAMSUNG Ecobubble™ WD70T4046EW/EF - 7 / 4 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc**
    - Prix avant: 3,878,000 Ar
    - Prix actuel: 4,930,000 Ar
    - Indice de prix : 127.13

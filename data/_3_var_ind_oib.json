@@ -20,13 +20,6 @@
       "prix_base": 9850,
       "prix_comparaison": 4990,
       "variation": -4860
-    },
-    {
-      "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
-      "name": "Liquide vaisselle vinaigre de framboise 500ml",
-      "prix_base": 10500,
-      "prix_comparaison": 4990,
-      "variation": -5510
     }
   ],
   "prix_diminues": [
@@ -50,13 +43,6 @@
       "prix_base": 10500,
       "prix_comparaison": 4990,
       "variation": -5510
-    },
-    {
-      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
-      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
-      "prix_base": 9850,
-      "prix_comparaison": 4990,
-      "variation": -4860
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,13 +66,6 @@
       "prix_base": 360000,
       "prix_comparaison": 341000,
       "indice_prix": 94.72222222222223
-    },
-    {
-      "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
-      "name": "Liquide vaisselle aloe vera 500ml",
-      "prix_base": 8500,
-      "prix_comparaison": 4990,
-      "indice_prix": 58.705882352941174
     }
   ],
   "indices_prix_plus_faibles": [
@@ -110,13 +89,6 @@
       "prix_base": 8500,
       "prix_comparaison": 4990,
       "indice_prix": 58.705882352941174
-    },
-    {
-      "cle": "promo2023_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
-      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
-      "prix_base": 360000,
-      "prix_comparaison": 341000,
-      "indice_prix": 94.72222222222223
     }
   ]
 }

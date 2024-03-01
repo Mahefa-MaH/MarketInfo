@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
-      "prix_base": 12961000,
-      "prix_comparaison": 12961000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
       "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
       "prix_base": 11149000,
@@ -19,6 +11,14 @@
     {
       "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
       "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 10696000,
+      "prix_comparaison": 10696000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
       "prix_base": 10696000,
       "prix_comparaison": 10696000,
       "variation": 0,

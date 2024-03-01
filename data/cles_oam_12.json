@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
       "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
       "prix_base": 14030000,
@@ -23,6 +15,14 @@
       "prix_comparaison": 13055000,
       "variation": 2779000,
       "indice_prix": 127.04359673024523
+    },
+    {
+      "cle": "machineacafeexpressobroyeur_91317siemensct636les6machineacafeiq700reservoir24l1600wprepare2tass4242003703595_html",
+      "name": "SIEMENS CT636LES6 Machine a caf\u00e9 iQ700 - R\u00e9servoir 2.4L - 1600W - Pr\u00e9pare 2 tass",
+      "prix_base": 10507000,
+      "prix_comparaison": 13306000,
+      "variation": 2799000,
+      "indice_prix": 126.63938326829732
     }
   ]
 }

@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "piscinecompletekitpiscine_99516grepiscinerondeaciero480mxh132mimitationboisnordiquefiltrationasable8412081313726_html",
-      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,32m - Imitation bois Nordique Filtration a sable",
-      "prix_base": 10604000,
-      "prix_comparaison": 10604000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
       "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
       "prix_base": 11900000,
       "prix_comparaison": 11900000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
+      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
+      "prix_base": 12500000,
+      "prix_comparaison": 12500000,
       "variation": 0,
       "indice_prix": 100.0
     }
