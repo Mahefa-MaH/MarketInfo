@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_carottesfraiche1kggroscalibre_",
-      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
-      "prix_base": 5400,
-      "prix_comparaison": 6700,
-      "variation": 1300
-    },
-    {
-      "cle": "produit_sucreblanc500genvrac_",
-      "name": "Sucre blanc 500g | En vrac",
-      "prix_base": 3200,
-      "prix_comparaison": 3700,
-      "variation": 500
-    },
-    {
-      "cle": "produit_chouxvertlaisoalegumefrais_",
-      "name": "Choux Vert 1 pi\u00e8ce | Laisoa",
-      "prix_base": 2400,
-      "prix_comparaison": 2700,
-      "variation": 300
+      "cle": "produit_papayefrais_",
+      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
+      "prix_base": 10000,
+      "prix_comparaison": 14000,
+      "variation": 4000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_chouxvertlaisoalegumefrais_",
-      "name": "Choux Vert 1 pi\u00e8ce | Laisoa",
-      "prix_base": 2400,
-      "prix_comparaison": 2700,
-      "variation": 300
-    },
-    {
-      "cle": "produit_sucreblanc500genvrac_",
-      "name": "Sucre blanc 500g | En vrac",
-      "prix_base": 3200,
-      "prix_comparaison": 3700,
-      "variation": 500
-    },
-    {
-      "cle": "produit_carottesfraiche1kggroscalibre_",
-      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
-      "prix_base": 5400,
-      "prix_comparaison": 6700,
-      "variation": 1300
+      "cle": "produit_papayefrais_",
+      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
+      "prix_base": 10000,
+      "prix_comparaison": 14000,
+      "variation": 4000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_carottesfraiche1kggroscalibre_",
-      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
-      "prix_base": 5400,
-      "prix_comparaison": 6700,
-      "indice_prix": 124.07407407407408
-    },
-    {
-      "cle": "produit_sucreblanc500genvrac_",
-      "name": "Sucre blanc 500g | En vrac",
-      "prix_base": 3200,
-      "prix_comparaison": 3700,
-      "indice_prix": 115.625
-    },
-    {
-      "cle": "produit_chouxvertlaisoalegumefrais_",
-      "name": "Choux Vert 1 pi\u00e8ce | Laisoa",
-      "prix_base": 2400,
-      "prix_comparaison": 2700,
-      "indice_prix": 112.5
+      "cle": "produit_papayefrais_",
+      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
+      "prix_base": 10000,
+      "prix_comparaison": 14000,
+      "indice_prix": 140.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_chouxvertlaisoalegumefrais_",
-      "name": "Choux Vert 1 pi\u00e8ce | Laisoa",
-      "prix_base": 2400,
-      "prix_comparaison": 2700,
-      "indice_prix": 112.5
-    },
-    {
-      "cle": "produit_sucreblanc500genvrac_",
-      "name": "Sucre blanc 500g | En vrac",
-      "prix_base": 3200,
-      "prix_comparaison": 3700,
-      "indice_prix": 115.625
-    },
-    {
-      "cle": "produit_carottesfraiche1kggroscalibre_",
-      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
-      "prix_base": 5400,
-      "prix_comparaison": 6700,
-      "indice_prix": 124.07407407407408
+      "cle": "produit_papayefrais_",
+      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
+      "prix_base": 10000,
+      "prix_comparaison": 14000,
+      "indice_prix": 140.0
     }
   ]
 }
