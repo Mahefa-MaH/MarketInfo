@@ -1,6 +1,6 @@
-# Market Info - File 30
+# Market Info - File 31
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe énergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm**
    - Prix avant: 14,030,000 Ar

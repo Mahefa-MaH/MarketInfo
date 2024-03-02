@@ -1,22 +1,22 @@
-# Market Info - File 23
+# Market Info - File 24
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Betonnière 255L gasoil KM178F**
-   - Prix avant: 14,290,000 Ar
-   - Prix actuel: 14,290,000 Ar
+1. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
+   - Prix avant: 10,049,000 Ar
+   - Prix actuel: 10,049,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Coffret à outils 416-200MZ**
-   - Prix avant: 13,200,000 Ar
-   - Prix actuel: 13,200,000 Ar
+2. **Nettoyeur HP eau chaude 170 bars***
+   - Prix avant: 12,650,000 Ar
+   - Prix actuel: 12,650,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Rose**
-   - Prix avant: 10,025,000 Ar
-   - Prix actuel: 10,025,000 Ar
+3. **Plaque vibrante réversible 820x480mm Honda**
+   - Prix avant: 21,000,000 Ar
+   - Prix actuel: 21,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

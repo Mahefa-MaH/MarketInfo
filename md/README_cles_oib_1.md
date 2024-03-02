@@ -1,6 +1,6 @@
-# Market Info - File 31
+# Market Info - File 32
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Farine de riz 1kg**
    - Prix avant: 5,000 Ar

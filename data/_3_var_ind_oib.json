@@ -13,6 +13,20 @@
       "prix_base": 2982000,
       "prix_comparaison": 3042000,
       "variation": 60000
+    },
+    {
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 489000,
+      "prix_comparaison": 537000,
+      "variation": 48000
+    },
+    {
+      "cle": "promo2023_14023robotmultifonctionboschmultitalent3blanc800w2vitessesetpulsebolmelangeur23lbolmixeur1l2disques_html",
+      "name": "Robot multifonction BOSCH MultiTalent3 - Blanc - 800 W - 2 vitesses et pulse - Bol m\u00e9langeur 2,3 L - Bol mixeur 1 L - 2 disques",
+      "prix_base": 617000,
+      "prix_comparaison": 651000,
+      "variation": 34000
     }
   ],
   "prix_diminues": [
@@ -29,6 +43,20 @@
       "prix_base": 4223000,
       "prix_comparaison": 3518900,
       "variation": -704100
+    },
+    {
+      "cle": "ordinateursportables_14820pcportablelenovoideapad315iau7156intelcorei71255u16goram512gowindows11_html",
+      "name": "PC Portable - Lenovo - IdeaPad 3 15IAU7 - 15.6 - Intel Core i7-1255U - 16 Go RAM - 512 Go - Windows 11",
+      "prix_base": 3929000,
+      "prix_comparaison": 3657000,
+      "variation": -272000
+    },
+    {
+      "cle": "promo2023_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6365000,
+      "prix_comparaison": 6202000,
+      "variation": -163000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -40,11 +68,25 @@
       "indice_prix": 112.5
     },
     {
+      "cle": "biscuitssecssables_11495goutychococo_html",
+      "name": "Biscuits Gouty chocolat coco",
+      "prix_base": 900,
+      "prix_comparaison": 1000,
+      "indice_prix": 111.11111111111111
+    },
+    {
       "cle": "tablettestactilesliseuses_14868vivlioliseusenumeriquetouchlux5noir_html",
       "name": "VIVLIO - Liseuse Num\u00e9rique Touch Lux 5 - Noir",
       "prix_base": 741000,
       "prix_comparaison": 820000,
       "indice_prix": 110.6612685560054
+    },
+    {
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 489000,
+      "prix_comparaison": 537000,
+      "indice_prix": 109.8159509202454
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +103,20 @@
       "prix_base": 4497000,
       "prix_comparaison": 3747365,
       "indice_prix": 83.3303313319991
+    },
+    {
+      "cle": "huiles_8992huiledefriture5l_html",
+      "name": "Huile de friture 5L",
+      "prix_base": 97000,
+      "prix_comparaison": 85000,
+      "indice_prix": 87.62886597938144
+    },
+    {
+      "cle": "ordinateursportables_14820pcportablelenovoideapad315iau7156intelcorei71255u16goram512gowindows11_html",
+      "name": "PC Portable - Lenovo - IdeaPad 3 15IAU7 - 15.6 - Intel Core i7-1255U - 16 Go RAM - 512 Go - Windows 11",
+      "prix_base": 3929000,
+      "prix_comparaison": 3657000,
+      "indice_prix": 93.07711885976076
     }
   ]
 }

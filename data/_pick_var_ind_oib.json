@@ -1,62 +1,104 @@
 {
   "Variation de prix": [
     {
-      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
-      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
-      "prix_base": 12700,
-      "prix_comparaison": 6900,
-      "variation": -5800
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 4497000,
+      "prix_comparaison": 3747365,
+      "variation": -749635
     },
     {
-      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
-      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
-      "prix_base": 6500,
-      "prix_comparaison": 3990,
-      "variation": -2510
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 4223000,
+      "prix_comparaison": 3518900,
+      "variation": -704100
     },
     {
-      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
-      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
-      "prix_base": 6500,
-      "prix_comparaison": 3990,
-      "variation": -2510
+      "cle": "promo2023_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6365000,
+      "prix_comparaison": 6202000,
+      "variation": -163000
     },
     {
-      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
-      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
-      "prix_base": 16900,
-      "prix_comparaison": 14500,
-      "variation": -2400
+      "cle": "promo2023_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 4343000,
+      "prix_comparaison": 4305000,
+      "variation": -38000
+    },
+    {
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1632000,
+      "prix_comparaison": 1611000,
+      "variation": -21000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14790montreconnecteexiaomismartband8activeecran147rose_html",
+      "name": "Montre connect\u00e9e - XIAOMI - Smart Band 8 Active - Ecran 1,47 - Rose",
+      "prix_base": 185000,
+      "prix_comparaison": 183000,
+      "variation": -2000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 1574000,
+      "prix_comparaison": 1573000,
+      "variation": -1000
     }
   ],
   "indice de prix": [
     {
-      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
-      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
-      "prix_base": 12700,
-      "prix_comparaison": 6900,
-      "indice_prix": 54.330708661417326
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 4223000,
+      "prix_comparaison": 3518900,
+      "indice_prix": 83.32701870708027
     },
     {
-      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
-      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
-      "prix_base": 6500,
-      "prix_comparaison": 3990,
-      "indice_prix": 61.38461538461539
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 4497000,
+      "prix_comparaison": 3747365,
+      "indice_prix": 83.3303313319991
     },
     {
-      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
-      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
-      "prix_base": 6500,
-      "prix_comparaison": 3990,
-      "indice_prix": 61.38461538461539
+      "cle": "promo2023_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6365000,
+      "prix_comparaison": 6202000,
+      "indice_prix": 97.43912018853104
     },
     {
-      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
-      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
-      "prix_base": 16900,
-      "prix_comparaison": 14500,
-      "indice_prix": 85.79881656804734
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1632000,
+      "prix_comparaison": 1611000,
+      "indice_prix": 98.71323529411765
+    },
+    {
+      "cle": "montresbraceletsconnectes_14790montreconnecteexiaomismartband8activeecran147rose_html",
+      "name": "Montre connect\u00e9e - XIAOMI - Smart Band 8 Active - Ecran 1,47 - Rose",
+      "prix_base": 185000,
+      "prix_comparaison": 183000,
+      "indice_prix": 98.91891891891892
+    },
+    {
+      "cle": "promo2023_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 4343000,
+      "prix_comparaison": 4305000,
+      "indice_prix": 99.12502878194796
+    },
+    {
+      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 1574000,
+      "prix_comparaison": 1573000,
+      "indice_prix": 99.93646759847522
     }
   ]
 }

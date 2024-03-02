@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurtoutenun_133164apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursvert0194253780625_html",
-      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - vert",
-      "prix_base": 10074000,
-      "prix_comparaison": 10074000,
+      "cle": "tondeuse_100076tondeuseautoportee61cmdecoupe224ccmr22461scheppach4046664176213_html",
+      "name": "Tondeuse rider autoport\u00e9e thermique 61 cm de coupe 224cc MR224-61 SCHEPPACH - Bac de collecte de 150L",
+      "prix_base": 10010000,
+      "prix_comparaison": 10010000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurtoutenun_133162apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursargent0194253778868_html",
-      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Argent",
-      "prix_base": 10074000,
-      "prix_comparaison": 10074000,
+      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
+      "prix_base": 14242000,
+      "prix_comparaison": 14242000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurtoutenun_133166apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursbleu0194253781509_html",
-      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Bleu",
-      "prix_base": 10074000,
-      "prix_comparaison": 10074000,
+      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
+      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
+      "prix_base": 13055000,
+      "prix_comparaison": 13055000,
       "variation": 0,
       "indice_prix": 100.0
     }

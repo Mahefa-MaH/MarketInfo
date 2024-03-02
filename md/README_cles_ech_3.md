@@ -1,6 +1,6 @@
-# Market Info - File 25
+# Market Info - File 26
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Haricots Rouges séchés 1kg | Tsaramaso mena maina**
    - Prix avant: 8,000 Ar
