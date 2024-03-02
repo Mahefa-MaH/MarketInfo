@@ -1,22 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
-      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
-      "prix_base": 10430000,
-      "prix_comparaison": 10430000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
-      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
       "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
       "prix_base": 12500000,

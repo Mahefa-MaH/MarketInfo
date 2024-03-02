@@ -1,122 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cerealesetbarres_2055petalesdemaiscroustillantssucres375g_html",
-      "name": "P\u00e9tales de ma\u00efs croustillants sucr\u00e9s 375g",
-      "prix_base": 12900,
-      "prix_comparaison": 13500,
-      "variation": 600
+      "cle": "tablettestactilesliseuses_14868vivlioliseusenumeriquetouchlux5noir_html",
+      "name": "VIVLIO - Liseuse Num\u00e9rique Touch Lux 5 - Noir",
+      "prix_base": 741000,
+      "prix_comparaison": 820000,
+      "variation": 79000
     },
     {
-      "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
-      "name": "Liquide vaisselle aloe vera 500ml",
-      "prix_base": 8500,
-      "prix_comparaison": 4990,
-      "variation": -3510
-    },
-    {
-      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
-      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
-      "prix_base": 9850,
-      "prix_comparaison": 4990,
-      "variation": -4860
-    },
-    {
-      "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
-      "name": "Liquide vaisselle vinaigre de framboise 500ml",
-      "prix_base": 10500,
-      "prix_comparaison": 4990,
-      "variation": -5510
+      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
+      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
+      "prix_base": 2982000,
+      "prix_comparaison": 3042000,
+      "variation": 60000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "promo2023_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
-      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
-      "prix_base": 360000,
-      "prix_comparaison": 341000,
-      "variation": -19000
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 4497000,
+      "prix_comparaison": 3747365,
+      "variation": -749635
     },
     {
-      "cle": "promo2023_13997steampod30lisseurvapeurprofessionnel2en1lorealprofessionnelparis_html",
-      "name": "Steampod 3.0 - Lisseur Vapeur Professionnel 2-en-1 - L'Or\u00e9al Professionnel Paris",
-      "prix_base": 1244000,
-      "prix_comparaison": 1229000,
-      "variation": -15000
-    },
-    {
-      "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
-      "name": "Liquide vaisselle vinaigre de framboise 500ml",
-      "prix_base": 10500,
-      "prix_comparaison": 4990,
-      "variation": -5510
-    },
-    {
-      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
-      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
-      "prix_base": 9850,
-      "prix_comparaison": 4990,
-      "variation": -4860
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 4223000,
+      "prix_comparaison": 3518900,
+      "variation": -704100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cerealesetbarres_2055petalesdemaiscroustillantssucres375g_html",
-      "name": "P\u00e9tales de ma\u00efs croustillants sucr\u00e9s 375g",
-      "prix_base": 12900,
-      "prix_comparaison": 13500,
-      "indice_prix": 104.65116279069767
+      "cle": "mouchoirsenpapier_5205mouchoirs3plis6etuis_html",
+      "name": "Mouchoirs 3 plis 6 \u00e9tuis",
+      "prix_base": 4800,
+      "prix_comparaison": 5400,
+      "indice_prix": 112.5
     },
     {
-      "cle": "promo2023_13997steampod30lisseurvapeurprofessionnel2en1lorealprofessionnelparis_html",
-      "name": "Steampod 3.0 - Lisseur Vapeur Professionnel 2-en-1 - L'Or\u00e9al Professionnel Paris",
-      "prix_base": 1244000,
-      "prix_comparaison": 1229000,
-      "indice_prix": 98.79421221864952
-    },
-    {
-      "cle": "promo2023_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
-      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
-      "prix_base": 360000,
-      "prix_comparaison": 341000,
-      "indice_prix": 94.72222222222223
-    },
-    {
-      "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
-      "name": "Liquide vaisselle aloe vera 500ml",
-      "prix_base": 8500,
-      "prix_comparaison": 4990,
-      "indice_prix": 58.705882352941174
+      "cle": "tablettestactilesliseuses_14868vivlioliseusenumeriquetouchlux5noir_html",
+      "name": "VIVLIO - Liseuse Num\u00e9rique Touch Lux 5 - Noir",
+      "prix_base": 741000,
+      "prix_comparaison": 820000,
+      "indice_prix": 110.6612685560054
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
-      "name": "Liquide vaisselle vinaigre de framboise 500ml",
-      "prix_base": 10500,
-      "prix_comparaison": 4990,
-      "indice_prix": 47.523809523809526
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 4223000,
+      "prix_comparaison": 3518900,
+      "indice_prix": 83.32701870708027
     },
     {
-      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
-      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
-      "prix_base": 9850,
-      "prix_comparaison": 4990,
-      "indice_prix": 50.65989847715736
-    },
-    {
-      "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
-      "name": "Liquide vaisselle aloe vera 500ml",
-      "prix_base": 8500,
-      "prix_comparaison": 4990,
-      "indice_prix": 58.705882352941174
-    },
-    {
-      "cle": "promo2023_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
-      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
-      "prix_base": 360000,
-      "prix_comparaison": 341000,
-      "indice_prix": 94.72222222222223
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 4497000,
+      "prix_comparaison": 3747365,
+      "indice_prix": 83.3303313319991
     }
   ]
 }

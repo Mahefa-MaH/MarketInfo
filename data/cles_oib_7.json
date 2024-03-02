@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
-      "name": "Sucre blanc en morceaux 1kg",
-      "prix_base": 14900,
-      "prix_comparaison": 14900,
+      "cle": "sucres_13804sucreenpoudre1kg_html",
+      "name": "Sucre blanc en poudre 1kg",
+      "prix_base": 10900,
+      "prix_comparaison": 10900,
       "variation": 0,
       "indice_prix": 100.0
     }

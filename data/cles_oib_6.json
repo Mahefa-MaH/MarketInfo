@@ -1,18 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_7474rizrougecomplet5kg_html",
-      "name": "Riz rouge complet 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "promo2023_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 8900,
       "variation": 0,
       "indice_prix": 100.0
     },
@@ -21,6 +13,14 @@
       "name": "Sucre blanc cristallis\u00e9 1kg",
       "prix_base": 7500,
       "prix_comparaison": 7500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14900,
+      "prix_comparaison": 14900,
       "variation": 0,
       "indice_prix": 100.0
     }
