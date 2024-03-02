@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 11399,
-      "prix_base": 13100,
-      "name": "Gel \u00e0 raser sensitive 200 ml",
-      "prix_comparaison": 15500,
-      "variation": 2400
+      "list_id": 11788,
+      "prix_base": 17900,
+      "name": "Tampons avec applicateur normal X20",
+      "prix_comparaison": 23900,
+      "variation": 6000
     },
     {
-      "list_id": 11277,
-      "prix_base": 7100,
-      "name": "2 Sticks \u00e0 l\u00e8vres Aloe Vera 4 g",
-      "prix_comparaison": 9050,
-      "variation": 1950
-    },
-    {
-      "list_id": 12245,
-      "prix_base": 5400,
-      "name": "Bloc WC Citron 40 g",
-      "prix_comparaison": 6600,
-      "variation": 1200
+      "list_id": 11743,
+      "prix_base": 8300,
+      "name": "Prot\u00e8ge-slip large X30",
+      "prix_comparaison": 9000,
+      "variation": 700
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 11263,
-      "prix_base": 13100,
-      "name": "Rafra\u00eechissant Text 300 ml",
-      "prix_comparaison": 9600,
-      "variation": -3500
+      "list_id": 11743,
+      "prix_base": 8300,
+      "name": "Prot\u00e8ge-slip large X30",
+      "prix_comparaison": 9000,
+      "variation": 700
     },
     {
-      "list_id": 12245,
-      "prix_base": 5400,
-      "name": "Bloc WC Citron 40 g",
-      "prix_comparaison": 6600,
-      "variation": 1200
-    },
-    {
-      "list_id": 11277,
-      "prix_base": 7100,
-      "name": "2 Sticks \u00e0 l\u00e8vres Aloe Vera 4 g",
-      "prix_comparaison": 9050,
-      "variation": 1950
+      "list_id": 11788,
+      "prix_base": 17900,
+      "name": "Tampons avec applicateur normal X20",
+      "prix_comparaison": 23900,
+      "variation": 6000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 11277,
-      "name": "2 Sticks \u00e0 l\u00e8vres Aloe Vera 4 g",
-      "prix_base": 7100,
-      "prix_comparaison": 9050,
-      "indice_prix": 127.46478873239437
+      "list_id": 11788,
+      "name": "Tampons avec applicateur normal X20",
+      "prix_base": 17900,
+      "prix_comparaison": 23900,
+      "indice_prix": 133.5195530726257
     },
     {
-      "list_id": 12245,
-      "name": "Bloc WC Citron 40 g",
-      "prix_base": 5400,
-      "prix_comparaison": 6600,
-      "indice_prix": 122.22222222222223
-    },
-    {
-      "list_id": 11399,
-      "name": "Gel \u00e0 raser sensitive 200 ml",
-      "prix_base": 13100,
-      "prix_comparaison": 15500,
-      "indice_prix": 118.3206106870229
+      "list_id": 11743,
+      "name": "Prot\u00e8ge-slip large X30",
+      "prix_base": 8300,
+      "prix_comparaison": 9000,
+      "indice_prix": 108.43373493975903
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 11263,
-      "name": "Rafra\u00eechissant Text 300 ml",
-      "prix_base": 13100,
-      "prix_comparaison": 9600,
-      "indice_prix": 73.2824427480916
+      "list_id": 11743,
+      "name": "Prot\u00e8ge-slip large X30",
+      "prix_base": 8300,
+      "prix_comparaison": 9000,
+      "indice_prix": 108.43373493975903
     },
     {
-      "list_id": 11399,
-      "name": "Gel \u00e0 raser sensitive 200 ml",
-      "prix_base": 13100,
-      "prix_comparaison": 15500,
-      "indice_prix": 118.3206106870229
-    },
-    {
-      "list_id": 12245,
-      "name": "Bloc WC Citron 40 g",
-      "prix_base": 5400,
-      "prix_comparaison": 6600,
-      "indice_prix": 122.22222222222223
+      "list_id": 11788,
+      "name": "Tampons avec applicateur normal X20",
+      "prix_base": 17900,
+      "prix_comparaison": 23900,
+      "indice_prix": 133.5195530726257
     }
   ]
 }
