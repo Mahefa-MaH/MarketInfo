@@ -17,6 +17,11 @@
    - Prix actuel: 4,990 Ar
    - Variation: -4,860 Ar
 
+4. **Liquide vaisselle vinaigre de framboise 500ml**
+   - Prix avant: 10,500 Ar
+   - Prix actuel: 4,990 Ar
+   - Variation: -5,510 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec réservoir intégré**
@@ -33,6 +38,11 @@
    - Prix avant: 10,500 Ar
    - Prix actuel: 4,990 Ar
    - Variation: -5,510 Ar
+
+4. **Liquide vaisselle Ecologique Dermosensitive 500ml**
+   - Prix avant: 9,850 Ar
+   - Prix actuel: 4,990 Ar
+   - Variation: -4,860 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -51,6 +61,11 @@
    - Prix actuel: 341,000 Ar
    - Indice de prix : 94.72
 
+4. **Liquide vaisselle aloe vera 500ml**
+   - Prix avant: 8,500 Ar
+   - Prix actuel: 4,990 Ar
+   - Indice de prix : 58.71
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Liquide vaisselle vinaigre de framboise 500ml**
@@ -67,4 +82,9 @@
    - Prix avant: 8,500 Ar
    - Prix actuel: 4,990 Ar
    - Indice de prix : 58.71
+
+4. **Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec réservoir intégré**
+   - Prix avant: 360,000 Ar
+   - Prix actuel: 341,000 Ar
+   - Indice de prix : 94.72
 
