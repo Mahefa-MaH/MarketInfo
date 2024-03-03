@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "promo2023_14597rizmakalioka5kg_html",
+      "name": "Riz makalioka 5kg",
+      "prix_base": 21750,
+      "prix_comparaison": 21750,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_1894huiledesoja20lhina_html",
-      "name": "Huile de soja Hina 20L",
-      "prix_base": 179400,
-      "prix_comparaison": 179400,
+      "cle": "promo2023_9404rizmakaliokasacde1kg_html",
+      "name": "Riz Makalioka sac de 1kg",
+      "prix_base": 4490,
+      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_8994huiledesoja1l_html",
-      "name": "Huile de soja 1L",
-      "prix_base": 15500,
-      "prix_comparaison": 15500,
+      "cle": "promo2023_7474rizrougecomplet5kg_html",
+      "name": "Riz rouge complet 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
       "variation": 0,
       "indice_prix": 100.0
     }

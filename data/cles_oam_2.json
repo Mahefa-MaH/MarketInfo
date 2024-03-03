@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "electricitedomotique_120268onduleurapceasyupssrv6000va230vavecbatterieexterne_html",
-      "name": "Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe",
-      "prix_base": 11000000,
-      "prix_comparaison": 11000000,
+      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
+      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
+      "prix_base": 12343000,
+      "prix_comparaison": 12343000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "electricitedomotique_120267onduleurapcsmartupsrv10000va230v_html",
-      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
-      "prix_base": 17500000,
-      "prix_comparaison": 17500000,
+      "cle": "canapesofadivan_136047canapedanglegaucheconvertibleimperial5placestissugrisclair2coffresderangementl304xp212xh86cm3700538240035_html",
+      "name": "Canap\u00e9 d'angle gauche convertible IMPERIAL 5 places - Tissu gris clair - 2 coffres de rangement - L304 x P212 x H86 cm",
+      "prix_base": 10336000,
+      "prix_comparaison": 10336000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_95365gardenatondeuserobotsmartsilenolife1000tondsouslapluieetpassagesetroitsappsilencieuxrobotdetonte4078500060592_html",
-      "name": "GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages \u00e9troits, App, Silencieux, Robot de Tonte",
-      "prix_base": 11434000,
-      "prix_comparaison": 11434000,
+      "cle": "tableplaquedecuissoninduction_126375plaqueinductionelicanikolateslaprimesbla83prf01823227400w240v63dbsafeactivationnoir8020283054554_html",
+      "name": "Plaque Induction Elica NikolaTesla Prime S BL/A/83 PRF0182322 7400W 240V 63dB Safe Activation Noir",
+      "prix_base": 10010000,
+      "prix_comparaison": 10010000,
       "variation": 0,
       "indice_prix": 100.0
     }

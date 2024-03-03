@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104003pilonneusesp80345x285mm_html",
-      "name": "Pilonneuse SP80-345x285 mm",
-      "prix_base": 15800000,
-      "prix_comparaison": 15800000,
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 12614000,
+      "prix_comparaison": 12614000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_104176stationtotaleelectronique_html",
-      "name": "Station totale \u00e9lectronique",
-      "prix_base": 17600000,
-      "prix_comparaison": 17600000,
+      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
+      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
+      "prix_base": 13118000,
+      "prix_comparaison": 13118000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuseautoporteetracteurtondeuserider_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
-      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
-      "prix_base": 12208000,
-      "prix_comparaison": 12208000,
+      "cle": "hotte_127089tabledecuissoninductionaspirantesiemens4feux81cmex875lx67eiq7004242003867198_html",
+      "name": "Table de cuisson induction aspirante SIEMENS - 4 feux - 81 cm - EX875LX67E IQ700",
+      "prix_base": 15219000,
+      "prix_comparaison": 15219000,
       "variation": 0,
       "indice_prix": 100.0
     }

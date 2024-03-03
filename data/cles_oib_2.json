@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 15500,
-      "prix_comparaison": 15500,
+      "cle": "promo2023_1460farinederiz1kg_html",
+      "name": "Farine de riz 1kg",
+      "prix_base": 5000,
+      "prix_comparaison": 5000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_4952rizdeluxemakalioka5kg_html",
-      "name": "Riz de luxe Makalioka 5kg",
-      "prix_base": 19550,
-      "prix_comparaison": 19550,
+      "cle": "promo2023_7290rizblancdelitasy25kg_html",
+      "name": "Riz blanc de l'Itasy 25kg",
+      "prix_base": 92000,
+      "prix_comparaison": 92000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_4951rizdetablemakalioka5kg_html",
-      "name": "Riz de table Makalioka 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
+      "cle": "promo2023_7291rizblancdelitasy50kg_html",
+      "name": "Riz blanc de l'Itasy 50kg",
+      "prix_base": 184000,
+      "prix_comparaison": 184000,
       "variation": 0,
       "indice_prix": 100.0
     }
