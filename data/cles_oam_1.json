@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
-      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
-      "prix_base": 12614000,
-      "prix_comparaison": 12614000,
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 14643000,
+      "prix_comparaison": 14643000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
-      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
-      "prix_base": 13118000,
-      "prix_comparaison": 13118000,
+      "cle": "litmezzanine_124871litmezzanineedi90x190cmblancenmetalsommierinclus3619996688382_html",
+      "name": "Lit mezzanine enfant avec bureau EDI - Blanc - 90 x 190 cm - Sommier inclus",
+      "prix_base": 12126000,
+      "prix_comparaison": 12126000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "hotte_127089tabledecuissoninductionaspirantesiemens4feux81cmex875lx67eiq7004242003867198_html",
-      "name": "Table de cuisson induction aspirante SIEMENS - 4 feux - 81 cm - EX875LX67E IQ700",
-      "prix_base": 15219000,
-      "prix_comparaison": 15219000,
+      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
+      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
+      "prix_base": 11017000,
+      "prix_comparaison": 11017000,
       "variation": 0,
       "indice_prix": 100.0
     }
