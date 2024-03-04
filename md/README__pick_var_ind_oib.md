@@ -2,77 +2,107 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **SAMSUNG Galaxy S24 256 Go Indigo**
-   - Prix avant: 4,497,000 Ar
-   - Prix actuel: 3,747,365 Ar
-   - Variation: -749,635 Ar
+1. **Déodorant women baie d'açai 125ml**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,990 Ar
+   - Variation: +490 Ar
 
-2. **SAMSUNG Galaxy S24 128 Go Argent**
-   - Prix avant: 4,223,000 Ar
-   - Prix actuel: 3,518,900 Ar
-   - Variation: -704,100 Ar
+2. **Déodorant women hibiscus 125ml**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,990 Ar
+   - Variation: +490 Ar
 
-3. **Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY**
-   - Prix avant: 6,365,000 Ar
-   - Prix actuel: 6,202,000 Ar
-   - Variation: -163,000 Ar
+3. **Déodorant women orchidée 125ml**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,990 Ar
+   - Variation: +490 Ar
 
-4. **Iphone 15 128GB Rose**
-   - Prix avant: 4,343,000 Ar
-   - Prix actuel: 4,305,000 Ar
-   - Variation: -38,000 Ar
+4. **Déodorant women vanille 125ml**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,990 Ar
+   - Variation: +490 Ar
 
-5. **Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium**
-   - Prix avant: 1,632,000 Ar
-   - Prix actuel: 1,611,000 Ar
-   - Variation: -21,000 Ar
+5. **Déodorant Caribbean Lemon 200ml**
+   - Prix avant: 17,500 Ar
+   - Prix actuel: 18,500 Ar
+   - Variation: +1,000 Ar
 
-6. **Montre connectée - XIAOMI - Smart Band 8 Active - Ecran 1,47 - Rose**
-   - Prix avant: 185,000 Ar
-   - Prix actuel: 183,000 Ar
-   - Variation: -2,000 Ar
+6. **Déodorant Cucumber et Melon 200ml**
+   - Prix avant: 17,500 Ar
+   - Prix actuel: 18,500 Ar
+   - Variation: +1,000 Ar
 
-7. **Apple Watch SE GPS + Cellular - 40mm - Boîtier Starlight Aluminium - Bracelet Starlight Sport Loop**
-   - Prix avant: 1,574,000 Ar
-   - Prix actuel: 1,573,000 Ar
-   - Variation: -1,000 Ar
+7. **Déodorant Mystic Moments 200ml**
+   - Prix avant: 17,500 Ar
+   - Prix actuel: 18,500 Ar
+   - Variation: +1,000 Ar
+
+8. **Cirage crème classic brun pour chaussure 50ml**
+   - Prix avant: 3,990 Ar
+   - Prix actuel: 6,500 Ar
+   - Variation: +2,510 Ar
+
+9. **Cirage crème classic incolore pour chaussure 50ml**
+   - Prix avant: 3,990 Ar
+   - Prix actuel: 6,500 Ar
+   - Variation: +2,510 Ar
+
+10. **Cirage crème auto brillante brun pour chaussure 40ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 12,700 Ar
+   - Variation: +5,800 Ar
 
 
 
 ## Indice de prix
 
-1. **SAMSUNG Galaxy S24 128 Go Argent**
-   - Prix avant: 4,223,000 Ar
-   - Prix actuel: 3,518,900 Ar
-   - Indice de prix : 83.33
+1. **Déodorant Caribbean Lemon 200ml**
+   - Prix avant: 17,500 Ar
+   - Prix actuel: 18,500 Ar
+   - Indice de prix : 105.71
 
-2. **SAMSUNG Galaxy S24 256 Go Indigo**
-   - Prix avant: 4,497,000 Ar
-   - Prix actuel: 3,747,365 Ar
-   - Indice de prix : 83.33
+2. **Déodorant Cucumber et Melon 200ml**
+   - Prix avant: 17,500 Ar
+   - Prix actuel: 18,500 Ar
+   - Indice de prix : 105.71
 
-3. **Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY**
-   - Prix avant: 6,365,000 Ar
-   - Prix actuel: 6,202,000 Ar
-   - Indice de prix : 97.44
+3. **Déodorant Mystic Moments 200ml**
+   - Prix avant: 17,500 Ar
+   - Prix actuel: 18,500 Ar
+   - Indice de prix : 105.71
 
-4. **Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium**
-   - Prix avant: 1,632,000 Ar
-   - Prix actuel: 1,611,000 Ar
-   - Indice de prix : 98.71
+4. **Déodorant women baie d'açai 125ml**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,990 Ar
+   - Indice de prix : 107.54
 
-5. **Montre connectée - XIAOMI - Smart Band 8 Active - Ecran 1,47 - Rose**
-   - Prix avant: 185,000 Ar
-   - Prix actuel: 183,000 Ar
-   - Indice de prix : 98.92
+5. **Déodorant women hibiscus 125ml**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,990 Ar
+   - Indice de prix : 107.54
 
-6. **Iphone 15 128GB Rose**
-   - Prix avant: 4,343,000 Ar
-   - Prix actuel: 4,305,000 Ar
-   - Indice de prix : 99.13
+6. **Déodorant women orchidée 125ml**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,990 Ar
+   - Indice de prix : 107.54
 
-7. **Apple Watch SE GPS + Cellular - 40mm - Boîtier Starlight Aluminium - Bracelet Starlight Sport Loop**
-   - Prix avant: 1,574,000 Ar
-   - Prix actuel: 1,573,000 Ar
-   - Indice de prix : 99.94
+7. **Déodorant women vanille 125ml**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,990 Ar
+   - Indice de prix : 107.54
+
+8. **Cirage crème classic brun pour chaussure 50ml**
+   - Prix avant: 3,990 Ar
+   - Prix actuel: 6,500 Ar
+   - Indice de prix : 162.91
+
+9. **Cirage crème classic incolore pour chaussure 50ml**
+   - Prix avant: 3,990 Ar
+   - Prix actuel: 6,500 Ar
+   - Indice de prix : 162.91
+
+10. **Cirage crème auto brillante brun pour chaussure 40ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 12,700 Ar
+   - Indice de prix : 184.06
 

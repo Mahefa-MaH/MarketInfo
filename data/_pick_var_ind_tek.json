@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "variation": 300
+      "list_id": 11617,
+      "name": "Huile d'olive vierge extra 50 cl",
+      "prix_base": 45500,
+      "prix_comparaison": 45600,
+      "variation": 100
     }
   ],
   "indice de prix": [
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "indice_prix": 104.34782608695652
+      "list_id": 11617,
+      "name": "Huile d'olive vierge extra 50 cl",
+      "prix_base": 45500,
+      "prix_comparaison": 45600,
+      "indice_prix": 100.21978021978022
     }
   ]
 }

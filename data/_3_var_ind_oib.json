@@ -1,66 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "tablettestactilesliseuses_14868vivlioliseusenumeriquetouchlux5noir_html",
-      "name": "VIVLIO - Liseuse Num\u00e9rique Touch Lux 5 - Noir",
-      "prix_base": 741000,
-      "prix_comparaison": 820000,
-      "variation": 79000
+      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
+      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
+      "prix_base": 6900,
+      "prix_comparaison": 12700,
+      "variation": 5800
     },
     {
-      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
-      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
-      "prix_base": 2982000,
-      "prix_comparaison": 3042000,
-      "variation": 60000
+      "cle": "cirages_3239cirageclassicincolorepourchaussurebufalo75ml_html",
+      "name": "Cirage classic incolore pour chaussure 75ml",
+      "prix_base": 5500,
+      "prix_comparaison": 10990,
+      "variation": 5490
     }
   ],
   "prix_diminues": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4497000,
-      "prix_comparaison": 3747365,
-      "variation": -749635
+      "cle": "cirages_11487ciragemarronenboite50ml_html",
+      "name": "Cirage marron en boite 50ml",
+      "prix_base": 4300,
+      "prix_comparaison": 4600,
+      "variation": 300
     },
     {
-      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
-      "name": "SAMSUNG Galaxy S24 128 Go Argent",
-      "prix_base": 4223000,
-      "prix_comparaison": 3518900,
-      "variation": -704100
+      "cle": "cirages_11488cirageneutreenboite50ml_html",
+      "name": "Cirage neutre en boite 50ml",
+      "prix_base": 4300,
+      "prix_comparaison": 4600,
+      "variation": 300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "mouchoirsenpapier_5205mouchoirs3plis6etuis_html",
-      "name": "Mouchoirs 3 plis 6 \u00e9tuis",
-      "prix_base": 4800,
-      "prix_comparaison": 5400,
-      "indice_prix": 112.5
+      "cle": "cirages_3239cirageclassicincolorepourchaussurebufalo75ml_html",
+      "name": "Cirage classic incolore pour chaussure 75ml",
+      "prix_base": 5500,
+      "prix_comparaison": 10990,
+      "indice_prix": 199.8181818181818
     },
     {
-      "cle": "biscuitssecssables_11495goutychococo_html",
-      "name": "Biscuits Gouty chocolat coco",
-      "prix_base": 900,
-      "prix_comparaison": 1000,
-      "indice_prix": 111.11111111111111
+      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
+      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
+      "prix_base": 6900,
+      "prix_comparaison": 12700,
+      "indice_prix": 184.05797101449275
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
-      "name": "SAMSUNG Galaxy S24 128 Go Argent",
-      "prix_base": 4223000,
-      "prix_comparaison": 3518900,
-      "indice_prix": 83.32701870708027
+      "cle": "promo2023_5666deodorantcaribbeanlemon200ml_html",
+      "name": "D\u00e9odorant Caribbean Lemon 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "indice_prix": 105.71428571428571
     },
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4497000,
-      "prix_comparaison": 3747365,
-      "indice_prix": 83.3303313319991
+      "cle": "promo2023_5669deodorantcucumberetmelon200ml_html",
+      "name": "D\u00e9odorant Cucumber et Melon 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "indice_prix": 105.71428571428571
     }
   ]
 }

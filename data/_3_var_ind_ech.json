@@ -1,122 +1,87 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_papayefrais_",
-      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
-      "prix_base": 10000,
-      "prix_comparaison": 14000,
-      "variation": 4000
-    },
-    {
-      "cle": "produit_macedoinedelegumespretacuisiner_",
-      "name": "Mac\u00e9doine de l\u00e9gumes frais Pr\u00eat \u00e0 cuisiner | 250g",
-      "prix_base": 2000,
-      "prix_comparaison": 3700,
-      "variation": 1700
-    },
-    {
-      "cle": "produit_carottesnaturelles_",
-      "name": "Carottes fra\u00eeches 1kg  | Calibre moyen",
-      "prix_base": 6000,
-      "prix_comparaison": 6700,
-      "variation": 700
-    },
-    {
-      "cle": "produit_haricotrougefrais1kapoakatsaramasomenalena_",
-      "name": "Haricots rouges frais 250 g | Tsaramaso mena lena",
+      "cle": "produit_concombrelegumefrais_",
+      "name": "Concombres 1kg | Calibre Moyen",
       "prix_base": 2000,
       "prix_comparaison": 2700,
       "variation": 700
     },
     {
-      "cle": "produit_haricotsvert1kgavecbouts_",
-      "name": "Haricots verts 1kg Avec bouts",
-      "prix_base": 4700,
-      "prix_comparaison": 5400,
-      "variation": 700
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 3400,
+      "prix_comparaison": 3500,
+      "variation": 100
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_haricotfraistsaramasolena_",
-      "name": "Haricots blancs frais 250g | Tsaramaso lena",
-      "prix_base": 4600,
+      "cle": "produit_champignonnoirseche1kg_",
+      "name": "Champignon Noir S\u00e9ch\u00e9 1Kg",
+      "prix_base": 40000,
+      "prix_comparaison": 37500,
+      "variation": -2500
+    },
+    {
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 3400,
+      "prix_comparaison": 3500,
+      "variation": 100
+    },
+    {
+      "cle": "produit_concombrelegumefrais_",
+      "name": "Concombres 1kg | Calibre Moyen",
+      "prix_base": 2000,
       "prix_comparaison": 2700,
-      "variation": -1900
-    },
-    {
-      "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
-      "name": "Chou Fleur 1 pi\u00e8ce",
-      "prix_base": 5400,
-      "prix_comparaison": 4800,
-      "variation": -600
-    },
-    {
-      "cle": "produit_bredemafana1botteanamalao_",
-      "name": "Anamalao 250g | Br\u00e8des mafana",
-      "prix_base": 700,
-      "prix_comparaison": 1100,
-      "variation": 400
-    },
-    {
-      "cle": "produit_angivy500g_",
-      "name": "Angivy 250g",
-      "prix_base": 1000,
-      "prix_comparaison": 1400,
-      "variation": 400
-    },
-    {
-      "cle": "produit_carottesnaturelles_",
-      "name": "Carottes fra\u00eeches 1kg  | Calibre moyen",
-      "prix_base": 6000,
-      "prix_comparaison": 6700,
       "variation": 700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_macedoinedelegumespretacuisiner_",
-      "name": "Mac\u00e9doine de l\u00e9gumes frais Pr\u00eat \u00e0 cuisiner | 250g",
+      "cle": "produit_concombrelegumefrais_",
+      "name": "Concombres 1kg | Calibre Moyen",
       "prix_base": 2000,
-      "prix_comparaison": 3700,
-      "indice_prix": 185.0
+      "prix_comparaison": 2700,
+      "indice_prix": 135.0
     },
     {
-      "cle": "produit_bredemafana1botteanamalao_",
-      "name": "Anamalao 250g | Br\u00e8des mafana",
-      "prix_base": 700,
-      "prix_comparaison": 1100,
-      "indice_prix": 157.14285714285714
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 3400,
+      "prix_comparaison": 3500,
+      "indice_prix": 102.94117647058823
     },
     {
-      "cle": "produit_papayefrais_",
-      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
-      "prix_base": 10000,
-      "prix_comparaison": 14000,
-      "indice_prix": 140.0
+      "cle": "produit_champignonnoirseche1kg_",
+      "name": "Champignon Noir S\u00e9ch\u00e9 1Kg",
+      "prix_base": 40000,
+      "prix_comparaison": 37500,
+      "indice_prix": 93.75
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_haricotfraistsaramasolena_",
-      "name": "Haricots blancs frais 250g | Tsaramaso lena",
-      "prix_base": 4600,
+      "cle": "produit_champignonnoirseche1kg_",
+      "name": "Champignon Noir S\u00e9ch\u00e9 1Kg",
+      "prix_base": 40000,
+      "prix_comparaison": 37500,
+      "indice_prix": 93.75
+    },
+    {
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 3400,
+      "prix_comparaison": 3500,
+      "indice_prix": 102.94117647058823
+    },
+    {
+      "cle": "produit_concombrelegumefrais_",
+      "name": "Concombres 1kg | Calibre Moyen",
+      "prix_base": 2000,
       "prix_comparaison": 2700,
-      "indice_prix": 58.69565217391305
-    },
-    {
-      "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
-      "name": "Chou Fleur 1 pi\u00e8ce",
-      "prix_base": 5400,
-      "prix_comparaison": 4800,
-      "indice_prix": 88.88888888888889
-    },
-    {
-      "cle": "produit_carottesnaturelles_",
-      "name": "Carottes fra\u00eeches 1kg  | Calibre moyen",
-      "prix_base": 6000,
-      "prix_comparaison": 6700,
-      "indice_prix": 111.66666666666667
+      "indice_prix": 135.0
     }
   ]
 }

@@ -2,49 +2,29 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **VIVLIO - Liseuse Numérique Touch Lux 5 - Noir**
-   - Prix avant: 741,000 Ar
-   - Prix actuel: 820,000 Ar
-   - Variation: +79,000 Ar
-
-2. **PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzenâ¢ 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -**
-   - Prix avant: 2,982,000 Ar
-   - Prix actuel: 3,042,000 Ar
-   - Variation: +60,000 Ar
+1. **Cirage crème auto brillante brun pour chaussure 40ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 12,700 Ar
+   - Variation: +5,800 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **SAMSUNG Galaxy S24 256 Go Indigo**
-   - Prix avant: 4,497,000 Ar
-   - Prix actuel: 3,747,365 Ar
-   - Variation: -749,635 Ar
-
-2. **SAMSUNG Galaxy S24 128 Go Argent**
-   - Prix avant: 4,223,000 Ar
-   - Prix actuel: 3,518,900 Ar
-   - Variation: -704,100 Ar
+1. **Cirage marron en boite 50ml**
+   - Prix avant: 4,300 Ar
+   - Prix actuel: 4,600 Ar
+   - Variation: +300 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Mouchoirs 3 plis 6 étuis**
-   - Prix avant: 4,800 Ar
-   - Prix actuel: 5,400 Ar
-   - Indice de prix : 112.50
-
-2. **Biscuits Gouty chocolat coco**
-   - Prix avant: 900 Ar
-   - Prix actuel: 1,000 Ar
-   - Indice de prix : 111.11
+1. **Liquide vaisselle vinaigre de framboise 500ml**
+   - Prix avant: 4,990 Ar
+   - Prix actuel: 10,500 Ar
+   - Indice de prix : 210.42
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **SAMSUNG Galaxy S24 128 Go Argent**
-   - Prix avant: 4,223,000 Ar
-   - Prix actuel: 3,518,900 Ar
-   - Indice de prix : 83.33
-
-2. **SAMSUNG Galaxy S24 256 Go Indigo**
-   - Prix avant: 4,497,000 Ar
-   - Prix actuel: 3,747,365 Ar
-   - Indice de prix : 83.33
+1. **Tartelettes à l'abricot 200g**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 7,900 Ar
+   - Indice de prix : 105.33
 

@@ -1,104 +1,146 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4497000,
-      "prix_comparaison": 3747365,
-      "variation": -749635
+      "cle": "promo2023_14710deodorantwomenbaiedacai125ml_html",
+      "name": "D\u00e9odorant women baie d'a\u00e7ai 125ml",
+      "prix_base": 6500,
+      "prix_comparaison": 6990,
+      "variation": 490
     },
     {
-      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
-      "name": "SAMSUNG Galaxy S24 128 Go Argent",
-      "prix_base": 4223000,
-      "prix_comparaison": 3518900,
-      "variation": -704100
+      "cle": "promo2023_14713deodorantwomenhibiscus125ml_html",
+      "name": "D\u00e9odorant women hibiscus 125ml",
+      "prix_base": 6500,
+      "prix_comparaison": 6990,
+      "variation": 490
     },
     {
-      "cle": "promo2023_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 6365000,
-      "prix_comparaison": 6202000,
-      "variation": -163000
+      "cle": "promo2023_14712deodorantwomenorchidee125ml_html",
+      "name": "D\u00e9odorant women orchid\u00e9e 125ml",
+      "prix_base": 6500,
+      "prix_comparaison": 6990,
+      "variation": 490
     },
     {
-      "cle": "promo2023_14666iphone15128gbrose_html",
-      "name": "Iphone 15 128GB Rose",
-      "prix_base": 4343000,
-      "prix_comparaison": 4305000,
-      "variation": -38000
+      "cle": "promo2023_14711deodorantwomenvanille125ml_html",
+      "name": "D\u00e9odorant women vanille 125ml",
+      "prix_base": 6500,
+      "prix_comparaison": 6990,
+      "variation": 490
     },
     {
-      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
-      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
-      "prix_base": 1632000,
-      "prix_comparaison": 1611000,
-      "variation": -21000
+      "cle": "promo2023_5666deodorantcaribbeanlemon200ml_html",
+      "name": "D\u00e9odorant Caribbean Lemon 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "variation": 1000
     },
     {
-      "cle": "montresbraceletsconnectes_14790montreconnecteexiaomismartband8activeecran147rose_html",
-      "name": "Montre connect\u00e9e - XIAOMI - Smart Band 8 Active - Ecran 1,47 - Rose",
-      "prix_base": 185000,
-      "prix_comparaison": 183000,
-      "variation": -2000
+      "cle": "promo2023_5669deodorantcucumberetmelon200ml_html",
+      "name": "D\u00e9odorant Cucumber et Melon 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "variation": 1000
     },
     {
-      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
-      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
-      "prix_base": 1574000,
-      "prix_comparaison": 1573000,
-      "variation": -1000
+      "cle": "promo2023_5665deodorantmysticmoments200ml_html",
+      "name": "D\u00e9odorant Mystic Moments 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "variation": 1000
+    },
+    {
+      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
+      "prix_base": 3990,
+      "prix_comparaison": 6500,
+      "variation": 2510
+    },
+    {
+      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
+      "prix_base": 3990,
+      "prix_comparaison": 6500,
+      "variation": 2510
+    },
+    {
+      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
+      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
+      "prix_base": 6900,
+      "prix_comparaison": 12700,
+      "variation": 5800
     }
   ],
   "indice de prix": [
     {
-      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
-      "name": "SAMSUNG Galaxy S24 128 Go Argent",
-      "prix_base": 4223000,
-      "prix_comparaison": 3518900,
-      "indice_prix": 83.32701870708027
+      "cle": "promo2023_5666deodorantcaribbeanlemon200ml_html",
+      "name": "D\u00e9odorant Caribbean Lemon 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "indice_prix": 105.71428571428571
     },
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4497000,
-      "prix_comparaison": 3747365,
-      "indice_prix": 83.3303313319991
+      "cle": "promo2023_5669deodorantcucumberetmelon200ml_html",
+      "name": "D\u00e9odorant Cucumber et Melon 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "indice_prix": 105.71428571428571
     },
     {
-      "cle": "promo2023_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 6365000,
-      "prix_comparaison": 6202000,
-      "indice_prix": 97.43912018853104
+      "cle": "promo2023_5665deodorantmysticmoments200ml_html",
+      "name": "D\u00e9odorant Mystic Moments 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "indice_prix": 105.71428571428571
     },
     {
-      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
-      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
-      "prix_base": 1632000,
-      "prix_comparaison": 1611000,
-      "indice_prix": 98.71323529411765
+      "cle": "promo2023_14710deodorantwomenbaiedacai125ml_html",
+      "name": "D\u00e9odorant women baie d'a\u00e7ai 125ml",
+      "prix_base": 6500,
+      "prix_comparaison": 6990,
+      "indice_prix": 107.53846153846153
     },
     {
-      "cle": "montresbraceletsconnectes_14790montreconnecteexiaomismartband8activeecran147rose_html",
-      "name": "Montre connect\u00e9e - XIAOMI - Smart Band 8 Active - Ecran 1,47 - Rose",
-      "prix_base": 185000,
-      "prix_comparaison": 183000,
-      "indice_prix": 98.91891891891892
+      "cle": "promo2023_14713deodorantwomenhibiscus125ml_html",
+      "name": "D\u00e9odorant women hibiscus 125ml",
+      "prix_base": 6500,
+      "prix_comparaison": 6990,
+      "indice_prix": 107.53846153846153
     },
     {
-      "cle": "promo2023_14666iphone15128gbrose_html",
-      "name": "Iphone 15 128GB Rose",
-      "prix_base": 4343000,
-      "prix_comparaison": 4305000,
-      "indice_prix": 99.12502878194796
+      "cle": "promo2023_14712deodorantwomenorchidee125ml_html",
+      "name": "D\u00e9odorant women orchid\u00e9e 125ml",
+      "prix_base": 6500,
+      "prix_comparaison": 6990,
+      "indice_prix": 107.53846153846153
     },
     {
-      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
-      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
-      "prix_base": 1574000,
-      "prix_comparaison": 1573000,
-      "indice_prix": 99.93646759847522
+      "cle": "promo2023_14711deodorantwomenvanille125ml_html",
+      "name": "D\u00e9odorant women vanille 125ml",
+      "prix_base": 6500,
+      "prix_comparaison": 6990,
+      "indice_prix": 107.53846153846153
+    },
+    {
+      "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic brun pour chaussure 50ml",
+      "prix_base": 3990,
+      "prix_comparaison": 6500,
+      "indice_prix": 162.90726817042608
+    },
+    {
+      "cle": "cirages_3241ciragecremeclassicincolorepourchaussurebufalo50ml_html",
+      "name": "Cirage cr\u00e8me classic incolore pour chaussure 50ml",
+      "prix_base": 3990,
+      "prix_comparaison": 6500,
+      "indice_prix": 162.90726817042608
+    },
+    {
+      "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
+      "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
+      "prix_base": 6900,
+      "prix_comparaison": 12700,
+      "indice_prix": 184.05797101449275
     }
   ]
 }
