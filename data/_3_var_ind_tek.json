@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 11788,
-      "prix_base": 17900,
-      "name": "Tampons avec applicateur normal X20",
-      "prix_comparaison": 23900,
-      "variation": 6000
+      "list_id": 4333,
+      "prix_base": 2200,
+      "name": "Mines 0.5 \u00e9tui de 12 pi\u00e8ces",
+      "prix_comparaison": 2400,
+      "variation": 200
     },
     {
-      "list_id": 11743,
-      "prix_base": 8300,
-      "name": "Prot\u00e8ge-slip large X30",
-      "prix_comparaison": 9000,
-      "variation": 700
+      "list_id": 11617,
+      "prix_base": 45500,
+      "name": "Huile d'olive vierge extra 50 cl",
+      "prix_comparaison": 45600,
+      "variation": 100
+    },
+    {
+      "list_id": 5139,
+      "prix_base": 37700,
+      "name": "Sous chemise 22 x 31 64 g Paquet de 250",
+      "prix_comparaison": 35800,
+      "variation": -1900
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 11743,
-      "prix_base": 8300,
-      "name": "Prot\u00e8ge-slip large X30",
-      "prix_comparaison": 9000,
-      "variation": 700
+      "list_id": 7590,
+      "prix_base": 396000,
+      "name": "Coffre fort num\u00e9rique noir 250*350*250 mm",
+      "prix_comparaison": 340000,
+      "variation": -56000
     },
     {
-      "list_id": 11788,
-      "prix_base": 17900,
-      "name": "Tampons avec applicateur normal X20",
-      "prix_comparaison": 23900,
-      "variation": 6000
+      "list_id": 13202,
+      "prix_base": 21450,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_comparaison": 18100,
+      "variation": -3350
+    },
+    {
+      "list_id": 5139,
+      "prix_base": 37700,
+      "name": "Sous chemise 22 x 31 64 g Paquet de 250",
+      "prix_comparaison": 35800,
+      "variation": -1900
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 11788,
-      "name": "Tampons avec applicateur normal X20",
-      "prix_base": 17900,
-      "prix_comparaison": 23900,
-      "indice_prix": 133.5195530726257
+      "list_id": 4333,
+      "name": "Mines 0.5 \u00e9tui de 12 pi\u00e8ces",
+      "prix_base": 2200,
+      "prix_comparaison": 2400,
+      "indice_prix": 109.0909090909091
     },
     {
-      "list_id": 11743,
-      "name": "Prot\u00e8ge-slip large X30",
-      "prix_base": 8300,
-      "prix_comparaison": 9000,
-      "indice_prix": 108.43373493975903
+      "list_id": 11617,
+      "name": "Huile d'olive vierge extra 50 cl",
+      "prix_base": 45500,
+      "prix_comparaison": 45600,
+      "indice_prix": 100.21978021978022
+    },
+    {
+      "list_id": 5139,
+      "name": "Sous chemise 22 x 31 64 g Paquet de 250",
+      "prix_base": 37700,
+      "prix_comparaison": 35800,
+      "indice_prix": 94.96021220159152
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 11743,
-      "name": "Prot\u00e8ge-slip large X30",
-      "prix_base": 8300,
-      "prix_comparaison": 9000,
-      "indice_prix": 108.43373493975903
+      "list_id": 13202,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_base": 21450,
+      "prix_comparaison": 18100,
+      "indice_prix": 84.38228438228438
     },
     {
-      "list_id": 11788,
-      "name": "Tampons avec applicateur normal X20",
-      "prix_base": 17900,
-      "prix_comparaison": 23900,
-      "indice_prix": 133.5195530726257
+      "list_id": 7590,
+      "name": "Coffre fort num\u00e9rique noir 250*350*250 mm",
+      "prix_base": 396000,
+      "prix_comparaison": 340000,
+      "indice_prix": 85.85858585858585
+    },
+    {
+      "list_id": 5139,
+      "name": "Sous chemise 22 x 31 64 g Paquet de 250",
+      "prix_base": 37700,
+      "prix_comparaison": 35800,
+      "indice_prix": 94.96021220159152
     }
   ]
 }

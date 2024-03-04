@@ -1,6 +1,20 @@
 {
   "prix_augmentes": [
     {
+      "cle": "produit_fevesdecacaobiopuredark80sambika45gsucrebiobeurredecacaobiolecithinedetournesolbioemulsifiant_",
+      "name": "F\u00e8ves de Cacao Bio Pure dark 80% Sambika\u2122 45g |  Sucre bio, Beurre de cacao bio, L\u00e9cithine de tournesol bio (\u00e9mulsifiant)",
+      "prix_base": 8300,
+      "prix_comparaison": 10260,
+      "variation": 1960
+    },
+    {
+      "cle": "produit_persil1botte_",
+      "name": "Persil 1 botte",
+      "prix_base": 2700,
+      "prix_comparaison": 3500,
+      "variation": 800
+    },
+    {
       "cle": "produit_concombrelegumefrais_",
       "name": "Concombres 1kg | Calibre Moyen",
       "prix_base": 2000,
@@ -17,11 +31,25 @@
   ],
   "prix_diminues": [
     {
+      "cle": "produit_6nouilleaupoulet85g_",
+      "name": "Pack de 6 nouille au poulet Matsiro Salone\u2122 85g | P\u00e2tes instantan\u00e9es",
+      "prix_base": 9000,
+      "prix_comparaison": 4200,
+      "variation": -4800
+    },
+    {
       "cle": "produit_champignonnoirseche1kg_",
       "name": "Champignon Noir S\u00e9ch\u00e9 1Kg",
       "prix_base": 40000,
       "prix_comparaison": 37500,
       "variation": -2500
+    },
+    {
+      "cle": "produit_poirekisou1kg_",
+      "name": "Poire kisou 1kg | Fruit frais de Madagascar",
+      "prix_base": 5400,
+      "prix_comparaison": 3500,
+      "variation": -1900
     },
     {
       "cle": "produit_pommessucrees1kggrandcalibre_",
@@ -47,41 +75,41 @@
       "indice_prix": 135.0
     },
     {
-      "cle": "produit_pommessucrees1kggrandcalibre_",
-      "name": "Angivy 1kg",
-      "prix_base": 3400,
+      "cle": "produit_persil1botte_",
+      "name": "Persil 1 botte",
+      "prix_base": 2700,
       "prix_comparaison": 3500,
-      "indice_prix": 102.94117647058823
+      "indice_prix": 129.62962962962962
     },
     {
-      "cle": "produit_champignonnoirseche1kg_",
-      "name": "Champignon Noir S\u00e9ch\u00e9 1Kg",
-      "prix_base": 40000,
-      "prix_comparaison": 37500,
-      "indice_prix": 93.75
+      "cle": "produit_fevesdecacaobiopuredark80sambika45gsucrebiobeurredecacaobiolecithinedetournesolbioemulsifiant_",
+      "name": "F\u00e8ves de Cacao Bio Pure dark 80% Sambika\u2122 45g |  Sucre bio, Beurre de cacao bio, L\u00e9cithine de tournesol bio (\u00e9mulsifiant)",
+      "prix_base": 8300,
+      "prix_comparaison": 10260,
+      "indice_prix": 123.6144578313253
     }
   ],
   "indices_prix_plus_faibles": [
     {
+      "cle": "produit_6nouilleaupoulet85g_",
+      "name": "Pack de 6 nouille au poulet Matsiro Salone\u2122 85g | P\u00e2tes instantan\u00e9es",
+      "prix_base": 9000,
+      "prix_comparaison": 4200,
+      "indice_prix": 46.666666666666664
+    },
+    {
+      "cle": "produit_poirekisou1kg_",
+      "name": "Poire kisou 1kg | Fruit frais de Madagascar",
+      "prix_base": 5400,
+      "prix_comparaison": 3500,
+      "indice_prix": 64.81481481481481
+    },
+    {
       "cle": "produit_champignonnoirseche1kg_",
       "name": "Champignon Noir S\u00e9ch\u00e9 1Kg",
       "prix_base": 40000,
       "prix_comparaison": 37500,
       "indice_prix": 93.75
-    },
-    {
-      "cle": "produit_pommessucrees1kggrandcalibre_",
-      "name": "Angivy 1kg",
-      "prix_base": 3400,
-      "prix_comparaison": 3500,
-      "indice_prix": 102.94117647058823
-    },
-    {
-      "cle": "produit_concombrelegumefrais_",
-      "name": "Concombres 1kg | Calibre Moyen",
-      "prix_base": 2000,
-      "prix_comparaison": 2700,
-      "indice_prix": 135.0
     }
   ]
 }

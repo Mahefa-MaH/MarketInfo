@@ -8,30 +8,79 @@
       "variation": 5800
     },
     {
+      "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
+      "name": "Liquide vaisselle vinaigre de framboise 500ml",
+      "prix_base": 4990,
+      "prix_comparaison": 10500,
+      "variation": 5510
+    },
+    {
       "cle": "cirages_3239cirageclassicincolorepourchaussurebufalo75ml_html",
       "name": "Cirage classic incolore pour chaussure 75ml",
       "prix_base": 5500,
       "prix_comparaison": 10990,
       "variation": 5490
+    },
+    {
+      "cle": "boitespatessachetschat_13884terrinesalavolaillepourchat4x400gtopbudget_html",
+      "name": "Terrines \u00e0 la volaille pour chat 4x400g",
+      "prix_base": 19900,
+      "prix_comparaison": 24900,
+      "variation": 5000
+    },
+    {
+      "cle": "potages_12762soupedepoissonsrecettemediterranieenne730gcapitainecook_html",
+      "name": "Soupe de poissons recette M\u00e9diterran\u00e9enne 730g",
+      "prix_base": 16500,
+      "prix_comparaison": 21500,
+      "variation": 5000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "cirages_11487ciragemarronenboite50ml_html",
-      "name": "Cirage marron en boite 50ml",
-      "prix_base": 4300,
-      "prix_comparaison": 4600,
-      "variation": 300
+      "cle": "huiles_12477huilepourfriture2lboutondor_html",
+      "name": "Huile pour friture 2L",
+      "prix_base": 48900,
+      "prix_comparaison": 37990,
+      "variation": -10910
     },
     {
-      "cle": "cirages_11488cirageneutreenboite50ml_html",
-      "name": "Cirage neutre en boite 50ml",
-      "prix_base": 4300,
-      "prix_comparaison": 4600,
-      "variation": 300
+      "cle": "promo2023_6226huiledetournesol1l_html",
+      "name": "Huile de tournesol 1L",
+      "prix_base": 14500,
+      "prix_comparaison": 12500,
+      "variation": -2000
+    },
+    {
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1600,
+      "prix_comparaison": 990,
+      "variation": -610
+    },
+    {
+      "cle": "promo2023_4833dentifriceblancheuretlumiere50ml_html",
+      "name": "Dentifrice blancheur et lumi\u00e8re 50ml",
+      "prix_base": 10990,
+      "prix_comparaison": 11000,
+      "variation": 10
+    },
+    {
+      "cle": "promo2023_4835dentifricelaserwhite50ml_html",
+      "name": "Dentifrice laser white 50ml",
+      "prix_base": 10990,
+      "prix_comparaison": 11000,
+      "variation": 10
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "detergentvaisselle_3231rainettliquidevaiselleecolabelconcentrevinagreframboiserainett500ml_html",
+      "name": "Liquide vaisselle vinaigre de framboise 500ml",
+      "prix_base": 4990,
+      "prix_comparaison": 10500,
+      "indice_prix": 210.42084168336675
+    },
     {
       "cle": "cirages_3239cirageclassicincolorepourchaussurebufalo75ml_html",
       "name": "Cirage classic incolore pour chaussure 75ml",
@@ -40,27 +89,62 @@
       "indice_prix": 199.8181818181818
     },
     {
+      "cle": "detergentvaisselle_6775liquidevaisselleecologiquedermosensitive500ml_html",
+      "name": "Liquide vaisselle Ecologique Dermosensitive 500ml",
+      "prix_base": 4990,
+      "prix_comparaison": 9850,
+      "indice_prix": 197.39478957915833
+    },
+    {
       "cle": "cirages_3245ciragecremeautobrillantebrunpourchaussurebufalo40ml_html",
       "name": "Cirage cr\u00e8me auto brillante brun pour chaussure 40ml",
       "prix_base": 6900,
       "prix_comparaison": 12700,
       "indice_prix": 184.05797101449275
+    },
+    {
+      "cle": "detergentvaisselle_3232rainettliquidevaiselleecologiquealoeverarainett500ml_html",
+      "name": "Liquide vaisselle aloe vera 500ml",
+      "prix_base": 4990,
+      "prix_comparaison": 8500,
+      "indice_prix": 170.34068136272546
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "promo2023_5666deodorantcaribbeanlemon200ml_html",
-      "name": "D\u00e9odorant Caribbean Lemon 200ml",
-      "prix_base": 17500,
-      "prix_comparaison": 18500,
-      "indice_prix": 105.71428571428571
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1600,
+      "prix_comparaison": 990,
+      "indice_prix": 61.875
     },
     {
-      "cle": "promo2023_5669deodorantcucumberetmelon200ml_html",
-      "name": "D\u00e9odorant Cucumber et Melon 200ml",
-      "prix_base": 17500,
-      "prix_comparaison": 18500,
-      "indice_prix": 105.71428571428571
+      "cle": "huiles_12477huilepourfriture2lboutondor_html",
+      "name": "Huile pour friture 2L",
+      "prix_base": 48900,
+      "prix_comparaison": 37990,
+      "indice_prix": 77.68916155419222
+    },
+    {
+      "cle": "promo2023_6226huiledetournesol1l_html",
+      "name": "Huile de tournesol 1L",
+      "prix_base": 14500,
+      "prix_comparaison": 12500,
+      "indice_prix": 86.20689655172414
+    },
+    {
+      "cle": "promo2023_4833dentifriceblancheuretlumiere50ml_html",
+      "name": "Dentifrice blancheur et lumi\u00e8re 50ml",
+      "prix_base": 10990,
+      "prix_comparaison": 11000,
+      "indice_prix": 100.09099181073704
+    },
+    {
+      "cle": "promo2023_4835dentifricelaserwhite50ml_html",
+      "name": "Dentifrice laser white 50ml",
+      "prix_base": 10990,
+      "prix_comparaison": 11000,
+      "indice_prix": 100.09099181073704
     }
   ]
 }
