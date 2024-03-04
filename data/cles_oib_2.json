@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_1460farinederiz1kg_html",
-      "name": "Farine de riz 1kg",
-      "prix_base": 5000,
-      "prix_comparaison": 5000,
+      "cle": "promo2023_4952rizdeluxemakalioka5kg_html",
+      "name": "Riz de luxe Makalioka 5kg",
+      "prix_base": 19550,
+      "prix_comparaison": 19550,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_7290rizblancdelitasy25kg_html",
-      "name": "Riz blanc de l'Itasy 25kg",
-      "prix_base": 92000,
-      "prix_comparaison": 92000,
+      "cle": "promo2023_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 7500,
+      "prix_comparaison": 7500,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_7291rizblancdelitasy50kg_html",
-      "name": "Riz blanc de l'Itasy 50kg",
-      "prix_base": 184000,
-      "prix_comparaison": 184000,
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14900,
+      "prix_comparaison": 14900,
       "variation": 0,
       "indice_prix": 100.0
     }

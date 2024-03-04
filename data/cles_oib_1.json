@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 7500,
-      "prix_comparaison": 7500,
+      "cle": "promo2023_7290rizblancdelitasy25kg_html",
+      "name": "Riz blanc de l'Itasy 25kg",
+      "prix_base": 92000,
+      "prix_comparaison": 92000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
-      "name": "Sucre blanc en morceaux 1kg",
-      "prix_base": 14900,
-      "prix_comparaison": 14900,
+      "cle": "promo2023_7291rizblancdelitasy50kg_html",
+      "name": "Riz blanc de l'Itasy 50kg",
+      "prix_base": 184000,
+      "prix_comparaison": 184000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "sucres_13804sucreenpoudre1kg_html",
-      "name": "Sucre blanc en poudre 1kg",
-      "prix_base": 10900,
-      "prix_comparaison": 10900,
+      "cle": "riz_7289rizblancdeitasy5kg_html",
+      "name": "Riz blanc de l'Itasy 5kg",
+      "prix_base": 15500,
+      "prix_comparaison": 15500,
       "variation": 0,
       "indice_prix": 100.0
     }

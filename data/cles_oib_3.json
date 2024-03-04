@@ -1,18 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 15500,
-      "prix_comparaison": 15500,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "promo2023_4952rizdeluxemakalioka5kg_html",
-      "name": "Riz de luxe Makalioka 5kg",
-      "prix_base": 19550,
-      "prix_comparaison": 19550,
+      "cle": "sucres_13804sucreenpoudre1kg_html",
+      "name": "Sucre blanc en poudre 1kg",
+      "prix_base": 10900,
+      "prix_comparaison": 10900,
       "variation": 0,
       "indice_prix": 100.0
     },
@@ -21,6 +13,14 @@
       "name": "Riz de table Makalioka 5kg",
       "prix_base": 18990,
       "prix_comparaison": 18990,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_11442rizgasymena1kg_html",
+      "name": "Riz gasy mena  1kg",
+      "prix_base": 4250,
+      "prix_comparaison": 4250,
       "variation": 0,
       "indice_prix": 100.0
     }
