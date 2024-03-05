@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_sucreblanc500genvrac_",
-      "name": "Sucre blanc 500g | En vrac",
-      "prix_base": 3200,
-      "prix_comparaison": 3700,
-      "variation": 500
+      "cle": "produit_fevesdecacaobiopuredark80sambika45gsucrebiobeurredecacaobiolecithinedetournesolbioemulsifiant_",
+      "name": "F\u00e8ves de Cacao Bio Pure dark 80% Sambika\u2122 45g |  Sucre bio, Beurre de cacao bio, L\u00e9cithine de tournesol bio (\u00e9mulsifiant)",
+      "prix_base": 8300,
+      "prix_comparaison": 10260,
+      "variation": 1960
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_sucreblanc500genvrac_",
-      "name": "Sucre blanc 500g | En vrac",
-      "prix_base": 3200,
-      "prix_comparaison": 3700,
-      "indice_prix": 115.625
+      "cle": "produit_fevesdecacaobiopuredark80sambika45gsucrebiobeurredecacaobiolecithinedetournesolbioemulsifiant_",
+      "name": "F\u00e8ves de Cacao Bio Pure dark 80% Sambika\u2122 45g |  Sucre bio, Beurre de cacao bio, L\u00e9cithine de tournesol bio (\u00e9mulsifiant)",
+      "prix_base": 8300,
+      "prix_comparaison": 10260,
+      "indice_prix": 123.6144578313253
     }
   ]
 }

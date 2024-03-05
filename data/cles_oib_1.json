@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_7290rizblancdelitasy25kg_html",
-      "name": "Riz blanc de l'Itasy 25kg",
-      "prix_base": 92000,
-      "prix_comparaison": 92000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "promo2023_7291rizblancdelitasy50kg_html",
-      "name": "Riz blanc de l'Itasy 50kg",
-      "prix_base": 184000,
-      "prix_comparaison": 184000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
+      "cle": "huiles_8994huiledesoja1l_html",
+      "name": "Huile de soja 1L",
       "prix_base": 15500,
       "prix_comparaison": 15500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 8900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_1894huiledesoja20lhina_html",
+      "name": "Huile de soja Hina 20L",
+      "prix_base": 179400,
+      "prix_comparaison": 179400,
       "variation": 0,
       "indice_prix": 100.0
     }

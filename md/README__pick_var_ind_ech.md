@@ -2,17 +2,17 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Sucre blanc 500g | En vrac**
-   - Prix avant: 3,200 Ar
-   - Prix actuel: 3,700 Ar
-   - Variation: +500 Ar
+1. **Fèves de Cacao Bio Pure dark 80% Sambika™ 45g |  Sucre bio, Beurre de cacao bio, Lécithine de tournesol bio (émulsifiant)**
+   - Prix avant: 8,300 Ar
+   - Prix actuel: 10,260 Ar
+   - Variation: +1,960 Ar
 
 
 
 ## Indice de prix
 
-1. **Sucre blanc 500g | En vrac**
-   - Prix avant: 3,200 Ar
-   - Prix actuel: 3,700 Ar
-   - Indice de prix : 115.62
+1. **Fèves de Cacao Bio Pure dark 80% Sambika™ 45g |  Sucre bio, Beurre de cacao bio, Lécithine de tournesol bio (émulsifiant)**
+   - Prix avant: 8,300 Ar
+   - Prix actuel: 10,260 Ar
+   - Indice de prix : 123.61
 

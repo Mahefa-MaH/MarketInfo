@@ -1,6 +1,13 @@
 {
   "Variation de prix": [
     {
+      "cle": "promo2023_5469deodorantmenthebergamoterollon50ml_html",
+      "name": "D\u00e9odorant menthe & bergamote roll on 50ml",
+      "prix_base": 9500,
+      "prix_comparaison": 9600,
+      "variation": 100
+    },
+    {
       "cle": "promo2023_14710deodorantwomenbaiedacai125ml_html",
       "name": "D\u00e9odorant women baie d'a\u00e7ai 125ml",
       "prix_base": 6500,
@@ -29,6 +36,13 @@
       "variation": 490
     },
     {
+      "cle": "promo2023_5468deodorantaqua200ml_html",
+      "name": "D\u00e9odorant aqua 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "variation": 1000
+    },
+    {
       "cle": "promo2023_5666deodorantcaribbeanlemon200ml_html",
       "name": "D\u00e9odorant Caribbean Lemon 200ml",
       "prix_base": 17500,
@@ -48,6 +62,20 @@
       "prix_base": 17500,
       "prix_comparaison": 18500,
       "variation": 1000
+    },
+    {
+      "cle": "promo2023_5467deodorantsport200ml_html",
+      "name": "D\u00e9odorant sport 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "variation": 1000
+    },
+    {
+      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
+      "prix_base": 14500,
+      "prix_comparaison": 16900,
+      "variation": 2400
     },
     {
       "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
@@ -73,6 +101,20 @@
   ],
   "indice de prix": [
     {
+      "cle": "promo2023_5469deodorantmenthebergamoterollon50ml_html",
+      "name": "D\u00e9odorant menthe & bergamote roll on 50ml",
+      "prix_base": 9500,
+      "prix_comparaison": 9600,
+      "indice_prix": 101.05263157894737
+    },
+    {
+      "cle": "promo2023_5468deodorantaqua200ml_html",
+      "name": "D\u00e9odorant aqua 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "indice_prix": 105.71428571428571
+    },
+    {
       "cle": "promo2023_5666deodorantcaribbeanlemon200ml_html",
       "name": "D\u00e9odorant Caribbean Lemon 200ml",
       "prix_base": 17500,
@@ -89,6 +131,13 @@
     {
       "cle": "promo2023_5665deodorantmysticmoments200ml_html",
       "name": "D\u00e9odorant Mystic Moments 200ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18500,
+      "indice_prix": 105.71428571428571
+    },
+    {
+      "cle": "promo2023_5467deodorantsport200ml_html",
+      "name": "D\u00e9odorant sport 200ml",
       "prix_base": 17500,
       "prix_comparaison": 18500,
       "indice_prix": 105.71428571428571
@@ -120,6 +169,13 @@
       "prix_base": 6500,
       "prix_comparaison": 6990,
       "indice_prix": 107.53846153846153
+    },
+    {
+      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
+      "prix_base": 14500,
+      "prix_comparaison": 16900,
+      "indice_prix": 116.55172413793103
     },
     {
       "cle": "cirages_3242ciragecremeclassicbrunpourchaussurebufalo50ml_html",
