@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Mines 0.5 étui de 12 pièces**
-   - Prix avant: 2,200 Ar
-   - Prix actuel: 2,400 Ar
-   - Variation: +200 Ar
+1. **Serviette hygiénique Maxi Fresh Extra Long 8 Pièces**
+   - Prix avant: 4,900 Ar
+   - Prix actuel: 6,000 Ar
+   - Variation: +1,100 Ar
 
-2. **Huile d'olive vierge extra 50 cl**
-   - Prix avant: 45,500 Ar
-   - Prix actuel: 45,600 Ar
-   - Variation: +100 Ar
+2. **Sucre Blanc Cristallisé 1 Kg**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 6,900 Ar
+   - Variation: -300 Ar
 
-3. **Sous chemise 22 x 31 64 g Paquet de 250**
-   - Prix avant: 37,700 Ar
-   - Prix actuel: 35,800 Ar
-   - Variation: -1,900 Ar
+3. **Balls Fromage Kidz paquets de 30 sachets**
+   - Prix avant: 12,500 Ar
+   - Prix actuel: 12,019 Ar
+   - Variation: -481 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Coffre fort numérique noir 250*350*250 mm**
-   - Prix avant: 396,000 Ar
-   - Prix actuel: 340,000 Ar
-   - Variation: -56,000 Ar
+1. **Bonbons Soda Cola sachet de 50 pièces 100 g**
+   - Prix avant: 3,900 Ar
+   - Prix actuel: 2,600 Ar
+   - Variation: -1,300 Ar
 
-2. **Infusion Thé saveur Fruits Rouges x 25**
-   - Prix avant: 21,450 Ar
-   - Prix actuel: 18,100 Ar
-   - Variation: -3,350 Ar
+2. **Balls Fromage Kidz paquets de 30 sachets**
+   - Prix avant: 12,500 Ar
+   - Prix actuel: 12,019 Ar
+   - Variation: -481 Ar
 
-3. **Sous chemise 22 x 31 64 g Paquet de 250**
-   - Prix avant: 37,700 Ar
-   - Prix actuel: 35,800 Ar
-   - Variation: -1,900 Ar
+3. **Sucre Blanc Cristallisé 1 Kg**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 6,900 Ar
+   - Variation: -300 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Mines 0.5 étui de 12 pièces**
-   - Prix avant: 2,200 Ar
-   - Prix actuel: 2,400 Ar
-   - Indice de prix : 109.09
+1. **Serviette hygiénique Maxi Fresh Extra Long 8 Pièces**
+   - Prix avant: 4,900 Ar
+   - Prix actuel: 6,000 Ar
+   - Indice de prix : 122.45
 
-2. **Huile d'olive vierge extra 50 cl**
-   - Prix avant: 45,500 Ar
-   - Prix actuel: 45,600 Ar
-   - Indice de prix : 100.22
+2. **Balls Fromage Kidz paquets de 30 sachets**
+   - Prix avant: 12,500 Ar
+   - Prix actuel: 12,019 Ar
+   - Indice de prix : 96.15
 
-3. **Sous chemise 22 x 31 64 g Paquet de 250**
-   - Prix avant: 37,700 Ar
-   - Prix actuel: 35,800 Ar
-   - Indice de prix : 94.96
+3. **Sucre Blanc Cristallisé 1 Kg**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 6,900 Ar
+   - Indice de prix : 95.83
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Infusion Thé saveur Fruits Rouges x 25**
-   - Prix avant: 21,450 Ar
-   - Prix actuel: 18,100 Ar
-   - Indice de prix : 84.38
+1. **Bonbons Soda Cola sachet de 50 pièces 100 g**
+   - Prix avant: 3,900 Ar
+   - Prix actuel: 2,600 Ar
+   - Indice de prix : 66.67
 
-2. **Coffre fort numérique noir 250*350*250 mm**
-   - Prix avant: 396,000 Ar
-   - Prix actuel: 340,000 Ar
-   - Indice de prix : 85.86
+2. **Sucre Blanc Cristallisé 1 Kg**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 6,900 Ar
+   - Indice de prix : 95.83
 
-3. **Sous chemise 22 x 31 64 g Paquet de 250**
-   - Prix avant: 37,700 Ar
-   - Prix actuel: 35,800 Ar
-   - Indice de prix : 94.96
+3. **Balls Fromage Kidz paquets de 30 sachets**
+   - Prix avant: 12,500 Ar
+   - Prix actuel: 12,019 Ar
+   - Indice de prix : 96.15
 
