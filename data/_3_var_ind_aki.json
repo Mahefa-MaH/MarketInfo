@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod010062",
-      "name": "Krazy - Vetsin - 250g",
-      "prix_base": 1700,
-      "prix_comparaison": 1800,
-      "variation": 100
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009698",
-      "name": "Jua - Moutarde de Dijon - 260ml",
-      "prix_base": 6800,
-      "prix_comparaison": 6600,
-      "variation": -200
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod006408",
-      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
-      "prix_base": 9900,
-      "prix_comparaison": 9300,
-      "variation": -600
+      "cle": "home_jspbutvente_fichecleproduitprod004793",
+      "name": "1er choix - Sauce huitre - 710g",
+      "prix_base": 11000,
+      "prix_comparaison": 8100,
+      "variation": -2900
     }
   ],
   "prix_diminues": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod006408",
-      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
-      "prix_base": 9900,
-      "prix_comparaison": 9300,
-      "variation": -600
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009698",
-      "name": "Jua - Moutarde de Dijon - 260ml",
-      "prix_base": 6800,
-      "prix_comparaison": 6600,
-      "variation": -200
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod010062",
-      "name": "Krazy - Vetsin - 250g",
-      "prix_base": 1700,
-      "prix_comparaison": 1800,
-      "variation": 100
+      "cle": "home_jspbutvente_fichecleproduitprod004793",
+      "name": "1er choix - Sauce huitre - 710g",
+      "prix_base": 11000,
+      "prix_comparaison": 8100,
+      "variation": -2900
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod010062",
-      "name": "Krazy - Vetsin - 250g",
-      "prix_base": 1700,
-      "prix_comparaison": 1800,
-      "indice_prix": 105.88235294117646
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009698",
-      "name": "Jua - Moutarde de Dijon - 260ml",
-      "prix_base": 6800,
-      "prix_comparaison": 6600,
-      "indice_prix": 97.05882352941177
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod006408",
-      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
-      "prix_base": 9900,
-      "prix_comparaison": 9300,
-      "indice_prix": 93.93939393939394
+      "cle": "home_jspbutvente_fichecleproduitprod004793",
+      "name": "1er choix - Sauce huitre - 710g",
+      "prix_base": 11000,
+      "prix_comparaison": 8100,
+      "indice_prix": 73.63636363636364
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod006408",
-      "name": "1er choix - Galettes de Riz jaune - 22Cm 300 g",
-      "prix_base": 9900,
-      "prix_comparaison": 9300,
-      "indice_prix": 93.93939393939394
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009698",
-      "name": "Jua - Moutarde de Dijon - 260ml",
-      "prix_base": 6800,
-      "prix_comparaison": 6600,
-      "indice_prix": 97.05882352941177
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod010062",
-      "name": "Krazy - Vetsin - 250g",
-      "prix_base": 1700,
-      "prix_comparaison": 1800,
-      "indice_prix": 105.88235294117646
+      "cle": "home_jspbutvente_fichecleproduitprod004793",
+      "name": "1er choix - Sauce huitre - 710g",
+      "prix_base": 11000,
+      "prix_comparaison": 8100,
+      "indice_prix": 73.63636363636364
     }
   ]
 }
