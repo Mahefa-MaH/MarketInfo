@@ -8,3 +8,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
+2. **Sucre blanc 1kg | en vrac**
+   - Prix avant: 6,200 Ar
+   - Prix actuel: 6,200 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+

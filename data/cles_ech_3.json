@@ -7,6 +7,14 @@
       "prix_comparaison": 9510,
       "variation": 0,
       "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sucreblanc1kg_",
+      "name": "Sucre blanc 1kg | en vrac",
+      "prix_base": 6200,
+      "prix_comparaison": 6200,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
