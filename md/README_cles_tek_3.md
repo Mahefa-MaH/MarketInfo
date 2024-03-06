@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucrettes blanches  50 g**
-   - Prix avant: 6,300 Ar
-   - Prix actuel: 6,300 Ar
+3. **Riz rouge long grain complet 500 g**
+   - Prix avant: 11,900 Ar
+   - Prix actuel: 11,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
