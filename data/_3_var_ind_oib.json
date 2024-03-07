@@ -6,57 +6,15 @@
       "prix_base": 33500,
       "prix_comparaison": 49000,
       "variation": 15500
-    },
-    {
-      "cle": "conservesautreslegumes_81lentillesprepareesjeannicola800g_html",
-      "name": "Lentilles pr\u00e9par\u00e9es 800g",
-      "prix_base": 9300,
-      "prix_comparaison": 14900,
-      "variation": 5600
-    },
-    {
-      "cle": "conservesautreslegumes_60haricotsblancsalatomate400g_html",
-      "name": "Haricots blancs \u00e0 la tomate 400g",
-      "prix_base": 6500,
-      "prix_comparaison": 10900,
-      "variation": 4400
-    },
-    {
-      "cle": "conservesdelegumesverts_97petitspoisfinsdaucy400g_html",
-      "name": "Petits pois fins 400g",
-      "prix_base": 6500,
-      "prix_comparaison": 9900,
-      "variation": 3400
     }
   ],
   "prix_diminues": [
     {
-      "cle": "conservesdelegumesverts_97petitspoisfinsdaucy400g_html",
-      "name": "Petits pois fins 400g",
+      "cle": "chewinggum_10425chewinggumballs28pieces70g_html",
+      "name": "Chewing-gum balls 28 pi\u00e8ces 70g",
       "prix_base": 6500,
-      "prix_comparaison": 9900,
-      "variation": 3400
-    },
-    {
-      "cle": "conservesautreslegumes_60haricotsblancsalatomate400g_html",
-      "name": "Haricots blancs \u00e0 la tomate 400g",
-      "prix_base": 6500,
-      "prix_comparaison": 10900,
-      "variation": 4400
-    },
-    {
-      "cle": "conservesautreslegumes_81lentillesprepareesjeannicola800g_html",
-      "name": "Lentilles pr\u00e9par\u00e9es 800g",
-      "prix_base": 9300,
-      "prix_comparaison": 14900,
-      "variation": 5600
-    },
-    {
-      "cle": "conservesautreslegumes_58haricotsblancs4250gmaingourd_html",
-      "name": "Haricots blancs 4,250kg",
-      "prix_base": 33500,
-      "prix_comparaison": 49000,
-      "variation": 15500
+      "prix_comparaison": 4700,
+      "variation": -1800
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,57 +24,15 @@
       "prix_base": 6500,
       "prix_comparaison": 10900,
       "indice_prix": 167.69230769230768
-    },
-    {
-      "cle": "conservesautreslegumes_81lentillesprepareesjeannicola800g_html",
-      "name": "Lentilles pr\u00e9par\u00e9es 800g",
-      "prix_base": 9300,
-      "prix_comparaison": 14900,
-      "indice_prix": 160.21505376344086
-    },
-    {
-      "cle": "conservesdelegumesverts_97petitspoisfinsdaucy400g_html",
-      "name": "Petits pois fins 400g",
-      "prix_base": 6500,
-      "prix_comparaison": 9900,
-      "indice_prix": 152.30769230769232
-    },
-    {
-      "cle": "conservesautreslegumes_58haricotsblancs4250gmaingourd_html",
-      "name": "Haricots blancs 4,250kg",
-      "prix_base": 33500,
-      "prix_comparaison": 49000,
-      "indice_prix": 146.26865671641792
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "conservesautreslegumes_58haricotsblancs4250gmaingourd_html",
-      "name": "Haricots blancs 4,250kg",
-      "prix_base": 33500,
-      "prix_comparaison": 49000,
-      "indice_prix": 146.26865671641792
-    },
-    {
-      "cle": "conservesdelegumesverts_97petitspoisfinsdaucy400g_html",
-      "name": "Petits pois fins 400g",
+      "cle": "chewinggum_10425chewinggumballs28pieces70g_html",
+      "name": "Chewing-gum balls 28 pi\u00e8ces 70g",
       "prix_base": 6500,
-      "prix_comparaison": 9900,
-      "indice_prix": 152.30769230769232
-    },
-    {
-      "cle": "conservesautreslegumes_81lentillesprepareesjeannicola800g_html",
-      "name": "Lentilles pr\u00e9par\u00e9es 800g",
-      "prix_base": 9300,
-      "prix_comparaison": 14900,
-      "indice_prix": 160.21505376344086
-    },
-    {
-      "cle": "conservesautreslegumes_60haricotsblancsalatomate400g_html",
-      "name": "Haricots blancs \u00e0 la tomate 400g",
-      "prix_base": 6500,
-      "prix_comparaison": 10900,
-      "indice_prix": 167.69230769230768
+      "prix_comparaison": 4700,
+      "indice_prix": 72.3076923076923
     }
   ]
 }
