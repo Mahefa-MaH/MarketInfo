@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_gingembre500g_",
-      "name": "Gingembre 500g",
-      "prix_base": 2000,
-      "prix_comparaison": 2600,
-      "variation": 600
+      "cle": "produit_ciment50kgorimbatoholcim_",
+      "name": "Ciment 50kg Orimbato Holcim\u2122",
+      "prix_base": 47440,
+      "prix_comparaison": 48720,
+      "variation": 1280
     },
     {
-      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |  Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 3500,
-      "prix_comparaison": 4000,
+      "cle": "produit_laitconcentresucretople380g_",
+      "name": "Lait Concentr\u00e9 Sucr\u00e9 Topl\u00e9\u2122 380g",
+      "prix_base": 6670,
+      "prix_comparaison": 7435,
+      "variation": 765
+    },
+    {
+      "cle": "produit_saladeverte1piecelegumefrais_",
+      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
+      "prix_base": 1500,
+      "prix_comparaison": 2000,
       "variation": 500
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |  Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 3500,
-      "prix_comparaison": 4000,
+      "cle": "produit_saladeverte1piecelegumefrais_",
+      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
+      "prix_base": 1500,
+      "prix_comparaison": 2000,
       "variation": 500
     },
     {
-      "cle": "produit_gingembre500g_",
-      "name": "Gingembre 500g",
-      "prix_base": 2000,
-      "prix_comparaison": 2600,
-      "variation": 600
+      "cle": "produit_laitconcentresucretople380g_",
+      "name": "Lait Concentr\u00e9 Sucr\u00e9 Topl\u00e9\u2122 380g",
+      "prix_base": 6670,
+      "prix_comparaison": 7435,
+      "variation": 765
+    },
+    {
+      "cle": "produit_ciment50kgorimbatoholcim_",
+      "name": "Ciment 50kg Orimbato Holcim\u2122",
+      "prix_base": 47440,
+      "prix_comparaison": 48720,
+      "variation": 1280
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_gingembre500g_",
-      "name": "Gingembre 500g",
-      "prix_base": 2000,
-      "prix_comparaison": 2600,
-      "indice_prix": 130.0
+      "cle": "produit_saladeverte1piecelegumefrais_",
+      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
+      "prix_base": 1500,
+      "prix_comparaison": 2000,
+      "indice_prix": 133.33333333333334
     },
     {
-      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |  Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 3500,
-      "prix_comparaison": 4000,
-      "indice_prix": 114.28571428571429
+      "cle": "produit_laitconcentresucretople380g_",
+      "name": "Lait Concentr\u00e9 Sucr\u00e9 Topl\u00e9\u2122 380g",
+      "prix_base": 6670,
+      "prix_comparaison": 7435,
+      "indice_prix": 111.46926536731634
+    },
+    {
+      "cle": "produit_ciment50kgorimbatoholcim_",
+      "name": "Ciment 50kg Orimbato Holcim\u2122",
+      "prix_base": 47440,
+      "prix_comparaison": 48720,
+      "indice_prix": 102.6981450252951
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |  Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 3500,
-      "prix_comparaison": 4000,
-      "indice_prix": 114.28571428571429
+      "cle": "produit_ciment50kgorimbatoholcim_",
+      "name": "Ciment 50kg Orimbato Holcim\u2122",
+      "prix_base": 47440,
+      "prix_comparaison": 48720,
+      "indice_prix": 102.6981450252951
     },
     {
-      "cle": "produit_gingembre500g_",
-      "name": "Gingembre 500g",
-      "prix_base": 2000,
-      "prix_comparaison": 2600,
-      "indice_prix": 130.0
+      "cle": "produit_laitconcentresucretople380g_",
+      "name": "Lait Concentr\u00e9 Sucr\u00e9 Topl\u00e9\u2122 380g",
+      "prix_base": 6670,
+      "prix_comparaison": 7435,
+      "indice_prix": 111.46926536731634
+    },
+    {
+      "cle": "produit_saladeverte1piecelegumefrais_",
+      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
+      "prix_base": 1500,
+      "prix_comparaison": 2000,
+      "indice_prix": 133.33333333333334
     }
   ]
 }

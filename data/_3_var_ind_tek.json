@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 1641,
-      "prix_base": 18800,
-      "name": "Shampooing Total Care 250 Ml",
-      "prix_comparaison": 18000,
-      "variation": -800
+      "list_id": 2803,
+      "prix_base": 62100,
+      "name": "Croquettes pour chien Dog Adulte Mini 3 Kg",
+      "prix_comparaison": 79200,
+      "variation": 17100
+    },
+    {
+      "list_id": 1665,
+      "prix_base": 27100,
+      "name": "rasoirs Blue 3 Sensitive 6Ct",
+      "prix_comparaison": 28200,
+      "variation": 1100
+    },
+    {
+      "list_id": 1664,
+      "prix_base": 13800,
+      "name": "rasoirs Blue 3 Sensitive 3Ct",
+      "prix_comparaison": 14600,
+      "variation": 800
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 1641,
-      "prix_base": 18800,
-      "name": "Shampooing Total Care 250 Ml",
-      "prix_comparaison": 18000,
-      "variation": -800
+      "list_id": 5531,
+      "prix_base": 7600,
+      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 100 ml",
+      "prix_comparaison": 6200,
+      "variation": -1400
+    },
+    {
+      "list_id": 1659,
+      "prix_base": 31300,
+      "name": "Shampooing Classic Clean Bl 500Ml",
+      "prix_comparaison": 30000,
+      "variation": -1300
+    },
+    {
+      "list_id": 1660,
+      "prix_base": 31300,
+      "name": "Shampooing Menthol 500Ml",
+      "prix_comparaison": 30000,
+      "variation": -1300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 1641,
-      "name": "Shampooing Total Care 250 Ml",
-      "prix_base": 18800,
-      "prix_comparaison": 18000,
-      "indice_prix": 95.74468085106383
+      "list_id": 2803,
+      "name": "Croquettes pour chien Dog Adulte Mini 3 Kg",
+      "prix_base": 62100,
+      "prix_comparaison": 79200,
+      "indice_prix": 127.53623188405797
+    },
+    {
+      "list_id": 3162,
+      "name": "Poudre Caf\u00e9 Brown Coffee 3En1 30 G",
+      "prix_base": 1100,
+      "prix_comparaison": 1200,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 1664,
+      "name": "rasoirs Blue 3 Sensitive 3Ct",
+      "prix_base": 13800,
+      "prix_comparaison": 14600,
+      "indice_prix": 105.79710144927536
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 1641,
-      "name": "Shampooing Total Care 250 Ml",
-      "prix_base": 18800,
-      "prix_comparaison": 18000,
-      "indice_prix": 95.74468085106383
+      "list_id": 5531,
+      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 100 ml",
+      "prix_base": 7600,
+      "prix_comparaison": 6200,
+      "indice_prix": 81.57894736842105
+    },
+    {
+      "list_id": 5509,
+      "name": "Liquide Vaisselle Fleurs de cerisier Mini 250 ml",
+      "prix_base": 1400,
+      "prix_comparaison": 1200,
+      "indice_prix": 85.71428571428571
+    },
+    {
+      "list_id": 5514,
+      "name": "Liquide Vaisselle Pomme raisin Mini 250 ml",
+      "prix_base": 1400,
+      "prix_comparaison": 1200,
+      "indice_prix": 85.71428571428571
     }
   ]
 }
