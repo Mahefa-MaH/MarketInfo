@@ -1,10 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
-      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
-      "prix_base": 14643000,
-      "prix_comparaison": 14643000,
+      "cle": "ensemblesommiermatelas_52217dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x80x200cmmatelasressortsensaches5412618134469_html",
+      "name": "DEKO DREAM Ensemble matelas+sommier relaxation \u00e9lectrique ERGO 9 Dreamzone - 2x80x200 cm - Matelas ressorts ensach\u00e9s",
+      "prix_base": 10987000,
+      "prix_comparaison": 10987000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
+      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
+      "prix_base": 13118000,
+      "prix_comparaison": 13118000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 12614000,
+      "prix_comparaison": 12614000,
       "variation": 0,
       "indice_prix": 100.0
     }

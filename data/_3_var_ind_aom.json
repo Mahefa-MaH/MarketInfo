@@ -1,150 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ecranordinateur_125173ecranpcgamerincurvesamsungodysseyg8g85sb34uwqhddalleoled01ms175hzhdmi21minidpusbc38806094525175_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY - G8 G85SB - 34'' UWQHD - Dalle OLED - 0.1 ms - 175Hz - HDMI 2.1 / mini DP / USB C 3",
-      "prix_base": 7210000,
-      "prix_comparaison": 9131000,
-      "variation": 1921000
+      "cle": "gpsaccessoire_133464navigateurgpstomtomgonavigator6cartesmondemiseajourwifi0636926106948_html",
+      "name": "Navigateur GPS TOM TOM GO Navigator - 6 - Cartes monde - Mise a jour Wifi",
+      "prix_base": 1159000,
+      "prix_comparaison": 1294000,
+      "variation": 135000
     },
     {
-      "cle": "lavelingesechant_132704lavelingesechanttoutintegrableboschwkd28543frser67kg4kginductionl60cm1355trsminblanc4242005420889_html",
-      "name": "Lave-linge s\u00e9chant int\u00e9grable BOSCH WKD28543FR SER6 - 7 kg / 4 kg - Induction - L60cm - 1355 trs/min - Blanc",
-      "prix_base": 6809000,
-      "prix_comparaison": 8622000,
-      "variation": 1813000
+      "cle": "gpsaccessoire_126829gpsmotogarminzumoxt2mtsgpseumeecran60753759313432_html",
+      "name": "GPS moto - GARMIN - Zumo XT2 MT-S GPS EU/ME - \u00c9cran 6 - Cartes Europe - Wi-Fi, Bluetooth, ANT+",
+      "prix_base": 2398000,
+      "prix_comparaison": 2313000,
+      "variation": -85000
     },
     {
-      "cle": "ecranordinateur_125177ecranpcgamerincurvesamsungodysseyneog8g85nbs32bg850np324kdalleminiledva1ms240hzhdmidp8806094796582_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY NEO G8 - G85NB S32BG850NP - 32'' 4k - Dalle Mini LED VA - 1 ms - 240Hz - HDMI / DP",
-      "prix_base": 6138000,
-      "prix_comparaison": 7772000,
-      "variation": 1634000
-    },
-    {
-      "cle": "lavevaisselle_100097lavevaisselletoutintegrablesiemenssn7szx48ce14couvertsinductionl60cm42dbporteaglissiere4242003865316_html",
-      "name": "Lave-vaisselle tout int\u00e9grable SIEMENS SN7SZX48CE iQ500 - 14 couverts - Induction - L60 cm - 42dB - Porte a glissiere",
-      "prix_base": 5690000,
-      "prix_comparaison": 7205000,
-      "variation": 1515000
-    },
-    {
-      "cle": "lavevaisselle_54696lavevaisselleposelibreboschsms6zci48eser614couvertsinductionl60cmhomeconnect42dbinox4242005185061_html",
-      "name": "Lave-vaisselle pose libre BOSCH SMS6ZCI48E SER6 - 14 couverts - Induction - L60cm - Home Connect - 42dB - Inox",
-      "prix_base": 5457000,
-      "prix_comparaison": 6910000,
-      "variation": 1453000
+      "cle": "gpsaccessoire_133463navigateurgpspourvoituretomtomgosuperioravececranhd7etcartesdumonde0636926106931_html",
+      "name": "Navigateur GPS pour voiture TOM TOM GO Superior avec \u00e9cran HD 7 et cartes du monde",
+      "prix_base": 1733000,
+      "prix_comparaison": 1647000,
+      "variation": -86000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "kitbadminton_95834setautoportebadmintonfff3450652053058_html",
-      "name": "Set de Badminton complet avec filet 295 x 38 x 154 cm, raquettes, volants et bo\u00eete de rangement",
-      "prix_base": 733000,
-      "prix_comparaison": 478000,
-      "variation": -255000
-    },
-    {
-      "cle": "ecranordinateur_96178ecranpcsamsungs24c310eau24fhddalleips5ms75hzhdmivga8806094769197_html",
-      "name": "Ecran PC - SAMSUNG - S24C310EAU - 24 FHD - Dalle IPS - 5 ms - 75 Hz - HDMI / VGA",
-      "prix_base": 884000,
-      "prix_comparaison": 798000,
+      "cle": "gpsaccessoire_133463navigateurgpspourvoituretomtomgosuperioravececranhd7etcartesdumonde0636926106931_html",
+      "name": "Navigateur GPS pour voiture TOM TOM GO Superior avec \u00e9cran HD 7 et cartes du monde",
+      "prix_base": 1733000,
+      "prix_comparaison": 1647000,
       "variation": -86000
     },
     {
-      "cle": "puzzle_91257disneypuzzle9000pieceslemuseedisneyravensburgerpuzzleadultesdes14ans4005556149735_html",
-      "name": "Puzzle 9000 pieces Le mus\u00e9e Disney - Ravensburger - Puzzle adultes - Des 14 ans",
-      "prix_base": 842000,
-      "prix_comparaison": 769000,
-      "variation": -73000
+      "cle": "gpsaccessoire_126829gpsmotogarminzumoxt2mtsgpseumeecran60753759313432_html",
+      "name": "GPS moto - GARMIN - Zumo XT2 MT-S GPS EU/ME - \u00c9cran 6 - Cartes Europe - Wi-Fi, Bluetooth, ANT+",
+      "prix_base": 2398000,
+      "prix_comparaison": 2313000,
+      "variation": -85000
     },
     {
-      "cle": "ecranordinateur_93068ecranpcgamersamsungodysseyg300ls24ag304nrxen24fhddalleva1ms144hzfreesyncpremium8806094672220_html",
-      "name": "Ecran PC Gamer - SAMSUNG ODYSSEY G300 - LS24AG304NRXEN - 24 FHD - Dalle VA - 1ms - 144Hz - HDMI / DP - FreeSync Premium",
-      "prix_base": 1208000,
-      "prix_comparaison": 1135000,
-      "variation": -73000
-    },
-    {
-      "cle": "ecranordinateur_133235ecranpcgamingincurvephilipsevnia32m1c5500vl315vaqhd1ms165hz2xhdmi1xdp8712581795962_html",
-      "name": "Ecran PC Gaming incurv\u00e9 - PHILIPS Evnia 32M1C5500VL - 31,5 - VA - QHD - 1ms - 165Hz - 2xHDMI 1xDP",
-      "prix_base": 1993000,
-      "prix_comparaison": 1924000,
-      "variation": -69000
+      "cle": "gpsaccessoire_133464navigateurgpstomtomgonavigator6cartesmondemiseajourwifi0636926106948_html",
+      "name": "Navigateur GPS TOM TOM GO Navigator - 6 - Cartes monde - Mise a jour Wifi",
+      "prix_base": 1159000,
+      "prix_comparaison": 1294000,
+      "variation": 135000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "puzzle_124317clementonipuzzle13200piecesnewyork8005125380091_html",
-      "name": "Clementoni - Puzzle 13200 pieces - New York",
-      "prix_base": 838000,
-      "prix_comparaison": 1119000,
-      "indice_prix": 133.53221957040572
+      "cle": "gpsaccessoire_133464navigateurgpstomtomgonavigator6cartesmondemiseajourwifi0636926106948_html",
+      "name": "Navigateur GPS TOM TOM GO Navigator - 6 - Cartes monde - Mise a jour Wifi",
+      "prix_base": 1159000,
+      "prix_comparaison": 1294000,
+      "indice_prix": 111.64797238999137
     },
     {
-      "cle": "puzzle_99304educapuzzle42000letourdumonde8412668175709_html",
-      "name": "EDUCA - Puzzle - 42000 Le tour du monde",
-      "prix_base": 2059000,
-      "prix_comparaison": 2727000,
-      "indice_prix": 132.44293346284604
+      "cle": "gpsaccessoire_126829gpsmotogarminzumoxt2mtsgpseumeecran60753759313432_html",
+      "name": "GPS moto - GARMIN - Zumo XT2 MT-S GPS EU/ME - \u00c9cran 6 - Cartes Europe - Wi-Fi, Bluetooth, ANT+",
+      "prix_base": 2398000,
+      "prix_comparaison": 2313000,
+      "indice_prix": 96.45537948290242
     },
     {
-      "cle": "lavevaisselle_133641lavevaisselletoutintegrableboschspv2hkx42eser210couvertsinductionl45cm46dbsechageextrablanc4242005415915_html",
-      "name": "Lave-vaisselle tout int\u00e9grable BOSCH SPV2HKX42E SER2 - 10 couverts - Induction - S\u00e9chage extra - Blanc",
-      "prix_base": 3083000,
-      "prix_comparaison": 4069000,
-      "indice_prix": 131.98183587414854
-    },
-    {
-      "cle": "lavevaisselle_125539lavevaissellecompactposelibrebrandtdfc6519b6couvertsl55cm49dbnoir3660767941083_html",
-      "name": "Lave-vaisselle compact pose libre BRANDT DFC6519B - 6 couverts - L55cm - 49 dB - Noir",
-      "prix_base": 1768000,
-      "prix_comparaison": 2320000,
-      "indice_prix": 131.22171945701356
-    },
-    {
-      "cle": "lavevaisselle_88223lavevaisselleintegrableboschsmi4hts31eser412couvertsinductionl60cmhomeconnect46dbbandeauinox4242005194230_html",
-      "name": "Lave-vaisselle int\u00e9grable BOSCH SMI4HTS31E SER4 - 12 couverts - Induction - L60cm - Home Connect - 46 dB - Bandeau inox",
-      "prix_base": 3471000,
-      "prix_comparaison": 4476000,
-      "indice_prix": 128.9541918755402
+      "cle": "gpsaccessoire_133463navigateurgpspourvoituretomtomgosuperioravececranhd7etcartesdumonde0636926106931_html",
+      "name": "Navigateur GPS pour voiture TOM TOM GO Superior avec \u00e9cran HD 7 et cartes du monde",
+      "prix_base": 1733000,
+      "prix_comparaison": 1647000,
+      "indice_prix": 95.03750721292556
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "kitbadminton_95834setautoportebadmintonfff3450652053058_html",
-      "name": "Set de Badminton complet avec filet 295 x 38 x 154 cm, raquettes, volants et bo\u00eete de rangement",
-      "prix_base": 733000,
-      "prix_comparaison": 478000,
-      "indice_prix": 65.21145975443383
+      "cle": "gpsaccessoire_133463navigateurgpspourvoituretomtomgosuperioravececranhd7etcartesdumonde0636926106931_html",
+      "name": "Navigateur GPS pour voiture TOM TOM GO Superior avec \u00e9cran HD 7 et cartes du monde",
+      "prix_base": 1733000,
+      "prix_comparaison": 1647000,
+      "indice_prix": 95.03750721292556
     },
     {
-      "cle": "puzzle_127407miraculouscoffretdactivitesprescolaires4en1clementoni2puzzles6cubesetunmemofabriqueenitalie8005125182893_html",
-      "name": "Coffret d'activit\u00e9s pr\u00e9scolaires 4 en 1 Miraculous - Clementoni - 2 puzzles, 6 cubes et un m\u00e9mo",
-      "prix_base": 144000,
-      "prix_comparaison": 114000,
-      "indice_prix": 79.16666666666667
+      "cle": "gpsaccessoire_126829gpsmotogarminzumoxt2mtsgpseumeecran60753759313432_html",
+      "name": "GPS moto - GARMIN - Zumo XT2 MT-S GPS EU/ME - \u00c9cran 6 - Cartes Europe - Wi-Fi, Bluetooth, ANT+",
+      "prix_base": 2398000,
+      "prix_comparaison": 2313000,
+      "indice_prix": 96.45537948290242
     },
     {
-      "cle": "puzzle_129734puzzlen1000paquarellesdeplumes4005556876402_html",
-      "name": "Puzzle 1000 pieces - Aquarelles de plumes - Nathan - Paysage et nature - Rouge",
-      "prix_base": 172000,
-      "prix_comparaison": 139000,
-      "indice_prix": 80.81395348837209
-    },
-    {
-      "cle": "puzzle_126328clementonicultmoviespuzzle500pieceslesdentsdelamer8005125351114_html",
-      "name": "Puzzle Les dents de la mer - Clementoni - 500 pieces - Collection Cult Movies",
-      "prix_base": 147000,
-      "prix_comparaison": 123000,
-      "indice_prix": 83.6734693877551
-    },
-    {
-      "cle": "puzzle_99340multi4in1disneyencanto4puzzlesprogressifs8412668195813_html",
-      "name": "MULTI 4 IN 1 - DISNEY ENCANTO - 4 puzzles progressifs",
-      "prix_base": 171000,
-      "prix_comparaison": 148000,
-      "indice_prix": 86.54970760233918
+      "cle": "gpsaccessoire_133464navigateurgpstomtomgonavigator6cartesmondemiseajourwifi0636926106948_html",
+      "name": "Navigateur GPS TOM TOM GO Navigator - 6 - Cartes monde - Mise a jour Wifi",
+      "prix_base": 1159000,
+      "prix_comparaison": 1294000,
+      "indice_prix": 111.64797238999137
     }
   ]
 }

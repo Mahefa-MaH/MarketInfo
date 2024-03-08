@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "fromagesduresetrapes_4550mozzamaestrella45rape2500grs_html",
-      "name": "Fromage Mozzarella 45% r\u00e2p\u00e9e 2500g",
-      "prix_base": 140000,
-      "prix_comparaison": 150000,
-      "variation": 10000
-    },
-    {
-      "cle": "conservesautreslegumes_60haricotsblancsalatomate400g_html",
-      "name": "Haricots blancs \u00e0 la tomate 400g",
-      "prix_base": 6500,
-      "prix_comparaison": 10900,
-      "variation": 4400
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_1861yaourtbrassesucre100gvanille_html",
-      "name": "Yaourt brasse sucre vanille 100g",
-      "prix_base": 1090,
-      "prix_comparaison": 990,
-      "variation": -100
+      "cle": "promo2023_14017tommeetippeepreparateuretchauffebiberonsperfectprepdaynighttemperatureexacteutilisationdenuit_html",
+      "name": "TOMMEE TIPPEE Pr\u00e9parateur et Chauffe Biberons Perfect Prep Day & Night, Temp\u00e9rature Exacte, Utilisation de Nuit",
+      "prix_base": 647000,
+      "prix_comparaison": 659000,
+      "variation": 12000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "marmiteetfaitout_11671cocotterondetousfeuxrouge25ldomedia_html",
-      "name": "Cocotte ronde tous feux rouge 2,5L",
-      "prix_base": 210000,
-      "prix_comparaison": 170000,
-      "variation": -40000
-    },
-    {
-      "cle": "moulesetplatsafour_5302mouleatartesiliconeo28cm_html",
-      "name": "Moule \u00e0 tarte silicone \u00d828cm",
-      "prix_base": 51450,
-      "prix_comparaison": 26000,
-      "variation": -25450
-    },
-    {
-      "cle": "platsplateauxcocottesetaccessoires_4161platovaleverre38x25cm_html",
-      "name": "Plat ovale en verre 38x25cm",
-      "prix_base": 58800,
-      "prix_comparaison": 40000,
-      "variation": -18800
+      "cle": "promo2023_14032infantinoportebebeflipergo4en1_html",
+      "name": "INFANTINO Porte B\u00e9b\u00e9 Flip Ergo 4 en 1",
+      "prix_base": 244000,
+      "prix_comparaison": 226000,
+      "variation": -18000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "conservesautreslegumes_60haricotsblancsalatomate400g_html",
-      "name": "Haricots blancs \u00e0 la tomate 400g",
-      "prix_base": 6500,
-      "prix_comparaison": 10900,
-      "indice_prix": 167.69230769230768
-    },
-    {
-      "cle": "fromagesduresetrapes_4550mozzamaestrella45rape2500grs_html",
-      "name": "Fromage Mozzarella 45% r\u00e2p\u00e9e 2500g",
-      "prix_base": 140000,
-      "prix_comparaison": 150000,
-      "indice_prix": 107.14285714285714
-    },
-    {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5990,
-      "prix_comparaison": 5790,
-      "indice_prix": 96.661101836394
+      "cle": "promo2023_9967lavevitremaxi1l_html",
+      "name": "Lave vitre maxi 1L",
+      "prix_base": 3990,
+      "prix_comparaison": 4200,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "sucres_1335sucrerondpurecanne750g_html",
-      "name": "Sucre rond pure canne 750g",
-      "prix_base": 16300,
-      "prix_comparaison": 5900,
-      "indice_prix": 36.19631901840491
-    },
-    {
-      "cle": "sucres_1334sucreenpoudre500g_html",
-      "name": "Sucre en poudre 500g",
-      "prix_base": 10400,
-      "prix_comparaison": 4900,
-      "indice_prix": 47.11538461538461
-    },
-    {
-      "cle": "moulesetplatsafour_10057plaquedecuissonmultiusagemetalasimetria33x25cm_html",
-      "name": "Plaque de cuisson multi-usage m\u00e9tal Asimetria 33x25cm",
-      "prix_base": 34900,
-      "prix_comparaison": 17000,
-      "indice_prix": 48.710601719197705
+      "cle": "promo2023_9298shampoinglustrantvoiture1l_html",
+      "name": "Shampoing lustrant voiture 1L",
+      "prix_base": 5700,
+      "prix_comparaison": 4200,
+      "indice_prix": 73.6842105263158
     }
   ]
 }

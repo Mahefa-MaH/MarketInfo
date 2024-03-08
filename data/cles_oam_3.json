@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
-      "prix_base": 12384000,
-      "prix_comparaison": 12384000,
+      "cle": "ensemblesommiermatelas_61839webedensemblematelassommierrelaxation160x200mousse21cmmifermeetequilibrenoiretgrisanthracitecor3700726907115_html",
+      "name": "WEBED Ensemble matelas + sommier relaxation 160 x 200 - Mousse - 21 cm - Mi-ferme et \u00e9quilibr\u00e9 - Noir et gris anthracite - CORDU",
+      "prix_base": 10010000,
+      "prix_comparaison": 10010000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
+      "cle": "ensemblesommiermatelas_52218dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x90x200cmmatelasressortsensaches5412618134476_html",
+      "name": "DEKO DREAM Ensemble matelas+sommier relaxation \u00e9lectrique ERGO 9 Dreamzone - 2x90x200 cm - Matelas ressorts ensach\u00e9s",
+      "prix_base": 11150000,
+      "prix_comparaison": 11150000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 14643000,
+      "prix_comparaison": 14643000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ensemblesommiermatelas_52217dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x80x200cmmatelasressortsensaches5412618134469_html",
-      "name": "DEKO DREAM Ensemble matelas+sommier relaxation \u00e9lectrique ERGO 9 Dreamzone - 2x80x200 cm - Matelas ressorts ensach\u00e9s",
-      "prix_base": 10987000,
-      "prix_comparaison": 10987000,
+      "cle": "machineacafeexpressobroyeur_91317siemensct636les6machineacafeiq700reservoir24l1600wprepare2tass4242003703595_html",
+      "name": "SIEMENS CT636LES6 Machine a caf\u00e9 iQ700 - R\u00e9servoir 2.4L - 1600W - Pr\u00e9pare 2 tass",
+      "prix_base": 13306000,
+      "prix_comparaison": 13143000,
+      "variation": -163000,
+      "indice_prix": 98.77498872689013
+    },
+    {
+      "cle": "refrigerateuramericain_5356samsungrf24r7201srru00e9frigu00e9rateurmultiporte510l348l123l39lfroidventilu00e9plusl908cmxh1777c8801643678708_html",
+      "name": "SAMSUNG RF24R7201SR - R\u00e9frig\u00e9rateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventil\u00e9 plus - L90,8cm x H177,7 cm - Inox",
+      "prix_base": 17179000,
+      "prix_comparaison": 17179000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ensemblesommiermatelas_61839webedensemblematelassommierrelaxation160x200mousse21cmmifermeetequilibrenoiretgrisanthracitecor3700726907115_html",
-      "name": "WEBED Ensemble matelas + sommier relaxation 160 x 200 - Mousse - 21 cm - Mi-ferme et \u00e9quilibr\u00e9 - Noir et gris anthracite - CORDU",
-      "prix_base": 10010000,
-      "prix_comparaison": 10010000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ensemblesommiermatelas_52218dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x90x200cmmatelasressortsensaches5412618134476_html",
-      "name": "DEKO DREAM Ensemble matelas+sommier relaxation \u00e9lectrique ERGO 9 Dreamzone - 2x90x200 cm - Matelas ressorts ensach\u00e9s",
-      "prix_base": 11150000,
-      "prix_comparaison": 11150000,
+      "cle": "machineacafeexpressobroyeur_49156machineacafeexpressobroyeurdelonghiecam65085msgrisconnecteprimadonnaeliteexperience8004399331648_html",
+      "name": "Machine expresso automatique avec broyeur -DELONGHI PrimaDonna Elite Experience ECAM650.85.MS - Gris - Connect\u00e9",
+      "prix_base": 10743000,
+      "prix_comparaison": 10743000,
       "variation": 0,
       "indice_prix": 100.0
     }
