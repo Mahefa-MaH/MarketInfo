@@ -1,29 +1,50 @@
 {
   "prix_augmentes": [
     {
-      "cle": "promo2023_14017tommeetippeepreparateuretchauffebiberonsperfectprepdaynighttemperatureexacteutilisationdenuit_html",
-      "name": "TOMMEE TIPPEE Pr\u00e9parateur et Chauffe Biberons Perfect Prep Day & Night, Temp\u00e9rature Exacte, Utilisation de Nuit",
-      "prix_base": 647000,
-      "prix_comparaison": 659000,
-      "variation": 12000
+      "cle": "tablettestactilesliseuses_14868vivlioliseusenumeriquetouchlux5noir_html",
+      "name": "VIVLIO - Liseuse Num\u00e9rique Touch Lux 5 - Noir",
+      "prix_base": 820000,
+      "prix_comparaison": 900000,
+      "variation": 80000
+    },
+    {
+      "cle": "ordinateursportables_14814pcportablemedionakoyae15423md62540156fhdaintelcorei31115g4ram8gossd256gowindows11homeazerty_html",
+      "name": "PC portable - MEDION - AKOYA E15423 MD62540 - 15,6 FHD \u00e2\u0080\u0093 Intel Core i3-1115G4 - RAM 8 Go - SSD 256Go - Windows 11 Home AZERTY",
+      "prix_base": 1649000,
+      "prix_comparaison": 1670000,
+      "variation": 21000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "promo2023_14032infantinoportebebeflipergo4en1_html",
-      "name": "INFANTINO Porte B\u00e9b\u00e9 Flip Ergo 4 en 1",
-      "prix_base": 244000,
-      "prix_comparaison": 226000,
-      "variation": -18000
+      "cle": "promo2023_14665appleiphone14256gbproductred_html",
+      "name": "APPLE iPhone 14 256GB (PRODUCT)RED",
+      "prix_base": 4721000,
+      "prix_comparaison": 4231000,
+      "variation": -490000
+    },
+    {
+      "cle": "promo2023_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 7780000,
+      "prix_comparaison": 7626000,
+      "variation": -154000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "promo2023_9967lavevitremaxi1l_html",
-      "name": "Lave vitre maxi 1L",
-      "prix_base": 3990,
-      "prix_comparaison": 4200,
-      "indice_prix": 105.26315789473684
+      "cle": "chips_391chipsalthonaturelisse500g_html",
+      "name": "Chips nature lisse 500g",
+      "prix_base": 24900,
+      "prix_comparaison": 27900,
+      "indice_prix": 112.04819277108433
+    },
+    {
+      "cle": "promo2023_6826tagliatelle500g_html",
+      "name": "Tagliatelle 500g",
+      "prix_base": 7690,
+      "prix_comparaison": 8500,
+      "indice_prix": 110.5331599479844
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +54,13 @@
       "prix_base": 5700,
       "prix_comparaison": 4200,
       "indice_prix": 73.6842105263158
+    },
+    {
+      "cle": "gelsetbainsdouche_4204showercreamorangeblossomcremedouchefleurdoranger_html",
+      "name": "Cr\u00e8me douche fleur d'oranger 500ml",
+      "prix_base": 18500,
+      "prix_comparaison": 14700,
+      "indice_prix": 79.45945945945945
     }
   ]
 }

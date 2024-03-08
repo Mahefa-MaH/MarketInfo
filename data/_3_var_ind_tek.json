@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "list_id": 1750,
+      "prix_base": 9700,
+      "name": "dentifrice Complete plus Extra White 75 ml",
+      "prix_comparaison": 11400,
+      "variation": 1700
+    },
+    {
       "list_id": 5615,
       "prix_base": 5900,
       "name": "Gel WC Floral 500 g",
@@ -13,13 +20,6 @@
       "name": "Lave vitre 500 ml",
       "prix_comparaison": 2800,
       "variation": -300
-    },
-    {
-      "list_id": 5535,
-      "prix_base": 5400,
-      "name": "Parfum d'ambiance Fruit\u00e9s 300 ml",
-      "prix_comparaison": 4800,
-      "variation": -600
     }
   ],
   "prix_diminues": [
@@ -47,6 +47,13 @@
   ],
   "indices_prix_plus_eleves": [
     {
+      "list_id": 1750,
+      "name": "dentifrice Complete plus Extra White 75 ml",
+      "prix_base": 9700,
+      "prix_comparaison": 11400,
+      "indice_prix": 117.52577319587628
+    },
+    {
       "list_id": 5615,
       "name": "Gel WC Floral 500 g",
       "prix_base": 5900,
@@ -54,18 +61,11 @@
       "indice_prix": 101.69491525423729
     },
     {
-      "list_id": 5587,
-      "name": "IMPEC Lustrant sol lavable 5 L",
-      "prix_base": 76700,
-      "prix_comparaison": 71300,
-      "indice_prix": 92.95958279009126
-    },
-    {
-      "list_id": 5633,
-      "name": "Gel WC Marine 5 kg",
-      "prix_base": 44600,
-      "prix_comparaison": 40500,
-      "indice_prix": 90.80717488789237
+      "list_id": 1742,
+      "name": "Brosse \u00e0 dent \u00e9lectrique Vitality Sensi Ultra Thin 1 Ct",
+      "prix_base": 132000,
+      "prix_comparaison": 126700,
+      "indice_prix": 95.98484848484848
     }
   ],
   "indices_prix_plus_faibles": [

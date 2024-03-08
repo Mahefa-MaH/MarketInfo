@@ -1,24 +1,95 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_persil500g_",
+      "name": "Persil 500g",
+      "prix_base": 2700,
+      "prix_comparaison": 4800,
+      "variation": 2100
+    },
+    {
+      "cle": "produit_oignonsfrais500ggroscalibre_",
+      "name": "Oignons frais 500g | Gros Calibre",
+      "prix_base": 3500,
+      "prix_comparaison": 3667,
+      "variation": 167
+    }
+  ],
   "prix_diminues": [
+    {
+      "cle": "produit_concombrelegumefrais_",
+      "name": "Concombres 1kg | Calibre Moyen",
+      "prix_base": 2700,
+      "prix_comparaison": 1600,
+      "variation": -1100
+    },
     {
       "cle": "produit_persil1botte_",
       "name": "Persil 1 botte",
       "prix_base": 3500,
       "prix_comparaison": 2700,
       "variation": -800
+    },
+    {
+      "cle": "produit_angivy500g_",
+      "name": "Angivy 250g",
+      "prix_base": 1400,
+      "prix_comparaison": 667,
+      "variation": -733
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 3500,
+      "prix_comparaison": 3467,
+      "variation": -33
+    },
+    {
+      "cle": "produit_oignonsfrais500ggroscalibre_",
+      "name": "Oignons frais 500g | Gros Calibre",
+      "prix_base": 3500,
+      "prix_comparaison": 3667,
+      "variation": 167
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_persil1botte_",
-      "name": "Persil 1 botte",
+      "cle": "produit_persil500g_",
+      "name": "Persil 500g",
+      "prix_base": 2700,
+      "prix_comparaison": 4800,
+      "indice_prix": 177.77777777777777
+    },
+    {
+      "cle": "produit_oignonsfrais500ggroscalibre_",
+      "name": "Oignons frais 500g | Gros Calibre",
       "prix_base": 3500,
-      "prix_comparaison": 2700,
-      "indice_prix": 77.14285714285714
+      "prix_comparaison": 3667,
+      "indice_prix": 104.77142857142857
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 3500,
+      "prix_comparaison": 3467,
+      "indice_prix": 99.05714285714286
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "produit_angivy500g_",
+      "name": "Angivy 250g",
+      "prix_base": 1400,
+      "prix_comparaison": 667,
+      "indice_prix": 47.642857142857146
+    },
+    {
+      "cle": "produit_concombrelegumefrais_",
+      "name": "Concombres 1kg | Calibre Moyen",
+      "prix_base": 2700,
+      "prix_comparaison": 1600,
+      "indice_prix": 59.25925925925926
+    },
     {
       "cle": "produit_persil1botte_",
       "name": "Persil 1 botte",
