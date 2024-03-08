@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Croquettes pour chien Dog Adulte Mini 3 Kg**
-   - Prix avant: 62,100 Ar
-   - Prix actuel: 79,200 Ar
-   - Variation: +17,100 Ar
+1. **Gel WC Floral 500 g**
+   - Prix avant: 5,900 Ar
+   - Prix actuel: 6,000 Ar
+   - Variation: +100 Ar
 
-2. **rasoirs Blue 3 Sensitive 6Ct**
-   - Prix avant: 27,100 Ar
-   - Prix actuel: 28,200 Ar
-   - Variation: +1,100 Ar
+2. **Lave vitre 500 ml**
+   - Prix avant: 3,100 Ar
+   - Prix actuel: 2,800 Ar
+   - Variation: -300 Ar
 
-3. **rasoirs Blue 3 Sensitive 3Ct**
-   - Prix avant: 13,800 Ar
-   - Prix actuel: 14,600 Ar
-   - Variation: +800 Ar
+3. **Parfum d'ambiance Fruités 300 ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 4,800 Ar
+   - Variation: -600 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Purificateur d'air à base d'Huiles essentielles 100 ml**
-   - Prix avant: 7,600 Ar
-   - Prix actuel: 6,200 Ar
-   - Variation: -1,400 Ar
+1. **Désinfectant hydroalcoolique 75% 5 L**
+   - Prix avant: 111,900 Ar
+   - Prix actuel: 77,800 Ar
+   - Variation: -34,100 Ar
 
-2. **Shampooing Classic Clean Bl 500Ml**
-   - Prix avant: 31,300 Ar
-   - Prix actuel: 30,000 Ar
-   - Variation: -1,300 Ar
+2. **Parfum d'ambiance Fruités 5 L**
+   - Prix avant: 65,300 Ar
+   - Prix actuel: 56,700 Ar
+   - Variation: -8,600 Ar
 
-3. **Shampooing Menthol 500Ml**
-   - Prix avant: 31,300 Ar
-   - Prix actuel: 30,000 Ar
-   - Variation: -1,300 Ar
+3. **IMPEC Lustrant sol lavable 5 L**
+   - Prix avant: 76,700 Ar
+   - Prix actuel: 71,300 Ar
+   - Variation: -5,400 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Croquettes pour chien Dog Adulte Mini 3 Kg**
-   - Prix avant: 62,100 Ar
-   - Prix actuel: 79,200 Ar
-   - Indice de prix : 127.54
+1. **Gel WC Floral 500 g**
+   - Prix avant: 5,900 Ar
+   - Prix actuel: 6,000 Ar
+   - Indice de prix : 101.69
 
-2. **Poudre Café Brown Coffee 3En1 30 G**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 1,200 Ar
-   - Indice de prix : 109.09
+2. **IMPEC Lustrant sol lavable 5 L**
+   - Prix avant: 76,700 Ar
+   - Prix actuel: 71,300 Ar
+   - Indice de prix : 92.96
 
-3. **rasoirs Blue 3 Sensitive 3Ct**
-   - Prix avant: 13,800 Ar
-   - Prix actuel: 14,600 Ar
-   - Indice de prix : 105.80
+3. **Gel WC Marine 5 kg**
+   - Prix avant: 44,600 Ar
+   - Prix actuel: 40,500 Ar
+   - Indice de prix : 90.81
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Purificateur d'air à base d'Huiles essentielles 100 ml**
-   - Prix avant: 7,600 Ar
-   - Prix actuel: 6,200 Ar
-   - Indice de prix : 81.58
+1. **Désinfectant hydroalcoolique 75% 5 L**
+   - Prix avant: 111,900 Ar
+   - Prix actuel: 77,800 Ar
+   - Indice de prix : 69.53
 
-2. **Liquide Vaisselle Fleurs de cerisier Mini 250 ml**
-   - Prix avant: 1,400 Ar
-   - Prix actuel: 1,200 Ar
-   - Indice de prix : 85.71
+2. **Désinfectant hydroalcoolique 75% spray 500 ml**
+   - Prix avant: 13,800 Ar
+   - Prix actuel: 11,400 Ar
+   - Indice de prix : 82.61
 
-3. **Liquide Vaisselle Pomme raisin Mini 250 ml**
-   - Prix avant: 1,400 Ar
-   - Prix actuel: 1,200 Ar
-   - Indice de prix : 85.71
+3. **Lingettes désinfectantes hydroalcoolique 75% (pk de 50)**
+   - Prix avant: 11,600 Ar
+   - Prix actuel: 9,700 Ar
+   - Indice de prix : 83.62
 

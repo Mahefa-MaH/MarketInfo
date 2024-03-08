@@ -2,27 +2,27 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Purificateur d'air à base d'Huiles essentielles 100 ml**
-   - Prix avant: 7,600 Ar
-   - Prix actuel: 6,200 Ar
-   - Variation: -1,400 Ar
+1. **Purificateur d'air à base d'Huiles essentielles 500 ml**
+   - Prix avant: 13,100 Ar
+   - Prix actuel: 11,400 Ar
+   - Variation: -1,700 Ar
 
-2. **Parfum d'ambiance aux Huiles essentielles 300 ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 16,800 Ar
-   - Variation: +11,400 Ar
+2. **Spray anti-moustiques naturel aux 5 Huiles Essentielles 100 ml**
+   - Prix avant: 8,400 Ar
+   - Prix actuel: 7,300 Ar
+   - Variation: -1,100 Ar
 
 
 
 ## Indice de prix
 
-1. **Purificateur d'air à base d'Huiles essentielles 100 ml**
-   - Prix avant: 7,600 Ar
-   - Prix actuel: 6,200 Ar
-   - Indice de prix : 81.58
+1. **Spray anti-moustiques naturel aux 5 Huiles Essentielles 100 ml**
+   - Prix avant: 8,400 Ar
+   - Prix actuel: 7,300 Ar
+   - Indice de prix : 86.90
 
-2. **Parfum d'ambiance aux Huiles essentielles 300 ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 16,800 Ar
-   - Indice de prix : 311.11
+2. **Purificateur d'air à base d'Huiles essentielles 500 ml**
+   - Prix avant: 13,100 Ar
+   - Prix actuel: 11,400 Ar
+   - Indice de prix : 87.02
 

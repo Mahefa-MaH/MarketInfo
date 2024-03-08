@@ -1,34 +1,34 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5531,
-      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 100 ml",
-      "prix_base": 7600,
-      "prix_comparaison": 6200,
-      "variation": -1400
+      "list_id": 5532,
+      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 500 ml",
+      "prix_base": 13100,
+      "prix_comparaison": 11400,
+      "variation": -1700
     },
     {
-      "list_id": 5533,
-      "name": "Parfum d'ambiance aux Huiles essentielles 300 ml",
-      "prix_base": 5400,
-      "prix_comparaison": 16800,
-      "variation": 11400
+      "list_id": 5543,
+      "name": "Spray anti-moustiques naturel aux 5 Huiles Essentielles 100 ml",
+      "prix_base": 8400,
+      "prix_comparaison": 7300,
+      "variation": -1100
     }
   ],
   "indice de prix": [
     {
-      "list_id": 5531,
-      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 100 ml",
-      "prix_base": 7600,
-      "prix_comparaison": 6200,
-      "indice_prix": 81.57894736842105
+      "list_id": 5543,
+      "name": "Spray anti-moustiques naturel aux 5 Huiles Essentielles 100 ml",
+      "prix_base": 8400,
+      "prix_comparaison": 7300,
+      "indice_prix": 86.9047619047619
     },
     {
-      "list_id": 5533,
-      "name": "Parfum d'ambiance aux Huiles essentielles 300 ml",
-      "prix_base": 5400,
-      "prix_comparaison": 16800,
-      "indice_prix": 311.1111111111111
+      "list_id": 5532,
+      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 500 ml",
+      "prix_base": 13100,
+      "prix_comparaison": 11400,
+      "indice_prix": 87.02290076335878
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "electricitedomotique_120268onduleurapceasyupssrv6000va230vavecbatterieexterne_html",
-      "name": "Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe",
-      "prix_base": 11000000,
-      "prix_comparaison": 11000000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "electricitedomotique_120267onduleurapcsmartupsrv10000va230v_html",
-      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
-      "prix_base": 17500000,
-      "prix_comparaison": 17500000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
-      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
-      "prix_base": 13103000,
-      "prix_comparaison": 13103000,
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 14643000,
+      "prix_comparaison": 14643000,
       "variation": 0,
       "indice_prix": 100.0
     }
