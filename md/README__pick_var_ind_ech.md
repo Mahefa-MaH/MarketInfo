@@ -2,17 +2,17 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Fèves de Cacao Bio Pure dark 80% Sambika™ 45g |  Sucre bio, Beurre de cacao bio, Lécithine de tournesol bio (émulsifiant)**
-   - Prix avant: 8,300 Ar
-   - Prix actuel: 10,260 Ar
-   - Variation: +1,960 Ar
+1. **Lait Concentré Sucré Toplé™ 380g**
+   - Prix avant: 6,670 Ar
+   - Prix actuel: 7,435 Ar
+   - Variation: +765 Ar
 
 
 
 ## Indice de prix
 
-1. **Fèves de Cacao Bio Pure dark 80% Sambika™ 45g |  Sucre bio, Beurre de cacao bio, Lécithine de tournesol bio (émulsifiant)**
-   - Prix avant: 8,300 Ar
-   - Prix actuel: 10,260 Ar
-   - Indice de prix : 123.61
+1. **Lait Concentré Sucré Toplé™ 380g**
+   - Prix avant: 6,670 Ar
+   - Prix actuel: 7,435 Ar
+   - Indice de prix : 111.47
 
