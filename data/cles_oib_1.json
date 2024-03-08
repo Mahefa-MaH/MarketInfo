@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "promo2023_7290rizblancdelitasy25kg_html",
-      "name": "Riz blanc de l'Itasy 25kg",
-      "prix_base": 92000,
-      "prix_comparaison": 92000,
+      "cle": "huiles_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 8250,
+      "variation": -650,
+      "indice_prix": 92.69662921348315
+    },
+    {
+      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
+      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
+      "prix_base": 3890,
+      "prix_comparaison": 3890,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "promo2023_7291rizblancdelitasy50kg_html",
-      "name": "Riz blanc de l'Itasy 50kg",
-      "prix_base": 184000,
-      "prix_comparaison": 184000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 18400,
-      "prix_comparaison": 18400,
+      "cle": "promo2023_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 7500,
+      "prix_comparaison": 7500,
       "variation": 0,
       "indice_prix": 100.0
     }

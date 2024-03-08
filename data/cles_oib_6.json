@@ -7,6 +7,14 @@
       "prix_comparaison": 5000,
       "variation": 0,
       "indice_prix": 100.0
+    },
+    {
+      "cle": "promo2023_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 8900,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
