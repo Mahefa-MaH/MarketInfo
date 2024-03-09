@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 1750,
-      "prix_base": 9700,
-      "name": "dentifrice Complete plus Extra White 75 ml",
-      "prix_comparaison": 11400,
-      "variation": 1700
-    },
-    {
-      "list_id": 5615,
-      "prix_base": 5900,
-      "name": "Gel WC Floral 500 g",
-      "prix_comparaison": 6000,
-      "variation": 100
-    },
-    {
-      "list_id": 5548,
-      "prix_base": 3100,
-      "name": "Lave vitre 500 ml",
-      "prix_comparaison": 2800,
-      "variation": -300
+      "list_id": 1778,
+      "prix_base": 16500,
+      "name": "Choco 'S 350 g",
+      "prix_comparaison": 20160,
+      "variation": 3660
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 5547,
-      "prix_base": 111900,
-      "name": "D\u00e9sinfectant hydroalcoolique 75% 5 L",
-      "prix_comparaison": 77800,
-      "variation": -34100
-    },
-    {
-      "list_id": 5541,
-      "prix_base": 65300,
-      "name": "Parfum d'ambiance Fruit\u00e9s 5 L",
-      "prix_comparaison": 56700,
-      "variation": -8600
-    },
-    {
-      "list_id": 5587,
-      "prix_base": 76700,
-      "name": "IMPEC Lustrant sol lavable 5 L",
-      "prix_comparaison": 71300,
-      "variation": -5400
+      "list_id": 1778,
+      "prix_base": 16500,
+      "name": "Choco 'S 350 g",
+      "prix_comparaison": 20160,
+      "variation": 3660
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 1750,
-      "name": "dentifrice Complete plus Extra White 75 ml",
-      "prix_base": 9700,
-      "prix_comparaison": 11400,
-      "indice_prix": 117.52577319587628
-    },
-    {
-      "list_id": 5615,
-      "name": "Gel WC Floral 500 g",
-      "prix_base": 5900,
-      "prix_comparaison": 6000,
-      "indice_prix": 101.69491525423729
-    },
-    {
-      "list_id": 1742,
-      "name": "Brosse \u00e0 dent \u00e9lectrique Vitality Sensi Ultra Thin 1 Ct",
-      "prix_base": 132000,
-      "prix_comparaison": 126700,
-      "indice_prix": 95.98484848484848
+      "list_id": 1778,
+      "name": "Choco 'S 350 g",
+      "prix_base": 16500,
+      "prix_comparaison": 20160,
+      "indice_prix": 122.18181818181819
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 5547,
-      "name": "D\u00e9sinfectant hydroalcoolique 75% 5 L",
-      "prix_base": 111900,
-      "prix_comparaison": 77800,
-      "indice_prix": 69.52636282394995
-    },
-    {
-      "list_id": 5545,
-      "name": "D\u00e9sinfectant hydroalcoolique 75% spray 500 ml",
-      "prix_base": 13800,
-      "prix_comparaison": 11400,
-      "indice_prix": 82.6086956521739
-    },
-    {
-      "list_id": 5542,
-      "name": "Lingettes d\u00e9sinfectantes hydroalcoolique 75% (pk de 50)",
-      "prix_base": 11600,
-      "prix_comparaison": 9700,
-      "indice_prix": 83.62068965517241
+      "list_id": 1778,
+      "name": "Choco 'S 350 g",
+      "prix_base": 16500,
+      "prix_comparaison": 20160,
+      "indice_prix": 122.18181818181819
     }
   ]
 }
