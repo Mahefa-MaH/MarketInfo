@@ -8,11 +8,18 @@
       "variation": 80000
     },
     {
-      "cle": "ordinateursportables_14814pcportablemedionakoyae15423md62540156fhdaintelcorei31115g4ram8gossd256gowindows11homeazerty_html",
-      "name": "PC portable - MEDION - AKOYA E15423 MD62540 - 15,6 FHD \u00e2\u0080\u0093 Intel Core i3-1115G4 - RAM 8 Go - SSD 256Go - Windows 11 Home AZERTY",
-      "prix_base": 1649000,
-      "prix_comparaison": 1670000,
-      "variation": 21000
+      "cle": "promo2023_14022moulinexfp244110easyforcerobotmultifonctiontoutenunbol14l5accessoiresplusde20fonctionsdifferentescompact_html",
+      "name": "MOULINEX FP244110 Easy Force Robot multifonction tout en un, Bol 1,4 L, 5 accessoires, Plus de 20 fonctions diff\u00e9rentes, Compact",
+      "prix_base": 658000,
+      "prix_comparaison": 692000,
+      "variation": 34000
+    },
+    {
+      "cle": "promo2023_14021robotmultifonctionscontinentaledisoncerm600b_html",
+      "name": "Robot Multifonctions CONTINENTAL EDISON CERM600B",
+      "prix_base": 324000,
+      "prix_comparaison": 356000,
+      "variation": 32000
     }
   ],
   "prix_diminues": [
@@ -29,6 +36,13 @@
       "prix_base": 7780000,
       "prix_comparaison": 7626000,
       "variation": -154000
+    },
+    {
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 537000,
+      "prix_comparaison": 489000,
+      "variation": -48000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +59,13 @@
       "prix_base": 7690,
       "prix_comparaison": 8500,
       "indice_prix": 110.5331599479844
+    },
+    {
+      "cle": "promo2023_6825tagliatelle235g_html",
+      "name": "Tagliatelle 235g",
+      "prix_base": 3850,
+      "prix_comparaison": 4250,
+      "indice_prix": 110.3896103896104
     }
   ],
   "indices_prix_plus_faibles": [
@@ -58,6 +79,13 @@
     {
       "cle": "gelsetbainsdouche_4204showercreamorangeblossomcremedouchefleurdoranger_html",
       "name": "Cr\u00e8me douche fleur d'oranger 500ml",
+      "prix_base": 18500,
+      "prix_comparaison": 14700,
+      "indice_prix": 79.45945945945945
+    },
+    {
+      "cle": "gelsetbainsdouche_4206cremedouchefleurdecerisier500ml_html",
+      "name": "Cr\u00e8me douche fleur de cerisier 500ml",
       "prix_base": 18500,
       "prix_comparaison": 14700,
       "indice_prix": 79.45945945945945

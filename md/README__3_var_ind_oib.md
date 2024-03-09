@@ -7,10 +7,15 @@
    - Prix actuel: 900,000 Ar
    - Variation: +80,000 Ar
 
-2. **PC portable - MEDION - AKOYA E15423 MD62540 - 15,6 FHD â Intel Core i3-1115G4 - RAM 8 Go - SSD 256Go - Windows 11 Home AZERTY**
-   - Prix avant: 1,649,000 Ar
-   - Prix actuel: 1,670,000 Ar
-   - Variation: +21,000 Ar
+2. **MOULINEX FP244110 Easy Force Robot multifonction tout en un, Bol 1,4 L, 5 accessoires, Plus de 20 fonctions différentes, Compact**
+   - Prix avant: 658,000 Ar
+   - Prix actuel: 692,000 Ar
+   - Variation: +34,000 Ar
+
+3. **Robot Multifonctions CONTINENTAL EDISON CERM600B**
+   - Prix avant: 324,000 Ar
+   - Prix actuel: 356,000 Ar
+   - Variation: +32,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -24,6 +29,11 @@
    - Prix actuel: 7,626,000 Ar
    - Variation: -154,000 Ar
 
+3. **Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -**
+   - Prix avant: 537,000 Ar
+   - Prix actuel: 489,000 Ar
+   - Variation: -48,000 Ar
+
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Chips nature lisse 500g**
@@ -36,6 +46,11 @@
    - Prix actuel: 8,500 Ar
    - Indice de prix : 110.53
 
+3. **Tagliatelle 235g**
+   - Prix avant: 3,850 Ar
+   - Prix actuel: 4,250 Ar
+   - Indice de prix : 110.39
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Shampoing lustrant voiture 1L**
@@ -44,6 +59,11 @@
    - Indice de prix : 73.68
 
 2. **Crème douche fleur d'oranger 500ml**
+   - Prix avant: 18,500 Ar
+   - Prix actuel: 14,700 Ar
+   - Indice de prix : 79.46
+
+3. **Crème douche fleur de cerisier 500ml**
    - Prix avant: 18,500 Ar
    - Prix actuel: 14,700 Ar
    - Indice de prix : 79.46
