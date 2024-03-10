@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 368,
+      "list_id": 12451,
+      "name": "Riz rouge long grain complet 500 g",
+      "prix_base": 11900,
+      "prix_comparaison": 11900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 249300,
+      "prix_comparaison": 249300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3826,
       "name": "Sucre Blanc 1 Kg",
-      "prix_base": 12400,
-      "prix_comparaison": 12400,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 2800,
-      "prix_comparaison": 2800,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 11107,
-      "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
-      "prix_base": 184000,
-      "prix_comparaison": 184000,
+      "prix_base": 7300,
+      "prix_comparaison": 7300,
       "variation": 0,
       "indice_prix": 100.0
     }
