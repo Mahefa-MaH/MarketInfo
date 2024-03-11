@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_laitconcentresucretople380g_",
-      "name": "Lait Concentr\u00e9 Sucr\u00e9 Topl\u00e9\u2122 380g",
-      "prix_base": 6670,
-      "prix_comparaison": 7435,
-      "variation": 765
+      "cle": "produit_pommesucre1kgfruitfraisdemadagascar2_",
+      "name": "Pomme sucr\u00e9e 1kg | Fruit frais de Madagascar",
+      "prix_base": 8000,
+      "prix_comparaison": 3750,
+      "variation": -4250
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_laitconcentresucretople380g_",
-      "name": "Lait Concentr\u00e9 Sucr\u00e9 Topl\u00e9\u2122 380g",
-      "prix_base": 6670,
-      "prix_comparaison": 7435,
-      "indice_prix": 111.46926536731634
+      "cle": "produit_pommesucre1kgfruitfraisdemadagascar2_",
+      "name": "Pomme sucr\u00e9e 1kg | Fruit frais de Madagascar",
+      "prix_base": 8000,
+      "prix_comparaison": 3750,
+      "indice_prix": 46.875
     }
   ]
 }
