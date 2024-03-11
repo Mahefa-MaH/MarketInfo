@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **SIEMENS CT636LES6 Machine a café iQ700 - Réservoir 2.4L - 1600W - Prépare 2 tass**
-   - Prix avant: 13,306,000 Ar
-   - Prix actuel: 13,143,000 Ar
-   - Variation: -163,000 Ar
-   - Indice de prix : 98.77
-
-2. **SAMSUNG RF24R7201SR - Réfrigérateur Multiporte - 510 L (348L + 123L + 39L) - Froid ventilé plus - L90,8cm x H177,7 cm - Inox**
-   - Prix avant: 17,179,000 Ar
-   - Prix actuel: 17,179,000 Ar
+1. **GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages étroits, App, Silencieux, Robot de Tonte**
+   - Prix avant: 11,434,000 Ar
+   - Prix actuel: 11,434,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Machine expresso automatique avec broyeur -DELONGHI PrimaDonna Elite Experience ECAM650.85.MS - Gris - Connecté**
-   - Prix avant: 10,743,000 Ar
-   - Prix actuel: 10,743,000 Ar
+2. **Tondeuse robot connectée Bluetooth GARDENA SILENO life 1250 - 1250 m² - 15103-26**
+   - Prix avant: 10,946,000 Ar
+   - Prix actuel: 10,946,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **Tondeuse autoportée thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm³ - Jusqu'a 2800 m²**
+   - Prix avant: 14,242,000 Ar
+   - Prix actuel: 14,242,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

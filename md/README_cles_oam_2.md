@@ -2,21 +2,15 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **DEKO DREAM Ensemble matelas+sommier relaxation électrique ERGO 9 Dreamzone - 2x80x200 cm - Matelas ressorts ensachés**
-   - Prix avant: 10,987,000 Ar
-   - Prix actuel: 10,987,000 Ar
+1. **Tondeuse rider autoportée thermique 61 cm de coupe 224cc MR224-61 SCHEPPACH - Bac de collecte de 150L**
+   - Prix avant: 10,010,000 Ar
+   - Prix actuel: 10,010,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E**
-   - Prix avant: 13,118,000 Ar
-   - Prix actuel: 13,118,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four électrique - multifonction - Noire**
-   - Prix avant: 12,614,000 Ar
-   - Prix actuel: 12,614,000 Ar
+2. **Tondeuse autoportée thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m²**
+   - Prix avant: 13,054,000 Ar
+   - Prix actuel: 13,054,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
