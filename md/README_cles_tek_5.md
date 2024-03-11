@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
-   - Prix avant: 172,500 Ar
-   - Prix actuel: 172,500 Ar
+1. **Sucre Blanc 1 Kg**
+   - Prix avant: 7,300 Ar
+   - Prix actuel: 7,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre Blanc Cristallisé 1 Kg**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 6,900 Ar
+2. **Huile De Soja 1 L**
+   - Prix avant: 9,700 Ar
+   - Prix actuel: 9,700 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre rouge 1 kg**
-   - Prix avant: 5,200 Ar
-   - Prix actuel: 5,200 Ar
+3. **Sucrettes blanches  50 g**
+   - Prix avant: 6,300 Ar
+   - Prix actuel: 6,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
