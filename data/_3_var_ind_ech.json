@@ -1,38 +1,101 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_haricotsvert1kgavecbouts_",
-      "name": "Haricots verts 1kg Avec bouts",
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
       "prix_base": 5400,
-      "prix_comparaison": 7400,
-      "variation": 2000
+      "prix_comparaison": 8000,
+      "variation": 2600
+    },
+    {
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 7400,
+      "prix_comparaison": 8000,
+      "variation": 600
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 3467,
+      "prix_comparaison": 4000,
+      "variation": 533
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_haricotsvert1kgavecbouts_",
-      "name": "Haricots verts 1kg Avec bouts",
+      "cle": "produit_pommesucre1kgfruitfraisdemadagascar2_",
+      "name": "Pomme sucr\u00e9e 1kg | Fruit frais de Madagascar",
+      "prix_base": 8000,
+      "prix_comparaison": 3750,
+      "variation": -4250
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 3467,
+      "prix_comparaison": 4000,
+      "variation": 533
+    },
+    {
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 7400,
+      "prix_comparaison": 8000,
+      "variation": 600
+    },
+    {
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
       "prix_base": 5400,
-      "prix_comparaison": 7400,
-      "variation": 2000
+      "prix_comparaison": 8000,
+      "variation": 2600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_haricotsvert1kgavecbouts_",
-      "name": "Haricots verts 1kg Avec bouts",
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
       "prix_base": 5400,
-      "prix_comparaison": 7400,
-      "indice_prix": 137.03703703703704
+      "prix_comparaison": 8000,
+      "indice_prix": 148.14814814814815
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 3467,
+      "prix_comparaison": 4000,
+      "indice_prix": 115.37352177675224
+    },
+    {
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 7400,
+      "prix_comparaison": 8000,
+      "indice_prix": 108.10810810810811
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_haricotsvert1kgavecbouts_",
-      "name": "Haricots verts 1kg Avec bouts",
-      "prix_base": 5400,
-      "prix_comparaison": 7400,
-      "indice_prix": 137.03703703703704
+      "cle": "produit_pommesucre1kgfruitfraisdemadagascar2_",
+      "name": "Pomme sucr\u00e9e 1kg | Fruit frais de Madagascar",
+      "prix_base": 8000,
+      "prix_comparaison": 3750,
+      "indice_prix": 46.875
+    },
+    {
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 7400,
+      "prix_comparaison": 8000,
+      "indice_prix": 108.10810810810811
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 3467,
+      "prix_comparaison": 4000,
+      "indice_prix": 115.37352177675224
     }
   ]
 }

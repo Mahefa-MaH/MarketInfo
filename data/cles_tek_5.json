@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3826,
+      "list_id": 368,
       "name": "Sucre Blanc 1 Kg",
-      "prix_base": 7300,
-      "prix_comparaison": 7300,
+      "prix_base": 12400,
+      "prix_comparaison": 12400,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9700,
-      "prix_comparaison": 9700,
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 2800,
+      "prix_comparaison": 2800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 9679,
-      "name": "Sucrettes blanches  50 g",
-      "prix_base": 6300,
-      "prix_comparaison": 6300,
-      "variation": 0,
-      "indice_prix": 100.0
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 6900,
+      "prix_comparaison": 7200,
+      "variation": 300,
+      "indice_prix": 104.34782608695652
     }
   ]
 }

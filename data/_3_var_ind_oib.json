@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "tablettestactilesliseuses_14868vivlioliseusenumeriquetouchlux5noir_html",
-      "name": "VIVLIO - Liseuse Num\u00e9rique Touch Lux 5 - Noir",
-      "prix_base": 820000,
-      "prix_comparaison": 900000,
-      "variation": 80000
-    },
-    {
-      "cle": "promo2023_14022moulinexfp244110easyforcerobotmultifonctiontoutenunbol14l5accessoiresplusde20fonctionsdifferentescompact_html",
-      "name": "MOULINEX FP244110 Easy Force Robot multifonction tout en un, Bol 1,4 L, 5 accessoires, Plus de 20 fonctions diff\u00e9rentes, Compact",
-      "prix_base": 658000,
-      "prix_comparaison": 692000,
-      "variation": 34000
-    },
-    {
-      "cle": "promo2023_14021robotmultifonctionscontinentaledisoncerm600b_html",
-      "name": "Robot Multifonctions CONTINENTAL EDISON CERM600B",
-      "prix_base": 324000,
-      "prix_comparaison": 356000,
-      "variation": 32000
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5790,
+      "prix_comparaison": 5200,
+      "variation": -590
     }
   ],
   "prix_diminues": [
     {
-      "cle": "promo2023_14665appleiphone14256gbproductred_html",
-      "name": "APPLE iPhone 14 256GB (PRODUCT)RED",
-      "prix_base": 4721000,
-      "prix_comparaison": 4231000,
-      "variation": -490000
-    },
-    {
-      "cle": "promo2023_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
-      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
-      "prix_base": 7780000,
-      "prix_comparaison": 7626000,
-      "variation": -154000
-    },
-    {
-      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
-      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
-      "prix_base": 537000,
-      "prix_comparaison": 489000,
-      "variation": -48000
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5790,
+      "prix_comparaison": 5200,
+      "variation": -590
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "chips_391chipsalthonaturelisse500g_html",
-      "name": "Chips nature lisse 500g",
-      "prix_base": 24900,
-      "prix_comparaison": 27900,
-      "indice_prix": 112.04819277108433
-    },
-    {
-      "cle": "promo2023_6826tagliatelle500g_html",
-      "name": "Tagliatelle 500g",
-      "prix_base": 7690,
-      "prix_comparaison": 8500,
-      "indice_prix": 110.5331599479844
-    },
-    {
-      "cle": "promo2023_6825tagliatelle235g_html",
-      "name": "Tagliatelle 235g",
-      "prix_base": 3850,
-      "prix_comparaison": 4250,
-      "indice_prix": 110.3896103896104
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5790,
+      "prix_comparaison": 5200,
+      "indice_prix": 89.81001727115716
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "promo2023_9298shampoinglustrantvoiture1l_html",
-      "name": "Shampoing lustrant voiture 1L",
-      "prix_base": 5700,
-      "prix_comparaison": 4200,
-      "indice_prix": 73.6842105263158
-    },
-    {
-      "cle": "gelsetbainsdouche_4204showercreamorangeblossomcremedouchefleurdoranger_html",
-      "name": "Cr\u00e8me douche fleur d'oranger 500ml",
-      "prix_base": 18500,
-      "prix_comparaison": 14700,
-      "indice_prix": 79.45945945945945
-    },
-    {
-      "cle": "gelsetbainsdouche_4206cremedouchefleurdecerisier500ml_html",
-      "name": "Cr\u00e8me douche fleur de cerisier 500ml",
-      "prix_base": 18500,
-      "prix_comparaison": 14700,
-      "indice_prix": 79.45945945945945
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5790,
+      "prix_comparaison": 5200,
+      "indice_prix": 89.81001727115716
     }
   ]
 }

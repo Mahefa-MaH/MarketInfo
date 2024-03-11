@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre Blanc Cristallisé 1 Kg**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 6,900 Ar
+3. **Sucre rouge 1 kg**
+   - Prix avant: 5,200 Ar
+   - Prix actuel: 5,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
