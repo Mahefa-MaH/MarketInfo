@@ -1,11 +1,11 @@
 {
   "prix_augmentes": [
     {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5790,
-      "prix_comparaison": 5200,
-      "variation": -590
+      "cle": "cremessoinsvisage_4228daycreamantiagingarganoilcremedejourantiagehuiledargan_html",
+      "name": "Cr\u00e8me de jour anti-\u00e2ge huile d'argan 50ml",
+      "prix_base": 35200,
+      "prix_comparaison": 44000,
+      "variation": 8800
     }
   ],
   "prix_diminues": [
@@ -19,11 +19,11 @@
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5790,
-      "prix_comparaison": 5200,
-      "indice_prix": 89.81001727115716
+      "cle": "gelsetbainsdouche_4205showercreamvanillacremedouchevanille_html",
+      "name": "Cr\u00e8me douche vanille 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18500,
+      "indice_prix": 125.85034013605443
     }
   ],
   "indices_prix_plus_faibles": [
