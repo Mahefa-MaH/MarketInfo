@@ -6,6 +6,174 @@
       "prix_base": 5790,
       "prix_comparaison": 5200,
       "variation": -590
+    },
+    {
+      "cle": "gelsetbainsdouche_4200cremedoucheextradoucemureviolette250ml_html",
+      "name": "Cr\u00e8me douche extra douce m\u00fbre violette 250 ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "variation": 2500
+    },
+    {
+      "cle": "gelsetbainsdouche_4196cremedouchefleurdamandiernectarine250ml_html",
+      "name": "Cr\u00e8me douche fleur d'amandier nectarine 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "variation": 2500
+    },
+    {
+      "cle": "gelsetbainsdouche_4198showercreamraspberrycremedoucheframboise_html",
+      "name": "Cr\u00e8me douche framboise 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "variation": 2500
+    },
+    {
+      "cle": "gelsetbainsdouche_4201showercreamjasmineblackcurrantcremedouchejasmincassis_html",
+      "name": "Cr\u00e8me douche jasmin cassis 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "variation": 2500
+    },
+    {
+      "cle": "gelsetbainsdouche_4197cremedouchepecheabricot250ml_html",
+      "name": "Cr\u00e8me douche p\u00eache abricot 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "variation": 2500
+    },
+    {
+      "cle": "gelsetbainsdouche_4202showercreamverbenalemoncremedoucheverveinecitron_html",
+      "name": "Cr\u00e8me douche verveine citron 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "variation": 2500
+    },
+    {
+      "cle": "cremessoinsdesmains_5361crememainshydratantehuiledolive75ml_html",
+      "name": "Cr\u00e8me mains hydratante huile d'olive 75ml",
+      "prix_base": 10500,
+      "prix_comparaison": 13150,
+      "variation": 2650
+    },
+    {
+      "cle": "apresshampoings_4209apresshampoingdouceuramandedoucecremederiz200ml_html",
+      "name": "Apr\u00e8s-shampoing douceur amande douce et cr\u00e8me de riz 200ml",
+      "prix_base": 10500,
+      "prix_comparaison": 13200,
+      "variation": 2700
+    },
+    {
+      "cle": "shampoings_4208shampoinglaitdouceuramandedoucecremederiz250ml_html",
+      "name": "Shampoing lait douceur amande douce et cr\u00e8me de riz 250ml",
+      "prix_base": 10500,
+      "prix_comparaison": 13200,
+      "variation": 2700
+    },
+    {
+      "cle": "cremessoinsdesmains_5342crememainsfluidehydratationaloevertthevert75ml_html",
+      "name": "Cr\u00e8me mains fluide hydratation aloe vert et th\u00e9 vert 75ml",
+      "prix_base": 11400,
+      "prix_comparaison": 14200,
+      "variation": 2800
+    },
+    {
+      "cle": "shampoings_4213shampoingcremenutritionhuilesdolivekariteargan250ml_html",
+      "name": "Shampoing cr\u00e8me nutrition huiles d'olive karit\u00e9 et argan 250ml",
+      "prix_base": 11600,
+      "prix_comparaison": 14500,
+      "variation": 2900
+    },
+    {
+      "cle": "gelsetbainsdouche_4207showercreamcoconutcremedouchenoixdecoco_html",
+      "name": "Cr\u00e8me douche noix de coco 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18400,
+      "variation": 3700
+    },
+    {
+      "cle": "gelsetbainsdouche_4371cremedoucheverveinecitron500ml_html",
+      "name": "Cr\u00e8me douche verveine citron 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18400,
+      "variation": 3700
+    },
+    {
+      "cle": "gelsetbainsdouche_4204showercreamorangeblossomcremedouchefleurdoranger_html",
+      "name": "Cr\u00e8me douche fleur d'oranger 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18500,
+      "variation": 3800
+    },
+    {
+      "cle": "gelsetbainsdouche_4206cremedouchefleurdecerisier500ml_html",
+      "name": "Cr\u00e8me douche fleur de cerisier 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18500,
+      "variation": 3800
+    },
+    {
+      "cle": "gelsetbainsdouche_4203showercreamrosecremedoucherose_html",
+      "name": "Cr\u00e8me douche rose 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18500,
+      "variation": 3800
+    },
+    {
+      "cle": "gelsetbainsdouche_4205showercreamvanillacremedouchevanille_html",
+      "name": "Cr\u00e8me douche vanille 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18500,
+      "variation": 3800
+    },
+    {
+      "cle": "gelsetbainsdouche_4462cremedoucheextradoucelaitdargan750ml_html",
+      "name": "Cr\u00e8me douche extra douce lait d'argan 750ml",
+      "prix_base": 21200,
+      "prix_comparaison": 26500,
+      "variation": 5300
+    },
+    {
+      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
+      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
+      "prix_base": 21200,
+      "prix_comparaison": 26500,
+      "variation": 5300
+    },
+    {
+      "cle": "gelsetbainsdouche_5335cremedouchelaitdavoine750ml_html",
+      "name": "Cr\u00e8me douche lait d'avoine 750ml",
+      "prix_base": 21200,
+      "prix_comparaison": 26500,
+      "variation": 5300
+    },
+    {
+      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
+      "name": "Cr\u00e8me douche lait d'amande 750ml",
+      "prix_base": 21800,
+      "prix_comparaison": 27300,
+      "variation": 5500
+    },
+    {
+      "cle": "gelsetbainsdouche_5358cremedouchelaitdecoton750ml_html",
+      "name": "Cr\u00e8me douche lait de coton 750ml",
+      "prix_base": 21800,
+      "prix_comparaison": 27300,
+      "variation": 5500
+    },
+    {
+      "cle": "cremessoinsvisage_4230daynightcreamantiagingarganoilcremejournuitantiagehuiledargan_html",
+      "name": "Cr\u00e8me de jour et nuit anti-\u00e2ge huile d'argan 50ml",
+      "prix_base": 26800,
+      "prix_comparaison": 33500,
+      "variation": 6700
+    },
+    {
+      "cle": "cremessoinsvisage_4228daycreamantiagingarganoilcremedejourantiagehuiledargan_html",
+      "name": "Cr\u00e8me de jour anti-\u00e2ge huile d'argan 50ml",
+      "prix_base": 35200,
+      "prix_comparaison": 44000,
+      "variation": 8800
     }
   ],
   "indice de prix": [
@@ -15,6 +183,174 @@
       "prix_base": 5790,
       "prix_comparaison": 5200,
       "indice_prix": 89.81001727115716
+    },
+    {
+      "cle": "cremessoinsdesmains_5342crememainsfluidehydratationaloevertthevert75ml_html",
+      "name": "Cr\u00e8me mains fluide hydratation aloe vert et th\u00e9 vert 75ml",
+      "prix_base": 11400,
+      "prix_comparaison": 14200,
+      "indice_prix": 124.56140350877193
+    },
+    {
+      "cle": "cremessoinsvisage_4228daycreamantiagingarganoilcremedejourantiagehuiledargan_html",
+      "name": "Cr\u00e8me de jour anti-\u00e2ge huile d'argan 50ml",
+      "prix_base": 35200,
+      "prix_comparaison": 44000,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "cremessoinsvisage_4230daynightcreamantiagingarganoilcremejournuitantiagehuiledargan_html",
+      "name": "Cr\u00e8me de jour et nuit anti-\u00e2ge huile d'argan 50ml",
+      "prix_base": 26800,
+      "prix_comparaison": 33500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4462cremedoucheextradoucelaitdargan750ml_html",
+      "name": "Cr\u00e8me douche extra douce lait d'argan 750ml",
+      "prix_base": 21200,
+      "prix_comparaison": 26500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
+      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
+      "prix_base": 21200,
+      "prix_comparaison": 26500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4200cremedoucheextradoucemureviolette250ml_html",
+      "name": "Cr\u00e8me douche extra douce m\u00fbre violette 250 ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4196cremedouchefleurdamandiernectarine250ml_html",
+      "name": "Cr\u00e8me douche fleur d'amandier nectarine 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4198showercreamraspberrycremedoucheframboise_html",
+      "name": "Cr\u00e8me douche framboise 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4201showercreamjasmineblackcurrantcremedouchejasmincassis_html",
+      "name": "Cr\u00e8me douche jasmin cassis 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_5335cremedouchelaitdavoine750ml_html",
+      "name": "Cr\u00e8me douche lait d'avoine 750ml",
+      "prix_base": 21200,
+      "prix_comparaison": 26500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4197cremedouchepecheabricot250ml_html",
+      "name": "Cr\u00e8me douche p\u00eache abricot 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4202showercreamverbenalemoncremedoucheverveinecitron_html",
+      "name": "Cr\u00e8me douche verveine citron 250ml",
+      "prix_base": 10000,
+      "prix_comparaison": 12500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "shampoings_4213shampoingcremenutritionhuilesdolivekariteargan250ml_html",
+      "name": "Shampoing cr\u00e8me nutrition huiles d'olive karit\u00e9 et argan 250ml",
+      "prix_base": 11600,
+      "prix_comparaison": 14500,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4207showercreamcoconutcremedouchenoixdecoco_html",
+      "name": "Cr\u00e8me douche noix de coco 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18400,
+      "indice_prix": 125.17006802721089
+    },
+    {
+      "cle": "gelsetbainsdouche_4371cremedoucheverveinecitron500ml_html",
+      "name": "Cr\u00e8me douche verveine citron 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18400,
+      "indice_prix": 125.17006802721089
+    },
+    {
+      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
+      "name": "Cr\u00e8me douche lait d'amande 750ml",
+      "prix_base": 21800,
+      "prix_comparaison": 27300,
+      "indice_prix": 125.22935779816514
+    },
+    {
+      "cle": "gelsetbainsdouche_5358cremedouchelaitdecoton750ml_html",
+      "name": "Cr\u00e8me douche lait de coton 750ml",
+      "prix_base": 21800,
+      "prix_comparaison": 27300,
+      "indice_prix": 125.22935779816514
+    },
+    {
+      "cle": "cremessoinsdesmains_5361crememainshydratantehuiledolive75ml_html",
+      "name": "Cr\u00e8me mains hydratante huile d'olive 75ml",
+      "prix_base": 10500,
+      "prix_comparaison": 13150,
+      "indice_prix": 125.23809523809524
+    },
+    {
+      "cle": "apresshampoings_4209apresshampoingdouceuramandedoucecremederiz200ml_html",
+      "name": "Apr\u00e8s-shampoing douceur amande douce et cr\u00e8me de riz 200ml",
+      "prix_base": 10500,
+      "prix_comparaison": 13200,
+      "indice_prix": 125.71428571428571
+    },
+    {
+      "cle": "shampoings_4208shampoinglaitdouceuramandedoucecremederiz250ml_html",
+      "name": "Shampoing lait douceur amande douce et cr\u00e8me de riz 250ml",
+      "prix_base": 10500,
+      "prix_comparaison": 13200,
+      "indice_prix": 125.71428571428571
+    },
+    {
+      "cle": "gelsetbainsdouche_4204showercreamorangeblossomcremedouchefleurdoranger_html",
+      "name": "Cr\u00e8me douche fleur d'oranger 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18500,
+      "indice_prix": 125.85034013605443
+    },
+    {
+      "cle": "gelsetbainsdouche_4206cremedouchefleurdecerisier500ml_html",
+      "name": "Cr\u00e8me douche fleur de cerisier 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18500,
+      "indice_prix": 125.85034013605443
+    },
+    {
+      "cle": "gelsetbainsdouche_4203showercreamrosecremedoucherose_html",
+      "name": "Cr\u00e8me douche rose 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18500,
+      "indice_prix": 125.85034013605443
+    },
+    {
+      "cle": "gelsetbainsdouche_4205showercreamvanillacremedouchevanille_html",
+      "name": "Cr\u00e8me douche vanille 500ml",
+      "prix_base": 14700,
+      "prix_comparaison": 18500,
+      "indice_prix": 125.85034013605443
     }
   ]
 }
