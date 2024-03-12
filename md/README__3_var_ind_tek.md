@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Café GOLD 10 boites (1 boite de 10 capsules)**
-   - Prix avant: 192,000 Ar
-   - Prix actuel: 230,000 Ar
-   - Variation: +38,000 Ar
+1. **Mozzarella au lait pasteurisé de vache 125 g**
+   - Prix avant: 41,300 Ar
+   - Prix actuel: 49,900 Ar
+   - Variation: +8,600 Ar
 
-2. **Capsule Café “ Espresso Bar” (100capsules)**
-   - Prix avant: 192,000 Ar
-   - Prix actuel: 230,000 Ar
-   - Variation: +38,000 Ar
+2. **Fromage de chèvre en dés 150 g**
+   - Prix avant: 39,000 Ar
+   - Prix actuel: 47,200 Ar
+   - Variation: +8,200 Ar
 
-3. **Chocolat moulage poule et petits oeufs 185 g**
-   - Prix avant: 29,900 Ar
-   - Prix actuel: 57,900 Ar
-   - Variation: +28,000 Ar
+3. **Dessert végétal au soja chocolat 4X100 g**
+   - Prix avant: 36,300 Ar
+   - Prix actuel: 43,900 Ar
+   - Variation: +7,600 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Distributeur manuel mural papier toilette**
-   - Prix avant: 102,200 Ar
-   - Prix actuel: 71,300 Ar
-   - Variation: -30,900 Ar
+1. **Spaghetti Fettuccine Aux Œufs 500  G**
+   - Prix avant: 17,600 Ar
+   - Prix actuel: 18,000 Ar
+   - Variation: +400 Ar
 
-2. **Distributeur automatique de savon couleur Noir**
-   - Prix avant: 111,900 Ar
-   - Prix actuel: 84,300 Ar
-   - Variation: -27,600 Ar
+2. **Spaghetti Au Noir De Seiche 500 G**
+   - Prix avant: 49,500 Ar
+   - Prix actuel: 51,000 Ar
+   - Variation: +1,500 Ar
 
-3. **Distributeur automatique de savon couleur Blanc**
-   - Prix avant: 111,900 Ar
-   - Prix actuel: 84,320 Ar
-   - Variation: -27,580 Ar
+3. **Barres de céréales Chocolat noir 126 g**
+   - Prix avant: 14,600 Ar
+   - Prix actuel: 17,800 Ar
+   - Variation: +3,200 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Infusion Thé saveur Fruits Rouges x 25**
-   - Prix avant: 10,981 Ar
+   - Prix avant: 21,300 Ar
+   - Prix actuel: 26,800 Ar
+   - Indice de prix : 125.82
+
+2. **Barres de céréales Chocolat noir 126 g**
+   - Prix avant: 14,600 Ar
+   - Prix actuel: 17,800 Ar
+   - Indice de prix : 121.92
+
+3. **Vinaigre de vin saveur échalote 75 cl**
+   - Prix avant: 17,500 Ar
    - Prix actuel: 21,300 Ar
-   - Indice de prix : 193.97
-
-2. **Chocolat moulage poule et petits oeufs 185 g**
-   - Prix avant: 29,900 Ar
-   - Prix actuel: 57,900 Ar
-   - Indice de prix : 193.65
-
-3. **Fromage à tartiner figue et noix 150 g**
-   - Prix avant: 17,900 Ar
-   - Prix actuel: 33,500 Ar
-   - Indice de prix : 187.15
+   - Indice de prix : 121.71
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Distributeur manuel mural papier toilette**
-   - Prix avant: 102,200 Ar
-   - Prix actuel: 71,300 Ar
-   - Indice de prix : 69.77
+1. **Spaghetti Fettuccine Aux Œufs 500  G**
+   - Prix avant: 17,600 Ar
+   - Prix actuel: 18,000 Ar
+   - Indice de prix : 102.27
 
-2. **Eau déminéralisée 5 L**
-   - Prix avant: 10,100 Ar
-   - Prix actuel: 7,600 Ar
-   - Indice de prix : 75.25
+2. **Spaghetti Au Noir De Seiche 500 G**
+   - Prix avant: 49,500 Ar
+   - Prix actuel: 51,000 Ar
+   - Indice de prix : 103.03
 
-3. **Distributeur automatique de savon couleur Noir**
-   - Prix avant: 111,900 Ar
-   - Prix actuel: 84,300 Ar
-   - Indice de prix : 75.34
+3. **Mozzarella au lait pasteurisé de vache 125 g**
+   - Prix avant: 41,300 Ar
+   - Prix actuel: 49,900 Ar
+   - Indice de prix : 120.82
 

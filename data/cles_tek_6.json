@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
+      "list_id": 13304,
+      "name": "Riz Rouge (Vary mena) 50kg",
+      "prix_base": 240000,
+      "prix_comparaison": 240000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13109,
-      "name": "Sucre blanc 1 Kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
+      "list_id": 7131,
+      "name": "Riz makalioka rouge 5 kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 12400,
-      "prix_comparaison": 12400,
+      "list_id": 7132,
+      "name": "Riz Makalioka blanc 5 kg",
+      "prix_base": 18600,
+      "prix_comparaison": 18600,
       "variation": 0,
       "indice_prix": 100.0
     }
