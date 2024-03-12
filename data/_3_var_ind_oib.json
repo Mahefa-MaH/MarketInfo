@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cremessoinsvisage_4228daycreamantiagingarganoilcremedejourantiagehuiledargan_html",
-      "name": "Cr\u00e8me de jour anti-\u00e2ge huile d'argan 50ml",
-      "prix_base": 35200,
-      "prix_comparaison": 44000,
-      "variation": 8800
-    },
-    {
-      "cle": "cremessoinsvisage_4237dayskincareintensemoisturisingoliveoilsoindejourhydratationintensehuiledolive_html",
-      "name": "Soin de jour hydratant  intense huile d'olive 50ml",
-      "prix_base": 27200,
-      "prix_comparaison": 34000,
-      "variation": 6800
+      "cle": "promo2023_8907saucissedevolaille1kg_html",
+      "name": "Saucisse de volaille 1kg",
+      "prix_base": 30800,
+      "prix_comparaison": 33000,
+      "variation": 2200
     }
   ],
   "prix_diminues": [
     {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5790,
-      "prix_comparaison": 5200,
-      "variation": -590
-    },
-    {
-      "cle": "shampoings_4211shampoingmicellairepurifiantaloeveraetthevert250ml_html",
-      "name": "Shampoing micellaire purifiant aloe V\u00e9ra et th\u00e9 vert 250ml",
-      "prix_base": 10000,
-      "prix_comparaison": 12500,
-      "variation": 2500
+      "cle": "promo2023_14132chipslayssalted20x105g_html",
+      "name": "Chips Lays salted 20x105g",
+      "prix_base": 7000,
+      "prix_comparaison": 7200,
+      "variation": 200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "gelsetbainsdouche_4205showercreamvanillacremedouchevanille_html",
-      "name": "Cr\u00e8me douche vanille 500ml",
-      "prix_base": 14700,
-      "prix_comparaison": 18500,
-      "indice_prix": 125.85034013605443
-    },
-    {
-      "cle": "gelsetbainsdouche_4203showercreamrosecremedoucherose_html",
-      "name": "Cr\u00e8me douche rose 500ml",
-      "prix_base": 14700,
-      "prix_comparaison": 18500,
-      "indice_prix": 125.85034013605443
+      "cle": "promo2023_8907saucissedevolaille1kg_html",
+      "name": "Saucisse de volaille 1kg",
+      "prix_base": 30800,
+      "prix_comparaison": 33000,
+      "indice_prix": 107.14285714285714
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5790,
-      "prix_comparaison": 5200,
-      "indice_prix": 89.81001727115716
-    },
-    {
-      "cle": "cremessoinsdesmains_5342crememainsfluidehydratationaloevertthevert75ml_html",
-      "name": "Cr\u00e8me mains fluide hydratation aloe vert et th\u00e9 vert 75ml",
-      "prix_base": 11400,
-      "prix_comparaison": 14200,
-      "indice_prix": 124.56140350877193
+      "cle": "promo2023_14132chipslayssalted20x105g_html",
+      "name": "Chips Lays salted 20x105g",
+      "prix_base": 7000,
+      "prix_comparaison": 7200,
+      "indice_prix": 102.85714285714286
     }
   ]
 }
