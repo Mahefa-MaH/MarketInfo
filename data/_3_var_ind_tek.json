@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "list_id": 13202,
+      "prix_base": 21300,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_comparaison": 30500,
+      "variation": 9200
+    },
+    {
       "list_id": 13253,
       "prix_base": 41300,
       "name": "Mozzarella au lait pasteuris\u00e9 de vache 125 g",
@@ -13,36 +20,29 @@
       "name": "Fromage de ch\u00e8vre en d\u00e9s 150 g",
       "prix_comparaison": 47200,
       "variation": 8200
-    },
-    {
-      "list_id": 13256,
-      "prix_base": 36300,
-      "name": "Dessert v\u00e9g\u00e9tal au soja chocolat 4X100 g",
-      "prix_comparaison": 43900,
-      "variation": 7600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4022,
-      "prix_base": 17600,
-      "name": "Spaghetti Fettuccine Aux \u0152ufs 500  G",
-      "prix_comparaison": 18000,
-      "variation": 400
+      "list_id": 6957,
+      "prix_base": 25600,
+      "name": "Nettoyant sols et surfaces Fleurs de coton 1,9 L",
+      "prix_comparaison": 24600,
+      "variation": -1000
     },
     {
-      "list_id": 4020,
-      "prix_base": 49500,
-      "name": "Spaghetti Au Noir De Seiche 500 G",
-      "prix_comparaison": 51000,
-      "variation": 1500
+      "list_id": 12037,
+      "prix_base": 7850,
+      "name": "Eponges grattantes vert X4",
+      "prix_comparaison": 7900,
+      "variation": 50
     },
     {
-      "list_id": 13189,
-      "prix_base": 14600,
-      "name": "Barres de c\u00e9r\u00e9ales Chocolat noir 126 g",
-      "prix_comparaison": 17800,
-      "variation": 3200
+      "list_id": 3021,
+      "prix_base": 2100,
+      "name": "Jus 100% Strawberry/Banana 200 Ml",
+      "prix_comparaison": 2600,
+      "variation": 500
     }
   ],
   "indices_prix_plus_eleves": [
@@ -50,8 +50,15 @@
       "list_id": 13202,
       "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
       "prix_base": 21300,
-      "prix_comparaison": 26800,
-      "indice_prix": 125.82159624413146
+      "prix_comparaison": 30500,
+      "indice_prix": 143.19248826291079
+    },
+    {
+      "list_id": 3021,
+      "name": "Jus 100% Strawberry/Banana 200 Ml",
+      "prix_base": 2100,
+      "prix_comparaison": 2600,
+      "indice_prix": 123.80952380952381
     },
     {
       "list_id": 13189,
@@ -59,36 +66,29 @@
       "prix_base": 14600,
       "prix_comparaison": 17800,
       "indice_prix": 121.91780821917808
-    },
-    {
-      "list_id": 10406,
-      "name": "Vinaigre de vin saveur \u00e9chalote 75 cl",
-      "prix_base": 17500,
-      "prix_comparaison": 21300,
-      "indice_prix": 121.71428571428571
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 4022,
-      "name": "Spaghetti Fettuccine Aux \u0152ufs 500  G",
-      "prix_base": 17600,
-      "prix_comparaison": 18000,
-      "indice_prix": 102.27272727272727
+      "list_id": 6957,
+      "name": "Nettoyant sols et surfaces Fleurs de coton 1,9 L",
+      "prix_base": 25600,
+      "prix_comparaison": 24600,
+      "indice_prix": 96.09375
     },
     {
-      "list_id": 4020,
-      "name": "Spaghetti Au Noir De Seiche 500 G",
-      "prix_base": 49500,
-      "prix_comparaison": 51000,
-      "indice_prix": 103.03030303030303
+      "list_id": 12037,
+      "name": "Eponges grattantes vert X4",
+      "prix_base": 7850,
+      "prix_comparaison": 7900,
+      "indice_prix": 100.63694267515923
     },
     {
-      "list_id": 13253,
-      "name": "Mozzarella au lait pasteuris\u00e9 de vache 125 g",
-      "prix_base": 41300,
-      "prix_comparaison": 49900,
-      "indice_prix": 120.82324455205811
+      "list_id": 4163,
+      "name": "Poudre De Truffe Noir 30 G",
+      "prix_base": 59900,
+      "prix_comparaison": 62800,
+      "indice_prix": 104.84140233722871
     }
   ]
 }
