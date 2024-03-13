@@ -6,20 +6,6 @@
       "prix_base": 30800,
       "prix_comparaison": 33000,
       "variation": 2200
-    },
-    {
-      "cle": "promo2023_7948cuissedepoulet1kg_html",
-      "name": "Cuisse de poulet 1kg",
-      "prix_base": 22800,
-      "prix_comparaison": 24000,
-      "variation": 1200
-    },
-    {
-      "cle": "promo2023_14132chipslayssalted20x105g_html",
-      "name": "Chips Lays salted 20x105g",
-      "prix_base": 7000,
-      "prix_comparaison": 7200,
-      "variation": 200
     }
   ],
   "prix_diminues": [
@@ -29,20 +15,6 @@
       "prix_base": 7000,
       "prix_comparaison": 7200,
       "variation": 200
-    },
-    {
-      "cle": "promo2023_7948cuissedepoulet1kg_html",
-      "name": "Cuisse de poulet 1kg",
-      "prix_base": 22800,
-      "prix_comparaison": 24000,
-      "variation": 1200
-    },
-    {
-      "cle": "promo2023_8907saucissedevolaille1kg_html",
-      "name": "Saucisse de volaille 1kg",
-      "prix_base": 30800,
-      "prix_comparaison": 33000,
-      "variation": 2200
     }
   ],
   "indices_prix_plus_eleves": [
@@ -52,20 +24,6 @@
       "prix_base": 30800,
       "prix_comparaison": 33000,
       "indice_prix": 107.14285714285714
-    },
-    {
-      "cle": "promo2023_7948cuissedepoulet1kg_html",
-      "name": "Cuisse de poulet 1kg",
-      "prix_base": 22800,
-      "prix_comparaison": 24000,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "promo2023_14132chipslayssalted20x105g_html",
-      "name": "Chips Lays salted 20x105g",
-      "prix_base": 7000,
-      "prix_comparaison": 7200,
-      "indice_prix": 102.85714285714286
     }
   ],
   "indices_prix_plus_faibles": [
@@ -75,20 +33,6 @@
       "prix_base": 7000,
       "prix_comparaison": 7200,
       "indice_prix": 102.85714285714286
-    },
-    {
-      "cle": "promo2023_7948cuissedepoulet1kg_html",
-      "name": "Cuisse de poulet 1kg",
-      "prix_base": 22800,
-      "prix_comparaison": 24000,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "promo2023_8907saucissedevolaille1kg_html",
-      "name": "Saucisse de volaille 1kg",
-      "prix_base": 30800,
-      "prix_comparaison": 33000,
-      "indice_prix": 107.14285714285714
     }
   ]
 }
