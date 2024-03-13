@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "promo2023_8907saucissedevolaille1kg_html",
-      "name": "Saucisse de volaille 1kg",
-      "prix_base": 30800,
-      "prix_comparaison": 33000,
-      "variation": 2200
+      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
+      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
+      "prix_base": 9600,
+      "prix_comparaison": 9120,
+      "variation": -480
     }
   ],
   "prix_diminues": [
     {
-      "cle": "promo2023_14132chipslayssalted20x105g_html",
-      "name": "Chips Lays salted 20x105g",
-      "prix_base": 7000,
-      "prix_comparaison": 7200,
-      "variation": 200
+      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
+      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
+      "prix_base": 9600,
+      "prix_comparaison": 9120,
+      "variation": -480
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "promo2023_8907saucissedevolaille1kg_html",
-      "name": "Saucisse de volaille 1kg",
-      "prix_base": 30800,
-      "prix_comparaison": 33000,
-      "indice_prix": 107.14285714285714
+      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
+      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
+      "prix_base": 9600,
+      "prix_comparaison": 9120,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "promo2023_14132chipslayssalted20x105g_html",
-      "name": "Chips Lays salted 20x105g",
-      "prix_base": 7000,
-      "prix_comparaison": 7200,
-      "indice_prix": 102.85714285714286
+      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
+      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
+      "prix_base": 9600,
+      "prix_comparaison": 9120,
+      "indice_prix": 95.0
     }
   ]
 }
