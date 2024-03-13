@@ -7,15 +7,15 @@
    - Prix actuel: 1,005,100 Ar
    - Variation: +313,600 Ar
 
-2. **Machine à plastifier fusion A3 3000 L**
-   - Prix avant: 1,132,100 Ar
-   - Prix actuel: 1,245,200 Ar
-   - Variation: +113,100 Ar
+2. **Machine à relier plastique C210**
+   - Prix avant: 1,464,700 Ar
+   - Prix actuel: 1,681,200 Ar
+   - Variation: +216,500 Ar
 
-3. **Calculatrice imprimante 14 chiffres DR-140 R**
-   - Prix avant: 620,600 Ar
-   - Prix actuel: 651,700 Ar
-   - Variation: +31,100 Ar
+3. **Machine à café Royal Black 1850 W**
+   - Prix avant: 4,140,000 Ar
+   - Prix actuel: 4,320,000 Ar
+   - Variation: +180,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -24,12 +24,12 @@
    - Prix actuel: 48,060 Ar
    - Variation: -1,940 Ar
 
-2. **Shampooing Dema Xpro apaise 225 ml**
-   - Prix avant: 18,750 Ar
-   - Prix actuel: 18,000 Ar
-   - Variation: -750 Ar
+2. **Balai Pavoire avec manche**
+   - Prix avant: 25,000 Ar
+   - Prix actuel: 24,000 Ar
+   - Variation: -1,000 Ar
 
-3. **Shampooing Derma Xpro Hydrate 225 ml**
+3. **Shampooing Dema Xpro apaise 225 ml**
    - Prix avant: 18,750 Ar
    - Prix actuel: 18,000 Ar
    - Variation: -750 Ar
@@ -46,10 +46,10 @@
    - Prix actuel: 4,700 Ar
    - Indice de prix : 123.68
 
-3. **Intercalaire A4 plastique 12 positions**
-   - Prix avant: 3,800 Ar
-   - Prix actuel: 4,600 Ar
-   - Indice de prix : 121.05
+3. **Poubelle de cuisine 30 L**
+   - Prix avant: 73,000 Ar
+   - Prix actuel: 90,000 Ar
+   - Indice de prix : 123.29
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 

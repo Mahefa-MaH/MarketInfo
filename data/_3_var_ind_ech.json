@@ -1,122 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
-      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
-      "prix_base": 5400,
-      "prix_comparaison": 8000,
-      "variation": 2600
+      "cle": "produit_pouletmanandrianaenviron1kg_",
+      "name": "Poulet Manandriana environ 1kg LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 35730,
+      "prix_comparaison": 44000,
+      "variation": 8270
     },
     {
-      "cle": "produit_saucedesojasansglutenredriverbridge625ml_",
-      "name": "Sauce de soja sans gluten red river bridge 625ml",
-      "prix_base": 9230,
-      "prix_comparaison": 11790,
-      "variation": 2560
+      "cle": "produit_patedefruit500g_",
+      "name": "P\u00e2te de Fruit 500g",
+      "prix_base": 22000,
+      "prix_comparaison": 27000,
+      "variation": 5000
     },
     {
-      "cle": "produit_ingredientspourchocolatchaud_",
-      "name": "Ingr\u00e9dients pour chocolat chaud",
-      "prix_base": 4100,
-      "prix_comparaison": 5500,
-      "variation": 1400
+      "cle": "produit_concombrelegumefrais_",
+      "name": "Concombres 1kg | Calibre Moyen",
+      "prix_base": 1600,
+      "prix_comparaison": 2700,
+      "variation": 1100
     },
     {
-      "cle": "produit_oignonsfrais1kggroscalibre_",
-      "name": "Oignons frais 1kg | Gros Calibre",
-      "prix_base": 7400,
-      "prix_comparaison": 8000,
-      "variation": 600
+      "cle": "produit_tomatesallongeesmures1kggroscalibreaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Gros Calibre | A consommer le jours m\u00eame",
+      "prix_base": 3500,
+      "prix_comparaison": 3750,
+      "variation": 250
     },
     {
-      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
-      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
-      "prix_base": 3467,
-      "prix_comparaison": 4000,
-      "variation": 533
+      "cle": "produit_gingembre500g_",
+      "name": "Gingembre 500g",
+      "prix_base": 2600,
+      "prix_comparaison": 2700,
+      "variation": 100
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_pommesucre1kgfruitfraisdemadagascar2_",
-      "name": "Pomme sucr\u00e9e 1kg | Fruit frais de Madagascar",
-      "prix_base": 8000,
+      "cle": "produit_gingembre500g_",
+      "name": "Gingembre 500g",
+      "prix_base": 2600,
+      "prix_comparaison": 2700,
+      "variation": 100
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kggroscalibreaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Gros Calibre | A consommer le jours m\u00eame",
+      "prix_base": 3500,
       "prix_comparaison": 3750,
-      "variation": -4250
+      "variation": 250
     },
     {
-      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
-      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
-      "prix_base": 3467,
-      "prix_comparaison": 4000,
-      "variation": 533
+      "cle": "produit_concombrelegumefrais_",
+      "name": "Concombres 1kg | Calibre Moyen",
+      "prix_base": 1600,
+      "prix_comparaison": 2700,
+      "variation": 1100
     },
     {
-      "cle": "produit_oignonsfrais1kggroscalibre_",
-      "name": "Oignons frais 1kg | Gros Calibre",
-      "prix_base": 7400,
-      "prix_comparaison": 8000,
-      "variation": 600
+      "cle": "produit_patedefruit500g_",
+      "name": "P\u00e2te de Fruit 500g",
+      "prix_base": 22000,
+      "prix_comparaison": 27000,
+      "variation": 5000
     },
     {
-      "cle": "produit_ingredientspourchocolatchaud_",
-      "name": "Ingr\u00e9dients pour chocolat chaud",
-      "prix_base": 4100,
-      "prix_comparaison": 5500,
-      "variation": 1400
-    },
-    {
-      "cle": "produit_saucedesojasansglutenredriverbridge625ml_",
-      "name": "Sauce de soja sans gluten red river bridge 625ml",
-      "prix_base": 9230,
-      "prix_comparaison": 11790,
-      "variation": 2560
+      "cle": "produit_pouletmanandrianaenviron1kg_",
+      "name": "Poulet Manandriana environ 1kg LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 35730,
+      "prix_comparaison": 44000,
+      "variation": 8270
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
-      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
-      "prix_base": 5400,
-      "prix_comparaison": 8000,
-      "indice_prix": 148.14814814814815
+      "cle": "produit_concombrelegumefrais_",
+      "name": "Concombres 1kg | Calibre Moyen",
+      "prix_base": 1600,
+      "prix_comparaison": 2700,
+      "indice_prix": 168.75
     },
     {
-      "cle": "produit_ingredientspourchocolatchaud_",
-      "name": "Ingr\u00e9dients pour chocolat chaud",
-      "prix_base": 4100,
-      "prix_comparaison": 5500,
-      "indice_prix": 134.14634146341464
+      "cle": "produit_pouletmanandrianaenviron1kg_",
+      "name": "Poulet Manandriana environ 1kg LeaderPrice\u2122 | Sp\u00e9cialement Halal",
+      "prix_base": 35730,
+      "prix_comparaison": 44000,
+      "indice_prix": 123.14581584102994
     },
     {
-      "cle": "produit_saucedesojasansglutenredriverbridge625ml_",
-      "name": "Sauce de soja sans gluten red river bridge 625ml",
-      "prix_base": 9230,
-      "prix_comparaison": 11790,
-      "indice_prix": 127.73564463705308
+      "cle": "produit_patedefruit500g_",
+      "name": "P\u00e2te de Fruit 500g",
+      "prix_base": 22000,
+      "prix_comparaison": 27000,
+      "indice_prix": 122.72727272727273
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_pommesucre1kgfruitfraisdemadagascar2_",
-      "name": "Pomme sucr\u00e9e 1kg | Fruit frais de Madagascar",
-      "prix_base": 8000,
+      "cle": "produit_gingembre500g_",
+      "name": "Gingembre 500g",
+      "prix_base": 2600,
+      "prix_comparaison": 2700,
+      "indice_prix": 103.84615384615384
+    },
+    {
+      "cle": "produit_tomatesallongeesmures1kggroscalibreaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Gros Calibre | A consommer le jours m\u00eame",
+      "prix_base": 3500,
       "prix_comparaison": 3750,
-      "indice_prix": 46.875
+      "indice_prix": 107.14285714285714
     },
     {
-      "cle": "produit_oignonsfrais1kggroscalibre_",
-      "name": "Oignons frais 1kg | Gros Calibre",
-      "prix_base": 7400,
-      "prix_comparaison": 8000,
-      "indice_prix": 108.10810810810811
-    },
-    {
-      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
-      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
-      "prix_base": 3467,
-      "prix_comparaison": 4000,
-      "indice_prix": 115.37352177675224
+      "cle": "produit_patedefruit500g_",
+      "name": "P\u00e2te de Fruit 500g",
+      "prix_base": 22000,
+      "prix_comparaison": 27000,
+      "indice_prix": 122.72727272727273
     }
   ]
 }

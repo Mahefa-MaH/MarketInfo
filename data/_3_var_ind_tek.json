@@ -8,18 +8,18 @@
       "variation": 313600
     },
     {
-      "list_id": 4605,
-      "prix_base": 1132100,
-      "name": "Machine \u00e0 plastifier fusion A3 3000 L",
-      "prix_comparaison": 1245200,
-      "variation": 113100
+      "list_id": 4621,
+      "prix_base": 1464700,
+      "name": "Machine \u00e0 relier plastique C210",
+      "prix_comparaison": 1681200,
+      "variation": 216500
     },
     {
-      "list_id": 4585,
-      "prix_base": 620600,
-      "name": "Calculatrice imprimante 14 chiffres DR-140 R",
-      "prix_comparaison": 651700,
-      "variation": 31100
+      "list_id": 8,
+      "prix_base": 4140000,
+      "name": "Machine \u00e0 caf\u00e9 Royal Black 1850 W",
+      "prix_comparaison": 4320000,
+      "variation": 180000
     }
   ],
   "prix_diminues": [
@@ -31,16 +31,16 @@
       "variation": -1940
     },
     {
+      "list_id": 8806,
+      "prix_base": 25000,
+      "name": "Balai Pavoire avec manche",
+      "prix_comparaison": 24000,
+      "variation": -1000
+    },
+    {
       "list_id": 8441,
       "prix_base": 18750,
       "name": "Shampooing Dema Xpro apaise 225 ml",
-      "prix_comparaison": 18000,
-      "variation": -750
-    },
-    {
-      "list_id": 8467,
-      "prix_base": 18750,
-      "name": "Shampooing Derma Xpro Hydrate 225 ml",
       "prix_comparaison": 18000,
       "variation": -750
     }
@@ -61,11 +61,11 @@
       "indice_prix": 123.6842105263158
     },
     {
-      "list_id": 4573,
-      "name": "Intercalaire A4 plastique 12 positions",
-      "prix_base": 3800,
-      "prix_comparaison": 4600,
-      "indice_prix": 121.05263157894737
+      "list_id": 10132,
+      "name": "Poubelle de cuisine 30 L",
+      "prix_base": 73000,
+      "prix_comparaison": 90000,
+      "indice_prix": 123.28767123287672
     }
   ],
   "indices_prix_plus_faibles": [
