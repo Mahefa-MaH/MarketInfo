@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Infusion Thé saveur Fruits Rouges x 25**
-   - Prix avant: 21,300 Ar
-   - Prix actuel: 30,500 Ar
-   - Variation: +9,200 Ar
+1. **Machine à plastifier fusion A3 1100 L**
+   - Prix avant: 691,500 Ar
+   - Prix actuel: 1,005,100 Ar
+   - Variation: +313,600 Ar
 
-2. **Mozzarella au lait pasteurisé de vache 125 g**
-   - Prix avant: 41,300 Ar
-   - Prix actuel: 49,900 Ar
-   - Variation: +8,600 Ar
+2. **Machine à plastifier fusion A3 3000 L**
+   - Prix avant: 1,132,100 Ar
+   - Prix actuel: 1,245,200 Ar
+   - Variation: +113,100 Ar
 
-3. **Fromage de chèvre en dés 150 g**
-   - Prix avant: 39,000 Ar
-   - Prix actuel: 47,200 Ar
-   - Variation: +8,200 Ar
+3. **Calculatrice imprimante 14 chiffres DR-140 R**
+   - Prix avant: 620,600 Ar
+   - Prix actuel: 651,700 Ar
+   - Variation: +31,100 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Nettoyant sols et surfaces Fleurs de coton 1,9 L**
-   - Prix avant: 25,600 Ar
-   - Prix actuel: 24,600 Ar
-   - Variation: -1,000 Ar
+1. **Lessive en poudre 3 kg**
+   - Prix avant: 50,000 Ar
+   - Prix actuel: 48,060 Ar
+   - Variation: -1,940 Ar
 
-2. **Eponges grattantes vert X4**
-   - Prix avant: 7,850 Ar
-   - Prix actuel: 7,900 Ar
-   - Variation: +50 Ar
+2. **Shampooing Dema Xpro apaise 225 ml**
+   - Prix avant: 18,750 Ar
+   - Prix actuel: 18,000 Ar
+   - Variation: -750 Ar
 
-3. **Jus 100% Strawberry/Banana 200 Ml**
-   - Prix avant: 2,100 Ar
-   - Prix actuel: 2,600 Ar
-   - Variation: +500 Ar
+3. **Shampooing Derma Xpro Hydrate 225 ml**
+   - Prix avant: 18,750 Ar
+   - Prix actuel: 18,000 Ar
+   - Variation: -750 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Infusion Thé saveur Fruits Rouges x 25**
-   - Prix avant: 21,300 Ar
-   - Prix actuel: 30,500 Ar
-   - Indice de prix : 143.19
+1. **Machine à plastifier fusion A3 1100 L**
+   - Prix avant: 691,500 Ar
+   - Prix actuel: 1,005,100 Ar
+   - Indice de prix : 145.35
 
-2. **Jus 100% Strawberry/Banana 200 Ml**
-   - Prix avant: 2,100 Ar
-   - Prix actuel: 2,600 Ar
-   - Indice de prix : 123.81
+2. **Intercalaire A4 carton 6 positions**
+   - Prix avant: 3,800 Ar
+   - Prix actuel: 4,700 Ar
+   - Indice de prix : 123.68
 
-3. **Barres de céréales Chocolat noir 126 g**
-   - Prix avant: 14,600 Ar
-   - Prix actuel: 17,800 Ar
-   - Indice de prix : 121.92
+3. **Intercalaire A4 plastique 12 positions**
+   - Prix avant: 3,800 Ar
+   - Prix actuel: 4,600 Ar
+   - Indice de prix : 121.05
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Nettoyant sols et surfaces Fleurs de coton 1,9 L**
-   - Prix avant: 25,600 Ar
-   - Prix actuel: 24,600 Ar
-   - Indice de prix : 96.09
+1. **Shampooing Dema Xpro apaise 225 ml**
+   - Prix avant: 18,750 Ar
+   - Prix actuel: 18,000 Ar
+   - Indice de prix : 96.00
 
-2. **Eponges grattantes vert X4**
-   - Prix avant: 7,850 Ar
-   - Prix actuel: 7,900 Ar
-   - Indice de prix : 100.64
+2. **Shampooing Derma Xpro Hydrate 225 ml**
+   - Prix avant: 18,750 Ar
+   - Prix actuel: 18,000 Ar
+   - Indice de prix : 96.00
 
-3. **Poudre De Truffe Noir 30 G**
-   - Prix avant: 59,900 Ar
-   - Prix actuel: 62,800 Ar
-   - Indice de prix : 104.84
+3. **Lessive en poudre 900 g**
+   - Prix avant: 15,000 Ar
+   - Prix actuel: 14,400 Ar
+   - Indice de prix : 96.00
 

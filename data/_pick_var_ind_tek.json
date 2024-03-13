@@ -1,286 +1,118 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5866,
-      "name": "Diffuseur \u00e9lectrique d'huile essentielle - floral clair (17x17x10,3cm)",
-      "prix_base": 126800,
-      "prix_comparaison": 103800,
-      "variation": -23000
+      "list_id": 12445,
+      "name": "Riz Basmati 500 g",
+      "prix_base": 16150,
+      "prix_comparaison": 16200,
+      "variation": 50
     },
     {
-      "list_id": 5686,
-      "name": "Gel mains hydroalcoolique Huiles Essentielles 5 L",
-      "prix_base": 97300,
-      "prix_comparaison": 81100,
-      "variation": -16200
+      "list_id": 10836,
+      "name": "Huile de massage \u00e0 l'argan 150 ml",
+      "prix_base": 34650,
+      "prix_comparaison": 34700,
+      "variation": 50
     },
     {
-      "list_id": 5685,
-      "name": "Gel mains hydroalcoolique Huiles Essentielles 300 ml",
-      "prix_base": 8300,
-      "prix_comparaison": 6800,
-      "variation": -1500
+      "list_id": 12859,
+      "name": "Sucre en poudre en sachet de 1 Kg",
+      "prix_base": 14250,
+      "prix_comparaison": 14300,
+      "variation": 50
     },
     {
-      "list_id": 5778,
-      "name": "Huile nourrissante Argan 50 ml",
-      "prix_base": 7100,
-      "prix_comparaison": 6100,
-      "variation": -1000
+      "list_id": 12858,
+      "name": "Cr\u00e8me de marrons vanill\u00e9e 1/2",
+      "prix_base": 25850,
+      "prix_comparaison": 25900,
+      "variation": 50
     },
     {
-      "list_id": 5783,
-      "name": "Huile Nourrissante Karit\u00e9 50 ml",
-      "prix_base": 7100,
-      "prix_comparaison": 6100,
-      "variation": -1000
+      "list_id": 11443,
+      "name": "D\u00e9odorant \u00e0 bille cream care anti-transpirant 50 ml",
+      "prix_base": 9450,
+      "prix_comparaison": 9500,
+      "variation": 50
     },
     {
-      "list_id": 5774,
-      "name": "Huile nourrissante Ricin 50 ml",
-      "prix_base": 7100,
-      "prix_comparaison": 6100,
-      "variation": -1000
+      "list_id": 12968,
+      "name": "Cr\u00e8mes glac\u00e9es Menthe Chocolat 1l",
+      "prix_base": 29850,
+      "prix_comparaison": 29900,
+      "variation": 50
     },
     {
-      "list_id": 5677,
-      "name": "Cr\u00e8me lavante amande douce 300 ml",
-      "prix_base": 4100,
-      "prix_comparaison": 3700,
-      "variation": -400
+      "list_id": 12821,
+      "name": "Confiture figue all\u00e9g\u00e9e en sucre 340 g",
+      "prix_base": 19850,
+      "prix_comparaison": 19900,
+      "variation": 50
     },
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "variation": 300
-    },
-    {
-      "list_id": 4104,
-      "name": "Tomates S\u00e9ch\u00e9es Sous Huile 280 G",
-      "prix_base": 28300,
-      "prix_comparaison": 29000,
-      "variation": 700
-    },
-    {
-      "list_id": 4010,
-      "name": "Huile Extra Vierge Truffle Blanc 250 Ml",
-      "prix_base": 51800,
-      "prix_comparaison": 52500,
-      "variation": 700
-    },
-    {
-      "list_id": 4103,
-      "name": "Tomates S\u00e9ch\u00e9es Sous Huile 1 Kg",
-      "prix_base": 65500,
-      "prix_comparaison": 69000,
-      "variation": 3500
-    },
-    {
-      "list_id": 4091,
-      "name": "Artichauts Coup\u00e9s Sous Huile 660 G",
-      "prix_base": 56200,
-      "prix_comparaison": 60000,
-      "variation": 3800
-    },
-    {
-      "list_id": 4007,
-      "name": "Huile Extra Vierge 1 L",
-      "prix_base": 85000,
-      "prix_comparaison": 89000,
-      "variation": 4000
-    },
-    {
-      "list_id": 4008,
-      "name": "Huile Extra Vierge 100 % Italien 500 Ml",
-      "prix_base": 112300,
-      "prix_comparaison": 119000,
-      "variation": 6700
-    },
-    {
-      "list_id": 13037,
-      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 50 cl",
-      "prix_base": 22850,
-      "prix_comparaison": 33500,
-      "variation": 10650
-    },
-    {
-      "list_id": 13085,
-      "name": "Bleu cr\u00e9meux 250 g",
-      "prix_base": 47900,
-      "prix_comparaison": 60200,
-      "variation": 12300
-    },
-    {
-      "list_id": 4006,
-      "name": "Huile Extra Vierge 5 L",
-      "prix_base": 396000,
-      "prix_comparaison": 410000,
-      "variation": 14000
-    },
-    {
-      "list_id": 13052,
-      "name": "C\u0153ur complice doux et cr\u00e9meux 300 g",
-      "prix_base": 50300,
-      "prix_comparaison": 65100,
-      "variation": 14800
-    },
-    {
-      "list_id": 4011,
-      "name": "Huile D\u2019Olive Pomace 5 L",
-      "prix_base": 260600,
-      "prix_comparaison": 280000,
-      "variation": 19400
-    },
-    {
-      "list_id": 13036,
-      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
-      "prix_base": 9500,
-      "prix_comparaison": 34900,
-      "variation": 25400
+      "list_id": 12464,
+      "name": "Riz Basmati 500 g",
+      "prix_base": 13100,
+      "prix_comparaison": 13200,
+      "variation": 100
     }
   ],
   "indice de prix": [
     {
-      "list_id": 5866,
-      "name": "Diffuseur \u00e9lectrique d'huile essentielle - floral clair (17x17x10,3cm)",
-      "prix_base": 126800,
-      "prix_comparaison": 103800,
-      "indice_prix": 81.86119873817034
+      "list_id": 10836,
+      "name": "Huile de massage \u00e0 l'argan 150 ml",
+      "prix_base": 34650,
+      "prix_comparaison": 34700,
+      "indice_prix": 100.14430014430015
     },
     {
-      "list_id": 5685,
-      "name": "Gel mains hydroalcoolique Huiles Essentielles 300 ml",
-      "prix_base": 8300,
-      "prix_comparaison": 6800,
-      "indice_prix": 81.92771084337349
+      "list_id": 12968,
+      "name": "Cr\u00e8mes glac\u00e9es Menthe Chocolat 1l",
+      "prix_base": 29850,
+      "prix_comparaison": 29900,
+      "indice_prix": 100.16750418760469
     },
     {
-      "list_id": 5686,
-      "name": "Gel mains hydroalcoolique Huiles Essentielles 5 L",
-      "prix_base": 97300,
-      "prix_comparaison": 81100,
-      "indice_prix": 83.35046248715314
+      "list_id": 12858,
+      "name": "Cr\u00e8me de marrons vanill\u00e9e 1/2",
+      "prix_base": 25850,
+      "prix_comparaison": 25900,
+      "indice_prix": 100.19342359767892
     },
     {
-      "list_id": 5778,
-      "name": "Huile nourrissante Argan 50 ml",
-      "prix_base": 7100,
-      "prix_comparaison": 6100,
-      "indice_prix": 85.91549295774648
+      "list_id": 12821,
+      "name": "Confiture figue all\u00e9g\u00e9e en sucre 340 g",
+      "prix_base": 19850,
+      "prix_comparaison": 19900,
+      "indice_prix": 100.25188916876574
     },
     {
-      "list_id": 5783,
-      "name": "Huile Nourrissante Karit\u00e9 50 ml",
-      "prix_base": 7100,
-      "prix_comparaison": 6100,
-      "indice_prix": 85.91549295774648
+      "list_id": 12445,
+      "name": "Riz Basmati 500 g",
+      "prix_base": 16150,
+      "prix_comparaison": 16200,
+      "indice_prix": 100.30959752321981
     },
     {
-      "list_id": 5774,
-      "name": "Huile nourrissante Ricin 50 ml",
-      "prix_base": 7100,
-      "prix_comparaison": 6100,
-      "indice_prix": 85.91549295774648
+      "list_id": 12859,
+      "name": "Sucre en poudre en sachet de 1 Kg",
+      "prix_base": 14250,
+      "prix_comparaison": 14300,
+      "indice_prix": 100.35087719298245
     },
     {
-      "list_id": 5677,
-      "name": "Cr\u00e8me lavante amande douce 300 ml",
-      "prix_base": 4100,
-      "prix_comparaison": 3700,
-      "indice_prix": 90.2439024390244
+      "list_id": 11443,
+      "name": "D\u00e9odorant \u00e0 bille cream care anti-transpirant 50 ml",
+      "prix_base": 9450,
+      "prix_comparaison": 9500,
+      "indice_prix": 100.52910052910053
     },
     {
-      "list_id": 4010,
-      "name": "Huile Extra Vierge Truffle Blanc 250 Ml",
-      "prix_base": 51800,
-      "prix_comparaison": 52500,
-      "indice_prix": 101.35135135135135
-    },
-    {
-      "list_id": 4104,
-      "name": "Tomates S\u00e9ch\u00e9es Sous Huile 280 G",
-      "prix_base": 28300,
-      "prix_comparaison": 29000,
-      "indice_prix": 102.47349823321555
-    },
-    {
-      "list_id": 4006,
-      "name": "Huile Extra Vierge 5 L",
-      "prix_base": 396000,
-      "prix_comparaison": 410000,
-      "indice_prix": 103.53535353535354
-    },
-    {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "indice_prix": 104.34782608695652
-    },
-    {
-      "list_id": 4007,
-      "name": "Huile Extra Vierge 1 L",
-      "prix_base": 85000,
-      "prix_comparaison": 89000,
-      "indice_prix": 104.70588235294117
-    },
-    {
-      "list_id": 4103,
-      "name": "Tomates S\u00e9ch\u00e9es Sous Huile 1 Kg",
-      "prix_base": 65500,
-      "prix_comparaison": 69000,
-      "indice_prix": 105.34351145038168
-    },
-    {
-      "list_id": 4008,
-      "name": "Huile Extra Vierge 100 % Italien 500 Ml",
-      "prix_base": 112300,
-      "prix_comparaison": 119000,
-      "indice_prix": 105.96616206589492
-    },
-    {
-      "list_id": 4091,
-      "name": "Artichauts Coup\u00e9s Sous Huile 660 G",
-      "prix_base": 56200,
-      "prix_comparaison": 60000,
-      "indice_prix": 106.76156583629893
-    },
-    {
-      "list_id": 4011,
-      "name": "Huile D\u2019Olive Pomace 5 L",
-      "prix_base": 260600,
-      "prix_comparaison": 280000,
-      "indice_prix": 107.44435917114352
-    },
-    {
-      "list_id": 13085,
-      "name": "Bleu cr\u00e9meux 250 g",
-      "prix_base": 47900,
-      "prix_comparaison": 60200,
-      "indice_prix": 125.67849686847599
-    },
-    {
-      "list_id": 13052,
-      "name": "C\u0153ur complice doux et cr\u00e9meux 300 g",
-      "prix_base": 50300,
-      "prix_comparaison": 65100,
-      "indice_prix": 129.4234592445328
-    },
-    {
-      "list_id": 13037,
-      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 50 cl",
-      "prix_base": 22850,
-      "prix_comparaison": 33500,
-      "indice_prix": 146.60831509846827
-    },
-    {
-      "list_id": 13036,
-      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
-      "prix_base": 9500,
-      "prix_comparaison": 34900,
-      "indice_prix": 367.36842105263156
+      "list_id": 12464,
+      "name": "Riz Basmati 500 g",
+      "prix_base": 13100,
+      "prix_comparaison": 13200,
+      "indice_prix": 100.76335877862596
     }
   ]
 }
