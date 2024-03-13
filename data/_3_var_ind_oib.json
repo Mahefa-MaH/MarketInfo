@@ -1,38 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
-      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
-      "prix_base": 9600,
-      "prix_comparaison": 9120,
-      "variation": -480
+      "cle": "vaissellesjetables_4108agitateurbioboisx50_html",
+      "name": "Agitateur Bio bois x50 Sinc\u00e8re",
+      "prix_base": 1200,
+      "prix_comparaison": 1140,
+      "variation": -60
+    },
+    {
+      "cle": "vaissellesjetables_4343kitcouvert41cetfetcuietscpla250log_html",
+      "name": "Kit 4 en 1 Couvert  Biod\u00e9gradable",
+      "prix_base": 1600,
+      "prix_comparaison": 1520,
+      "variation": -80
+    },
+    {
+      "cle": "vaissellesjetables_4340kit31boiscouteaufourchetteserviette250_html",
+      "name": "Kit 3 en 1 couvert en Bois Biod\u00e9gradable",
+      "prix_base": 2000,
+      "prix_comparaison": 1900,
+      "variation": -100
+    },
+    {
+      "cle": "aidesalapatisserie_12558sucrevanilline10x75gchabrior_html",
+      "name": "Sucre vanillin\u00e9 10x7,5g",
+      "prix_base": 2500,
+      "prix_comparaison": 2375,
+      "variation": -125
+    },
+    {
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2550,
+      "prix_comparaison": 2422,
+      "variation": -128
     }
   ],
   "prix_diminues": [
     {
-      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
-      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
-      "prix_base": 9600,
-      "prix_comparaison": 9120,
-      "variation": -480
+      "cle": "aidesalapatisserie_8933gamipcremepatissiereachaud10kg_html",
+      "name": "Gamip cr\u00e8me p\u00e2tissi\u00e8re \u00e0 chaud 10kg",
+      "prix_base": 220000,
+      "prix_comparaison": 209000,
+      "variation": -11000
+    },
+    {
+      "cle": "boitealimentaire_10082setde3platsrectangulairesenverreaveccouverclecookgo08l_html",
+      "name": "Set de 3 plats rectangulaires en verre avec couvercle Cook & Go 0,8L",
+      "prix_base": 119900,
+      "prix_comparaison": 113905,
+      "variation": -5995
+    },
+    {
+      "cle": "boitealimentaire_11843boiteaclips50ldomedia_html",
+      "name": "Boite \u00e0 clips  50L",
+      "prix_base": 99000,
+      "prix_comparaison": 94050,
+      "variation": -4950
+    },
+    {
+      "cle": "boitealimentaire_11840boitealimentaireaveccouvercle65ldomedia_html",
+      "name": "Boite alimentaire avec couvercle 65L",
+      "prix_base": 99000,
+      "prix_comparaison": 94050,
+      "variation": -4950
+    },
+    {
+      "cle": "boitealimentaire_3684boitealimentairebebeservice10pieces_html",
+      "name": "Bo\u00eete alimentaire B\u00e9b\u00e9 service 10 pi\u00e8ces",
+      "prix_base": 91350,
+      "prix_comparaison": 86782,
+      "variation": -4568
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
-      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
-      "prix_base": 9600,
-      "prix_comparaison": 9120,
+      "cle": "correspondance_7572240oeuilletsadhesifso13mm_html",
+      "name": "240 Oeuillets adh\u00e9sifs \u00d8 13mm",
+      "prix_base": 2650,
+      "prix_comparaison": 2518,
+      "indice_prix": 95.01886792452831
+    },
+    {
+      "cle": "feuilletsmobilesetdessin_5875papiercalque12feuilles24x3270g_html",
+      "name": "Papier calque 12 feuilles 24x32 70g",
+      "prix_base": 8250,
+      "prix_comparaison": 7838,
+      "indice_prix": 95.0060606060606
+    },
+    {
+      "cle": "feuilletsmobilesetdessin_8777papierdessinblanccagrain12feuilles24x32cm180gm_html",
+      "name": "Papier dessin blanc C \u00e0 grain 12 feuilles 24x32cm 180g/m\u00b2",
+      "prix_base": 17890,
+      "prix_comparaison": 16996,
+      "indice_prix": 95.00279485746226
+    },
+    {
+      "cle": "aidesalapatisserie_12559vermicellesmulticolores60gchabrior_html",
+      "name": "Vermicelles multicolores 60g",
+      "prix_base": 5900,
+      "prix_comparaison": 5605,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "aidesalapatisserie_5052tablettedechocolatapatisserblanc175g_html",
+      "name": "Tablette de chocolat \u00e0 p\u00e2tisser blanc 175g",
+      "prix_base": 12900,
+      "prix_comparaison": 12255,
       "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
-      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
-      "prix_base": 9600,
-      "prix_comparaison": 9120,
-      "indice_prix": 95.0
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2550,
+      "prix_comparaison": 2422,
+      "indice_prix": 94.98039215686275
+    },
+    {
+      "cle": "feuilletsmobilesetdessin_5876papiercalque12feuillesa470g_html",
+      "name": "Papier calque 12 feuilles A4 70g",
+      "prix_base": 5350,
+      "prix_comparaison": 5082,
+      "indice_prix": 94.99065420560747
+    },
+    {
+      "cle": "feuilletsmobilesetdessin_6434papierdessinblanc12feuillesa4180g_html",
+      "name": "Papier dessin blanc 12 feuilles A4 180g",
+      "prix_base": 6350,
+      "prix_comparaison": 6032,
+      "indice_prix": 94.99212598425197
+    },
+    {
+      "cle": "feuilletsmobilesetdessin_6179feuillescopiesdoublesperforeesformata4petitscarreaux200pages_html",
+      "name": "Feuilles copies doubles perfor\u00e9es format A4 petits carreaux 200 pages",
+      "prix_base": 6990,
+      "prix_comparaison": 6640,
+      "indice_prix": 94.9928469241774
+    },
+    {
+      "cle": "feuilletsmobilesetdessin_5869feuillesmobilessimplesperforeesa421x297cm200pages_html",
+      "name": "Feuilles mobiles simples perfor\u00e9es A4 21x29,7cm 200 pages",
+      "prix_base": 6990,
+      "prix_comparaison": 6640,
+      "indice_prix": 94.9928469241774
     }
   ]
 }

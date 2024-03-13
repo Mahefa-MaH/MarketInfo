@@ -29,6 +29,13 @@
       "variation": 50
     },
     {
+      "list_id": 11442,
+      "name": "D\u00e9odorant \u00e0 bille sensitive \u00e0 l'extrait d'avoine 50 ml",
+      "prix_base": 9450,
+      "prix_comparaison": 9500,
+      "variation": 50
+    },
+    {
       "list_id": 11443,
       "name": "D\u00e9odorant \u00e0 bille cream care anti-transpirant 50 ml",
       "prix_base": 9450,
@@ -99,6 +106,13 @@
       "prix_base": 14250,
       "prix_comparaison": 14300,
       "indice_prix": 100.35087719298245
+    },
+    {
+      "list_id": 11442,
+      "name": "D\u00e9odorant \u00e0 bille sensitive \u00e0 l'extrait d'avoine 50 ml",
+      "prix_base": 9450,
+      "prix_comparaison": 9500,
+      "indice_prix": 100.52910052910053
     },
     {
       "list_id": 11443,

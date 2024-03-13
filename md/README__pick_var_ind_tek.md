@@ -22,22 +22,27 @@
    - Prix actuel: 25,900 Ar
    - Variation: +50 Ar
 
-5. **Déodorant à bille cream care anti-transpirant 50 ml**
+5. **Déodorant à bille sensitive à l'extrait d'avoine 50 ml**
    - Prix avant: 9,450 Ar
    - Prix actuel: 9,500 Ar
    - Variation: +50 Ar
 
-6. **Crèmes glacées Menthe Chocolat 1l**
+6. **Déodorant à bille cream care anti-transpirant 50 ml**
+   - Prix avant: 9,450 Ar
+   - Prix actuel: 9,500 Ar
+   - Variation: +50 Ar
+
+7. **Crèmes glacées Menthe Chocolat 1l**
    - Prix avant: 29,850 Ar
    - Prix actuel: 29,900 Ar
    - Variation: +50 Ar
 
-7. **Confiture figue allégée en sucre 340 g**
+8. **Confiture figue allégée en sucre 340 g**
    - Prix avant: 19,850 Ar
    - Prix actuel: 19,900 Ar
    - Variation: +50 Ar
 
-8. **Riz Basmati 500 g**
+9. **Riz Basmati 500 g**
    - Prix avant: 13,100 Ar
    - Prix actuel: 13,200 Ar
    - Variation: +100 Ar
@@ -76,12 +81,17 @@
    - Prix actuel: 14,300 Ar
    - Indice de prix : 100.35
 
-7. **Déodorant à bille cream care anti-transpirant 50 ml**
+7. **Déodorant à bille sensitive à l'extrait d'avoine 50 ml**
    - Prix avant: 9,450 Ar
    - Prix actuel: 9,500 Ar
    - Indice de prix : 100.53
 
-8. **Riz Basmati 500 g**
+8. **Déodorant à bille cream care anti-transpirant 50 ml**
+   - Prix avant: 9,450 Ar
+   - Prix actuel: 9,500 Ar
+   - Indice de prix : 100.53
+
+9. **Riz Basmati 500 g**
    - Prix avant: 13,100 Ar
    - Prix actuel: 13,200 Ar
    - Indice de prix : 100.76
