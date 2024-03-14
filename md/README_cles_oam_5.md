@@ -2,21 +2,21 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
-   - Prix avant: 10,049,000 Ar
-   - Prix actuel: 10,049,000 Ar
+1. **Tondeuse autoportée thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m²**
+   - Prix avant: 13,054,000 Ar
+   - Prix actuel: 13,054,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Nettoyeur HP eau chaude 170 bars***
-   - Prix avant: 12,650,000 Ar
-   - Prix actuel: 12,650,000 Ar
+2. **Tondeuse autoportée thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm³ - Jusqu'a 2800 m²**
+   - Prix avant: 14,242,000 Ar
+   - Prix actuel: 14,242,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Plaque vibrante réversible 820x480mm Honda**
-   - Prix avant: 21,000,000 Ar
-   - Prix actuel: 21,000,000 Ar
+3. **TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1**
+   - Prix avant: 10,451,000 Ar
+   - Prix actuel: 10,451,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
+      "cle": "televiseurled_96219samsung85au7172tvledcrystal4kuhd85214cmsmarttv3portshdmi8806094907964_html",
+      "name": "SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI",
+      "prix_base": 11076000,
+      "prix_comparaison": 11076000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "baignoirekitbalneo_61032baignoirebalneo185x90x68cmversionpackluxe3700538218232_html",
+      "name": "Baignoire Baln\u00e9o - Pack Luxe - 185x90x68cm - Appuie-tete - Systeme Air Bubble - LED - Cascade d'eau",
+      "prix_base": 10364000,
+      "prix_comparaison": 10364000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
       "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
       "prix_base": 14643000,
       "prix_comparaison": 14643000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
-      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
-      "prix_base": 10451000,
-      "prix_comparaison": 10451000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "televiseurled_133093lgoled65c3tvoled65163cm4kultrahd3840x2160100hzsmarttvprocesseura9gen6dolbyatmos4xhdmiw8806091792013_html",
-      "name": "LG OLED 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI - W",
-      "prix_base": 10123000,
-      "prix_comparaison": 10123000,
       "variation": 0,
       "indice_prix": 100.0
     }

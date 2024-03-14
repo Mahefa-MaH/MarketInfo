@@ -1,26 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_100076tondeuseautoportee61cmdecoupe224ccmr22461scheppach4046664176213_html",
-      "name": "Tondeuse rider autoport\u00e9e thermique 61 cm de coupe 224cc MR224-61 SCHEPPACH - Bac de collecte de 150L",
-      "prix_base": 10010000,
-      "prix_comparaison": 10010000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
-      "prix_base": 14242000,
-      "prix_comparaison": 14242000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
-      "prix_base": 13055000,
-      "prix_comparaison": 13055000,
+      "cle": "televiseurled_133093lgoled65c3tvoled65163cm4kultrahd3840x2160100hzsmarttvprocesseura9gen6dolbyatmos4xhdmiw8806091792013_html",
+      "name": "LG OLED 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI - W",
+      "prix_base": 10123000,
+      "prix_comparaison": 10123000,
       "variation": 0,
       "indice_prix": 100.0
     }
