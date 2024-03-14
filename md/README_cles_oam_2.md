@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **SIEMENS CT636LES6 Machine a café iQ700 - Réservoir 2.4L - 1600W - Prépare 2 tass**
-   - Prix avant: 13,143,000 Ar
-   - Prix actuel: 13,143,000 Ar
+2. **Coffret à outils 416-200MZ**
+   - Prix avant: 13,200,000 Ar
+   - Prix actuel: 13,200,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Plaque Induction Elica NikolaTesla Prime S BL/A/83 PRF0182322 7400W 240V 63dB Safe Activation Noir**
-   - Prix avant: 10,010,000 Ar
-   - Prix actuel: 10,010,000 Ar
+3. **Betonnière tractable 290 L avec moteur électrique de 2CV**
+   - Prix avant: 11,900,000 Ar
+   - Prix actuel: 11,900,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

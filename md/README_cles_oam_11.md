@@ -2,21 +2,15 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Nettoyeur HP eau chaude 170 bars***
-   - Prix avant: 12,650,000 Ar
-   - Prix actuel: 12,650,000 Ar
+1. **TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1**
+   - Prix avant: 10,451,000 Ar
+   - Prix actuel: 10,451,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Echafaudage Speed XL Ht travail 10.44m**
-   - Prix avant: 22,000,000 Ar
-   - Prix actuel: 22,000,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **Echafaudage roulant Neolium 200 Line 14m**
-   - Prix avant: 37,000,000 Ar
-   - Prix actuel: 37,000,000 Ar
+2. **LG OLED 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI - W**
+   - Prix avant: 10,123,000 Ar
+   - Prix actuel: 10,123,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

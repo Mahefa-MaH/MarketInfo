@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
-      "name": "Echafaudage Speed XL Ht travail 10.44m",
-      "prix_base": 22000000,
-      "prix_comparaison": 22000000,
+      "cle": "televiseurled_96219samsung85au7172tvledcrystal4kuhd85214cmsmarttv3portshdmi8806094907964_html",
+      "name": "SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI",
+      "prix_base": 11076000,
+      "prix_comparaison": 11076000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
+      "cle": "baignoirekitbalneo_61032baignoirebalneo185x90x68cmversionpackluxe3700538218232_html",
+      "name": "Baignoire Baln\u00e9o - Pack Luxe - 185x90x68cm - Appuie-tete - Systeme Air Bubble - LED - Cascade d'eau",
+      "prix_base": 10364000,
+      "prix_comparaison": 10364000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_100755coffretaoutils416200mz_html",
-      "name": "Coffret \u00e0 outils 416-200MZ",
-      "prix_base": 13200000,
-      "prix_comparaison": 13200000,
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 14643000,
+      "prix_comparaison": 14643000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
-      "prix_base": 13054000,
-      "prix_comparaison": 13054000,
+      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
+      "name": "Echafaudage roulant Neolium 200 Line 14m",
+      "prix_base": 37000000,
+      "prix_comparaison": 37000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
-      "prix_base": 14242000,
-      "prix_comparaison": 14242000,
+      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
+      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
+      "prix_base": 12343000,
+      "prix_comparaison": 12343000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
-      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
-      "prix_base": 10451000,
-      "prix_comparaison": 10451000,
+      "cle": "tondeuse_95365gardenatondeuserobotsmartsilenolife1000tondsouslapluieetpassagesetroitsappsilencieuxrobotdetonte4078500060592_html",
+      "name": "GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages \u00e9troits, App, Silencieux, Robot de Tonte",
+      "prix_base": 11434000,
+      "prix_comparaison": 11434000,
       "variation": 0,
       "indice_prix": 100.0
     }

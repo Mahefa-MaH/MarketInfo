@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "machineacafeexpressobroyeur_91317siemensct636les6machineacafeiq700reservoir24l1600wprepare2tass4242003703595_html",
-      "name": "SIEMENS CT636LES6 Machine a caf\u00e9 iQ700 - R\u00e9servoir 2.4L - 1600W - Pr\u00e9pare 2 tass",
-      "prix_base": 13143000,
-      "prix_comparaison": 13143000,
+      "cle": "outillage_100755coffretaoutils416200mz_html",
+      "name": "Coffret \u00e0 outils 416-200MZ",
+      "prix_base": 13200000,
+      "prix_comparaison": 13200000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tableplaquedecuissoninduction_126375plaqueinductionelicanikolateslaprimesbla83prf01823227400w240v63dbsafeactivationnoir8020283054554_html",
-      "name": "Plaque Induction Elica NikolaTesla Prime S BL/A/83 PRF0182322 7400W 240V 63dB Safe Activation Noir",
-      "prix_base": 10010000,
-      "prix_comparaison": 10010000,
+      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
+      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     }

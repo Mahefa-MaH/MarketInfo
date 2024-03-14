@@ -1,79 +1,86 @@
 {
   "prix_augmentes": [
     {
-      "cle": "huiles_8990huiledolivevierge5l_html",
-      "name": "Huile d'olive vierge 5L",
-      "prix_base": 237500,
-      "prix_comparaison": 250000,
-      "variation": 12500
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 625005,
+      "prix_comparaison": 657900,
+      "variation": 32895
     },
     {
-      "cle": "fromagesduresetrapes_4551mozzamaestrellacosset2500grs_html",
-      "name": "Fromage Mozzarella cossette 2500g",
-      "prix_base": 142500,
-      "prix_comparaison": 150000,
-      "variation": 7500
+      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
+      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
+      "prix_base": 578550,
+      "prix_comparaison": 609000,
+      "variation": 30450
     },
     {
-      "cle": "fromagesduresetrapes_4550mozzamaestrella45rape2500grs_html",
-      "name": "Fromage Mozzarella 45% r\u00e2p\u00e9e 2500g",
-      "prix_base": 142500,
-      "prix_comparaison": 150000,
-      "variation": 7500
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 508250,
+      "prix_comparaison": 535000,
+      "variation": 26750
     },
     {
-      "cle": "promo2023_5344sprayhydratanthauteprotectionbiomonoi100ml_html",
-      "name": "Spray hydratant haute protection BIO mono\u00ef 100ml",
-      "prix_base": 109725,
-      "prix_comparaison": 115500,
-      "variation": 5775
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 494000,
+      "prix_comparaison": 520000,
+      "variation": 26000
     },
     {
-      "cle": "cornichonsolivescondiments_1147olivesvertes24265kg_html",
-      "name": "Olives vertes entiers 5kg",
-      "prix_base": 90915,
-      "prix_comparaison": 95700,
-      "variation": 4785
+      "cle": "ustensilesdecuisine_6943thermometredigital_html",
+      "name": "Thermom\u00e8tre digital",
+      "prix_base": 452105,
+      "prix_comparaison": 475900,
+      "variation": 23795
     }
   ],
   "prix_diminues": [
     {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2422,
-      "prix_comparaison": 2550,
-      "variation": 128
+      "cle": "promo2023_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
     },
     {
-      "cle": "correspondance_7572240oeuilletsadhesifso13mm_html",
-      "name": "240 Oeuillets adh\u00e9sifs \u00d8 13mm",
-      "prix_base": 2518,
-      "prix_comparaison": 2650,
-      "variation": 132
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
     },
     {
-      "cle": "cremessoinsducorps_2386vaseline50ml_html",
-      "name": "Vaseline 50ml",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "variation": 138
+      "cle": "promo2023_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
     },
     {
-      "cle": "carnetfichesrepertoireetblocnotes_6182carnet9x14cm96pages_html",
-      "name": "Carnet 9x14cm  96 pages",
-      "prix_base": 3230,
-      "prix_comparaison": 3400,
-      "variation": 170
+      "cle": "promo2023_13982crackyminipizza_html",
+      "name": "Cracky mini pizza",
+      "prix_base": 665,
+      "prix_comparaison": 700,
+      "variation": 35
     },
     {
-      "cle": "vinaigressaucescrudites_1784citrilemonjuiceconcentrade200ml_html",
-      "name": "Concentr\u00e9 de citron lemon Piacelli 200ml",
-      "prix_base": 3230,
-      "prix_comparaison": 3400,
-      "variation": 170
+      "cle": "bonbonsgelifiesetacidules_7177bonbonssparks16g_html",
+      "name": "Bonbons Sparks 16g",
+      "prix_base": 855,
+      "prix_comparaison": 900,
+      "variation": 45
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1852,
+      "prix_comparaison": 1950,
+      "indice_prix": 105.29157667386609
+    },
     {
       "cle": "correspondance_879221etiquettesblanches38x63mm_html",
       "name": "21 Etiquettes blanches 38x63mm",
@@ -82,69 +89,62 @@
       "indice_prix": 105.28488852188273
     },
     {
-      "cle": "cremessoinsducorps_2386vaseline50ml_html",
-      "name": "Vaseline 50ml",
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
       "prix_base": 2612,
       "prix_comparaison": 2750,
       "indice_prix": 105.2833078101072
     },
     {
-      "cle": "selsepicesherbes_5914cannellemoulue35g_html",
-      "name": "Cannelle moulue 35g",
-      "prix_base": 4132,
-      "prix_comparaison": 4350,
-      "indice_prix": 105.27589545014521
+      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
+      "name": "2 Recharges porte mines 0,7mm - HB",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     },
     {
-      "cle": "feuilletsmobilesetdessin_5876papiercalque12feuillesa470g_html",
-      "name": "Papier calque 12 feuilles A4 70g",
-      "prix_base": 5082,
-      "prix_comparaison": 5350,
-      "indice_prix": 105.27351436442345
-    },
-    {
-      "cle": "feuilletsmobilesetdessin_6434papierdessinblanc12feuillesa4180g_html",
-      "name": "Papier dessin blanc 12 feuilles A4 180g",
-      "prix_base": 6032,
-      "prix_comparaison": 6350,
-      "indice_prix": 105.27188328912467
+      "cle": "cremessoinsducorps_2386vaseline50ml_html",
+      "name": "Vaseline 50ml",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "correspondance_7572240oeuilletsadhesifso13mm_html",
-      "name": "240 Oeuillets adh\u00e9sifs \u00d8 13mm",
-      "prix_base": 2518,
-      "prix_comparaison": 2650,
-      "indice_prix": 105.24225575853852
+      "cle": "promo2023_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "cornichonsolivescondiments_1140olivesfarciesboite50grpack3_html",
-      "name": "Olives farcies boite 50g",
-      "prix_base": 3506,
-      "prix_comparaison": 3690,
-      "indice_prix": 105.24814603536794
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "selsepicesherbes_5950grainesdepavot50g_html",
-      "name": "Graines de Pavot 50g",
-      "prix_base": 5558,
-      "prix_comparaison": 5850,
-      "indice_prix": 105.25368837711407
+      "cle": "promo2023_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "nettoyantsmultiusages_4083tljsprayjavel500ml_html",
-      "name": "Spray avec Javel 500ml",
-      "prix_base": 6508,
-      "prix_comparaison": 6850,
-      "indice_prix": 105.25507068223725
+      "cle": "produitskibomoinsde5000ar_2472cotontige100pieces_html",
+      "name": "Coton-tige 100 pi\u00e8ces",
+      "prix_base": 1758,
+      "prix_comparaison": 1850,
+      "indice_prix": 105.23321956769055
     },
     {
-      "cle": "feuilletsmobilesetdessin_5875papiercalque12feuilles24x3270g_html",
-      "name": "Papier calque 12 feuilles 24x32 70g",
-      "prix_base": 7838,
-      "prix_comparaison": 8250,
-      "indice_prix": 105.25644297014544
+      "cle": "eauxdesource_3066eaudesource6x2l_html",
+      "name": "Eau de Source 2L",
+      "prix_base": 2366,
+      "prix_comparaison": 2490,
+      "indice_prix": 105.24091293322063
     }
   ]
 }
