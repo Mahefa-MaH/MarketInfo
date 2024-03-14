@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 4604,
-      "prix_base": 691500,
-      "name": "Machine \u00e0 plastifier fusion A3 1100 L",
-      "prix_comparaison": 1005100,
-      "variation": 313600
-    },
-    {
-      "list_id": 4621,
-      "prix_base": 1464700,
-      "name": "Machine \u00e0 relier plastique C210",
-      "prix_comparaison": 1681200,
-      "variation": 216500
-    },
-    {
-      "list_id": 8,
-      "prix_base": 4140000,
-      "name": "Machine \u00e0 caf\u00e9 Royal Black 1850 W",
-      "prix_comparaison": 4320000,
-      "variation": 180000
+      "list_id": 13335,
+      "prix_base": 150200,
+      "name": "Brosse \u00e0 dents \u00e9lectrique rechargeable",
+      "prix_comparaison": 154800,
+      "variation": 4600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 10243,
-      "prix_base": 50000,
-      "name": "Lessive en poudre 3 kg",
-      "prix_comparaison": 48060,
-      "variation": -1940
-    },
-    {
-      "list_id": 8806,
-      "prix_base": 25000,
-      "name": "Balai Pavoire avec manche",
-      "prix_comparaison": 24000,
-      "variation": -1000
-    },
-    {
-      "list_id": 8441,
-      "prix_base": 18750,
-      "name": "Shampooing Dema Xpro apaise 225 ml",
-      "prix_comparaison": 18000,
-      "variation": -750
+      "list_id": 13335,
+      "prix_base": 150200,
+      "name": "Brosse \u00e0 dents \u00e9lectrique rechargeable",
+      "prix_comparaison": 154800,
+      "variation": 4600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 4604,
-      "name": "Machine \u00e0 plastifier fusion A3 1100 L",
-      "prix_base": 691500,
-      "prix_comparaison": 1005100,
-      "indice_prix": 145.35068691250905
-    },
-    {
-      "list_id": 4572,
-      "name": "Intercalaire A4 carton 6 positions",
-      "prix_base": 3800,
-      "prix_comparaison": 4700,
-      "indice_prix": 123.6842105263158
-    },
-    {
-      "list_id": 10132,
-      "name": "Poubelle de cuisine 30 L",
-      "prix_base": 73000,
-      "prix_comparaison": 90000,
-      "indice_prix": 123.28767123287672
+      "list_id": 13335,
+      "name": "Brosse \u00e0 dents \u00e9lectrique rechargeable",
+      "prix_base": 150200,
+      "prix_comparaison": 154800,
+      "indice_prix": 103.06258322237018
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 8441,
-      "name": "Shampooing Dema Xpro apaise 225 ml",
-      "prix_base": 18750,
-      "prix_comparaison": 18000,
-      "indice_prix": 96.0
-    },
-    {
-      "list_id": 8467,
-      "name": "Shampooing Derma Xpro Hydrate 225 ml",
-      "prix_base": 18750,
-      "prix_comparaison": 18000,
-      "indice_prix": 96.0
-    },
-    {
-      "list_id": 10242,
-      "name": "Lessive en poudre 900 g",
-      "prix_base": 15000,
-      "prix_comparaison": 14400,
-      "indice_prix": 96.0
+      "list_id": 13335,
+      "name": "Brosse \u00e0 dents \u00e9lectrique rechargeable",
+      "prix_base": 150200,
+      "prix_comparaison": 154800,
+      "indice_prix": 103.06258322237018
     }
   ]
 }
