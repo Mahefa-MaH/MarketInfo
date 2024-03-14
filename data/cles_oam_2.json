@@ -1,18 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_100076tondeuseautoportee61cmdecoupe224ccmr22461scheppach4046664176213_html",
-      "name": "Tondeuse rider autoport\u00e9e thermique 61 cm de coupe 224cc MR224-61 SCHEPPACH - Bac de collecte de 150L",
-      "prix_base": 10010000,
-      "prix_comparaison": 10010000,
+      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
+      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
+      "prix_base": 13118000,
+      "prix_comparaison": 13118000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
-      "prix_base": 13054000,
-      "prix_comparaison": 13054000,
+      "cle": "machineacafeexpressobroyeur_91317siemensct636les6machineacafeiq700reservoir24l1600wprepare2tass4242003703595_html",
+      "name": "SIEMENS CT636LES6 Machine a caf\u00e9 iQ700 - R\u00e9servoir 2.4L - 1600W - Pr\u00e9pare 2 tass",
+      "prix_base": 13143000,
+      "prix_comparaison": 13143000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tableplaquedecuissoninduction_126375plaqueinductionelicanikolateslaprimesbla83prf01823227400w240v63dbsafeactivationnoir8020283054554_html",
+      "name": "Plaque Induction Elica NikolaTesla Prime S BL/A/83 PRF0182322 7400W 240V 63dB Safe Activation Noir",
+      "prix_base": 10010000,
+      "prix_comparaison": 10010000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
-      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
-      "prix_base": 27000000,
-      "prix_comparaison": 27000000,
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 14643000,
+      "prix_comparaison": 14643000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
-      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
-      "prix_base": 21450000,
-      "prix_comparaison": 21450000,
+      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
+      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
+      "prix_base": 10451000,
+      "prix_comparaison": 10451000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
-      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "televiseurled_133093lgoled65c3tvoled65163cm4kultrahd3840x2160100hzsmarttvprocesseura9gen6dolbyatmos4xhdmiw8806091792013_html",
+      "name": "LG OLED 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI - W",
+      "prix_base": 10123000,
+      "prix_comparaison": 10123000,
       "variation": 0,
       "indice_prix": 100.0
     }
