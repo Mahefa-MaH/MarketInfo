@@ -1,6 +1,6 @@
-# Market Info - File 35
+# Market Info - File 39
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Riz makalioka 1kg**
    - Prix avant: 4,350 Ar

@@ -1,6 +1,6 @@
-# Market Info - File 42
+# Market Info - File 47
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Ecran PC - SAMSUNG - S24C310EAU - 24 FHD - Dalle IPS - 5 ms - 75 Hz - HDMI / VGA**
    - Prix avant: 884,000 Ar

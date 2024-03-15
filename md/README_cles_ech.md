@@ -1,6 +1,6 @@
-# Market Info - File 5
+# Market Info - File 6
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre Blanc Ramatoa™ 1kg | Sucre de canne raffiné**
    - Prix avant: 9,510 Ar

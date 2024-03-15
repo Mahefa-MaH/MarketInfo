@@ -1,22 +1,22 @@
-# Market Info - File 6
+# Market Info - File 7
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty**
-   - Prix avant: 14,255,000 Ar
-   - Prix actuel: 14,255,000 Ar
+1. **Groupe électrogene Essence DEFPRO - 8500 W - Triphasé bi-tension**
+   - Prix avant: 11,801,000 Ar
+   - Prix actuel: 11,801,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
-   - Prix avant: 19,101,000 Ar
-   - Prix actuel: 19,101,000 Ar
+2. **Groupe électrogene diesel ZEUZ - Silencieux - 6300 W - Démarrage électrique**
+   - Prix avant: 13,208,000 Ar
+   - Prix actuel: 13,208,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty**
-   - Prix avant: 19,542,000 Ar
-   - Prix actuel: 19,542,000 Ar
+3. **Groupe électrogène Hyundai 9/10kva 230V DHY12000XSE**
+   - Prix avant: 27,000,000 Ar
+   - Prix actuel: 27,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

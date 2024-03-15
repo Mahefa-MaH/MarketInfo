@@ -1,6 +1,6 @@
-# Market Info - File 12
+# Market Info - File 14
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Riz Basmati 500 g**
    - Prix avant: 16,150 Ar

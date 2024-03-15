@@ -1,6 +1,6 @@
-# Market Info - File 19
+# Market Info - File 22
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre rouge 1 kg**
    - Prix avant: 5,200 Ar

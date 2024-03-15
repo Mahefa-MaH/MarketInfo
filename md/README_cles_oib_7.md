@@ -1,6 +1,6 @@
-# Market Info - File 17
+# Market Info - File 20
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Riz blanc de l'Itasy 50kg**
    - Prix avant: 184,000 Ar

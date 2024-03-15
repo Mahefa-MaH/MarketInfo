@@ -1,20 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "piscinecompletekitpiscine_99516grepiscinerondeaciero480mxh132mimitationboisnordiquefiltrationasable8412081313726_html",
-      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,32m - Imitation bois Nordique Filtration a sable",
-      "prix_base": 10604000,
-      "prix_comparaison": 13428000,
-      "variation": 2824000,
-      "indice_prix": 126.63145982648058
+      "cle": "ensemblesommiermatelas_61839webedensemblematelassommierrelaxation160x200mousse21cmmifermeetequilibrenoiretgrisanthracitecor3700726907115_html",
+      "name": "WEBED Ensemble matelas + sommier relaxation 160 x 200 - Mousse - 21 cm - Mi-ferme et \u00e9quilibr\u00e9 - Noir et gris anthracite - CORDU",
+      "prix_base": 10010000,
+      "prix_comparaison": 10010000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
-      "prix_base": 11246000,
-      "prix_comparaison": 14242000,
-      "variation": 2996000,
-      "indice_prix": 126.64058331851325
+      "cle": "hotte_127089tabledecuissoninductionaspirantesiemens4feux81cmex875lx67eiq7004242003867198_html",
+      "name": "Table de cuisson induction aspirante SIEMENS - 4 feux - 81 cm - EX875LX67E IQ700",
+      "prix_base": 15219000,
+      "prix_comparaison": 15219000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11149000,
+      "prix_comparaison": 11149000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

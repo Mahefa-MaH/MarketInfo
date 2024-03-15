@@ -1,6 +1,6 @@
-# Market Info - File 36
+# Market Info - File 40
 
-## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Gamip crème pâtissière à chaud 10kg**
    - Prix avant: 220,000 Ar

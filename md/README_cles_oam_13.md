@@ -1,16 +1,22 @@
-# Market Info - File 39
+# Market Info - File 44
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **GRE - Piscine ronde acier Ø4,80m x H: 1,32m - Imitation bois Nordique Filtration a sable**
-   - Prix avant: 10,604,000 Ar
-   - Prix actuel: 13,428,000 Ar
-   - Variation: +2,824,000 Ar
-   - Indice de prix : 126.63
+1. **WEBED Ensemble matelas + sommier relaxation 160 x 200 - Mousse - 21 cm - Mi-ferme et équilibré - Noir et gris anthracite - CORDU**
+   - Prix avant: 10,010,000 Ar
+   - Prix actuel: 10,010,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 
-2. **Tondeuse autoportée thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm³ - Jusqu'a 2800 m²**
-   - Prix avant: 11,246,000 Ar
-   - Prix actuel: 14,242,000 Ar
-   - Variation: +2,996,000 Ar
-   - Indice de prix : 126.64
+2. **Table de cuisson induction aspirante SIEMENS - 4 feux - 81 cm - EX875LX67E IQ700**
+   - Prix avant: 15,219,000 Ar
+   - Prix actuel: 15,219,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sidéral**
+   - Prix avant: 11,149,000 Ar
+   - Prix actuel: 11,149,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 

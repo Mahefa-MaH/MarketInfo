@@ -1,10 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_124795pcdebureaugamingomenbyhp45lgt221036nfryzen97900xram32goddr51tossdnvidiageforcertx409024gofreedo0197497044461_html",
-      "name": "PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS",
-      "prix_base": 33808000,
-      "prix_comparaison": 33808000,
+      "cle": "ordinateurportable_133174apple14macbookprom3pro2023ram18gostockage512goargentazerty0195949077890_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 12221000,
+      "prix_comparaison": 12221000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
+      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
+      "prix_base": 19532000,
+      "prix_comparaison": 19532000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
+      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
+      "prix_base": 16683000,
+      "prix_comparaison": 16683000,
       "variation": 0,
       "indice_prix": 100.0
     }

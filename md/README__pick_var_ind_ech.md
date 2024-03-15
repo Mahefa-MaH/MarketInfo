@@ -1,6 +1,6 @@
-# Market Info - File 15
+# Market Info - File 17
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Pomme sucrée 1kg | Fruit frais de Madagascar**
    - Prix avant: 8,000 Ar
