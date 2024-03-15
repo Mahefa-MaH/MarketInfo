@@ -29,8 +29,8 @@
       "variation": 26000
     },
     {
-      "cle": "ustensilesdecuisine_6943thermometredigital_html",
-      "name": "Thermom\u00e8tre digital",
+      "cle": "accessoiresdecoupe_7014coupelegumes_html",
+      "name": "Coupe-l\u00e9gumes",
       "prix_base": 452105,
       "prix_comparaison": 475900,
       "variation": 23795
@@ -75,6 +75,13 @@
   ],
   "indices_prix_plus_eleves": [
     {
+      "cle": "promo2023_9399boulettesnatures150g_html",
+      "name": "Boulettes natures 150g",
+      "prix_base": 3100,
+      "prix_comparaison": 3400,
+      "indice_prix": 109.6774193548387
+    },
+    {
       "cle": "crayonetcoloriage_7565gommeplastique_html",
       "name": "Gomme plastique",
       "prix_base": 1852,
@@ -91,13 +98,6 @@
     {
       "cle": "soinsbebe_2404talcbebepoudre75g_html",
       "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
-    },
-    {
-      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
-      "name": "2 Recharges porte mines 0,7mm - HB",
       "prix_base": 2612,
       "prix_comparaison": 2750,
       "indice_prix": 105.2833078101072

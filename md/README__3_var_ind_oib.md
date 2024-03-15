@@ -22,7 +22,7 @@
    - Prix actuel: 520,000 Ar
    - Variation: +26,000 Ar
 
-5. **Thermomètre digital**
+5. **Coupe-légumes**
    - Prix avant: 452,105 Ar
    - Prix actuel: 475,900 Ar
    - Variation: +23,795 Ar
@@ -56,22 +56,22 @@
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Gomme plastique**
+1. **Boulettes natures 150g**
+   - Prix avant: 3,100 Ar
+   - Prix actuel: 3,400 Ar
+   - Indice de prix : 109.68
+
+2. **Gomme plastique**
    - Prix avant: 1,852 Ar
    - Prix actuel: 1,950 Ar
    - Indice de prix : 105.29
 
-2. **21 Etiquettes blanches 38x63mm**
+3. **21 Etiquettes blanches 38x63mm**
    - Prix avant: 2,422 Ar
    - Prix actuel: 2,550 Ar
    - Indice de prix : 105.28
 
-3. **Talc bébé poudre 75g**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
-
-4. **2 Recharges porte mines 0,7mm - HB**
+4. **Talc bébé poudre 75g**
    - Prix avant: 2,612 Ar
    - Prix actuel: 2,750 Ar
    - Indice de prix : 105.28
