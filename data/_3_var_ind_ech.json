@@ -1,38 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_lauthentiquegasy250g_",
-      "name": "L\u2019Authentique Gasy 250g",
-      "prix_base": 20830,
-      "prix_comparaison": 21330,
-      "variation": 500
+      "cle": "produit_cornichon72clmilafood_",
+      "name": "Cornichon 72cl Mila Food",
+      "prix_base": 16410,
+      "prix_comparaison": 23680,
+      "variation": 7270
+    },
+    {
+      "cle": "produit_cuissedepouletenbarquettechanteclerentre350get500gfraisoucongeleauchoix_",
+      "name": "Cuisse de poulet en barquette Chantecler\u2122 entre 400g et 500g | Surgel\u00e9 | Livraison J+2",
+      "prix_base": 10582,
+      "prix_comparaison": 16670,
+      "variation": 6088
+    },
+    {
+      "cle": "produit_fromageemmentalfrancaisrape100gpaysanbreton_",
+      "name": "Fromage emmental Fran\u00e7ais r\u00e2p\u00e9 100g Paysan Breton\u2122",
+      "prix_base": 11560,
+      "prix_comparaison": 17320,
+      "variation": 5760
+    },
+    {
+      "cle": "produit_champignonentieres12alba_",
+      "name": "Champignon Enti\u00e8res 1/2 Alba",
+      "prix_base": 9870,
+      "prix_comparaison": 12480,
+      "variation": 2610
+    },
+    {
+      "cle": "produit_viandehacheedepoulet500g_",
+      "name": "Viande Hach\u00e9e de Poulet 500g",
+      "prix_base": 20133,
+      "prix_comparaison": 22155,
+      "variation": 2022
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_lauthentiquegasy250g_",
-      "name": "L\u2019Authentique Gasy 250g",
-      "prix_base": 20830,
-      "prix_comparaison": 21330,
-      "variation": 500
+      "cle": "produit_traversribsdeporc500g_",
+      "name": "Travers de Porc | 500g  \u2013 Ribs",
+      "prix_base": 14000,
+      "prix_comparaison": 14667,
+      "variation": 667
+    },
+    {
+      "cle": "produit_viandedeporchachee500gsansmelangesansassaisonnement_",
+      "name": "Viande de Porc hach\u00e9e 500g | sans m\u00e9lange sans assaisonnement",
+      "prix_base": 13333,
+      "prix_comparaison": 14667,
+      "variation": 1334
+    },
+    {
+      "cle": "produit_viandehacheedepoulet500g_",
+      "name": "Viande Hach\u00e9e de Poulet 500g",
+      "prix_base": 20133,
+      "prix_comparaison": 22155,
+      "variation": 2022
+    },
+    {
+      "cle": "produit_champignonentieres12alba_",
+      "name": "Champignon Enti\u00e8res 1/2 Alba",
+      "prix_base": 9870,
+      "prix_comparaison": 12480,
+      "variation": 2610
+    },
+    {
+      "cle": "produit_fromageemmentalfrancaisrape100gpaysanbreton_",
+      "name": "Fromage emmental Fran\u00e7ais r\u00e2p\u00e9 100g Paysan Breton\u2122",
+      "prix_base": 11560,
+      "prix_comparaison": 17320,
+      "variation": 5760
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_lauthentiquegasy250g_",
-      "name": "L\u2019Authentique Gasy 250g",
-      "prix_base": 20830,
-      "prix_comparaison": 21330,
-      "indice_prix": 102.40038406144983
+      "cle": "produit_cuissedepouletenbarquettechanteclerentre350get500gfraisoucongeleauchoix_",
+      "name": "Cuisse de poulet en barquette Chantecler\u2122 entre 400g et 500g | Surgel\u00e9 | Livraison J+2",
+      "prix_base": 10582,
+      "prix_comparaison": 16670,
+      "indice_prix": 157.53165753165754
+    },
+    {
+      "cle": "produit_fromageemmentalfrancaisrape100gpaysanbreton_",
+      "name": "Fromage emmental Fran\u00e7ais r\u00e2p\u00e9 100g Paysan Breton\u2122",
+      "prix_base": 11560,
+      "prix_comparaison": 17320,
+      "indice_prix": 149.82698961937717
+    },
+    {
+      "cle": "produit_cornichon72clmilafood_",
+      "name": "Cornichon 72cl Mila Food",
+      "prix_base": 16410,
+      "prix_comparaison": 23680,
+      "indice_prix": 144.30225472273005
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_lauthentiquegasy250g_",
-      "name": "L\u2019Authentique Gasy 250g",
-      "prix_base": 20830,
-      "prix_comparaison": 21330,
-      "indice_prix": 102.40038406144983
+      "cle": "produit_traversribsdeporc500g_",
+      "name": "Travers de Porc | 500g  \u2013 Ribs",
+      "prix_base": 14000,
+      "prix_comparaison": 14667,
+      "indice_prix": 104.76428571428572
+    },
+    {
+      "cle": "produit_viandedeporchachee500gsansmelangesansassaisonnement_",
+      "name": "Viande de Porc hach\u00e9e 500g | sans m\u00e9lange sans assaisonnement",
+      "prix_base": 13333,
+      "prix_comparaison": 14667,
+      "indice_prix": 110.00525013125328
+    },
+    {
+      "cle": "produit_viandehacheedepoulet500g_",
+      "name": "Viande Hach\u00e9e de Poulet 500g",
+      "prix_base": 20133,
+      "prix_comparaison": 22155,
+      "indice_prix": 110.04321263597079
     }
   ]
 }

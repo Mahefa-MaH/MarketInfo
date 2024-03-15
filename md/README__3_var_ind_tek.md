@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Poudre De Lait Entier Fortigrow 750 G**
-   - Prix avant: 28,200 Ar
-   - Prix actuel: 35,200 Ar
-   - Variation: +7,000 Ar
+1. **Perforateur 4 trous Essentials 10 feuilles**
+   - Prix avant: 33,900 Ar
+   - Prix actuel: 44,800 Ar
+   - Variation: +10,900 Ar
 
-2. **Porte revue translucide**
-   - Prix avant: 15,600 Ar
-   - Prix actuel: 21,600 Ar
-   - Variation: +6,000 Ar
+2. **Eau  de source naturelle 1 L - Pack De 8**
+   - Prix avant: 11,500 Ar
+   - Prix actuel: 16,800 Ar
+   - Variation: +5,300 Ar
 
-3. **Manifold autocopiant 50/3 21 x 29,7**
-   - Prix avant: 32,400 Ar
-   - Prix actuel: 37,200 Ar
-   - Variation: +4,800 Ar
+3. **Poudre Café Brown Coffee 3En1 30 G Pack De 10**
+   - Prix avant: 10,500 Ar
+   - Prix actuel: 11,800 Ar
+   - Variation: +1,300 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **cappuccino Capsule Etui de 10 pièces**
-   - Prix avant: 31,400 Ar
-   - Prix actuel: 28,500 Ar
-   - Variation: -2,900 Ar
+1. **Tasse transparente 22 cl**
+   - Prix avant: 16,800 Ar
+   - Prix actuel: 16,200 Ar
+   - Variation: -600 Ar
 
-2. **Sirop Grenadine Pet 100 Cl**
-   - Prix avant: 9,400 Ar
-   - Prix actuel: 8,900 Ar
+2. **Bière Bouteille 50 cl**
+   - Prix avant: 4,700 Ar
+   - Prix actuel: 4,200 Ar
    - Variation: -500 Ar
 
-3. **Poudre café 3en1 12 sachet de 21 g**
-   - Prix avant: 12,400 Ar
-   - Prix actuel: 12,000 Ar
-   - Variation: -400 Ar
+3. **Bière Bouteille 50 cl consigné**
+   - Prix avant: 4,900 Ar
+   - Prix actuel: 4,600 Ar
+   - Variation: -300 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Porte revue translucide**
-   - Prix avant: 15,600 Ar
-   - Prix actuel: 21,600 Ar
-   - Indice de prix : 138.46
+1. **Eau  de source naturelle 1 L - Pack De 8**
+   - Prix avant: 11,500 Ar
+   - Prix actuel: 16,800 Ar
+   - Indice de prix : 146.09
 
-2. **Sirop Pech-Abrico Pet 50 Cl**
-   - Prix avant: 4,700 Ar
-   - Prix actuel: 6,300 Ar
-   - Indice de prix : 134.04
+2. **Perforateur 4 trous Essentials 10 feuilles**
+   - Prix avant: 33,900 Ar
+   - Prix actuel: 44,800 Ar
+   - Indice de prix : 132.15
 
-3. **Sirop Banane-Kiwi Pet 50 Cl**
-   - Prix avant: 4,700 Ar
-   - Prix actuel: 6,100 Ar
-   - Indice de prix : 129.79
+3. **Bière Bouteille 33 cl  consigné**
+   - Prix avant: 3,600 Ar
+   - Prix actuel: 4,300 Ar
+   - Indice de prix : 119.44
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **cappuccino Capsule Etui de 10 pièces**
-   - Prix avant: 31,400 Ar
-   - Prix actuel: 28,500 Ar
-   - Indice de prix : 90.76
+1. **Bière Bouteille 50 cl**
+   - Prix avant: 4,700 Ar
+   - Prix actuel: 4,200 Ar
+   - Indice de prix : 89.36
 
-2. **Sirop Grenadine Pet 100 Cl**
-   - Prix avant: 9,400 Ar
-   - Prix actuel: 8,900 Ar
-   - Indice de prix : 94.68
+2. **Bière Bouteille 50 cl consigné**
+   - Prix avant: 4,900 Ar
+   - Prix actuel: 4,600 Ar
+   - Indice de prix : 93.88
 
-3. **Poudre café 3en1 12 sachet de 21 g**
-   - Prix avant: 12,400 Ar
-   - Prix actuel: 12,000 Ar
-   - Indice de prix : 96.77
+3. **Tasse transparente 22 cl**
+   - Prix avant: 16,800 Ar
+   - Prix actuel: 16,200 Ar
+   - Indice de prix : 96.43
 
