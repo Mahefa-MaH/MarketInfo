@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
-      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
-      "prix_base": 13118000,
-      "prix_comparaison": 13118000,
+      "cle": "ordinateurportable_133170apple16macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949073939_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 14647000,
+      "prix_comparaison": 14647000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_100755coffretaoutils416200mz_html",
-      "name": "Coffret \u00e0 outils 416-200MZ",
-      "prix_base": 13200000,
-      "prix_comparaison": 13200000,
+      "cle": "ordinateurportable_133173apple16macbookprom3pro2023ram36gostockage512goargentazerty0195949075698_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 16906000,
+      "prix_comparaison": 16906000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
-      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
+      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
+      "prix_base": 11733000,
+      "prix_comparaison": 11733000,
       "variation": 0,
       "indice_prix": 100.0
     }

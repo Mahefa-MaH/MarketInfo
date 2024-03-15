@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "machineacafeexpressobroyeur_49153delonghiecam65075msmachineexpressoautomatiqueavecbroyeurprimadonnaeliteinox8004399331013_html",
-      "name": "Machine expresso automatique avec broyeur DELONGHI PrimaDonna Elite ECAM 650.75.MS - Inox",
-      "prix_base": 10621000,
-      "prix_comparaison": 10621000,
+      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
+      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
+      "prix_base": 10049000,
+      "prix_comparaison": 10049000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "machineacafeexpressobroyeur_49156machineacafeexpressobroyeurdelonghiecam65085msgrisconnecteprimadonnaeliteexperience8004399331648_html",
-      "name": "Machine expresso automatique avec broyeur -DELONGHI PrimaDonna Elite Experience ECAM650.85.MS - Gris - Connect\u00e9",
-      "prix_base": 10743000,
-      "prix_comparaison": 10743000,
+      "cle": "ordinateurtoutenun_133164apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursvert0194253780625_html",
+      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - vert",
+      "prix_base": 10074000,
+      "prix_comparaison": 10074000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
-      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
-      "prix_base": 11017000,
-      "prix_comparaison": 11017000,
+      "cle": "ordinateurportable_133171apple16macbookprom3pro2023ram36gostockage512gonoirsideralazerty0195949074370_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 16906000,
+      "prix_comparaison": 16906000,
       "variation": 0,
       "indice_prix": 100.0
     }

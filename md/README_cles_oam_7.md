@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI**
-   - Prix avant: 11,076,000 Ar
-   - Prix actuel: 11,076,000 Ar
+1. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 21,795,000 Ar
+   - Prix actuel: 21,795,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Baignoire Balnéo - Pack Luxe - 185x90x68cm - Appuie-tete - Systeme Air Bubble - LED - Cascade d'eau**
-   - Prix avant: 10,364,000 Ar
-   - Prix actuel: 10,364,000 Ar
+2. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 19,542,000 Ar
+   - Prix actuel: 19,542,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe énergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm**
-   - Prix avant: 14,643,000 Ar
-   - Prix actuel: 14,643,000 Ar
+3. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty**
+   - Prix avant: 12,221,000 Ar
+   - Prix actuel: 12,221,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

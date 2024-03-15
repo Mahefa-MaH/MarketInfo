@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tableplaquedecuissoninduction_126375plaqueinductionelicanikolateslaprimesbla83prf01823227400w240v63dbsafeactivationnoir8020283054554_html",
-      "name": "Plaque Induction Elica NikolaTesla Prime S BL/A/83 PRF0182322 7400W 240V 63dB Safe Activation Noir",
-      "prix_base": 10010000,
-      "prix_comparaison": 10010000,
+      "cle": "ordinateurportable_133930apple14macbookprom3pro2023ram18gostockage1tonoirsideralazerty0195949077012_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 14661000,
+      "prix_comparaison": 14661000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
-      "prix_base": 12384000,
-      "prix_comparaison": 12384000,
+      "cle": "ordinateurportable_133172apple16macbookprom3pro2023ram18gostockage512goargentazerty0195949075254_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 14661000,
+      "prix_comparaison": 14661000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
-      "name": "Echafaudage Speed XL Ht travail 10.44m",
-      "prix_base": 22000000,
-      "prix_comparaison": 22000000,
+      "cle": "ordinateurportable_133945apple14macbookprom32023ram8gostockage1togrissideralazerty0195949099267_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sid\u00e9ral - Azerty",
+      "prix_base": 10031000,
+      "prix_comparaison": 10031000,
       "variation": 0,
       "indice_prix": 100.0
     }

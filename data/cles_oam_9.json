@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13845000,
+      "prix_comparaison": 13845000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
-      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
-      "prix_base": 11801000,
-      "prix_comparaison": 11801000,
+      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 10696000,
+      "prix_comparaison": 10696000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
-      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
-      "prix_base": 27000000,
-      "prix_comparaison": 27000000,
+      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
+      "prix_base": 12961000,
+      "prix_comparaison": 12961000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "televiseurled_96219samsung85au7172tvledcrystal4kuhd85214cmsmarttv3portshdmi8806094907964_html",
-      "name": "SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI",
-      "prix_base": 11076000,
-      "prix_comparaison": 11076000,
+      "cle": "ordinateurportable_133946apple16macbookprom3max2023ram48gostockage1tonoirsideralazerty0195949185151_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 21795000,
+      "prix_comparaison": 21795000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "baignoirekitbalneo_61032baignoirebalneo185x90x68cmversionpackluxe3700538218232_html",
-      "name": "Baignoire Baln\u00e9o - Pack Luxe - 185x90x68cm - Appuie-tete - Systeme Air Bubble - LED - Cascade d'eau",
-      "prix_base": 10364000,
-      "prix_comparaison": 10364000,
+      "cle": "ordinateurportable_133931apple14macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949077456_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 19542000,
+      "prix_comparaison": 19542000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
-      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
-      "prix_base": 14643000,
-      "prix_comparaison": 14643000,
+      "cle": "ordinateurportable_133174apple14macbookprom3pro2023ram18gostockage512goargentazerty0195949077890_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 12221000,
+      "prix_comparaison": 12221000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
+      "cle": "ordinateurportable_133928apple16macbookprom3max2023ram36gostockage1toargentazerty0195949076138_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 20174000,
+      "prix_comparaison": 20174000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
-      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
-      "prix_base": 12343000,
-      "prix_comparaison": 12343000,
+      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 12172000,
+      "prix_comparaison": 12172000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_95365gardenatondeuserobotsmartsilenolife1000tondsouslapluieetpassagesetroitsappsilencieuxrobotdetonte4078500060592_html",
-      "name": "GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages \u00e9troits, App, Silencieux, Robot de Tonte",
-      "prix_base": 11434000,
-      "prix_comparaison": 11434000,
+      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 10609000,
+      "prix_comparaison": 10609000,
       "variation": 0,
       "indice_prix": 100.0
     }
