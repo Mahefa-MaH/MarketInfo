@@ -1,150 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 625005,
-      "prix_comparaison": 657900,
-      "variation": 32895
+      "cle": "ordinateursportables_14815pcportablehp15sfq5028nf156fhdcorei31215uram8gostockage256gossdwindows11azerty_html",
+      "name": "PC Portable HP 15s-fq5028nf - 15.6 FHD - Core i3-1215U - RAM 8Go - Stockage 256Go SSD - Windows 11 - AZERTY",
+      "prix_base": 2230000,
+      "prix_comparaison": 2231000,
+      "variation": 1000
     },
     {
-      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
-      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
-      "prix_base": 578550,
-      "prix_comparaison": 609000,
-      "variation": 30450
+      "cle": "ordinateursportables_14677pcportablethomsonn14c4wh128notebook14hd1366x768intelceleronn4020ram4go128gossdwin11smicrosoft365_html",
+      "name": "PC portable - THOMSON - N14C4WH128 NOTEBOOK - 14 HD 1366x768 - Intel Celeron N4020 - RAM 4Go -  128Go SSD - Win 11S",
+      "prix_base": 1002000,
+      "prix_comparaison": 1003000,
+      "variation": 1000
     },
     {
-      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
-      "name": "Faitout rond rouge Slowcook \u00d828cm",
-      "prix_base": 508250,
-      "prix_comparaison": 535000,
-      "variation": 26750
+      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
+      "name": "Eau de source Cristaline 150cl",
+      "prix_base": 1890,
+      "prix_comparaison": 1790,
+      "variation": -100
     },
     {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 494000,
-      "prix_comparaison": 520000,
-      "variation": 26000
-    },
-    {
-      "cle": "accessoiresdecoupe_7014coupelegumes_html",
-      "name": "Coupe-l\u00e9gumes",
-      "prix_base": 452105,
-      "prix_comparaison": 475900,
-      "variation": 23795
+      "cle": "yaourtsnaturesetaromatises_1861yaourtbrassesucre100gvanille_html",
+      "name": "Yaourt brasse sucre vanille 100g",
+      "prix_base": 990,
+      "prix_comparaison": 850,
+      "variation": -140
     }
   ],
   "prix_diminues": [
     {
-      "cle": "promo2023_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
+      "cle": "ordinateursdebureau_14616ecranpcacerha240yawi238fhddalleips4ms60hzhdmivgaamdfreesync_html",
+      "name": "Ecran PC - ACER HA240YAwi - 23,8 FHD - Dalle IPS - 4ms - 60 Hz- HDMI / VGA - AMD FreeSync",
+      "prix_base": 952000,
+      "prix_comparaison": 890000,
+      "variation": -62000
     },
     {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 8700,
+      "prix_comparaison": 7500,
+      "variation": -1200
     },
     {
-      "cle": "promo2023_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
+      "cle": "beurres_2113beurredouxsocolait200g_html",
+      "name": "Beurre doux Socolait 200g",
+      "prix_base": 8700,
+      "prix_comparaison": 7500,
+      "variation": -1200
     },
     {
-      "cle": "promo2023_13982crackyminipizza_html",
-      "name": "Cracky mini pizza",
-      "prix_base": 665,
-      "prix_comparaison": 700,
-      "variation": 35
-    },
-    {
-      "cle": "bonbonsgelifiesetacidules_7177bonbonssparks16g_html",
-      "name": "Bonbons Sparks 16g",
-      "prix_base": 855,
-      "prix_comparaison": 900,
-      "variation": 45
+      "cle": "colas_8296boissongazeusecola150cl_html",
+      "name": "Boisson gazeuse Cola 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4000,
+      "variation": -1000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "promo2023_9399boulettesnatures150g_html",
-      "name": "Boulettes natures 150g",
-      "prix_base": 3100,
-      "prix_comparaison": 3400,
-      "indice_prix": 109.6774193548387
+      "cle": "ordinateursportables_14677pcportablethomsonn14c4wh128notebook14hd1366x768intelceleronn4020ram4go128gossdwin11smicrosoft365_html",
+      "name": "PC portable - THOMSON - N14C4WH128 NOTEBOOK - 14 HD 1366x768 - Intel Celeron N4020 - RAM 4Go -  128Go SSD - Win 11S",
+      "prix_base": 1002000,
+      "prix_comparaison": 1003000,
+      "indice_prix": 100.0998003992016
     },
     {
-      "cle": "crayonetcoloriage_7565gommeplastique_html",
-      "name": "Gomme plastique",
-      "prix_base": 1852,
-      "prix_comparaison": 1950,
-      "indice_prix": 105.29157667386609
+      "cle": "ordinateursportables_14815pcportablehp15sfq5028nf156fhdcorei31215uram8gostockage256gossdwindows11azerty_html",
+      "name": "PC Portable HP 15s-fq5028nf - 15.6 FHD - Core i3-1215U - RAM 8Go - Stockage 256Go SSD - Windows 11 - AZERTY",
+      "prix_base": 2230000,
+      "prix_comparaison": 2231000,
+      "indice_prix": 100.04484304932735
     },
     {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2422,
-      "prix_comparaison": 2550,
-      "indice_prix": 105.28488852188273
+      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
+      "name": "Eau de source Cristaline 150cl",
+      "prix_base": 1890,
+      "prix_comparaison": 1790,
+      "indice_prix": 94.70899470899471
     },
     {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
-    },
-    {
-      "cle": "cremessoinsducorps_2386vaseline50ml_html",
-      "name": "Vaseline 50ml",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
+      "cle": "ordinateursdebureau_14616ecranpcacerha240yawi238fhddalleips4ms60hzhdmivgaamdfreesync_html",
+      "name": "Ecran PC - ACER HA240YAwi - 23,8 FHD - Dalle IPS - 4ms - 60 Hz- HDMI / VGA - AMD FreeSync",
+      "prix_base": 952000,
+      "prix_comparaison": 890000,
+      "indice_prix": 93.4873949579832
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "promo2023_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
+      "cle": "colas_8296boissongazeusecola150cl_html",
+      "name": "Boisson gazeuse Cola 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4000,
+      "indice_prix": 80.0
     },
     {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
+      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
+      "name": "Olives vertes avec noyau sachet 200g",
+      "prix_base": 3740,
+      "prix_comparaison": 3200,
+      "indice_prix": 85.56149732620321
     },
     {
-      "cle": "promo2023_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3740,
+      "prix_comparaison": 3200,
+      "indice_prix": 85.56149732620321
     },
     {
-      "cle": "produitskibomoinsde5000ar_2472cotontige100pieces_html",
-      "name": "Coton-tige 100 pi\u00e8ces",
-      "prix_base": 1758,
-      "prix_comparaison": 1850,
-      "indice_prix": 105.23321956769055
-    },
-    {
-      "cle": "eauxdesource_3066eaudesource6x2l_html",
-      "name": "Eau de Source 2L",
-      "prix_base": 2366,
-      "prix_comparaison": 2490,
-      "indice_prix": 105.24091293322063
+      "cle": "yaourtsnaturesetaromatises_1861yaourtbrassesucre100gvanille_html",
+      "name": "Yaourt brasse sucre vanille 100g",
+      "prix_base": 990,
+      "prix_comparaison": 850,
+      "indice_prix": 85.85858585858585
     }
   ]
 }

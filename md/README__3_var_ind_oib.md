@@ -2,109 +2,89 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Thermomètre digital résistant aux chocs avec sonde**
-   - Prix avant: 625,005 Ar
-   - Prix actuel: 657,900 Ar
-   - Variation: +32,895 Ar
+1. **PC Portable HP 15s-fq5028nf - 15.6 FHD - Core i3-1215U - RAM 8Go - Stockage 256Go SSD - Windows 11 - AZERTY**
+   - Prix avant: 2,230,000 Ar
+   - Prix actuel: 2,231,000 Ar
+   - Variation: +1,000 Ar
 
-2. **Cafetière expresso multi caps pression de la pompe 19 bars rouge**
-   - Prix avant: 578,550 Ar
-   - Prix actuel: 609,000 Ar
-   - Variation: +30,450 Ar
+2. **PC portable - THOMSON - N14C4WH128 NOTEBOOK - 14 HD 1366x768 - Intel Celeron N4020 - RAM 4Go -  128Go SSD - Win 11S**
+   - Prix avant: 1,002,000 Ar
+   - Prix actuel: 1,003,000 Ar
+   - Variation: +1,000 Ar
 
-3. **Faitout rond rouge Slowcook Ø28cm**
-   - Prix avant: 508,250 Ar
-   - Prix actuel: 535,000 Ar
-   - Variation: +26,750 Ar
+3. **Eau de source Cristaline 150cl**
+   - Prix avant: 1,890 Ar
+   - Prix actuel: 1,790 Ar
+   - Variation: -100 Ar
 
-4. **Thermomètre infrarouge**
-   - Prix avant: 494,000 Ar
-   - Prix actuel: 520,000 Ar
-   - Variation: +26,000 Ar
-
-5. **Coupe-légumes**
-   - Prix avant: 452,105 Ar
-   - Prix actuel: 475,900 Ar
-   - Variation: +23,795 Ar
+4. **Yaourt brasse sucre vanille 100g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 850 Ar
+   - Variation: -140 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Savon de toilette cerise 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -530 Ar
+1. **Ecran PC - ACER HA240YAwi - 23,8 FHD - Dalle IPS - 4ms - 60 Hz- HDMI / VGA - AMD FreeSync**
+   - Prix avant: 952,000 Ar
+   - Prix actuel: 890,000 Ar
+   - Variation: -62,000 Ar
 
-2. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -530 Ar
+2. **Beurre demi sel Socolait 200g**
+   - Prix avant: 8,700 Ar
+   - Prix actuel: 7,500 Ar
+   - Variation: -1,200 Ar
 
-3. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -530 Ar
+3. **Beurre doux Socolait 200g**
+   - Prix avant: 8,700 Ar
+   - Prix actuel: 7,500 Ar
+   - Variation: -1,200 Ar
 
-4. **Cracky mini pizza**
-   - Prix avant: 665 Ar
-   - Prix actuel: 700 Ar
-   - Variation: +35 Ar
-
-5. **Bonbons Sparks 16g**
-   - Prix avant: 855 Ar
-   - Prix actuel: 900 Ar
-   - Variation: +45 Ar
+4. **Boisson gazeuse Cola 150cl**
+   - Prix avant: 5,000 Ar
+   - Prix actuel: 4,000 Ar
+   - Variation: -1,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Boulettes natures 150g**
-   - Prix avant: 3,100 Ar
-   - Prix actuel: 3,400 Ar
-   - Indice de prix : 109.68
+1. **PC portable - THOMSON - N14C4WH128 NOTEBOOK - 14 HD 1366x768 - Intel Celeron N4020 - RAM 4Go -  128Go SSD - Win 11S**
+   - Prix avant: 1,002,000 Ar
+   - Prix actuel: 1,003,000 Ar
+   - Indice de prix : 100.10
 
-2. **Gomme plastique**
-   - Prix avant: 1,852 Ar
-   - Prix actuel: 1,950 Ar
-   - Indice de prix : 105.29
+2. **PC Portable HP 15s-fq5028nf - 15.6 FHD - Core i3-1215U - RAM 8Go - Stockage 256Go SSD - Windows 11 - AZERTY**
+   - Prix avant: 2,230,000 Ar
+   - Prix actuel: 2,231,000 Ar
+   - Indice de prix : 100.04
 
-3. **21 Etiquettes blanches 38x63mm**
-   - Prix avant: 2,422 Ar
-   - Prix actuel: 2,550 Ar
-   - Indice de prix : 105.28
+3. **Eau de source Cristaline 150cl**
+   - Prix avant: 1,890 Ar
+   - Prix actuel: 1,790 Ar
+   - Indice de prix : 94.71
 
-4. **Talc bébé poudre 75g**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
-
-5. **Vaseline 50ml**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
+4. **Ecran PC - ACER HA240YAwi - 23,8 FHD - Dalle IPS - 4ms - 60 Hz- HDMI / VGA - AMD FreeSync**
+   - Prix avant: 952,000 Ar
+   - Prix actuel: 890,000 Ar
+   - Indice de prix : 93.49
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Savon de toilette cerise 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
+1. **Boisson gazeuse Cola 150cl**
+   - Prix avant: 5,000 Ar
+   - Prix actuel: 4,000 Ar
+   - Indice de prix : 80.00
 
-2. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
+2. **Olives vertes avec noyau sachet 200g**
+   - Prix avant: 3,740 Ar
+   - Prix actuel: 3,200 Ar
+   - Indice de prix : 85.56
 
-3. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
+3. **Olives vertes dénoyautées sachet 180g**
+   - Prix avant: 3,740 Ar
+   - Prix actuel: 3,200 Ar
+   - Indice de prix : 85.56
 
-4. **Coton-tige 100 pièces**
-   - Prix avant: 1,758 Ar
-   - Prix actuel: 1,850 Ar
-   - Indice de prix : 105.23
-
-5. **Eau de Source 2L**
-   - Prix avant: 2,366 Ar
-   - Prix actuel: 2,490 Ar
-   - Indice de prix : 105.24
+4. **Yaourt brasse sucre vanille 100g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 850 Ar
+   - Indice de prix : 85.86
 
