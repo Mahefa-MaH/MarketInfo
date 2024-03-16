@@ -1,76 +1,34 @@
 {
   "prix_augmentes": [
     {
+      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 5188000,
+      "prix_comparaison": 5299000,
+      "variation": 111000
+    },
+    {
       "cle": "appareilsagaufrescrepieres_14008crepieredomo4crepesmotifsemojirevetementantiadhesif600wl31xl34xh13cm_html",
       "name": "Cr\u00eapi\u00e8re DOMO - 4 cr\u00eapes - Motifs EMOJI - 600w",
       "prix_base": 260000,
       "prix_comparaison": 359000,
       "variation": 99000
-    },
-    {
-      "cle": "aspirateuraspirateurrobot_14215continentaledisonvcf600sbaspirateurbalaifilaire400w_html",
-      "name": "Aspirateur balai filaire - 400 W",
-      "prix_base": 461000,
-      "prix_comparaison": 480000,
-      "variation": 19000
-    },
-    {
-      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
-      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
-      "prix_base": 198000,
-      "prix_comparaison": 212000,
-      "variation": 14000
-    },
-    {
-      "cle": "machineacoudre_14219brotherke14svm1machineacoudre_html",
-      "name": "BROTHER KE14SVM1 Machine a coudre",
-      "prix_base": 967000,
-      "prix_comparaison": 972000,
-      "variation": 5000
-    },
-    {
-      "cle": "cuiseurvapeurcuiseurariz_14010fagorfg9122cuiseurvapeur75l3paniervapeuravecpaniersminuteur60min_html",
-      "name": "FAGOR FG9122 Cuiseur Vapeur 7.5L - 3 panier vapeur avec paniers - Minuteur : 60 min",
-      "prix_base": 254000,
-      "prix_comparaison": 256000,
-      "variation": 2000
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 4305000,
+      "prix_comparaison": 4096000,
+      "variation": -209000
+    },
     {
       "cle": "ordinateursdebureau_14616ecranpcacerha240yawi238fhddalleips4ms60hzhdmivgaamdfreesync_html",
       "name": "Ecran PC - ACER HA240YAwi - 23,8 FHD - Dalle IPS - 4ms - 60 Hz- HDMI / VGA - AMD FreeSync",
       "prix_base": 952000,
       "prix_comparaison": 890000,
       "variation": -62000
-    },
-    {
-      "cle": "accessoiresjeuxvideos_14851manettexboxsansfilcarbonblacknoirexboxseriesxboxonepc_html",
-      "name": "Manette Xbox sans fil - Carbon Black - Noire - Xbox Series / Xbox One / PC",
-      "prix_base": 371000,
-      "prix_comparaison": 359000,
-      "variation": -12000
-    },
-    {
-      "cle": "consoles_14602consolenintendoswitchavecunjoyconrougenonetunjoyconbleunon_html",
-      "name": "Console Nintendo Switch avec un Joy-Con rouge n\u00e9on et un Joy-Con bleu n\u00e9on",
-      "prix_base": 1649000,
-      "prix_comparaison": 1639000,
-      "variation": -10000
-    },
-    {
-      "cle": "jeuxvideo_14863letssing2024jeunintendoswitchavec2micros_html",
-      "name": "Let's Sing 2024 - Jeu Nintendo Switch - Avec 2 micros",
-      "prix_base": 327000,
-      "prix_comparaison": 322000,
-      "variation": -5000
-    },
-    {
-      "cle": "bonbonsgelifiesetacidules_169peachhearts12bagsx100g_html",
-      "name": "Bonbons holiday c\u0153ur de p\u00eache 100g",
-      "prix_base": 4500,
-      "prix_comparaison": 1990,
-      "variation": -2510
     }
   ],
   "indices_prix_plus_eleves": [
@@ -87,27 +45,6 @@
       "prix_base": 198000,
       "prix_comparaison": 212000,
       "indice_prix": 107.07070707070707
-    },
-    {
-      "cle": "aspirateuraspirateurrobot_14215continentaledisonvcf600sbaspirateurbalaifilaire400w_html",
-      "name": "Aspirateur balai filaire - 400 W",
-      "prix_base": 461000,
-      "prix_comparaison": 480000,
-      "indice_prix": 104.12147505422993
-    },
-    {
-      "cle": "cuiseurvapeurcuiseurariz_14010fagorfg9122cuiseurvapeur75l3paniervapeuravecpaniersminuteur60min_html",
-      "name": "FAGOR FG9122 Cuiseur Vapeur 7.5L - 3 panier vapeur avec paniers - Minuteur : 60 min",
-      "prix_base": 254000,
-      "prix_comparaison": 256000,
-      "indice_prix": 100.78740157480316
-    },
-    {
-      "cle": "machineacoudre_14219brotherke14svm1machineacoudre_html",
-      "name": "BROTHER KE14SVM1 Machine a coudre",
-      "prix_base": 967000,
-      "prix_comparaison": 972000,
-      "indice_prix": 100.51706308169597
     }
   ],
   "indices_prix_plus_faibles": [
@@ -124,27 +61,6 @@
       "prix_base": 4500,
       "prix_comparaison": 1990,
       "indice_prix": 44.22222222222222
-    },
-    {
-      "cle": "colas_8296boissongazeusecola150cl_html",
-      "name": "Boisson gazeuse Cola 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4000,
-      "indice_prix": 80.0
-    },
-    {
-      "cle": "nappesserviettesessuietout_3579essuietoutblanc2plis45feuillesx2rlxx24albanet_html",
-      "name": "Essuie-tout blanc 2 plis 2 rouleaux",
-      "prix_base": 6100,
-      "prix_comparaison": 4900,
-      "indice_prix": 80.32786885245902
-    },
-    {
-      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
-      "name": "Olives vertes avec noyau sachet 200g",
-      "prix_base": 3740,
-      "prix_comparaison": 3200,
-      "indice_prix": 85.56149732620321
     }
   ]
 }
