@@ -6,20 +6,6 @@
       "prix_base": 260000,
       "prix_comparaison": 359000,
       "variation": 99000
-    },
-    {
-      "cle": "aspirateuraspirateurrobot_14215continentaledisonvcf600sbaspirateurbalaifilaire400w_html",
-      "name": "Aspirateur balai filaire - 400 W",
-      "prix_base": 461000,
-      "prix_comparaison": 480000,
-      "variation": 19000
-    },
-    {
-      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
-      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
-      "prix_base": 198000,
-      "prix_comparaison": 212000,
-      "variation": 14000
     }
   ],
   "prix_diminues": [
@@ -29,20 +15,6 @@
       "prix_base": 952000,
       "prix_comparaison": 890000,
       "variation": -62000
-    },
-    {
-      "cle": "accessoiresjeuxvideos_14851manettexboxsansfilcarbonblacknoirexboxseriesxboxonepc_html",
-      "name": "Manette Xbox sans fil - Carbon Black - Noire - Xbox Series / Xbox One / PC",
-      "prix_base": 371000,
-      "prix_comparaison": 359000,
-      "variation": -12000
-    },
-    {
-      "cle": "consoles_14602consolenintendoswitchavecunjoyconrougenonetunjoyconbleunon_html",
-      "name": "Console Nintendo Switch avec un Joy-Con rouge n\u00e9on et un Joy-Con bleu n\u00e9on",
-      "prix_base": 1649000,
-      "prix_comparaison": 1639000,
-      "variation": -10000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -52,20 +24,6 @@
       "prix_base": 260000,
       "prix_comparaison": 359000,
       "indice_prix": 138.07692307692307
-    },
-    {
-      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
-      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
-      "prix_base": 198000,
-      "prix_comparaison": 212000,
-      "indice_prix": 107.07070707070707
-    },
-    {
-      "cle": "aspirateuraspirateurrobot_14215continentaledisonvcf600sbaspirateurbalaifilaire400w_html",
-      "name": "Aspirateur balai filaire - 400 W",
-      "prix_base": 461000,
-      "prix_comparaison": 480000,
-      "indice_prix": 104.12147505422993
     }
   ],
   "indices_prix_plus_faibles": [
@@ -75,20 +33,6 @@
       "prix_base": 4500,
       "prix_comparaison": 1990,
       "indice_prix": 44.22222222222222
-    },
-    {
-      "cle": "bonbonsgelifiesetacidules_190sugaredpartymix12bx100g_html",
-      "name": "Bonbons party mix 100g",
-      "prix_base": 4500,
-      "prix_comparaison": 1990,
-      "indice_prix": 44.22222222222222
-    },
-    {
-      "cle": "colas_8296boissongazeusecola150cl_html",
-      "name": "Boisson gazeuse Cola 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4000,
-      "indice_prix": 80.0
     }
   ]
 }
