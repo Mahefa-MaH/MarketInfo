@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_pommesucre1kgfruitfraisdemadagascar2_",
-      "name": "Pomme sucr\u00e9e 1kg | Fruit frais de Madagascar",
-      "prix_base": 8000,
-      "prix_comparaison": 3750,
-      "variation": -4250
+      "cle": "produit_cremefraichesocolait_",
+      "name": "Cr\u00e8me fra\u00eeche Socolait",
+      "prix_base": 9620,
+      "prix_comparaison": 10800,
+      "variation": 1180
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_pommesucre1kgfruitfraisdemadagascar2_",
-      "name": "Pomme sucr\u00e9e 1kg | Fruit frais de Madagascar",
-      "prix_base": 8000,
-      "prix_comparaison": 3750,
-      "indice_prix": 46.875
+      "cle": "produit_cremefraichesocolait_",
+      "name": "Cr\u00e8me fra\u00eeche Socolait",
+      "prix_base": 9620,
+      "prix_comparaison": 10800,
+      "indice_prix": 112.26611226611226
     }
   ]
 }
