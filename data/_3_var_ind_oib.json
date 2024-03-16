@@ -1,32 +1,25 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ordinateursportables_14815pcportablehp15sfq5028nf156fhdcorei31215uram8gostockage256gossdwindows11azerty_html",
-      "name": "PC Portable HP 15s-fq5028nf - 15.6 FHD - Core i3-1215U - RAM 8Go - Stockage 256Go SSD - Windows 11 - AZERTY",
-      "prix_base": 2230000,
-      "prix_comparaison": 2231000,
-      "variation": 1000
+      "cle": "appareilsagaufrescrepieres_14008crepieredomo4crepesmotifsemojirevetementantiadhesif600wl31xl34xh13cm_html",
+      "name": "Cr\u00eapi\u00e8re DOMO - 4 cr\u00eapes - Motifs EMOJI - 600w",
+      "prix_base": 260000,
+      "prix_comparaison": 359000,
+      "variation": 99000
     },
     {
-      "cle": "ordinateursportables_14677pcportablethomsonn14c4wh128notebook14hd1366x768intelceleronn4020ram4go128gossdwin11smicrosoft365_html",
-      "name": "PC portable - THOMSON - N14C4WH128 NOTEBOOK - 14 HD 1366x768 - Intel Celeron N4020 - RAM 4Go -  128Go SSD - Win 11S",
-      "prix_base": 1002000,
-      "prix_comparaison": 1003000,
-      "variation": 1000
+      "cle": "aspirateuraspirateurrobot_14215continentaledisonvcf600sbaspirateurbalaifilaire400w_html",
+      "name": "Aspirateur balai filaire - 400 W",
+      "prix_base": 461000,
+      "prix_comparaison": 480000,
+      "variation": 19000
     },
     {
-      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
-      "name": "Eau de source Cristaline 150cl",
-      "prix_base": 1890,
-      "prix_comparaison": 1790,
-      "variation": -100
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_1861yaourtbrassesucre100gvanille_html",
-      "name": "Yaourt brasse sucre vanille 100g",
-      "prix_base": 990,
-      "prix_comparaison": 850,
-      "variation": -140
+      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
+      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
+      "prix_base": 198000,
+      "prix_comparaison": 212000,
+      "variation": 14000
     }
   ],
   "prix_diminues": [
@@ -38,85 +31,64 @@
       "variation": -62000
     },
     {
-      "cle": "beurres_2114beurresocolaitdemisel200g_html",
-      "name": "Beurre demi sel Socolait 200g",
-      "prix_base": 8700,
-      "prix_comparaison": 7500,
-      "variation": -1200
+      "cle": "accessoiresjeuxvideos_14851manettexboxsansfilcarbonblacknoirexboxseriesxboxonepc_html",
+      "name": "Manette Xbox sans fil - Carbon Black - Noire - Xbox Series / Xbox One / PC",
+      "prix_base": 371000,
+      "prix_comparaison": 359000,
+      "variation": -12000
     },
     {
-      "cle": "beurres_2113beurredouxsocolait200g_html",
-      "name": "Beurre doux Socolait 200g",
-      "prix_base": 8700,
-      "prix_comparaison": 7500,
-      "variation": -1200
-    },
-    {
-      "cle": "colas_8296boissongazeusecola150cl_html",
-      "name": "Boisson gazeuse Cola 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4000,
-      "variation": -1000
+      "cle": "consoles_14602consolenintendoswitchavecunjoyconrougenonetunjoyconbleunon_html",
+      "name": "Console Nintendo Switch avec un Joy-Con rouge n\u00e9on et un Joy-Con bleu n\u00e9on",
+      "prix_base": 1649000,
+      "prix_comparaison": 1639000,
+      "variation": -10000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "ordinateursportables_14677pcportablethomsonn14c4wh128notebook14hd1366x768intelceleronn4020ram4go128gossdwin11smicrosoft365_html",
-      "name": "PC portable - THOMSON - N14C4WH128 NOTEBOOK - 14 HD 1366x768 - Intel Celeron N4020 - RAM 4Go -  128Go SSD - Win 11S",
-      "prix_base": 1002000,
-      "prix_comparaison": 1003000,
-      "indice_prix": 100.0998003992016
+      "cle": "appareilsagaufrescrepieres_14008crepieredomo4crepesmotifsemojirevetementantiadhesif600wl31xl34xh13cm_html",
+      "name": "Cr\u00eapi\u00e8re DOMO - 4 cr\u00eapes - Motifs EMOJI - 600w",
+      "prix_base": 260000,
+      "prix_comparaison": 359000,
+      "indice_prix": 138.07692307692307
     },
     {
-      "cle": "ordinateursportables_14815pcportablehp15sfq5028nf156fhdcorei31215uram8gostockage256gossdwindows11azerty_html",
-      "name": "PC Portable HP 15s-fq5028nf - 15.6 FHD - Core i3-1215U - RAM 8Go - Stockage 256Go SSD - Windows 11 - AZERTY",
-      "prix_base": 2230000,
-      "prix_comparaison": 2231000,
-      "indice_prix": 100.04484304932735
+      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
+      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
+      "prix_base": 198000,
+      "prix_comparaison": 212000,
+      "indice_prix": 107.07070707070707
     },
     {
-      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
-      "name": "Eau de source Cristaline 150cl",
-      "prix_base": 1890,
-      "prix_comparaison": 1790,
-      "indice_prix": 94.70899470899471
-    },
-    {
-      "cle": "ordinateursdebureau_14616ecranpcacerha240yawi238fhddalleips4ms60hzhdmivgaamdfreesync_html",
-      "name": "Ecran PC - ACER HA240YAwi - 23,8 FHD - Dalle IPS - 4ms - 60 Hz- HDMI / VGA - AMD FreeSync",
-      "prix_base": 952000,
-      "prix_comparaison": 890000,
-      "indice_prix": 93.4873949579832
+      "cle": "aspirateuraspirateurrobot_14215continentaledisonvcf600sbaspirateurbalaifilaire400w_html",
+      "name": "Aspirateur balai filaire - 400 W",
+      "prix_base": 461000,
+      "prix_comparaison": 480000,
+      "indice_prix": 104.12147505422993
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "bonbonsgelifiesetacidules_169peachhearts12bagsx100g_html",
+      "name": "Bonbons holiday c\u0153ur de p\u00eache 100g",
+      "prix_base": 4500,
+      "prix_comparaison": 1990,
+      "indice_prix": 44.22222222222222
+    },
+    {
+      "cle": "bonbonsgelifiesetacidules_190sugaredpartymix12bx100g_html",
+      "name": "Bonbons party mix 100g",
+      "prix_base": 4500,
+      "prix_comparaison": 1990,
+      "indice_prix": 44.22222222222222
+    },
     {
       "cle": "colas_8296boissongazeusecola150cl_html",
       "name": "Boisson gazeuse Cola 150cl",
       "prix_base": 5000,
       "prix_comparaison": 4000,
       "indice_prix": 80.0
-    },
-    {
-      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
-      "name": "Olives vertes avec noyau sachet 200g",
-      "prix_base": 3740,
-      "prix_comparaison": 3200,
-      "indice_prix": 85.56149732620321
-    },
-    {
-      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
-      "prix_base": 3740,
-      "prix_comparaison": 3200,
-      "indice_prix": 85.56149732620321
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_1861yaourtbrassesucre100gvanille_html",
-      "name": "Yaourt brasse sucre vanille 100g",
-      "prix_base": 990,
-      "prix_comparaison": 850,
-      "indice_prix": 85.85858585858585
     }
   ]
 }

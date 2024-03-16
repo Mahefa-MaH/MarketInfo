@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 5033,
-      "prix_base": 33900,
-      "name": "Perforateur 4 trous Essentials 10 feuilles",
-      "prix_comparaison": 44800,
-      "variation": 10900
-    },
-    {
-      "list_id": 1953,
-      "prix_base": 11500,
-      "name": "Eau  de source naturelle 1 L - Pack De 8",
-      "prix_comparaison": 16800,
-      "variation": 5300
-    },
-    {
-      "list_id": 3163,
-      "prix_base": 10500,
-      "name": "Poudre Caf\u00e9 Brown Coffee 3En1 30 G Pack De 10",
-      "prix_comparaison": 11800,
-      "variation": 1300
+      "list_id": 2946,
+      "prix_base": 8800,
+      "name": "Fromage Le Camembert 110 G",
+      "prix_comparaison": 10600,
+      "variation": 1800
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 996,
-      "prix_base": 16800,
-      "name": "Tasse transparente 22 cl",
-      "prix_comparaison": 16200,
-      "variation": -600
-    },
-    {
-      "list_id": 1286,
-      "prix_base": 4700,
-      "name": "Bi\u00e8re Bouteille 50 cl",
-      "prix_comparaison": 4200,
-      "variation": -500
-    },
-    {
-      "list_id": 1293,
-      "prix_base": 4900,
-      "name": "Bi\u00e8re Bouteille 50 cl consign\u00e9",
-      "prix_comparaison": 4600,
-      "variation": -300
+      "list_id": 2946,
+      "prix_base": 8800,
+      "name": "Fromage Le Camembert 110 G",
+      "prix_comparaison": 10600,
+      "variation": 1800
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 1953,
-      "name": "Eau  de source naturelle 1 L - Pack De 8",
-      "prix_base": 11500,
-      "prix_comparaison": 16800,
-      "indice_prix": 146.08695652173913
-    },
-    {
-      "list_id": 5033,
-      "name": "Perforateur 4 trous Essentials 10 feuilles",
-      "prix_base": 33900,
-      "prix_comparaison": 44800,
-      "indice_prix": 132.15339233038347
-    },
-    {
-      "list_id": 1285,
-      "name": "Bi\u00e8re Bouteille 33 cl  consign\u00e9",
-      "prix_base": 3600,
-      "prix_comparaison": 4300,
-      "indice_prix": 119.44444444444444
+      "list_id": 2946,
+      "name": "Fromage Le Camembert 110 G",
+      "prix_base": 8800,
+      "prix_comparaison": 10600,
+      "indice_prix": 120.45454545454545
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 1286,
-      "name": "Bi\u00e8re Bouteille 50 cl",
-      "prix_base": 4700,
-      "prix_comparaison": 4200,
-      "indice_prix": 89.36170212765957
-    },
-    {
-      "list_id": 1293,
-      "name": "Bi\u00e8re Bouteille 50 cl consign\u00e9",
-      "prix_base": 4900,
-      "prix_comparaison": 4600,
-      "indice_prix": 93.87755102040816
-    },
-    {
-      "list_id": 996,
-      "name": "Tasse transparente 22 cl",
-      "prix_base": 16800,
-      "prix_comparaison": 16200,
-      "indice_prix": 96.42857142857143
+      "list_id": 2946,
+      "name": "Fromage Le Camembert 110 G",
+      "prix_base": 8800,
+      "prix_comparaison": 10600,
+      "indice_prix": 120.45454545454545
     }
   ]
 }
