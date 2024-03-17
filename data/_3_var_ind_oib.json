@@ -6,13 +6,6 @@
       "prix_base": 5188000,
       "prix_comparaison": 5299000,
       "variation": 111000
-    },
-    {
-      "cle": "appareilsagaufrescrepieres_14008crepieredomo4crepesmotifsemojirevetementantiadhesif600wl31xl34xh13cm_html",
-      "name": "Cr\u00eapi\u00e8re DOMO - 4 cr\u00eapes - Motifs EMOJI - 600w",
-      "prix_base": 260000,
-      "prix_comparaison": 359000,
-      "variation": 99000
     }
   ],
   "prix_diminues": [
@@ -22,13 +15,6 @@
       "prix_base": 4305000,
       "prix_comparaison": 4096000,
       "variation": -209000
-    },
-    {
-      "cle": "ordinateursdebureau_14616ecranpcacerha240yawi238fhddalleips4ms60hzhdmivgaamdfreesync_html",
-      "name": "Ecran PC - ACER HA240YAwi - 23,8 FHD - Dalle IPS - 4ms - 60 Hz- HDMI / VGA - AMD FreeSync",
-      "prix_base": 952000,
-      "prix_comparaison": 890000,
-      "variation": -62000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -38,26 +24,12 @@
       "prix_base": 260000,
       "prix_comparaison": 359000,
       "indice_prix": 138.07692307692307
-    },
-    {
-      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
-      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
-      "prix_base": 198000,
-      "prix_comparaison": 212000,
-      "indice_prix": 107.07070707070707
     }
   ],
   "indices_prix_plus_faibles": [
     {
       "cle": "bonbonsgelifiesetacidules_169peachhearts12bagsx100g_html",
       "name": "Bonbons holiday c\u0153ur de p\u00eache 100g",
-      "prix_base": 4500,
-      "prix_comparaison": 1990,
-      "indice_prix": 44.22222222222222
-    },
-    {
-      "cle": "bonbonsgelifiesetacidules_190sugaredpartymix12bx100g_html",
-      "name": "Bonbons party mix 100g",
       "prix_base": 4500,
       "prix_comparaison": 1990,
       "indice_prix": 44.22222222222222
