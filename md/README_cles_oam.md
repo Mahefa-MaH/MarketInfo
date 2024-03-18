@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Canapé d'angle gauche convertible IMPERIAL 5 places - Tissu gris clair - 2 coffres de rangement - L304 x P212 x H86 cm**
-   - Prix avant: 10,336,000 Ar
-   - Prix actuel: 10,336,000 Ar
+1. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
+   - Prix avant: 10,037,000 Ar
+   - Prix actuel: 10,037,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Canapé d'angle panoramique convertible -7 places - INDIAN - Tissu 100% polyester - Bleu canard - 360 x 228 cm**
-   - Prix avant: 10,173,000 Ar
-   - Prix actuel: 10,173,000 Ar
+2. **TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1**
+   - Prix avant: 10,451,000 Ar
+   - Prix actuel: 10,451,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Canapé convertible panoramique PARMA 6 places - Tissu gris clair - L322 x P196 x H76 cm**
-   - Prix avant: 10,173,000 Ar
-   - Prix actuel: 10,173,000 Ar
+3. **SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI**
+   - Prix avant: 11,076,000 Ar
+   - Prix actuel: 11,076,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

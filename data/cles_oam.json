@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "canapesofadivan_136047canapedanglegaucheconvertibleimperial5placestissugrisclair2coffresderangementl304xp212xh86cm3700538240035_html",
-      "name": "Canap\u00e9 d'angle gauche convertible IMPERIAL 5 places - Tissu gris clair - 2 coffres de rangement - L304 x P212 x H86 cm",
-      "prix_base": 10336000,
-      "prix_comparaison": 10336000,
+      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
+      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
+      "prix_base": 10037000,
+      "prix_comparaison": 10037000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "canapesofadivan_83388canapedanglepanoramiqueconvertible7placesindiantissu100polyesterbleucanard360x228cm5903814783983_html",
-      "name": "Canap\u00e9 d'angle panoramique convertible -7 places - INDIAN - Tissu 100% polyester - Bleu canard - 360 x 228 cm",
-      "prix_base": 10173000,
-      "prix_comparaison": 10173000,
+      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
+      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
+      "prix_base": 10451000,
+      "prix_comparaison": 10451000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "canapesofadivan_136165canapeconvertiblepanoramiqueparma6placestissugrisclairl322xp196xh76cm3700538240059_html",
-      "name": "Canap\u00e9 convertible panoramique PARMA 6 places - Tissu gris clair - L322 x P196 x H76 cm",
-      "prix_base": 10173000,
-      "prix_comparaison": 10173000,
+      "cle": "televiseurled_96219samsung85au7172tvledcrystal4kuhd85214cmsmarttv3portshdmi8806094907964_html",
+      "name": "SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI",
+      "prix_base": 11076000,
+      "prix_comparaison": 11076000,
       "variation": 0,
       "indice_prix": 100.0
     }
