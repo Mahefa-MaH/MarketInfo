@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 2946,
-      "prix_base": 8800,
-      "name": "Fromage Le Camembert 110 G",
-      "prix_comparaison": 10600,
-      "variation": 1800
+      "list_id": 823,
+      "prix_base": 883200,
+      "name": "Am\u00e9liorant Moelleux 10 Kg",
+      "prix_comparaison": 968500,
+      "variation": 85300
+    },
+    {
+      "list_id": 824,
+      "prix_base": 384500,
+      "name": "Ibis Viennoiserie 10 Kg",
+      "prix_comparaison": 419500,
+      "variation": 35000
+    },
+    {
+      "list_id": 5119,
+      "prix_base": 410000,
+      "name": "Rogneuse Proton A4",
+      "prix_comparaison": 427800,
+      "variation": 17800
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 2946,
-      "prix_base": 8800,
-      "name": "Fromage Le Camembert 110 G",
-      "prix_comparaison": 10600,
-      "variation": 1800
+      "list_id": 826,
+      "prix_base": 239000,
+      "name": "Cr\u00e8me P\u00e2tissi\u00e8re \u00e0 Froid 5 Kg",
+      "prix_comparaison": 226800,
+      "variation": -12200
+    },
+    {
+      "list_id": 807,
+      "prix_base": 37800,
+      "name": "NAN optipro 3 Lait pour b\u00e9b\u00e9 de 1 \u00e0 3 ans 400 G",
+      "prix_comparaison": 35300,
+      "variation": -2500
+    },
+    {
+      "list_id": 1495,
+      "prix_base": 39900,
+      "name": "Couche Baby Dry S2 Mini Eco",
+      "prix_comparaison": 38000,
+      "variation": -1900
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 2946,
-      "name": "Fromage Le Camembert 110 G",
-      "prix_base": 8800,
-      "prix_comparaison": 10600,
-      "indice_prix": 120.45454545454545
+      "list_id": 802,
+      "name": "Cerelac Wheat 25 g",
+      "prix_base": 800,
+      "prix_comparaison": 1400,
+      "indice_prix": 175.0
+    },
+    {
+      "list_id": 5117,
+      "name": "Reliure spirale 8 mm Boite de 100",
+      "prix_base": 16300,
+      "prix_comparaison": 18800,
+      "indice_prix": 115.33742331288343
+    },
+    {
+      "list_id": 819,
+      "name": "Carry Sachet 30 G",
+      "prix_base": 700,
+      "prix_comparaison": 800,
+      "indice_prix": 114.28571428571429
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 2946,
-      "name": "Fromage Le Camembert 110 G",
-      "prix_base": 8800,
-      "prix_comparaison": 10600,
-      "indice_prix": 120.45454545454545
+      "list_id": 807,
+      "name": "NAN optipro 3 Lait pour b\u00e9b\u00e9 de 1 \u00e0 3 ans 400 G",
+      "prix_base": 37800,
+      "prix_comparaison": 35300,
+      "indice_prix": 93.3862433862434
+    },
+    {
+      "list_id": 826,
+      "name": "Cr\u00e8me P\u00e2tissi\u00e8re \u00e0 Froid 5 Kg",
+      "prix_base": 239000,
+      "prix_comparaison": 226800,
+      "indice_prix": 94.89539748953975
+    },
+    {
+      "list_id": 1495,
+      "name": "Couche Baby Dry S2 Mini Eco",
+      "prix_base": 39900,
+      "prix_comparaison": 38000,
+      "indice_prix": 95.23809523809524
     }
   ]
 }

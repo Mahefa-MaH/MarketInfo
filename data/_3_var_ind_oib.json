@@ -1,11 +1,39 @@
 {
   "prix_augmentes": [
     {
-      "cle": "papiertoilette_4428papiertoilette6rouleaux_html",
-      "name": "Papier toilette 6 rouleaux",
-      "prix_base": 2850,
-      "prix_comparaison": 3300,
-      "variation": 450
+      "cle": "riz_4965rizparfumeaujasmin5kg_html",
+      "name": "Riz parfum\u00e9 au jasmin 5kg",
+      "prix_base": 43000,
+      "prix_comparaison": 49500,
+      "variation": 6500
+    },
+    {
+      "cle": "tablettesdechocolat_13840tablettedechocolatmenage500gtopbudget_html",
+      "name": "Tablette de chocolat  m\u00e9nage 500g",
+      "prix_base": 17500,
+      "prix_comparaison": 21500,
+      "variation": 4000
+    },
+    {
+      "cle": "bonbonsgelifiesetacidules_190sugaredpartymix12bx100g_html",
+      "name": "Bonbons party mix 100g",
+      "prix_base": 1990,
+      "prix_comparaison": 4500,
+      "variation": 2510
+    },
+    {
+      "cle": "bonbonsgelifiesetacidules_169peachhearts12bagsx100g_html",
+      "name": "Bonbons holiday c\u0153ur de p\u00eache 100g",
+      "prix_base": 1990,
+      "prix_comparaison": 4500,
+      "variation": 2510
+    },
+    {
+      "cle": "ustensilesdecuisine_11646bouleathedomedia_html",
+      "name": "Boule \u00e0 th\u00e9",
+      "prix_base": 10500,
+      "prix_comparaison": 11900,
+      "variation": 1400
     }
   ],
   "prix_diminues": [
@@ -15,15 +43,71 @@
       "prix_base": 19900,
       "prix_comparaison": 17000,
       "variation": -2900
+    },
+    {
+      "cle": "laitenpoudre_8109laitenpoudre1kg_html",
+      "name": "Lait en poudre 1kg",
+      "prix_base": 42790,
+      "prix_comparaison": 41000,
+      "variation": -1790
+    },
+    {
+      "cle": "gelsdoucheetshampoingshomme_13321geldouchecaipirinhaexotique250mllabell_html",
+      "name": "Gel douche caipirinha exotique 250ml",
+      "prix_base": 7500,
+      "prix_comparaison": 5900,
+      "variation": -1600
+    },
+    {
+      "cle": "gelsdoucheetshampoingshomme_13229geldouchemensport250mllabell_html",
+      "name": "Gel douche men sport 250ml",
+      "prix_base": 7500,
+      "prix_comparaison": 5900,
+      "variation": -1600
+    },
+    {
+      "cle": "gaufresetcrepes_6479biscuitschocolatnoirmikado90g_html",
+      "name": "Biscuits chocolat noir Mikado 90g",
+      "prix_base": 12900,
+      "prix_comparaison": 11500,
+      "variation": -1400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "papiertoilette_4428papiertoilette6rouleaux_html",
-      "name": "Papier toilette 6 rouleaux",
-      "prix_base": 2850,
-      "prix_comparaison": 3300,
-      "indice_prix": 115.78947368421052
+      "cle": "bonbonsgelifiesetacidules_190sugaredpartymix12bx100g_html",
+      "name": "Bonbons party mix 100g",
+      "prix_base": 1990,
+      "prix_comparaison": 4500,
+      "indice_prix": 226.13065326633165
+    },
+    {
+      "cle": "bonbonsgelifiesetacidules_169peachhearts12bagsx100g_html",
+      "name": "Bonbons holiday c\u0153ur de p\u00eache 100g",
+      "prix_base": 1990,
+      "prix_comparaison": 4500,
+      "indice_prix": 226.13065326633165
+    },
+    {
+      "cle": "epongesbrossesetgants_13904epongesgrattantesvertesx4piecestopbudget_html",
+      "name": "Eponges grattantes vertes x4pi\u00e8ces",
+      "prix_base": 4700,
+      "prix_comparaison": 5900,
+      "indice_prix": 125.53191489361703
+    },
+    {
+      "cle": "nappesserviettesessuietout_3579essuietoutblanc2plis45feuillesx2rlxx24albanet_html",
+      "name": "Essuie-tout blanc 2 plis 2 rouleaux",
+      "prix_base": 4900,
+      "prix_comparaison": 6100,
+      "indice_prix": 124.48979591836735
+    },
+    {
+      "cle": "tablettesdechocolat_13840tablettedechocolatmenage500gtopbudget_html",
+      "name": "Tablette de chocolat  m\u00e9nage 500g",
+      "prix_base": 17500,
+      "prix_comparaison": 21500,
+      "indice_prix": 122.85714285714286
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +117,34 @@
       "prix_base": 7500,
       "prix_comparaison": 5900,
       "indice_prix": 78.66666666666667
+    },
+    {
+      "cle": "gelsdoucheetshampoingshomme_13229geldouchemensport250mllabell_html",
+      "name": "Gel douche men sport 250ml",
+      "prix_base": 7500,
+      "prix_comparaison": 5900,
+      "indice_prix": 78.66666666666667
+    },
+    {
+      "cle": "gelsdoucheetshampoingshomme_13255geldouche2en1corpsetcheveux250mllabell_html",
+      "name": "Gel douche 2 en 1 corps et cheveux 250ml",
+      "prix_base": 7200,
+      "prix_comparaison": 5900,
+      "indice_prix": 81.94444444444444
+    },
+    {
+      "cle": "aidesalapatisserie_13119levuresboulangeres6x55g_html",
+      "name": "Levures boulang\u00e8res 6x5,5g",
+      "prix_base": 5300,
+      "prix_comparaison": 4500,
+      "indice_prix": 84.90566037735849
+    },
+    {
+      "cle": "barberasage_13123rechargesrasoirsysteme3lamespourhommex4labell_html",
+      "name": "Recharges rasoir  syst\u00e8me 3 lames  pour homme  x4",
+      "prix_base": 19900,
+      "prix_comparaison": 17000,
+      "indice_prix": 85.42713567839196
     }
   ]
 }
