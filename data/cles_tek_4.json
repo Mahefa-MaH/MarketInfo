@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7500,
-      "prix_comparaison": 7500,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 12451,
       "name": "Riz rouge long grain complet 500 g",
       "prix_base": 11900,
@@ -21,6 +13,14 @@
       "name": "Riz Rouge 5 Kg",
       "prix_base": 18100,
       "prix_comparaison": 18100,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 7200,
+      "prix_comparaison": 7200,
       "variation": 0,
       "indice_prix": 100.0
     }

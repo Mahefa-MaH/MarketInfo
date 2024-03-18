@@ -1,132 +1,48 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12445,
-      "name": "Riz Basmati 500 g",
-      "prix_base": 16150,
-      "prix_comparaison": 16200,
-      "variation": 50
+      "list_id": 826,
+      "name": "Cr\u00e8me P\u00e2tissi\u00e8re \u00e0 Froid 5 Kg",
+      "prix_base": 239000,
+      "prix_comparaison": 226800,
+      "variation": -12200
     },
     {
-      "list_id": 10836,
-      "name": "Huile de massage \u00e0 l'argan 150 ml",
-      "prix_base": 34650,
-      "prix_comparaison": 34700,
-      "variation": 50
+      "list_id": 898,
+      "name": "Apple Mix Bouteille 50 Cl consign\u00e9",
+      "prix_base": 4800,
+      "prix_comparaison": 5000,
+      "variation": 200
     },
     {
-      "list_id": 12859,
-      "name": "Sucre en poudre en sachet de 1 Kg",
-      "prix_base": 14250,
-      "prix_comparaison": 14300,
-      "variation": 50
-    },
-    {
-      "list_id": 12858,
-      "name": "Cr\u00e8me de marrons vanill\u00e9e 1/2",
-      "prix_base": 25850,
-      "prix_comparaison": 25900,
-      "variation": 50
-    },
-    {
-      "list_id": 11442,
-      "name": "D\u00e9odorant \u00e0 bille sensitive \u00e0 l'extrait d'avoine 50 ml",
-      "prix_base": 9450,
-      "prix_comparaison": 9500,
-      "variation": 50
-    },
-    {
-      "list_id": 11443,
-      "name": "D\u00e9odorant \u00e0 bille cream care anti-transpirant 50 ml",
-      "prix_base": 9450,
-      "prix_comparaison": 9500,
-      "variation": 50
-    },
-    {
-      "list_id": 12968,
-      "name": "Cr\u00e8mes glac\u00e9es Menthe Chocolat 1l",
-      "prix_base": 29850,
-      "prix_comparaison": 29900,
-      "variation": 50
-    },
-    {
-      "list_id": 12821,
-      "name": "Confiture figue all\u00e9g\u00e9e en sucre 340 g",
-      "prix_base": 19850,
-      "prix_comparaison": 19900,
-      "variation": 50
-    },
-    {
-      "list_id": 12464,
-      "name": "Riz Basmati 500 g",
-      "prix_base": 13100,
-      "prix_comparaison": 13200,
-      "variation": 100
+      "list_id": 827,
+      "name": "Cr\u00e8me laiti\u00e8re sucr\u00e9e Delight 1 L",
+      "prix_base": 28300,
+      "prix_comparaison": 31000,
+      "variation": 2700
     }
   ],
   "indice de prix": [
     {
-      "list_id": 10836,
-      "name": "Huile de massage \u00e0 l'argan 150 ml",
-      "prix_base": 34650,
-      "prix_comparaison": 34700,
-      "indice_prix": 100.14430014430015
+      "list_id": 826,
+      "name": "Cr\u00e8me P\u00e2tissi\u00e8re \u00e0 Froid 5 Kg",
+      "prix_base": 239000,
+      "prix_comparaison": 226800,
+      "indice_prix": 94.89539748953975
     },
     {
-      "list_id": 12968,
-      "name": "Cr\u00e8mes glac\u00e9es Menthe Chocolat 1l",
-      "prix_base": 29850,
-      "prix_comparaison": 29900,
-      "indice_prix": 100.16750418760469
+      "list_id": 898,
+      "name": "Apple Mix Bouteille 50 Cl consign\u00e9",
+      "prix_base": 4800,
+      "prix_comparaison": 5000,
+      "indice_prix": 104.16666666666667
     },
     {
-      "list_id": 12858,
-      "name": "Cr\u00e8me de marrons vanill\u00e9e 1/2",
-      "prix_base": 25850,
-      "prix_comparaison": 25900,
-      "indice_prix": 100.19342359767892
-    },
-    {
-      "list_id": 12821,
-      "name": "Confiture figue all\u00e9g\u00e9e en sucre 340 g",
-      "prix_base": 19850,
-      "prix_comparaison": 19900,
-      "indice_prix": 100.25188916876574
-    },
-    {
-      "list_id": 12445,
-      "name": "Riz Basmati 500 g",
-      "prix_base": 16150,
-      "prix_comparaison": 16200,
-      "indice_prix": 100.30959752321981
-    },
-    {
-      "list_id": 12859,
-      "name": "Sucre en poudre en sachet de 1 Kg",
-      "prix_base": 14250,
-      "prix_comparaison": 14300,
-      "indice_prix": 100.35087719298245
-    },
-    {
-      "list_id": 11442,
-      "name": "D\u00e9odorant \u00e0 bille sensitive \u00e0 l'extrait d'avoine 50 ml",
-      "prix_base": 9450,
-      "prix_comparaison": 9500,
-      "indice_prix": 100.52910052910053
-    },
-    {
-      "list_id": 11443,
-      "name": "D\u00e9odorant \u00e0 bille cream care anti-transpirant 50 ml",
-      "prix_base": 9450,
-      "prix_comparaison": 9500,
-      "indice_prix": 100.52910052910053
-    },
-    {
-      "list_id": 12464,
-      "name": "Riz Basmati 500 g",
-      "prix_base": 13100,
-      "prix_comparaison": 13200,
-      "indice_prix": 100.76335877862596
+      "list_id": 827,
+      "name": "Cr\u00e8me laiti\u00e8re sucr\u00e9e Delight 1 L",
+      "prix_base": 28300,
+      "prix_comparaison": 31000,
+      "indice_prix": 109.54063604240282
     }
   ]
 }

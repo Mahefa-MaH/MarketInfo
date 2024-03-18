@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
-      "name": "iPhone 15 256GB Vert",
-      "prix_base": 5188000,
-      "prix_comparaison": 5299000,
-      "variation": 111000
+      "cle": "papiertoilette_4428papiertoilette6rouleaux_html",
+      "name": "Papier toilette 6 rouleaux",
+      "prix_base": 2850,
+      "prix_comparaison": 3300,
+      "variation": 450
     }
   ],
   "prix_diminues": [
     {
-      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
-      "name": "Iphone 15 128GB Rose",
-      "prix_base": 4305000,
-      "prix_comparaison": 4096000,
-      "variation": -209000
+      "cle": "barberasage_13123rechargesrasoirsysteme3lamespourhommex4labell_html",
+      "name": "Recharges rasoir  syst\u00e8me 3 lames  pour homme  x4",
+      "prix_base": 19900,
+      "prix_comparaison": 17000,
+      "variation": -2900
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "appareilsagaufrescrepieres_14008crepieredomo4crepesmotifsemojirevetementantiadhesif600wl31xl34xh13cm_html",
-      "name": "Cr\u00eapi\u00e8re DOMO - 4 cr\u00eapes - Motifs EMOJI - 600w",
-      "prix_base": 260000,
-      "prix_comparaison": 359000,
-      "indice_prix": 138.07692307692307
+      "cle": "papiertoilette_4428papiertoilette6rouleaux_html",
+      "name": "Papier toilette 6 rouleaux",
+      "prix_base": 2850,
+      "prix_comparaison": 3300,
+      "indice_prix": 115.78947368421052
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "bonbonsgelifiesetacidules_169peachhearts12bagsx100g_html",
-      "name": "Bonbons holiday c\u0153ur de p\u00eache 100g",
-      "prix_base": 4500,
-      "prix_comparaison": 1990,
-      "indice_prix": 44.22222222222222
+      "cle": "gelsdoucheetshampoingshomme_13321geldouchecaipirinhaexotique250mllabell_html",
+      "name": "Gel douche caipirinha exotique 250ml",
+      "prix_base": 7500,
+      "prix_comparaison": 5900,
+      "indice_prix": 78.66666666666667
     }
   ]
 }

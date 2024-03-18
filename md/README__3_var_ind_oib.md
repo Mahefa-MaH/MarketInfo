@@ -2,29 +2,29 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **iPhone 15 256GB Vert**
-   - Prix avant: 5,188,000 Ar
-   - Prix actuel: 5,299,000 Ar
-   - Variation: +111,000 Ar
+1. **Papier toilette 6 rouleaux**
+   - Prix avant: 2,850 Ar
+   - Prix actuel: 3,300 Ar
+   - Variation: +450 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Iphone 15 128GB Rose**
-   - Prix avant: 4,305,000 Ar
-   - Prix actuel: 4,096,000 Ar
-   - Variation: -209,000 Ar
+1. **Recharges rasoir  système 3 lames  pour homme  x4**
+   - Prix avant: 19,900 Ar
+   - Prix actuel: 17,000 Ar
+   - Variation: -2,900 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Crêpière DOMO - 4 crêpes - Motifs EMOJI - 600w**
-   - Prix avant: 260,000 Ar
-   - Prix actuel: 359,000 Ar
-   - Indice de prix : 138.08
+1. **Papier toilette 6 rouleaux**
+   - Prix avant: 2,850 Ar
+   - Prix actuel: 3,300 Ar
+   - Indice de prix : 115.79
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Bonbons holiday cœur de pêche 100g**
-   - Prix avant: 4,500 Ar
-   - Prix actuel: 1,990 Ar
-   - Indice de prix : 44.22
+1. **Gel douche caipirinha exotique 250ml**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 5,900 Ar
+   - Indice de prix : 78.67
 
