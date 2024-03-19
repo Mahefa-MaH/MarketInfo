@@ -1,48 +1,90 @@
 {
   "Variation de prix": [
     {
-      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
-      "name": "Iphone 15 128GB Rose",
-      "prix_base": 4305000,
-      "prix_comparaison": 4096000,
-      "variation": -209000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5527000,
-      "prix_comparaison": 5526000,
+      "cle": "gelsetbainsdouche_13244geldouchepecheetaloevera250mllabell_html",
+      "name": "Cr\u00e8me douche p\u00eache et aloe Vera 250ml",
+      "prix_base": 7900,
+      "prix_comparaison": 6900,
       "variation": -1000
     },
     {
-      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
-      "name": "iPhone 15 256GB Vert",
-      "prix_base": 5188000,
-      "prix_comparaison": 5299000,
-      "variation": 111000
+      "cle": "gelsetbainsdouche_13243geldouchetiareetambre250mllabell_html",
+      "name": "Cr\u00e8me douche tiar\u00e9 et ambre 250ml",
+      "prix_base": 7900,
+      "prix_comparaison": 6900,
+      "variation": -1000
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_8307cremeliquidedecoration1l_html",
+      "name": "Cr\u00e8me liquide d\u00e9coration 1L",
+      "prix_base": 21190,
+      "prix_comparaison": 21000,
+      "variation": -190
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_8308cremeliquidenature1l_html",
+      "name": "Cr\u00e8me liquide nature 1L",
+      "prix_base": 21190,
+      "prix_comparaison": 21000,
+      "variation": -190
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_8309cremeliquidesucree1l_html",
+      "name": "Cr\u00e8me liquide sucr\u00e9e 1L",
+      "prix_base": 21190,
+      "prix_comparaison": 21000,
+      "variation": -190
+    },
+    {
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5200,
+      "prix_comparaison": 5110,
+      "variation": -90
     }
   ],
   "indice de prix": [
     {
-      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
-      "name": "Iphone 15 128GB Rose",
-      "prix_base": 4305000,
-      "prix_comparaison": 4096000,
-      "indice_prix": 95.1451800232288
+      "cle": "gelsetbainsdouche_13244geldouchepecheetaloevera250mllabell_html",
+      "name": "Cr\u00e8me douche p\u00eache et aloe Vera 250ml",
+      "prix_base": 7900,
+      "prix_comparaison": 6900,
+      "indice_prix": 87.34177215189874
     },
     {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5527000,
-      "prix_comparaison": 5526000,
-      "indice_prix": 99.98190700199022
+      "cle": "gelsetbainsdouche_13243geldouchetiareetambre250mllabell_html",
+      "name": "Cr\u00e8me douche tiar\u00e9 et ambre 250ml",
+      "prix_base": 7900,
+      "prix_comparaison": 6900,
+      "indice_prix": 87.34177215189874
     },
     {
-      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
-      "name": "iPhone 15 256GB Vert",
-      "prix_base": 5188000,
-      "prix_comparaison": 5299000,
-      "indice_prix": 102.13955281418659
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5200,
+      "prix_comparaison": 5110,
+      "indice_prix": 98.26923076923077
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_8307cremeliquidedecoration1l_html",
+      "name": "Cr\u00e8me liquide d\u00e9coration 1L",
+      "prix_base": 21190,
+      "prix_comparaison": 21000,
+      "indice_prix": 99.10335063709297
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_8308cremeliquidenature1l_html",
+      "name": "Cr\u00e8me liquide nature 1L",
+      "prix_base": 21190,
+      "prix_comparaison": 21000,
+      "indice_prix": 99.10335063709297
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_8309cremeliquidesucree1l_html",
+      "name": "Cr\u00e8me liquide sucr\u00e9e 1L",
+      "prix_base": 21190,
+      "prix_comparaison": 21000,
+      "indice_prix": 99.10335063709297
     }
   ]
 }
