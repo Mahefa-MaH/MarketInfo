@@ -4,25 +4,9 @@
       "list_id": 370,
       "name": "Sucre Blanc 250 g",
       "prix_base": 2800,
-      "prix_comparaison": 2800,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 9679,
-      "name": "Sucrettes blanches  50 g",
-      "prix_base": 6300,
-      "prix_comparaison": 6300,
-      "variation": 0,
-      "indice_prix": 100.0
+      "prix_comparaison": 3100,
+      "variation": 300,
+      "indice_prix": 110.71428571428571
     }
   ]
 }
