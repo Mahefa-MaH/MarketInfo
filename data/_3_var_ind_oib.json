@@ -13,6 +13,27 @@
       "prix_base": 3200,
       "prix_comparaison": 3740,
       "variation": 540
+    },
+    {
+      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
+      "name": "Olives vertes avec noyau sachet 200g",
+      "prix_base": 3200,
+      "prix_comparaison": 3740,
+      "variation": 540
+    },
+    {
+      "cle": "sauceschaudessaucestomates_4954saucehuitrepremium510g_html",
+      "name": "Sauce huitre Premium 510g",
+      "prix_base": 10800,
+      "prix_comparaison": 11000,
+      "variation": 200
+    },
+    {
+      "cle": "pates_1976panzanimacvermi500grx20_html",
+      "name": "Vermicelles 500g",
+      "prix_base": 2990,
+      "prix_comparaison": 2950,
+      "variation": -40
     }
   ],
   "prix_diminues": [
@@ -29,6 +50,27 @@
       "prix_base": 16500,
       "prix_comparaison": 15900,
       "variation": -600
+    },
+    {
+      "cle": "pates_1977spaghettipanzani500g_html",
+      "name": "Spaghetti Panzani 500g",
+      "prix_base": 3690,
+      "prix_comparaison": 3200,
+      "variation": -490
+    },
+    {
+      "cle": "sauceschaudessaucestomates_4953saucehuitrepremium260g_html",
+      "name": "Sauce huitre Premium 260g",
+      "prix_base": 7950,
+      "prix_comparaison": 7500,
+      "variation": -450
+    },
+    {
+      "cle": "sauceschaudessaucestomates_4959saucesojabrune500ml_html",
+      "name": "Sauce soja brune 500ml",
+      "prix_base": 9750,
+      "prix_comparaison": 9400,
+      "variation": -350
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +87,27 @@
       "prix_base": 3200,
       "prix_comparaison": 3740,
       "indice_prix": 116.875
+    },
+    {
+      "cle": "riz_4965rizparfumeaujasmin5kg_html",
+      "name": "Riz parfum\u00e9 au jasmin 5kg",
+      "prix_base": 43000,
+      "prix_comparaison": 49500,
+      "indice_prix": 115.11627906976744
+    },
+    {
+      "cle": "sauceschaudessaucestomates_4954saucehuitrepremium510g_html",
+      "name": "Sauce huitre Premium 510g",
+      "prix_base": 10800,
+      "prix_comparaison": 11000,
+      "indice_prix": 101.85185185185185
+    },
+    {
+      "cle": "pates_1976panzanimacvermi500grx20_html",
+      "name": "Vermicelles 500g",
+      "prix_base": 2990,
+      "prix_comparaison": 2950,
+      "indice_prix": 98.66220735785953
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +124,27 @@
       "prix_base": 12900,
       "prix_comparaison": 11900,
       "indice_prix": 92.24806201550388
+    },
+    {
+      "cle": "sauceschaudessaucestomates_4953saucehuitrepremium260g_html",
+      "name": "Sauce huitre Premium 260g",
+      "prix_base": 7950,
+      "prix_comparaison": 7500,
+      "indice_prix": 94.33962264150944
+    },
+    {
+      "cle": "sauceschaudessaucestomates_4958saucesojaclaire150ml_html",
+      "name": "Sauce soja claire 150ml",
+      "prix_base": 4600,
+      "prix_comparaison": 4400,
+      "indice_prix": 95.65217391304348
+    },
+    {
+      "cle": "riz_13060rizcomplet10min500gsainteloi_html",
+      "name": "Riz complet 10 min 500g",
+      "prix_base": 7200,
+      "prix_comparaison": 6900,
+      "indice_prix": 95.83333333333333
     }
   ]
 }

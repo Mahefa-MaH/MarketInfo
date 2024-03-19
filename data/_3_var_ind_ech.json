@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_saucissonjambonaupoivrevert250g_",
-      "name": "Saucisson au Poivre Vert 250g",
-      "prix_base": 10192,
-      "prix_comparaison": 14980,
-      "variation": 4788
+      "cle": "produit_sweetchillisauceredriverbridge700grs_",
+      "name": "Sweet chilli sauce red river bridge 700grs",
+      "prix_base": 14740,
+      "prix_comparaison": 17330,
+      "variation": 2590
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_saucissonjambonaupoivrevert250g_",
-      "name": "Saucisson au Poivre Vert 250g",
-      "prix_base": 10192,
-      "prix_comparaison": 14980,
-      "variation": 4788
+      "cle": "produit_sweetchillisauceredriverbridge700grs_",
+      "name": "Sweet chilli sauce red river bridge 700grs",
+      "prix_base": 14740,
+      "prix_comparaison": 17330,
+      "variation": 2590
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_saucissonjambonaupoivrevert250g_",
-      "name": "Saucisson au Poivre Vert 250g",
-      "prix_base": 10192,
-      "prix_comparaison": 14980,
-      "indice_prix": 146.97802197802199
+      "cle": "produit_sweetchillisauceredriverbridge700grs_",
+      "name": "Sweet chilli sauce red river bridge 700grs",
+      "prix_base": 14740,
+      "prix_comparaison": 17330,
+      "indice_prix": 117.57123473541384
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_saucissonjambonaupoivrevert250g_",
-      "name": "Saucisson au Poivre Vert 250g",
-      "prix_base": 10192,
-      "prix_comparaison": 14980,
-      "indice_prix": 146.97802197802199
+      "cle": "produit_sweetchillisauceredriverbridge700grs_",
+      "name": "Sweet chilli sauce red river bridge 700grs",
+      "prix_base": 14740,
+      "prix_comparaison": 17330,
+      "indice_prix": 117.57123473541384
     }
   ]
 }

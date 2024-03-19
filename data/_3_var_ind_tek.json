@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 823,
-      "prix_base": 883200,
-      "name": "Am\u00e9liorant Moelleux 10 Kg",
-      "prix_comparaison": 968500,
-      "variation": 85300
+      "list_id": 356,
+      "prix_base": 142600,
+      "name": "Farine Compl\u00e8te 25 Kg",
+      "prix_comparaison": 155600,
+      "variation": 13000
     },
     {
-      "list_id": 824,
-      "prix_base": 384500,
-      "name": "Ibis Viennoiserie 10 Kg",
-      "prix_comparaison": 419500,
-      "variation": 35000
+      "list_id": 352,
+      "prix_base": 58900,
+      "name": "Th\u00e9 Vanille 100 Poches",
+      "prix_comparaison": 64300,
+      "variation": 5400
     },
     {
-      "list_id": 5119,
-      "prix_base": 410000,
-      "name": "Rogneuse Proton A4",
-      "prix_comparaison": 427800,
-      "variation": 17800
+      "list_id": 5211,
+      "prix_base": 19400,
+      "name": "Papier photocopie A4 500 feuilles",
+      "prix_comparaison": 22300,
+      "variation": 2900
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 826,
-      "prix_base": 239000,
-      "name": "Cr\u00e8me P\u00e2tissi\u00e8re \u00e0 Froid 5 Kg",
-      "prix_comparaison": 226800,
-      "variation": -12200
+      "list_id": 344,
+      "prix_base": 55400,
+      "name": "Caf\u00e9 Moka Moulu 1 Kg",
+      "prix_comparaison": 47600,
+      "variation": -7800
     },
     {
-      "list_id": 807,
-      "prix_base": 37800,
-      "name": "NAN optipro 3 Lait pour b\u00e9b\u00e9 de 1 \u00e0 3 ans 400 G",
-      "prix_comparaison": 35300,
-      "variation": -2500
+      "list_id": 2275,
+      "prix_base": 41400,
+      "name": "chocolat 16 Pi\u00e8ces",
+      "prix_comparaison": 35000,
+      "variation": -6400
     },
     {
-      "list_id": 1495,
-      "prix_base": 39900,
-      "name": "Couche Baby Dry S2 Mini Eco",
-      "prix_comparaison": 38000,
-      "variation": -1900
+      "list_id": 377,
+      "prix_base": 41200,
+      "name": "Huile D'Olive Vierge 1 L",
+      "prix_comparaison": 37400,
+      "variation": -3800
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 802,
-      "name": "Cerelac Wheat 25 g",
-      "prix_base": 800,
-      "prix_comparaison": 1400,
-      "indice_prix": 175.0
+      "list_id": 375,
+      "name": "Thon En Miettes \u00e0 l'huile 150 g",
+      "prix_base": 3800,
+      "prix_comparaison": 4800,
+      "indice_prix": 126.3157894736842
     },
     {
-      "list_id": 5117,
-      "name": "Reliure spirale 8 mm Boite de 100",
-      "prix_base": 16300,
-      "prix_comparaison": 18800,
-      "indice_prix": 115.33742331288343
+      "list_id": 5211,
+      "name": "Papier photocopie A4 500 feuilles",
+      "prix_base": 19400,
+      "prix_comparaison": 22300,
+      "indice_prix": 114.94845360824742
     },
     {
-      "list_id": 819,
-      "name": "Carry Sachet 30 G",
-      "prix_base": 700,
-      "prix_comparaison": 800,
-      "indice_prix": 114.28571428571429
+      "list_id": 364,
+      "name": "Levure Chimique 500 G",
+      "prix_base": 3600,
+      "prix_comparaison": 4100,
+      "indice_prix": 113.88888888888889
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 807,
-      "name": "NAN optipro 3 Lait pour b\u00e9b\u00e9 de 1 \u00e0 3 ans 400 G",
-      "prix_base": 37800,
-      "prix_comparaison": 35300,
-      "indice_prix": 93.3862433862434
+      "list_id": 2275,
+      "name": "chocolat 16 Pi\u00e8ces",
+      "prix_base": 41400,
+      "prix_comparaison": 35000,
+      "indice_prix": 84.54106280193237
     },
     {
-      "list_id": 826,
-      "name": "Cr\u00e8me P\u00e2tissi\u00e8re \u00e0 Froid 5 Kg",
-      "prix_base": 239000,
-      "prix_comparaison": 226800,
-      "indice_prix": 94.89539748953975
+      "list_id": 568,
+      "name": "Couche Culotte M",
+      "prix_base": 23200,
+      "prix_comparaison": 19700,
+      "indice_prix": 84.91379310344827
     },
     {
-      "list_id": 1495,
-      "name": "Couche Baby Dry S2 Mini Eco",
-      "prix_base": 39900,
-      "prix_comparaison": 38000,
-      "indice_prix": 95.23809523809524
+      "list_id": 344,
+      "name": "Caf\u00e9 Moka Moulu 1 Kg",
+      "prix_base": 55400,
+      "prix_comparaison": 47600,
+      "indice_prix": 85.92057761732852
     }
   ]
 }
