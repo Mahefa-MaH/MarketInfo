@@ -27,13 +27,6 @@
       "prix_base": 10800,
       "prix_comparaison": 11000,
       "variation": 200
-    },
-    {
-      "cle": "pates_1976panzanimacvermi500grx20_html",
-      "name": "Vermicelles 500g",
-      "prix_base": 2990,
-      "prix_comparaison": 2950,
-      "variation": -40
     }
   ],
   "prix_diminues": [
@@ -64,13 +57,6 @@
       "prix_base": 7950,
       "prix_comparaison": 7500,
       "variation": -450
-    },
-    {
-      "cle": "sauceschaudessaucestomates_4959saucesojabrune500ml_html",
-      "name": "Sauce soja brune 500ml",
-      "prix_base": 9750,
-      "prix_comparaison": 9400,
-      "variation": -350
     }
   ],
   "indices_prix_plus_eleves": [
@@ -101,13 +87,6 @@
       "prix_base": 10800,
       "prix_comparaison": 11000,
       "indice_prix": 101.85185185185185
-    },
-    {
-      "cle": "pates_1976panzanimacvermi500grx20_html",
-      "name": "Vermicelles 500g",
-      "prix_base": 2990,
-      "prix_comparaison": 2950,
-      "indice_prix": 98.66220735785953
     }
   ],
   "indices_prix_plus_faibles": [
@@ -138,13 +117,6 @@
       "prix_base": 4600,
       "prix_comparaison": 4400,
       "indice_prix": 95.65217391304348
-    },
-    {
-      "cle": "riz_13060rizcomplet10min500gsainteloi_html",
-      "name": "Riz complet 10 min 500g",
-      "prix_base": 7200,
-      "prix_comparaison": 6900,
-      "indice_prix": 95.83333333333333
     }
   ]
 }
