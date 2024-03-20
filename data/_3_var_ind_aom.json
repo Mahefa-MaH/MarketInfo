@@ -1,150 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "nettoyeurhautepression_39320nettoyeurhautepressionkarcherk3premiumpowercontrolhome380lh1600w120bar4054278787213_html",
-      "name": "Nettoyeur haute pression KARCHER K3 Premium Power Control Home - 380 L/h - 1 600W - 120 bar",
-      "prix_base": 1339000,
-      "prix_comparaison": 1648000,
-      "variation": 309000
-    },
-    {
-      "cle": "chaineguidepourtronconneuse_95998powerplusdualpowertronconneuseabatteriepowdpgset3340vguidede350mmbatterieetchargeurinclus5400338081033_html",
-      "name": "Tron\u00e7onneuse a batterie Dual Power POWDPGSET33 - 40 V,Guide de 350 mm, Batterie et chargeur inclus",
-      "prix_base": 1517000,
-      "prix_comparaison": 1811000,
-      "variation": 294000
-    },
-    {
-      "cle": "distributeurdaliment_202petsafedistributeurdecroquettesautomatiqueconnectu00e9smartfeedpourchienchatavecminuteriebolenacierinoxydabl0729849168619_html",
-      "name": "PetSafe - Distributeur de Croquettes Automatique Connect\u00e9 Smart Feed pour Chien/Chat, avec minuterie, bol en acier inoxydable, 5",
-      "prix_base": 1178000,
-      "prix_comparaison": 1276000,
-      "variation": 98000
-    },
-    {
-      "cle": "brosseadentselectrique_137258oralbio6sbrosseadentselectriqueconnecteebluetoothgrise2brossettes1etuidevoyage4210201427360_html",
-      "name": "Oral-B iO 6S Brosse a Dents \u00c9lectrique connect\u00e9e Bluetooth Grise, 2 Brossettes, 1 \u00c9tui De Voyage",
-      "prix_base": 795000,
-      "prix_comparaison": 873000,
-      "variation": 78000
-    },
-    {
-      "cle": "nettoyeurhautepression_39298nettoyeurhautepressionkarcherk3powercontrol380lh1600w120bar4054278605166_html",
-      "name": "Nettoyeur haute pression K3 Power Control avec accessoires - KARCHER - 16761000",
-      "prix_base": 989000,
-      "prix_comparaison": 1062000,
-      "variation": 73000
+      "cle": "sacpoubellesacplastique_7185620sacspoubelle30l_html",
+      "name": "20 Sacs poubelle 30L",
+      "prix_base": 6900,
+      "prix_comparaison": 4900,
+      "variation": -2000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "tronconneuseelagueuse_134863tronconneusethermique45cc45cmalpinaacs468008984833579_html",
-      "name": "Tron\u00e7onneuse thermique 45cc 45cm ALPINA ACS 46",
-      "prix_base": 1553000,
-      "prix_comparaison": 1242000,
-      "variation": -311000
-    },
-    {
-      "cle": "tronconneuseelagueuse_43704tronu00e7onneuseu00e9lectrique1900wryobircs1935b2cguide35cm2chaines4892210174604_html",
-      "name": "Tron\u00e7onneuse \u00e9lectrique 1900W RYOBI RCS1935B2C - Guide 35 cm + 2 chaines",
-      "prix_base": 1170000,
-      "prix_comparaison": 920000,
-      "variation": -250000
-    },
-    {
-      "cle": "taillehaie_93911taillehaiesthermiquemccullochht5622272cc56cmpoigneepivotantereservoir05l7391736384261_html",
-      "name": "Taille-haies thermique - MCCULLOCH - HT 5622 - 27,2 cc - 56 cm - Poign\u00e9e pivotante",
-      "prix_base": 1574000,
-      "prix_comparaison": 1364000,
-      "variation": -210000
-    },
-    {
-      "cle": "nettoyeurhautepression_95581nettoyeurhautepressionkarcherk7premiumpowerhome600lh3000w180bar4054278961323_html",
-      "name": "Nettoyeur haute pression KARCHER K7 Premium Power Home - 600 L/h - 3000 W - 180 bar",
-      "prix_base": 3327000,
-      "prix_comparaison": 3136000,
-      "variation": -191000
-    },
-    {
-      "cle": "desherbeursarcloir_49593desherbeursurbatteriekarcherwre1855avecbatterieamovible18v25ahchargeurstandard4054278693644_html",
-      "name": "D\u00e9sherbeur sur batterie KARCHER WRE 18 - 55 (avec batterie amovible 18V / 2,5 Ah + chargeur standard)",
-      "prix_base": 1306000,
-      "prix_comparaison": 1129000,
-      "variation": -177000
+      "cle": "sacpoubellesacplastique_7185620sacspoubelle30l_html",
+      "name": "20 Sacs poubelle 30L",
+      "prix_base": 6900,
+      "prix_comparaison": 4900,
+      "variation": -2000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "sterilisateurdebrosseadents_85949philipssonicarehx690701assainisseuruvblanc8710103966487_html",
-      "name": "Assainisseur de Tetes de Brosse UV - Philips - HX - \u00c9limine jusqu'a 99% des bact\u00e9ries et virus",
-      "prix_base": 169000,
-      "prix_comparaison": 242000,
-      "indice_prix": 143.19526627218934
-    },
-    {
-      "cle": "nettoyeurhautepression_39320nettoyeurhautepressionkarcherk3premiumpowercontrolhome380lh1600w120bar4054278787213_html",
-      "name": "Nettoyeur haute pression KARCHER K3 Premium Power Control Home - 380 L/h - 1 600W - 120 bar",
-      "prix_base": 1339000,
-      "prix_comparaison": 1648000,
-      "indice_prix": 123.07692307692308
-    },
-    {
-      "cle": "chaineguidepourtronconneuse_95998powerplusdualpowertronconneuseabatteriepowdpgset3340vguidede350mmbatterieetchargeurinclus5400338081033_html",
-      "name": "Tron\u00e7onneuse a batterie Dual Power POWDPGSET33 - 40 V,Guide de 350 mm, Batterie et chargeur inclus",
-      "prix_base": 1517000,
-      "prix_comparaison": 1811000,
-      "indice_prix": 119.38035596572182
-    },
-    {
-      "cle": "brosseadentselectrique_137258oralbio6sbrosseadentselectriqueconnecteebluetoothgrise2brossettes1etuidevoyage4210201427360_html",
-      "name": "Oral-B iO 6S Brosse a Dents \u00c9lectrique connect\u00e9e Bluetooth Grise, 2 Brossettes, 1 \u00c9tui De Voyage",
-      "prix_base": 795000,
-      "prix_comparaison": 873000,
-      "indice_prix": 109.81132075471699
-    },
-    {
-      "cle": "distributeurdaliment_101petsafedistributeurdecroquettesautomatiqueeatwellpourchienchatjusqua5repasprogrammableplateaulavable0729849137073_html",
-      "name": "PetSafe - Distributeur de Croquettes Automatique Eatwell pour Chien/Chat , Jusqu'a 5 Repas- Programmable - Plateau lavable",
-      "prix_base": 468000,
-      "prix_comparaison": 513000,
-      "indice_prix": 109.61538461538461
+      "cle": "sacpoubellesacplastique_7185620sacspoubelle30l_html",
+      "name": "20 Sacs poubelle 30L",
+      "prix_base": 6900,
+      "prix_comparaison": 4900,
+      "indice_prix": 71.01449275362319
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "tronconneuseelagueuse_43704tronu00e7onneuseu00e9lectrique1900wryobircs1935b2cguide35cm2chaines4892210174604_html",
-      "name": "Tron\u00e7onneuse \u00e9lectrique 1900W RYOBI RCS1935B2C - Guide 35 cm + 2 chaines",
-      "prix_base": 1170000,
-      "prix_comparaison": 920000,
-      "indice_prix": 78.63247863247864
-    },
-    {
-      "cle": "tronconneuseelagueuse_134863tronconneusethermique45cc45cmalpinaacs468008984833579_html",
-      "name": "Tron\u00e7onneuse thermique 45cc 45cm ALPINA ACS 46",
-      "prix_base": 1553000,
-      "prix_comparaison": 1242000,
-      "indice_prix": 79.97424339987121
-    },
-    {
-      "cle": "nettoyeurhautepression_136618nettoyeurhautepressionkarcherk2universaledition110bars360lh4066529089076_html",
-      "name": "Nettoyeur haute pression KARCHER K2 Universal Edition - 110 bars - 360 l/h",
-      "prix_base": 799000,
-      "prix_comparaison": 668000,
-      "indice_prix": 83.60450563204004
-    },
-    {
-      "cle": "desherbeursarcloir_49593desherbeursurbatteriekarcherwre1855avecbatterieamovible18v25ahchargeurstandard4054278693644_html",
-      "name": "D\u00e9sherbeur sur batterie KARCHER WRE 18 - 55 (avec batterie amovible 18V / 2,5 Ah + chargeur standard)",
-      "prix_base": 1306000,
-      "prix_comparaison": 1129000,
-      "indice_prix": 86.44716692189893
-    },
-    {
-      "cle": "taillehaie_93911taillehaiesthermiquemccullochht5622272cc56cmpoigneepivotantereservoir05l7391736384261_html",
-      "name": "Taille-haies thermique - MCCULLOCH - HT 5622 - 27,2 cc - 56 cm - Poign\u00e9e pivotante",
-      "prix_base": 1574000,
-      "prix_comparaison": 1364000,
-      "indice_prix": 86.65819567979669
+      "cle": "sacpoubellesacplastique_7185620sacspoubelle30l_html",
+      "name": "20 Sacs poubelle 30L",
+      "prix_base": 6900,
+      "prix_comparaison": 4900,
+      "indice_prix": 71.01449275362319
     }
   ]
 }

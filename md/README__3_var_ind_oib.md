@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Spirale inox 20g**
-   - Prix avant: 1,700 Ar
-   - Prix actuel: 1,615 Ar
-   - Variation: -85 Ar
+1. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Variation: +530 Ar
 
-2. **Coton-tige 100 pièces**
-   - Prix avant: 1,850 Ar
-   - Prix actuel: 1,758 Ar
-   - Variation: -92 Ar
+2. **Savon de toilette lait d'amande 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Variation: +530 Ar
 
-3. **Eponges mousse grattantes 2 pièces**
-   - Prix avant: 2,500 Ar
-   - Prix actuel: 2,375 Ar
-   - Variation: -125 Ar
+3. **Savon de toilette cerise 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Variation: +530 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Spray hydratant haute protection BIO monoï 100ml**
-   - Prix avant: 115,500 Ar
-   - Prix actuel: 109,725 Ar
-   - Variation: -5,775 Ar
+1. **Thermomètre digital résistant aux chocs avec sonde**
+   - Prix avant: 657,900 Ar
+   - Prix actuel: 625,005 Ar
+   - Variation: -32,895 Ar
 
-2. **Couche agility dry maxi 11-25kg 62 pièces**
-   - Prix avant: 112,000 Ar
-   - Prix actuel: 106,400 Ar
-   - Variation: -5,600 Ar
+2. **Cafetière expresso multi caps pression de la pompe 19 bars rouge**
+   - Prix avant: 609,000 Ar
+   - Prix actuel: 578,550 Ar
+   - Variation: -30,450 Ar
 
-3. **Couche agility dry 9-20kg x64 pièces**
-   - Prix avant: 109,000 Ar
-   - Prix actuel: 103,550 Ar
-   - Variation: -5,450 Ar
+3. **Faitout rond rouge Slowcook Ø28cm**
+   - Prix avant: 535,000 Ar
+   - Prix actuel: 508,250 Ar
+   - Variation: -26,750 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Coton-tige 100 pièces**
-   - Prix avant: 1,850 Ar
-   - Prix actuel: 1,758 Ar
-   - Indice de prix : 95.03
+1. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Indice de prix : 153.54
 
-2. **240 Oeuillets adhésifs Ø 13mm**
-   - Prix avant: 2,650 Ar
-   - Prix actuel: 2,518 Ar
-   - Indice de prix : 95.02
+2. **Savon de toilette lait d'amande 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Indice de prix : 153.54
 
-3. **Olives farcies boite 50g**
-   - Prix avant: 3,690 Ar
-   - Prix actuel: 3,506 Ar
-   - Indice de prix : 95.01
+3. **Savon de toilette cerise 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Indice de prix : 153.54
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Esquimaux Colosse chocolat blanc 4 bâtonnets 313g**
-   - Prix avant: 15,900 Ar
-   - Prix actuel: 14,725 Ar
-   - Indice de prix : 92.61
+1. **20 Sacs poubelle 30L**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 4,655 Ar
+   - Indice de prix : 67.46
 
-2. **21 Etiquettes blanches 38x63mm**
-   - Prix avant: 2,550 Ar
-   - Prix actuel: 2,422 Ar
-   - Indice de prix : 94.98
+2. **Serviettes hygiéniques ultra mince normal avec ailette 14 pièces**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 8,075 Ar
+   - Indice de prix : 81.57
 
-3. **Vaseline 50ml**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,612 Ar
-   - Indice de prix : 94.98
+3. **100% Pur jus multifruits 2L**
+   - Prix avant: 24,900 Ar
+   - Prix actuel: 20,805 Ar
+   - Indice de prix : 83.55
 

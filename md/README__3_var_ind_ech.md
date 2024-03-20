@@ -2,29 +2,29 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Sweet chilli sauce red river bridge 700grs**
-   - Prix avant: 14,740 Ar
-   - Prix actuel: 17,330 Ar
-   - Variation: +2,590 Ar
+1. **Pastèque 1 pièce | Riche en Vitamine A, B6 et C**
+   - Prix avant: 4,700 Ar
+   - Prix actuel: 6,000 Ar
+   - Variation: +1,300 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Sweet chilli sauce red river bridge 700grs**
-   - Prix avant: 14,740 Ar
-   - Prix actuel: 17,330 Ar
-   - Variation: +2,590 Ar
+1. **Pastèque 1 pièce | Riche en Vitamine A, B6 et C**
+   - Prix avant: 4,700 Ar
+   - Prix actuel: 6,000 Ar
+   - Variation: +1,300 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Sweet chilli sauce red river bridge 700grs**
-   - Prix avant: 14,740 Ar
-   - Prix actuel: 17,330 Ar
-   - Indice de prix : 117.57
+1. **Pastèque 1 pièce | Riche en Vitamine A, B6 et C**
+   - Prix avant: 4,700 Ar
+   - Prix actuel: 6,000 Ar
+   - Indice de prix : 127.66
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Sweet chilli sauce red river bridge 700grs**
-   - Prix avant: 14,740 Ar
-   - Prix actuel: 17,330 Ar
-   - Indice de prix : 117.57
+1. **Pastèque 1 pièce | Riche en Vitamine A, B6 et C**
+   - Prix avant: 4,700 Ar
+   - Prix actuel: 6,000 Ar
+   - Indice de prix : 127.66
 

@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "epongesbrossesetgants_3353spiraleinox20gx1x100albanet_html",
-      "name": "Spirale inox 20g",
-      "prix_base": 1700,
-      "prix_comparaison": 1615,
-      "variation": -85
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "variation": 530
     },
     {
-      "cle": "produitskibomoinsde5000ar_2472cotontige100pieces_html",
-      "name": "Coton-tige 100 pi\u00e8ces",
-      "prix_base": 1850,
-      "prix_comparaison": 1758,
-      "variation": -92
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "variation": 530
     },
     {
-      "cle": "produitskibomoinsde5000ar_6302epongesmoussegrattantes2pieces_html",
-      "name": "Eponges mousse grattantes 2 pi\u00e8ces",
-      "prix_base": 2500,
-      "prix_comparaison": 2375,
-      "variation": -125
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "variation": 530
     }
   ],
   "prix_diminues": [
     {
-      "cle": "cremessoinsducorps_5344sprayhydratanthauteprotectionbiomonoi100ml_html",
-      "name": "Spray hydratant haute protection BIO mono\u00ef 100ml",
-      "prix_base": 115500,
-      "prix_comparaison": 109725,
-      "variation": -5775
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 657900,
+      "prix_comparaison": 625005,
+      "variation": -32895
     },
     {
-      "cle": "couches_12936coucheagilitydrymaxi1125kg62piecespommette_html",
-      "name": "Couche agility dry maxi 11-25kg 62 pi\u00e8ces",
-      "prix_base": 112000,
-      "prix_comparaison": 106400,
-      "variation": -5600
+      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
+      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
+      "prix_base": 609000,
+      "prix_comparaison": 578550,
+      "variation": -30450
     },
     {
-      "cle": "couches_13314coucheagilitydry920kgx64piecespommette_html",
-      "name": "Couche agility dry 9-20kg x64 pi\u00e8ces",
-      "prix_base": 109000,
-      "prix_comparaison": 103550,
-      "variation": -5450
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 535000,
+      "prix_comparaison": 508250,
+      "variation": -26750
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produitskibomoinsde5000ar_2472cotontige100pieces_html",
-      "name": "Coton-tige 100 pi\u00e8ces",
-      "prix_base": 1850,
-      "prix_comparaison": 1758,
-      "indice_prix": 95.02702702702703
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
     },
     {
-      "cle": "correspondance_7572240oeuilletsadhesifso13mm_html",
-      "name": "240 Oeuillets adh\u00e9sifs \u00d8 13mm",
-      "prix_base": 2650,
-      "prix_comparaison": 2518,
-      "indice_prix": 95.01886792452831
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
     },
     {
-      "cle": "cornichonsolivescondiments_1140olivesfarciesboite50grpack3_html",
-      "name": "Olives farcies boite 50g",
-      "prix_base": 3690,
-      "prix_comparaison": 3506,
-      "indice_prix": 95.01355013550136
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "batonnetsetbarresglacees_11536esquimauxcolossechocolatblanc4batonnets313gadelie_html",
-      "name": "Esquimaux Colosse chocolat blanc 4 b\u00e2tonnets 313g",
-      "prix_base": 15900,
-      "prix_comparaison": 14725,
-      "indice_prix": 92.61006289308176
+      "cle": "poubellesetsacspoubelle_335720sacspoubelle30l_html",
+      "name": "20 Sacs poubelle 30L",
+      "prix_base": 6900,
+      "prix_comparaison": 4655,
+      "indice_prix": 67.46376811594203
     },
     {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2550,
-      "prix_comparaison": 2422,
-      "indice_prix": 94.98039215686275
+      "cle": "protectionshygienefeminine_12413servietteshygieniquesultramincenormalavecailette14pieceslabell_html",
+      "name": "Serviettes hygi\u00e9niques ultra mince normal avec ailette 14 pi\u00e8ces",
+      "prix_base": 9900,
+      "prix_comparaison": 8075,
+      "indice_prix": 81.56565656565657
     },
     {
-      "cle": "cremessoinsducorps_2386vaseline50ml_html",
-      "name": "Vaseline 50ml",
-      "prix_base": 2750,
-      "prix_comparaison": 2612,
-      "indice_prix": 94.98181818181818
+      "cle": "jusdefruits_12951100purjusmultifruits2lpaquito_html",
+      "name": "100% Pur jus multifruits 2L",
+      "prix_base": 24900,
+      "prix_comparaison": 20805,
+      "indice_prix": 83.55421686746988
     }
   ]
 }

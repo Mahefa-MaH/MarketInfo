@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 356,
-      "prix_base": 142600,
-      "name": "Farine Compl\u00e8te 25 Kg",
-      "prix_comparaison": 155600,
-      "variation": 13000
+      "list_id": 12857,
+      "prix_base": 53900,
+      "name": "Caf\u00e9 Capsules Dolce Gusto Nescaf\u00e9 Lungo Bo\u00eete de 30",
+      "prix_comparaison": 61800,
+      "variation": 7900
     },
     {
-      "list_id": 352,
-      "prix_base": 58900,
-      "name": "Th\u00e9 Vanille 100 Poches",
-      "prix_comparaison": 64300,
-      "variation": 5400
+      "list_id": 6699,
+      "prix_base": 16100,
+      "name": "D\u00e9sinfectant linge 500 ml",
+      "prix_comparaison": 17500,
+      "variation": 1400
     },
     {
-      "list_id": 5211,
-      "prix_base": 19400,
-      "name": "Papier photocopie A4 500 feuilles",
-      "prix_comparaison": 22300,
-      "variation": 2900
+      "list_id": 6629,
+      "prix_base": 13500,
+      "name": "Balai brosse sans manche C10F",
+      "prix_comparaison": 14800,
+      "variation": 1300
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 344,
-      "prix_base": 55400,
-      "name": "Caf\u00e9 Moka Moulu 1 Kg",
-      "prix_comparaison": 47600,
-      "variation": -7800
+      "list_id": 6649,
+      "prix_base": 2600,
+      "name": "Brosse \u00e0 linge A21",
+      "prix_comparaison": 2800,
+      "variation": 200
     },
     {
-      "list_id": 2275,
-      "prix_base": 41400,
-      "name": "chocolat 16 Pi\u00e8ces",
-      "prix_comparaison": 35000,
-      "variation": -6400
+      "list_id": 6647,
+      "prix_base": 6900,
+      "name": "Brosse \u00e0 linge A3",
+      "prix_comparaison": 7200,
+      "variation": 300
     },
     {
-      "list_id": 377,
-      "prix_base": 41200,
-      "name": "Huile D'Olive Vierge 1 L",
-      "prix_comparaison": 37400,
-      "variation": -3800
+      "list_id": 6689,
+      "prix_base": 6700,
+      "name": "Brosse lave pont avec manche A8F",
+      "prix_comparaison": 7000,
+      "variation": 300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 375,
-      "name": "Thon En Miettes \u00e0 l'huile 150 g",
-      "prix_base": 3800,
-      "prix_comparaison": 4800,
-      "indice_prix": 126.3157894736842
+      "list_id": 12857,
+      "name": "Caf\u00e9 Capsules Dolce Gusto Nescaf\u00e9 Lungo Bo\u00eete de 30",
+      "prix_base": 53900,
+      "prix_comparaison": 61800,
+      "indice_prix": 114.65677179962894
     },
     {
-      "list_id": 5211,
-      "name": "Papier photocopie A4 500 feuilles",
-      "prix_base": 19400,
-      "prix_comparaison": 22300,
-      "indice_prix": 114.94845360824742
+      "list_id": 10942,
+      "name": "20 pansements \u00e9tanches",
+      "prix_base": 4700,
+      "prix_comparaison": 5300,
+      "indice_prix": 112.76595744680851
     },
     {
-      "list_id": 364,
-      "name": "Levure Chimique 500 G",
-      "prix_base": 3600,
-      "prix_comparaison": 4100,
-      "indice_prix": 113.88888888888889
+      "list_id": 6648,
+      "name": "Brosse \u00e0 linge A10",
+      "prix_base": 4100,
+      "prix_comparaison": 4600,
+      "indice_prix": 112.1951219512195
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 2275,
-      "name": "chocolat 16 Pi\u00e8ces",
-      "prix_base": 41400,
-      "prix_comparaison": 35000,
-      "indice_prix": 84.54106280193237
+      "list_id": 6702,
+      "name": "D\u00e9sodorisant a\u00e9rosol 300 ml Zelnova Fruits Rouge",
+      "prix_base": 9900,
+      "prix_comparaison": 10300,
+      "indice_prix": 104.04040404040404
     },
     {
-      "list_id": 568,
-      "name": "Couche Culotte M",
-      "prix_base": 23200,
-      "prix_comparaison": 19700,
-      "indice_prix": 84.91379310344827
+      "list_id": 6647,
+      "name": "Brosse \u00e0 linge A3",
+      "prix_base": 6900,
+      "prix_comparaison": 7200,
+      "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 344,
-      "name": "Caf\u00e9 Moka Moulu 1 Kg",
-      "prix_base": 55400,
-      "prix_comparaison": 47600,
-      "indice_prix": 85.92057761732852
+      "list_id": 6689,
+      "name": "Brosse lave pont avec manche A8F",
+      "prix_base": 6700,
+      "prix_comparaison": 7000,
+      "indice_prix": 104.4776119402985
     }
   ]
 }

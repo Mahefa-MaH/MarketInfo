@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_sweetchillisauceredriverbridge700grs_",
-      "name": "Sweet chilli sauce red river bridge 700grs",
-      "prix_base": 14740,
-      "prix_comparaison": 17330,
-      "variation": 2590
+      "cle": "produit_pasteque_",
+      "name": "Past\u00e8que 1 pi\u00e8ce | Riche en Vitamine A, B6 et C",
+      "prix_base": 4700,
+      "prix_comparaison": 6000,
+      "variation": 1300
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_sweetchillisauceredriverbridge700grs_",
-      "name": "Sweet chilli sauce red river bridge 700grs",
-      "prix_base": 14740,
-      "prix_comparaison": 17330,
-      "variation": 2590
+      "cle": "produit_pasteque_",
+      "name": "Past\u00e8que 1 pi\u00e8ce | Riche en Vitamine A, B6 et C",
+      "prix_base": 4700,
+      "prix_comparaison": 6000,
+      "variation": 1300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_sweetchillisauceredriverbridge700grs_",
-      "name": "Sweet chilli sauce red river bridge 700grs",
-      "prix_base": 14740,
-      "prix_comparaison": 17330,
-      "indice_prix": 117.57123473541384
+      "cle": "produit_pasteque_",
+      "name": "Past\u00e8que 1 pi\u00e8ce | Riche en Vitamine A, B6 et C",
+      "prix_base": 4700,
+      "prix_comparaison": 6000,
+      "indice_prix": 127.65957446808511
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_sweetchillisauceredriverbridge700grs_",
-      "name": "Sweet chilli sauce red river bridge 700grs",
-      "prix_base": 14740,
-      "prix_comparaison": 17330,
-      "indice_prix": 117.57123473541384
+      "cle": "produit_pasteque_",
+      "name": "Past\u00e8que 1 pi\u00e8ce | Riche en Vitamine A, B6 et C",
+      "prix_base": 4700,
+      "prix_comparaison": 6000,
+      "indice_prix": 127.65957446808511
     }
   ]
 }
