@@ -1,122 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "riz_4965rizparfumeaujasmin5kg_html",
-      "name": "Riz parfum\u00e9 au jasmin 5kg",
-      "prix_base": 43000,
-      "prix_comparaison": 49500,
-      "variation": 6500
+      "cle": "papiersetfilmsalimentaires_3423papierfilmalimentaire29cmx30metresalbaenboitex24_html",
+      "name": "Papier film alimentaire 29cmx30m",
+      "prix_base": 4800,
+      "prix_comparaison": 4560,
+      "variation": -240
     },
     {
-      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
-      "prix_base": 3200,
-      "prix_comparaison": 3740,
-      "variation": 540
+      "cle": "hygienedesmains_12975gellavantmainssavondemarseillefeuillesdolivier300mllabell_html",
+      "name": "Gel lavant mains savon de Marseille et feuilles d'olivier 300ml",
+      "prix_base": 7200,
+      "prix_comparaison": 6840,
+      "variation": -360
     },
     {
-      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
-      "name": "Olives vertes avec noyau sachet 200g",
-      "prix_base": 3200,
-      "prix_comparaison": 3740,
-      "variation": 540
+      "cle": "accessoirespourlentretiendulinge_900824pincesalinge_html",
+      "name": "24 Pinces \u00e0 linge",
+      "prix_base": 7200,
+      "prix_comparaison": 6840,
+      "variation": -360
     },
     {
-      "cle": "sauceschaudessaucestomates_4954saucehuitrepremium510g_html",
-      "name": "Sauce huitre Premium 510g",
-      "prix_base": 10800,
-      "prix_comparaison": 11000,
-      "variation": 200
+      "cle": "mouchoirsenpapier_13277boitedemouchoirs2plisx110feuilleslabell_html",
+      "name": "Bo\u00eete de mouchoirs 2 plis x 110 feuilles",
+      "prix_base": 7500,
+      "prix_comparaison": 7125,
+      "variation": -375
+    },
+    {
+      "cle": "accessoirespourlentretiendulinge_12655aideaurepassagealamidon400mlapta_html",
+      "name": "Aide au repassage \u00e0 l'amidon 400ml",
+      "prix_base": 9900,
+      "prix_comparaison": 9405,
+      "variation": -495
     }
   ],
   "prix_diminues": [
     {
-      "cle": "saucesfroidesketchupmayonnaise_13799mayonnaiseenbocal470gtopbudget_html",
-      "name": "Mayonnaise en bocal 470g",
-      "prix_base": 12900,
-      "prix_comparaison": 11900,
-      "variation": -1000
+      "cle": "accessoirespourlentretiendulinge_14401coffrealinge55l_html",
+      "name": "Coffre \u00e0 linge 55L",
+      "prix_base": 74000,
+      "prix_comparaison": 70300,
+      "variation": -3700
     },
     {
-      "cle": "saucesfroidesketchupmayonnaise_13418moutardededijonfineetforteenverre245g_html",
-      "name": "Moutarde de Dijon fine et forte en verre 245g",
-      "prix_base": 16500,
-      "prix_comparaison": 15900,
-      "variation": -600
+      "cle": "accessoirespourlentretiendulinge_11694sechoiraaccrocheruniversel6metresdomedia_html",
+      "name": "S\u00e9choir \u00e0 accrocher universel 6 m\u00e8tres",
+      "prix_base": 51000,
+      "prix_comparaison": 48450,
+      "variation": -2550
     },
     {
-      "cle": "pates_1977spaghettipanzani500g_html",
-      "name": "Spaghetti Panzani 500g",
-      "prix_base": 3690,
-      "prix_comparaison": 3200,
-      "variation": -490
+      "cle": "accessoirespourlentretiendulinge_11606houssederepassagealuminiummousse130x46cmdomedia_html",
+      "name": "Housse de repassage aluminium mousse 130x46cm",
+      "prix_base": 43900,
+      "prix_comparaison": 41705,
+      "variation": -2195
     },
     {
-      "cle": "sauceschaudessaucestomates_4953saucehuitrepremium260g_html",
-      "name": "Sauce huitre Premium 260g",
-      "prix_base": 7950,
-      "prix_comparaison": 7500,
-      "variation": -450
+      "cle": "accessoirespourlentretiendulinge_12155houssederepassagecotonmousse125x43cmtopbudget_html",
+      "name": "Housse de repassage coton mousse 125x43cm",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "variation": -1325
+    },
+    {
+      "cle": "accessoirespourlentretiendulinge_11692panieravec36pincesalingebleudomedia_html",
+      "name": "Panier avec 36 pinces \u00e0 linge bleu",
+      "prix_base": 23900,
+      "prix_comparaison": 22705,
+      "variation": -1195
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
-      "prix_base": 3200,
-      "prix_comparaison": 3740,
-      "indice_prix": 116.875
+      "cle": "papiersetfilmsalimentaires_3423papierfilmalimentaire29cmx30metresalbaenboitex24_html",
+      "name": "Papier film alimentaire 29cmx30m",
+      "prix_base": 4800,
+      "prix_comparaison": 4560,
+      "indice_prix": 95.0
     },
     {
-      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
-      "name": "Olives vertes avec noyau sachet 200g",
-      "prix_base": 3200,
-      "prix_comparaison": 3740,
-      "indice_prix": 116.875
+      "cle": "hygienedesmains_12975gellavantmainssavondemarseillefeuillesdolivier300mllabell_html",
+      "name": "Gel lavant mains savon de Marseille et feuilles d'olivier 300ml",
+      "prix_base": 7200,
+      "prix_comparaison": 6840,
+      "indice_prix": 95.0
     },
     {
-      "cle": "riz_4965rizparfumeaujasmin5kg_html",
-      "name": "Riz parfum\u00e9 au jasmin 5kg",
-      "prix_base": 43000,
-      "prix_comparaison": 49500,
-      "indice_prix": 115.11627906976744
+      "cle": "mouchoirsenpapier_13277boitedemouchoirs2plisx110feuilleslabell_html",
+      "name": "Bo\u00eete de mouchoirs 2 plis x 110 feuilles",
+      "prix_base": 7500,
+      "prix_comparaison": 7125,
+      "indice_prix": 95.0
     },
     {
-      "cle": "sauceschaudessaucestomates_4954saucehuitrepremium510g_html",
-      "name": "Sauce huitre Premium 510g",
-      "prix_base": 10800,
-      "prix_comparaison": 11000,
-      "indice_prix": 101.85185185185185
+      "cle": "viennoiserie_191010painsaulaitpepiteschocolat_html",
+      "name": "10 Pains au lait p\u00e9pites de chocolat",
+      "prix_base": 20500,
+      "prix_comparaison": 19475,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "accessoirespourlentretiendulinge_11694sechoiraaccrocheruniversel6metresdomedia_html",
+      "name": "S\u00e9choir \u00e0 accrocher universel 6 m\u00e8tres",
+      "prix_base": 51000,
+      "prix_comparaison": 48450,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "pates_1977spaghettipanzani500g_html",
-      "name": "Spaghetti Panzani 500g",
-      "prix_base": 3690,
-      "prix_comparaison": 3200,
-      "indice_prix": 86.72086720867209
+      "cle": "fromagesduresetrapes_2144emmentalportion220gpoidsfixepaysanbreton_html",
+      "name": "Fromage emmental Fran\u00e7ais portion 220g",
+      "prix_base": 21800,
+      "prix_comparaison": 20710,
+      "indice_prix": 95.0
     },
     {
-      "cle": "saucesfroidesketchupmayonnaise_13799mayonnaiseenbocal470gtopbudget_html",
-      "name": "Mayonnaise en bocal 470g",
-      "prix_base": 12900,
-      "prix_comparaison": 11900,
-      "indice_prix": 92.24806201550388
+      "cle": "accessoirespourlentretiendulinge_900824pincesalinge_html",
+      "name": "24 Pinces \u00e0 linge",
+      "prix_base": 7200,
+      "prix_comparaison": 6840,
+      "indice_prix": 95.0
     },
     {
-      "cle": "sauceschaudessaucestomates_4953saucehuitrepremium260g_html",
-      "name": "Sauce huitre Premium 260g",
-      "prix_base": 7950,
-      "prix_comparaison": 7500,
-      "indice_prix": 94.33962264150944
+      "cle": "accessoirespourlentretiendulinge_12655aideaurepassagealamidon400mlapta_html",
+      "name": "Aide au repassage \u00e0 l'amidon 400ml",
+      "prix_base": 9900,
+      "prix_comparaison": 9405,
+      "indice_prix": 95.0
     },
     {
-      "cle": "sauceschaudessaucestomates_4958saucesojaclaire150ml_html",
-      "name": "Sauce soja claire 150ml",
-      "prix_base": 4600,
-      "prix_comparaison": 4400,
-      "indice_prix": 95.65217391304348
+      "cle": "accessoirespourlentretiendulinge_13358antitransfertdecouleurdetachantsachetde12apta_html",
+      "name": "Anti-transfert de couleur et d\u00e9tachant   sachet de 12",
+      "prix_base": 14900,
+      "prix_comparaison": 14155,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "accessoirespourlentretiendulinge_14401coffrealinge55l_html",
+      "name": "Coffre \u00e0 linge 55L",
+      "prix_base": 74000,
+      "prix_comparaison": 70300,
+      "indice_prix": 95.0
     }
   ]
 }
