@@ -1,150 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "papiersetfilmsalimentaires_3423papierfilmalimentaire29cmx30metresalbaenboitex24_html",
-      "name": "Papier film alimentaire 29cmx30m",
-      "prix_base": 4800,
-      "prix_comparaison": 4560,
-      "variation": -240
+      "cle": "epongesbrossesetgants_3353spiraleinox20gx1x100albanet_html",
+      "name": "Spirale inox 20g",
+      "prix_base": 1700,
+      "prix_comparaison": 1615,
+      "variation": -85
     },
     {
-      "cle": "hygienedesmains_12975gellavantmainssavondemarseillefeuillesdolivier300mllabell_html",
-      "name": "Gel lavant mains savon de Marseille et feuilles d'olivier 300ml",
-      "prix_base": 7200,
-      "prix_comparaison": 6840,
-      "variation": -360
+      "cle": "produitskibomoinsde5000ar_2472cotontige100pieces_html",
+      "name": "Coton-tige 100 pi\u00e8ces",
+      "prix_base": 1850,
+      "prix_comparaison": 1758,
+      "variation": -92
     },
     {
-      "cle": "accessoirespourlentretiendulinge_900824pincesalinge_html",
-      "name": "24 Pinces \u00e0 linge",
-      "prix_base": 7200,
-      "prix_comparaison": 6840,
-      "variation": -360
-    },
-    {
-      "cle": "mouchoirsenpapier_13277boitedemouchoirs2plisx110feuilleslabell_html",
-      "name": "Bo\u00eete de mouchoirs 2 plis x 110 feuilles",
-      "prix_base": 7500,
-      "prix_comparaison": 7125,
-      "variation": -375
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_12655aideaurepassagealamidon400mlapta_html",
-      "name": "Aide au repassage \u00e0 l'amidon 400ml",
-      "prix_base": 9900,
-      "prix_comparaison": 9405,
-      "variation": -495
+      "cle": "produitskibomoinsde5000ar_6302epongesmoussegrattantes2pieces_html",
+      "name": "Eponges mousse grattantes 2 pi\u00e8ces",
+      "prix_base": 2500,
+      "prix_comparaison": 2375,
+      "variation": -125
     }
   ],
   "prix_diminues": [
     {
-      "cle": "accessoirespourlentretiendulinge_14401coffrealinge55l_html",
-      "name": "Coffre \u00e0 linge 55L",
-      "prix_base": 74000,
-      "prix_comparaison": 70300,
-      "variation": -3700
+      "cle": "cremessoinsducorps_5344sprayhydratanthauteprotectionbiomonoi100ml_html",
+      "name": "Spray hydratant haute protection BIO mono\u00ef 100ml",
+      "prix_base": 115500,
+      "prix_comparaison": 109725,
+      "variation": -5775
     },
     {
-      "cle": "accessoirespourlentretiendulinge_11694sechoiraaccrocheruniversel6metresdomedia_html",
-      "name": "S\u00e9choir \u00e0 accrocher universel 6 m\u00e8tres",
-      "prix_base": 51000,
-      "prix_comparaison": 48450,
-      "variation": -2550
+      "cle": "couches_12936coucheagilitydrymaxi1125kg62piecespommette_html",
+      "name": "Couche agility dry maxi 11-25kg 62 pi\u00e8ces",
+      "prix_base": 112000,
+      "prix_comparaison": 106400,
+      "variation": -5600
     },
     {
-      "cle": "accessoirespourlentretiendulinge_11606houssederepassagealuminiummousse130x46cmdomedia_html",
-      "name": "Housse de repassage aluminium mousse 130x46cm",
-      "prix_base": 43900,
-      "prix_comparaison": 41705,
-      "variation": -2195
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_12155houssederepassagecotonmousse125x43cmtopbudget_html",
-      "name": "Housse de repassage coton mousse 125x43cm",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "variation": -1325
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_11692panieravec36pincesalingebleudomedia_html",
-      "name": "Panier avec 36 pinces \u00e0 linge bleu",
-      "prix_base": 23900,
-      "prix_comparaison": 22705,
-      "variation": -1195
+      "cle": "couches_13314coucheagilitydry920kgx64piecespommette_html",
+      "name": "Couche agility dry 9-20kg x64 pi\u00e8ces",
+      "prix_base": 109000,
+      "prix_comparaison": 103550,
+      "variation": -5450
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "papiersetfilmsalimentaires_3423papierfilmalimentaire29cmx30metresalbaenboitex24_html",
-      "name": "Papier film alimentaire 29cmx30m",
-      "prix_base": 4800,
-      "prix_comparaison": 4560,
-      "indice_prix": 95.0
+      "cle": "produitskibomoinsde5000ar_2472cotontige100pieces_html",
+      "name": "Coton-tige 100 pi\u00e8ces",
+      "prix_base": 1850,
+      "prix_comparaison": 1758,
+      "indice_prix": 95.02702702702703
     },
     {
-      "cle": "hygienedesmains_12975gellavantmainssavondemarseillefeuillesdolivier300mllabell_html",
-      "name": "Gel lavant mains savon de Marseille et feuilles d'olivier 300ml",
-      "prix_base": 7200,
-      "prix_comparaison": 6840,
-      "indice_prix": 95.0
+      "cle": "correspondance_7572240oeuilletsadhesifso13mm_html",
+      "name": "240 Oeuillets adh\u00e9sifs \u00d8 13mm",
+      "prix_base": 2650,
+      "prix_comparaison": 2518,
+      "indice_prix": 95.01886792452831
     },
     {
-      "cle": "mouchoirsenpapier_13277boitedemouchoirs2plisx110feuilleslabell_html",
-      "name": "Bo\u00eete de mouchoirs 2 plis x 110 feuilles",
-      "prix_base": 7500,
-      "prix_comparaison": 7125,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "viennoiserie_191010painsaulaitpepiteschocolat_html",
-      "name": "10 Pains au lait p\u00e9pites de chocolat",
-      "prix_base": 20500,
-      "prix_comparaison": 19475,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_11694sechoiraaccrocheruniversel6metresdomedia_html",
-      "name": "S\u00e9choir \u00e0 accrocher universel 6 m\u00e8tres",
-      "prix_base": 51000,
-      "prix_comparaison": 48450,
-      "indice_prix": 95.0
+      "cle": "cornichonsolivescondiments_1140olivesfarciesboite50grpack3_html",
+      "name": "Olives farcies boite 50g",
+      "prix_base": 3690,
+      "prix_comparaison": 3506,
+      "indice_prix": 95.01355013550136
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "fromagesduresetrapes_2144emmentalportion220gpoidsfixepaysanbreton_html",
-      "name": "Fromage emmental Fran\u00e7ais portion 220g",
-      "prix_base": 21800,
-      "prix_comparaison": 20710,
-      "indice_prix": 95.0
+      "cle": "batonnetsetbarresglacees_11536esquimauxcolossechocolatblanc4batonnets313gadelie_html",
+      "name": "Esquimaux Colosse chocolat blanc 4 b\u00e2tonnets 313g",
+      "prix_base": 15900,
+      "prix_comparaison": 14725,
+      "indice_prix": 92.61006289308176
     },
     {
-      "cle": "accessoirespourlentretiendulinge_900824pincesalinge_html",
-      "name": "24 Pinces \u00e0 linge",
-      "prix_base": 7200,
-      "prix_comparaison": 6840,
-      "indice_prix": 95.0
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2550,
+      "prix_comparaison": 2422,
+      "indice_prix": 94.98039215686275
     },
     {
-      "cle": "accessoirespourlentretiendulinge_12655aideaurepassagealamidon400mlapta_html",
-      "name": "Aide au repassage \u00e0 l'amidon 400ml",
-      "prix_base": 9900,
-      "prix_comparaison": 9405,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_13358antitransfertdecouleurdetachantsachetde12apta_html",
-      "name": "Anti-transfert de couleur et d\u00e9tachant   sachet de 12",
-      "prix_base": 14900,
-      "prix_comparaison": 14155,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_14401coffrealinge55l_html",
-      "name": "Coffre \u00e0 linge 55L",
-      "prix_base": 74000,
-      "prix_comparaison": 70300,
-      "indice_prix": 95.0
+      "cle": "cremessoinsducorps_2386vaseline50ml_html",
+      "name": "Vaseline 50ml",
+      "prix_base": 2750,
+      "prix_comparaison": 2612,
+      "indice_prix": 94.98181818181818
     }
   ]
 }

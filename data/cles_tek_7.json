@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 3100,
+      "prix_comparaison": 3100,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 1561,
       "name": "Riz Rouge 5 Kg",
       "prix_base": 18100,

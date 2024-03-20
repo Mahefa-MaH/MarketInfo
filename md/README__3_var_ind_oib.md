@@ -2,109 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Papier film alimentaire 29cmx30m**
-   - Prix avant: 4,800 Ar
-   - Prix actuel: 4,560 Ar
-   - Variation: -240 Ar
+1. **Spirale inox 20g**
+   - Prix avant: 1,700 Ar
+   - Prix actuel: 1,615 Ar
+   - Variation: -85 Ar
 
-2. **Gel lavant mains savon de Marseille et feuilles d'olivier 300ml**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 6,840 Ar
-   - Variation: -360 Ar
+2. **Coton-tige 100 pièces**
+   - Prix avant: 1,850 Ar
+   - Prix actuel: 1,758 Ar
+   - Variation: -92 Ar
 
-3. **24 Pinces à linge**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 6,840 Ar
-   - Variation: -360 Ar
-
-4. **Boîte de mouchoirs 2 plis x 110 feuilles**
-   - Prix avant: 7,500 Ar
-   - Prix actuel: 7,125 Ar
-   - Variation: -375 Ar
-
-5. **Aide au repassage à l'amidon 400ml**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,405 Ar
-   - Variation: -495 Ar
+3. **Eponges mousse grattantes 2 pièces**
+   - Prix avant: 2,500 Ar
+   - Prix actuel: 2,375 Ar
+   - Variation: -125 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Coffre à linge 55L**
-   - Prix avant: 74,000 Ar
-   - Prix actuel: 70,300 Ar
-   - Variation: -3,700 Ar
+1. **Spray hydratant haute protection BIO monoï 100ml**
+   - Prix avant: 115,500 Ar
+   - Prix actuel: 109,725 Ar
+   - Variation: -5,775 Ar
 
-2. **Séchoir à accrocher universel 6 mètres**
-   - Prix avant: 51,000 Ar
-   - Prix actuel: 48,450 Ar
-   - Variation: -2,550 Ar
+2. **Couche agility dry maxi 11-25kg 62 pièces**
+   - Prix avant: 112,000 Ar
+   - Prix actuel: 106,400 Ar
+   - Variation: -5,600 Ar
 
-3. **Housse de repassage aluminium mousse 130x46cm**
-   - Prix avant: 43,900 Ar
-   - Prix actuel: 41,705 Ar
-   - Variation: -2,195 Ar
-
-4. **Housse de repassage coton mousse 125x43cm**
-   - Prix avant: 26,500 Ar
-   - Prix actuel: 25,175 Ar
-   - Variation: -1,325 Ar
-
-5. **Panier avec 36 pinces à linge bleu**
-   - Prix avant: 23,900 Ar
-   - Prix actuel: 22,705 Ar
-   - Variation: -1,195 Ar
+3. **Couche agility dry 9-20kg x64 pièces**
+   - Prix avant: 109,000 Ar
+   - Prix actuel: 103,550 Ar
+   - Variation: -5,450 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Papier film alimentaire 29cmx30m**
-   - Prix avant: 4,800 Ar
-   - Prix actuel: 4,560 Ar
-   - Indice de prix : 95.00
+1. **Coton-tige 100 pièces**
+   - Prix avant: 1,850 Ar
+   - Prix actuel: 1,758 Ar
+   - Indice de prix : 95.03
 
-2. **Gel lavant mains savon de Marseille et feuilles d'olivier 300ml**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 6,840 Ar
-   - Indice de prix : 95.00
+2. **240 Oeuillets adhésifs Ø 13mm**
+   - Prix avant: 2,650 Ar
+   - Prix actuel: 2,518 Ar
+   - Indice de prix : 95.02
 
-3. **Boîte de mouchoirs 2 plis x 110 feuilles**
-   - Prix avant: 7,500 Ar
-   - Prix actuel: 7,125 Ar
-   - Indice de prix : 95.00
-
-4. **10 Pains au lait pépites de chocolat**
-   - Prix avant: 20,500 Ar
-   - Prix actuel: 19,475 Ar
-   - Indice de prix : 95.00
-
-5. **Séchoir à accrocher universel 6 mètres**
-   - Prix avant: 51,000 Ar
-   - Prix actuel: 48,450 Ar
-   - Indice de prix : 95.00
+3. **Olives farcies boite 50g**
+   - Prix avant: 3,690 Ar
+   - Prix actuel: 3,506 Ar
+   - Indice de prix : 95.01
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Fromage emmental Français portion 220g**
-   - Prix avant: 21,800 Ar
-   - Prix actuel: 20,710 Ar
-   - Indice de prix : 95.00
+1. **Esquimaux Colosse chocolat blanc 4 bâtonnets 313g**
+   - Prix avant: 15,900 Ar
+   - Prix actuel: 14,725 Ar
+   - Indice de prix : 92.61
 
-2. **24 Pinces à linge**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 6,840 Ar
-   - Indice de prix : 95.00
+2. **21 Etiquettes blanches 38x63mm**
+   - Prix avant: 2,550 Ar
+   - Prix actuel: 2,422 Ar
+   - Indice de prix : 94.98
 
-3. **Aide au repassage à l'amidon 400ml**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,405 Ar
-   - Indice de prix : 95.00
-
-4. **Anti-transfert de couleur et détachant   sachet de 12**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 14,155 Ar
-   - Indice de prix : 95.00
-
-5. **Coffre à linge 55L**
-   - Prix avant: 74,000 Ar
-   - Prix actuel: 70,300 Ar
-   - Indice de prix : 95.00
+3. **Vaseline 50ml**
+   - Prix avant: 2,750 Ar
+   - Prix actuel: 2,612 Ar
+   - Indice de prix : 94.98
 
