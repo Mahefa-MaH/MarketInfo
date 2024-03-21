@@ -1,10 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
-      "prix_base": 13054000,
-      "prix_comparaison": 13054000,
+      "cle": "refrigerateuramericain_63326refrigerateursamsungrf18a5202slmultiportes495ll82cminox8806090838439_html",
+      "name": "R\u00e9frig\u00e9rateur am\u00e9ricain SAMSUNG - RF18A5202SL - Multiportes - 495L - L82cm - Inox",
+      "prix_base": 10010000,
+      "prix_comparaison": 10010000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "piscinecompletekitpiscine_99516grepiscinerondeaciero480mxh132mimitationboisnordiquefiltrationasable8412081313726_html",
+      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,32m - Imitation bois Nordique Filtration a sable",
+      "prix_base": 13428000,
+      "prix_comparaison": 13428000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 12614000,
+      "prix_comparaison": 12614000,
       "variation": 0,
       "indice_prix": 100.0
     }

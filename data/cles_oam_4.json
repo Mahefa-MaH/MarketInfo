@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
-      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
-      "prix_base": 22128000,
-      "prix_comparaison": 22128000,
+      "cle": "machineacafeexpressobroyeur_49156machineacafeexpressobroyeurdelonghiecam65085msgrisconnecteprimadonnaeliteexperience8004399331648_html",
+      "name": "Machine expresso automatique avec broyeur -DELONGHI PrimaDonna Elite Experience ECAM650.85.MS - Gris - Connect\u00e9",
+      "prix_base": 10742000,
+      "prix_comparaison": 10742000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
-      "prix_base": 12384000,
-      "prix_comparaison": 12384000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "outillage_103928betonniere255lgasoilkm178f_html",
-      "name": "Betonni\u00e8re 255L gasoil KM178F",
-      "prix_base": 14290000,
-      "prix_comparaison": 14290000,
+      "cle": "machineacafeexpressobroyeur_49153delonghiecam65075msmachineexpressoautomatiqueavecbroyeurprimadonnaeliteinox8004399331013_html",
+      "name": "Machine expresso automatique avec broyeur DELONGHI PrimaDonna Elite ECAM 650.75.MS - Inox",
+      "prix_base": 10702000,
+      "prix_comparaison": 10702000,
       "variation": 0,
       "indice_prix": 100.0
     }

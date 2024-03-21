@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "variation": 530
+      "cle": "gelsetbainsdouche_4207showercreamcoconutcremedouchenoixdecoco_html",
+      "name": "Cr\u00e8me douche noix de coco 500ml",
+      "prix_base": 17480,
+      "prix_comparaison": 18400,
+      "variation": 920
     },
     {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "variation": 530
+      "cle": "cremessoinsducorps_5363laitcorpsnourrissanthuiledargan250ml_html",
+      "name": "Lait corps nourrissant huile d'argan 250ml",
+      "prix_base": 15485,
+      "prix_comparaison": 16300,
+      "variation": 815
+    },
+    {
+      "cle": "beurres_2118beurredoux200g_html",
+      "name": "Beurre doux plaquette 200g",
+      "prix_base": 13775,
+      "prix_comparaison": 14500,
+      "variation": 725
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 657900,
-      "prix_comparaison": 625005,
-      "variation": -32895
+      "cle": "pates_9111coquillettesprimo500g_html",
+      "name": "Coquillettes Primo 500g",
+      "prix_base": 3088,
+      "prix_comparaison": 3250,
+      "variation": 162
     },
     {
-      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
-      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
-      "prix_base": 609000,
-      "prix_comparaison": 578550,
-      "variation": -30450
+      "cle": "pates_9113spiralliprimo500g_html",
+      "name": "Spiralli Primo 500g",
+      "prix_base": 3088,
+      "prix_comparaison": 3250,
+      "variation": 162
+    },
+    {
+      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
+      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
+      "prix_base": 3696,
+      "prix_comparaison": 3890,
+      "variation": 194
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
+      "cle": "siropsdagrumes_13279siropcitronvertbidon75clpaquito_html",
+      "name": "Sirop citron vert bidon 75cl",
+      "prix_base": 13205,
+      "prix_comparaison": 13900,
+      "indice_prix": 105.26315789473684
     },
     {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
+      "cle": "insecticides_51164rubansattiremouche_html",
+      "name": "4 Rubans attire mouche",
+      "prix_base": 4940,
+      "prix_comparaison": 5200,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "chips_7273chipsbeurresalelabretonne152g_html",
+      "name": "Chips beurre sal\u00e9 La Bretonne 152g",
+      "prix_base": 10355,
+      "prix_comparaison": 10900,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "poubellesetsacspoubelle_335720sacspoubelle30l_html",
-      "name": "20 Sacs poubelle 30L",
-      "prix_base": 6900,
-      "prix_comparaison": 4655,
-      "indice_prix": 67.46376811594203
+      "cle": "pates_9111coquillettesprimo500g_html",
+      "name": "Coquillettes Primo 500g",
+      "prix_base": 3088,
+      "prix_comparaison": 3250,
+      "indice_prix": 105.24611398963731
     },
     {
-      "cle": "protectionshygienefeminine_12413servietteshygieniquesultramincenormalavecailette14pieceslabell_html",
-      "name": "Serviettes hygi\u00e9niques ultra mince normal avec ailette 14 pi\u00e8ces",
-      "prix_base": 9900,
-      "prix_comparaison": 8075,
-      "indice_prix": 81.56565656565657
+      "cle": "pates_9113spiralliprimo500g_html",
+      "name": "Spiralli Primo 500g",
+      "prix_base": 3088,
+      "prix_comparaison": 3250,
+      "indice_prix": 105.24611398963731
+    },
+    {
+      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
+      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
+      "prix_base": 3696,
+      "prix_comparaison": 3890,
+      "indice_prix": 105.24891774891775
     }
   ]
 }

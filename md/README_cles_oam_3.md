@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver**
-   - Prix avant: 11,733,000 Ar
-   - Prix actuel: 11,733,000 Ar
+1. **Plaque Induction Elica NikolaTesla Prime S BL/A/83 PRF0182322 7400W 240V 63dB Safe Activation Noir**
+   - Prix avant: 10,499,000 Ar
+   - Prix actuel: 10,499,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver**
-   - Prix avant: 21,570,000 Ar
-   - Prix actuel: 21,570,000 Ar
+2. **Four intégrable/combiné vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox**
+   - Prix avant: 12,343,000 Ar
+   - Prix actuel: 12,343,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **générateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)**
-   - Prix avant: 11,068,000 Ar
-   - Prix actuel: 11,068,000 Ar
+3. **Bosch KGN39AIAT - Série 6 Réfrigérateur combiné pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox**
+   - Prix avant: 11,017,000 Ar
+   - Prix actuel: 11,017,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
