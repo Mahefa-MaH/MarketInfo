@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "gelsetbainsdouche_4207showercreamcoconutcremedouchenoixdecoco_html",
-      "name": "Cr\u00e8me douche noix de coco 500ml",
-      "prix_base": 17480,
-      "prix_comparaison": 18400,
-      "variation": 920
-    },
-    {
-      "cle": "cremessoinsducorps_5363laitcorpsnourrissanthuiledargan250ml_html",
-      "name": "Lait corps nourrissant huile d'argan 250ml",
-      "prix_base": 15485,
-      "prix_comparaison": 16300,
-      "variation": 815
-    },
-    {
-      "cle": "beurres_2118beurredoux200g_html",
-      "name": "Beurre doux plaquette 200g",
-      "prix_base": 13775,
-      "prix_comparaison": 14500,
-      "variation": 725
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 508250,
+      "prix_comparaison": 535000,
+      "variation": 26750
     }
   ],
   "prix_diminues": [
     {
-      "cle": "pates_9111coquillettesprimo500g_html",
-      "name": "Coquillettes Primo 500g",
-      "prix_base": 3088,
-      "prix_comparaison": 3250,
-      "variation": 162
-    },
-    {
-      "cle": "pates_9113spiralliprimo500g_html",
-      "name": "Spiralli Primo 500g",
-      "prix_base": 3088,
-      "prix_comparaison": 3250,
-      "variation": 162
-    },
-    {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3696,
-      "prix_comparaison": 3890,
-      "variation": 194
+      "cle": "vaissellesjetables_4108agitateurbioboisx50_html",
+      "name": "Agitateur Bio bois x50 Sinc\u00e8re",
+      "prix_base": 1140,
+      "prix_comparaison": 1200,
+      "variation": 60
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "poubellesetsacspoubelle_335820sacspoubelle50l_html",
-      "name": "20 Sacs poubelle 50L",
-      "prix_base": 9975,
-      "prix_comparaison": 10500,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "beurres_2118beurredoux200g_html",
-      "name": "Beurre doux plaquette 200g",
-      "prix_base": 13775,
-      "prix_comparaison": 14500,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "gelsetbainsdouche_4207showercreamcoconutcremedouchenoixdecoco_html",
-      "name": "Cr\u00e8me douche noix de coco 500ml",
-      "prix_base": 17480,
-      "prix_comparaison": 18400,
-      "indice_prix": 105.26315789473684
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "pates_9111coquillettesprimo500g_html",
-      "name": "Coquillettes Primo 500g",
-      "prix_base": 3088,
-      "prix_comparaison": 3250,
-      "indice_prix": 105.24611398963731
-    },
-    {
-      "cle": "pates_9113spiralliprimo500g_html",
-      "name": "Spiralli Primo 500g",
-      "prix_base": 3088,
-      "prix_comparaison": 3250,
-      "indice_prix": 105.24611398963731
-    },
-    {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3696,
-      "prix_comparaison": 3890,
-      "indice_prix": 105.24891774891775
+      "cle": "vaissellesjetables_13454assietteencartoncouleurblancpaquetde50o23cmdomedia_html",
+      "name": "Assiette en carton  couleur blanc paquet de 50  \u00d8 23cm",
+      "prix_base": 21755,
+      "prix_comparaison": 21900,
+      "indice_prix": 100.66651344518502
     }
   ]
 }

@@ -2,17 +2,17 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **1er choix - Galettes de Riz jaune - 22Cm 300 g**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,300 Ar
+1. **Hina - huile de soja - 1 l**
+   - Prix avant: 8,900 Ar
+   - Prix actuel: 8,300 Ar
    - Variation: -600 Ar
 
 
 
 ## Indice de prix
 
-1. **1er choix - Galettes de Riz jaune - 22Cm 300 g**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,300 Ar
-   - Indice de prix : 93.94
+1. **Hina - huile de soja - 1 l**
+   - Prix avant: 8,900 Ar
+   - Prix actuel: 8,300 Ar
+   - Indice de prix : 93.26
 

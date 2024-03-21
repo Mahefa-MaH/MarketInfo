@@ -4,9 +4,9 @@
 
 1. **Hina - huile de soja - 1 l**
    - Prix avant: 8,900 Ar
-   - Prix actuel: 8,900 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+   - Prix actuel: 8,300 Ar
+   - Variation: -600 Ar
+   - Indice de prix : 93.26
 
 2. **Riz de tabe blanc Makalioka**
    - Prix avant: 3,300 Ar

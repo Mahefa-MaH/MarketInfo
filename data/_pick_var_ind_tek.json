@@ -1,90 +1,34 @@
 {
   "Variation de prix": [
     {
-      "list_id": 377,
-      "name": "Huile D'Olive Vierge 1 L",
-      "prix_base": 41200,
-      "prix_comparaison": 37400,
-      "variation": -3800
-    },
-    {
-      "list_id": 376,
-      "name": "Huile D'Olive Extra Vierge 1 L",
-      "prix_base": 41900,
-      "prix_comparaison": 39900,
-      "variation": -2000
-    },
-    {
-      "list_id": 371,
-      "name": "Sucre Glace 1 Kg",
-      "prix_base": 14800,
-      "prix_comparaison": 14300,
+      "list_id": 13036,
+      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
+      "prix_base": 47900,
+      "prix_comparaison": 47400,
       "variation": -500
     },
     {
-      "list_id": 372,
-      "name": "Sucre Glace 500 g",
-      "prix_base": 8100,
-      "prix_comparaison": 7800,
-      "variation": -300
-    },
-    {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 2800,
-      "prix_comparaison": 3100,
-      "variation": 300
-    },
-    {
-      "list_id": 375,
-      "name": "Thon En Miettes \u00e0 l'huile 150 g",
-      "prix_base": 3800,
-      "prix_comparaison": 4800,
+      "list_id": 11710,
+      "name": "Cr\u00e8me de douche au Coco 100 ml",
+      "prix_base": 7100,
+      "prix_comparaison": 8100,
       "variation": 1000
     }
   ],
   "indice de prix": [
     {
-      "list_id": 377,
-      "name": "Huile D'Olive Vierge 1 L",
-      "prix_base": 41200,
-      "prix_comparaison": 37400,
-      "indice_prix": 90.77669902912622
+      "list_id": 13036,
+      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
+      "prix_base": 47900,
+      "prix_comparaison": 47400,
+      "indice_prix": 98.95615866388309
     },
     {
-      "list_id": 376,
-      "name": "Huile D'Olive Extra Vierge 1 L",
-      "prix_base": 41900,
-      "prix_comparaison": 39900,
-      "indice_prix": 95.22673031026252
-    },
-    {
-      "list_id": 372,
-      "name": "Sucre Glace 500 g",
-      "prix_base": 8100,
-      "prix_comparaison": 7800,
-      "indice_prix": 96.29629629629629
-    },
-    {
-      "list_id": 371,
-      "name": "Sucre Glace 1 Kg",
-      "prix_base": 14800,
-      "prix_comparaison": 14300,
-      "indice_prix": 96.62162162162163
-    },
-    {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 2800,
-      "prix_comparaison": 3100,
-      "indice_prix": 110.71428571428571
-    },
-    {
-      "list_id": 375,
-      "name": "Thon En Miettes \u00e0 l'huile 150 g",
-      "prix_base": 3800,
-      "prix_comparaison": 4800,
-      "indice_prix": 126.3157894736842
+      "list_id": 11710,
+      "name": "Cr\u00e8me de douche au Coco 100 ml",
+      "prix_base": 7100,
+      "prix_comparaison": 8100,
+      "indice_prix": 114.08450704225352
     }
   ]
 }
