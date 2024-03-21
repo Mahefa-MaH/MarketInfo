@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
-      "name": "Faitout rond rouge Slowcook \u00d828cm",
-      "prix_base": 508250,
-      "prix_comparaison": 535000,
-      "variation": 26750
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 625005,
+      "prix_comparaison": 657900,
+      "variation": 32895
     }
   ],
   "prix_diminues": [
     {
-      "cle": "vaissellesjetables_4108agitateurbioboisx50_html",
-      "name": "Agitateur Bio bois x50 Sinc\u00e8re",
-      "prix_base": 1140,
-      "prix_comparaison": 1200,
-      "variation": 60
+      "cle": "pizzas_115833pizzasmargherita900gtopbudget_html",
+      "name": "3 Pizzas margherita 900g",
+      "prix_base": 28405,
+      "prix_comparaison": 25900,
+      "variation": -2505
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1852,
+      "prix_comparaison": 1950,
+      "indice_prix": 105.29157667386609
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "vaissellesjetables_13454assietteencartoncouleurblancpaquetde50o23cmdomedia_html",
-      "name": "Assiette en carton  couleur blanc paquet de 50  \u00d8 23cm",
-      "prix_base": 21755,
-      "prix_comparaison": 21900,
-      "indice_prix": 100.66651344518502
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     }
   ]
 }

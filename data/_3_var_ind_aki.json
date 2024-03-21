@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod004793",
-      "name": "1er choix - Sauce huitre - 710g",
-      "prix_base": 11000,
-      "prix_comparaison": 8100,
-      "variation": -2900
+      "cle": "home_jspbutvente_fichecleproduitprod006709",
+      "name": "Hina - huile de soja - 1 l",
+      "prix_base": 8900,
+      "prix_comparaison": 8300,
+      "variation": -600
     }
   ],
   "prix_diminues": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod004793",
-      "name": "1er choix - Sauce huitre - 710g",
-      "prix_base": 11000,
-      "prix_comparaison": 8100,
-      "variation": -2900
+      "cle": "home_jspbutvente_fichecleproduitprod006709",
+      "name": "Hina - huile de soja - 1 l",
+      "prix_base": 8900,
+      "prix_comparaison": 8300,
+      "variation": -600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod004793",
-      "name": "1er choix - Sauce huitre - 710g",
-      "prix_base": 11000,
-      "prix_comparaison": 8100,
-      "indice_prix": 73.63636363636364
+      "cle": "home_jspbutvente_fichecleproduitprod006709",
+      "name": "Hina - huile de soja - 1 l",
+      "prix_base": 8900,
+      "prix_comparaison": 8300,
+      "indice_prix": 93.25842696629213
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod004793",
-      "name": "1er choix - Sauce huitre - 710g",
-      "prix_base": 11000,
-      "prix_comparaison": 8100,
-      "indice_prix": 73.63636363636364
+      "cle": "home_jspbutvente_fichecleproduitprod006709",
+      "name": "Hina - huile de soja - 1 l",
+      "prix_base": 8900,
+      "prix_comparaison": 8300,
+      "indice_prix": 93.25842696629213
     }
   ]
 }

@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 12857,
-      "prix_base": 53900,
-      "name": "Caf\u00e9 Capsules Dolce Gusto Nescaf\u00e9 Lungo Bo\u00eete de 30",
-      "prix_comparaison": 61800,
-      "variation": 7900
+      "list_id": 13103,
+      "prix_base": 9800,
+      "name": "Chocolat Noir Fleur de sel 100 g",
+      "prix_comparaison": 11900,
+      "variation": 2100
     },
     {
-      "list_id": 6699,
-      "prix_base": 16100,
-      "name": "D\u00e9sinfectant linge 500 ml",
-      "prix_comparaison": 17500,
-      "variation": 1400
+      "list_id": 12220,
+      "prix_base": 17900,
+      "name": "Petits pois carottes extra fins 4/4",
+      "prix_comparaison": 19700,
+      "variation": 1800
     },
     {
-      "list_id": 6629,
-      "prix_base": 13500,
-      "name": "Balai brosse sans manche C10F",
-      "prix_comparaison": 14800,
-      "variation": 1300
+      "list_id": 6793,
+      "prix_base": 16500,
+      "name": "Lingettes d\u00e9sinfectantes multi-usages eucalyptus x72",
+      "prix_comparaison": 18000,
+      "variation": 1500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 6649,
-      "prix_base": 2600,
-      "name": "Brosse \u00e0 linge A21",
-      "prix_comparaison": 2800,
-      "variation": 200
+      "list_id": 6777,
+      "prix_base": 31800,
+      "name": "Lave vitre 5 L",
+      "prix_comparaison": 25400,
+      "variation": -6400
     },
     {
-      "list_id": 6647,
-      "prix_base": 6900,
-      "name": "Brosse \u00e0 linge A3",
-      "prix_comparaison": 7200,
-      "variation": 300
+      "list_id": 13036,
+      "prix_base": 47900,
+      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
+      "prix_comparaison": 47400,
+      "variation": -500
     },
     {
-      "list_id": 6689,
-      "prix_base": 6700,
-      "name": "Brosse lave pont avec manche A8F",
-      "prix_comparaison": 7000,
-      "variation": 300
+      "list_id": 6785,
+      "prix_base": 8400,
+      "name": "Gel WC avec javel 500 ml",
+      "prix_comparaison": 9100,
+      "variation": 700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 12857,
-      "name": "Caf\u00e9 Capsules Dolce Gusto Nescaf\u00e9 Lungo Bo\u00eete de 30",
-      "prix_base": 53900,
-      "prix_comparaison": 61800,
-      "indice_prix": 114.65677179962894
+      "list_id": 13103,
+      "name": "Chocolat Noir Fleur de sel 100 g",
+      "prix_base": 9800,
+      "prix_comparaison": 11900,
+      "indice_prix": 121.42857142857143
     },
     {
-      "list_id": 10942,
-      "name": "20 pansements \u00e9tanches",
-      "prix_base": 4700,
-      "prix_comparaison": 5300,
-      "indice_prix": 112.76595744680851
+      "list_id": 11710,
+      "name": "Cr\u00e8me de douche au Coco 100 ml",
+      "prix_base": 7100,
+      "prix_comparaison": 8100,
+      "indice_prix": 114.08450704225352
     },
     {
-      "list_id": 6648,
-      "name": "Brosse \u00e0 linge A10",
-      "prix_base": 4100,
-      "prix_comparaison": 4600,
-      "indice_prix": 112.1951219512195
+      "list_id": 6774,
+      "name": "Lave vitre pistolet Pomme 600 ml",
+      "prix_base": 5800,
+      "prix_comparaison": 6500,
+      "indice_prix": 112.06896551724138
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 6702,
-      "name": "D\u00e9sodorisant a\u00e9rosol 300 ml Zelnova Fruits Rouge",
-      "prix_base": 9900,
-      "prix_comparaison": 10300,
-      "indice_prix": 104.04040404040404
+      "list_id": 6777,
+      "name": "Lave vitre 5 L",
+      "prix_base": 31800,
+      "prix_comparaison": 25400,
+      "indice_prix": 79.87421383647799
     },
     {
-      "list_id": 6647,
-      "name": "Brosse \u00e0 linge A3",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "indice_prix": 104.34782608695652
+      "list_id": 13036,
+      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
+      "prix_base": 47900,
+      "prix_comparaison": 47400,
+      "indice_prix": 98.95615866388309
     },
     {
-      "list_id": 6689,
-      "name": "Brosse lave pont avec manche A8F",
-      "prix_base": 6700,
-      "prix_comparaison": 7000,
-      "indice_prix": 104.4776119402985
+      "list_id": 6780,
+      "name": "Gel WC Zero 700 ml",
+      "prix_base": 9600,
+      "prix_comparaison": 10400,
+      "indice_prix": 108.33333333333333
     }
   ]
 }
