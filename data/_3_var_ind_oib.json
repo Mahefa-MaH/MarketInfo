@@ -47,24 +47,24 @@
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "siropsdagrumes_13279siropcitronvertbidon75clpaquito_html",
-      "name": "Sirop citron vert bidon 75cl",
-      "prix_base": 13205,
-      "prix_comparaison": 13900,
+      "cle": "poubellesetsacspoubelle_335820sacspoubelle50l_html",
+      "name": "20 Sacs poubelle 50L",
+      "prix_base": 9975,
+      "prix_comparaison": 10500,
       "indice_prix": 105.26315789473684
     },
     {
-      "cle": "insecticides_51164rubansattiremouche_html",
-      "name": "4 Rubans attire mouche",
-      "prix_base": 4940,
-      "prix_comparaison": 5200,
+      "cle": "beurres_2118beurredoux200g_html",
+      "name": "Beurre doux plaquette 200g",
+      "prix_base": 13775,
+      "prix_comparaison": 14500,
       "indice_prix": 105.26315789473684
     },
     {
-      "cle": "chips_7273chipsbeurresalelabretonne152g_html",
-      "name": "Chips beurre sal\u00e9 La Bretonne 152g",
-      "prix_base": 10355,
-      "prix_comparaison": 10900,
+      "cle": "gelsetbainsdouche_4207showercreamcoconutcremedouchenoixdecoco_html",
+      "name": "Cr\u00e8me douche noix de coco 500ml",
+      "prix_base": 17480,
+      "prix_comparaison": 18400,
       "indice_prix": 105.26315789473684
     }
   ],

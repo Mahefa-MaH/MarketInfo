@@ -36,19 +36,19 @@
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Sirop citron vert bidon 75cl**
-   - Prix avant: 13,205 Ar
-   - Prix actuel: 13,900 Ar
+1. **20 Sacs poubelle 50L**
+   - Prix avant: 9,975 Ar
+   - Prix actuel: 10,500 Ar
    - Indice de prix : 105.26
 
-2. **4 Rubans attire mouche**
-   - Prix avant: 4,940 Ar
-   - Prix actuel: 5,200 Ar
+2. **Beurre doux plaquette 200g**
+   - Prix avant: 13,775 Ar
+   - Prix actuel: 14,500 Ar
    - Indice de prix : 105.26
 
-3. **Chips beurre salé La Bretonne 152g**
-   - Prix avant: 10,355 Ar
-   - Prix actuel: 10,900 Ar
+3. **Crème douche noix de coco 500ml**
+   - Prix avant: 17,480 Ar
+   - Prix actuel: 18,400 Ar
    - Indice de prix : 105.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
