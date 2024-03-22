@@ -3,10 +3,10 @@
     {
       "cle": "home_jspbutvente_fichecleproduitprod006709",
       "name": "Hina - huile de soja - 1 l",
-      "prix_base": 8900,
+      "prix_base": 8300,
       "prix_comparaison": 8300,
-      "variation": -600,
-      "indice_prix": 93.25842696629213
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
       "cle": "home_jspbutvente_fichecleproduitprod000576",

@@ -3,10 +3,10 @@
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Hina - huile de soja - 1 l**
-   - Prix avant: 8,900 Ar
+   - Prix avant: 8,300 Ar
    - Prix actuel: 8,300 Ar
-   - Variation: -600 Ar
-   - Indice de prix : 93.26
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 
 2. **Riz de tabe blanc Makalioka**
    - Prix avant: 3,300 Ar

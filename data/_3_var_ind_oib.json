@@ -20,13 +20,6 @@
       "prix_base": 494000,
       "prix_comparaison": 520000,
       "variation": 26000
-    },
-    {
-      "cle": "accessoiresdecoupe_7014coupelegumes_html",
-      "name": "Coupe-l\u00e9gumes",
-      "prix_base": 452105,
-      "prix_comparaison": 475900,
-      "variation": 23795
     }
   ],
   "prix_diminues": [
@@ -38,25 +31,18 @@
       "variation": -2505
     },
     {
-      "cle": "soufflesextrudes_13982crackyminipizza_html",
-      "name": "Cracky mini pizza",
-      "prix_base": 665,
-      "prix_comparaison": 700,
-      "variation": 35
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
     },
     {
-      "cle": "gaufresetcrepes_1368miniwafervanilladp12x14x30sp_html",
-      "name": "Mini gaufrette vanille 30g",
-      "prix_base": 950,
-      "prix_comparaison": 1000,
-      "variation": 50
-    },
-    {
-      "cle": "sacsetemballagesalimentaires_5321sacisothermehm321g_html",
-      "name": "Sac isotherme HM 321g",
-      "prix_base": 1045,
-      "prix_comparaison": 1100,
-      "variation": 55
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,43 +66,29 @@
       "prix_base": 2612,
       "prix_comparaison": 2750,
       "indice_prix": 105.2833078101072
-    },
-    {
-      "cle": "adhesifsetcolles_6156colleuniverselletransparente28ml_html",
-      "name": "Colle universelle transparente 28ml",
-      "prix_base": 3372,
-      "prix_comparaison": 3550,
-      "indice_prix": 105.27876631079478
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "pizzas_115833pizzasmargherita900gtopbudget_html",
-      "name": "3 Pizzas margherita 900g",
-      "prix_base": 28405,
-      "prix_comparaison": 25900,
-      "indice_prix": 91.18113008273191
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "produitskibomoinsde5000ar_2472cotontige100pieces_html",
-      "name": "Coton-tige 100 pi\u00e8ces",
-      "prix_base": 1758,
-      "prix_comparaison": 1850,
-      "indice_prix": 105.23321956769055
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "pates_9114tortiprimo500g_html",
-      "name": "Torti Primo 500g",
-      "prix_base": 3088,
-      "prix_comparaison": 3250,
-      "indice_prix": 105.24611398963731
-    },
-    {
-      "cle": "adhesifsetcolles_6155rubanadhesifinvisible75m_html",
-      "name": "Ruban adh\u00e9sif invisible 7,5m",
-      "prix_base": 3088,
-      "prix_comparaison": 3250,
-      "indice_prix": 105.24611398963731
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     }
   ]
 }

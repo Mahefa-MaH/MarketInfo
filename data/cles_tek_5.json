@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12923,
-      "name": "Riz blanc parfum\u00e9 5 kg",
-      "prix_base": 40800,
-      "prix_comparaison": 40800,
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9700,
+      "prix_comparaison": 9700,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13304,
-      "name": "Riz Rouge (Vary mena) 50kg",
-      "prix_base": 240000,
-      "prix_comparaison": 240000,
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10700,
+      "prix_comparaison": 10700,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 7131,
-      "name": "Riz makalioka rouge 5 kg",
-      "prix_base": 19800,
-      "prix_comparaison": 19800,
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9300,
+      "prix_comparaison": 9300,
       "variation": 0,
       "indice_prix": 100.0
     }
