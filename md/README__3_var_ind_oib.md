@@ -19,20 +19,20 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **3 Pizzas margherita 900g**
-   - Prix avant: 28,405 Ar
-   - Prix actuel: 25,900 Ar
-   - Variation: -2,505 Ar
+1. **BROTHER J17s Machine à coudre mécanique - Design attractif - Simple d'utilisation - Eclairage puissant par LED**
+   - Prix avant: 1,068,000 Ar
+   - Prix actuel: 1,028,000 Ar
+   - Variation: -40,000 Ar
 
-2. **Savon de toilette cerise 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -530 Ar
+2. **BROTHER Machine a coudre RL-417**
+   - Prix avant: 855,000 Ar
+   - Prix actuel: 826,000 Ar
+   - Variation: -29,000 Ar
 
-3. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -530 Ar
+3. **BROTHER KE14SVM1 Machine a coudre**
+   - Prix avant: 972,000 Ar
+   - Prix actuel: 952,000 Ar
+   - Variation: -20,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 

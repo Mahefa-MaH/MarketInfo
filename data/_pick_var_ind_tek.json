@@ -1,34 +1,62 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13036,
-      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
-      "prix_base": 47900,
-      "prix_comparaison": 47400,
-      "variation": -500
+      "list_id": 10353,
+      "name": "Huile de tournesol 1 L",
+      "prix_base": 34700,
+      "prix_comparaison": 22200,
+      "variation": -12500
     },
     {
-      "list_id": 11710,
-      "name": "Cr\u00e8me de douche au Coco 100 ml",
-      "prix_base": 7100,
-      "prix_comparaison": 8100,
-      "variation": 1000
+      "list_id": 2388,
+      "name": "Lait Cr\u00e8me Nourrissant 250 Ml",
+      "prix_base": 17500,
+      "prix_comparaison": 21600,
+      "variation": 4100
+    },
+    {
+      "list_id": 11801,
+      "name": "Huile de S\u00e9same 25 cl",
+      "prix_base": 29400,
+      "prix_comparaison": 35800,
+      "variation": 6400
+    },
+    {
+      "list_id": 10358,
+      "name": "Huile d'olive vierge extra 50 cl",
+      "prix_base": 41900,
+      "prix_comparaison": 49400,
+      "variation": 7500
     }
   ],
   "indice de prix": [
     {
-      "list_id": 13036,
-      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
-      "prix_base": 47900,
-      "prix_comparaison": 47400,
-      "indice_prix": 98.95615866388309
+      "list_id": 10353,
+      "name": "Huile de tournesol 1 L",
+      "prix_base": 34700,
+      "prix_comparaison": 22200,
+      "indice_prix": 63.976945244956774
     },
     {
-      "list_id": 11710,
-      "name": "Cr\u00e8me de douche au Coco 100 ml",
-      "prix_base": 7100,
-      "prix_comparaison": 8100,
-      "indice_prix": 114.08450704225352
+      "list_id": 10358,
+      "name": "Huile d'olive vierge extra 50 cl",
+      "prix_base": 41900,
+      "prix_comparaison": 49400,
+      "indice_prix": 117.89976133651551
+    },
+    {
+      "list_id": 11801,
+      "name": "Huile de S\u00e9same 25 cl",
+      "prix_base": 29400,
+      "prix_comparaison": 35800,
+      "indice_prix": 121.7687074829932
+    },
+    {
+      "list_id": 2388,
+      "name": "Lait Cr\u00e8me Nourrissant 250 Ml",
+      "prix_base": 17500,
+      "prix_comparaison": 21600,
+      "indice_prix": 123.42857142857143
     }
   ]
 }

@@ -24,25 +24,25 @@
   ],
   "prix_diminues": [
     {
-      "cle": "pizzas_115833pizzasmargherita900gtopbudget_html",
-      "name": "3 Pizzas margherita 900g",
-      "prix_base": 28405,
-      "prix_comparaison": 25900,
-      "variation": -2505
+      "cle": "machineacoudre_14224brotherj17smachineacoudremecaniquedesignattractifsimpledutilisationeclairagepuissantparled_html",
+      "name": "BROTHER J17s Machine \u00e0 coudre m\u00e9canique - Design attractif - Simple d'utilisation - Eclairage puissant par LED",
+      "prix_base": 1068000,
+      "prix_comparaison": 1028000,
+      "variation": -40000
     },
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
+      "cle": "machineacoudre_14223brothermachineacoudrerl417_html",
+      "name": "BROTHER Machine a coudre RL-417",
+      "prix_base": 855000,
+      "prix_comparaison": 826000,
+      "variation": -29000
     },
     {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
+      "cle": "machineacoudre_14219brotherke14svm1machineacoudre_html",
+      "name": "BROTHER KE14SVM1 Machine a coudre",
+      "prix_base": 972000,
+      "prix_comparaison": 952000,
+      "variation": -20000
     }
   ],
   "indices_prix_plus_eleves": [
