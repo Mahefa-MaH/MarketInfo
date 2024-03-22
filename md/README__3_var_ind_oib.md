@@ -12,27 +12,17 @@
    - Prix actuel: 535,000 Ar
    - Variation: +26,750 Ar
 
-3. **Thermomètre infrarouge**
-   - Prix avant: 494,000 Ar
-   - Prix actuel: 520,000 Ar
-   - Variation: +26,000 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **BROTHER J17s Machine à coudre mécanique - Design attractif - Simple d'utilisation - Eclairage puissant par LED**
-   - Prix avant: 1,068,000 Ar
-   - Prix actuel: 1,028,000 Ar
-   - Variation: -40,000 Ar
+1. **iPhone 15 128GB Noir**
+   - Prix avant: 4,499,000 Ar
+   - Prix actuel: 4,064,000 Ar
+   - Variation: -435,000 Ar
 
-2. **BROTHER Machine a coudre RL-417**
-   - Prix avant: 855,000 Ar
-   - Prix actuel: 826,000 Ar
-   - Variation: -29,000 Ar
-
-3. **BROTHER KE14SVM1 Machine a coudre**
-   - Prix avant: 972,000 Ar
-   - Prix actuel: 952,000 Ar
-   - Variation: -20,000 Ar
+2. **PC Portable Gamer ASUS TUF Gaming F15 | 15,6 FHD - RTX 3050 4Go - Intel Core i5-12500H - RAM 16Go - 512Go SSD - Sans Windows**
+   - Prix avant: 3,952,000 Ar
+   - Prix actuel: 3,691,000 Ar
+   - Variation: -261,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -46,11 +36,6 @@
    - Prix actuel: 2,750 Ar
    - Indice de prix : 105.28
 
-3. **2 Recharges porte mines 0,7mm - HB**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Savon de toilette cerise 75g**
@@ -59,11 +44,6 @@
    - Indice de prix : 65.13
 
 2. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
-
-3. **Savon de toilette mure sauvage 75g**
    - Prix avant: 1,520 Ar
    - Prix actuel: 990 Ar
    - Indice de prix : 65.13

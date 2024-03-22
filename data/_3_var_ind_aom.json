@@ -1,38 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "sacpoubellesacplastique_7185620sacspoubelle30l_html",
-      "name": "20 Sacs poubelle 30L",
-      "prix_base": 6900,
-      "prix_comparaison": 4900,
-      "variation": -2000
+      "cle": "barbecue_136898weberbarbecueacharbongoanywherecharcoalnoir0077924029271_html",
+      "name": "WEBER Barbecue a charbon Go-Anywhere Charcoal - Noir",
+      "prix_base": 1118000,
+      "prix_comparaison": 1129000,
+      "variation": 11000
+    },
+    {
+      "cle": "ustensilebarbecueplancha_136901thermometredecuissonconnecteweberconnectsmartgrillinghubwebernoirpoids049kg0077924129636_html",
+      "name": "Thermometre de cuisson connect\u00e9 WEBER Connect smart Grilling Hub - WEBER - Noir - Poids 0,49 kg",
+      "prix_base": 599000,
+      "prix_comparaison": 605000,
+      "variation": 6000
+    },
+    {
+      "cle": "chemineedallumagebarbecue_93360weberkitchemineedallumagerapidfireet2kgsdebriquettes0077924041068_html",
+      "name": "WEBER Kit chemin\u00e9e d'allumage Rapidfire et 2kgs de Briquettes",
+      "prix_base": 296000,
+      "prix_comparaison": 297000,
+      "variation": 1000
+    },
+    {
+      "cle": "ustensilebarbecueplancha_93361sacde8kgdebriquettesweber175910077924036545_html",
+      "name": "Sac de 8kg de briquettes - WEBER - 17591",
+      "prix_base": 244000,
+      "prix_comparaison": 245000,
+      "variation": 1000
+    },
+    {
+      "cle": "ustensilebarbecueplancha_125334spatulerigideweber67790077924193569_html",
+      "name": "spatule rigide Weber 6779",
+      "prix_base": 180000,
+      "prix_comparaison": 181000,
+      "variation": 1000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "sacpoubellesacplastique_7185620sacspoubelle30l_html",
-      "name": "20 Sacs poubelle 30L",
-      "prix_base": 6900,
-      "prix_comparaison": 4900,
-      "variation": -2000
+      "cle": "barbecue_93357barbecueagazweberspiritclassice310noir0077924016691_html",
+      "name": "Barbecue a gaz WEBER Spirit Classic E-310 - Noir",
+      "prix_base": 6014000,
+      "prix_comparaison": 4715000,
+      "variation": -1299000
+    },
+    {
+      "cle": "barbecue_93358barbecueagazweberspiritclassice210noir0077924016738_html",
+      "name": "Barbecue a gaz WEBER Spirit Classic E-210 - Noir",
+      "prix_base": 5242000,
+      "prix_comparaison": 4408000,
+      "variation": -834000
+    },
+    {
+      "cle": "barbecue_134145barbecueacharbonweberq2000black2grillesdecuisson55x39cmcuvealuminiumetageresrabattables0077924061837_html",
+      "name": "Barbecue a charbon WEBER Q2000 Black - 2 grilles de cuisson 55x39 cm - Cuve aluminium - Etageres rabattables",
+      "prix_base": 3583000,
+      "prix_comparaison": 2897000,
+      "variation": -686000
+    },
+    {
+      "cle": "barbecue_133082landmannrexoncook41inoxbarbecuegaz4feux4065829010384_html",
+      "name": "Landmann Rexon Cook 4.1 Inox barbecue gaz 4 feux",
+      "prix_base": 3907000,
+      "prix_comparaison": 3489000,
+      "variation": -418000
+    },
+    {
+      "cle": "plancha_129549braseroplanchabarbecuelivoodoc291acierpeintsurfacedecuisson25cm3523930104848_html",
+      "name": "Brasero Plancha barbecue LIVOO - DOC291 - Acier peint - Diam 60 cm - 8 personnes - Charbon",
+      "prix_base": 2238000,
+      "prix_comparaison": 1914000,
+      "variation": -324000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "sacpoubellesacplastique_7185620sacspoubelle30l_html",
-      "name": "20 Sacs poubelle 30L",
-      "prix_base": 6900,
-      "prix_comparaison": 4900,
-      "indice_prix": 71.01449275362319
+      "cle": "ustensilebarbecueplancha_136901thermometredecuissonconnecteweberconnectsmartgrillinghubwebernoirpoids049kg0077924129636_html",
+      "name": "Thermometre de cuisson connect\u00e9 WEBER Connect smart Grilling Hub - WEBER - Noir - Poids 0,49 kg",
+      "prix_base": 599000,
+      "prix_comparaison": 605000,
+      "indice_prix": 101.0016694490818
+    },
+    {
+      "cle": "barbecue_136898weberbarbecueacharbongoanywherecharcoalnoir0077924029271_html",
+      "name": "WEBER Barbecue a charbon Go-Anywhere Charcoal - Noir",
+      "prix_base": 1118000,
+      "prix_comparaison": 1129000,
+      "indice_prix": 100.98389982110912
+    },
+    {
+      "cle": "ustensilebarbecueplancha_136899nettoyantpouracieremailleweber300mldetachelesresidusdenourritureetdegras0077924051340_html",
+      "name": "Nettoyant pour acier \u00e9maill\u00e9 - Weber - 300 ml - D\u00e9tache les r\u00e9sidus de nourriture et de gras",
+      "prix_base": 103000,
+      "prix_comparaison": 104000,
+      "indice_prix": 100.97087378640776
+    },
+    {
+      "cle": "ustensilebarbecueplancha_125335grattoirpourplancha67810077924193583_html",
+      "name": "grattoir pour plancha 6781",
+      "prix_base": 170000,
+      "prix_comparaison": 171000,
+      "indice_prix": 100.58823529411765
+    },
+    {
+      "cle": "houssebachedeplanchabarbecue_100238houssepourbarbecuesweberseriesq10010000077924035647_html",
+      "name": "Housse pour barbecues WEBER s\u00e9ries Q 100/1000",
+      "prix_base": 178000,
+      "prix_comparaison": 179000,
+      "indice_prix": 100.56179775280899
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "sacpoubellesacplastique_7185620sacspoubelle30l_html",
-      "name": "20 Sacs poubelle 30L",
-      "prix_base": 6900,
-      "prix_comparaison": 4900,
-      "indice_prix": 71.01449275362319
+      "cle": "barbecue_90960barbecueacharbonmike2grillesacierchromesurfacedecuisson71x35cmnoir3451571031165_html",
+      "name": "Barbecue a charbon MIKE - 2 grilles acier chrom\u00e9 - Surface de cuisson : 71 x 35 cm - Noir",
+      "prix_base": 1099000,
+      "prix_comparaison": 797000,
+      "indice_prix": 72.52047315741584
+    },
+    {
+      "cle": "tablebebe_94693funhousepeppapigdreamchevetavectiroirh36xl33xp30cm3700057134976_html",
+      "name": "Chevet PEPPA PIG - Fun House - Avec tiroir - Enfant - Rose - H.36 x L.33 x P.30 cm",
+      "prix_base": 448000,
+      "prix_comparaison": 337000,
+      "indice_prix": 75.22321428571429
+    },
+    {
+      "cle": "barbecue_93357barbecueagazweberspiritclassice310noir0077924016691_html",
+      "name": "Barbecue a gaz WEBER Spirit Classic E-310 - Noir",
+      "prix_base": 6014000,
+      "prix_comparaison": 4715000,
+      "indice_prix": 78.40039906883938
+    },
+    {
+      "cle": "tableauenfant_9138jeujuratableautriptyqueenboisteintu00e9chene59x46cms3225280879505_html",
+      "name": "JEUJURA Tableau Triptyque en Bois - Teint\u00e9 Chene 59 x 46 cms",
+      "prix_base": 475000,
+      "prix_comparaison": 375000,
+      "indice_prix": 78.94736842105263
+    },
+    {
+      "cle": "barbecue_133900barbecueacharbonpliablelivoodoc268acierpeintsurfacedecuisson445x285cm3523930102516_html",
+      "name": "Barbecue a charbon pliable LIVOO DOC268 - Acier peint - Surface de cuisson 44,5x28,5 cm",
+      "prix_base": 412000,
+      "prix_comparaison": 327000,
+      "indice_prix": 79.36893203883496
     }
   ]
 }

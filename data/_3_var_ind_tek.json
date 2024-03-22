@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 13103,
-      "prix_base": 9800,
-      "name": "Chocolat Noir Fleur de sel 100 g",
-      "prix_comparaison": 11900,
-      "variation": 2100
+      "list_id": 10358,
+      "prix_base": 41900,
+      "name": "Huile d'olive vierge extra 50 cl",
+      "prix_comparaison": 49400,
+      "variation": 7500
     },
     {
-      "list_id": 12220,
-      "prix_base": 17900,
-      "name": "Petits pois carottes extra fins 4/4",
-      "prix_comparaison": 19700,
-      "variation": 1800
+      "list_id": 11801,
+      "prix_base": 29400,
+      "name": "Huile de S\u00e9same 25 cl",
+      "prix_comparaison": 35800,
+      "variation": 6400
     },
     {
-      "list_id": 6793,
-      "prix_base": 16500,
-      "name": "Lingettes d\u00e9sinfectantes multi-usages eucalyptus x72",
-      "prix_comparaison": 18000,
-      "variation": 1500
+      "list_id": 2397,
+      "prix_base": 17500,
+      "name": "Lait Corps Aloe & Hydratation 250 Ml",
+      "prix_comparaison": 22000,
+      "variation": 4500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 6777,
-      "prix_base": 31800,
-      "name": "Lave vitre 5 L",
-      "prix_comparaison": 25400,
-      "variation": -6400
+      "list_id": 1635,
+      "prix_base": 6700,
+      "name": "Serviette hygi\u00e9nique  Fresh Ultra Extra Long 8 Pi\u00e8ces",
+      "prix_comparaison": 6400,
+      "variation": -300
     },
     {
-      "list_id": 13036,
-      "prix_base": 47900,
-      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
-      "prix_comparaison": 47400,
-      "variation": -500
+      "list_id": 1674,
+      "prix_base": 66720,
+      "name": "Rasoir FlexBall Manuel Frr 5 Lames",
+      "prix_comparaison": 66700,
+      "variation": -20
     },
     {
-      "list_id": 6785,
-      "prix_base": 8400,
-      "name": "Gel WC avec javel 500 ml",
-      "prix_comparaison": 9100,
-      "variation": 700
+      "list_id": 2390,
+      "prix_base": 21114,
+      "name": "Lait Corps Hydratation Express 250ml",
+      "prix_comparaison": 21100,
+      "variation": -14
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 13103,
-      "name": "Chocolat Noir Fleur de sel 100 g",
-      "prix_base": 9800,
-      "prix_comparaison": 11900,
-      "indice_prix": 121.42857142857143
+      "list_id": 12275,
+      "name": "Lentilles 1/2",
+      "prix_base": 7400,
+      "prix_comparaison": 9700,
+      "indice_prix": 131.0810810810811
     },
     {
-      "list_id": 11710,
-      "name": "Cr\u00e8me de douche au Coco 100 ml",
-      "prix_base": 7100,
-      "prix_comparaison": 8100,
-      "indice_prix": 114.08450704225352
+      "list_id": 2397,
+      "name": "Lait Corps Aloe & Hydratation 250 Ml",
+      "prix_base": 17500,
+      "prix_comparaison": 22000,
+      "indice_prix": 125.71428571428571
     },
     {
-      "list_id": 6774,
-      "name": "Lave vitre pistolet Pomme 600 ml",
-      "prix_base": 5800,
-      "prix_comparaison": 6500,
-      "indice_prix": 112.06896551724138
+      "list_id": 2392,
+      "name": "Lait Corps Maximum Hydratation 250 Ml",
+      "prix_base": 17500,
+      "prix_comparaison": 22000,
+      "indice_prix": 125.71428571428571
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 6777,
-      "name": "Lave vitre 5 L",
-      "prix_base": 31800,
-      "prix_comparaison": 25400,
-      "indice_prix": 79.87421383647799
+      "list_id": 1635,
+      "name": "Serviette hygi\u00e9nique  Fresh Ultra Extra Long 8 Pi\u00e8ces",
+      "prix_base": 6700,
+      "prix_comparaison": 6400,
+      "indice_prix": 95.5223880597015
     },
     {
-      "list_id": 13036,
-      "name": "Cr\u00e8me fra\u00eeche \u00e9paisse 30MG 20 cl",
-      "prix_base": 47900,
-      "prix_comparaison": 47400,
-      "indice_prix": 98.95615866388309
+      "list_id": 2390,
+      "name": "Lait Corps Hydratation Express 250ml",
+      "prix_base": 21114,
+      "prix_comparaison": 21100,
+      "indice_prix": 99.93369328407691
     },
     {
-      "list_id": 6780,
-      "name": "Gel WC Zero 700 ml",
-      "prix_base": 9600,
-      "prix_comparaison": 10400,
-      "indice_prix": 108.33333333333333
+      "list_id": 1674,
+      "name": "Rasoir FlexBall Manuel Frr 5 Lames",
+      "prix_base": 66720,
+      "prix_comparaison": 66700,
+      "indice_prix": 99.97002398081534
     }
   ]
 }

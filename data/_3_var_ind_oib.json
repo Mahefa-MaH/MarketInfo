@@ -13,36 +13,22 @@
       "prix_base": 508250,
       "prix_comparaison": 535000,
       "variation": 26750
-    },
-    {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 494000,
-      "prix_comparaison": 520000,
-      "variation": 26000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "machineacoudre_14224brotherj17smachineacoudremecaniquedesignattractifsimpledutilisationeclairagepuissantparled_html",
-      "name": "BROTHER J17s Machine \u00e0 coudre m\u00e9canique - Design attractif - Simple d'utilisation - Eclairage puissant par LED",
-      "prix_base": 1068000,
-      "prix_comparaison": 1028000,
-      "variation": -40000
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4499000,
+      "prix_comparaison": 4064000,
+      "variation": -435000
     },
     {
-      "cle": "machineacoudre_14223brothermachineacoudrerl417_html",
-      "name": "BROTHER Machine a coudre RL-417",
-      "prix_base": 855000,
-      "prix_comparaison": 826000,
-      "variation": -29000
-    },
-    {
-      "cle": "machineacoudre_14219brotherke14svm1machineacoudre_html",
-      "name": "BROTHER KE14SVM1 Machine a coudre",
-      "prix_base": 972000,
-      "prix_comparaison": 952000,
-      "variation": -20000
+      "cle": "ordinateursportables_14812pcportablegamerasustufgamingf15156fhdrtx30504gointelcorei512500hram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming F15 | 15,6 FHD - RTX 3050 4Go - Intel Core i5-12500H - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 3952000,
+      "prix_comparaison": 3691000,
+      "variation": -261000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -59,13 +45,6 @@
       "prix_base": 2612,
       "prix_comparaison": 2750,
       "indice_prix": 105.2833078101072
-    },
-    {
-      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
-      "name": "2 Recharges porte mines 0,7mm - HB",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
@@ -79,13 +58,6 @@
     {
       "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
       "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
       "prix_base": 1520,
       "prix_comparaison": 990,
       "indice_prix": 65.13157894736842
