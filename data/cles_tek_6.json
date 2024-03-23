@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7500,
-      "prix_comparaison": 7500,
+      "list_id": 12923,
+      "name": "Riz blanc parfum\u00e9 5 kg",
+      "prix_base": 40800,
+      "prix_comparaison": 40800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 8267,
-      "name": "Sucre rouge 1 kg",
-      "prix_base": 5200,
-      "prix_comparaison": 5200,
+      "list_id": 1561,
+      "name": "Riz Rouge 5 Kg",
+      "prix_base": 18100,
+      "prix_comparaison": 18100,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13304,
-      "name": "Riz Rouge (Vary mena) 50kg",
-      "prix_base": 240000,
-      "prix_comparaison": 240000,
+      "list_id": 368,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 12400,
+      "prix_comparaison": 12400,
       "variation": 0,
       "indice_prix": 100.0
     }

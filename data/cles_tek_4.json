@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
+      "list_id": 5218,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 7500,
+      "prix_comparaison": 7500,
       "variation": 0,
       "indice_prix": 100.0
     },
