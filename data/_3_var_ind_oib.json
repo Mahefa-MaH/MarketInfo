@@ -13,6 +13,13 @@
       "prix_base": 508250,
       "prix_comparaison": 535000,
       "variation": 26750
+    },
+    {
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 494000,
+      "prix_comparaison": 520000,
+      "variation": 26000
     }
   ],
   "prix_diminues": [
@@ -29,6 +36,13 @@
       "prix_base": 3952000,
       "prix_comparaison": 3691000,
       "variation": -261000
+    },
+    {
+      "cle": "ordinateursportables_14623pcportablegamerasustufgaminga17173fhdrtx40608goamdryzen77735hsram16go512gossdwin11_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11",
+      "prix_base": 7172000,
+      "prix_comparaison": 6981000,
+      "variation": -191000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +59,13 @@
       "prix_base": 2612,
       "prix_comparaison": 2750,
       "indice_prix": 105.2833078101072
+    },
+    {
+      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
+      "name": "2 Recharges porte mines 0,7mm - HB",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
@@ -58,6 +79,13 @@
     {
       "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
       "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
       "prix_base": 1520,
       "prix_comparaison": 990,
       "indice_prix": 65.13157894736842

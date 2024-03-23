@@ -12,6 +12,11 @@
    - Prix actuel: 535,000 Ar
    - Variation: +26,750 Ar
 
+3. **Thermomètre infrarouge**
+   - Prix avant: 494,000 Ar
+   - Prix actuel: 520,000 Ar
+   - Variation: +26,000 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **iPhone 15 128GB Noir**
@@ -23,6 +28,11 @@
    - Prix avant: 3,952,000 Ar
    - Prix actuel: 3,691,000 Ar
    - Variation: -261,000 Ar
+
+3. **PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11**
+   - Prix avant: 7,172,000 Ar
+   - Prix actuel: 6,981,000 Ar
+   - Variation: -191,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -36,6 +46,11 @@
    - Prix actuel: 2,750 Ar
    - Indice de prix : 105.28
 
+3. **2 Recharges porte mines 0,7mm - HB**
+   - Prix avant: 2,612 Ar
+   - Prix actuel: 2,750 Ar
+   - Indice de prix : 105.28
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Savon de toilette cerise 75g**
@@ -44,6 +59,11 @@
    - Indice de prix : 65.13
 
 2. **Savon de toilette lait d'amande 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Indice de prix : 65.13
+
+3. **Savon de toilette mure sauvage 75g**
    - Prix avant: 1,520 Ar
    - Prix actuel: 990 Ar
    - Indice de prix : 65.13
