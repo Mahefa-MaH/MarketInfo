@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre blanc cristallisé 1kg**
-   - Prix avant: 7,500 Ar
-   - Prix actuel: 7,500 Ar
+2. **Détartrant ménager rouge 1L**
+   - Prix avant: 3,890 Ar
+   - Prix actuel: 3,890 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc en poudre 1kg**
-   - Prix avant: 11,500 Ar
-   - Prix actuel: 11,500 Ar
+3. **Farine de riz 1kg**
+   - Prix avant: 5,000 Ar
+   - Prix actuel: 5,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
