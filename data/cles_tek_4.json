@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7500,
-      "prix_comparaison": 7500,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 249300,
-      "prix_comparaison": 249300,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 3826,
       "name": "Sucre Blanc 1 Kg",
       "prix_base": 7300,
       "prix_comparaison": 7300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9700,
+      "prix_comparaison": 9700,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10700,
+      "prix_comparaison": 10700,
       "variation": 0,
       "indice_prix": 100.0
     }
