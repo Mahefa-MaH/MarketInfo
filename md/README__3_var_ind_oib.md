@@ -2,69 +2,29 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Thermomètre digital résistant aux chocs avec sonde**
-   - Prix avant: 625,005 Ar
-   - Prix actuel: 657,900 Ar
-   - Variation: +32,895 Ar
-
-2. **Faitout rond rouge Slowcook Ø28cm**
-   - Prix avant: 508,250 Ar
-   - Prix actuel: 535,000 Ar
-   - Variation: +26,750 Ar
-
-3. **Thermomètre infrarouge**
-   - Prix avant: 494,000 Ar
-   - Prix actuel: 520,000 Ar
-   - Variation: +26,000 Ar
+1. **Lait en poudre Vitalait 1kg**
+   - Prix avant: 26,900 Ar
+   - Prix actuel: 34,600 Ar
+   - Variation: +7,700 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **iPhone 15 128GB Noir**
-   - Prix avant: 4,499,000 Ar
-   - Prix actuel: 4,064,000 Ar
-   - Variation: -435,000 Ar
-
-2. **PC Portable Gamer ASUS TUF Gaming F15 | 15,6 FHD - RTX 3050 4Go - Intel Core i5-12500H - RAM 16Go - 512Go SSD - Sans Windows**
-   - Prix avant: 3,952,000 Ar
-   - Prix actuel: 3,691,000 Ar
-   - Variation: -261,000 Ar
-
-3. **PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11**
-   - Prix avant: 7,172,000 Ar
-   - Prix actuel: 6,981,000 Ar
-   - Variation: -191,000 Ar
+1. **Torti primo 5kg**
+   - Prix avant: 28,500 Ar
+   - Prix actuel: 26,500 Ar
+   - Variation: -2,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Gomme plastique**
-   - Prix avant: 1,852 Ar
-   - Prix actuel: 1,950 Ar
-   - Indice de prix : 105.29
-
-2. **Talc bébé poudre 75g**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
-
-3. **2 Recharges porte mines 0,7mm - HB**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
+1. **Lait en poudre Vitalait 500g**
+   - Prix avant: 12,900 Ar
+   - Prix actuel: 17,300 Ar
+   - Indice de prix : 134.11
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Savon de toilette cerise 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
-
-2. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
-
-3. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
+1. **Torti primo 5kg**
+   - Prix avant: 28,500 Ar
+   - Prix actuel: 26,500 Ar
+   - Indice de prix : 92.98
 

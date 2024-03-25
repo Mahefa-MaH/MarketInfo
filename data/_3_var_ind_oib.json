@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 625005,
-      "prix_comparaison": 657900,
-      "variation": 32895
-    },
-    {
-      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
-      "name": "Faitout rond rouge Slowcook \u00d828cm",
-      "prix_base": 508250,
-      "prix_comparaison": 535000,
-      "variation": 26750
-    },
-    {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 494000,
-      "prix_comparaison": 520000,
-      "variation": 26000
+      "cle": "laitenpoudre_8858laitenpoudrevitalait1kg_html",
+      "name": "Lait en poudre Vitalait 1kg",
+      "prix_base": 26900,
+      "prix_comparaison": 34600,
+      "variation": 7700
     }
   ],
   "prix_diminues": [
     {
-      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
-      "name": "iPhone 15 128GB Noir",
-      "prix_base": 4499000,
-      "prix_comparaison": 4064000,
-      "variation": -435000
-    },
-    {
-      "cle": "ordinateursportables_14812pcportablegamerasustufgamingf15156fhdrtx30504gointelcorei512500hram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming F15 | 15,6 FHD - RTX 3050 4Go - Intel Core i5-12500H - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 3952000,
-      "prix_comparaison": 3691000,
-      "variation": -261000
-    },
-    {
-      "cle": "ordinateursportables_14623pcportablegamerasustufgaminga17173fhdrtx40608goamdryzen77735hsram16go512gossdwin11_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11",
-      "prix_base": 7172000,
-      "prix_comparaison": 6981000,
-      "variation": -191000
+      "cle": "pates_14128tortiprimo5kg_html",
+      "name": "Torti primo 5kg",
+      "prix_base": 28500,
+      "prix_comparaison": 26500,
+      "variation": -2000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "crayonetcoloriage_7565gommeplastique_html",
-      "name": "Gomme plastique",
-      "prix_base": 1852,
-      "prix_comparaison": 1950,
-      "indice_prix": 105.29157667386609
-    },
-    {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
-    },
-    {
-      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
-      "name": "2 Recharges porte mines 0,7mm - HB",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
+      "cle": "laitenpoudre_943vitalait500g_html",
+      "name": "Lait en poudre Vitalait 500g",
+      "prix_base": 12900,
+      "prix_comparaison": 17300,
+      "indice_prix": 134.10852713178295
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
+      "cle": "pates_14128tortiprimo5kg_html",
+      "name": "Torti primo 5kg",
+      "prix_base": 28500,
+      "prix_comparaison": 26500,
+      "indice_prix": 92.98245614035088
     }
   ]
 }
