@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_9403rizgasysacde1kg_html",
-      "name": "Riz gasy sac de 1kg",
+      "cle": "riz_9404rizmakaliokasacde1kg_html",
+      "name": "Riz Makalioka sac de 1kg",
       "prix_base": 4490,
       "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_11443rizmakalioka1kg_html",
-      "name": "Riz makalioka 1kg",
-      "prix_base": 4350,
-      "prix_comparaison": 4350,
+      "cle": "sucres_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 7500,
+      "prix_comparaison": 7500,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_14597rizmakalioka5kg_html",
-      "name": "Riz makalioka 5kg",
-      "prix_base": 21750,
-      "prix_comparaison": 21750,
+      "cle": "sucres_13804sucreenpoudre1kg_html",
+      "name": "Sucre blanc en poudre 1kg",
+      "prix_base": 11500,
+      "prix_comparaison": 11500,
       "variation": 0,
       "indice_prix": 100.0
     }

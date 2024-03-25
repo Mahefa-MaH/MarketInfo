@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "refrigerateuramericain_63326refrigerateursamsungrf18a5202slmultiportes495ll82cminox8806090838439_html",
-      "name": "R\u00e9frig\u00e9rateur am\u00e9ricain SAMSUNG - RF18A5202SL - Multiportes - 495L - L82cm - Inox",
-      "prix_base": 10002000,
-      "prix_comparaison": 10002000,
+      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
+      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
+      "prix_base": 11022000,
+      "prix_comparaison": 11022000,
       "variation": 0,
       "indice_prix": 100.0
     }
