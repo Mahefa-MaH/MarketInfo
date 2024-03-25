@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 10358,
-      "prix_base": 41900,
-      "name": "Huile d'olive vierge extra 50 cl",
-      "prix_comparaison": 49400,
-      "variation": 7500
-    },
-    {
-      "list_id": 11801,
-      "prix_base": 29400,
-      "name": "Huile de S\u00e9same 25 cl",
-      "prix_comparaison": 35800,
-      "variation": 6400
-    },
-    {
-      "list_id": 2397,
-      "prix_base": 17500,
-      "name": "Lait Corps Aloe & Hydratation 250 Ml",
-      "prix_comparaison": 22000,
-      "variation": 4500
+      "list_id": 12093,
+      "prix_base": 21500,
+      "name": "Plat cuisin\u00e9 Cannelloni pur b\u0153uf 1/2 400 g",
+      "prix_comparaison": 23500,
+      "variation": 2000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 1635,
-      "prix_base": 6700,
-      "name": "Serviette hygi\u00e9nique  Fresh Ultra Extra Long 8 Pi\u00e8ces",
-      "prix_comparaison": 6400,
-      "variation": -300
-    },
-    {
-      "list_id": 1674,
-      "prix_base": 66720,
-      "name": "Rasoir FlexBall Manuel Frr 5 Lames",
-      "prix_comparaison": 66700,
-      "variation": -20
-    },
-    {
-      "list_id": 2390,
-      "prix_base": 21114,
-      "name": "Lait Corps Hydratation Express 250ml",
-      "prix_comparaison": 21100,
-      "variation": -14
+      "list_id": 12093,
+      "prix_base": 21500,
+      "name": "Plat cuisin\u00e9 Cannelloni pur b\u0153uf 1/2 400 g",
+      "prix_comparaison": 23500,
+      "variation": 2000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 12275,
-      "name": "Lentilles 1/2",
-      "prix_base": 7400,
-      "prix_comparaison": 9700,
-      "indice_prix": 131.0810810810811
-    },
-    {
-      "list_id": 2397,
-      "name": "Lait Corps Aloe & Hydratation 250 Ml",
-      "prix_base": 17500,
-      "prix_comparaison": 22000,
-      "indice_prix": 125.71428571428571
-    },
-    {
-      "list_id": 2392,
-      "name": "Lait Corps Maximum Hydratation 250 Ml",
-      "prix_base": 17500,
-      "prix_comparaison": 22000,
-      "indice_prix": 125.71428571428571
+      "list_id": 12093,
+      "name": "Plat cuisin\u00e9 Cannelloni pur b\u0153uf 1/2 400 g",
+      "prix_base": 21500,
+      "prix_comparaison": 23500,
+      "indice_prix": 109.30232558139535
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 1635,
-      "name": "Serviette hygi\u00e9nique  Fresh Ultra Extra Long 8 Pi\u00e8ces",
-      "prix_base": 6700,
-      "prix_comparaison": 6400,
-      "indice_prix": 95.5223880597015
-    },
-    {
-      "list_id": 2390,
-      "name": "Lait Corps Hydratation Express 250ml",
-      "prix_base": 21114,
-      "prix_comparaison": 21100,
-      "indice_prix": 99.93369328407691
-    },
-    {
-      "list_id": 1674,
-      "name": "Rasoir FlexBall Manuel Frr 5 Lames",
-      "prix_base": 66720,
-      "prix_comparaison": 66700,
-      "indice_prix": 99.97002398081534
+      "list_id": 12093,
+      "name": "Plat cuisin\u00e9 Cannelloni pur b\u0153uf 1/2 400 g",
+      "prix_base": 21500,
+      "prix_comparaison": 23500,
+      "indice_prix": 109.30232558139535
     }
   ]
 }

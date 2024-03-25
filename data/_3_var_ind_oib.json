@@ -6,33 +6,145 @@
       "prix_base": 26900,
       "prix_comparaison": 34600,
       "variation": 7700
+    },
+    {
+      "cle": "bacsglacesetsorbets_10205sorbetmandarine1l_html",
+      "name": "Sorbet mandarine 1L",
+      "prix_base": 19900,
+      "prix_comparaison": 24500,
+      "variation": 4600
+    },
+    {
+      "cle": "laitenpoudre_943vitalait500g_html",
+      "name": "Lait en poudre Vitalait 500g",
+      "prix_base": 12900,
+      "prix_comparaison": 17300,
+      "variation": 4400
+    },
+    {
+      "cle": "lessiveliquide_3892lrtotalmaxbs12x1llessive_html",
+      "name": "Lessive liquide lilas 12 lavages 1L",
+      "prix_base": 6900,
+      "prix_comparaison": 9900,
+      "variation": 3000
+    },
+    {
+      "cle": "lessiveliquide_3890lrtotalmaxbs12x1lverdelessive_html",
+      "name": "Lessive liquide 12 lavages vert 1L",
+      "prix_base": 6900,
+      "prix_comparaison": 9900,
+      "variation": 3000
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "savonmenager_7030savonbarrecitron1kg_html",
+      "name": "Savon barre citron 1kg",
+      "prix_base": 13000,
+      "prix_comparaison": 10500,
+      "variation": -2500
+    },
     {
       "cle": "pates_14128tortiprimo5kg_html",
       "name": "Torti primo 5kg",
       "prix_base": 28500,
       "prix_comparaison": 26500,
       "variation": -2000
+    },
+    {
+      "cle": "detergentvaisselle_15005liquidevaisselleminifleursdecerisier250ml_html",
+      "name": "Liquide vaisselle mini fleurs de cerisier 250ml",
+      "prix_base": 890,
+      "prix_comparaison": 1000,
+      "variation": 110
+    },
+    {
+      "cle": "detergentvaisselle_15004liquidevaisselleminimenthecitron250ml_html",
+      "name": "Liquide vaisselle mini menthe citron 250ml",
+      "prix_base": 890,
+      "prix_comparaison": 1000,
+      "variation": 110
+    },
+    {
+      "cle": "detergentvaisselle_15006liquidevaisselleminipommeraisin250ml_html",
+      "name": "Liquide vaisselle mini pomme raisin 250ml",
+      "prix_base": 890,
+      "prix_comparaison": 1000,
+      "variation": 110
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "lessiveliquide_3892lrtotalmaxbs12x1llessive_html",
+      "name": "Lessive liquide lilas 12 lavages 1L",
+      "prix_base": 6900,
+      "prix_comparaison": 9900,
+      "indice_prix": 143.47826086956522
+    },
+    {
+      "cle": "lessiveliquide_3890lrtotalmaxbs12x1lverdelessive_html",
+      "name": "Lessive liquide 12 lavages vert 1L",
+      "prix_base": 6900,
+      "prix_comparaison": 9900,
+      "indice_prix": 143.47826086956522
+    },
+    {
+      "cle": "lessiveliquide_3891lrtotalmaxbs12x1lazullessive_html",
+      "name": "Lessive liquide 12 lavages bleu 1L",
+      "prix_base": 6900,
+      "prix_comparaison": 9900,
+      "indice_prix": 143.47826086956522
+    },
     {
       "cle": "laitenpoudre_943vitalait500g_html",
       "name": "Lait en poudre Vitalait 500g",
       "prix_base": 12900,
       "prix_comparaison": 17300,
       "indice_prix": 134.10852713178295
+    },
+    {
+      "cle": "dentifrice_4911dentifriceherbal50ml_html",
+      "name": "Dentifrice Herbal 50ml",
+      "prix_base": 2590,
+      "prix_comparaison": 3400,
+      "indice_prix": 131.27413127413126
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "savonmenager_7030savonbarrecitron1kg_html",
+      "name": "Savon barre citron 1kg",
+      "prix_base": 13000,
+      "prix_comparaison": 10500,
+      "indice_prix": 80.76923076923077
+    },
     {
       "cle": "pates_14128tortiprimo5kg_html",
       "name": "Torti primo 5kg",
       "prix_base": 28500,
       "prix_comparaison": 26500,
       "indice_prix": 92.98245614035088
+    },
+    {
+      "cle": "detergentvaisselle_15005liquidevaisselleminifleursdecerisier250ml_html",
+      "name": "Liquide vaisselle mini fleurs de cerisier 250ml",
+      "prix_base": 890,
+      "prix_comparaison": 1000,
+      "indice_prix": 112.35955056179775
+    },
+    {
+      "cle": "detergentvaisselle_15004liquidevaisselleminimenthecitron250ml_html",
+      "name": "Liquide vaisselle mini menthe citron 250ml",
+      "prix_base": 890,
+      "prix_comparaison": 1000,
+      "indice_prix": 112.35955056179775
+    },
+    {
+      "cle": "detergentvaisselle_15006liquidevaisselleminipommeraisin250ml_html",
+      "name": "Liquide vaisselle mini pomme raisin 250ml",
+      "prix_base": 890,
+      "prix_comparaison": 1000,
+      "indice_prix": 112.35955056179775
     }
   ]
 }
