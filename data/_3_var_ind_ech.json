@@ -1,66 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_gelfyframboise_",
-      "name": "Gel sensuel Framboise Fy\u2122 60ml | Lubrifiant intime | Livraison J+2",
-      "prix_base": 10140,
-      "prix_comparaison": 10880,
-      "variation": 740
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 8000,
+      "prix_comparaison": 10000,
+      "variation": 2000
     },
     {
-      "cle": "produit_gelfyorange_",
-      "name": "Gel sensuel Orange Fy\u2122 60ml | Lubrifiant intime | Livraison J+2",
-      "prix_base": 10140,
-      "prix_comparaison": 10880,
-      "variation": 740
+      "cle": "produit_6laitdemiecremecandia_",
+      "name": "Pack de 6 Lait Demi \u00e9cr\u00e9m\u00e9 en Brique Candia\u2122 1L | Source Naturelle de Calcium",
+      "prix_base": 40800,
+      "prix_comparaison": 42420,
+      "variation": 1620
+    },
+    {
+      "cle": "produit_stylonoirschneider_",
+      "name": "Stylo noir Schneider\u2122",
+      "prix_base": 720,
+      "prix_comparaison": 1000,
+      "variation": 280
+    },
+    {
+      "cle": "produit_stylorougeschneider_",
+      "name": "Stylo rouge Schneider\u2122",
+      "prix_base": 720,
+      "prix_comparaison": 1000,
+      "variation": 280
+    },
+    {
+      "cle": "produit_stylovertschneider_",
+      "name": "Stylo vert Schneider\u2122",
+      "prix_base": 720,
+      "prix_comparaison": 1000,
+      "variation": 280
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_gelfyframboise_",
-      "name": "Gel sensuel Framboise Fy\u2122 60ml | Lubrifiant intime | Livraison J+2",
-      "prix_base": 10140,
-      "prix_comparaison": 10880,
-      "variation": 740
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 6800,
+      "prix_comparaison": 7070,
+      "variation": 270
     },
     {
-      "cle": "produit_gelfyorange_",
-      "name": "Gel sensuel Orange Fy\u2122 60ml | Lubrifiant intime | Livraison J+2",
-      "prix_base": 10140,
-      "prix_comparaison": 10880,
-      "variation": 740
+      "cle": "produit_stylonoirschneider_",
+      "name": "Stylo noir Schneider\u2122",
+      "prix_base": 720,
+      "prix_comparaison": 1000,
+      "variation": 280
+    },
+    {
+      "cle": "produit_stylorougeschneider_",
+      "name": "Stylo rouge Schneider\u2122",
+      "prix_base": 720,
+      "prix_comparaison": 1000,
+      "variation": 280
+    },
+    {
+      "cle": "produit_stylovertschneider_",
+      "name": "Stylo vert Schneider\u2122",
+      "prix_base": 720,
+      "prix_comparaison": 1000,
+      "variation": 280
+    },
+    {
+      "cle": "produit_6laitdemiecremecandia_",
+      "name": "Pack de 6 Lait Demi \u00e9cr\u00e9m\u00e9 en Brique Candia\u2122 1L | Source Naturelle de Calcium",
+      "prix_base": 40800,
+      "prix_comparaison": 42420,
+      "variation": 1620
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_gelfyorange_",
-      "name": "Gel sensuel Orange Fy\u2122 60ml | Lubrifiant intime | Livraison J+2",
-      "prix_base": 10140,
-      "prix_comparaison": 10880,
-      "indice_prix": 107.29783037475345
+      "cle": "produit_stylovertschneider_",
+      "name": "Stylo vert Schneider\u2122",
+      "prix_base": 720,
+      "prix_comparaison": 1000,
+      "indice_prix": 138.88888888888889
     },
     {
-      "cle": "produit_gelfyframboise_",
-      "name": "Gel sensuel Framboise Fy\u2122 60ml | Lubrifiant intime | Livraison J+2",
-      "prix_base": 10140,
-      "prix_comparaison": 10880,
-      "indice_prix": 107.29783037475345
+      "cle": "produit_stylorougeschneider_",
+      "name": "Stylo rouge Schneider\u2122",
+      "prix_base": 720,
+      "prix_comparaison": 1000,
+      "indice_prix": 138.88888888888889
+    },
+    {
+      "cle": "produit_stylonoirschneider_",
+      "name": "Stylo noir Schneider\u2122",
+      "prix_base": 720,
+      "prix_comparaison": 1000,
+      "indice_prix": 138.88888888888889
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_gelfyframboise_",
-      "name": "Gel sensuel Framboise Fy\u2122 60ml | Lubrifiant intime | Livraison J+2",
-      "prix_base": 10140,
-      "prix_comparaison": 10880,
-      "indice_prix": 107.29783037475345
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 6800,
+      "prix_comparaison": 7070,
+      "indice_prix": 103.97058823529412
     },
     {
-      "cle": "produit_gelfyorange_",
-      "name": "Gel sensuel Orange Fy\u2122 60ml | Lubrifiant intime | Livraison J+2",
-      "prix_base": 10140,
-      "prix_comparaison": 10880,
-      "indice_prix": 107.29783037475345
+      "cle": "produit_6laitdemiecremecandia_",
+      "name": "Pack de 6 Lait Demi \u00e9cr\u00e9m\u00e9 en Brique Candia\u2122 1L | Source Naturelle de Calcium",
+      "prix_base": 40800,
+      "prix_comparaison": 42420,
+      "indice_prix": 103.97058823529412
+    },
+    {
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 8000,
+      "prix_comparaison": 10000,
+      "indice_prix": 125.0
     }
   ]
 }
