@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod006709",
-      "name": "Hina - huile de soja - 1 l",
-      "prix_base": 8900,
-      "prix_comparaison": 8300,
-      "variation": -600
+      "cle": "home_jspbutvente_fichecleproduitprod010196",
+      "name": "L'Or\u00e9al - Cr\u00e8me De Rasage Protectrice BarberClub Men Expert - 150 Ml  Quantite limite quotidien : 1",
+      "prix_base": 24000,
+      "prix_comparaison": 33300,
+      "variation": 9300
     }
   ],
   "indice de prix": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod006709",
-      "name": "Hina - huile de soja - 1 l",
-      "prix_base": 8900,
-      "prix_comparaison": 8300,
-      "indice_prix": 93.25842696629213
+      "cle": "home_jspbutvente_fichecleproduitprod010196",
+      "name": "L'Or\u00e9al - Cr\u00e8me De Rasage Protectrice BarberClub Men Expert - 150 Ml  Quantite limite quotidien : 1",
+      "prix_base": 24000,
+      "prix_comparaison": 33300,
+      "indice_prix": 138.75
     }
   ]
 }
