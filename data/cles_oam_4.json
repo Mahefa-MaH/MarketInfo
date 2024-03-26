@@ -1,18 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "machineacafeexpressobroyeur_49156machineacafeexpressobroyeurdelonghiecam65085msgrisconnecteprimadonnaeliteexperience8004399331648_html",
-      "name": "Machine expresso automatique avec broyeur -DELONGHI PrimaDonna Elite Experience ECAM650.85.MS - Gris - Connect\u00e9",
-      "prix_base": 10742000,
-      "prix_comparaison": 10742000,
+      "cle": "baignoirekitbalneo_61032baignoirebalneo185x90x68cmversionpackluxe3700538218232_html",
+      "name": "Baignoire Baln\u00e9o - Pack Luxe - 185x90x68cm - Appuie-tete - Systeme Air Bubble - LED - Cascade d'eau",
+      "prix_base": 10369000,
+      "prix_comparaison": 10369000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "machineacafeexpressobroyeur_49153delonghiecam65075msmachineexpressoautomatiqueavecbroyeurprimadonnaeliteinox8004399331013_html",
-      "name": "Machine expresso automatique avec broyeur DELONGHI PrimaDonna Elite ECAM 650.75.MS - Inox",
-      "prix_base": 10702000,
-      "prix_comparaison": 10702000,
+      "cle": "televiseurled_96219samsung85au7172tvledcrystal4kuhd85214cmsmarttv3portshdmi8806094907964_html",
+      "name": "SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI",
+      "prix_base": 11081000,
+      "prix_comparaison": 11081000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
+      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
+      "prix_base": 15283000,
+      "prix_comparaison": 15283000,
       "variation": 0,
       "indice_prix": 100.0
     }

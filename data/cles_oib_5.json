@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "huiles_8994huiledesoja1l_html",
-      "name": "Huile de soja 1L",
-      "prix_base": 15500,
-      "prix_comparaison": 15500,
+      "cle": "sucres_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 7500,
+      "prix_comparaison": 7500,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8250,
-      "prix_comparaison": 8250,
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14900,
+      "prix_comparaison": 14900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "sucres_13804sucreenpoudre1kg_html",
+      "name": "Sucre blanc en poudre 1kg",
+      "prix_base": 11500,
+      "prix_comparaison": 11500,
       "variation": 0,
       "indice_prix": 100.0
     }

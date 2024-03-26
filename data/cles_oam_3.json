@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tableplaquedecuissoninduction_126375plaqueinductionelicanikolateslaprimesbla83prf01823227400w240v63dbsafeactivationnoir8020283054554_html",
-      "name": "Plaque Induction Elica NikolaTesla Prime S BL/A/83 PRF0182322 7400W 240V 63dB Safe Activation Noir",
-      "prix_base": 10499000,
-      "prix_comparaison": 10499000,
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13845000,
+      "prix_comparaison": 13845000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
-      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
-      "prix_base": 12343000,
-      "prix_comparaison": 12343000,
+      "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 11580000,
+      "prix_comparaison": 11580000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
-      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
-      "prix_base": 11017000,
-      "prix_comparaison": 11017000,
+      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
+      "prix_base": 11387000,
+      "prix_comparaison": 11387000,
       "variation": 0,
       "indice_prix": 100.0
     }

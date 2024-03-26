@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
-      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
-      "prix_base": 14643000,
-      "prix_comparaison": 14643000,
+      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
+      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
+      "prix_base": 10455000,
+      "prix_comparaison": 10455000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "machineacafeexpressobroyeur_91317siemensct636les6machineacafeiq700reservoir24l1600wprepare2tass4242003703595_html",
-      "name": "SIEMENS CT636LES6 Machine a caf\u00e9 iQ700 - R\u00e9servoir 2.4L - 1600W - Pr\u00e9pare 2 tass",
-      "prix_base": 12411000,
-      "prix_comparaison": 12411000,
+      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
+      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
+      "prix_base": 10637000,
+      "prix_comparaison": 10637000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
-      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
-      "prix_base": 12997000,
-      "prix_comparaison": 12997000,
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11010000,
+      "prix_comparaison": 11010000,
       "variation": 0,
       "indice_prix": 100.0
     }
