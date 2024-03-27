@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_9404rizmakaliokasacde1kg_html",
-      "name": "Riz Makalioka sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "semoulesetcouscous_1460farinederiz1kg_html",
       "name": "Farine de riz 1kg",
       "prix_base": 5000,
@@ -17,10 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "farinesetchapelures_13065farinepourpainblanc1kgchabrior_html",
+      "name": "Farine pour  pain blanc 1kg",
+      "prix_base": 8500,
+      "prix_comparaison": 8500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "riz_4952rizdeluxemakalioka5kg_html",
+      "name": "Riz de luxe Makalioka 5kg",
+      "prix_base": 19550,
+      "prix_comparaison": 19550,
       "variation": 0,
       "indice_prix": 100.0
     }
