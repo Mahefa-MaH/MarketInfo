@@ -27,6 +27,13 @@
       "prix_base": 700,
       "prix_comparaison": 665,
       "variation": -35
+    },
+    {
+      "cle": "gaufresetcrepes_1368miniwafervanilladp12x14x30sp_html",
+      "name": "Mini gaufrette vanille 30g",
+      "prix_base": 1000,
+      "prix_comparaison": 950,
+      "variation": -50
     }
   ],
   "prix_diminues": [
@@ -57,6 +64,13 @@
       "prix_base": 520000,
       "prix_comparaison": 494000,
       "variation": -26000
+    },
+    {
+      "cle": "ustensilesdecuisine_6943thermometredigital_html",
+      "name": "Thermom\u00e8tre digital",
+      "prix_base": 475900,
+      "prix_comparaison": 452105,
+      "variation": -23795
     }
   ],
   "indices_prix_plus_eleves": [
@@ -87,6 +101,13 @@
       "prix_base": 1850,
       "prix_comparaison": 1758,
       "indice_prix": 95.02702702702703
+    },
+    {
+      "cle": "eauxdesource_3066eaudesource6x2l_html",
+      "name": "Eau de Source 2L",
+      "prix_base": 2490,
+      "prix_comparaison": 2366,
+      "indice_prix": 95.02008032128514
     }
   ],
   "indices_prix_plus_faibles": [
@@ -103,6 +124,13 @@
       "prix_base": 3750,
       "prix_comparaison": 3562,
       "indice_prix": 94.98666666666666
+    },
+    {
+      "cle": "accessoires_6195intercalairesmaxiformata46positions_html",
+      "name": "Intercalaires maxi format A4 6 positions",
+      "prix_base": 3790,
+      "prix_comparaison": 3600,
+      "indice_prix": 94.9868073878628
     },
     {
       "cle": "selsepicesherbes_5914cannellemoulue35g_html",
