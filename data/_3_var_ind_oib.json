@@ -20,20 +20,6 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "variation": 530
-    },
-    {
-      "cle": "soufflesextrudes_13982crackyminipizza_html",
-      "name": "Cracky mini pizza",
-      "prix_base": 700,
-      "prix_comparaison": 665,
-      "variation": -35
-    },
-    {
-      "cle": "gaufresetcrepes_1368miniwafervanilladp12x14x30sp_html",
-      "name": "Mini gaufrette vanille 30g",
-      "prix_base": 1000,
-      "prix_comparaison": 950,
-      "variation": -50
     }
   ],
   "prix_diminues": [
@@ -57,20 +43,6 @@
       "prix_base": 535000,
       "prix_comparaison": 508250,
       "variation": -26750
-    },
-    {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 520000,
-      "prix_comparaison": 494000,
-      "variation": -26000
-    },
-    {
-      "cle": "ustensilesdecuisine_6943thermometredigital_html",
-      "name": "Thermom\u00e8tre digital",
-      "prix_base": 475900,
-      "prix_comparaison": 452105,
-      "variation": -23795
     }
   ],
   "indices_prix_plus_eleves": [
@@ -94,57 +66,29 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "indice_prix": 153.53535353535352
-    },
-    {
-      "cle": "produitskibomoinsde5000ar_2472cotontige100pieces_html",
-      "name": "Coton-tige 100 pi\u00e8ces",
-      "prix_base": 1850,
-      "prix_comparaison": 1758,
-      "indice_prix": 95.02702702702703
-    },
-    {
-      "cle": "eauxdesource_3066eaudesource6x2l_html",
-      "name": "Eau de Source 2L",
-      "prix_base": 2490,
-      "prix_comparaison": 2366,
-      "indice_prix": 95.02008032128514
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1950,
+      "prix_comparaison": 1852,
+      "indice_prix": 94.97435897435898
+    },
+    {
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2550,
+      "prix_comparaison": 2422,
+      "indice_prix": 94.98039215686275
+    },
+    {
+      "cle": "cremessoinsducorps_2386vaseline50ml_html",
+      "name": "Vaseline 50ml",
       "prix_base": 2750,
       "prix_comparaison": 2612,
       "indice_prix": 94.98181818181818
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_14167eaufortementpetillante125l_html",
-      "name": "Eau fortement p\u00e9tillante 1,25L",
-      "prix_base": 3750,
-      "prix_comparaison": 3562,
-      "indice_prix": 94.98666666666666
-    },
-    {
-      "cle": "accessoires_6195intercalairesmaxiformata46positions_html",
-      "name": "Intercalaires maxi format A4 6 positions",
-      "prix_base": 3790,
-      "prix_comparaison": 3600,
-      "indice_prix": 94.9868073878628
-    },
-    {
-      "cle": "selsepicesherbes_5914cannellemoulue35g_html",
-      "name": "Cannelle moulue 35g",
-      "prix_base": 4350,
-      "prix_comparaison": 4132,
-      "indice_prix": 94.98850574712644
-    },
-    {
-      "cle": "jusdefruits_1258lefruitjuscocktail1l_html",
-      "name": "Jus cocktail Le Fruit 1L",
-      "prix_base": 4950,
-      "prix_comparaison": 4702,
-      "indice_prix": 94.98989898989899
     }
   ]
 }
