@@ -6,6 +6,13 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "variation": 530
+    },
+    {
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "variation": 530
     }
   ],
   "prix_diminues": [
@@ -15,12 +22,26 @@
       "prix_base": 657900,
       "prix_comparaison": 625005,
       "variation": -32895
+    },
+    {
+      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
+      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
+      "prix_base": 609000,
+      "prix_comparaison": 578550,
+      "variation": -30450
     }
   ],
   "indices_prix_plus_eleves": [
     {
       "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
       "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
+    },
+    {
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
       "prix_base": 990,
       "prix_comparaison": 1520,
       "indice_prix": 153.53535353535352
@@ -33,6 +54,13 @@
       "prix_base": 2750,
       "prix_comparaison": 2612,
       "indice_prix": 94.98181818181818
+    },
+    {
+      "cle": "eauxgazeusesaromatisees_14167eaufortementpetillante125l_html",
+      "name": "Eau fortement p\u00e9tillante 1,25L",
+      "prix_base": 3750,
+      "prix_comparaison": 3562,
+      "indice_prix": 94.98666666666666
     }
   ]
 }
