@@ -1,20 +1,34 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_cremefraichesocolait_",
-      "name": "Cr\u00e8me fra\u00eeche Socolait",
-      "prix_base": 9620,
-      "prix_comparaison": 10800,
-      "variation": 1180
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 6800,
+      "prix_comparaison": 7070,
+      "variation": 270
+    },
+    {
+      "cle": "produit_6laitdemiecremecandia_",
+      "name": "Pack de 6 Lait Demi \u00e9cr\u00e9m\u00e9 en Brique Candia\u2122 1L | Source Naturelle de Calcium",
+      "prix_base": 40800,
+      "prix_comparaison": 42420,
+      "variation": 1620
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_cremefraichesocolait_",
-      "name": "Cr\u00e8me fra\u00eeche Socolait",
-      "prix_base": 9620,
-      "prix_comparaison": 10800,
-      "indice_prix": 112.26611226611226
+      "cle": "produit_6laitdemiecremecandia_",
+      "name": "Pack de 6 Lait Demi \u00e9cr\u00e9m\u00e9 en Brique Candia\u2122 1L | Source Naturelle de Calcium",
+      "prix_base": 40800,
+      "prix_comparaison": 42420,
+      "indice_prix": 103.97058823529412
+    },
+    {
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 6800,
+      "prix_comparaison": 7070,
+      "indice_prix": 103.97058823529412
     }
   ]
 }
