@@ -2,109 +2,49 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Variation: +530 Ar
+1. **Lessive en poudre en sac blanc et couleur 10kg**
+   - Prix avant: 74,005 Ar
+   - Prix actuel: 77,900 Ar
+   - Variation: +3,895 Ar
 
-2. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Variation: +530 Ar
-
-3. **Savon de toilette cerise 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Variation: +530 Ar
-
-4. **Cracky mini pizza**
-   - Prix avant: 700 Ar
-   - Prix actuel: 665 Ar
-   - Variation: -35 Ar
-
-5. **Bonbons Sparks 16g**
-   - Prix avant: 900 Ar
-   - Prix actuel: 855 Ar
-   - Variation: -45 Ar
+2. **Papier aluminium 50 mètres**
+   - Prix avant: 23,085 Ar
+   - Prix actuel: 24,300 Ar
+   - Variation: +1,215 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Thermomètre digital résistant aux chocs avec sonde**
-   - Prix avant: 657,900 Ar
-   - Prix actuel: 625,005 Ar
-   - Variation: -32,895 Ar
+1. **Coton-tige pour bébé 60 pièces**
+   - Prix avant: 3,696 Ar
+   - Prix actuel: 3,890 Ar
+   - Variation: +194 Ar
 
-2. **Cafetière expresso multi caps pression de la pompe 19 bars rouge**
-   - Prix avant: 609,000 Ar
-   - Prix actuel: 578,550 Ar
-   - Variation: -30,450 Ar
-
-3. **Faitout rond rouge Slowcook Ø28cm**
-   - Prix avant: 535,000 Ar
-   - Prix actuel: 508,250 Ar
-   - Variation: -26,750 Ar
-
-4. **Thermomètre infrarouge**
-   - Prix avant: 520,000 Ar
-   - Prix actuel: 494,000 Ar
-   - Variation: -26,000 Ar
-
-5. **Thermomètre digital**
-   - Prix avant: 475,900 Ar
-   - Prix actuel: 452,105 Ar
-   - Variation: -23,795 Ar
+2. **20 Sacs de congélation petite taille fermeture à zip**
+   - Prix avant: 4,275 Ar
+   - Prix actuel: 4,500 Ar
+   - Variation: +225 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Indice de prix : 153.54
+1. **20 Sacs poubelle transparent 50L**
+   - Prix avant: 8,882 Ar
+   - Prix actuel: 9,350 Ar
+   - Indice de prix : 105.27
 
-2. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Indice de prix : 153.54
-
-3. **Savon de toilette cerise 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Indice de prix : 153.54
-
-4. **Coton-tige 100 pièces**
-   - Prix avant: 1,850 Ar
-   - Prix actuel: 1,758 Ar
-   - Indice de prix : 95.03
-
-5. **Eau de Source 2L**
-   - Prix avant: 2,490 Ar
-   - Prix actuel: 2,366 Ar
-   - Indice de prix : 95.02
+2. **Papier aluminium 50 mètres**
+   - Prix avant: 23,085 Ar
+   - Prix actuel: 24,300 Ar
+   - Indice de prix : 105.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Gomme plastique**
-   - Prix avant: 1,950 Ar
-   - Prix actuel: 1,852 Ar
-   - Indice de prix : 94.97
+1. **Coton-tige pour bébé 60 pièces**
+   - Prix avant: 3,696 Ar
+   - Prix actuel: 3,890 Ar
+   - Indice de prix : 105.25
 
-2. **21 Etiquettes blanches 38x63mm**
-   - Prix avant: 2,550 Ar
-   - Prix actuel: 2,422 Ar
-   - Indice de prix : 94.98
-
-3. **Vaseline 50ml**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,612 Ar
-   - Indice de prix : 94.98
-
-4. **Talc bébé poudre 75g**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,612 Ar
-   - Indice de prix : 94.98
-
-5. **2 Recharges porte mines 0,7mm - HB**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,612 Ar
-   - Indice de prix : 94.98
+2. **10 Sacs poubelle lien coulissant 100L**
+   - Prix avant: 8,930 Ar
+   - Prix actuel: 9,400 Ar
+   - Indice de prix : 105.26
 
