@@ -20,6 +20,20 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "variation": 530
+    },
+    {
+      "cle": "soufflesextrudes_13982crackyminipizza_html",
+      "name": "Cracky mini pizza",
+      "prix_base": 700,
+      "prix_comparaison": 665,
+      "variation": -35
+    },
+    {
+      "cle": "bonbonsgelifiesetacidules_7177bonbonssparks16g_html",
+      "name": "Bonbons Sparks 16g",
+      "prix_base": 900,
+      "prix_comparaison": 855,
+      "variation": -45
     }
   ],
   "prix_diminues": [
@@ -43,6 +57,20 @@
       "prix_base": 535000,
       "prix_comparaison": 508250,
       "variation": -26750
+    },
+    {
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 520000,
+      "prix_comparaison": 494000,
+      "variation": -26000
+    },
+    {
+      "cle": "ustensilesdecuisine_6943thermometredigital_html",
+      "name": "Thermom\u00e8tre digital",
+      "prix_base": 475900,
+      "prix_comparaison": 452105,
+      "variation": -23795
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,6 +94,20 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "indice_prix": 153.53535353535352
+    },
+    {
+      "cle": "produitskibomoinsde5000ar_2472cotontige100pieces_html",
+      "name": "Coton-tige 100 pi\u00e8ces",
+      "prix_base": 1850,
+      "prix_comparaison": 1758,
+      "indice_prix": 95.02702702702703
+    },
+    {
+      "cle": "eauxdesource_3066eaudesource6x2l_html",
+      "name": "Eau de Source 2L",
+      "prix_base": 2490,
+      "prix_comparaison": 2366,
+      "indice_prix": 95.02008032128514
     }
   ],
   "indices_prix_plus_faibles": [
@@ -86,6 +128,20 @@
     {
       "cle": "cremessoinsducorps_2386vaseline50ml_html",
       "name": "Vaseline 50ml",
+      "prix_base": 2750,
+      "prix_comparaison": 2612,
+      "indice_prix": 94.98181818181818
+    },
+    {
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "prix_base": 2750,
+      "prix_comparaison": 2612,
+      "indice_prix": 94.98181818181818
+    },
+    {
+      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
+      "name": "2 Recharges porte mines 0,7mm - HB",
       "prix_base": 2750,
       "prix_comparaison": 2612,
       "indice_prix": 94.98181818181818

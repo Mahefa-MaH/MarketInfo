@@ -17,6 +17,16 @@
    - Prix actuel: 1,520 Ar
    - Variation: +530 Ar
 
+4. **Cracky mini pizza**
+   - Prix avant: 700 Ar
+   - Prix actuel: 665 Ar
+   - Variation: -35 Ar
+
+5. **Bonbons Sparks 16g**
+   - Prix avant: 900 Ar
+   - Prix actuel: 855 Ar
+   - Variation: -45 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Thermomètre digital résistant aux chocs avec sonde**
@@ -33,6 +43,16 @@
    - Prix avant: 535,000 Ar
    - Prix actuel: 508,250 Ar
    - Variation: -26,750 Ar
+
+4. **Thermomètre infrarouge**
+   - Prix avant: 520,000 Ar
+   - Prix actuel: 494,000 Ar
+   - Variation: -26,000 Ar
+
+5. **Thermomètre digital**
+   - Prix avant: 475,900 Ar
+   - Prix actuel: 452,105 Ar
+   - Variation: -23,795 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -51,6 +71,16 @@
    - Prix actuel: 1,520 Ar
    - Indice de prix : 153.54
 
+4. **Coton-tige 100 pièces**
+   - Prix avant: 1,850 Ar
+   - Prix actuel: 1,758 Ar
+   - Indice de prix : 95.03
+
+5. **Eau de Source 2L**
+   - Prix avant: 2,490 Ar
+   - Prix actuel: 2,366 Ar
+   - Indice de prix : 95.02
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Gomme plastique**
@@ -64,6 +94,16 @@
    - Indice de prix : 94.98
 
 3. **Vaseline 50ml**
+   - Prix avant: 2,750 Ar
+   - Prix actuel: 2,612 Ar
+   - Indice de prix : 94.98
+
+4. **Talc bébé poudre 75g**
+   - Prix avant: 2,750 Ar
+   - Prix actuel: 2,612 Ar
+   - Indice de prix : 94.98
+
+5. **2 Recharges porte mines 0,7mm - HB**
    - Prix avant: 2,750 Ar
    - Prix actuel: 2,612 Ar
    - Indice de prix : 94.98
