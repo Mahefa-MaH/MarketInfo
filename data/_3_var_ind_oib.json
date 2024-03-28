@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "lessiveenpoudreettablette_3541lessiveenpoudreensacblancetcouleur10kg_html",
-      "name": "Lessive en poudre en sac blanc et couleur 10kg",
-      "prix_base": 74005,
-      "prix_comparaison": 77900,
-      "variation": 3895
-    },
-    {
-      "cle": "papiersetfilmsalimentaires_3422rouleaualuminium29cmx50metresalbaenboitex24_html",
-      "name": "Papier aluminium 50 m\u00e8tres",
-      "prix_base": 23085,
-      "prix_comparaison": 24300,
-      "variation": 1215
-    },
-    {
-      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
-      "prix_base": 19855,
-      "prix_comparaison": 20900,
-      "variation": 1045
+      "cle": "accessoirespourlentretiendulinge_11689tablearepassertechnic130x44cmdomedia_html",
+      "name": "Table \u00e0 repasser Technic 130x44cm",
+      "prix_base": 399000,
+      "prix_comparaison": 420000,
+      "variation": 21000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produitskibomoinsde5000ar_6802cotontigepourbebe60pieces_html",
-      "name": "Coton-tige pour b\u00e9b\u00e9 60 pi\u00e8ces",
-      "prix_base": 3696,
-      "prix_comparaison": 3890,
-      "variation": 194
-    },
-    {
-      "cle": "sacsetemballagesalimentaires_1266720sacsdecongelationpetitetaillefermetureazipdomedia_html",
-      "name": "20 Sacs de cong\u00e9lation petite taille fermeture \u00e0 zip",
-      "prix_base": 4275,
-      "prix_comparaison": 4500,
-      "variation": 225
-    },
-    {
-      "cle": "produitsnettoyantscuisines_13849cremearecurercitron750mltopbudget_html",
-      "name": "Cr\u00e8me \u00e0 r\u00e9curer citron 750ml",
-      "prix_base": 5225,
-      "prix_comparaison": 5500,
-      "variation": 275
+      "cle": "volailleetvolaillepanee_8834coquelet1kg_html",
+      "name": "Coquelet 1kg",
+      "prix_base": 22500,
+      "prix_comparaison": 18900,
+      "variation": -3600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 8882,
-      "prix_comparaison": 9350,
-      "indice_prix": 105.2690835397433
-    },
-    {
-      "cle": "papiersetfilmsalimentaires_3422rouleaualuminium29cmx50metresalbaenboitex24_html",
-      "name": "Papier aluminium 50 m\u00e8tres",
-      "prix_base": 23085,
-      "prix_comparaison": 24300,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "cremesdessertflans_13749cremedessertalavanille400gpaturages_html",
-      "name": "Cr\u00e8me dessert \u00e0 la vanille 400g",
-      "prix_base": 14155,
-      "prix_comparaison": 14900,
-      "indice_prix": 105.26315789473684
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2422,
+      "prix_comparaison": 2550,
+      "indice_prix": 105.28488852188273
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produitskibomoinsde5000ar_6802cotontigepourbebe60pieces_html",
-      "name": "Coton-tige pour b\u00e9b\u00e9 60 pi\u00e8ces",
-      "prix_base": 3696,
-      "prix_comparaison": 3890,
-      "indice_prix": 105.24891774891775
-    },
-    {
-      "cle": "mouchoirsenpapier_13277boitedemouchoirs2plisx110feuilleslabell_html",
-      "name": "Bo\u00eete de mouchoirs 2 plis x 110 feuilles",
-      "prix_base": 7125,
-      "prix_comparaison": 7500,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
-      "prix_base": 19855,
-      "prix_comparaison": 20900,
-      "indice_prix": 105.26315789473684
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     }
   ]
 }
