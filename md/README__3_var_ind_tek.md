@@ -19,52 +19,52 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Pâte à modeler 12 couleurs couvercle ourson 140 g**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 8,760 Ar
-   - Variation: +760 Ar
+1. **Chocolat Moulage Dinosaure 300 g**
+   - Prix avant: 98,700 Ar
+   - Prix actuel: 86,700 Ar
+   - Variation: -12,000 Ar
 
-2. **Lait En Poudre 500 G**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 21,400 Ar
-   - Variation: +1,800 Ar
+2. **Chocolat au lait en forme de poule 200 g**
+   - Prix avant: 104,500 Ar
+   - Prix actuel: 93,500 Ar
+   - Variation: -11,000 Ar
 
-3. **Round Cake Pan Easy Grip 23 Cm**
-   - Prix avant: 56,300 Ar
-   - Prix actuel: 58,800 Ar
-   - Variation: +2,500 Ar
+3. **Brosse à chaussure G16**
+   - Prix avant: 1,500 Ar
+   - Prix actuel: 1,600 Ar
+   - Variation: +100 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Pâte à modeler 12 couleurs couvercle ourson 140 g**
+1. **Pot à crayon 206 en pastel  78 mm**
+   - Prix avant: 4,600 Ar
+   - Prix actuel: 9,100 Ar
+   - Indice de prix : 197.83
+
+2. **Désinfectant nettoyant sols et surfaces eucalyptus 1 L**
+   - Prix avant: 13,200 Ar
+   - Prix actuel: 14,800 Ar
+   - Indice de prix : 112.12
+
+3. **Pâte à modeler 12 couleurs couvercle ourson 140 g**
    - Prix avant: 8,000 Ar
    - Prix actuel: 8,760 Ar
    - Indice de prix : 109.50
 
-2. **Lait En Poudre 500 G**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 21,400 Ar
-   - Indice de prix : 109.18
-
-3. **Moulin À Café 50 G - 180 W**
-   - Prix avant: 196,300 Ar
-   - Prix actuel: 214,200 Ar
-   - Indice de prix : 109.12
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Super Cook Black 9 pièces**
-   - Prix avant: 526,700 Ar
-   - Prix actuel: 549,600 Ar
-   - Indice de prix : 104.35
+1. **Chocolat Moulage Dinosaure 300 g**
+   - Prix avant: 98,700 Ar
+   - Prix actuel: 86,700 Ar
+   - Indice de prix : 87.84
 
-2. **Cuiseur Riz Inicio 2- 1,8 L**
-   - Prix avant: 410,550 Ar
-   - Prix actuel: 428,400 Ar
-   - Indice de prix : 104.35
+2. **Chocolat au lait en forme de poule 200 g**
+   - Prix avant: 104,500 Ar
+   - Prix actuel: 93,500 Ar
+   - Indice de prix : 89.47
 
-3. **Autocuiseur secure 4 L**
-   - Prix avant: 410,550 Ar
-   - Prix actuel: 428,400 Ar
-   - Indice de prix : 104.35
+3. **Pot à crayon 78 mm Noir**
+   - Prix avant: 5,300 Ar
+   - Prix actuel: 5,400 Ar
+   - Indice de prix : 101.89
 

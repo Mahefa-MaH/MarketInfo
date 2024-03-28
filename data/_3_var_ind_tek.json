@@ -24,71 +24,71 @@
   ],
   "prix_diminues": [
     {
-      "list_id": 7367,
-      "prix_base": 8000,
-      "name": "P\u00e2te \u00e0 modeler 12 couleurs couvercle ourson 140 g",
-      "prix_comparaison": 8760,
-      "variation": 760
+      "list_id": 12839,
+      "prix_base": 98700,
+      "name": "Chocolat Moulage Dinosaure 300 g",
+      "prix_comparaison": 86700,
+      "variation": -12000
     },
     {
-      "list_id": 2093,
-      "prix_base": 19600,
-      "name": "Lait En Poudre 500 G",
-      "prix_comparaison": 21400,
-      "variation": 1800
+      "list_id": 12845,
+      "prix_base": 104500,
+      "name": "Chocolat au lait en forme de poule 200 g",
+      "prix_comparaison": 93500,
+      "variation": -11000
     },
     {
-      "list_id": 38,
-      "prix_base": 56300,
-      "name": "Round Cake Pan Easy Grip 23 Cm",
-      "prix_comparaison": 58800,
-      "variation": 2500
+      "list_id": 6634,
+      "prix_base": 1500,
+      "name": "Brosse \u00e0 chaussure G16",
+      "prix_comparaison": 1600,
+      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "list_id": 5016,
+      "name": "Pot \u00e0 crayon 206 en pastel  78 mm",
+      "prix_base": 4600,
+      "prix_comparaison": 9100,
+      "indice_prix": 197.82608695652175
+    },
+    {
+      "list_id": 6902,
+      "name": "D\u00e9sinfectant nettoyant sols et surfaces eucalyptus 1 L",
+      "prix_base": 13200,
+      "prix_comparaison": 14800,
+      "indice_prix": 112.12121212121212
+    },
     {
       "list_id": 7367,
       "name": "P\u00e2te \u00e0 modeler 12 couleurs couvercle ourson 140 g",
       "prix_base": 8000,
       "prix_comparaison": 8760,
       "indice_prix": 109.5
-    },
-    {
-      "list_id": 2093,
-      "name": "Lait En Poudre 500 G",
-      "prix_base": 19600,
-      "prix_comparaison": 21400,
-      "indice_prix": 109.18367346938776
-    },
-    {
-      "list_id": 24,
-      "name": "Moulin \u00c0 Caf\u00e9 50 G - 180 W",
-      "prix_base": 196300,
-      "prix_comparaison": 214200,
-      "indice_prix": 109.11869587366276
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 31,
-      "name": "Super Cook Black 9 pi\u00e8ces",
-      "prix_base": 526700,
-      "prix_comparaison": 549600,
-      "indice_prix": 104.34782608695652
+      "list_id": 12839,
+      "name": "Chocolat Moulage Dinosaure 300 g",
+      "prix_base": 98700,
+      "prix_comparaison": 86700,
+      "indice_prix": 87.8419452887538
     },
     {
-      "list_id": 26,
-      "name": "Cuiseur Riz Inicio 2- 1,8 L",
-      "prix_base": 410550,
-      "prix_comparaison": 428400,
-      "indice_prix": 104.34782608695652
+      "list_id": 12845,
+      "name": "Chocolat au lait en forme de poule 200 g",
+      "prix_base": 104500,
+      "prix_comparaison": 93500,
+      "indice_prix": 89.47368421052632
     },
     {
-      "list_id": 28,
-      "name": "Autocuiseur secure 4 L",
-      "prix_base": 410550,
-      "prix_comparaison": 428400,
-      "indice_prix": 104.34782608695652
+      "list_id": 5015,
+      "name": "Pot \u00e0 crayon 78 mm Noir",
+      "prix_base": 5300,
+      "prix_comparaison": 5400,
+      "indice_prix": 101.88679245283019
     }
   ]
 }

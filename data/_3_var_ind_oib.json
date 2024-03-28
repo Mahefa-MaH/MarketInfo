@@ -6,6 +6,27 @@
       "prix_base": 399000,
       "prix_comparaison": 420000,
       "variation": 21000
+    },
+    {
+      "cle": "papiersetfilmsalimentaires_4318papieringraissable30x40brunpar10kgs1_html",
+      "name": "Papier Ingraissable Brun 30cmx40cm 10kg",
+      "prix_base": 379050,
+      "prix_comparaison": 399000,
+      "variation": 19950
+    },
+    {
+      "cle": "papiersetfilmsalimentaires_4319papieringraissablealimentairebrun32x50cm10kg_html",
+      "name": "Papier Ingraissable alimentaire Brun 32x50cm 10kg",
+      "prix_base": 365750,
+      "prix_comparaison": 385000,
+      "variation": 19250
+    },
+    {
+      "cle": "barquettespotsetbolsjetables_7424potasaucecristalaveccouvercle250pieces_html",
+      "name": "Pot \u00e0 sauce cristal avec couvercle 250 pi\u00e8ces",
+      "prix_base": 299250,
+      "prix_comparaison": 315000,
+      "variation": 15750
     }
   ],
   "prix_diminues": [
@@ -15,6 +36,27 @@
       "prix_base": 22500,
       "prix_comparaison": 18900,
       "variation": -3600
+    },
+    {
+      "cle": "lessiveenpoudreettablette_14294lessiveenpoudreconcentre800g_html",
+      "name": "Lessive en poudre concentr\u00e9 800g",
+      "prix_base": 6555,
+      "prix_comparaison": 4900,
+      "variation": -1655
+    },
+    {
+      "cle": "lessiveenpoudreettablette_14293lessivepoudreconcentrenoixdecoco800g_html",
+      "name": "Lessive poudre concentr\u00e9 noix de coco 800g",
+      "prix_base": 6555,
+      "prix_comparaison": 4900,
+      "variation": -1655
+    },
+    {
+      "cle": "couches_14915couchesmaxi918kgx28pieces_html",
+      "name": "Couches maxi 9-18kg x 28 pi\u00e8ces",
+      "prix_base": 19000,
+      "prix_comparaison": 17700,
+      "variation": -1300
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +66,27 @@
       "prix_base": 2422,
       "prix_comparaison": 2550,
       "indice_prix": 105.28488852188273
+    },
+    {
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
+    },
+    {
+      "cle": "cremessoinsducorps_2386vaseline50ml_html",
+      "name": "Vaseline 50ml",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
+    },
+    {
+      "cle": "eauxgazeusesaromatisees_14167eaufortementpetillante125l_html",
+      "name": "Eau fortement p\u00e9tillante 1,25L",
+      "prix_base": 3562,
+      "prix_comparaison": 3750,
+      "indice_prix": 105.27793374508703
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +96,27 @@
       "prix_base": 1520,
       "prix_comparaison": 990,
       "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "lessiveenpoudreettablette_14294lessiveenpoudreconcentre800g_html",
+      "name": "Lessive en poudre concentr\u00e9 800g",
+      "prix_base": 6555,
+      "prix_comparaison": 4900,
+      "indice_prix": 74.75209763539283
     }
   ]
 }
