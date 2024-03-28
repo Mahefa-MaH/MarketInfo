@@ -1,34 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3091,
-      "name": "Pur\u00e9e Squish Yoghurt, Apple & Banana 110 Ml",
-      "prix_base": 3500,
-      "prix_comparaison": 3600,
-      "variation": 100
-    },
-    {
-      "list_id": 3092,
-      "name": "Pur\u00e9e Squish Yoghurt, Apple & Guava 110 Ml",
-      "prix_base": 3500,
-      "prix_comparaison": 3600,
-      "variation": 100
+      "list_id": 26,
+      "name": "Cuiseur Riz Inicio 2- 1,8 L",
+      "prix_base": 410550,
+      "prix_comparaison": 428400,
+      "variation": 17850
     }
   ],
   "indice de prix": [
     {
-      "list_id": 3091,
-      "name": "Pur\u00e9e Squish Yoghurt, Apple & Banana 110 Ml",
-      "prix_base": 3500,
-      "prix_comparaison": 3600,
-      "indice_prix": 102.85714285714286
-    },
-    {
-      "list_id": 3092,
-      "name": "Pur\u00e9e Squish Yoghurt, Apple & Guava 110 Ml",
-      "prix_base": 3500,
-      "prix_comparaison": 3600,
-      "indice_prix": 102.85714285714286
+      "list_id": 26,
+      "name": "Cuiseur Riz Inicio 2- 1,8 L",
+      "prix_base": 410550,
+      "prix_comparaison": 428400,
+      "indice_prix": 104.34782608695652
     }
   ]
 }

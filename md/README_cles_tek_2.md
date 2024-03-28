@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Huile De Soja 1 L**
-   - Prix avant: 9,700 Ar
-   - Prix actuel: 9,700 Ar
+1. **Riz blanc import de Inde 50 kg**
+   - Prix avant: 143,000 Ar
+   - Prix actuel: 143,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Huile De Soja 1 L**
-   - Prix avant: 10,700 Ar
-   - Prix actuel: 10,700 Ar
+2. **Sucre rouge 1 kg**
+   - Prix avant: 5,200 Ar
+   - Prix actuel: 5,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz rouge long grain complet 500 g**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 11,900 Ar
+3. **Riz Rouge 5 Kg**
+   - Prix avant: 18,100 Ar
+   - Prix actuel: 18,100 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

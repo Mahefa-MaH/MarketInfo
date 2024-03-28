@@ -12,6 +12,11 @@
    - Prix actuel: 24,300 Ar
    - Variation: +1,215 Ar
 
+3. **Papier hygiénique rose Le Classique 12 rouleaux**
+   - Prix avant: 19,855 Ar
+   - Prix actuel: 20,900 Ar
+   - Variation: +1,045 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Coton-tige pour bébé 60 pièces**
@@ -23,6 +28,11 @@
    - Prix avant: 4,275 Ar
    - Prix actuel: 4,500 Ar
    - Variation: +225 Ar
+
+3. **Crème à récurer citron 750ml**
+   - Prix avant: 5,225 Ar
+   - Prix actuel: 5,500 Ar
+   - Variation: +275 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -36,6 +46,11 @@
    - Prix actuel: 24,300 Ar
    - Indice de prix : 105.26
 
+3. **Crème dessert à la vanille 400g**
+   - Prix avant: 14,155 Ar
+   - Prix actuel: 14,900 Ar
+   - Indice de prix : 105.26
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Coton-tige pour bébé 60 pièces**
@@ -43,8 +58,13 @@
    - Prix actuel: 3,890 Ar
    - Indice de prix : 105.25
 
-2. **10 Sacs poubelle lien coulissant 100L**
-   - Prix avant: 8,930 Ar
-   - Prix actuel: 9,400 Ar
+2. **Boîte de mouchoirs 2 plis x 110 feuilles**
+   - Prix avant: 7,125 Ar
+   - Prix actuel: 7,500 Ar
+   - Indice de prix : 105.26
+
+3. **Papier hygiénique rose Le Classique 12 rouleaux**
+   - Prix avant: 19,855 Ar
+   - Prix actuel: 20,900 Ar
    - Indice de prix : 105.26
 

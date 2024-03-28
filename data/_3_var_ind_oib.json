@@ -13,6 +13,13 @@
       "prix_base": 23085,
       "prix_comparaison": 24300,
       "variation": 1215
+    },
+    {
+      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
+      "prix_base": 19855,
+      "prix_comparaison": 20900,
+      "variation": 1045
     }
   ],
   "prix_diminues": [
@@ -29,6 +36,13 @@
       "prix_base": 4275,
       "prix_comparaison": 4500,
       "variation": 225
+    },
+    {
+      "cle": "produitsnettoyantscuisines_13849cremearecurercitron750mltopbudget_html",
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer citron 750ml",
+      "prix_base": 5225,
+      "prix_comparaison": 5500,
+      "variation": 275
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +59,13 @@
       "prix_base": 23085,
       "prix_comparaison": 24300,
       "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremesdessertflans_13749cremedessertalavanille400gpaturages_html",
+      "name": "Cr\u00e8me dessert \u00e0 la vanille 400g",
+      "prix_base": 14155,
+      "prix_comparaison": 14900,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
@@ -56,10 +77,17 @@
       "indice_prix": 105.24891774891775
     },
     {
-      "cle": "poubellesetsacspoubelle_1253910sacspoubelleliencoulissant100lapta_html",
-      "name": "10 Sacs poubelle lien coulissant 100L",
-      "prix_base": 8930,
-      "prix_comparaison": 9400,
+      "cle": "mouchoirsenpapier_13277boitedemouchoirs2plisx110feuilleslabell_html",
+      "name": "Bo\u00eete de mouchoirs 2 plis x 110 feuilles",
+      "prix_base": 7125,
+      "prix_comparaison": 7500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
+      "prix_base": 19855,
+      "prix_comparaison": 20900,
       "indice_prix": 105.26315789473684
     }
   ]
