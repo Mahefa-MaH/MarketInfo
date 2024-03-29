@@ -8,72 +8,79 @@
       "variation": 183000
     },
     {
-      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
-      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
-      "prix_base": 439000,
-      "prix_comparaison": 479000,
-      "variation": 40000
+      "cle": "ordinateursportables_14810pcportableasusvivobook15s1504156fhdintelcorei3n305ram8go512gossdwin11_html",
+      "name": "PC Portable ASUS VivoBook 15 S1504 | 15,6 FHD - Intel Core i3-N305 - RAM 8Go - 512Go SSD - Win 11",
+      "prix_base": 2255000,
+      "prix_comparaison": 2415000,
+      "variation": 160000
     },
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 625005,
-      "prix_comparaison": 657900,
-      "variation": 32895
+      "cle": "cuiseurvapeurcuiseurariz_14016badabullerobotculinaire4en1beasycuitvapeurmixerechauffeetdecongele_html",
+      "name": "BADABULLE Robot culinaire 4 en 1 B.Easy - Cuit vapeur, Mixe, R\u00e9chauffe et D\u00e9congele",
+      "prix_base": 520000,
+      "prix_comparaison": 646000,
+      "variation": 126000
     },
     {
-      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
-      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
-      "prix_base": 578550,
-      "prix_comparaison": 609000,
-      "variation": 30450
+      "cle": "robotmultifonctions_14022moulinexfp244110easyforcerobotmultifonctiontoutenunbol14l5accessoiresplusde20fonctionsdifferentescompact_html",
+      "name": "MOULINEX FP244110 Easy Force Robot multifonction tout en un, Bol 1,4 L, 5 accessoires, Plus de 20 fonctions diff\u00e9rentes, Compact",
+      "prix_base": 658000,
+      "prix_comparaison": 718000,
+      "variation": 60000
     },
     {
-      "cle": "promenadevoyage_14033babyonboardsacalangeraccessoiressimplyswirl_html",
-      "name": "BABY ON BOARD Sac a langer + accessoires Simply Swirl",
-      "prix_base": 267000,
-      "prix_comparaison": 294000,
-      "variation": 27000
+      "cle": "ordinateursportables_14623pcportablegamerasustufgaminga17173fhdrtx40608goamdryzen77735hsram16go512gossdwin11_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11",
+      "prix_base": 6981000,
+      "prix_comparaison": 7026000,
+      "variation": 45000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "televiseursetsupports_14838televiseur4kminiqledtcl55c803144hznatifgoogletvtcl_html",
-      "name": "T\u00e9l\u00e9viseur 4K MINI QLED TCL 55C803 - 144HZ NATIF GOOGLE TV TCL",
-      "prix_base": 5080000,
-      "prix_comparaison": 4976000,
-      "variation": -104000
+      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
+      "name": "iPhone 13 128Go Midnight",
+      "prix_base": 3194000,
+      "prix_comparaison": 2995000,
+      "variation": -199000
     },
     {
-      "cle": "barbecueplancha_14006barbecueelectriquesurpiedslivoodom297g_html",
-      "name": "Barbecue \u00e9lectrique sur pieds LIVOO - DOM297G",
-      "prix_base": 557000,
-      "prix_comparaison": 478000,
-      "variation": -79000
+      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 7626000,
+      "prix_comparaison": 7471000,
+      "variation": -155000
     },
     {
-      "cle": "consoles_14600consoleasusrogally7fhdtactileamdryzenz1extremeram16go512gossdwindows11_html",
-      "name": "Console ASUS ROG Ally | 7 FHD Tactile - AMD Ryzen Z1 Extreme - RAM 16Go - 512Go SSD - Windows 11",
-      "prix_base": 3833000,
-      "prix_comparaison": 3755000,
-      "variation": -78000
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5899000,
+      "prix_comparaison": 5779000,
+      "variation": -120000
     },
     {
-      "cle": "consoles_14669packconsolexboxseriesx1000godiabloiv_html",
-      "name": "Pack Console Xbox Series X - 1000 Go +  Diablo IV",
-      "prix_base": 3113000,
-      "prix_comparaison": 3050000,
-      "variation": -63000
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5336000,
+      "prix_comparaison": 5227000,
+      "variation": -109000
     },
     {
-      "cle": "consoles_14601consoleplaystation5editionstandardmodeleslim_html",
-      "name": "Console PlayStation 5 - Edition Standard (Modele Slim)",
-      "prix_base": 3061000,
-      "prix_comparaison": 2999000,
-      "variation": -62000
+      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 5188000,
+      "prix_comparaison": 5083000,
+      "variation": -105000
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "cuiseurvapeurcuiseurariz_14016badabullerobotculinaire4en1beasycuitvapeurmixerechauffeetdecongele_html",
+      "name": "BADABULLE Robot culinaire 4 en 1 B.Easy - Cuit vapeur, Mixe, R\u00e9chauffe et D\u00e9congele",
+      "prix_base": 520000,
+      "prix_comparaison": 646000,
+      "indice_prix": 124.23076923076923
+    },
     {
       "cle": "aspirateuraspirateurrobot_14216aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml_html",
       "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussi\u00e8re : 200 ml - Bac a eau : 230 ml",
@@ -82,32 +89,25 @@
       "indice_prix": 122.5925925925926
     },
     {
-      "cle": "sauceschaudessaucestomates_8298laitdecoco400ml_html",
-      "name": "Lait de coco 400ml",
-      "prix_base": 4900,
-      "prix_comparaison": 5400,
-      "indice_prix": 110.20408163265306
+      "cle": "sacshoussesetuipc_14830portdesignssacadospourpcportablesourissansfilusbatypec156noir_html",
+      "name": "PORT DESIGNS Sac a dos pour PC Portable + Souris Sans Fil USB A & Type C - 15,6 - Noir",
+      "prix_base": 161000,
+      "prix_comparaison": 190000,
+      "indice_prix": 118.01242236024845
     },
     {
-      "cle": "promenadevoyage_14033babyonboardsacalangeraccessoiressimplyswirl_html",
-      "name": "BABY ON BOARD Sac a langer + accessoires Simply Swirl",
-      "prix_base": 267000,
-      "prix_comparaison": 294000,
-      "indice_prix": 110.11235955056179
+      "cle": "potreducteurdewc_14041thermobabyreducteurdewckiddyloorosepoudre_html",
+      "name": "THERMOBABY Reducteur de wc kiddyloo - Rose poudr\u00e9",
+      "prix_base": 240000,
+      "prix_comparaison": 271000,
+      "indice_prix": 112.91666666666667
     },
     {
-      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
-      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
-      "prix_base": 439000,
-      "prix_comparaison": 479000,
-      "indice_prix": 109.1116173120729
-    },
-    {
-      "cle": "riz_14930rizjasminparfume5kg_html",
-      "name": "Riz jasmin parfum\u00e9 5kg",
-      "prix_base": 25000,
-      "prix_comparaison": 26500,
-      "indice_prix": 106.0
+      "cle": "biscuitssecssables_9067biscuitcomplet47g_html",
+      "name": "Biscuit complet 47g",
+      "prix_base": 900,
+      "prix_comparaison": 1000,
+      "indice_prix": 111.11111111111111
     }
   ],
   "indices_prix_plus_faibles": [
