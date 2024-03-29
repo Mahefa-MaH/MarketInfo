@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 13845000,
-      "prix_comparaison": 13845000,
+      "cle": "electricitedomotique_120268onduleurapceasyupssrv6000va230vavecbatterieexterne_html",
+      "name": "Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe",
+      "prix_base": 11000000,
+      "prix_comparaison": 11000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 11580000,
-      "prix_comparaison": 11580000,
+      "cle": "outillage_104003pilonneusesp80345x285mm_html",
+      "name": "Pilonneuse SP80-345x285 mm",
+      "prix_base": 15800000,
+      "prix_comparaison": 15800000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
-      "prix_base": 11387000,
-      "prix_comparaison": 11387000,
+      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
+      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
+      "prix_base": 13103000,
+      "prix_comparaison": 13103000,
       "variation": 0,
       "indice_prix": 100.0
     }

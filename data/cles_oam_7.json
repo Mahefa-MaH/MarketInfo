@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
+      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
+      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
-      "name": "Nettoyeur HP eau chaude 170 bars*",
-      "prix_base": 12650000,
-      "prix_comparaison": 12650000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ensemblesommiermatelas_52217dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x80x200cmmatelasressortsensaches5412618134469_html",
-      "name": "DEKO DREAM Ensemble matelas+sommier relaxation \u00e9lectrique ERGO 9 Dreamzone - 2x80x200 cm - Matelas ressorts ensach\u00e9s",
-      "prix_base": 12614000,
-      "prix_comparaison": 12614000,
+      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
+      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
+      "prix_base": 21000000,
+      "prix_comparaison": 21000000,
       "variation": 0,
       "indice_prix": 100.0
     }

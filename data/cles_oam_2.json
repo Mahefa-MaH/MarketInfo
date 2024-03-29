@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 10519000,
-      "prix_comparaison": 10519000,
+      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
+      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
+      "prix_base": 28000000,
+      "prix_comparaison": 28000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
-      "prix_base": 12961000,
-      "prix_comparaison": 12961000,
+      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
+      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
+      "prix_base": 13395000,
+      "prix_comparaison": 13395000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
-      "prix_base": 10578000,
-      "prix_comparaison": 10578000,
+      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
+      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
+      "prix_base": 21450000,
+      "prix_comparaison": 21450000,
       "variation": 0,
       "indice_prix": 100.0
     }

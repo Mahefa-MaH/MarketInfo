@@ -1,21 +1,56 @@
 {
   "prix_augmentes": [
     {
-      "cle": "accessoirespourlentretiendulinge_11689tablearepassertechnic130x44cmdomedia_html",
-      "name": "Table \u00e0 repasser Technic 130x44cm",
-      "prix_base": 399000,
-      "prix_comparaison": 420000,
-      "variation": 21000
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 625005,
+      "prix_comparaison": 657900,
+      "variation": 32895
     },
     {
-      "cle": "papiersetfilmsalimentaires_4318papieringraissable30x40brunpar10kgs1_html",
-      "name": "Papier Ingraissable Brun 30cmx40cm 10kg",
-      "prix_base": 379050,
-      "prix_comparaison": 399000,
-      "variation": 19950
+      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
+      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
+      "prix_base": 578550,
+      "prix_comparaison": 609000,
+      "variation": 30450
+    },
+    {
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 508250,
+      "prix_comparaison": 535000,
+      "variation": 26750
+    },
+    {
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 494000,
+      "prix_comparaison": 520000,
+      "variation": 26000
+    },
+    {
+      "cle": "ustensilesdecuisine_6943thermometredigital_html",
+      "name": "Thermom\u00e8tre digital",
+      "prix_base": 452105,
+      "prix_comparaison": 475900,
+      "variation": 23795
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "patesatartiner_1203pateatartinerauxnoisettesetaucacao750g_html",
+      "name": "P\u00e2te \u00e0 tartiner aux noisettes et au cacao 750 g",
+      "prix_base": 54900,
+      "prix_comparaison": 45000,
+      "variation": -9900
+    },
+    {
+      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
+      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
+      "prix_base": 11495,
+      "prix_comparaison": 6900,
+      "variation": -4595
+    },
     {
       "cle": "volailleetvolaillepanee_8834coquelet1kg_html",
       "name": "Coquelet 1kg",
@@ -24,20 +59,41 @@
       "variation": -3600
     },
     {
-      "cle": "lessiveenpoudreettablette_14294lessiveenpoudreconcentre800g_html",
-      "name": "Lessive en poudre concentr\u00e9 800g",
-      "prix_base": 6555,
-      "prix_comparaison": 4900,
-      "variation": -1655
+      "cle": "laitconcentre_933laitconcentresucresocolait1kg_html",
+      "name": "Lait concentr\u00e9 sucr\u00e9 1kg",
+      "prix_base": 13990,
+      "prix_comparaison": 11990,
+      "variation": -2000
+    },
+    {
+      "cle": "sauceschaudessaucestomates_4954saucehuitrepremium510g_html",
+      "name": "Sauce huitre Premium 510g",
+      "prix_base": 11000,
+      "prix_comparaison": 9500,
+      "variation": -1500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2422,
-      "prix_comparaison": 2550,
-      "indice_prix": 105.28488852188273
+      "cle": "sauceschaudessaucestomates_8298laitdecoco400ml_html",
+      "name": "Lait de coco 400ml",
+      "prix_base": 4900,
+      "prix_comparaison": 5400,
+      "indice_prix": 110.20408163265306
+    },
+    {
+      "cle": "riz_14930rizjasminparfume5kg_html",
+      "name": "Riz jasmin parfum\u00e9 5kg",
+      "prix_base": 25000,
+      "prix_comparaison": 26500,
+      "indice_prix": 106.0
+    },
+    {
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1852,
+      "prix_comparaison": 1950,
+      "indice_prix": 105.29157667386609
     },
     {
       "cle": "soinsbebe_2404talcbebepoudre75g_html",
@@ -45,9 +101,23 @@
       "prix_base": 2612,
       "prix_comparaison": 2750,
       "indice_prix": 105.2833078101072
+    },
+    {
+      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
+      "name": "2 Recharges porte mines 0,7mm - HB",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
+      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
+      "prix_base": 11495,
+      "prix_comparaison": 6900,
+      "indice_prix": 60.02609830361027
+    },
     {
       "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
       "name": "Savon de toilette cerise 75g",
@@ -61,6 +131,20 @@
       "prix_base": 1520,
       "prix_comparaison": 990,
       "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "patesatartiner_1203pateatartinerauxnoisettesetaucacao750g_html",
+      "name": "P\u00e2te \u00e0 tartiner aux noisettes et au cacao 750 g",
+      "prix_base": 54900,
+      "prix_comparaison": 45000,
+      "indice_prix": 81.9672131147541
     }
   ]
 }
