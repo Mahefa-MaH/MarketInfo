@@ -22,7 +22,7 @@
    - Prix actuel: 520,000 Ar
    - Variation: +26,000 Ar
 
-5. **Thermomètre digital**
+5. **Coupe-légumes**
    - Prix avant: 452,105 Ar
    - Prix actuel: 475,900 Ar
    - Variation: +23,795 Ar
@@ -49,10 +49,10 @@
    - Prix actuel: 11,990 Ar
    - Variation: -2,000 Ar
 
-5. **Sauce huitre Premium 510g**
-   - Prix avant: 11,000 Ar
-   - Prix actuel: 9,500 Ar
-   - Variation: -1,500 Ar
+5. **Lessive poudre concentré noix de coco 800g**
+   - Prix avant: 6,555 Ar
+   - Prix actuel: 4,900 Ar
+   - Variation: -1,655 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -71,12 +71,12 @@
    - Prix actuel: 1,950 Ar
    - Indice de prix : 105.29
 
-4. **Talc bébé poudre 75g**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
+4. **21 Etiquettes blanches 38x63mm**
+   - Prix avant: 2,422 Ar
+   - Prix actuel: 2,550 Ar
    - Indice de prix : 105.28
 
-5. **2 Recharges porte mines 0,7mm - HB**
+5. **Talc bébé poudre 75g**
    - Prix avant: 2,612 Ar
    - Prix actuel: 2,750 Ar
    - Indice de prix : 105.28
@@ -103,8 +103,8 @@
    - Prix actuel: 990 Ar
    - Indice de prix : 65.13
 
-5. **Pâte à tartiner aux noisettes et au cacao 750 g**
-   - Prix avant: 54,900 Ar
-   - Prix actuel: 45,000 Ar
-   - Indice de prix : 81.97
+5. **Lessive poudre concentré noix de coco 800g**
+   - Prix avant: 6,555 Ar
+   - Prix actuel: 4,900 Ar
+   - Indice de prix : 74.75
 

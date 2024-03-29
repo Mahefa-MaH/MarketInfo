@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 25,
-      "prix_base": 961860,
-      "name": "Robot Multifonction Double Force 1000 w - 3 L",
-      "prix_comparaison": 1003700,
-      "variation": 41840
+      "list_id": 159,
+      "prix_base": 407000,
+      "name": "croquette pour chien Giant Jr 15 kg",
+      "prix_comparaison": 444000,
+      "variation": 37000
     },
     {
-      "list_id": 23,
-      "prix_base": 642800,
-      "name": "Centrifugeuse  Juice Express 800 W",
-      "prix_comparaison": 670800,
-      "variation": 28000
+      "list_id": 155,
+      "prix_base": 460000,
+      "name": "croquette pour chien Giant Starter 15 kg",
+      "prix_comparaison": 480000,
+      "variation": 20000
     },
     {
-      "list_id": 30,
-      "prix_base": 568900,
-      "name": "Autocuiseur Secure 7 L",
-      "prix_comparaison": 593700,
-      "variation": 24800
+      "list_id": 152,
+      "prix_base": 425500,
+      "name": "Croquette pour chien Maxi Puppy 15 kg",
+      "prix_comparaison": 444000,
+      "variation": 18500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 12839,
-      "prix_base": 98700,
-      "name": "Chocolat Moulage Dinosaure 300 g",
-      "prix_comparaison": 86700,
-      "variation": -12000
+      "list_id": 153,
+      "prix_base": 126500,
+      "name": "Croquette pour chien Maxi Adult 4 kg",
+      "prix_comparaison": 132000,
+      "variation": 5500
     },
     {
-      "list_id": 12845,
-      "prix_base": 104500,
-      "name": "Chocolat au lait en forme de poule 200 g",
-      "prix_comparaison": 93500,
-      "variation": -11000
+      "list_id": 156,
+      "prix_base": 126500,
+      "name": "croquette pour chien Giant Puppy 3,5 kg",
+      "prix_comparaison": 132000,
+      "variation": 5500
     },
     {
-      "list_id": 6634,
-      "prix_base": 1500,
-      "name": "Brosse \u00e0 chaussure G16",
-      "prix_comparaison": 1600,
-      "variation": 100
+      "list_id": 158,
+      "prix_base": 121000,
+      "name": "croquette pour chien Giant Junior 3,5 kg",
+      "prix_comparaison": 132000,
+      "variation": 11000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 5016,
-      "name": "Pot \u00e0 crayon 206 en pastel  78 mm",
-      "prix_base": 4600,
-      "prix_comparaison": 9100,
-      "indice_prix": 197.82608695652175
+      "list_id": 159,
+      "name": "croquette pour chien Giant Jr 15 kg",
+      "prix_base": 407000,
+      "prix_comparaison": 444000,
+      "indice_prix": 109.0909090909091
     },
     {
-      "list_id": 6902,
-      "name": "D\u00e9sinfectant nettoyant sols et surfaces eucalyptus 1 L",
-      "prix_base": 13200,
-      "prix_comparaison": 14800,
-      "indice_prix": 112.12121212121212
+      "list_id": 158,
+      "name": "croquette pour chien Giant Junior 3,5 kg",
+      "prix_base": 121000,
+      "prix_comparaison": 132000,
+      "indice_prix": 109.0909090909091
     },
     {
-      "list_id": 7367,
-      "name": "P\u00e2te \u00e0 modeler 12 couleurs couvercle ourson 140 g",
-      "prix_base": 8000,
-      "prix_comparaison": 8760,
-      "indice_prix": 109.5
+      "list_id": 168,
+      "name": "Croquette pour chien Dalmatien 12 Kg",
+      "prix_base": 345000,
+      "prix_comparaison": 360000,
+      "indice_prix": 104.34782608695652
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 12839,
-      "name": "Chocolat Moulage Dinosaure 300 g",
-      "prix_base": 98700,
-      "prix_comparaison": 86700,
-      "indice_prix": 87.8419452887538
+      "list_id": 153,
+      "name": "Croquette pour chien Maxi Adult 4 kg",
+      "prix_base": 126500,
+      "prix_comparaison": 132000,
+      "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 12845,
-      "name": "Chocolat au lait en forme de poule 200 g",
-      "prix_base": 104500,
-      "prix_comparaison": 93500,
-      "indice_prix": 89.47368421052632
+      "list_id": 154,
+      "name": "Croquette pour chien Maxi Adult 15 Kg",
+      "prix_base": 379500,
+      "prix_comparaison": 396000,
+      "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 5015,
-      "name": "Pot \u00e0 crayon 78 mm Noir",
-      "prix_base": 5300,
-      "prix_comparaison": 5400,
-      "indice_prix": 101.88679245283019
+      "list_id": 157,
+      "name": "croquette pour chien Giant Puppy 15 kg",
+      "prix_base": 425500,
+      "prix_comparaison": 444000,
+      "indice_prix": 104.34782608695652
     }
   ]
 }

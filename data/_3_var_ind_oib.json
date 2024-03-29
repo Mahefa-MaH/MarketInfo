@@ -29,8 +29,8 @@
       "variation": 26000
     },
     {
-      "cle": "ustensilesdecuisine_6943thermometredigital_html",
-      "name": "Thermom\u00e8tre digital",
+      "cle": "accessoiresdecoupe_7014coupelegumes_html",
+      "name": "Coupe-l\u00e9gumes",
       "prix_base": 452105,
       "prix_comparaison": 475900,
       "variation": 23795
@@ -66,11 +66,11 @@
       "variation": -2000
     },
     {
-      "cle": "sauceschaudessaucestomates_4954saucehuitrepremium510g_html",
-      "name": "Sauce huitre Premium 510g",
-      "prix_base": 11000,
-      "prix_comparaison": 9500,
-      "variation": -1500
+      "cle": "lessiveenpoudreettablette_14293lessivepoudreconcentrenoixdecoco800g_html",
+      "name": "Lessive poudre concentr\u00e9 noix de coco 800g",
+      "prix_base": 6555,
+      "prix_comparaison": 4900,
+      "variation": -1655
     }
   ],
   "indices_prix_plus_eleves": [
@@ -96,15 +96,15 @@
       "indice_prix": 105.29157667386609
     },
     {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2422,
+      "prix_comparaison": 2550,
+      "indice_prix": 105.28488852188273
     },
     {
-      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
-      "name": "2 Recharges porte mines 0,7mm - HB",
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
       "prix_base": 2612,
       "prix_comparaison": 2750,
       "indice_prix": 105.2833078101072
@@ -140,11 +140,11 @@
       "indice_prix": 65.13157894736842
     },
     {
-      "cle": "patesatartiner_1203pateatartinerauxnoisettesetaucacao750g_html",
-      "name": "P\u00e2te \u00e0 tartiner aux noisettes et au cacao 750 g",
-      "prix_base": 54900,
-      "prix_comparaison": 45000,
-      "indice_prix": 81.9672131147541
+      "cle": "lessiveenpoudreettablette_14293lessivepoudreconcentrenoixdecoco800g_html",
+      "name": "Lessive poudre concentr\u00e9 noix de coco 800g",
+      "prix_base": 6555,
+      "prix_comparaison": 4900,
+      "indice_prix": 74.75209763539283
     }
   ]
 }

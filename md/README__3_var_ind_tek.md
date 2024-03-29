@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Robot Multifonction Double Force 1000 w - 3 L**
-   - Prix avant: 961,860 Ar
-   - Prix actuel: 1,003,700 Ar
-   - Variation: +41,840 Ar
+1. **croquette pour chien Giant Jr 15 kg**
+   - Prix avant: 407,000 Ar
+   - Prix actuel: 444,000 Ar
+   - Variation: +37,000 Ar
 
-2. **Centrifugeuse  Juice Express 800 W**
-   - Prix avant: 642,800 Ar
-   - Prix actuel: 670,800 Ar
-   - Variation: +28,000 Ar
+2. **croquette pour chien Giant Starter 15 kg**
+   - Prix avant: 460,000 Ar
+   - Prix actuel: 480,000 Ar
+   - Variation: +20,000 Ar
 
-3. **Autocuiseur Secure 7 L**
-   - Prix avant: 568,900 Ar
-   - Prix actuel: 593,700 Ar
-   - Variation: +24,800 Ar
+3. **Croquette pour chien Maxi Puppy 15 kg**
+   - Prix avant: 425,500 Ar
+   - Prix actuel: 444,000 Ar
+   - Variation: +18,500 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Chocolat Moulage Dinosaure 300 g**
-   - Prix avant: 98,700 Ar
-   - Prix actuel: 86,700 Ar
-   - Variation: -12,000 Ar
+1. **Croquette pour chien Maxi Adult 4 kg**
+   - Prix avant: 126,500 Ar
+   - Prix actuel: 132,000 Ar
+   - Variation: +5,500 Ar
 
-2. **Chocolat au lait en forme de poule 200 g**
-   - Prix avant: 104,500 Ar
-   - Prix actuel: 93,500 Ar
-   - Variation: -11,000 Ar
+2. **croquette pour chien Giant Puppy 3,5 kg**
+   - Prix avant: 126,500 Ar
+   - Prix actuel: 132,000 Ar
+   - Variation: +5,500 Ar
 
-3. **Brosse à chaussure G16**
-   - Prix avant: 1,500 Ar
-   - Prix actuel: 1,600 Ar
-   - Variation: +100 Ar
+3. **croquette pour chien Giant Junior 3,5 kg**
+   - Prix avant: 121,000 Ar
+   - Prix actuel: 132,000 Ar
+   - Variation: +11,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Pot à crayon 206 en pastel  78 mm**
-   - Prix avant: 4,600 Ar
-   - Prix actuel: 9,100 Ar
-   - Indice de prix : 197.83
+1. **croquette pour chien Giant Jr 15 kg**
+   - Prix avant: 407,000 Ar
+   - Prix actuel: 444,000 Ar
+   - Indice de prix : 109.09
 
-2. **Désinfectant nettoyant sols et surfaces eucalyptus 1 L**
-   - Prix avant: 13,200 Ar
-   - Prix actuel: 14,800 Ar
-   - Indice de prix : 112.12
+2. **croquette pour chien Giant Junior 3,5 kg**
+   - Prix avant: 121,000 Ar
+   - Prix actuel: 132,000 Ar
+   - Indice de prix : 109.09
 
-3. **Pâte à modeler 12 couleurs couvercle ourson 140 g**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 8,760 Ar
-   - Indice de prix : 109.50
+3. **Croquette pour chien Dalmatien 12 Kg**
+   - Prix avant: 345,000 Ar
+   - Prix actuel: 360,000 Ar
+   - Indice de prix : 104.35
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Chocolat Moulage Dinosaure 300 g**
-   - Prix avant: 98,700 Ar
-   - Prix actuel: 86,700 Ar
-   - Indice de prix : 87.84
+1. **Croquette pour chien Maxi Adult 4 kg**
+   - Prix avant: 126,500 Ar
+   - Prix actuel: 132,000 Ar
+   - Indice de prix : 104.35
 
-2. **Chocolat au lait en forme de poule 200 g**
-   - Prix avant: 104,500 Ar
-   - Prix actuel: 93,500 Ar
-   - Indice de prix : 89.47
+2. **Croquette pour chien Maxi Adult 15 Kg**
+   - Prix avant: 379,500 Ar
+   - Prix actuel: 396,000 Ar
+   - Indice de prix : 104.35
 
-3. **Pot à crayon 78 mm Noir**
-   - Prix avant: 5,300 Ar
-   - Prix actuel: 5,400 Ar
-   - Indice de prix : 101.89
+3. **croquette pour chien Giant Puppy 15 kg**
+   - Prix avant: 425,500 Ar
+   - Prix actuel: 444,000 Ar
+   - Indice de prix : 104.35
 
