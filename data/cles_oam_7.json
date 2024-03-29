@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "outillage_100755coffretaoutils416200mz_html",
+      "name": "Coffret \u00e0 outils 416-200MZ",
+      "prix_base": 13200000,
+      "prix_comparaison": 13200000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
       "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
       "prix_base": 11900000,

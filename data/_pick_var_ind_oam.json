@@ -1,202 +1,1700 @@
 {
   "Variation de prix": [
     {
-      "cle": "ecranordinateur_96178ecranpcsamsungs24c310eau24fhddalleips5ms75hzhdmivga8806094769197_html",
-      "name": "Ecran PC - SAMSUNG - S24C310EAU - 24 FHD - Dalle IPS - 5 ms - 75 Hz - HDMI / VGA",
-      "prix_base": 884000,
-      "prix_comparaison": 798000,
+      "cle": "tablettetactile_63243appleipad2022109wifi64gorose0194253388272_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Rose",
+      "prix_base": 3148000,
+      "prix_comparaison": 2377000,
+      "variation": -771000
+    },
+    {
+      "cle": "tablettetactile_63241appleipad2022109wifi64gobleu0194253387732_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Bleu",
+      "prix_base": 3208000,
+      "prix_comparaison": 2825000,
+      "variation": -383000
+    },
+    {
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13845000,
+      "prix_comparaison": 13562000,
+      "variation": -283000
+    },
+    {
+      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
+      "prix_base": 12961000,
+      "prix_comparaison": 12697000,
+      "variation": -264000
+    },
+    {
+      "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 11580000,
+      "prix_comparaison": 11343000,
+      "variation": -237000
+    },
+    {
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11010000,
+      "prix_comparaison": 10786000,
+      "variation": -224000
+    },
+    {
+      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
+      "prix_base": 10578000,
+      "prix_comparaison": 10362000,
+      "variation": -216000
+    },
+    {
+      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 10519000,
+      "prix_comparaison": 10304000,
+      "variation": -215000
+    },
+    {
+      "cle": "tablettetactile_63218appleipadpro202211wificellular1toargent0194253278542_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 1 To - Argent",
+      "prix_base": 9628000,
+      "prix_comparaison": 9431000,
+      "variation": -197000
+    },
+    {
+      "cle": "tablettetactile_63228appleipadpro2022129wificellular512gogrissideral0194253254317_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 512 Go - Gris Sid\u00e9ral",
+      "prix_base": 9421000,
+      "prix_comparaison": 9228000,
+      "variation": -193000
+    },
+    {
+      "cle": "tablettetactile_63229appleipadpro2022129wificellular512goargent0194253254607_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 512 Go - Argent",
+      "prix_base": 9350000,
+      "prix_comparaison": 9159000,
+      "variation": -191000
+    },
+    {
+      "cle": "tablettetactile_63201appleipadpro202211wifi1togrissideral0194253266242_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 8884000,
+      "prix_comparaison": 8703000,
+      "variation": -181000
+    },
+    {
+      "cle": "tablettetactile_63202appleipadpro202211wifi1toargent0194253266518_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 1 To - Argent",
+      "prix_base": 8737000,
+      "prix_comparaison": 8559000,
+      "variation": -178000
+    },
+    {
+      "cle": "tablettetactile_63208appleipadpro2022129wifi512gogrissideral0194253242499_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 512 Go - Gris Sid\u00e9ral",
+      "prix_base": 8431000,
+      "prix_comparaison": 8259000,
+      "variation": -172000
+    },
+    {
+      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
+      "prix_base": 11387000,
+      "prix_comparaison": 11216000,
+      "variation": -171000
+    },
+    {
+      "cle": "tablettetactile_30385appleipadair2022109wificellulaire64gogrissidu00e9ral0194252806227_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 4972000,
+      "prix_comparaison": 4805000,
+      "variation": -167000
+    },
+    {
+      "cle": "tablettetactile_63226appleipadpro2022129wificellular256gogrissideral0194253253730_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 8204000,
+      "prix_comparaison": 8037000,
+      "variation": -167000
+    },
+    {
+      "cle": "tablettetactile_63227appleipadpro2022129wificellular256goargent0194253254027_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 256 Go - Argent",
+      "prix_base": 8204000,
+      "prix_comparaison": 8037000,
+      "variation": -167000
+    },
+    {
+      "cle": "tablettetactile_63224appleipadpro2022129wificellular128gogrissideral0194253253150_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 128 Go - Gris Sid\u00e9ral",
+      "prix_base": 7616000,
+      "prix_comparaison": 7460000,
+      "variation": -156000
+    },
+    {
+      "cle": "tablettetactile_63217appleipadpro202211wificellular512goargent0194253278023_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 512 Go - Argent",
+      "prix_base": 7592000,
+      "prix_comparaison": 7437000,
+      "variation": -155000
+    },
+    {
+      "cle": "tablettetactile_63216appleipadpro202211wificellular512gogrissideral0194253277767_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 512 Go - Gris Sid\u00e9ral",
+      "prix_base": 7525000,
+      "prix_comparaison": 7371000,
+      "variation": -154000
+    },
+    {
+      "cle": "tablettetactile_63207appleipadpro2022129wifi256goargent0194253242222_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 256 Go - Argent",
+      "prix_base": 7364000,
+      "prix_comparaison": 7213000,
+      "variation": -151000
+    },
+    {
+      "cle": "tablettetactile_30390appleipadair2022109wificellulaire256golumierestellaire0194252809525_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 256 Go - Lumiere stellaire",
+      "prix_base": 5836000,
+      "prix_comparaison": 5686000,
+      "variation": -150000
+    },
+    {
+      "cle": "tablettetactile_63204appleipadpro2022129wifi128gogrissideral0194253241416_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 128 Go - Gris Sid\u00e9ral",
+      "prix_base": 7173000,
+      "prix_comparaison": 7026000,
+      "variation": -147000
+    },
+    {
+      "cle": "tablettetactile_63205appleipadpro2022129wifi128goargent0194253241683_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 128 Go - Argent",
+      "prix_base": 7173000,
+      "prix_comparaison": 7026000,
+      "variation": -147000
+    },
+    {
+      "cle": "tablettetactile_127095tablettetactilesamsunggalaxytabs9ultra146ram12go256goanthracite5gspeninclus8806095089898_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9 Ultra - 14,6 - RAM 12Go - 256 Go - Anthracite - 5G - S Pen inclus",
+      "prix_base": 7206000,
+      "prix_comparaison": 7059000,
+      "variation": -147000
+    },
+    {
+      "cle": "tablettetactile_63206appleipadpro2022129wifi256gogrissideral0194253241959_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 7178000,
+      "prix_comparaison": 7032000,
+      "variation": -146000
+    },
+    {
+      "cle": "tablettetactile_63215appleipadpro202211wificellular256goargent0194253277507_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 256 Go - Argent",
+      "prix_base": 6989000,
+      "prix_comparaison": 6847000,
+      "variation": -142000
+    },
+    {
+      "cle": "tablettetactile_128724tablettetactilesamsunggalaxytabs9ultra146ram12go512goanthracitespeninclus8806095079547_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9 Ultra - 14,6 - RAM 12Go - 512 Go - Anthracite - S Pen inclus",
+      "prix_base": 6838000,
+      "prix_comparaison": 6698000,
+      "variation": -140000
+    },
+    {
+      "cle": "tablettetactile_90218appleipadmini202183wifi64golumierestellaire0194252527986_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 64 Go - Lumiere Stellaire",
+      "prix_base": 3580000,
+      "prix_comparaison": 3450000,
+      "variation": -130000
+    },
+    {
+      "cle": "tablettetactile_82115appleipadpro202211wificellular128goargent0194253276982_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 128 Go - Argent",
+      "prix_base": 6205000,
+      "prix_comparaison": 6078000,
+      "variation": -127000
+    },
+    {
+      "cle": "tablettetactile_63213appleipadpro202211wificellular128gogrissideral0194253276722_html",
+      "name": "Apple iPad Pro (2022) - 11 - WiFi + Cellular - 128 Go - Gris Sid\u00e9ral",
+      "prix_base": 6200000,
+      "prix_comparaison": 6073000,
+      "variation": -127000
+    },
+    {
+      "cle": "tablettetactile_127707tablettetactilesamsunggalaxytabs9ultra146ram12go256goanthracitespeninclus8806095079554_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 Ultra 14,6 WIFI 256Go Anthracite",
+      "prix_base": 6182000,
+      "prix_comparaison": 6055000,
+      "variation": -127000
+    },
+    {
+      "cle": "tablettetactile_128725tablettetactilesamsunggalaxytabs9ultra146ram12go256gocremespeninclus8806095079769_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9 Ultra - 14,6 - RAM 12Go - 256 Go - Creme - S Pen inclus",
+      "prix_base": 6180000,
+      "prix_comparaison": 6054000,
+      "variation": -126000
+    },
+    {
+      "cle": "tablettetactile_127094tablettetactilesamsunggalaxytabs9124ram12go256goanthracite5gspeninclus8806095082806_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9+ 12,4 5G 256Go Anthracite",
+      "prix_base": 6086000,
+      "prix_comparaison": 5962000,
+      "variation": -124000
+    },
+    {
+      "cle": "tablettetactile_30389appleipadair2022109wificellulaire256gobleu0194252809228_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 256 Go - Bleu",
+      "prix_base": 5953000,
+      "prix_comparaison": 5832000,
+      "variation": -121000
+    },
+    {
+      "cle": "tablettetactile_82114appleipadpro202211wifi256gogrissideral0194253265160_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 5866000,
+      "prix_comparaison": 5746000,
+      "variation": -120000
+    },
+    {
+      "cle": "tablettetactile_84543appleipadair2022109wificellulaire256gomauve0194252835401_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 256 Go - Mauve",
+      "prix_base": 5804000,
+      "prix_comparaison": 5686000,
+      "variation": -118000
+    },
+    {
+      "cle": "tablettetactile_30388appleipadair2022109wificellulaire256gogrissidu00e9ral0194252808627_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 5688000,
+      "prix_comparaison": 5572000,
+      "variation": -116000
+    },
+    {
+      "cle": "tablettetactile_129817tablettetactilesamsunggalaxytabs9124ram12go512goanthracitespeninclus8806095082998_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9+ - 12,4 - RAM 12Go - 512 Go - Anthracite - S Pen inclus",
+      "prix_base": 5398000,
+      "prix_comparaison": 5288000,
+      "variation": -110000
+    },
+    {
+      "cle": "tablettetactile_63196appleipadpro202211wifi128gogrissideral0194253264620_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 128 Go - Gris Sid\u00e9ral",
+      "prix_base": 5370000,
+      "prix_comparaison": 5261000,
+      "variation": -109000
+    },
+    {
+      "cle": "tablettetactile_124993appleipadmini202183wificellulaire256golumierestellaire0194252509654_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 256 Go - Lumiere Stellaire",
+      "prix_base": 5274000,
+      "prix_comparaison": 5166000,
+      "variation": -108000
+    },
+    {
+      "cle": "tablettetactile_95785appleipadmini202183wificellulaire256gomauve0194252510230_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 256 Go - Mauve",
+      "prix_base": 5274000,
+      "prix_comparaison": 5166000,
+      "variation": -108000
+    },
+    {
+      "cle": "tablettetactile_128723tablettetactilesamsunggalaxytabs9124ram12go256gocremespeninclus8806095069715_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9+ 12,4 WIFI 256Go Creme",
+      "prix_base": 5286000,
+      "prix_comparaison": 5178000,
+      "variation": -108000
+    },
+    {
+      "cle": "tablettetactile_127093tablettetactilesamsunggalaxytabs9124ram12go256goanthracitespeninclus8806095083087_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9+ - 12,4 - RAM 12Go - 256 Go - Anthracite - S Pen inclus",
+      "prix_base": 5286000,
+      "prix_comparaison": 5178000,
+      "variation": -108000
+    },
+    {
+      "cle": "tablettetactile_63240appleipad2022109wifi64goargent0194253387466_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Argent",
+      "prix_base": 2471000,
+      "prix_comparaison": 2365000,
+      "variation": -106000
+    },
+    {
+      "cle": "tablettetactile_30355appleipadmini202183wifi64gogrissidu00e9ral0194252527443_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 3612000,
+      "prix_comparaison": 3507000,
+      "variation": -105000
+    },
+    {
+      "cle": "tablettetactile_127092tablettetactilesamsunggalaxytabs911ram8go128goanthracite5gspeninclus8806095071466_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 11 5G 128Go Anthracite",
+      "prix_base": 5109000,
+      "prix_comparaison": 5005000,
+      "variation": -104000
+    },
+    {
+      "cle": "tablettetactile_63251appleipad2022109wificellular256gobleu0194253363675_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 256 Go - Bleu",
+      "prix_base": 4973000,
+      "prix_comparaison": 4871000,
+      "variation": -102000
+    },
+    {
+      "cle": "tablettetactile_86629appleipadair2022109wifi256gorose0194252797044_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Rose",
+      "prix_base": 4960000,
+      "prix_comparaison": 4858000,
+      "variation": -102000
+    },
+    {
+      "cle": "tablettetactile_30397appleipadair2022109wifi256golumierestellaire0194252797587_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Lumiere stellaire",
+      "prix_base": 4960000,
+      "prix_comparaison": 4858000,
+      "variation": -102000
+    },
+    {
+      "cle": "tablettetactile_63250appleipad2022109wificellular256goargent0194253363385_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 256 Go - Argent",
+      "prix_base": 4973000,
+      "prix_comparaison": 4871000,
+      "variation": -102000
+    },
+    {
+      "cle": "tablettetactile_82113appleipadair2022109wificellulaire64gomauve0194252834824_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 64 Go - Mauve",
+      "prix_base": 4928000,
+      "prix_comparaison": 4827000,
+      "variation": -101000
+    },
+    {
+      "cle": "tablettetactile_30394appleipadair2022109wifi256gogrissidu00e9ral0194252796771_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 4929000,
+      "prix_comparaison": 4829000,
+      "variation": -100000
+    },
+    {
+      "cle": "tablettetactile_30387appleipadair2022109wificellulaire64golumierestellaire0194252807125_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 64 Go - Lumiere stellaire",
+      "prix_base": 4848000,
+      "prix_comparaison": 4749000,
+      "variation": -99000
+    },
+    {
+      "cle": "tablettetactile_128721tablettetactilesamsunggalaxytabs911ram12go256goanthracitespeninclus8806095084046_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 11 WIFI 256Go Anthracite",
+      "prix_base": 4835000,
+      "prix_comparaison": 4736000,
+      "variation": -99000
+    },
+    {
+      "cle": "tablettetactile_30399appleipadair2022109wifi256gomauve0194252820117_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Mauve",
+      "prix_base": 4836000,
+      "prix_comparaison": 4737000,
+      "variation": -99000
+    },
+    {
+      "cle": "tablettetactile_63252appleipad2022109wificellular256gojaune0194253363965_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 256 Go - Jaune",
+      "prix_base": 4849000,
+      "prix_comparaison": 4750000,
+      "variation": -99000
+    },
+    {
+      "cle": "tablettetactile_95782appleipadmini202183wificellulaire64gogrissideral0194252507629_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 4648000,
+      "prix_comparaison": 4553000,
+      "variation": -95000
+    },
+    {
+      "cle": "tablettetactile_84542appleipadair2022109wifi256gobleu0194252797310_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Bleu",
+      "prix_base": 4602000,
+      "prix_comparaison": 4508000,
+      "variation": -94000
+    },
+    {
+      "cle": "tablettetactile_134048tablettetactilesamsunggalaxytabs9fe1245g256goanthracite8806095165301_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 5G 256Go Anthracite",
+      "prix_base": 4563000,
+      "prix_comparaison": 4470000,
+      "variation": -93000
+    },
+    {
+      "cle": "tablettetactile_127091tablettetactilesamsunggalaxytabs911ram8go128goanthracitespeninclus8806095084138_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 11 WIFI 128Go Anthracite",
+      "prix_base": 4491000,
+      "prix_comparaison": 4399000,
+      "variation": -92000
+    },
+    {
+      "cle": "tablettetactile_63253appleipad2022109wificellular256gorose0194253364252_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 256 Go - Rose",
+      "prix_base": 4482000,
+      "prix_comparaison": 4390000,
+      "variation": -92000
+    },
+    {
+      "cle": "tablettetactile_128722tablettetactilesamsunggalaxytabs911ram8go128gocremespeninclus8806095071688_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 11 WIFI 128Go Creme",
+      "prix_base": 4514000,
+      "prix_comparaison": 4424000,
+      "variation": -90000
+    },
+    {
+      "cle": "tablettetactile_95781appleipadmini202183wifi256golumierestellaire0194252529331_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 256 Go - Lumiere Stellaire",
+      "prix_base": 4326000,
+      "prix_comparaison": 4238000,
+      "variation": -88000
+    },
+    {
+      "cle": "tablettetactile_30391appleipadair2022109wifi64gogrissidu00e9ral0194252794616_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 4312000,
+      "prix_comparaison": 4224000,
+      "variation": -88000
+    },
+    {
+      "cle": "tablettetactile_82187appleipad2022109wifi256gojaune0194253390169_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 256 Go - Jaune",
+      "prix_base": 4313000,
+      "prix_comparaison": 4225000,
+      "variation": -88000
+    },
+    {
+      "cle": "tablettetactile_99747appleipadmini202183wificellulaire64gomauve0194252508787_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 64 Go - Mauve",
+      "prix_base": 4287000,
+      "prix_comparaison": 4200000,
+      "variation": -87000
+    },
+    {
+      "cle": "tablettetactile_63245appleipad2022109wifi256gobleu0194253389897_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 256 Go - Bleu",
+      "prix_base": 4204000,
+      "prix_comparaison": 4118000,
       "variation": -86000
     },
     {
-      "cle": "ecranordinateur_93068ecranpcgamersamsungodysseyg300ls24ag304nrxen24fhddalleva1ms144hzfreesyncpremium8806094672220_html",
-      "name": "Ecran PC Gamer - SAMSUNG ODYSSEY G300 - LS24AG304NRXEN - 24 FHD - Dalle VA - 1ms - 144Hz - HDMI / DP - FreeSync Premium",
-      "prix_base": 1208000,
-      "prix_comparaison": 1135000,
+      "cle": "tablettetactile_63246appleipad2022109wificellular64goargent0194253361060_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 64 Go - Argent",
+      "prix_base": 4203000,
+      "prix_comparaison": 4117000,
+      "variation": -86000
+    },
+    {
+      "cle": "tablettetactile_30392appleipadair2022109wifi64gobleu0194252795156_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Bleu",
+      "prix_base": 4205000,
+      "prix_comparaison": 4119000,
+      "variation": -86000
+    },
+    {
+      "cle": "tablettetactile_89098appleipad2022109wificellular64gojaune0194253361640_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 64 Go - Jaune",
+      "prix_base": 4203000,
+      "prix_comparaison": 4117000,
+      "variation": -86000
+    },
+    {
+      "cle": "tablettetactile_82112appleipadair2022109wifi64golumierestellaire0194252795422_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Lumiere stellaire",
+      "prix_base": 4205000,
+      "prix_comparaison": 4119000,
+      "variation": -86000
+    },
+    {
+      "cle": "tablettetactile_30353appleipad2021102wificellulaire256goargent0194252522349_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi + Cellulaire - 256 Go - Argent",
+      "prix_base": 4192000,
+      "prix_comparaison": 4106000,
+      "variation": -86000
+    },
+    {
+      "cle": "tablettetactile_63244appleipad2022109wifi256goargent0194253389620_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 256 Go - Argent",
+      "prix_base": 4204000,
+      "prix_comparaison": 4118000,
+      "variation": -86000
+    },
+    {
+      "cle": "tablettetactile_30352appleipad2021102wificellulaire256gogrissidu00e9ral0194252522073_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi + Cellulaire - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 4192000,
+      "prix_comparaison": 4106000,
+      "variation": -86000
+    },
+    {
+      "cle": "tablettetactile_55110appleipadair2022109wifi64gorose0194252794883_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Rose",
+      "prix_base": 4119000,
+      "prix_comparaison": 4035000,
+      "variation": -84000
+    },
+    {
+      "cle": "tablettetactile_55111appleipadair2022109wifi64gomauve0194252819579_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Mauve",
+      "prix_base": 3917000,
+      "prix_comparaison": 3837000,
+      "variation": -80000
+    },
+    {
+      "cle": "tablettetactile_135652tablettetactilesamsunggalaxytabs9fe124wifi128gorose8806095165127_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 WIFI 128Go Rose",
+      "prix_base": 3587000,
+      "prix_comparaison": 3513000,
+      "variation": -74000
+    },
+    {
+      "cle": "tablettetactile_134047tablettetactilesamsunggalaxytabs9fe1095g256goanthracite8806095163284_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 5G 256Go Anthracite",
+      "prix_base": 3580000,
+      "prix_comparaison": 3507000,
       "variation": -73000
     },
     {
-      "cle": "ecranordinateur_100002ecranpcincurvesamsungls32c390eauxen32fhddalleva4ms75hzamdfreesync8806094713657_html",
-      "name": "Ecran PC Incurv\u00e9 - SAMSUNG LS32C390EAUXEN - 32 FHD - Dalle VA - 4 ms - 75Hz - AMD Freesync",
-      "prix_base": 1614000,
-      "prix_comparaison": 1563000,
-      "variation": -51000
+      "cle": "tablettetactile_135653tablettetactilesamsunggalaxytabs9fe124wifi128goanthracite8806095165066_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 WIFI 128Go Anthracite",
+      "prix_base": 3586000,
+      "prix_comparaison": 3513000,
+      "variation": -73000
     },
     {
-      "cle": "ecranordinateur_100026ecranpcgamerincurvesamsungodysseyg5g55tc34g55twwp34uwqhddalleva1ms165hzhdmidisplayportu8806094796315_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY G5 - G55T C34G55TWWP - 34'' UWQHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort / U",
-      "prix_base": 2166000,
-      "prix_comparaison": 2121000,
+      "cle": "tablettetactile_63249appleipad2022109wificellular64gorose0194253361930_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 64 Go - Rose",
+      "prix_base": 3595000,
+      "prix_comparaison": 3522000,
+      "variation": -73000
+    },
+    {
+      "cle": "tablettetactile_63247appleipad2022109wificellular64gobleu0194253361350_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 64 Go - Bleu",
+      "prix_base": 3535000,
+      "prix_comparaison": 3463000,
+      "variation": -72000
+    },
+    {
+      "cle": "tablettetactile_82188appleipad2022109wifi256gorose0194253390435_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 256 Go - Rose",
+      "prix_base": 3476000,
+      "prix_comparaison": 3405000,
+      "variation": -71000
+    },
+    {
+      "cle": "tablettetactile_129814tablettetactilesamsunggalaxytabs9fe124ram12go256goanthracitespeninclus8806095165035_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 WIFI 256Go Anthracite",
+      "prix_base": 3458000,
+      "prix_comparaison": 3388000,
+      "variation": -70000
+    },
+    {
+      "cle": "tablettetactile_129816tablettetactilesamsunggalaxytabs9fe124ram8go128goanthracite5gspeninclus8806095164779_html",
+      "name": "Tablette Tactile - Samsung - Galaxy Tab S9 FE + - 12,4 - RAM 8Go - 128 Go - Anthracite - 5G - S Pen inclus",
+      "prix_base": 3458000,
+      "prix_comparaison": 3388000,
+      "variation": -70000
+    },
+    {
+      "cle": "tablettetactile_136865tablettetactilesamsunggalaxytabs9fe124wifi128govert8806095165189_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 WIFI 128Go Vert",
+      "prix_base": 3309000,
+      "prix_comparaison": 3241000,
+      "variation": -68000
+    },
+    {
+      "cle": "tablettetactile_95783appleipadmini202183wificellulaire64golumierestellaire0194252508206_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 64 Go - Lumiere Stellaire",
+      "prix_base": 4570000,
+      "prix_comparaison": 4503000,
+      "variation": -67000
+    },
+    {
+      "cle": "tablettetactile_30348appleipad2021102wifi256gogrissidu00e9ral0194252516485_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3256000,
+      "prix_comparaison": 3189000,
+      "variation": -67000
+    },
+    {
+      "cle": "tablettetactile_30349appleipad2021102wifi256goargent0194252516751_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Argent",
+      "prix_base": 3291000,
+      "prix_comparaison": 3224000,
+      "variation": -67000
+    },
+    {
+      "cle": "tablettetactile_30351appleipad2021102wificellulaire64goargent0194252521533_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi + Cellulaire - 64 Go - Argent",
+      "prix_base": 3123000,
+      "prix_comparaison": 3059000,
+      "variation": -64000
+    },
+    {
+      "cle": "tablettetactile_86621appleipad2021102wificellulaire64gogrissideral0194252521267_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi + Cellulaire - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 3073000,
+      "prix_comparaison": 3010000,
+      "variation": -63000
+    },
+    {
+      "cle": "tablettetactile_129813tablettetactilesamsunggalaxytabs9fe109ram8go256goanthracitespeninclus8806095163574_html",
+      "name": "Tablette Tactile - Samsung - Galaxy Tab S9 FE - 10,9 - RAM 8Go - 256 Go - Anthracite - S Pen inclus",
+      "prix_base": 3091000,
+      "prix_comparaison": 3028000,
+      "variation": -63000
+    },
+    {
+      "cle": "tablettetactile_129815tablettetactilesamsunggalaxytabs9fe124ram8go128goargentspeninclus8806095165004_html",
+      "name": "Tablette Tactile - Samsung - Galaxy Tab S9 FE + - 12,4 - RAM 8Go - 128 Go - Argent - S Pen inclus",
+      "prix_base": 3044000,
+      "prix_comparaison": 2982000,
+      "variation": -62000
+    },
+    {
+      "cle": "tablettetactile_92652appleipadmini202183wifi256gomauve0194252529874_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 256 Go - Mauve",
+      "prix_base": 4556000,
+      "prix_comparaison": 4495000,
+      "variation": -61000
+    },
+    {
+      "cle": "tablettetactile_95784appleipadmini202183wificellulaire256gogrissideral0194252509074_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 5141000,
+      "prix_comparaison": 5082000,
+      "variation": -59000
+    },
+    {
+      "cle": "tablettetactile_91186appleipadmini202183wifi64gorose0194252722435_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 64 Go - Rose",
+      "prix_base": 3521000,
+      "prix_comparaison": 3464000,
+      "variation": -57000
+    },
+    {
+      "cle": "tablettetactile_136250tablettetactilesamsunggalaxytabs9fe109wifi128goanthracite8806095163604_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 WIFI 128Go Anthracite",
+      "prix_base": 2752000,
+      "prix_comparaison": 2696000,
+      "variation": -56000
+    },
+    {
+      "cle": "tablettetactile_136249tablettetactilesamsunggalaxytabs9fe109wifi128govert8806095163277_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 WIFI 128Go Vert",
+      "prix_base": 2752000,
+      "prix_comparaison": 2696000,
+      "variation": -56000
+    },
+    {
+      "cle": "tablettetactile_136864tablettetactilesamsunggalaxytabs9fe109wifi128gorose8806095163673_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 WIFI 128Go Rose",
+      "prix_base": 2539000,
+      "prix_comparaison": 2487000,
+      "variation": -52000
+    },
+    {
+      "cle": "tablettetactile_92651appleipadmini202183wifi256gogrissideral0194252528792_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 4182000,
+      "prix_comparaison": 4133000,
+      "variation": -49000
+    },
+    {
+      "cle": "tablettetactile_84538appleipadmini202183wifi64gomauve0194252528525_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 64 Go - Mauve",
+      "prix_base": 3506000,
+      "prix_comparaison": 3460000,
+      "variation": -46000
+    },
+    {
+      "cle": "tablettetactile_30347appleipad2021102wifi64goargent0194252515945_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 64 Go - Argent",
+      "prix_base": 2196000,
+      "prix_comparaison": 2151000,
       "variation": -45000
     },
     {
-      "cle": "ecranordinateur_135593ecranpcsamsungsmartmonitorm5cm50032fhd1920x108060hzva4msnoirhdmitelecommande8806094938142_html",
-      "name": "Ecran PC - SAMSUNG - Smart Monitor M5 - CM500 - 32 FHD 1920x1080 - 60Hz - VA - 4ms - Noir - HDMI + T\u00e9l\u00e9commande",
-      "prix_base": 1743000,
-      "prix_comparaison": 1721000,
-      "variation": -22000
+      "cle": "tablettetactile_30346appleipad2021102wifi64gogrissideral0194252515679_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2234000,
+      "prix_comparaison": 2189000,
+      "variation": -45000
     },
     {
-      "cle": "lesimbattablesmeilleursproduitsaumeilleurprix_129771ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium8806094659184_html",
-      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
-      "prix_base": 1632000,
-      "prix_comparaison": 1611000,
+      "cle": "tablettetactile_137365samsunggalaxytaba91164go5ggris8806095360720_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go 5G Gris",
+      "prix_base": 1619000,
+      "prix_comparaison": 1586000,
+      "variation": -33000
+    },
+    {
+      "cle": "tablettetactile_136862samsunggalaxytaba911128gowifibleufonce8806095360843_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 128Go Wifi Bleu fonc\u00e9",
+      "prix_base": 1451000,
+      "prix_comparaison": 1421000,
+      "variation": -30000
+    },
+    {
+      "cle": "tablettetactile_135651samsunggalaxytaba91164gowifigris8806095360836_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go Wifi Gris",
+      "prix_base": 1368000,
+      "prix_comparaison": 1340000,
+      "variation": -28000
+    },
+    {
+      "cle": "tablettetactile_136248samsunggalaxytaba91164gowifiargent8806095360812_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go Wifi Argent",
+      "prix_base": 1368000,
+      "prix_comparaison": 1340000,
+      "variation": -28000
+    },
+    {
+      "cle": "tablettetactile_135650samsunggalaxytaba91164gowifibleufonce8806095360850_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go Wifi Bleu fonc\u00e9",
+      "prix_base": 1368000,
+      "prix_comparaison": 1340000,
+      "variation": -28000
+    },
+    {
+      "cle": "tablettetactile_136861samsunggalaxytaba987128gowifigris8806095361598_html",
+      "name": "SAMSUNG Galaxy Tab A9 8,7 128Go Wifi Gris",
+      "prix_base": 1128000,
+      "prix_comparaison": 1105000,
+      "variation": -23000
+    },
+    {
+      "cle": "tablettetactile_63197appleipadpro202211wifi128goargent0194253264897_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 128 Go - Argent",
+      "prix_base": 5236000,
+      "prix_comparaison": 5215000,
       "variation": -21000
     },
     {
-      "cle": "ecranordinateur_125175ecranpcincurvesamsungu32r590cwp324kdalleva4ms60hzhdmidp8806094772005_html",
-      "name": "Ecran PC Incurv\u00e9 - SAMSUNG - U32R590CWP - 32'' 4K - Dalle VA - 4 ms - 60Hz - HDMI / DP",
-      "prix_base": 2062000,
-      "prix_comparaison": 2064000,
-      "variation": 2000
+      "cle": "lesimbattablesmeilleursproduitsaumeilleurprix_136247samsunggalaxytaba98764gowifibleufonce8806095361628_html",
+      "name": "SAMSUNG Galaxy Tab A9 8,7 64Go Wifi Bleu fonc\u00e9",
+      "prix_base": 1019000,
+      "prix_comparaison": 998000,
+      "variation": -21000
     },
     {
-      "cle": "ecranordinateur_96189ecranpcgamersamsungodysseyg7g70bs28bg700ep284kdalleips1ms144hzhdmidisplayportamdfreesync8806094796537_html",
-      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G7 - G70B S28BG700EP - 28'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync",
-      "prix_base": 3109000,
-      "prix_comparaison": 3279000,
-      "variation": 170000
+      "cle": "tablettetactile_135648samsunggalaxytaba98764gowifigris8806095361604_html",
+      "name": "SAMSUNG Galaxy Tab A9 8,7 64Go Wifi Gris",
+      "prix_base": 1019000,
+      "prix_comparaison": 998000,
+      "variation": -21000
     },
     {
-      "cle": "ecranordinateur_96171ecranpcgamerincurvesamsungodysseyg6g65bs32bg650eu32qhddalleva1ms240hzhdmidisplayportamd8806094192711_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY G6 - G65B S32BG650EU - 32'' WQHD - VA - 1 ms - 240Hz - HDMI / DisplayPort - Freesync",
-      "prix_base": 3693000,
-      "prix_comparaison": 4677000,
-      "variation": 984000
+      "cle": "tablettetactile_123933tablettetactilearchost101xhddurcie4gecranhd101android10ram2gostockage32go0690590038639_html",
+      "name": "Tablette tactile - ARCHOS - T101X HD Durcie - 4G - Ecran HD 10,1 - Android 10 - RAM 2Go - Stockage 32GO",
+      "prix_base": 943000,
+      "prix_comparaison": 924000,
+      "variation": -19000
     },
     {
-      "cle": "lavelingesechant_62672lavelingesechantsamsungecobubblewd70t4046ewef74kginduction1400trsminprogrammevapeurblanc8806090580819_html",
-      "name": "Lave-linge s\u00e9chant SAMSUNG Ecobubble\u2122 WD70T4046EW/EF - 7 / 4 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
-      "prix_base": 3878000,
-      "prix_comparaison": 4930000,
-      "variation": 1052000
+      "cle": "latechnologieeducativeequipezvousnl_125381tablettetactilearchost101hd4gecranhd101android13ram4gostockage64go0690590039285_html",
+      "name": "Tablette tactile - ARCHOS - T101 HD - 4G - Ecran HD 10,1 - Android 13 - RAM 4Go - Stockage 64GO",
+      "prix_base": 805000,
+      "prix_comparaison": 788000,
+      "variation": -17000
     },
     {
-      "cle": "lavelingesechant_26974lavelingesu00e9chantsamsungecobubblewd80t4046eweflavage8kgsu00e9chage5kginduction1400trsminblanc8806090605086_html",
-      "name": "Lave-linge s\u00e9chant SAMSUNG Ecobubble\u2122 WD80T4046EW/EF - 8 / 5 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
-      "prix_base": 4191000,
-      "prix_comparaison": 5307000,
-      "variation": 1116000
+      "cle": "chargeuradaptateursecteur_98874appleadaptateursecteurmagsafe2de60wapplepourmacbookproavececranretina13pouces0885909575763_html",
+      "name": "Apple Adaptateur secteur MagSafe\u00a02 de 60\u00a0W Apple (pour MacBook Pro avec \u00e9cran Retina 13\u00a0pouces)",
+      "prix_base": 491000,
+      "prix_comparaison": 481000,
+      "variation": -10000
     },
     {
-      "cle": "ecranordinateur_96168ecranpcgamersamsungodysseyg7g70bs32bg700eu324kdalleips1ms144hzhdmidisplayportamdfreesyncp8806094138818_html",
-      "name": "Ecran PC Gamer - SAMSUNG ODYSSEY G7 - G70B S32BG700EU - 32'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync P",
-      "prix_base": 5431000,
-      "prix_comparaison": 6877000,
-      "variation": 1446000
+      "cle": "chargeuradaptateursecteur_90807adaptateursecteurmagsafe245wapplepourmacbookair0885909611607_html",
+      "name": "Adaptateur secteur MagSafe\u00a02 45\u00a0W Apple (pour MacBook\u00a0Air)",
+      "prix_base": 453000,
+      "prix_comparaison": 444000,
+      "variation": -9000
     },
     {
-      "cle": "ecranordinateur_125177ecranpcgamerincurvesamsungodysseyneog8g85nbs32bg850np324kdalleminiledva1ms240hzhdmidp8806094796582_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY NEO G8 - G85NB S32BG850NP - 32'' 4k - Dalle Mini LED VA - 1 ms - 240Hz - HDMI / DP",
-      "prix_base": 6138000,
-      "prix_comparaison": 7772000,
-      "variation": 1634000
+      "cle": "tablettetactile_138457tablettetactilesamsunggalaxytabs9fe109wifi128goargent8806095163543_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 WIFI 128Go Argent",
+      "prix_base": 2693000,
+      "prix_comparaison": 2696000,
+      "variation": 3000
     },
     {
-      "cle": "ecranordinateur_125173ecranpcgamerincurvesamsungodysseyg8g85sb34uwqhddalleoled01ms175hzhdmi21minidpusbc38806094525175_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY - G8 G85SB - 34'' UWQHD - Dalle OLED - 0.1 ms - 175Hz - HDMI 2.1 / mini DP / USB C 3",
-      "prix_base": 7210000,
-      "prix_comparaison": 9131000,
-      "variation": 1921000
+      "cle": "tablettetactile_138458tablettetactilesamsunggalaxytabs9fe1095g128goanthracite8806095163321_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 5G 128Go Anthracite",
+      "prix_base": 3171000,
+      "prix_comparaison": 3175000,
+      "variation": 4000
+    },
+    {
+      "cle": "tablettetactile_30386appleipadair2022109wificellulaire64gobleu0194252806821_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 64 Go - Bleu",
+      "prix_base": 4822000,
+      "prix_comparaison": 4827000,
+      "variation": 5000
+    },
+    {
+      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11109000,
+      "prix_comparaison": 11809000,
+      "variation": 700000
     }
   ],
   "indice de prix": [
     {
-      "cle": "ecranordinateur_96178ecranpcsamsungs24c310eau24fhddalleips5ms75hzhdmivga8806094769197_html",
-      "name": "Ecran PC - SAMSUNG - S24C310EAU - 24 FHD - Dalle IPS - 5 ms - 75 Hz - HDMI / VGA",
-      "prix_base": 884000,
-      "prix_comparaison": 798000,
-      "indice_prix": 90.27149321266968
+      "cle": "tablettetactile_63243appleipad2022109wifi64gorose0194253388272_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Rose",
+      "prix_base": 3148000,
+      "prix_comparaison": 2377000,
+      "indice_prix": 75.50825921219823
     },
     {
-      "cle": "ecranordinateur_93068ecranpcgamersamsungodysseyg300ls24ag304nrxen24fhddalleva1ms144hzfreesyncpremium8806094672220_html",
-      "name": "Ecran PC Gamer - SAMSUNG ODYSSEY G300 - LS24AG304NRXEN - 24 FHD - Dalle VA - 1ms - 144Hz - HDMI / DP - FreeSync Premium",
-      "prix_base": 1208000,
-      "prix_comparaison": 1135000,
-      "indice_prix": 93.95695364238411
+      "cle": "tablettetactile_63241appleipad2022109wifi64gobleu0194253387732_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Bleu",
+      "prix_base": 3208000,
+      "prix_comparaison": 2825000,
+      "indice_prix": 88.06109725685785
     },
     {
-      "cle": "ecranordinateur_100002ecranpcincurvesamsungls32c390eauxen32fhddalleva4ms75hzamdfreesync8806094713657_html",
-      "name": "Ecran PC Incurv\u00e9 - SAMSUNG LS32C390EAUXEN - 32 FHD - Dalle VA - 4 ms - 75Hz - AMD Freesync",
-      "prix_base": 1614000,
-      "prix_comparaison": 1563000,
-      "indice_prix": 96.84014869888476
+      "cle": "tablettetactile_63240appleipad2022109wifi64goargent0194253387466_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Argent",
+      "prix_base": 2471000,
+      "prix_comparaison": 2365000,
+      "indice_prix": 95.71023876972886
     },
     {
-      "cle": "ecranordinateur_100026ecranpcgamerincurvesamsungodysseyg5g55tc34g55twwp34uwqhddalleva1ms165hzhdmidisplayportu8806094796315_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY G5 - G55T C34G55TWWP - 34'' UWQHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort / U",
-      "prix_base": 2166000,
-      "prix_comparaison": 2121000,
-      "indice_prix": 97.92243767313019
+      "cle": "tablettetactile_90218appleipadmini202183wifi64golumierestellaire0194252527986_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 64 Go - Lumiere Stellaire",
+      "prix_base": 3580000,
+      "prix_comparaison": 3450000,
+      "indice_prix": 96.36871508379889
     },
     {
-      "cle": "lesimbattablesmeilleursproduitsaumeilleurprix_129771ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium8806094659184_html",
-      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
-      "prix_base": 1632000,
-      "prix_comparaison": 1611000,
-      "indice_prix": 98.71323529411765
+      "cle": "tablettetactile_30385appleipadair2022109wificellulaire64gogrissidu00e9ral0194252806227_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 4972000,
+      "prix_comparaison": 4805000,
+      "indice_prix": 96.64119066773934
     },
     {
-      "cle": "ecranordinateur_135593ecranpcsamsungsmartmonitorm5cm50032fhd1920x108060hzva4msnoirhdmitelecommande8806094938142_html",
-      "name": "Ecran PC - SAMSUNG - Smart Monitor M5 - CM500 - 32 FHD 1920x1080 - 60Hz - VA - 4ms - Noir - HDMI + T\u00e9l\u00e9commande",
-      "prix_base": 1743000,
-      "prix_comparaison": 1721000,
-      "indice_prix": 98.7378083763626
+      "cle": "tablettetactile_30355appleipadmini202183wifi64gogrissidu00e9ral0194252527443_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 3612000,
+      "prix_comparaison": 3507000,
+      "indice_prix": 97.09302325581395
     },
     {
-      "cle": "ecranordinateur_125175ecranpcincurvesamsungu32r590cwp324kdalleva4ms60hzhdmidp8806094772005_html",
-      "name": "Ecran PC Incurv\u00e9 - SAMSUNG - U32R590CWP - 32'' 4K - Dalle VA - 4 ms - 60Hz - HDMI / DP",
-      "prix_base": 2062000,
-      "prix_comparaison": 2064000,
-      "indice_prix": 100.09699321047526
+      "cle": "tablettetactile_30390appleipadair2022109wificellulaire256golumierestellaire0194252809525_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 256 Go - Lumiere stellaire",
+      "prix_base": 5836000,
+      "prix_comparaison": 5686000,
+      "indice_prix": 97.42974640164496
     },
     {
-      "cle": "ecranordinateur_96189ecranpcgamersamsungodysseyg7g70bs28bg700ep284kdalleips1ms144hzhdmidisplayportamdfreesync8806094796537_html",
-      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G7 - G70B S28BG700EP - 28'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync",
-      "prix_base": 3109000,
-      "prix_comparaison": 3279000,
-      "indice_prix": 105.46799614023801
+      "cle": "latechnologieeducativeequipezvousnl_125381tablettetactilearchost101hd4gecranhd101android13ram4gostockage64go0690590039285_html",
+      "name": "Tablette tactile - ARCHOS - T101 HD - 4G - Ecran HD 10,1 - Android 13 - RAM 4Go - Stockage 64GO",
+      "prix_base": 805000,
+      "prix_comparaison": 788000,
+      "indice_prix": 97.88819875776397
     },
     {
-      "cle": "ecranordinateur_125177ecranpcgamerincurvesamsungodysseyneog8g85nbs32bg850np324kdalleminiledva1ms240hzhdmidp8806094796582_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY NEO G8 - G85NB S32BG850NP - 32'' 4k - Dalle Mini LED VA - 1 ms - 240Hz - HDMI / DP",
-      "prix_base": 6138000,
-      "prix_comparaison": 7772000,
-      "indice_prix": 126.62104920169436
+      "cle": "tablettetactile_136862samsunggalaxytaba911128gowifibleufonce8806095360843_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 128Go Wifi Bleu fonc\u00e9",
+      "prix_base": 1451000,
+      "prix_comparaison": 1421000,
+      "indice_prix": 97.93246037215714
     },
     {
-      "cle": "ecranordinateur_96168ecranpcgamersamsungodysseyg7g70bs32bg700eu324kdalleips1ms144hzhdmidisplayportamdfreesyncp8806094138818_html",
-      "name": "Ecran PC Gamer - SAMSUNG ODYSSEY G7 - G70B S32BG700EU - 32'' 4K - Dalle IPS - 1 ms - 144Hz - HDMI / DisplayPort - AMD FreeSync P",
-      "prix_base": 5431000,
-      "prix_comparaison": 6877000,
-      "indice_prix": 126.62493095194255
+      "cle": "tablettetactile_135652tablettetactilesamsunggalaxytabs9fe124wifi128gorose8806095165127_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 WIFI 128Go Rose",
+      "prix_base": 3587000,
+      "prix_comparaison": 3513000,
+      "indice_prix": 97.93699470309451
     },
     {
-      "cle": "lavelingesechant_26974lavelingesu00e9chantsamsungecobubblewd80t4046eweflavage8kgsu00e9chage5kginduction1400trsminblanc8806090605086_html",
-      "name": "Lave-linge s\u00e9chant SAMSUNG Ecobubble\u2122 WD80T4046EW/EF - 8 / 5 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
-      "prix_base": 4191000,
-      "prix_comparaison": 5307000,
-      "indice_prix": 126.62848962061561
+      "cle": "lesimbattablesmeilleursproduitsaumeilleurprix_136247samsunggalaxytaba98764gowifibleufonce8806095361628_html",
+      "name": "SAMSUNG Galaxy Tab A9 8,7 64Go Wifi Bleu fonc\u00e9",
+      "prix_base": 1019000,
+      "prix_comparaison": 998000,
+      "indice_prix": 97.93915603532875
     },
     {
-      "cle": "ecranordinateur_125173ecranpcgamerincurvesamsungodysseyg8g85sb34uwqhddalleoled01ms175hzhdmi21minidpusbc38806094525175_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY - G8 G85SB - 34'' UWQHD - Dalle OLED - 0.1 ms - 175Hz - HDMI 2.1 / mini DP / USB C 3",
-      "prix_base": 7210000,
-      "prix_comparaison": 9131000,
-      "indice_prix": 126.64355062413316
+      "cle": "tablettetactile_135648samsunggalaxytaba98764gowifigris8806095361604_html",
+      "name": "SAMSUNG Galaxy Tab A9 8,7 64Go Wifi Gris",
+      "prix_base": 1019000,
+      "prix_comparaison": 998000,
+      "indice_prix": 97.93915603532875
     },
     {
-      "cle": "ecranordinateur_96171ecranpcgamerincurvesamsungodysseyg6g65bs32bg650eu32qhddalleva1ms240hzhdmidisplayportamd8806094192711_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - SAMSUNG - ODYSSEY G6 - G65B S32BG650EU - 32'' WQHD - VA - 1 ms - 240Hz - HDMI / DisplayPort - Freesync",
-      "prix_base": 3693000,
-      "prix_comparaison": 4677000,
-      "indice_prix": 126.64500406173842
+      "cle": "tablettetactile_30348appleipad2021102wifi256gogrissidu00e9ral0194252516485_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3256000,
+      "prix_comparaison": 3189000,
+      "indice_prix": 97.94226044226045
     },
     {
-      "cle": "lavelingesechant_62672lavelingesechantsamsungecobubblewd70t4046ewef74kginduction1400trsminprogrammevapeurblanc8806090580819_html",
-      "name": "Lave-linge s\u00e9chant SAMSUNG Ecobubble\u2122 WD70T4046EW/EF - 7 / 4 kg - Induction - 1400 trs/min - Programme Vapeur - Blanc",
-      "prix_base": 3878000,
-      "prix_comparaison": 4930000,
-      "indice_prix": 127.12738525012894
+      "cle": "tablettetactile_86629appleipadair2022109wifi256gorose0194252797044_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Rose",
+      "prix_base": 4960000,
+      "prix_comparaison": 4858000,
+      "indice_prix": 97.94354838709677
+    },
+    {
+      "cle": "tablettetactile_30397appleipadair2022109wifi256golumierestellaire0194252797587_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Lumiere stellaire",
+      "prix_base": 4960000,
+      "prix_comparaison": 4858000,
+      "indice_prix": 97.94354838709677
+    },
+    {
+      "cle": "tablettetactile_136865tablettetactilesamsunggalaxytabs9fe124wifi128govert8806095165189_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 WIFI 128Go Vert",
+      "prix_base": 3309000,
+      "prix_comparaison": 3241000,
+      "indice_prix": 97.94499848896947
+    },
+    {
+      "cle": "tablettetactile_127707tablettetactilesamsunggalaxytabs9ultra146ram12go256goanthracitespeninclus8806095079554_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 Ultra 14,6 WIFI 256Go Anthracite",
+      "prix_base": 6182000,
+      "prix_comparaison": 6055000,
+      "indice_prix": 97.94564865739243
+    },
+    {
+      "cle": "tablettetactile_63253appleipad2022109wificellular256gorose0194253364252_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 256 Go - Rose",
+      "prix_base": 4482000,
+      "prix_comparaison": 4390000,
+      "indice_prix": 97.94734493529674
+    },
+    {
+      "cle": "tablettetactile_30353appleipad2021102wificellulaire256goargent0194252522349_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi + Cellulaire - 256 Go - Argent",
+      "prix_base": 4192000,
+      "prix_comparaison": 4106000,
+      "indice_prix": 97.94847328244275
+    },
+    {
+      "cle": "tablettetactile_30352appleipad2021102wificellulaire256gogrissidu00e9ral0194252522073_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi + Cellulaire - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 4192000,
+      "prix_comparaison": 4106000,
+      "indice_prix": 97.94847328244275
+    },
+    {
+      "cle": "tablettetactile_63251appleipad2022109wificellular256gobleu0194253363675_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 256 Go - Bleu",
+      "prix_base": 4973000,
+      "prix_comparaison": 4871000,
+      "indice_prix": 97.9489241906294
+    },
+    {
+      "cle": "tablettetactile_63250appleipad2022109wificellular256goargent0194253363385_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 256 Go - Argent",
+      "prix_base": 4973000,
+      "prix_comparaison": 4871000,
+      "indice_prix": 97.9489241906294
+    },
+    {
+      "cle": "tablettetactile_63207appleipadpro2022129wifi256goargent0194253242222_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 256 Go - Argent",
+      "prix_base": 7364000,
+      "prix_comparaison": 7213000,
+      "indice_prix": 97.94948397609994
+    },
+    {
+      "cle": "tablettetactile_86621appleipad2021102wificellulaire64gogrissideral0194252521267_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi + Cellulaire - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 3073000,
+      "prix_comparaison": 3010000,
+      "indice_prix": 97.9498861047836
+    },
+    {
+      "cle": "tablettetactile_82113appleipadair2022109wificellulaire64gomauve0194252834824_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 64 Go - Mauve",
+      "prix_base": 4928000,
+      "prix_comparaison": 4827000,
+      "indice_prix": 97.95048701298701
+    },
+    {
+      "cle": "tablettetactile_63204appleipadpro2022129wifi128gogrissideral0194253241416_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 128 Go - Gris Sid\u00e9ral",
+      "prix_base": 7173000,
+      "prix_comparaison": 7026000,
+      "indice_prix": 97.95064826432456
+    },
+    {
+      "cle": "tablettetactile_63205appleipadpro2022129wifi128goargent0194253241683_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 128 Go - Argent",
+      "prix_base": 7173000,
+      "prix_comparaison": 7026000,
+      "indice_prix": 97.95064826432456
+    },
+    {
+      "cle": "tablettetactile_30351appleipad2021102wificellulaire64goargent0194252521533_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi + Cellulaire - 64 Go - Argent",
+      "prix_base": 3123000,
+      "prix_comparaison": 3059000,
+      "indice_prix": 97.95068844060198
+    },
+    {
+      "cle": "tablettetactile_30347appleipad2021102wifi64goargent0194252515945_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 64 Go - Argent",
+      "prix_base": 2196000,
+      "prix_comparaison": 2151000,
+      "indice_prix": 97.95081967213115
+    },
+    {
+      "cle": "tablettetactile_63228appleipadpro2022129wificellular512gogrissideral0194253254317_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 512 Go - Gris Sid\u00e9ral",
+      "prix_base": 9421000,
+      "prix_comparaison": 9228000,
+      "indice_prix": 97.9513852032693
+    },
+    {
+      "cle": "tablettetactile_127091tablettetactilesamsunggalaxytabs911ram8go128goanthracitespeninclus8806095084138_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 11 WIFI 128Go Anthracite",
+      "prix_base": 4491000,
+      "prix_comparaison": 4399000,
+      "indice_prix": 97.95145847250056
+    },
+    {
+      "cle": "tablettetactile_63213appleipadpro202211wificellular128gogrissideral0194253276722_html",
+      "name": "Apple iPad Pro (2022) - 11 - WiFi + Cellular - 128 Go - Gris Sid\u00e9ral",
+      "prix_base": 6200000,
+      "prix_comparaison": 6073000,
+      "indice_prix": 97.95161290322581
+    },
+    {
+      "cle": "tablettetactile_63224appleipadpro2022129wificellular128gogrissideral0194253253150_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 128 Go - Gris Sid\u00e9ral",
+      "prix_base": 7616000,
+      "prix_comparaison": 7460000,
+      "indice_prix": 97.9516806722689
+    },
+    {
+      "cle": "tablettetactile_136864tablettetactilesamsunggalaxytabs9fe109wifi128gorose8806095163673_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 WIFI 128Go Rose",
+      "prix_base": 2539000,
+      "prix_comparaison": 2487000,
+      "indice_prix": 97.95194958645136
+    },
+    {
+      "cle": "tablettetactile_124993appleipadmini202183wificellulaire256golumierestellaire0194252509654_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 256 Go - Lumiere Stellaire",
+      "prix_base": 5274000,
+      "prix_comparaison": 5166000,
+      "indice_prix": 97.95221843003414
+    },
+    {
+      "cle": "tablettetactile_95785appleipadmini202183wificellulaire256gomauve0194252510230_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 256 Go - Mauve",
+      "prix_base": 5274000,
+      "prix_comparaison": 5166000,
+      "indice_prix": 97.95221843003414
+    },
+    {
+      "cle": "tablettetactile_128721tablettetactilesamsunggalaxytabs911ram12go256goanthracitespeninclus8806095084046_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 11 WIFI 256Go Anthracite",
+      "prix_base": 4835000,
+      "prix_comparaison": 4736000,
+      "indice_prix": 97.95243019648397
+    },
+    {
+      "cle": "tablettetactile_128724tablettetactilesamsunggalaxytabs9ultra146ram12go512goanthracitespeninclus8806095079547_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9 Ultra - 14,6 - RAM 12Go - 512 Go - Anthracite - S Pen inclus",
+      "prix_base": 6838000,
+      "prix_comparaison": 6698000,
+      "indice_prix": 97.95261772448085
+    },
+    {
+      "cle": "tablettetactile_30399appleipadair2022109wifi256gomauve0194252820117_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Mauve",
+      "prix_base": 4836000,
+      "prix_comparaison": 4737000,
+      "indice_prix": 97.95285359801488
+    },
+    {
+      "cle": "tablettetactile_135651samsunggalaxytaba91164gowifigris8806095360836_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go Wifi Gris",
+      "prix_base": 1368000,
+      "prix_comparaison": 1340000,
+      "indice_prix": 97.953216374269
+    },
+    {
+      "cle": "tablettetactile_136248samsunggalaxytaba91164gowifiargent8806095360812_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go Wifi Argent",
+      "prix_base": 1368000,
+      "prix_comparaison": 1340000,
+      "indice_prix": 97.953216374269
+    },
+    {
+      "cle": "tablettetactile_135650samsunggalaxytaba91164gowifibleufonce8806095360850_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go Wifi Bleu fonc\u00e9",
+      "prix_base": 1368000,
+      "prix_comparaison": 1340000,
+      "indice_prix": 97.953216374269
+    },
+    {
+      "cle": "tablettetactile_82115appleipadpro202211wificellular128goargent0194253276982_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 128 Go - Argent",
+      "prix_base": 6205000,
+      "prix_comparaison": 6078000,
+      "indice_prix": 97.95326349717969
+    },
+    {
+      "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 11580000,
+      "prix_comparaison": 11343000,
+      "indice_prix": 97.95336787564767
+    },
+    {
+      "cle": "tablettetactile_63216appleipadpro202211wificellular512gogrissideral0194253277767_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 512 Go - Gris Sid\u00e9ral",
+      "prix_base": 7525000,
+      "prix_comparaison": 7371000,
+      "indice_prix": 97.95348837209302
+    },
+    {
+      "cle": "tablettetactile_63246appleipad2022109wificellular64goargent0194253361060_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 64 Go - Argent",
+      "prix_base": 4203000,
+      "prix_comparaison": 4117000,
+      "indice_prix": 97.95384249345706
+    },
+    {
+      "cle": "tablettetactile_89098appleipad2022109wificellular64gojaune0194253361640_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 64 Go - Jaune",
+      "prix_base": 4203000,
+      "prix_comparaison": 4117000,
+      "indice_prix": 97.95384249345706
+    },
+    {
+      "cle": "tablettetactile_63218appleipadpro202211wificellular1toargent0194253278542_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 1 To - Argent",
+      "prix_base": 9628000,
+      "prix_comparaison": 9431000,
+      "indice_prix": 97.95388450353137
+    },
+    {
+      "cle": "tablettetactile_82114appleipadpro202211wifi256gogrissideral0194253265160_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 5866000,
+      "prix_comparaison": 5746000,
+      "indice_prix": 97.95431299011251
+    },
+    {
+      "cle": "tablettetactile_63245appleipad2022109wifi256gobleu0194253389897_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 256 Go - Bleu",
+      "prix_base": 4204000,
+      "prix_comparaison": 4118000,
+      "indice_prix": 97.95432921027593
+    },
+    {
+      "cle": "tablettetactile_63244appleipad2022109wifi256goargent0194253389620_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 256 Go - Argent",
+      "prix_base": 4204000,
+      "prix_comparaison": 4118000,
+      "indice_prix": 97.95432921027593
+    },
+    {
+      "cle": "tablettetactile_30392appleipadair2022109wifi64gobleu0194252795156_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Bleu",
+      "prix_base": 4205000,
+      "prix_comparaison": 4119000,
+      "indice_prix": 97.95481569560047
+    },
+    {
+      "cle": "tablettetactile_82112appleipadair2022109wifi64golumierestellaire0194252795422_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Lumiere stellaire",
+      "prix_base": 4205000,
+      "prix_comparaison": 4119000,
+      "indice_prix": 97.95481569560047
+    },
+    {
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13845000,
+      "prix_comparaison": 13562000,
+      "indice_prix": 97.95594077284218
+    },
+    {
+      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 10519000,
+      "prix_comparaison": 10304000,
+      "indice_prix": 97.95607947523528
+    },
+    {
+      "cle": "tablettetactile_95782appleipadmini202183wificellulaire64gogrissideral0194252507629_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 4648000,
+      "prix_comparaison": 4553000,
+      "indice_prix": 97.95611015490533
+    },
+    {
+      "cle": "tablettetactile_128723tablettetactilesamsunggalaxytabs9124ram12go256gocremespeninclus8806095069715_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9+ 12,4 WIFI 256Go Creme",
+      "prix_base": 5286000,
+      "prix_comparaison": 5178000,
+      "indice_prix": 97.95686719636777
+    },
+    {
+      "cle": "tablettetactile_127093tablettetactilesamsunggalaxytabs9124ram12go256goanthracitespeninclus8806095083087_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9+ - 12,4 - RAM 12Go - 256 Go - Anthracite - S Pen inclus",
+      "prix_base": 5286000,
+      "prix_comparaison": 5178000,
+      "indice_prix": 97.95686719636777
+    },
+    {
+      "cle": "tablettetactile_63229appleipadpro2022129wificellular512goargent0194253254607_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 512 Go - Argent",
+      "prix_base": 9350000,
+      "prix_comparaison": 9159000,
+      "indice_prix": 97.9572192513369
+    },
+    {
+      "cle": "tablettetactile_84542appleipadair2022109wifi256gobleu0194252797310_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Bleu",
+      "prix_base": 4602000,
+      "prix_comparaison": 4508000,
+      "indice_prix": 97.9574098218166
+    },
+    {
+      "cle": "tablettetactile_82188appleipad2022109wifi256gorose0194253390435_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 256 Go - Rose",
+      "prix_base": 3476000,
+      "prix_comparaison": 3405000,
+      "indice_prix": 97.95742232451093
+    },
+    {
+      "cle": "tablettetactile_55111appleipadair2022109wifi64gomauve0194252819579_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Mauve",
+      "prix_base": 3917000,
+      "prix_comparaison": 3837000,
+      "indice_prix": 97.95762062803166
+    },
+    {
+      "cle": "tablettetactile_30387appleipadair2022109wificellulaire64golumierestellaire0194252807125_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 64 Go - Lumiere stellaire",
+      "prix_base": 4848000,
+      "prix_comparaison": 4749000,
+      "indice_prix": 97.95792079207921
+    },
+    {
+      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
+      "prix_base": 10578000,
+      "prix_comparaison": 10362000,
+      "indice_prix": 97.95802609188883
+    },
+    {
+      "cle": "tablettetactile_63252appleipad2022109wificellular256gojaune0194253363965_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 256 Go - Jaune",
+      "prix_base": 4849000,
+      "prix_comparaison": 4750000,
+      "indice_prix": 97.95834192617035
+    },
+    {
+      "cle": "tablettetactile_63217appleipadpro202211wificellular512goargent0194253278023_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 512 Go - Argent",
+      "prix_base": 7592000,
+      "prix_comparaison": 7437000,
+      "indice_prix": 97.95837723919915
+    },
+    {
+      "cle": "tablettetactile_30391appleipadair2022109wifi64gogrissidu00e9ral0194252794616_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 4312000,
+      "prix_comparaison": 4224000,
+      "indice_prix": 97.95918367346938
+    },
+    {
+      "cle": "tablettetactile_82187appleipad2022109wifi256gojaune0194253390169_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi - 256 Go - Jaune",
+      "prix_base": 4313000,
+      "prix_comparaison": 4225000,
+      "indice_prix": 97.95965685137955
+    },
+    {
+      "cle": "tablettetactile_63208appleipadpro2022129wifi512gogrissideral0194253242499_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 512 Go - Gris Sid\u00e9ral",
+      "prix_base": 8431000,
+      "prix_comparaison": 8259000,
+      "indice_prix": 97.95990985648203
+    },
+    {
+      "cle": "tablettetactile_127095tablettetactilesamsunggalaxytabs9ultra146ram12go256goanthracite5gspeninclus8806095089898_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9 Ultra - 14,6 - RAM 12Go - 256 Go - Anthracite - 5G - S Pen inclus",
+      "prix_base": 7206000,
+      "prix_comparaison": 7059000,
+      "indice_prix": 97.96003330557869
+    },
+    {
+      "cle": "tablettetactile_30388appleipadair2022109wificellulaire256gogrissidu00e9ral0194252808627_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 5688000,
+      "prix_comparaison": 5572000,
+      "indice_prix": 97.9606188466948
+    },
+    {
+      "cle": "tablettetactile_55110appleipadair2022109wifi64gorose0194252794883_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 64 Go - Rose",
+      "prix_base": 4119000,
+      "prix_comparaison": 4035000,
+      "indice_prix": 97.96067006554989
+    },
+    {
+      "cle": "tablettetactile_134047tablettetactilesamsunggalaxytabs9fe1095g256goanthracite8806095163284_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 5G 256Go Anthracite",
+      "prix_base": 3580000,
+      "prix_comparaison": 3507000,
+      "indice_prix": 97.9608938547486
+    },
+    {
+      "cle": "tablettetactile_136861samsunggalaxytaba987128gowifigris8806095361598_html",
+      "name": "SAMSUNG Galaxy Tab A9 8,7 128Go Wifi Gris",
+      "prix_base": 1128000,
+      "prix_comparaison": 1105000,
+      "indice_prix": 97.96099290780141
+    },
+    {
+      "cle": "tablettetactile_128725tablettetactilesamsunggalaxytabs9ultra146ram12go256gocremespeninclus8806095079769_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9 Ultra - 14,6 - RAM 12Go - 256 Go - Creme - S Pen inclus",
+      "prix_base": 6180000,
+      "prix_comparaison": 6054000,
+      "indice_prix": 97.96116504854369
+    },
+    {
+      "cle": "tablettetactile_137365samsunggalaxytaba91164go5ggris8806095360720_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go 5G Gris",
+      "prix_base": 1619000,
+      "prix_comparaison": 1586000,
+      "indice_prix": 97.96170475602223
+    },
+    {
+      "cle": "tablettetactile_129813tablettetactilesamsunggalaxytabs9fe109ram8go256goanthracitespeninclus8806095163574_html",
+      "name": "Tablette Tactile - Samsung - Galaxy Tab S9 FE - 10,9 - RAM 8Go - 256 Go - Anthracite - S Pen inclus",
+      "prix_base": 3091000,
+      "prix_comparaison": 3028000,
+      "indice_prix": 97.96182465221611
+    },
+    {
+      "cle": "tablettetactile_134048tablettetactilesamsunggalaxytabs9fe1245g256goanthracite8806095165301_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 5G 256Go Anthracite",
+      "prix_base": 4563000,
+      "prix_comparaison": 4470000,
+      "indice_prix": 97.96186719263642
+    },
+    {
+      "cle": "tablettetactile_129817tablettetactilesamsunggalaxytabs9124ram12go512goanthracitespeninclus8806095082998_html",
+      "name": "Tablette Tactile - SAMSUNG - Galaxy Tab S9+ - 12,4 - RAM 12Go - 512 Go - Anthracite - S Pen inclus",
+      "prix_base": 5398000,
+      "prix_comparaison": 5288000,
+      "indice_prix": 97.96220822526861
+    },
+    {
+      "cle": "tablettetactile_127094tablettetactilesamsunggalaxytabs9124ram12go256goanthracite5gspeninclus8806095082806_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9+ 12,4 5G 256Go Anthracite",
+      "prix_base": 6086000,
+      "prix_comparaison": 5962000,
+      "indice_prix": 97.9625369700953
+    },
+    {
+      "cle": "tablettetactile_63201appleipadpro202211wifi1togrissideral0194253266242_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 8884000,
+      "prix_comparaison": 8703000,
+      "indice_prix": 97.96262944619541
+    },
+    {
+      "cle": "tablettetactile_63202appleipadpro202211wifi1toargent0194253266518_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 1 To - Argent",
+      "prix_base": 8737000,
+      "prix_comparaison": 8559000,
+      "indice_prix": 97.96268742131166
+    },
+    {
+      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
+      "prix_base": 12961000,
+      "prix_comparaison": 12697000,
+      "indice_prix": 97.96312012961963
+    },
+    {
+      "cle": "tablettetactile_129815tablettetactilesamsunggalaxytabs9fe124ram8go128goargentspeninclus8806095165004_html",
+      "name": "Tablette Tactile - Samsung - Galaxy Tab S9 FE + - 12,4 - RAM 8Go - 128 Go - Argent - S Pen inclus",
+      "prix_base": 3044000,
+      "prix_comparaison": 2982000,
+      "indice_prix": 97.96320630749014
+    },
+    {
+      "cle": "tablettetactile_63247appleipad2022109wificellular64gobleu0194253361350_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 64 Go - Bleu",
+      "prix_base": 3535000,
+      "prix_comparaison": 3463000,
+      "indice_prix": 97.96322489391797
+    },
+    {
+      "cle": "chargeuradaptateursecteur_98874appleadaptateursecteurmagsafe2de60wapplepourmacbookproavececranretina13pouces0885909575763_html",
+      "name": "Apple Adaptateur secteur MagSafe\u00a02 de 60\u00a0W Apple (pour MacBook Pro avec \u00e9cran Retina 13\u00a0pouces)",
+      "prix_base": 491000,
+      "prix_comparaison": 481000,
+      "indice_prix": 97.9633401221996
+    },
+    {
+      "cle": "tablettetactile_30349appleipad2021102wifi256goargent0194252516751_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Argent",
+      "prix_base": 3291000,
+      "prix_comparaison": 3224000,
+      "indice_prix": 97.96414463688848
+    },
+    {
+      "cle": "tablettetactile_135653tablettetactilesamsunggalaxytabs9fe124wifi128goanthracite8806095165066_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 WIFI 128Go Anthracite",
+      "prix_base": 3586000,
+      "prix_comparaison": 3513000,
+      "indice_prix": 97.96430563301729
+    },
+    {
+      "cle": "tablettetactile_127092tablettetactilesamsunggalaxytabs911ram8go128goanthracite5gspeninclus8806095071466_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 11 5G 128Go Anthracite",
+      "prix_base": 5109000,
+      "prix_comparaison": 5005000,
+      "indice_prix": 97.96437659033079
+    },
+    {
+      "cle": "tablettetactile_63226appleipadpro2022129wificellular256gogrissideral0194253253730_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 8204000,
+      "prix_comparaison": 8037000,
+      "indice_prix": 97.96440760604582
+    },
+    {
+      "cle": "tablettetactile_63227appleipadpro2022129wificellular256goargent0194253254027_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 256 Go - Argent",
+      "prix_base": 8204000,
+      "prix_comparaison": 8037000,
+      "indice_prix": 97.96440760604582
+    },
+    {
+      "cle": "tablettetactile_136250tablettetactilesamsunggalaxytabs9fe109wifi128goanthracite8806095163604_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 WIFI 128Go Anthracite",
+      "prix_base": 2752000,
+      "prix_comparaison": 2696000,
+      "indice_prix": 97.96511627906976
+    },
+    {
+      "cle": "tablettetactile_136249tablettetactilesamsunggalaxytabs9fe109wifi128govert8806095163277_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 WIFI 128Go Vert",
+      "prix_base": 2752000,
+      "prix_comparaison": 2696000,
+      "indice_prix": 97.96511627906976
+    },
+    {
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11010000,
+      "prix_comparaison": 10786000,
+      "indice_prix": 97.9654859218892
+    },
+    {
+      "cle": "tablettetactile_95781appleipadmini202183wifi256golumierestellaire0194252529331_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 256 Go - Lumiere Stellaire",
+      "prix_base": 4326000,
+      "prix_comparaison": 4238000,
+      "indice_prix": 97.96578825705039
+    },
+    {
+      "cle": "tablettetactile_63206appleipadpro2022129wifi256gogrissideral0194253241959_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 7178000,
+      "prix_comparaison": 7032000,
+      "indice_prix": 97.96600724435775
+    },
+    {
+      "cle": "tablettetactile_84543appleipadair2022109wificellulaire256gomauve0194252835401_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 256 Go - Mauve",
+      "prix_base": 5804000,
+      "prix_comparaison": 5686000,
+      "indice_prix": 97.96691936595451
+    },
+    {
+      "cle": "tablettetactile_30389appleipadair2022109wificellulaire256gobleu0194252809228_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 256 Go - Bleu",
+      "prix_base": 5953000,
+      "prix_comparaison": 5832000,
+      "indice_prix": 97.96741138921553
+    },
+    {
+      "cle": "tablettetactile_63215appleipadpro202211wificellular256goargent0194253277507_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 256 Go - Argent",
+      "prix_base": 6989000,
+      "prix_comparaison": 6847000,
+      "indice_prix": 97.96823579911289
+    },
+    {
+      "cle": "tablettetactile_63249appleipad2022109wificellular64gorose0194253361930_html",
+      "name": "Apple - iPad (2022) - 10.9 - WiFi + Cellular - 64 Go - Rose",
+      "prix_base": 3595000,
+      "prix_comparaison": 3522000,
+      "indice_prix": 97.96940194714882
+    },
+    {
+      "cle": "tablettetactile_63196appleipadpro202211wifi128gogrissideral0194253264620_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 128 Go - Gris Sid\u00e9ral",
+      "prix_base": 5370000,
+      "prix_comparaison": 5261000,
+      "indice_prix": 97.97020484171323
+    },
+    {
+      "cle": "tablettetactile_99747appleipadmini202183wificellulaire64gomauve0194252508787_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 64 Go - Mauve",
+      "prix_base": 4287000,
+      "prix_comparaison": 4200000,
+      "indice_prix": 97.97060881735479
+    },
+    {
+      "cle": "tablettetactile_30394appleipadair2022109wifi256gogrissidu00e9ral0194252796771_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 4929000,
+      "prix_comparaison": 4829000,
+      "indice_prix": 97.97119091093528
+    },
+    {
+      "cle": "tablettetactile_129814tablettetactilesamsunggalaxytabs9fe124ram12go256goanthracitespeninclus8806095165035_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE+ 12,4 WIFI 256Go Anthracite",
+      "prix_base": 3458000,
+      "prix_comparaison": 3388000,
+      "indice_prix": 97.97570850202429
+    },
+    {
+      "cle": "tablettetactile_129816tablettetactilesamsunggalaxytabs9fe124ram8go128goanthracite5gspeninclus8806095164779_html",
+      "name": "Tablette Tactile - Samsung - Galaxy Tab S9 FE + - 12,4 - RAM 8Go - 128 Go - Anthracite - 5G - S Pen inclus",
+      "prix_base": 3458000,
+      "prix_comparaison": 3388000,
+      "indice_prix": 97.97570850202429
+    },
+    {
+      "cle": "tablettetactile_123933tablettetactilearchost101xhddurcie4gecranhd101android10ram2gostockage32go0690590038639_html",
+      "name": "Tablette tactile - ARCHOS - T101X HD Durcie - 4G - Ecran HD 10,1 - Android 10 - RAM 2Go - Stockage 32GO",
+      "prix_base": 943000,
+      "prix_comparaison": 924000,
+      "indice_prix": 97.98515376458113
+    },
+    {
+      "cle": "tablettetactile_30346appleipad2021102wifi64gogrissideral0194252515679_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2234000,
+      "prix_comparaison": 2189000,
+      "indice_prix": 97.98567591763653
+    },
+    {
+      "cle": "tablettetactile_128722tablettetactilesamsunggalaxytabs911ram8go128gocremespeninclus8806095071688_html",
+      "name": "Tablette Tactile SAMSUNG Galaxy Tab S9 11 WIFI 128Go Creme",
+      "prix_base": 4514000,
+      "prix_comparaison": 4424000,
+      "indice_prix": 98.00620292423571
+    },
+    {
+      "cle": "chargeuradaptateursecteur_90807adaptateursecteurmagsafe245wapplepourmacbookair0885909611607_html",
+      "name": "Adaptateur secteur MagSafe\u00a02 45\u00a0W Apple (pour MacBook\u00a0Air)",
+      "prix_base": 453000,
+      "prix_comparaison": 444000,
+      "indice_prix": 98.01324503311258
+    },
+    {
+      "cle": "tablettetactile_91186appleipadmini202183wifi64gorose0194252722435_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 64 Go - Rose",
+      "prix_base": 3521000,
+      "prix_comparaison": 3464000,
+      "indice_prix": 98.38114172110195
+    },
+    {
+      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
+      "prix_base": 11387000,
+      "prix_comparaison": 11216000,
+      "indice_prix": 98.49828752085712
+    },
+    {
+      "cle": "tablettetactile_95783appleipadmini202183wificellulaire64golumierestellaire0194252508206_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 64 Go - Lumiere Stellaire",
+      "prix_base": 4570000,
+      "prix_comparaison": 4503000,
+      "indice_prix": 98.53391684901531
+    },
+    {
+      "cle": "tablettetactile_92652appleipadmini202183wifi256gomauve0194252529874_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 256 Go - Mauve",
+      "prix_base": 4556000,
+      "prix_comparaison": 4495000,
+      "indice_prix": 98.66110623353819
+    },
+    {
+      "cle": "tablettetactile_84538appleipadmini202183wifi64gomauve0194252528525_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 64 Go - Mauve",
+      "prix_base": 3506000,
+      "prix_comparaison": 3460000,
+      "indice_prix": 98.68796349115802
+    },
+    {
+      "cle": "tablettetactile_92651appleipadmini202183wifi256gogrissideral0194252528792_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 4182000,
+      "prix_comparaison": 4133000,
+      "indice_prix": 98.82831181252989
+    },
+    {
+      "cle": "tablettetactile_95784appleipadmini202183wificellulaire256gogrissideral0194252509074_html",
+      "name": "Apple - iPad mini (2021) - 8,3 WiFi + Cellulaire - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 5141000,
+      "prix_comparaison": 5082000,
+      "indice_prix": 98.85236335343319
+    },
+    {
+      "cle": "tablettetactile_63197appleipadpro202211wifi128goargent0194253264897_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 128 Go - Argent",
+      "prix_base": 5236000,
+      "prix_comparaison": 5215000,
+      "indice_prix": 99.59893048128342
+    },
+    {
+      "cle": "tablettetactile_30386appleipadair2022109wificellulaire64gobleu0194252806821_html",
+      "name": "Apple - iPad Air (2022) - 10,9 - WiFi + Cellulaire - 64 Go - Bleu",
+      "prix_base": 4822000,
+      "prix_comparaison": 4827000,
+      "indice_prix": 100.10369141435089
+    },
+    {
+      "cle": "tablettetactile_138457tablettetactilesamsunggalaxytabs9fe109wifi128goargent8806095163543_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 WIFI 128Go Argent",
+      "prix_base": 2693000,
+      "prix_comparaison": 2696000,
+      "indice_prix": 100.11139992573338
+    },
+    {
+      "cle": "tablettetactile_138458tablettetactilesamsunggalaxytabs9fe1095g128goanthracite8806095163321_html",
+      "name": "Tablette Tactile Samsung Galaxy Tab S9 FE 10,9 5G 128Go Anthracite",
+      "prix_base": 3171000,
+      "prix_comparaison": 3175000,
+      "indice_prix": 100.12614317250079
+    },
+    {
+      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11109000,
+      "prix_comparaison": 11809000,
+      "indice_prix": 106.30119722747322
     }
   ]
 }

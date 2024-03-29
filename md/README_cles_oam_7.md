@@ -2,13 +2,19 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Théodolite digital avec trépied et mire**
+1. **Coffret à outils 416-200MZ**
+   - Prix avant: 13,200,000 Ar
+   - Prix actuel: 13,200,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+2. **Théodolite digital avec trépied et mire**
    - Prix avant: 11,900,000 Ar
    - Prix actuel: 11,900,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Plaque vibrante réversible 820x480mm Honda**
+3. **Plaque vibrante réversible 820x480mm Honda**
    - Prix avant: 21,000,000 Ar
    - Prix actuel: 21,000,000 Ar
    - Variation: 0 Ar

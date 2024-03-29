@@ -2,21 +2,15 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty**
-   - Prix avant: 21,795,000 Ar
-   - Prix actuel: 21,795,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+1. **Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E**
+   - Prix avant: 13,003,000 Ar
+   - Prix actuel: 13,154,000 Ar
+   - Variation: +151,000 Ar
+   - Indice de prix : 101.16
 
-2. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sidéral - Azerty**
-   - Prix avant: 14,661,000 Ar
-   - Prix actuel: 14,661,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty**
-   - Prix avant: 14,661,000 Ar
-   - Prix actuel: 14,661,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+2. **BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe énergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm**
+   - Prix avant: 12,063,000 Ar
+   - Prix actuel: 12,835,000 Ar
+   - Variation: +772,000 Ar
+   - Indice de prix : 106.40
 

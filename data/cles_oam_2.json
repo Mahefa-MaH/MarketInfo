@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
+      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
+      "prix_base": 10450000,
+      "prix_comparaison": 10450000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
       "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
       "prix_base": 28000000,
@@ -13,14 +21,6 @@
       "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
       "prix_base": 13395000,
       "prix_comparaison": 13395000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
-      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
-      "prix_base": 21450000,
-      "prix_comparaison": 21450000,
       "variation": 0,
       "indice_prix": 100.0
     }

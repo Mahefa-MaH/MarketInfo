@@ -1,6 +1,20 @@
 {
   "prix_augmentes": [
     {
+      "cle": "aspirateuraspirateurrobot_14216aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml_html",
+      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussi\u00e8re : 200 ml - Bac a eau : 230 ml",
+      "prix_base": 810000,
+      "prix_comparaison": 993000,
+      "variation": 183000
+    },
+    {
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 439000,
+      "prix_comparaison": 479000,
+      "variation": 40000
+    },
+    {
       "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
       "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
       "prix_base": 625005,
@@ -15,51 +29,58 @@
       "variation": 30450
     },
     {
-      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
-      "name": "Faitout rond rouge Slowcook \u00d828cm",
-      "prix_base": 508250,
-      "prix_comparaison": 535000,
-      "variation": 26750
-    },
-    {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 494000,
-      "prix_comparaison": 520000,
-      "variation": 26000
+      "cle": "promenadevoyage_14033babyonboardsacalangeraccessoiressimplyswirl_html",
+      "name": "BABY ON BOARD Sac a langer + accessoires Simply Swirl",
+      "prix_base": 267000,
+      "prix_comparaison": 294000,
+      "variation": 27000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "patesatartiner_1203pateatartinerauxnoisettesetaucacao750g_html",
-      "name": "P\u00e2te \u00e0 tartiner aux noisettes et au cacao 750 g",
-      "prix_base": 54900,
-      "prix_comparaison": 45000,
-      "variation": -9900
+      "cle": "televiseursetsupports_14838televiseur4kminiqledtcl55c803144hznatifgoogletvtcl_html",
+      "name": "T\u00e9l\u00e9viseur 4K MINI QLED TCL 55C803 - 144HZ NATIF GOOGLE TV TCL",
+      "prix_base": 5080000,
+      "prix_comparaison": 4976000,
+      "variation": -104000
     },
     {
-      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
-      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
-      "prix_base": 11495,
-      "prix_comparaison": 6900,
-      "variation": -4595
+      "cle": "barbecueplancha_14006barbecueelectriquesurpiedslivoodom297g_html",
+      "name": "Barbecue \u00e9lectrique sur pieds LIVOO - DOM297G",
+      "prix_base": 557000,
+      "prix_comparaison": 478000,
+      "variation": -79000
     },
     {
-      "cle": "volailleetvolaillepanee_8834coquelet1kg_html",
-      "name": "Coquelet 1kg",
-      "prix_base": 22500,
-      "prix_comparaison": 18900,
-      "variation": -3600
+      "cle": "consoles_14600consoleasusrogally7fhdtactileamdryzenz1extremeram16go512gossdwindows11_html",
+      "name": "Console ASUS ROG Ally | 7 FHD Tactile - AMD Ryzen Z1 Extreme - RAM 16Go - 512Go SSD - Windows 11",
+      "prix_base": 3833000,
+      "prix_comparaison": 3755000,
+      "variation": -78000
     },
     {
-      "cle": "laitconcentre_933laitconcentresucresocolait1kg_html",
-      "name": "Lait concentr\u00e9 sucr\u00e9 1kg",
-      "prix_base": 13990,
-      "prix_comparaison": 11990,
-      "variation": -2000
+      "cle": "consoles_14669packconsolexboxseriesx1000godiabloiv_html",
+      "name": "Pack Console Xbox Series X - 1000 Go +  Diablo IV",
+      "prix_base": 3113000,
+      "prix_comparaison": 3050000,
+      "variation": -63000
+    },
+    {
+      "cle": "consoles_14601consoleplaystation5editionstandardmodeleslim_html",
+      "name": "Console PlayStation 5 - Edition Standard (Modele Slim)",
+      "prix_base": 3061000,
+      "prix_comparaison": 2999000,
+      "variation": -62000
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "aspirateuraspirateurrobot_14216aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml_html",
+      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussi\u00e8re : 200 ml - Bac a eau : 230 ml",
+      "prix_base": 810000,
+      "prix_comparaison": 993000,
+      "indice_prix": 122.5925925925926
+    },
     {
       "cle": "sauceschaudessaucestomates_8298laitdecoco400ml_html",
       "name": "Lait de coco 400ml",
@@ -68,25 +89,25 @@
       "indice_prix": 110.20408163265306
     },
     {
+      "cle": "promenadevoyage_14033babyonboardsacalangeraccessoiressimplyswirl_html",
+      "name": "BABY ON BOARD Sac a langer + accessoires Simply Swirl",
+      "prix_base": 267000,
+      "prix_comparaison": 294000,
+      "indice_prix": 110.11235955056179
+    },
+    {
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 439000,
+      "prix_comparaison": 479000,
+      "indice_prix": 109.1116173120729
+    },
+    {
       "cle": "riz_14930rizjasminparfume5kg_html",
       "name": "Riz jasmin parfum\u00e9 5kg",
       "prix_base": 25000,
       "prix_comparaison": 26500,
       "indice_prix": 106.0
-    },
-    {
-      "cle": "crayonetcoloriage_7565gommeplastique_html",
-      "name": "Gomme plastique",
-      "prix_base": 1852,
-      "prix_comparaison": 1950,
-      "indice_prix": 105.29157667386609
-    },
-    {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2422,
-      "prix_comparaison": 2550,
-      "indice_prix": 105.28488852188273
     }
   ],
   "indices_prix_plus_faibles": [
@@ -117,6 +138,13 @@
       "prix_base": 1520,
       "prix_comparaison": 990,
       "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "lessiveenpoudreettablette_14293lessivepoudreconcentrenoixdecoco800g_html",
+      "name": "Lessive poudre concentr\u00e9 noix de coco 800g",
+      "prix_base": 6555,
+      "prix_comparaison": 4900,
+      "indice_prix": 74.75209763539283
     }
   ]
 }

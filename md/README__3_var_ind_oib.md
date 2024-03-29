@@ -2,69 +2,84 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Thermomètre digital résistant aux chocs avec sonde**
+1. **Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussière : 200 ml - Bac a eau : 230 ml**
+   - Prix avant: 810,000 Ar
+   - Prix actuel: 993,000 Ar
+   - Variation: +183,000 Ar
+
+2. **Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -**
+   - Prix avant: 439,000 Ar
+   - Prix actuel: 479,000 Ar
+   - Variation: +40,000 Ar
+
+3. **Thermomètre digital résistant aux chocs avec sonde**
    - Prix avant: 625,005 Ar
    - Prix actuel: 657,900 Ar
    - Variation: +32,895 Ar
 
-2. **Cafetière expresso multi caps pression de la pompe 19 bars rouge**
+4. **Cafetière expresso multi caps pression de la pompe 19 bars rouge**
    - Prix avant: 578,550 Ar
    - Prix actuel: 609,000 Ar
    - Variation: +30,450 Ar
 
-3. **Faitout rond rouge Slowcook Ø28cm**
-   - Prix avant: 508,250 Ar
-   - Prix actuel: 535,000 Ar
-   - Variation: +26,750 Ar
-
-4. **Thermomètre infrarouge**
-   - Prix avant: 494,000 Ar
-   - Prix actuel: 520,000 Ar
-   - Variation: +26,000 Ar
+5. **BABY ON BOARD Sac a langer + accessoires Simply Swirl**
+   - Prix avant: 267,000 Ar
+   - Prix actuel: 294,000 Ar
+   - Variation: +27,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Pâte à tartiner aux noisettes et au cacao 750 g**
-   - Prix avant: 54,900 Ar
-   - Prix actuel: 45,000 Ar
-   - Variation: -9,900 Ar
+1. **Téléviseur 4K MINI QLED TCL 55C803 - 144HZ NATIF GOOGLE TV TCL**
+   - Prix avant: 5,080,000 Ar
+   - Prix actuel: 4,976,000 Ar
+   - Variation: -104,000 Ar
 
-2. **Nettoyant anti calcaire salle de bains spray Avenir 750ml**
-   - Prix avant: 11,495 Ar
-   - Prix actuel: 6,900 Ar
-   - Variation: -4,595 Ar
+2. **Barbecue électrique sur pieds LIVOO - DOM297G**
+   - Prix avant: 557,000 Ar
+   - Prix actuel: 478,000 Ar
+   - Variation: -79,000 Ar
 
-3. **Coquelet 1kg**
-   - Prix avant: 22,500 Ar
-   - Prix actuel: 18,900 Ar
-   - Variation: -3,600 Ar
+3. **Console ASUS ROG Ally | 7 FHD Tactile - AMD Ryzen Z1 Extreme - RAM 16Go - 512Go SSD - Windows 11**
+   - Prix avant: 3,833,000 Ar
+   - Prix actuel: 3,755,000 Ar
+   - Variation: -78,000 Ar
 
-4. **Lait concentré sucré 1kg**
-   - Prix avant: 13,990 Ar
-   - Prix actuel: 11,990 Ar
-   - Variation: -2,000 Ar
+4. **Pack Console Xbox Series X - 1000 Go +  Diablo IV**
+   - Prix avant: 3,113,000 Ar
+   - Prix actuel: 3,050,000 Ar
+   - Variation: -63,000 Ar
+
+5. **Console PlayStation 5 - Edition Standard (Modele Slim)**
+   - Prix avant: 3,061,000 Ar
+   - Prix actuel: 2,999,000 Ar
+   - Variation: -62,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Lait de coco 400ml**
+1. **Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussière : 200 ml - Bac a eau : 230 ml**
+   - Prix avant: 810,000 Ar
+   - Prix actuel: 993,000 Ar
+   - Indice de prix : 122.59
+
+2. **Lait de coco 400ml**
    - Prix avant: 4,900 Ar
    - Prix actuel: 5,400 Ar
    - Indice de prix : 110.20
 
-2. **Riz jasmin parfumé 5kg**
+3. **BABY ON BOARD Sac a langer + accessoires Simply Swirl**
+   - Prix avant: 267,000 Ar
+   - Prix actuel: 294,000 Ar
+   - Indice de prix : 110.11
+
+4. **Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -**
+   - Prix avant: 439,000 Ar
+   - Prix actuel: 479,000 Ar
+   - Indice de prix : 109.11
+
+5. **Riz jasmin parfumé 5kg**
    - Prix avant: 25,000 Ar
    - Prix actuel: 26,500 Ar
    - Indice de prix : 106.00
-
-3. **Gomme plastique**
-   - Prix avant: 1,852 Ar
-   - Prix actuel: 1,950 Ar
-   - Indice de prix : 105.29
-
-4. **21 Etiquettes blanches 38x63mm**
-   - Prix avant: 2,422 Ar
-   - Prix actuel: 2,550 Ar
-   - Indice de prix : 105.28
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
@@ -87,4 +102,9 @@
    - Prix avant: 1,520 Ar
    - Prix actuel: 990 Ar
    - Indice de prix : 65.13
+
+5. **Lessive poudre concentré noix de coco 800g**
+   - Prix avant: 6,555 Ar
+   - Prix actuel: 4,900 Ar
+   - Indice de prix : 74.75
 

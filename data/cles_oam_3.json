@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
+      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
+      "prix_base": 21450000,
+      "prix_comparaison": 21450000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "electricitedomotique_120268onduleurapceasyupssrv6000va230vavecbatterieexterne_html",
       "name": "Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe",
       "prix_base": 11000000,
@@ -13,14 +21,6 @@
       "name": "Pilonneuse SP80-345x285 mm",
       "prix_base": 15800000,
       "prix_comparaison": 15800000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
-      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
-      "prix_base": 13103000,
-      "prix_comparaison": 13103000,
       "variation": 0,
       "indice_prix": 100.0
     }
