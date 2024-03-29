@@ -27,13 +27,6 @@
       "prix_base": 494000,
       "prix_comparaison": 520000,
       "variation": 26000
-    },
-    {
-      "cle": "accessoiresdecoupe_7014coupelegumes_html",
-      "name": "Coupe-l\u00e9gumes",
-      "prix_base": 452105,
-      "prix_comparaison": 475900,
-      "variation": 23795
     }
   ],
   "prix_diminues": [
@@ -64,13 +57,6 @@
       "prix_base": 13990,
       "prix_comparaison": 11990,
       "variation": -2000
-    },
-    {
-      "cle": "lessiveenpoudreettablette_14293lessivepoudreconcentrenoixdecoco800g_html",
-      "name": "Lessive poudre concentr\u00e9 noix de coco 800g",
-      "prix_base": 6555,
-      "prix_comparaison": 4900,
-      "variation": -1655
     }
   ],
   "indices_prix_plus_eleves": [
@@ -101,13 +87,6 @@
       "prix_base": 2422,
       "prix_comparaison": 2550,
       "indice_prix": 105.28488852188273
-    },
-    {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
@@ -138,13 +117,6 @@
       "prix_base": 1520,
       "prix_comparaison": 990,
       "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "lessiveenpoudreettablette_14293lessivepoudreconcentrenoixdecoco800g_html",
-      "name": "Lessive poudre concentr\u00e9 noix de coco 800g",
-      "prix_base": 6555,
-      "prix_comparaison": 4900,
-      "indice_prix": 74.75209763539283
     }
   ]
 }
