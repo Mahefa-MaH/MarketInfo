@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 159,
-      "prix_base": 407000,
-      "name": "croquette pour chien Giant Jr 15 kg",
-      "prix_comparaison": 444000,
-      "variation": 37000
+      "list_id": 355,
+      "prix_base": 237600,
+      "name": "Farine Boulang\u00e8re 50 Kg",
+      "prix_comparaison": 259200,
+      "variation": 21600
     },
     {
-      "list_id": 155,
-      "prix_base": 460000,
-      "name": "croquette pour chien Giant Starter 15 kg",
-      "prix_comparaison": 480000,
-      "variation": 20000
+      "list_id": 339,
+      "prix_base": 30000,
+      "name": "Boisson cacao Cioccolato Capsule Etui de 10 pi\u00e8ces",
+      "prix_comparaison": 32800,
+      "variation": 2800
     },
     {
-      "list_id": 152,
-      "prix_base": 425500,
-      "name": "Croquette pour chien Maxi Puppy 15 kg",
-      "prix_comparaison": 444000,
-      "variation": 18500
+      "list_id": 337,
+      "prix_base": 26100,
+      "name": "Cappuccino Capsule Etui de 10 pi\u00e8ces",
+      "prix_comparaison": 28600,
+      "variation": 2500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 153,
-      "prix_base": 126500,
-      "name": "Croquette pour chien Maxi Adult 4 kg",
-      "prix_comparaison": 132000,
-      "variation": 5500
+      "list_id": 368,
+      "prix_base": 12400,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_comparaison": 13700,
+      "variation": 1300
     },
     {
-      "list_id": 156,
-      "prix_base": 126500,
-      "name": "croquette pour chien Giant Puppy 3,5 kg",
-      "prix_comparaison": 132000,
-      "variation": 5500
+      "list_id": 361,
+      "prix_base": 15500,
+      "name": "Levure Saf Instant Rouge 500 G",
+      "prix_comparaison": 17200,
+      "variation": 1700
     },
     {
-      "list_id": 158,
-      "prix_base": 121000,
-      "name": "croquette pour chien Giant Junior 3,5 kg",
-      "prix_comparaison": 132000,
-      "variation": 11000
+      "list_id": 329,
+      "prix_base": 24700,
+      "name": "Caf\u00e9 Supremo Capsule Etui de 10 pi\u00e8ces",
+      "prix_comparaison": 27000,
+      "variation": 2300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 159,
-      "name": "croquette pour chien Giant Jr 15 kg",
-      "prix_base": 407000,
-      "prix_comparaison": 444000,
-      "indice_prix": 109.0909090909091
+      "list_id": 361,
+      "name": "Levure Saf Instant Rouge 500 G",
+      "prix_base": 15500,
+      "prix_comparaison": 17200,
+      "indice_prix": 110.96774193548387
     },
     {
-      "list_id": 158,
-      "name": "croquette pour chien Giant Junior 3,5 kg",
-      "prix_base": 121000,
-      "prix_comparaison": 132000,
-      "indice_prix": 109.0909090909091
+      "list_id": 368,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 12400,
+      "prix_comparaison": 13700,
+      "indice_prix": 110.48387096774194
     },
     {
-      "list_id": 168,
-      "name": "Croquette pour chien Dalmatien 12 Kg",
-      "prix_base": 345000,
-      "prix_comparaison": 360000,
-      "indice_prix": 104.34782608695652
+      "list_id": 337,
+      "name": "Cappuccino Capsule Etui de 10 pi\u00e8ces",
+      "prix_base": 26100,
+      "prix_comparaison": 28600,
+      "indice_prix": 109.57854406130268
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 153,
-      "name": "Croquette pour chien Maxi Adult 4 kg",
-      "prix_base": 126500,
-      "prix_comparaison": 132000,
-      "indice_prix": 104.34782608695652
+      "list_id": 355,
+      "name": "Farine Boulang\u00e8re 50 Kg",
+      "prix_base": 237600,
+      "prix_comparaison": 259200,
+      "indice_prix": 109.0909090909091
     },
     {
-      "list_id": 154,
-      "name": "Croquette pour chien Maxi Adult 15 Kg",
-      "prix_base": 379500,
-      "prix_comparaison": 396000,
-      "indice_prix": 104.34782608695652
+      "list_id": 329,
+      "name": "Caf\u00e9 Supremo Capsule Etui de 10 pi\u00e8ces",
+      "prix_base": 24700,
+      "prix_comparaison": 27000,
+      "indice_prix": 109.31174089068826
     },
     {
-      "list_id": 157,
-      "name": "croquette pour chien Giant Puppy 15 kg",
-      "prix_base": 425500,
-      "prix_comparaison": 444000,
-      "indice_prix": 104.34782608695652
+      "list_id": 339,
+      "name": "Boisson cacao Cioccolato Capsule Etui de 10 pi\u00e8ces",
+      "prix_base": 30000,
+      "prix_comparaison": 32800,
+      "indice_prix": 109.33333333333333
     }
   ]
 }

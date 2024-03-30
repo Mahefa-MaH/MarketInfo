@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **croquette pour chien Giant Jr 15 kg**
-   - Prix avant: 407,000 Ar
-   - Prix actuel: 444,000 Ar
-   - Variation: +37,000 Ar
+1. **Farine Boulangère 50 Kg**
+   - Prix avant: 237,600 Ar
+   - Prix actuel: 259,200 Ar
+   - Variation: +21,600 Ar
 
-2. **croquette pour chien Giant Starter 15 kg**
-   - Prix avant: 460,000 Ar
-   - Prix actuel: 480,000 Ar
-   - Variation: +20,000 Ar
+2. **Boisson cacao Cioccolato Capsule Etui de 10 pièces**
+   - Prix avant: 30,000 Ar
+   - Prix actuel: 32,800 Ar
+   - Variation: +2,800 Ar
 
-3. **Croquette pour chien Maxi Puppy 15 kg**
-   - Prix avant: 425,500 Ar
-   - Prix actuel: 444,000 Ar
-   - Variation: +18,500 Ar
+3. **Cappuccino Capsule Etui de 10 pièces**
+   - Prix avant: 26,100 Ar
+   - Prix actuel: 28,600 Ar
+   - Variation: +2,500 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Croquette pour chien Maxi Adult 4 kg**
-   - Prix avant: 126,500 Ar
-   - Prix actuel: 132,000 Ar
-   - Variation: +5,500 Ar
+1. **Sucre Blanc 1 Kg**
+   - Prix avant: 12,400 Ar
+   - Prix actuel: 13,700 Ar
+   - Variation: +1,300 Ar
 
-2. **croquette pour chien Giant Puppy 3,5 kg**
-   - Prix avant: 126,500 Ar
-   - Prix actuel: 132,000 Ar
-   - Variation: +5,500 Ar
+2. **Levure Saf Instant Rouge 500 G**
+   - Prix avant: 15,500 Ar
+   - Prix actuel: 17,200 Ar
+   - Variation: +1,700 Ar
 
-3. **croquette pour chien Giant Junior 3,5 kg**
-   - Prix avant: 121,000 Ar
-   - Prix actuel: 132,000 Ar
-   - Variation: +11,000 Ar
+3. **Café Supremo Capsule Etui de 10 pièces**
+   - Prix avant: 24,700 Ar
+   - Prix actuel: 27,000 Ar
+   - Variation: +2,300 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **croquette pour chien Giant Jr 15 kg**
-   - Prix avant: 407,000 Ar
-   - Prix actuel: 444,000 Ar
-   - Indice de prix : 109.09
+1. **Levure Saf Instant Rouge 500 G**
+   - Prix avant: 15,500 Ar
+   - Prix actuel: 17,200 Ar
+   - Indice de prix : 110.97
 
-2. **croquette pour chien Giant Junior 3,5 kg**
-   - Prix avant: 121,000 Ar
-   - Prix actuel: 132,000 Ar
-   - Indice de prix : 109.09
+2. **Sucre Blanc 1 Kg**
+   - Prix avant: 12,400 Ar
+   - Prix actuel: 13,700 Ar
+   - Indice de prix : 110.48
 
-3. **Croquette pour chien Dalmatien 12 Kg**
-   - Prix avant: 345,000 Ar
-   - Prix actuel: 360,000 Ar
-   - Indice de prix : 104.35
+3. **Cappuccino Capsule Etui de 10 pièces**
+   - Prix avant: 26,100 Ar
+   - Prix actuel: 28,600 Ar
+   - Indice de prix : 109.58
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Croquette pour chien Maxi Adult 4 kg**
-   - Prix avant: 126,500 Ar
-   - Prix actuel: 132,000 Ar
-   - Indice de prix : 104.35
+1. **Farine Boulangère 50 Kg**
+   - Prix avant: 237,600 Ar
+   - Prix actuel: 259,200 Ar
+   - Indice de prix : 109.09
 
-2. **Croquette pour chien Maxi Adult 15 Kg**
-   - Prix avant: 379,500 Ar
-   - Prix actuel: 396,000 Ar
-   - Indice de prix : 104.35
+2. **Café Supremo Capsule Etui de 10 pièces**
+   - Prix avant: 24,700 Ar
+   - Prix actuel: 27,000 Ar
+   - Indice de prix : 109.31
 
-3. **croquette pour chien Giant Puppy 15 kg**
-   - Prix avant: 425,500 Ar
-   - Prix actuel: 444,000 Ar
-   - Indice de prix : 104.35
+3. **Boisson cacao Cioccolato Capsule Etui de 10 pièces**
+   - Prix avant: 30,000 Ar
+   - Prix actuel: 32,800 Ar
+   - Indice de prix : 109.33
 
