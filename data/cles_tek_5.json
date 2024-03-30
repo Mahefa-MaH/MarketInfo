@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 12400,
-      "prix_comparaison": 12400,
+      "list_id": 7132,
+      "name": "Riz Makalioka blanc 5 kg",
+      "prix_base": 18600,
+      "prix_comparaison": 18600,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 3100,
-      "prix_comparaison": 3100,
+      "list_id": 1561,
+      "name": "Riz Rouge 5 Kg",
+      "prix_base": 18100,
+      "prix_comparaison": 18100,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 9679,
-      "name": "Sucrettes blanches  50 g",
-      "prix_base": 6300,
-      "prix_comparaison": 6300,
+      "list_id": 12451,
+      "name": "Riz rouge long grain complet 500 g",
+      "prix_base": 11900,
+      "prix_comparaison": 11900,
       "variation": 0,
       "indice_prix": 100.0
     }

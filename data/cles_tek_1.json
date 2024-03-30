@@ -1,18 +1,10 @@
 {
   "Variation de prix": [
     {
-      "list_id": 1561,
-      "name": "Riz Rouge 5 Kg",
-      "prix_base": 18100,
-      "prix_comparaison": 18100,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 12451,
-      "name": "Riz rouge long grain complet 500 g",
-      "prix_base": 11900,
-      "prix_comparaison": 11900,
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 143000,
+      "prix_comparaison": 143000,
       "variation": 0,
       "indice_prix": 100.0
     },
@@ -21,6 +13,14 @@
       "name": "Sucre Blanc 1 Kg",
       "prix_base": 12400,
       "prix_comparaison": 12400,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 3100,
+      "prix_comparaison": 3100,
       "variation": 0,
       "indice_prix": 100.0
     }
