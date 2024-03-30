@@ -2,17 +2,17 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Cuiseur Riz Inicio 2- 1,8 L**
-   - Prix avant: 410,550 Ar
-   - Prix actuel: 428,400 Ar
-   - Variation: +17,850 Ar
+1. **Sucre Blanc 1 Kg**
+   - Prix avant: 12,400 Ar
+   - Prix actuel: 13,700 Ar
+   - Variation: +1,300 Ar
 
 
 
 ## Indice de prix
 
-1. **Cuiseur Riz Inicio 2- 1,8 L**
-   - Prix avant: 410,550 Ar
-   - Prix actuel: 428,400 Ar
-   - Indice de prix : 104.35
+1. **Sucre Blanc 1 Kg**
+   - Prix avant: 12,400 Ar
+   - Prix actuel: 13,700 Ar
+   - Indice de prix : 110.48
 

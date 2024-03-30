@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 26,
-      "name": "Cuiseur Riz Inicio 2- 1,8 L",
-      "prix_base": 410550,
-      "prix_comparaison": 428400,
-      "variation": 17850
+      "list_id": 368,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 12400,
+      "prix_comparaison": 13700,
+      "variation": 1300
     }
   ],
   "indice de prix": [
     {
-      "list_id": 26,
-      "name": "Cuiseur Riz Inicio 2- 1,8 L",
-      "prix_base": 410550,
-      "prix_comparaison": 428400,
-      "indice_prix": 104.34782608695652
+      "list_id": 368,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 12400,
+      "prix_comparaison": 13700,
+      "indice_prix": 110.48387096774194
     }
   ]
 }
