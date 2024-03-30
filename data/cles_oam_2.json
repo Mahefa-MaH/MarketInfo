@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11010000,
+      "prix_comparaison": 10786000,
+      "variation": -224000,
+      "indice_prix": 97.9654859218892
     },
     {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
+      "prix_base": 10578000,
+      "prix_comparaison": 10362000,
+      "variation": -216000,
+      "indice_prix": 97.95802609188883
     },
     {
-      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
-      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
-      "prix_base": 13395000,
-      "prix_comparaison": 13395000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 10519000,
+      "prix_comparaison": 10304000,
+      "variation": -215000,
+      "indice_prix": 97.95607947523528
     }
   ]
 }

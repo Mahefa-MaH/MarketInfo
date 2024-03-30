@@ -1,28 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
-      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
-      "prix_base": 13103000,
-      "prix_comparaison": 13103000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
-      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
-      "prix_base": 19830000,
-      "prix_comparaison": 19830000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "outillage_104176stationtotaleelectronique_html",
-      "name": "Station totale \u00e9lectronique",
-      "prix_base": 17600000,
-      "prix_comparaison": 17600000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11109000,
+      "prix_comparaison": 11809000,
+      "variation": 700000,
+      "indice_prix": 106.30119722747322
     }
   ]
 }

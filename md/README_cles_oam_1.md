@@ -2,21 +2,21 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four électrique - multifonction - Noire**
-   - Prix avant: 12,483,000 Ar
-   - Prix actuel: 12,357,000 Ar
-   - Variation: -126,000 Ar
-   - Indice de prix : 98.99
+1. **Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sidéral**
+   - Prix avant: 13,845,000 Ar
+   - Prix actuel: 13,562,000 Ar
+   - Variation: -283,000 Ar
+   - Indice de prix : 97.96
 
-2. **Groupe électrogene Essence DEFPRO - 8500 W - Triphasé bi-tension**
-   - Prix avant: 10,298,000 Ar
-   - Prix actuel: 10,298,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+2. **Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent**
+   - Prix avant: 12,961,000 Ar
+   - Prix actuel: 12,697,000 Ar
+   - Variation: -264,000 Ar
+   - Indice de prix : 97.96
 
-3. **Groupe électrogène Hyundai 9/10kva 230V DHY12000XSE**
-   - Prix avant: 27,000,000 Ar
-   - Prix actuel: 27,000,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+3. **Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sidéral**
+   - Prix avant: 11,580,000 Ar
+   - Prix actuel: 11,343,000 Ar
+   - Variation: -237,000 Ar
+   - Indice de prix : 97.95
 
