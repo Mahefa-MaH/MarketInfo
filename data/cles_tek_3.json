@@ -1,8 +1,16 @@
 {
   "Variation de prix": [
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 6300,
+      "prix_comparaison": 6300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 9687,
+      "name": "Sucre blanc 1 kg",
       "prix_base": 7200,
       "prix_comparaison": 7200,
       "variation": 0,
@@ -13,14 +21,6 @@
       "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
       "prix_base": 184000,
       "prix_comparaison": 184000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 11110,
-      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
-      "prix_base": 172500,
-      "prix_comparaison": 172500,
       "variation": 0,
       "indice_prix": 100.0
     }
