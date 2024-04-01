@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Betonnière 255L gasoil KM178F**
-   - Prix avant: 14,290,000 Ar
-   - Prix actuel: 14,290,000 Ar
+1. **PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16” QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY**
+   - Prix avant: 11,792,000 Ar
+   - Prix actuel: 11,792,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Betonnière 290L essence GX 160 Honda (BET.350L-RG-LAT)**
-   - Prix avant: 12,500,000 Ar
-   - Prix actuel: 12,500,000 Ar
+2. **PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3” QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To- RTX 4090 - AZERTY**
+   - Prix avant: 17,917,000 Ar
+   - Prix actuel: 17,917,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Betonnière tractable 290 L avec moteur électrique de 2CV**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+3. **Pompe pneumatique Airless pro sur chariot 322 bars***
+   - Prix avant: 21,450,000 Ar
+   - Prix actuel: 21,450,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

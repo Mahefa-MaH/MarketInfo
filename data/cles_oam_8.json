@@ -1,20 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
-      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
-      "prix_base": 13003000,
-      "prix_comparaison": 13154000,
-      "variation": 151000,
-      "indice_prix": 101.161270476044
+      "cle": "ordinateurportable_133932apple14macbookprom3pro2023ram18gostockage1toargentazerty0195949078330_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 13847000,
+      "prix_comparaison": 13847000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
-      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
-      "prix_base": 12063000,
-      "prix_comparaison": 12835000,
-      "variation": 772000,
-      "indice_prix": 106.39973472602172
+      "cle": "ordinateurportable_133933apple14macbookprom3max2023ram36gostockage1toargentazerty0195949078774_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 19143000,
+      "prix_comparaison": 19143000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 10125000,
+      "prix_comparaison": 10125000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_103928betonniere255lgasoilkm178f_html",
-      "name": "Betonni\u00e8re 255L gasoil KM178F",
-      "prix_base": 14290000,
-      "prix_comparaison": 14290000,
+      "cle": "ordinateurportable_137456pcportablegamingerazernberazermajorx2016qhd240hzi914900hx32gossd1tohdd1tortx4070azerty4061275228540_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY",
+      "prix_base": 11792000,
+      "prix_comparaison": 11792000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
-      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
-      "prix_base": 12500000,
-      "prix_comparaison": 12500000,
+      "cle": "ordinateurportable_137454pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tohdd1tortx4090azerty4061275228335_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To- RTX 4090 - AZERTY",
+      "prix_base": 17917000,
+      "prix_comparaison": 17917000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
-      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
+      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
+      "prix_base": 21450000,
+      "prix_comparaison": 21450000,
       "variation": 0,
       "indice_prix": 100.0
     }

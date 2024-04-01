@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133945apple14macbookprom32023ram8gostockage1togrissideralazerty0195949099267_html",
-      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sid\u00e9ral - Azerty",
-      "prix_base": 10031000,
-      "prix_comparaison": 10031000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ordinateurportable_133928apple16macbookprom3max2023ram36gostockage1toargentazerty0195949076138_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 20174000,
-      "prix_comparaison": 20174000,
+      "cle": "ordinateurportable_133930apple14macbookprom3pro2023ram18gostockage1tonoirsideralazerty0195949077012_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 13964000,
+      "prix_comparaison": 13964000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
       "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
       "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
-      "prix_base": 12172000,
-      "prix_comparaison": 12172000,
+      "prix_base": 11733000,
+      "prix_comparaison": 11733000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_133174apple14macbookprom3pro2023ram18gostockage512goargentazerty0195949077890_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 11972000,
+      "prix_comparaison": 11972000,
       "variation": 0,
       "indice_prix": 100.0
     }

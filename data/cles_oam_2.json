@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
-      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 11010000,
-      "prix_comparaison": 10786000,
-      "variation": -224000,
-      "indice_prix": 97.9654859218892
+      "cle": "ordinateurportable_133928apple16macbookprom3max2023ram36gostockage1toargentazerty0195949076138_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 19597000,
+      "prix_comparaison": 19597000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
-      "prix_base": 10578000,
-      "prix_comparaison": 10362000,
-      "variation": -216000,
-      "indice_prix": 97.95802609188883
+      "cle": "ordinateurportable_133171apple16macbookprom3pro2023ram36gostockage512gonoirsideralazerty0195949074370_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 16561000,
+      "prix_comparaison": 16561000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 10519000,
-      "prix_comparaison": 10304000,
-      "variation": -215000,
-      "indice_prix": 97.95607947523528
+      "cle": "ordinateurportable_133170apple16macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949073939_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 13848000,
+      "prix_comparaison": 13848000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

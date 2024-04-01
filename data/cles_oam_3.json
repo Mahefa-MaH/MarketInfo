@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
-      "prix_base": 11387000,
-      "prix_comparaison": 11216000,
-      "variation": -171000,
-      "indice_prix": 98.49828752085712
-    },
-    {
-      "cle": "canapesofadivan_136047canapedanglegaucheconvertibleimperial5placestissugrisclair2coffresderangementl304xp212xh86cm3700538240035_html",
-      "name": "Canap\u00e9 d'angle gauche convertible IMPERIAL 5 places - Tissu gris clair - 2 coffres de rangement - L304 x P212 x H86 cm",
-      "prix_base": 10125000,
-      "prix_comparaison": 10125000,
+      "cle": "ordinateurportable_133946apple16macbookprom3max2023ram48gostockage1tonoirsideralazerty0195949185151_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 21350000,
+      "prix_comparaison": 21350000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
-      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
-      "prix_base": 10797000,
-      "prix_comparaison": 10797000,
+      "cle": "ordinateurportable_133172apple16macbookprom3pro2023ram18gostockage512goargentazerty0195949075254_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 13731000,
+      "prix_comparaison": 13731000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_133947apple16macbookprom3max2023ram48gostockage1toargentazerty0195949185601_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 20385000,
+      "prix_comparaison": 20385000,
       "variation": 0,
       "indice_prix": 100.0
     }

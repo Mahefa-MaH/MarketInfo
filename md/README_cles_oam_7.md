@@ -2,15 +2,15 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Coffret à outils 416-200MZ**
-   - Prix avant: 13,200,000 Ar
-   - Prix actuel: 13,200,000 Ar
+1. **DEKO DREAM Ensemble matelas+sommier relaxation électrique ERGO 9 Dreamzone - 2x80x200 cm - Matelas ressorts ensachés**
+   - Prix avant: 10,603,000 Ar
+   - Prix actuel: 10,603,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Théodolite digital avec trépied et mire**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+2. **DEKO DREAM Ensemble matelas+sommier relaxation électrique ERGO 9 Dreamzone - 2x90x200 cm - Matelas ressorts ensachés**
+   - Prix avant: 10,763,000 Ar
+   - Prix actuel: 10,763,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133174apple14macbookprom3pro2023ram18gostockage512goargentazerty0195949077890_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 12221000,
-      "prix_comparaison": 12221000,
+      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
+      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 19532000,
-      "prix_comparaison": 19532000,
+      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
+      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
-      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
-      "prix_base": 16683000,
-      "prix_comparaison": 16683000,
+      "cle": "outillage_103928betonniere255lgasoilkm178f_html",
+      "name": "Betonni\u00e8re 255L gasoil KM178F",
+      "prix_base": 14290000,
+      "prix_comparaison": 14290000,
       "variation": 0,
       "indice_prix": 100.0
     }
