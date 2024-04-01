@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 355,
-      "prix_base": 237600,
-      "name": "Farine Boulang\u00e8re 50 Kg",
-      "prix_comparaison": 259200,
-      "variation": 21600
+      "list_id": 12337,
+      "prix_base": 11900,
+      "name": "Serviette hygi\u00e9nique maxi normal X20",
+      "prix_comparaison": 10600,
+      "variation": -1300
     },
     {
-      "list_id": 339,
-      "prix_base": 30000,
-      "name": "Boisson cacao Cioccolato Capsule Etui de 10 pi\u00e8ces",
-      "prix_comparaison": 32800,
-      "variation": 2800
-    },
-    {
-      "list_id": 337,
-      "prix_base": 26100,
-      "name": "Cappuccino Capsule Etui de 10 pi\u00e8ces",
-      "prix_comparaison": 28600,
-      "variation": 2500
+      "list_id": 11511,
+      "prix_base": 13900,
+      "name": "Shampoing antipelliculaire 500 ml",
+      "prix_comparaison": 11900,
+      "variation": -2000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 368,
-      "prix_base": 12400,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_comparaison": 13700,
-      "variation": 1300
+      "list_id": 11511,
+      "prix_base": 13900,
+      "name": "Shampoing antipelliculaire 500 ml",
+      "prix_comparaison": 11900,
+      "variation": -2000
     },
     {
-      "list_id": 361,
-      "prix_base": 15500,
-      "name": "Levure Saf Instant Rouge 500 G",
-      "prix_comparaison": 17200,
-      "variation": 1700
-    },
-    {
-      "list_id": 329,
-      "prix_base": 24700,
-      "name": "Caf\u00e9 Supremo Capsule Etui de 10 pi\u00e8ces",
-      "prix_comparaison": 27000,
-      "variation": 2300
+      "list_id": 12337,
+      "prix_base": 11900,
+      "name": "Serviette hygi\u00e9nique maxi normal X20",
+      "prix_comparaison": 10600,
+      "variation": -1300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 361,
-      "name": "Levure Saf Instant Rouge 500 G",
-      "prix_base": 15500,
-      "prix_comparaison": 17200,
-      "indice_prix": 110.96774193548387
+      "list_id": 12337,
+      "name": "Serviette hygi\u00e9nique maxi normal X20",
+      "prix_base": 11900,
+      "prix_comparaison": 10600,
+      "indice_prix": 89.07563025210084
     },
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 12400,
-      "prix_comparaison": 13700,
-      "indice_prix": 110.48387096774194
-    },
-    {
-      "list_id": 337,
-      "name": "Cappuccino Capsule Etui de 10 pi\u00e8ces",
-      "prix_base": 26100,
-      "prix_comparaison": 28600,
-      "indice_prix": 109.57854406130268
+      "list_id": 11511,
+      "name": "Shampoing antipelliculaire 500 ml",
+      "prix_base": 13900,
+      "prix_comparaison": 11900,
+      "indice_prix": 85.61151079136691
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 355,
-      "name": "Farine Boulang\u00e8re 50 Kg",
-      "prix_base": 237600,
-      "prix_comparaison": 259200,
-      "indice_prix": 109.0909090909091
+      "list_id": 11511,
+      "name": "Shampoing antipelliculaire 500 ml",
+      "prix_base": 13900,
+      "prix_comparaison": 11900,
+      "indice_prix": 85.61151079136691
     },
     {
-      "list_id": 329,
-      "name": "Caf\u00e9 Supremo Capsule Etui de 10 pi\u00e8ces",
-      "prix_base": 24700,
-      "prix_comparaison": 27000,
-      "indice_prix": 109.31174089068826
-    },
-    {
-      "list_id": 339,
-      "name": "Boisson cacao Cioccolato Capsule Etui de 10 pi\u00e8ces",
-      "prix_base": 30000,
-      "prix_comparaison": 32800,
-      "indice_prix": 109.33333333333333
+      "list_id": 12337,
+      "name": "Serviette hygi\u00e9nique maxi normal X20",
+      "prix_base": 11900,
+      "prix_comparaison": 10600,
+      "indice_prix": 89.07563025210084
     }
   ]
 }
