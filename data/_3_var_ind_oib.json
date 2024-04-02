@@ -15,11 +15,11 @@
       "variation": 9900
     },
     {
-      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
-      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
-      "prix_base": 6900,
-      "prix_comparaison": 12100,
-      "variation": 5200
+      "cle": "beurres_2113beurredouxsocolait200g_html",
+      "name": "Beurre doux Socolait 200g",
+      "prix_base": 7500,
+      "prix_comparaison": 13000,
+      "variation": 5500
     }
   ],
   "prix_diminues": [
@@ -38,10 +38,10 @@
       "variation": 90
     },
     {
-      "cle": "insecticides_8312spiralesantimoustiquescitron_html",
-      "name": "Spirales anti-moustiques citron",
-      "prix_base": 1700,
-      "prix_comparaison": 1800,
+      "cle": "detergentvaisselle_15005liquidevaisselleminifleursdecerisier250ml_html",
+      "name": "Liquide vaisselle mini fleurs de cerisier 250ml",
+      "prix_base": 1000,
+      "prix_comparaison": 1100,
       "variation": 100
     }
   ],
@@ -54,18 +54,18 @@
       "indice_prix": 175.36231884057972
     },
     {
-      "cle": "lessiveenpoudreettablette_14294lessiveenpoudreconcentre800g_html",
-      "name": "Lessive en poudre concentr\u00e9 800g",
-      "prix_base": 4900,
-      "prix_comparaison": 6900,
-      "indice_prix": 140.81632653061226
+      "cle": "beurres_2113beurredouxsocolait200g_html",
+      "name": "Beurre doux Socolait 200g",
+      "prix_base": 7500,
+      "prix_comparaison": 13000,
+      "indice_prix": 173.33333333333334
     },
     {
-      "cle": "smartphones_14311wikifmax4gtelephoneportablemicrosdjusqua8go2500mah_html",
-      "name": "WI-KIF MAX 4G t\u00e9l\u00e9phone portable - Micro-SD jusqu'\u00e0 8Go - 2500mAh",
-      "prix_base": 49000,
-      "prix_comparaison": 69000,
-      "indice_prix": 140.81632653061226
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 7500,
+      "prix_comparaison": 13000,
+      "indice_prix": 173.33333333333334
     }
   ],
   "indices_prix_plus_faibles": [

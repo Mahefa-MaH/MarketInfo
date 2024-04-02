@@ -12,10 +12,10 @@
    - Prix actuel: 54,900 Ar
    - Variation: +9,900 Ar
 
-3. **Nettoyant anti calcaire salle de bains spray Avenir 750ml**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 12,100 Ar
-   - Variation: +5,200 Ar
+3. **Beurre doux Socolait 200g**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 13,000 Ar
+   - Variation: +5,500 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -29,9 +29,9 @@
    - Prix actuel: 990 Ar
    - Variation: +90 Ar
 
-3. **Spirales anti-moustiques citron**
-   - Prix avant: 1,700 Ar
-   - Prix actuel: 1,800 Ar
+3. **Liquide vaisselle mini fleurs de cerisier 250ml**
+   - Prix avant: 1,000 Ar
+   - Prix actuel: 1,100 Ar
    - Variation: +100 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
@@ -41,15 +41,15 @@
    - Prix actuel: 12,100 Ar
    - Indice de prix : 175.36
 
-2. **Lessive en poudre concentré 800g**
-   - Prix avant: 4,900 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 140.82
+2. **Beurre doux Socolait 200g**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 13,000 Ar
+   - Indice de prix : 173.33
 
-3. **WI-KIF MAX 4G téléphone portable - Micro-SD jusqu'à 8Go - 2500mAh**
-   - Prix avant: 49,000 Ar
-   - Prix actuel: 69,000 Ar
-   - Indice de prix : 140.82
+3. **Beurre demi sel Socolait 200g**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 13,000 Ar
+   - Indice de prix : 173.33
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
