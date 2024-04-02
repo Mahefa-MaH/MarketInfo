@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "riz_11442rizgasymena1kg_html",
+      "name": "Riz gasy mena  1kg",
+      "prix_base": 4250,
+      "prix_comparaison": 4250,
       "variation": 0,
       "indice_prix": 100.0
     },
@@ -17,10 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_11442rizgasymena1kg_html",
-      "name": "Riz gasy mena  1kg",
-      "prix_base": 4250,
-      "prix_comparaison": 4250,
+      "cle": "riz_7289rizblancdeitasy5kg_html",
+      "name": "Riz blanc de l'Itasy 5kg",
+      "prix_base": 18400,
+      "prix_comparaison": 18400,
       "variation": 0,
       "indice_prix": 100.0
     }
