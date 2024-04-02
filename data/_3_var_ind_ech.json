@@ -1,30 +1,66 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_poivron1kg_",
+      "name": "Poivron 1kg",
+      "prix_base": 3500,
+      "prix_comparaison": 6000,
+      "variation": 2500
+    },
+    {
+      "cle": "produit_poivron500g_",
+      "name": "Poivron 500 g",
+      "prix_base": 1600,
+      "prix_comparaison": 3000,
+      "variation": 1400
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_lentillesprepareessteloi44800g_",
-      "name": "Lentilles Pr\u00e9par\u00e9es St Eloi\u2122 4/4 800G",
-      "prix_base": 12000,
-      "prix_comparaison": 11280,
-      "variation": -720
+      "cle": "produit_poivron500g_",
+      "name": "Poivron 500 g",
+      "prix_base": 1600,
+      "prix_comparaison": 3000,
+      "variation": 1400
+    },
+    {
+      "cle": "produit_poivron1kg_",
+      "name": "Poivron 1kg",
+      "prix_base": 3500,
+      "prix_comparaison": 6000,
+      "variation": 2500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_lentillesprepareessteloi44800g_",
-      "name": "Lentilles Pr\u00e9par\u00e9es St Eloi\u2122 4/4 800G",
-      "prix_base": 12000,
-      "prix_comparaison": 11280,
-      "indice_prix": 94.0
+      "cle": "produit_poivron500g_",
+      "name": "Poivron 500 g",
+      "prix_base": 1600,
+      "prix_comparaison": 3000,
+      "indice_prix": 187.5
+    },
+    {
+      "cle": "produit_poivron1kg_",
+      "name": "Poivron 1kg",
+      "prix_base": 3500,
+      "prix_comparaison": 6000,
+      "indice_prix": 171.42857142857142
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_lentillesprepareessteloi44800g_",
-      "name": "Lentilles Pr\u00e9par\u00e9es St Eloi\u2122 4/4 800G",
-      "prix_base": 12000,
-      "prix_comparaison": 11280,
-      "indice_prix": 94.0
+      "cle": "produit_poivron1kg_",
+      "name": "Poivron 1kg",
+      "prix_base": 3500,
+      "prix_comparaison": 6000,
+      "indice_prix": 171.42857142857142
+    },
+    {
+      "cle": "produit_poivron500g_",
+      "name": "Poivron 500 g",
+      "prix_base": 1600,
+      "prix_comparaison": 3000,
+      "indice_prix": 187.5
     }
   ]
 }

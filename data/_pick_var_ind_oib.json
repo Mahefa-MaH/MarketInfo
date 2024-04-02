@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
-      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
-      "prix_base": 19000,
-      "prix_comparaison": 21900,
-      "variation": 2900
+      "cle": "smartphones_14311wikifmax4gtelephoneportablemicrosdjusqua8go2500mah_html",
+      "name": "WI-KIF MAX 4G t\u00e9l\u00e9phone portable - Micro-SD jusqu'\u00e0 8Go - 2500mAh",
+      "prix_base": 49000,
+      "prix_comparaison": 69000,
+      "variation": 20000
     }
   ],
   "indice de prix": [
     {
-      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
-      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
-      "prix_base": 19000,
-      "prix_comparaison": 21900,
-      "indice_prix": 115.26315789473684
+      "cle": "smartphones_14311wikifmax4gtelephoneportablemicrosdjusqua8go2500mah_html",
+      "name": "WI-KIF MAX 4G t\u00e9l\u00e9phone portable - Micro-SD jusqu'\u00e0 8Go - 2500mAh",
+      "prix_base": 49000,
+      "prix_comparaison": 69000,
+      "indice_prix": 140.81632653061226
     }
   ]
 }

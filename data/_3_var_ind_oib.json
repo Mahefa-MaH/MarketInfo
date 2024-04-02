@@ -1,150 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "aspirateuraspirateurrobot_14216aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml_html",
-      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussi\u00e8re : 200 ml - Bac a eau : 230 ml",
-      "prix_base": 810000,
-      "prix_comparaison": 993000,
-      "variation": 183000
+      "cle": "smartphones_14311wikifmax4gtelephoneportablemicrosdjusqua8go2500mah_html",
+      "name": "WI-KIF MAX 4G t\u00e9l\u00e9phone portable - Micro-SD jusqu'\u00e0 8Go - 2500mAh",
+      "prix_base": 49000,
+      "prix_comparaison": 69000,
+      "variation": 20000
     },
     {
-      "cle": "ordinateursportables_14810pcportableasusvivobook15s1504156fhdintelcorei3n305ram8go512gossdwin11_html",
-      "name": "PC Portable ASUS VivoBook 15 S1504 | 15,6 FHD - Intel Core i3-N305 - RAM 8Go - 512Go SSD - Win 11",
-      "prix_base": 2255000,
-      "prix_comparaison": 2415000,
-      "variation": 160000
+      "cle": "patesatartiner_1203pateatartinerauxnoisettesetaucacao750g_html",
+      "name": "P\u00e2te \u00e0 tartiner aux noisettes et au cacao 750 g",
+      "prix_base": 45000,
+      "prix_comparaison": 54900,
+      "variation": 9900
     },
     {
-      "cle": "cuiseurvapeurcuiseurariz_14016badabullerobotculinaire4en1beasycuitvapeurmixerechauffeetdecongele_html",
-      "name": "BADABULLE Robot culinaire 4 en 1 B.Easy - Cuit vapeur, Mixe, R\u00e9chauffe et D\u00e9congele",
-      "prix_base": 520000,
-      "prix_comparaison": 646000,
-      "variation": 126000
-    },
-    {
-      "cle": "robotmultifonctions_14022moulinexfp244110easyforcerobotmultifonctiontoutenunbol14l5accessoiresplusde20fonctionsdifferentescompact_html",
-      "name": "MOULINEX FP244110 Easy Force Robot multifonction tout en un, Bol 1,4 L, 5 accessoires, Plus de 20 fonctions diff\u00e9rentes, Compact",
-      "prix_base": 658000,
-      "prix_comparaison": 718000,
-      "variation": 60000
-    },
-    {
-      "cle": "ordinateursportables_14623pcportablegamerasustufgaminga17173fhdrtx40608goamdryzen77735hsram16go512gossdwin11_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11",
-      "prix_base": 6981000,
-      "prix_comparaison": 7026000,
-      "variation": 45000
+      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
+      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
+      "prix_base": 6900,
+      "prix_comparaison": 12100,
+      "variation": 5200
     }
   ],
   "prix_diminues": [
     {
-      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
-      "name": "iPhone 13 128Go Midnight",
-      "prix_base": 3194000,
-      "prix_comparaison": 2995000,
-      "variation": -199000
+      "cle": "nappesserviettesessuietout_15071serviettesdetable100pieces_html",
+      "name": "Serviettes de table 100 pi\u00e8ces",
+      "prix_base": 2590,
+      "prix_comparaison": 2650,
+      "variation": 60
     },
     {
-      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
-      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
-      "prix_base": 7626000,
-      "prix_comparaison": 7471000,
-      "variation": -155000
+      "cle": "biscuitssalesetbretzels_14984biscuitsminiclassictuc30g_html",
+      "name": "Biscuits mini classic Tuc 30g",
+      "prix_base": 900,
+      "prix_comparaison": 990,
+      "variation": 90
     },
     {
-      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
-      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
-      "prix_base": 5899000,
-      "prix_comparaison": 5779000,
-      "variation": -120000
-    },
-    {
-      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
-      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
-      "prix_base": 5336000,
-      "prix_comparaison": 5227000,
-      "variation": -109000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
-      "name": "iPhone 15 256GB Vert",
-      "prix_base": 5188000,
-      "prix_comparaison": 5083000,
-      "variation": -105000
+      "cle": "insecticides_8312spiralesantimoustiquescitron_html",
+      "name": "Spirales anti-moustiques citron",
+      "prix_base": 1700,
+      "prix_comparaison": 1800,
+      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cuiseurvapeurcuiseurariz_14016badabullerobotculinaire4en1beasycuitvapeurmixerechauffeetdecongele_html",
-      "name": "BADABULLE Robot culinaire 4 en 1 B.Easy - Cuit vapeur, Mixe, R\u00e9chauffe et D\u00e9congele",
-      "prix_base": 520000,
-      "prix_comparaison": 646000,
-      "indice_prix": 124.23076923076923
+      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
+      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
+      "prix_base": 6900,
+      "prix_comparaison": 12100,
+      "indice_prix": 175.36231884057972
     },
     {
-      "cle": "aspirateuraspirateurrobot_14216aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml_html",
-      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussi\u00e8re : 200 ml - Bac a eau : 230 ml",
-      "prix_base": 810000,
-      "prix_comparaison": 993000,
-      "indice_prix": 122.5925925925926
+      "cle": "lessiveenpoudreettablette_14294lessiveenpoudreconcentre800g_html",
+      "name": "Lessive en poudre concentr\u00e9 800g",
+      "prix_base": 4900,
+      "prix_comparaison": 6900,
+      "indice_prix": 140.81632653061226
     },
     {
-      "cle": "sacshoussesetuipc_14830portdesignssacadospourpcportablesourissansfilusbatypec156noir_html",
-      "name": "PORT DESIGNS Sac a dos pour PC Portable + Souris Sans Fil USB A & Type C - 15,6 - Noir",
-      "prix_base": 161000,
-      "prix_comparaison": 190000,
-      "indice_prix": 118.01242236024845
-    },
-    {
-      "cle": "potreducteurdewc_14041thermobabyreducteurdewckiddyloorosepoudre_html",
-      "name": "THERMOBABY Reducteur de wc kiddyloo - Rose poudr\u00e9",
-      "prix_base": 240000,
-      "prix_comparaison": 271000,
-      "indice_prix": 112.91666666666667
-    },
-    {
-      "cle": "biscuitssecssables_9067biscuitcomplet47g_html",
-      "name": "Biscuit complet 47g",
-      "prix_base": 900,
-      "prix_comparaison": 1000,
-      "indice_prix": 111.11111111111111
+      "cle": "smartphones_14311wikifmax4gtelephoneportablemicrosdjusqua8go2500mah_html",
+      "name": "WI-KIF MAX 4G t\u00e9l\u00e9phone portable - Micro-SD jusqu'\u00e0 8Go - 2500mAh",
+      "prix_base": 49000,
+      "prix_comparaison": 69000,
+      "indice_prix": 140.81632653061226
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
-      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
-      "prix_base": 11495,
-      "prix_comparaison": 6900,
-      "indice_prix": 60.02609830361027
+      "cle": "nappesserviettesessuietout_15071serviettesdetable100pieces_html",
+      "name": "Serviettes de table 100 pi\u00e8ces",
+      "prix_base": 2590,
+      "prix_comparaison": 2650,
+      "indice_prix": 102.31660231660231
     },
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
+      "cle": "insecticides_8312spiralesantimoustiquescitron_html",
+      "name": "Spirales anti-moustiques citron",
+      "prix_base": 1700,
+      "prix_comparaison": 1800,
+      "indice_prix": 105.88235294117646
     },
     {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "lessiveenpoudreettablette_14293lessivepoudreconcentrenoixdecoco800g_html",
-      "name": "Lessive poudre concentr\u00e9 noix de coco 800g",
-      "prix_base": 6555,
-      "prix_comparaison": 4900,
-      "indice_prix": 74.75209763539283
+      "cle": "sucres_1672sucrerouxambilobe1kg_html",
+      "name": "Sucre roux Ambilobe 1kg",
+      "prix_base": 5490,
+      "prix_comparaison": 5900,
+      "indice_prix": 107.46812386156648
     }
   ]
 }
