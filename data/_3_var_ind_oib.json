@@ -20,6 +20,20 @@
       "prix_base": 7500,
       "prix_comparaison": 13000,
       "variation": 5500
+    },
+    {
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 7500,
+      "prix_comparaison": 13000,
+      "variation": 5500
+    },
+    {
+      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
+      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
+      "prix_base": 6900,
+      "prix_comparaison": 12100,
+      "variation": 5200
     }
   ],
   "prix_diminues": [
@@ -42,6 +56,20 @@
       "name": "Liquide vaisselle mini fleurs de cerisier 250ml",
       "prix_base": 1000,
       "prix_comparaison": 1100,
+      "variation": 100
+    },
+    {
+      "cle": "detergentvaisselle_15004liquidevaisselleminimenthecitron250ml_html",
+      "name": "Liquide vaisselle mini menthe citron 250ml",
+      "prix_base": 1000,
+      "prix_comparaison": 1100,
+      "variation": 100
+    },
+    {
+      "cle": "insecticides_8312spiralesantimoustiquescitron_html",
+      "name": "Spirales anti-moustiques citron",
+      "prix_base": 1700,
+      "prix_comparaison": 1800,
       "variation": 100
     }
   ],
@@ -66,6 +94,20 @@
       "prix_base": 7500,
       "prix_comparaison": 13000,
       "indice_prix": 173.33333333333334
+    },
+    {
+      "cle": "lessiveenpoudreettablette_14293lessivepoudreconcentrenoixdecoco800g_html",
+      "name": "Lessive poudre concentr\u00e9 noix de coco 800g",
+      "prix_base": 4900,
+      "prix_comparaison": 6900,
+      "indice_prix": 140.81632653061226
+    },
+    {
+      "cle": "lessiveenpoudreettablette_14294lessiveenpoudreconcentre800g_html",
+      "name": "Lessive en poudre concentr\u00e9 800g",
+      "prix_base": 4900,
+      "prix_comparaison": 6900,
+      "indice_prix": 140.81632653061226
     }
   ],
   "indices_prix_plus_faibles": [
@@ -89,6 +131,20 @@
       "prix_base": 5490,
       "prix_comparaison": 5900,
       "indice_prix": 107.46812386156648
+    },
+    {
+      "cle": "pates_14412spaghettifrancini500g_html",
+      "name": "Spaghetti francini 500g",
+      "prix_base": 2290,
+      "prix_comparaison": 2490,
+      "indice_prix": 108.73362445414847
+    },
+    {
+      "cle": "huiles_1895huiledetournesollafatra1l_html",
+      "name": "Huile de tournesol Lafatra 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 9700,
+      "indice_prix": 108.98876404494382
     }
   ]
 }
