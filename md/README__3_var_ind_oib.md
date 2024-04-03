@@ -17,32 +17,22 @@
    - Prix actuel: 1,520 Ar
    - Variation: +530 Ar
 
-4. **Savon de toilette cerise 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Variation: +530 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Table à repasser Technic 130x44cm**
-   - Prix avant: 420,000 Ar
-   - Prix actuel: 399,000 Ar
-   - Variation: -21,000 Ar
+1. **Thermomètre digital résistant aux chocs avec sonde**
+   - Prix avant: 657,900 Ar
+   - Prix actuel: 625,005 Ar
+   - Variation: -32,895 Ar
 
-2. **Centrale vapeur 2200W**
-   - Prix avant: 370,000 Ar
-   - Prix actuel: 351,500 Ar
-   - Variation: -18,500 Ar
+2. **Cafetière expresso multi caps pression de la pompe 19 bars rouge**
+   - Prix avant: 609,000 Ar
+   - Prix actuel: 578,550 Ar
+   - Variation: -30,450 Ar
 
-3. **Fer à vapeur 2200W**
-   - Prix avant: 340,000 Ar
-   - Prix actuel: 323,000 Ar
-   - Variation: -17,000 Ar
-
-4. **Séchoir tour 46 mètres**
-   - Prix avant: 275,000 Ar
-   - Prix actuel: 261,250 Ar
-   - Variation: -13,750 Ar
+3. **Faitout rond rouge Slowcook Ø28cm**
+   - Prix avant: 535,000 Ar
+   - Prix actuel: 508,250 Ar
+   - Variation: -26,750 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -61,30 +51,20 @@
    - Prix actuel: 1,520 Ar
    - Indice de prix : 153.54
 
-4. **Nettoyant lave-sol citron 1L**
-   - Prix avant: 5,990 Ar
-   - Prix actuel: 6,600 Ar
-   - Indice de prix : 110.18
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **21 Etiquettes blanches 38x63mm**
-   - Prix avant: 2,550 Ar
-   - Prix actuel: 2,422 Ar
-   - Indice de prix : 94.98
+1. **Biscuits prince fourrés  choco pochon 60g**
+   - Prix avant: 1,400 Ar
+   - Prix actuel: 1,300 Ar
+   - Indice de prix : 92.86
 
-2. **Vaseline 50ml**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,612 Ar
-   - Indice de prix : 94.98
+2. **Biscuits prince fourrés vanille pochon 60g**
+   - Prix avant: 1,400 Ar
+   - Prix actuel: 1,300 Ar
+   - Indice de prix : 92.86
 
-3. **Talc bébé poudre 75g**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,612 Ar
-   - Indice de prix : 94.98
-
-4. **Eau fortement pétillante 1,25L**
-   - Prix avant: 3,750 Ar
-   - Prix actuel: 3,562 Ar
-   - Indice de prix : 94.99
+3. **Gomme plastique**
+   - Prix avant: 1,950 Ar
+   - Prix actuel: 1,852 Ar
+   - Indice de prix : 94.97
 

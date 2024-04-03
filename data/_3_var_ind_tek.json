@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 12337,
-      "prix_base": 11900,
-      "name": "Serviette hygi\u00e9nique maxi normal X20",
-      "prix_comparaison": 10600,
-      "variation": -1300
+      "list_id": 649,
+      "prix_base": 72139.5,
+      "name": "Eau de parfum Perpetual Silver Pearl 100 Ml",
+      "prix_comparaison": 75300,
+      "variation": 3160.5
     },
     {
-      "list_id": 11511,
-      "prix_base": 13900,
-      "name": "Shampoing antipelliculaire 500 ml",
-      "prix_comparaison": 11900,
-      "variation": -2000
+      "list_id": 646,
+      "prix_base": 72139.5,
+      "name": "Eau de parfum Perpetual Pearl 100 Ml",
+      "prix_comparaison": 75300,
+      "variation": 3160.5
+    },
+    {
+      "list_id": 645,
+      "prix_base": 72139.5,
+      "name": "Eau de parfum Perpetual Black Pearl 100 Ml",
+      "prix_comparaison": 75300,
+      "variation": 3160.5
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 11511,
-      "prix_base": 13900,
-      "name": "Shampoing antipelliculaire 500 ml",
-      "prix_comparaison": 11900,
-      "variation": -2000
+      "list_id": 10073,
+      "prix_base": 22300,
+      "name": "Papier photocopie A4 80 g",
+      "prix_comparaison": 18600,
+      "variation": -3700
     },
     {
-      "list_id": 12337,
-      "prix_base": 11900,
-      "name": "Serviette hygi\u00e9nique maxi normal X20",
-      "prix_comparaison": 10600,
-      "variation": -1300
+      "list_id": 7065,
+      "prix_base": 2900,
+      "name": "Cahier 17x22 s\u00e9y\u00e8s 90 g 48 pages Pixel 9",
+      "prix_comparaison": 3000,
+      "variation": 100
+    },
+    {
+      "list_id": 7080,
+      "prix_base": 2200,
+      "name": "Cahier 17x22 s\u00e9y\u00e8s 70 g 48 pages Pixel 7",
+      "prix_comparaison": 2300,
+      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 12337,
-      "name": "Serviette hygi\u00e9nique maxi normal X20",
-      "prix_base": 11900,
-      "prix_comparaison": 10600,
-      "indice_prix": 89.07563025210084
+      "list_id": 730,
+      "name": "Poudre de Talc Parfum\u00e9 70 g",
+      "prix_base": 600,
+      "prix_comparaison": 700,
+      "indice_prix": 116.66666666666667
     },
     {
-      "list_id": 11511,
-      "name": "Shampoing antipelliculaire 500 ml",
-      "prix_base": 13900,
-      "prix_comparaison": 11900,
-      "indice_prix": 85.61151079136691
+      "list_id": 7009,
+      "name": "Cahier scolaire A4 seyes 96 pages 70g",
+      "prix_base": 7400,
+      "prix_comparaison": 8300,
+      "indice_prix": 112.16216216216216
+    },
+    {
+      "list_id": 733,
+      "name": "Eau De Rose 125 ml",
+      "prix_base": 2100,
+      "prix_comparaison": 2300,
+      "indice_prix": 109.52380952380952
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 11511,
-      "name": "Shampoing antipelliculaire 500 ml",
-      "prix_base": 13900,
-      "prix_comparaison": 11900,
-      "indice_prix": 85.61151079136691
+      "list_id": 10073,
+      "name": "Papier photocopie A4 80 g",
+      "prix_base": 22300,
+      "prix_comparaison": 18600,
+      "indice_prix": 83.40807174887892
     },
     {
-      "list_id": 12337,
-      "name": "Serviette hygi\u00e9nique maxi normal X20",
-      "prix_base": 11900,
-      "prix_comparaison": 10600,
-      "indice_prix": 89.07563025210084
+      "list_id": 7082,
+      "name": "Cahier 17x22 s\u00e9y\u00e8s 70 g 96 pages Pixel 7",
+      "prix_base": 3500,
+      "prix_comparaison": 3600,
+      "indice_prix": 102.85714285714286
+    },
+    {
+      "list_id": 7065,
+      "name": "Cahier 17x22 s\u00e9y\u00e8s 90 g 48 pages Pixel 9",
+      "prix_base": 2900,
+      "prix_comparaison": 3000,
+      "indice_prix": 103.44827586206897
     }
   ]
 }

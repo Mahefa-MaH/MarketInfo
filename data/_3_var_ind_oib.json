@@ -20,43 +20,29 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "variation": 530
-    },
-    {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "variation": 530
     }
   ],
   "prix_diminues": [
     {
-      "cle": "accessoirespourlentretiendulinge_11689tablearepassertechnic130x44cmdomedia_html",
-      "name": "Table \u00e0 repasser Technic 130x44cm",
-      "prix_base": 420000,
-      "prix_comparaison": 399000,
-      "variation": -21000
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 657900,
+      "prix_comparaison": 625005,
+      "variation": -32895
     },
     {
-      "cle": "centralevapeurdefroisseur_11866centralevapeur2200wdomedia_html",
-      "name": "Centrale vapeur 2200W",
-      "prix_base": 370000,
-      "prix_comparaison": 351500,
-      "variation": -18500
+      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
+      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
+      "prix_base": 609000,
+      "prix_comparaison": 578550,
+      "variation": -30450
     },
     {
-      "cle": "ferarepasser_14046feravapeur2200w_html",
-      "name": "Fer \u00e0 vapeur 2200W",
-      "prix_base": 340000,
-      "prix_comparaison": 323000,
-      "variation": -17000
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_11801sechoirtour46metresdomedia_html",
-      "name": "S\u00e9choir tour 46 m\u00e8tres",
-      "prix_base": 275000,
-      "prix_comparaison": 261250,
-      "variation": -13750
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 535000,
+      "prix_comparaison": 508250,
+      "variation": -26750
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,43 +66,29 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "indice_prix": 153.53535353535352
-    },
-    {
-      "cle": "nettoyantssolsetmeubles_15048lavecitron1l_html",
-      "name": "Nettoyant lave-sol citron 1L",
-      "prix_base": 5990,
-      "prix_comparaison": 6600,
-      "indice_prix": 110.18363939899832
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2550,
-      "prix_comparaison": 2422,
-      "indice_prix": 94.98039215686275
+      "cle": "biscuitsfourres_14998biscuitsfourreschocopochon60g_html",
+      "name": "Biscuits prince fourr\u00e9s  choco pochon 60g",
+      "prix_base": 1400,
+      "prix_comparaison": 1300,
+      "indice_prix": 92.85714285714286
     },
     {
-      "cle": "cremessoinsducorps_2386vaseline50ml_html",
-      "name": "Vaseline 50ml",
-      "prix_base": 2750,
-      "prix_comparaison": 2612,
-      "indice_prix": 94.98181818181818
+      "cle": "biscuitsfourres_15001biscuitsprincefourresvanillepochon60g_html",
+      "name": "Biscuits prince fourr\u00e9s vanille pochon 60g",
+      "prix_base": 1400,
+      "prix_comparaison": 1300,
+      "indice_prix": 92.85714285714286
     },
     {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2750,
-      "prix_comparaison": 2612,
-      "indice_prix": 94.98181818181818
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_14167eaufortementpetillante125l_html",
-      "name": "Eau fortement p\u00e9tillante 1,25L",
-      "prix_base": 3750,
-      "prix_comparaison": 3562,
-      "indice_prix": 94.98666666666666
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1950,
+      "prix_comparaison": 1852,
+      "indice_prix": 94.97435897435898
     }
   ]
 }
