@@ -1,37 +1,37 @@
 {
   "prix_augmentes": [
     {
-      "cle": "nettoyantsdemaquillants_13202demaquillantbiphasespecialwaterproof150mglabell_html",
-      "name": "D\u00e9maquillant biphas\u00e9 sp\u00e9cial waterproof 150mg",
-      "prix_base": 11500,
-      "prix_comparaison": 10925,
-      "variation": -575
+      "cle": "autresproduitsaperitifs_12552popcorncaramel100gboutondor_html",
+      "name": "Pop corn caramel 100g",
+      "prix_base": 4800,
+      "prix_comparaison": 4560,
+      "variation": -240
     }
   ],
   "prix_diminues": [
     {
-      "cle": "nettoyantsdemaquillants_13202demaquillantbiphasespecialwaterproof150mglabell_html",
-      "name": "D\u00e9maquillant biphas\u00e9 sp\u00e9cial waterproof 150mg",
-      "prix_base": 11500,
-      "prix_comparaison": 10925,
-      "variation": -575
+      "cle": "cafesolublechicoreecappuccino_12206cafesolublenes25sticks50gnescafe_html",
+      "name": "Caf\u00e9 soluble NES 25 sticks 50g",
+      "prix_base": 16500,
+      "prix_comparaison": 15675,
+      "variation": -825
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "nettoyantsdemaquillants_13202demaquillantbiphasespecialwaterproof150mglabell_html",
-      "name": "D\u00e9maquillant biphas\u00e9 sp\u00e9cial waterproof 150mg",
-      "prix_base": 11500,
-      "prix_comparaison": 10925,
+      "cle": "autresproduitsaperitifs_12552popcorncaramel100gboutondor_html",
+      "name": "Pop corn caramel 100g",
+      "prix_base": 4800,
+      "prix_comparaison": 4560,
       "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "nettoyantsdemaquillants_13202demaquillantbiphasespecialwaterproof150mglabell_html",
-      "name": "D\u00e9maquillant biphas\u00e9 sp\u00e9cial waterproof 150mg",
-      "prix_base": 11500,
-      "prix_comparaison": 10925,
+      "cle": "autresproduitsaperitifs_14968noixdecajousansselajoute125g_html",
+      "name": "Noix de cajou sans sel ajout\u00e9 125g",
+      "prix_base": 10500,
+      "prix_comparaison": 9975,
       "indice_prix": 95.0
     }
   ]

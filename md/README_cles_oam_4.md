@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Argent - Azerty**
-   - Prix avant: 16,098,000 Ar
-   - Prix actuel: 16,098,000 Ar
+1. **Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sidéral**
+   - Prix avant: 10,304,000 Ar
+   - Prix actuel: 10,304,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
-   - Prix avant: 18,291,000 Ar
-   - Prix actuel: 18,291,000 Ar
+2. **Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sidéral**
+   - Prix avant: 10,786,000 Ar
+   - Prix actuel: 10,786,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Groupe électrogène Hyundai 9/10kva 230V DHY12000XSE**
-   - Prix avant: 27,000,000 Ar
-   - Prix actuel: 27,000,000 Ar
+3. **Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sidéral**
+   - Prix avant: 11,809,000 Ar
+   - Prix actuel: 11,809,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

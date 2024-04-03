@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133946apple16macbookprom3max2023ram48gostockage1tonoirsideralazerty0195949185151_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 21350000,
-      "prix_comparaison": 21350000,
+      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
+      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
+      "prix_base": 17500000,
+      "prix_comparaison": 17500000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133172apple16macbookprom3pro2023ram18gostockage512goargentazerty0195949075254_html",
-      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 13731000,
-      "prix_comparaison": 13731000,
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13562000,
+      "prix_comparaison": 13562000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133947apple16macbookprom3max2023ram48gostockage1toargentazerty0195949185601_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 20385000,
-      "prix_comparaison": 20385000,
+      "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 11343000,
+      "prix_comparaison": 11343000,
       "variation": 0,
       "indice_prix": 100.0
     }

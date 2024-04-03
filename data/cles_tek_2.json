@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13304,
-      "name": "Riz Rouge (Vary mena) 50kg",
-      "prix_base": 240000,
-      "prix_comparaison": 240000,
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10700,
+      "prix_comparaison": 10700,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 249300,
-      "prix_comparaison": 249300,
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9300,
+      "prix_comparaison": 9300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3826,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 7300,
-      "prix_comparaison": 7300,
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 7200,
+      "prix_comparaison": 7200,
       "variation": 0,
       "indice_prix": 100.0
     }

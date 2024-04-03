@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133173apple16macbookprom3pro2023ram36gostockage512goargentazerty0195949075698_html",
-      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 16098000,
-      "prix_comparaison": 16098000,
+      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 10304000,
+      "prix_comparaison": 10304000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_135417apple16macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949074813_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 18291000,
-      "prix_comparaison": 18291000,
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 10786000,
+      "prix_comparaison": 10786000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "offrestbloc_102073groupeelectrogenehyundai910kva230vdhy12000xse_html",
-      "name": "Groupe \u00e9lectrog\u00e8ne Hyundai 9/10kva 230V DHY12000XSE",
-      "prix_base": 27000000,
-      "prix_comparaison": 27000000,
+      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11809000,
+      "prix_comparaison": 11809000,
       "variation": 0,
       "indice_prix": 100.0
     }
