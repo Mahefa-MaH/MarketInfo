@@ -1,150 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
-      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 11109000,
-      "prix_comparaison": 11809000,
-      "variation": 700000
+      "cle": "gommagecorpsexfoliantcorps_132411gommagecorpsheliagreen_html",
+      "name": "Gommage corps HELIAGREEN",
+      "prix_base": 140000,
+      "prix_comparaison": 175000,
+      "variation": 35000
     },
     {
-      "cle": "chaussurebottesurchaussure_9430716345tcxchaussuresmoto40_html_59taille40",
-      "name": "TCX - Chaussures moto 40",
-      "prix_base": 542000,
-      "prix_comparaison": 1033000,
-      "variation": 491000
-    },
-    {
-      "cle": "aspirateurrobot_93649aspirateurrobotlaveurdreamel10sultraautonomie210minpuissancedaspiration5300pabacapoussiere350ml6973734681477_html",
-      "name": "Dreame L10s Ultra Robot Aspirateur Laveur avec Base Autonettoyante - AI D\u00e9tection d'obstacles 3D - 5300Pa",
-      "prix_base": 5940000,
-      "prix_comparaison": 6410000,
-      "variation": 470000
-    },
-    {
-      "cle": "aspirateurrobot_47144aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml3508510066556_html",
-      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussiere : 200 ml - Bac a eau : 230 ml",
-      "prix_base": 810000,
-      "prix_comparaison": 993000,
-      "variation": 183000
-    },
-    {
-      "cle": "aspirateurrobot_137175newkarcherrcf3robotlaveurdesolsconnecteautonomie120minrouleaudenettoyagenavigationlidarprogrammable4054278999036_html",
-      "name": "NEW KARCHER RCF 3 - Robot Laveur de sols connect\u00e9 - Autonomie 120 min - Rouleau de nettoyage - Navigation LiDAR - Programmable",
-      "prix_base": 2899000,
-      "prix_comparaison": 3056000,
-      "variation": 157000
+      "cle": "nettoyantvisagedemaquillant_133556lotiondouce200ml_html",
+      "name": "Lotion douce 200 ml",
+      "prix_base": 104000,
+      "prix_comparaison": 130000,
+      "variation": 26000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "aspirateurrobot_135918dreamel10sproultrarobotaspirateurlaveuravecstationdenettoyageautomatiquepuissance7000patechnologiemopexten6973734686359_html",
-      "name": "DREAME L10s PRO ULTRA - Robot Aspirateur Laveur avec station de nettoyage automatique - Puissance 7000 Pa - Technologie MopExten",
-      "prix_base": 7284000,
-      "prix_comparaison": 6173000,
-      "variation": -1111000
+      "cle": "nettoyantvisagedemaquillant_133556lotiondouce200ml_html",
+      "name": "Lotion douce 200 ml",
+      "prix_base": 104000,
+      "prix_comparaison": 130000,
+      "variation": 26000
     },
     {
-      "cle": "tablettetactile_63243appleipad2022109wifi64gorose0194253388272_html",
-      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Rose",
-      "prix_base": 3148000,
-      "prix_comparaison": 2377000,
-      "variation": -771000
-    },
-    {
-      "cle": "tablettetactile_63241appleipad2022109wifi64gobleu0194253387732_html",
-      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Bleu",
-      "prix_base": 3208000,
-      "prix_comparaison": 2825000,
-      "variation": -383000
-    },
-    {
-      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 13845000,
-      "prix_comparaison": 13562000,
-      "variation": -283000
-    },
-    {
-      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
-      "prix_base": 12961000,
-      "prix_comparaison": 12697000,
-      "variation": -264000
+      "cle": "gommagecorpsexfoliantcorps_132411gommagecorpsheliagreen_html",
+      "name": "Gommage corps HELIAGREEN",
+      "prix_base": 140000,
+      "prix_comparaison": 175000,
+      "variation": 35000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "chaussurebottesurchaussure_9430716345tcxchaussuresmoto40_html_59taille40",
-      "name": "TCX - Chaussures moto 40",
-      "prix_base": 542000,
-      "prix_comparaison": 1033000,
-      "indice_prix": 190.59040590405905
+      "cle": "gommagecorpsexfoliantcorps_132411gommagecorpsheliagreen_html",
+      "name": "Gommage corps HELIAGREEN",
+      "prix_base": 140000,
+      "prix_comparaison": 175000,
+      "indice_prix": 125.0
     },
     {
-      "cle": "gantssousgants_9429616327stormergantsmotourbannoir_html_110taillem_9",
-      "name": "STORMER, Gants moto Urba M (9)",
-      "prix_base": 145000,
-      "prix_comparaison": 234000,
-      "indice_prix": 161.3793103448276
-    },
-    {
-      "cle": "aspirateurrobot_47144aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml3508510066556_html",
-      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussiere : 200 ml - Bac a eau : 230 ml",
-      "prix_base": 810000,
-      "prix_comparaison": 993000,
-      "indice_prix": 122.5925925925926
-    },
-    {
-      "cle": "outildereparationpneu_47008reparecrevaisonrapideholtspourpneu155195mmpetitecitadinemoyenneberline720510300013256644432005_html",
-      "name": "R\u00e9pare-crevaison rapide Holts pour (pneu 155 /195 mm) petite citadine / moyenne berline 72051030001.",
-      "prix_base": 98000,
-      "prix_comparaison": 116000,
-      "indice_prix": 118.36734693877551
-    },
-    {
-      "cle": "lesimbattablesmeilleursproduitsaumeilleurprix_94334liseusenumeriquevivliotouchhdpackdebooksdeplusde8ebooksoffert7640152095528_html",
-      "name": "Liseuse num\u00e9rique Vivlio Touch HD + Pack d'ebooks de plus de 8 Ebooks OFFERT",
-      "prix_base": 851000,
-      "prix_comparaison": 959000,
-      "indice_prix": 112.6909518213866
+      "cle": "nettoyantvisagedemaquillant_133556lotiondouce200ml_html",
+      "name": "Lotion douce 200 ml",
+      "prix_base": 104000,
+      "prix_comparaison": 130000,
+      "indice_prix": 125.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "tablettetactile_63243appleipad2022109wifi64gorose0194253388272_html",
-      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Rose",
-      "prix_base": 3148000,
-      "prix_comparaison": 2377000,
-      "indice_prix": 75.50825921219823
+      "cle": "nettoyantvisagedemaquillant_133556lotiondouce200ml_html",
+      "name": "Lotion douce 200 ml",
+      "prix_base": 104000,
+      "prix_comparaison": 130000,
+      "indice_prix": 125.0
     },
     {
-      "cle": "aspirateurrobot_135918dreamel10sproultrarobotaspirateurlaveuravecstationdenettoyageautomatiquepuissance7000patechnologiemopexten6973734686359_html",
-      "name": "DREAME L10s PRO ULTRA - Robot Aspirateur Laveur avec station de nettoyage automatique - Puissance 7000 Pa - Technologie MopExten",
-      "prix_base": 7284000,
-      "prix_comparaison": 6173000,
-      "indice_prix": 84.74739154310818
-    },
-    {
-      "cle": "tablettetactile_63241appleipad2022109wifi64gobleu0194253387732_html",
-      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Bleu",
-      "prix_base": 3208000,
-      "prix_comparaison": 2825000,
-      "indice_prix": 88.06109725685785
-    },
-    {
-      "cle": "tablettetactile_63240appleipad2022109wifi64goargent0194253387466_html",
-      "name": "Apple - iPad (2022) - 10.9 - WiFi - 64 Go - Argent",
-      "prix_base": 2471000,
-      "prix_comparaison": 2365000,
-      "indice_prix": 95.71023876972886
-    },
-    {
-      "cle": "tablettetactile_90218appleipadmini202183wifi64golumierestellaire0194252527986_html",
-      "name": "Apple - iPad mini (2021) - 8,3 WiFi - 64 Go - Lumiere Stellaire",
-      "prix_base": 3580000,
-      "prix_comparaison": 3450000,
-      "indice_prix": 96.36871508379889
+      "cle": "gommagecorpsexfoliantcorps_132411gommagecorpsheliagreen_html",
+      "name": "Gommage corps HELIAGREEN",
+      "prix_base": 140000,
+      "prix_comparaison": 175000,
+      "indice_prix": 125.0
     }
   ]
 }

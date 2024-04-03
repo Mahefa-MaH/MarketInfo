@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
-   - Prix avant: 172,500 Ar
-   - Prix actuel: 172,500 Ar
+3. **Riz blanc import de Inde 50 kg**
+   - Prix avant: 143,000 Ar
+   - Prix actuel: 143,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

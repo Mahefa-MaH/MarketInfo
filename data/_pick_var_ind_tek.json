@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 12400,
-      "prix_comparaison": 13700,
-      "variation": 1300
+      "list_id": 691,
+      "name": "D\u00e9odorant Arome By Arthes 150 Ml",
+      "prix_base": 14800,
+      "prix_comparaison": 15500,
+      "variation": 700
     }
   ],
   "indice de prix": [
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 12400,
-      "prix_comparaison": 13700,
-      "indice_prix": 110.48387096774194
+      "list_id": 691,
+      "name": "D\u00e9odorant Arome By Arthes 150 Ml",
+      "prix_base": 14800,
+      "prix_comparaison": 15500,
+      "indice_prix": 104.72972972972973
     }
   ]
 }
