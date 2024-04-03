@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz de table Makalioka 5kg**
-   - Prix avant: 18,990 Ar
-   - Prix actuel: 18,990 Ar
+2. **Riz makalioka 1kg**
+   - Prix avant: 4,350 Ar
+   - Prix actuel: 4,350 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc en morceaux 1kg**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 14,900 Ar
+3. **Riz makalioka 5kg**
+   - Prix avant: 21,750 Ar
+   - Prix actuel: 21,750 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

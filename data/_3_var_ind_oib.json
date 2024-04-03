@@ -1,150 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "smartphones_14311wikifmax4gtelephoneportablemicrosdjusqua8go2500mah_html",
-      "name": "WI-KIF MAX 4G t\u00e9l\u00e9phone portable - Micro-SD jusqu'\u00e0 8Go - 2500mAh",
-      "prix_base": 49000,
-      "prix_comparaison": 69000,
-      "variation": 20000
-    },
-    {
-      "cle": "patesatartiner_1203pateatartinerauxnoisettesetaucacao750g_html",
-      "name": "P\u00e2te \u00e0 tartiner aux noisettes et au cacao 750 g",
-      "prix_base": 45000,
-      "prix_comparaison": 54900,
-      "variation": 9900
-    },
-    {
-      "cle": "beurres_2113beurredouxsocolait200g_html",
-      "name": "Beurre doux Socolait 200g",
-      "prix_base": 7500,
-      "prix_comparaison": 13000,
-      "variation": 5500
-    },
-    {
-      "cle": "beurres_2114beurresocolaitdemisel200g_html",
-      "name": "Beurre demi sel Socolait 200g",
-      "prix_base": 7500,
-      "prix_comparaison": 13000,
-      "variation": 5500
-    },
-    {
-      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
-      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
-      "prix_base": 6900,
-      "prix_comparaison": 12100,
-      "variation": 5200
+      "cle": "nettoyantsdemaquillants_13202demaquillantbiphasespecialwaterproof150mglabell_html",
+      "name": "D\u00e9maquillant biphas\u00e9 sp\u00e9cial waterproof 150mg",
+      "prix_base": 11500,
+      "prix_comparaison": 10925,
+      "variation": -575
     }
   ],
   "prix_diminues": [
     {
-      "cle": "nappesserviettesessuietout_15071serviettesdetable100pieces_html",
-      "name": "Serviettes de table 100 pi\u00e8ces",
-      "prix_base": 2590,
-      "prix_comparaison": 2650,
-      "variation": 60
-    },
-    {
-      "cle": "biscuitssalesetbretzels_14984biscuitsminiclassictuc30g_html",
-      "name": "Biscuits mini classic Tuc 30g",
-      "prix_base": 900,
-      "prix_comparaison": 990,
-      "variation": 90
-    },
-    {
-      "cle": "detergentvaisselle_15005liquidevaisselleminifleursdecerisier250ml_html",
-      "name": "Liquide vaisselle mini fleurs de cerisier 250ml",
-      "prix_base": 1000,
-      "prix_comparaison": 1100,
-      "variation": 100
-    },
-    {
-      "cle": "detergentvaisselle_15004liquidevaisselleminimenthecitron250ml_html",
-      "name": "Liquide vaisselle mini menthe citron 250ml",
-      "prix_base": 1000,
-      "prix_comparaison": 1100,
-      "variation": 100
-    },
-    {
-      "cle": "insecticides_8312spiralesantimoustiquescitron_html",
-      "name": "Spirales anti-moustiques citron",
-      "prix_base": 1700,
-      "prix_comparaison": 1800,
-      "variation": 100
+      "cle": "nettoyantsdemaquillants_13202demaquillantbiphasespecialwaterproof150mglabell_html",
+      "name": "D\u00e9maquillant biphas\u00e9 sp\u00e9cial waterproof 150mg",
+      "prix_base": 11500,
+      "prix_comparaison": 10925,
+      "variation": -575
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "nettoyantetdetartrant_4093nettoyantanticalcairesalledebainssprayavenir750ml_html",
-      "name": "Nettoyant anti calcaire salle de bains spray Avenir 750ml",
-      "prix_base": 6900,
-      "prix_comparaison": 12100,
-      "indice_prix": 175.36231884057972
-    },
-    {
-      "cle": "beurres_2113beurredouxsocolait200g_html",
-      "name": "Beurre doux Socolait 200g",
-      "prix_base": 7500,
-      "prix_comparaison": 13000,
-      "indice_prix": 173.33333333333334
-    },
-    {
-      "cle": "beurres_2114beurresocolaitdemisel200g_html",
-      "name": "Beurre demi sel Socolait 200g",
-      "prix_base": 7500,
-      "prix_comparaison": 13000,
-      "indice_prix": 173.33333333333334
-    },
-    {
-      "cle": "lessiveenpoudreettablette_14293lessivepoudreconcentrenoixdecoco800g_html",
-      "name": "Lessive poudre concentr\u00e9 noix de coco 800g",
-      "prix_base": 4900,
-      "prix_comparaison": 6900,
-      "indice_prix": 140.81632653061226
-    },
-    {
-      "cle": "lessiveenpoudreettablette_14294lessiveenpoudreconcentre800g_html",
-      "name": "Lessive en poudre concentr\u00e9 800g",
-      "prix_base": 4900,
-      "prix_comparaison": 6900,
-      "indice_prix": 140.81632653061226
+      "cle": "nettoyantsdemaquillants_13202demaquillantbiphasespecialwaterproof150mglabell_html",
+      "name": "D\u00e9maquillant biphas\u00e9 sp\u00e9cial waterproof 150mg",
+      "prix_base": 11500,
+      "prix_comparaison": 10925,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "nappesserviettesessuietout_15071serviettesdetable100pieces_html",
-      "name": "Serviettes de table 100 pi\u00e8ces",
-      "prix_base": 2590,
-      "prix_comparaison": 2650,
-      "indice_prix": 102.31660231660231
-    },
-    {
-      "cle": "insecticides_8312spiralesantimoustiquescitron_html",
-      "name": "Spirales anti-moustiques citron",
-      "prix_base": 1700,
-      "prix_comparaison": 1800,
-      "indice_prix": 105.88235294117646
-    },
-    {
-      "cle": "sucres_1672sucrerouxambilobe1kg_html",
-      "name": "Sucre roux Ambilobe 1kg",
-      "prix_base": 5490,
-      "prix_comparaison": 5900,
-      "indice_prix": 107.46812386156648
-    },
-    {
-      "cle": "pates_14412spaghettifrancini500g_html",
-      "name": "Spaghetti francini 500g",
-      "prix_base": 2290,
-      "prix_comparaison": 2490,
-      "indice_prix": 108.73362445414847
-    },
-    {
-      "cle": "huiles_1895huiledetournesollafatra1l_html",
-      "name": "Huile de tournesol Lafatra 1L",
-      "prix_base": 8900,
-      "prix_comparaison": 9700,
-      "indice_prix": 108.98876404494382
+      "cle": "nettoyantsdemaquillants_13202demaquillantbiphasespecialwaterproof150mglabell_html",
+      "name": "D\u00e9maquillant biphas\u00e9 sp\u00e9cial waterproof 150mg",
+      "prix_base": 11500,
+      "prix_comparaison": 10925,
+      "indice_prix": 95.0
     }
   ]
 }
