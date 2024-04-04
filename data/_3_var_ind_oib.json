@@ -20,6 +20,13 @@
       "prix_base": 14155,
       "prix_comparaison": 14900,
       "variation": 745
+    },
+    {
+      "cle": "pates_5830spaghettiblecomplet500g_html",
+      "name": "Spaghetti bl\u00e9 complet 500g",
+      "prix_base": 12825,
+      "prix_comparaison": 13500,
+      "variation": 675
     }
   ],
   "prix_diminues": [
@@ -43,6 +50,13 @@
       "prix_base": 3705,
       "prix_comparaison": 3900,
       "variation": 195
+    },
+    {
+      "cle": "papiersetfilmsalimentaires_3423papierfilmalimentaire29cmx30metresalbaenboitex24_html",
+      "name": "Papier film alimentaire 29cmx30m",
+      "prix_base": 4560,
+      "prix_comparaison": 4800,
+      "variation": 240
     }
   ],
   "indices_prix_plus_eleves": [
@@ -65,6 +79,13 @@
       "name": "Ensemble brosse Wc",
       "prix_base": 7505,
       "prix_comparaison": 7900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "papiersetfilmsalimentaires_3423papierfilmalimentaire29cmx30metresalbaenboitex24_html",
+      "name": "Papier film alimentaire 29cmx30m",
+      "prix_base": 4560,
+      "prix_comparaison": 4800,
       "indice_prix": 105.26315789473684
     }
   ],
@@ -89,6 +110,13 @@
       "prix_base": 9966,
       "prix_comparaison": 10490,
       "indice_prix": 105.25787678105559
+    },
+    {
+      "cle": "piles_3946pileenergylr20d_html",
+      "name": "Pile Energy LR20-D",
+      "prix_base": 16768,
+      "prix_comparaison": 17650,
+      "indice_prix": 105.26001908396947
     }
   ]
 }
