@@ -17,11 +17,6 @@
    - Prix actuel: 14,900 Ar
    - Variation: +745 Ar
 
-4. **Spaghetti blé complet 500g**
-   - Prix avant: 12,825 Ar
-   - Prix actuel: 13,500 Ar
-   - Variation: +675 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Eau de Source 2L**
@@ -38,11 +33,6 @@
    - Prix avant: 3,705 Ar
    - Prix actuel: 3,900 Ar
    - Variation: +195 Ar
-
-4. **Papier film alimentaire 29cmx30m**
-   - Prix avant: 4,560 Ar
-   - Prix actuel: 4,800 Ar
-   - Variation: +240 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -61,11 +51,6 @@
    - Prix actuel: 7,900 Ar
    - Indice de prix : 105.26
 
-4. **Papier film alimentaire 29cmx30m**
-   - Prix avant: 4,560 Ar
-   - Prix actuel: 4,800 Ar
-   - Indice de prix : 105.26
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Eau de Source 2L**
@@ -81,10 +66,5 @@
 3. **Sirop de grenadine 1L**
    - Prix avant: 9,966 Ar
    - Prix actuel: 10,490 Ar
-   - Indice de prix : 105.26
-
-4. **Pile Energy LR20-D**
-   - Prix avant: 16,768 Ar
-   - Prix actuel: 17,650 Ar
    - Indice de prix : 105.26
 
