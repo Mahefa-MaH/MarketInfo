@@ -1,48 +1,146 @@
 {
   "Variation de prix": [
     {
-      "list_id": 726,
-      "name": "Huile De Massage 125 ml",
-      "prix_base": 7500,
-      "prix_comparaison": 8000,
+      "list_id": 971,
+      "name": "Gaufrettes cr\u00e8me cacao et chocolat 30 g",
+      "prix_base": 3000,
+      "prix_comparaison": 3400,
+      "variation": 400
+    },
+    {
+      "list_id": 981,
+      "name": "Gaufrettes Cr\u00e8me cacao 45 g",
+      "prix_base": 4300,
+      "prix_comparaison": 4800,
       "variation": 500
     },
     {
-      "list_id": 691,
-      "name": "D\u00e9odorant Arome By Arthes 150 Ml",
-      "prix_base": 14800,
-      "prix_comparaison": 15500,
-      "variation": 700
+      "list_id": 956,
+      "name": "Lait Concentr\u00e9 Non Sucr\u00e9 170 g",
+      "prix_base": 8800,
+      "prix_comparaison": 9800,
+      "variation": 1000
     },
     {
-      "list_id": 716,
-      "name": "Coffret Eau de toilette et d\u00e9odorant a\u00e9rosol Rocky Man 100 Ml/200 Ml",
-      "prix_base": 59200,
-      "prix_comparaison": 61900,
-      "variation": 2700
+      "list_id": 964,
+      "name": "Gaufrettes cr\u00e8me cacao 175 G",
+      "prix_base": 13900,
+      "prix_comparaison": 15200,
+      "variation": 1300
+    },
+    {
+      "list_id": 958,
+      "name": "Lait Concentr\u00e9 Sucre 8% Tube 300 G",
+      "prix_base": 14500,
+      "prix_comparaison": 15900,
+      "variation": 1400
+    },
+    {
+      "list_id": 957,
+      "name": "Lait Concentre Non Sucr\u00e9 7% 410 G",
+      "prix_base": 18200,
+      "prix_comparaison": 19900,
+      "variation": 1700
+    },
+    {
+      "list_id": 985,
+      "name": "Biscuits Gran Pasticceria Hazelnut cr\u00e8me noisette 100 G",
+      "prix_base": 18700,
+      "prix_comparaison": 20600,
+      "variation": 1900
+    },
+    {
+      "list_id": 986,
+      "name": "Biscuits Gran Pasticceria Almond cr\u00e8me amande 100 G",
+      "prix_base": 18700,
+      "prix_comparaison": 20600,
+      "variation": 1900
+    },
+    {
+      "list_id": 951,
+      "name": "Lait Instantan\u00e9 Ecr\u00e9m\u00e9 300 G",
+      "prix_base": 32000,
+      "prix_comparaison": 34900,
+      "variation": 2900
+    },
+    {
+      "list_id": 952,
+      "name": "Lait Instantan\u00e9 Ecr\u00e9m\u00e9 750 g",
+      "prix_base": 70700,
+      "prix_comparaison": 77200,
+      "variation": 6500
     }
   ],
   "indice de prix": [
     {
-      "list_id": 716,
-      "name": "Coffret Eau de toilette et d\u00e9odorant a\u00e9rosol Rocky Man 100 Ml/200 Ml",
-      "prix_base": 59200,
-      "prix_comparaison": 61900,
-      "indice_prix": 104.5608108108108
+      "list_id": 951,
+      "name": "Lait Instantan\u00e9 Ecr\u00e9m\u00e9 300 G",
+      "prix_base": 32000,
+      "prix_comparaison": 34900,
+      "indice_prix": 109.0625
     },
     {
-      "list_id": 691,
-      "name": "D\u00e9odorant Arome By Arthes 150 Ml",
-      "prix_base": 14800,
-      "prix_comparaison": 15500,
-      "indice_prix": 104.72972972972973
+      "list_id": 952,
+      "name": "Lait Instantan\u00e9 Ecr\u00e9m\u00e9 750 g",
+      "prix_base": 70700,
+      "prix_comparaison": 77200,
+      "indice_prix": 109.19377652050919
     },
     {
-      "list_id": 726,
-      "name": "Huile De Massage 125 ml",
-      "prix_base": 7500,
-      "prix_comparaison": 8000,
-      "indice_prix": 106.66666666666667
+      "list_id": 957,
+      "name": "Lait Concentre Non Sucr\u00e9 7% 410 G",
+      "prix_base": 18200,
+      "prix_comparaison": 19900,
+      "indice_prix": 109.34065934065934
+    },
+    {
+      "list_id": 964,
+      "name": "Gaufrettes cr\u00e8me cacao 175 G",
+      "prix_base": 13900,
+      "prix_comparaison": 15200,
+      "indice_prix": 109.35251798561151
+    },
+    {
+      "list_id": 958,
+      "name": "Lait Concentr\u00e9 Sucre 8% Tube 300 G",
+      "prix_base": 14500,
+      "prix_comparaison": 15900,
+      "indice_prix": 109.65517241379311
+    },
+    {
+      "list_id": 985,
+      "name": "Biscuits Gran Pasticceria Hazelnut cr\u00e8me noisette 100 G",
+      "prix_base": 18700,
+      "prix_comparaison": 20600,
+      "indice_prix": 110.16042780748663
+    },
+    {
+      "list_id": 986,
+      "name": "Biscuits Gran Pasticceria Almond cr\u00e8me amande 100 G",
+      "prix_base": 18700,
+      "prix_comparaison": 20600,
+      "indice_prix": 110.16042780748663
+    },
+    {
+      "list_id": 956,
+      "name": "Lait Concentr\u00e9 Non Sucr\u00e9 170 g",
+      "prix_base": 8800,
+      "prix_comparaison": 9800,
+      "indice_prix": 111.36363636363636
+    },
+    {
+      "list_id": 981,
+      "name": "Gaufrettes Cr\u00e8me cacao 45 g",
+      "prix_base": 4300,
+      "prix_comparaison": 4800,
+      "indice_prix": 111.62790697674419
+    },
+    {
+      "list_id": 971,
+      "name": "Gaufrettes cr\u00e8me cacao et chocolat 30 g",
+      "prix_base": 3000,
+      "prix_comparaison": 3400,
+      "indice_prix": 113.33333333333333
     }
   ]
 }

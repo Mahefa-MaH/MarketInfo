@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_poivron1kg_",
-      "name": "Poivron 1kg",
-      "prix_base": 3500,
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 5400,
       "prix_comparaison": 6000,
-      "variation": 2500
-    },
-    {
-      "cle": "produit_poivron500g_",
-      "name": "Poivron 500 g",
-      "prix_base": 1600,
-      "prix_comparaison": 3000,
-      "variation": 1400
+      "variation": 600
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_poivron500g_",
-      "name": "Poivron 500 g",
-      "prix_base": 1600,
-      "prix_comparaison": 3000,
-      "variation": 1400
-    },
-    {
-      "cle": "produit_poivron1kg_",
-      "name": "Poivron 1kg",
-      "prix_base": 3500,
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 5400,
       "prix_comparaison": 6000,
-      "variation": 2500
+      "variation": 600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_poivron500g_",
-      "name": "Poivron 500 g",
-      "prix_base": 1600,
-      "prix_comparaison": 3000,
-      "indice_prix": 187.5
-    },
-    {
-      "cle": "produit_poivron1kg_",
-      "name": "Poivron 1kg",
-      "prix_base": 3500,
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 5400,
       "prix_comparaison": 6000,
-      "indice_prix": 171.42857142857142
+      "indice_prix": 111.11111111111111
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_poivron1kg_",
-      "name": "Poivron 1kg",
-      "prix_base": 3500,
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 5400,
       "prix_comparaison": 6000,
-      "indice_prix": 171.42857142857142
-    },
-    {
-      "cle": "produit_poivron500g_",
-      "name": "Poivron 500 g",
-      "prix_base": 1600,
-      "prix_comparaison": 3000,
-      "indice_prix": 187.5
+      "indice_prix": 111.11111111111111
     }
   ]
 }

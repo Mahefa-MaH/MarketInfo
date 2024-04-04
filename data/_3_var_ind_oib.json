@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "lessiveenpoudreettablette_14295lessiveenpoudreconcentre24kg_html",
-      "name": "Lessive en poudre concentr\u00e9 2,4 kg",
-      "prix_base": 18905,
-      "prix_comparaison": 19900,
-      "variation": 995
-    },
-    {
-      "cle": "piles_3946pileenergylr20d_html",
-      "name": "Pile Energy LR20-D",
-      "prix_base": 16768,
-      "prix_comparaison": 17650,
-      "variation": 882
-    },
-    {
-      "cle": "pates_10474capellinin11kg_html",
-      "name": "Capellini n\u00b01 1kg",
-      "prix_base": 14155,
-      "prix_comparaison": 14900,
-      "variation": 745
+      "cle": "barquettespotsetbolsjetables_7424potasaucecristalaveccouvercle250pieces_html",
+      "name": "Pot \u00e0 sauce cristal avec couvercle 250 pi\u00e8ces",
+      "prix_base": 299250,
+      "prix_comparaison": 315000,
+      "variation": 15750
     }
   ],
   "prix_diminues": [
     {
-      "cle": "eauxdesource_3066eaudesource6x2l_html",
-      "name": "Eau de Source 2L",
-      "prix_base": 2366,
-      "prix_comparaison": 2490,
-      "variation": 124
-    },
-    {
-      "cle": "sauceschaudessaucestomates_12985laitdecoco200mlitinerairedessaveurs_html",
-      "name": "Lait  de coco 200ml",
-      "prix_base": 3705,
-      "prix_comparaison": 3900,
-      "variation": 195
-    },
-    {
-      "cle": "poubellesetsacspoubelle_1234020sacspoubellelienclassic20lapta_html",
-      "name": "20 Sacs poubelle lien Classic' 20L",
-      "prix_base": 3705,
-      "prix_comparaison": 3900,
-      "variation": 195
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "pates_5908coquillettesaux7oeufs250g_html",
-      "name": "Coquillettes aux 7 \u0153ufs 250g",
-      "prix_base": 7590,
-      "prix_comparaison": 7990,
-      "indice_prix": 105.27009222661397
-    },
-    {
-      "cle": "sauceschaudessaucestomates_2830saucebolognaisepurboeuf200g_html",
-      "name": "Sauce bolognaise pur b\u0153uf 200g",
-      "prix_base": 7790,
-      "prix_comparaison": 8200,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "brosseetbalayette_12149ensemblebrossewctopbudget_html",
-      "name": "Ensemble brosse Wc",
-      "prix_base": 7505,
+      "cle": "apresshampoings_13378apresshampoingtresdouxaubeurredekarite200mllabell_html",
+      "name": "Apr\u00e8s-shampoing tr\u00e8s doux au  beurre de karit\u00e9 200ml",
+      "prix_base": 6745,
       "prix_comparaison": 7900,
-      "indice_prix": 105.26315789473684
+      "indice_prix": 117.12379540400296
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "eauxdesource_3066eaudesource6x2l_html",
-      "name": "Eau de Source 2L",
-      "prix_base": 2366,
-      "prix_comparaison": 2490,
-      "indice_prix": 105.24091293322063
-    },
-    {
-      "cle": "siropsdementhe_13906siropdementhepet1ltopbudget_html",
-      "name": "Sirop de menthe pet 1L",
-      "prix_base": 9966,
-      "prix_comparaison": 10490,
-      "indice_prix": 105.25787678105559
-    },
-    {
-      "cle": "siropsdefruitsrouges_13907siropdegrenadine1ltopbudget_html",
-      "name": "Sirop de grenadine 1L",
-      "prix_base": 9966,
-      "prix_comparaison": 10490,
-      "indice_prix": 105.25787678105559
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     }
   ]
 }
