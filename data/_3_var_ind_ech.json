@@ -1,38 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
-      "prix_base": 5400,
-      "prix_comparaison": 6000,
-      "variation": 600
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
+      "prix_base": 8000,
+      "prix_comparaison": 11000,
+      "variation": 3000
+    },
+    {
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 21400,
+      "prix_comparaison": 24000,
+      "variation": 2600
+    },
+    {
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 3500,
+      "prix_comparaison": 4700,
+      "variation": 1200
+    },
+    {
+      "cle": "produit_persil1botte2_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 500 g",
+      "prix_base": 11000,
+      "prix_comparaison": 12000,
+      "variation": 1000
+    },
+    {
+      "cle": "produit_tomatesallongeesbienfermes1kggroscalibreaconsommerdici2ou3jours_",
+      "name": "Tomates allong\u00e9es bien fermes 1kg | Gros Calibre | A consommer d\u2019ici 2 ou 3 jours",
+      "prix_base": 3500,
+      "prix_comparaison": 4500,
+      "variation": 1000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "cle": "produit_carottes100g_",
+      "name": "Carotte nature Pr\u00eat \u00e0 cuisiner | 200g \u2013 en Rondelles",
       "prix_base": 5400,
-      "prix_comparaison": 6000,
-      "variation": 600
+      "prix_comparaison": 2800,
+      "variation": -2600
+    },
+    {
+      "cle": "produit_carotterapenature200g_",
+      "name": "Carotte nature Pr\u00eat \u00e0 cuisiner | 200g \u2013 R\u00e2p\u00e9",
+      "prix_base": 5400,
+      "prix_comparaison": 2800,
+      "variation": -2600
+    },
+    {
+      "cle": "produit_macedoinedelegumespretacuisiner_",
+      "name": "Mac\u00e9doine de l\u00e9gumes frais Pr\u00eat \u00e0 cuisiner | 250g",
+      "prix_base": 3700,
+      "prix_comparaison": 2400,
+      "variation": -1300
+    },
+    {
+      "cle": "produit_goyaves1kg_",
+      "name": "Goyaves 1kg | Chair rose",
+      "prix_base": 3000,
+      "prix_comparaison": 2000,
+      "variation": -1000
+    },
+    {
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 10000,
+      "prix_comparaison": 9400,
+      "variation": -600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
-      "prix_base": 5400,
-      "prix_comparaison": 6000,
-      "indice_prix": 111.11111111111111
+      "cle": "produit_tomatesallongeesmur500gcalibremoyen_",
+      "name": "Tomates allong\u00e9es m\u00fbr 500 g | Calibre Moyen |",
+      "prix_base": 1800,
+      "prix_comparaison": 2500,
+      "indice_prix": 138.88888888888889
+    },
+    {
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
+      "prix_base": 8000,
+      "prix_comparaison": 11000,
+      "indice_prix": 137.5
+    },
+    {
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 3500,
+      "prix_comparaison": 4700,
+      "indice_prix": 134.28571428571428
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "cle": "produit_carottes100g_",
+      "name": "Carotte nature Pr\u00eat \u00e0 cuisiner | 200g \u2013 en Rondelles",
       "prix_base": 5400,
-      "prix_comparaison": 6000,
-      "indice_prix": 111.11111111111111
+      "prix_comparaison": 2800,
+      "indice_prix": 51.851851851851855
+    },
+    {
+      "cle": "produit_carotterapenature200g_",
+      "name": "Carotte nature Pr\u00eat \u00e0 cuisiner | 200g \u2013 R\u00e2p\u00e9",
+      "prix_base": 5400,
+      "prix_comparaison": 2800,
+      "indice_prix": 51.851851851851855
+    },
+    {
+      "cle": "produit_macedoinedelegumespretacuisiner_",
+      "name": "Mac\u00e9doine de l\u00e9gumes frais Pr\u00eat \u00e0 cuisiner | 250g",
+      "prix_base": 3700,
+      "prix_comparaison": 2400,
+      "indice_prix": 64.86486486486487
     }
   ]
 }

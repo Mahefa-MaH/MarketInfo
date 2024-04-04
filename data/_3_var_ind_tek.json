@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 649,
-      "prix_base": 72139.5,
-      "name": "Eau de parfum Perpetual Silver Pearl 100 Ml",
-      "prix_comparaison": 75300,
-      "variation": 3160.5
+      "list_id": 791,
+      "prix_base": 2718100,
+      "name": "Eurobike Electric 23 kg",
+      "prix_comparaison": 2836400,
+      "variation": 118300
     },
     {
-      "list_id": 646,
-      "prix_base": 72139.5,
-      "name": "Eau de parfum Perpetual Pearl 100 Ml",
-      "prix_comparaison": 75300,
-      "variation": 3160.5
+      "list_id": 792,
+      "prix_base": 2613600,
+      "name": "Phoenix Electric 23 kg",
+      "prix_comparaison": 2727300,
+      "variation": 113700
     },
     {
-      "list_id": 645,
-      "prix_base": 72139.5,
-      "name": "Eau de parfum Perpetual Black Pearl 100 Ml",
-      "prix_comparaison": 75300,
-      "variation": 3160.5
+      "list_id": 799,
+      "prix_base": 1254500,
+      "name": "v\u00e9lo Xml Pro 16 kg",
+      "prix_comparaison": 1309100,
+      "variation": 54600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 10073,
-      "prix_base": 22300,
-      "name": "Papier photocopie A4 80 g",
-      "prix_comparaison": 18600,
-      "variation": -3700
-    },
-    {
-      "list_id": 7065,
-      "prix_base": 2900,
-      "name": "Cahier 17x22 s\u00e9y\u00e8s 90 g 48 pages Pixel 9",
+      "list_id": 7183,
+      "prix_base": 3300,
+      "name": "Rame de Papier photocopie 80 g couleur deep A4 20 feuilles",
       "prix_comparaison": 3000,
-      "variation": 100
+      "variation": -300
     },
     {
-      "list_id": 7080,
-      "prix_base": 2200,
-      "name": "Cahier 17x22 s\u00e9y\u00e8s 70 g 48 pages Pixel 7",
-      "prix_comparaison": 2300,
+      "list_id": 900,
+      "prix_base": 3800,
+      "name": "Bi\u00e8re Bouteille 33 cl consign\u00e9",
+      "prix_comparaison": 3759.6,
+      "variation": -40.40000000000009
+    },
+    {
+      "list_id": 2277,
+      "prix_base": 6600,
+      "name": "Raffaello 3 Pi\u00e8ces",
+      "prix_comparaison": 6700,
       "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 730,
-      "name": "Poudre de Talc Parfum\u00e9 70 g",
-      "prix_base": 600,
-      "prix_comparaison": 700,
-      "indice_prix": 116.66666666666667
+      "list_id": 2275,
+      "name": "chocolat 16 Pi\u00e8ces",
+      "prix_base": 35000,
+      "prix_comparaison": 41400,
+      "indice_prix": 118.28571428571429
     },
     {
-      "list_id": 7009,
-      "name": "Cahier scolaire A4 seyes 96 pages 70g",
-      "prix_base": 7400,
-      "prix_comparaison": 8300,
-      "indice_prix": 112.16216216216216
+      "list_id": 971,
+      "name": "Gaufrettes cr\u00e8me cacao et chocolat 30 g",
+      "prix_base": 3000,
+      "prix_comparaison": 3400,
+      "indice_prix": 113.33333333333333
     },
     {
-      "list_id": 733,
-      "name": "Eau De Rose 125 ml",
-      "prix_base": 2100,
-      "prix_comparaison": 2300,
-      "indice_prix": 109.52380952380952
+      "list_id": 981,
+      "name": "Gaufrettes Cr\u00e8me cacao 45 g",
+      "prix_base": 4300,
+      "prix_comparaison": 4800,
+      "indice_prix": 111.62790697674419
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 10073,
-      "name": "Papier photocopie A4 80 g",
-      "prix_base": 22300,
-      "prix_comparaison": 18600,
-      "indice_prix": 83.40807174887892
-    },
-    {
-      "list_id": 7082,
-      "name": "Cahier 17x22 s\u00e9y\u00e8s 70 g 96 pages Pixel 7",
-      "prix_base": 3500,
-      "prix_comparaison": 3600,
-      "indice_prix": 102.85714285714286
-    },
-    {
-      "list_id": 7065,
-      "name": "Cahier 17x22 s\u00e9y\u00e8s 90 g 48 pages Pixel 9",
-      "prix_base": 2900,
+      "list_id": 7183,
+      "name": "Rame de Papier photocopie 80 g couleur deep A4 20 feuilles",
+      "prix_base": 3300,
       "prix_comparaison": 3000,
-      "indice_prix": 103.44827586206897
+      "indice_prix": 90.9090909090909
+    },
+    {
+      "list_id": 900,
+      "name": "Bi\u00e8re Bouteille 33 cl consign\u00e9",
+      "prix_base": 3800,
+      "prix_comparaison": 3759.6,
+      "indice_prix": 98.93684210526315
+    },
+    {
+      "list_id": 2277,
+      "name": "Raffaello 3 Pi\u00e8ces",
+      "prix_base": 6600,
+      "prix_comparaison": 6700,
+      "indice_prix": 101.51515151515152
     }
   ]
 }
