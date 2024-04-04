@@ -1,20 +1,48 @@
 {
   "Variation de prix": [
     {
+      "list_id": 726,
+      "name": "Huile De Massage 125 ml",
+      "prix_base": 7500,
+      "prix_comparaison": 8000,
+      "variation": 500
+    },
+    {
       "list_id": 691,
       "name": "D\u00e9odorant Arome By Arthes 150 Ml",
       "prix_base": 14800,
       "prix_comparaison": 15500,
       "variation": 700
+    },
+    {
+      "list_id": 716,
+      "name": "Coffret Eau de toilette et d\u00e9odorant a\u00e9rosol Rocky Man 100 Ml/200 Ml",
+      "prix_base": 59200,
+      "prix_comparaison": 61900,
+      "variation": 2700
     }
   ],
   "indice de prix": [
+    {
+      "list_id": 716,
+      "name": "Coffret Eau de toilette et d\u00e9odorant a\u00e9rosol Rocky Man 100 Ml/200 Ml",
+      "prix_base": 59200,
+      "prix_comparaison": 61900,
+      "indice_prix": 104.5608108108108
+    },
     {
       "list_id": 691,
       "name": "D\u00e9odorant Arome By Arthes 150 Ml",
       "prix_base": 14800,
       "prix_comparaison": 15500,
       "indice_prix": 104.72972972972973
+    },
+    {
+      "list_id": 726,
+      "name": "Huile De Massage 125 ml",
+      "prix_base": 7500,
+      "prix_comparaison": 8000,
+      "indice_prix": 106.66666666666667
     }
   ]
 }
