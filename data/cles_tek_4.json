@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7500,
-      "prix_comparaison": 7500,
+      "list_id": 8267,
+      "name": "Sucre rouge 1 kg",
+      "prix_base": 5200,
+      "prix_comparaison": 5200,
       "variation": 0,
       "indice_prix": 100.0
     },

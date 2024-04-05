@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "list_id": 12451,
-      "name": "Riz rouge long grain complet 500 g",
-      "prix_base": 11900,
-      "prix_comparaison": 11900,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 3824,
       "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
       "prix_base": 249300,
       "prix_comparaison": 249300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3826,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 7300,
+      "prix_comparaison": 7300,
       "variation": 0,
       "indice_prix": 100.0
     }

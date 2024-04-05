@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 625005,
-      "prix_comparaison": 657900,
-      "variation": 32895
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 3382568,
+      "prix_comparaison": 4060000,
+      "variation": 677432
+    },
+    {
+      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
+      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
+      "prix_base": 2921000,
+      "prix_comparaison": 3032000,
+      "variation": 111000
+    },
+    {
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 479000,
+      "prix_comparaison": 582000,
+      "variation": 103000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "desodorisantwc_13446diffuseurautomatiquerechargearomaticlavande250mlapta_html",
-      "name": "Diffuseur automatique recharge aroma'tic lavande 250ml",
-      "prix_base": 14155,
-      "prix_comparaison": 13500,
-      "variation": -655
+      "cle": "raclettefonduefourapizza_14013pizzadagennaroariete909rouge_html",
+      "name": "Pizza Da Gennaro ARIETE - 909 - Rouge",
+      "prix_base": 646000,
+      "prix_comparaison": 530000,
+      "variation": -116000
+    },
+    {
+      "cle": "smartphones_14841samsunggalaxys24ultra256goviolet_html",
+      "name": "SAMSUNG Galaxy S24 Ultra 256 Go Violet",
+      "prix_base": 6484000,
+      "prix_comparaison": 6427000,
+      "variation": -57000
+    },
+    {
+      "cle": "ordinateursportables_14810pcportableasusvivobook15s1504156fhdintelcorei3n305ram8go512gossdwin11_html",
+      "name": "PC Portable ASUS VivoBook 15 S1504 | 15,6 FHD - Intel Core i3-N305 - RAM 8Go - 512Go SSD - Win 11",
+      "prix_base": 2415000,
+      "prix_comparaison": 2365000,
+      "variation": -50000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "apresshampoings_13378apresshampoingtresdouxaubeurredekarite200mllabell_html",
-      "name": "Apr\u00e8s-shampoing tr\u00e8s doux au  beurre de karit\u00e9 200ml",
-      "prix_base": 6745,
-      "prix_comparaison": 7900,
-      "indice_prix": 117.12379540400296
+      "cle": "desodorisantwc_13437desodorisantgelfleursblanches150gapta_html",
+      "name": "D\u00e9sodorisant gel fleurs blanches 150g",
+      "prix_base": 4500,
+      "prix_comparaison": 5900,
+      "indice_prix": 131.11111111111111
+    },
+    {
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 479000,
+      "prix_comparaison": 582000,
+      "indice_prix": 121.50313152400835
+    },
+    {
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 3382568,
+      "prix_comparaison": 4060000,
+      "indice_prix": 120.02715096932272
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
+      "cle": "laitenpoudre_943vitalait500g_html",
+      "name": "Lait en poudre Vitalait 500g",
+      "prix_base": 17300,
+      "prix_comparaison": 12900,
+      "indice_prix": 74.56647398843931
+    },
+    {
+      "cle": "laitenpoudre_8858laitenpoudrevitalait1kg_html",
+      "name": "Lait en poudre Vitalait 1kg",
+      "prix_base": 34600,
+      "prix_comparaison": 26900,
+      "indice_prix": 77.74566473988439
+    },
+    {
+      "cle": "laitenpoudre_8856laitenpoudrevitalait250g_html",
+      "name": "Lait en poudre Vitalait 250g",
+      "prix_base": 8850,
+      "prix_comparaison": 6900,
+      "indice_prix": 77.96610169491525
     }
   ]
 }
