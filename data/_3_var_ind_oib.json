@@ -6,27 +6,6 @@
       "prix_base": 625005,
       "prix_comparaison": 657900,
       "variation": 32895
-    },
-    {
-      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
-      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
-      "prix_base": 578550,
-      "prix_comparaison": 609000,
-      "variation": 30450
-    },
-    {
-      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
-      "name": "Faitout rond rouge Slowcook \u00d828cm",
-      "prix_base": 508250,
-      "prix_comparaison": 535000,
-      "variation": 26750
-    },
-    {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 494000,
-      "prix_comparaison": 520000,
-      "variation": 26000
     }
   ],
   "prix_diminues": [
@@ -36,27 +15,6 @@
       "prix_base": 14155,
       "prix_comparaison": 13500,
       "variation": -655
-    },
-    {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
-    },
-    {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
-    },
-    {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,27 +24,6 @@
       "prix_base": 6745,
       "prix_comparaison": 7900,
       "indice_prix": 117.12379540400296
-    },
-    {
-      "cle": "cremessoinsdesmains_5362crememainsreparatricebeurredekarite75ml_html",
-      "name": "Cr\u00e8me mains r\u00e9paratrice beurre de karit\u00e9 75ml",
-      "prix_base": 11875,
-      "prix_comparaison": 13500,
-      "indice_prix": 113.6842105263158
-    },
-    {
-      "cle": "hygienedesmains_13039cremelavantefleurdoranger250glabell_html",
-      "name": "Gel lavant mains fleur d'oranger 250g",
-      "prix_base": 3990,
-      "prix_comparaison": 4500,
-      "indice_prix": 112.78195488721805
-    },
-    {
-      "cle": "detergentvaisselle_15006liquidevaisselleminipommeraisin250ml_html",
-      "name": "Liquide vaisselle mini pomme raisin 250ml",
-      "prix_base": 1000,
-      "prix_comparaison": 1100,
-      "indice_prix": 110.0
     }
   ],
   "indices_prix_plus_faibles": [
@@ -96,27 +33,6 @@
       "prix_base": 1520,
       "prix_comparaison": 990,
       "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "desodorisantwc_13446diffuseurautomatiquerechargearomaticlavande250mlapta_html",
-      "name": "Diffuseur automatique recharge aroma'tic lavande 250ml",
-      "prix_base": 14155,
-      "prix_comparaison": 13500,
-      "indice_prix": 95.37265983751324
     }
   ]
 }
