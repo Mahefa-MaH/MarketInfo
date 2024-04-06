@@ -1,12 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "canapesofadivan_136047canapedanglegaucheconvertibleimperial5placestissugrisclair2coffresderangementl304xp212xh86cm3700538240035_html",
-      "name": "Canap\u00e9 d'angle gauche convertible IMPERIAL 5 places - Tissu gris clair - 2 coffres de rangement - L304 x P212 x H86 cm",
-      "prix_base": 10125000,
-      "prix_comparaison": 10125000,
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 12357000,
+      "prix_comparaison": 12357000,
       "variation": 0,
       "indice_prix": 100.0
+    },
+    {
+      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
+      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
+      "prix_base": 13154000,
+      "prix_comparaison": 13154000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
+      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
+      "prix_base": 12091000,
+      "prix_comparaison": 12995000,
+      "variation": 904000,
+      "indice_prix": 107.4766355140187
     }
   ]
 }
