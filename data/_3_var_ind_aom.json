@@ -1,150 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "four_83359fouravapeurintegrableautonettoyantboschhsg656xs1inoxnoiracier4242002789125_html",
-      "name": "Four int\u00e9grable/combin\u00e9 vapeur BOSCH - HSG656XS1 - 59x59x55 cm - Inox",
-      "prix_base": 12091000,
-      "prix_comparaison": 12995000,
-      "variation": 904000
+      "cle": "biscuitssales_130460biscuitsauxsesamestriangolini100g_html",
+      "name": "Biscuits aux s\u00e9sames Triangolini 100g",
+      "prix_base": 5900,
+      "prix_comparaison": 6300,
+      "variation": 400
     },
     {
-      "cle": "refrigerateurclassique_95047refrigerateuramericaincontinentaledisoncera532nfw4portes532ll90cmxh177cmblanc3701542101886_html",
-      "name": "R\u00e9frig\u00e9rateur am\u00e9ricain Continental Edison - CERA532NFW - 4 portes - 532L - L90 cm xH177 cm - Blanc",
-      "prix_base": 5182000,
-      "prix_comparaison": 5421000,
-      "variation": 239000
-    },
-    {
-      "cle": "four_129759fourencastrablepyrolysechaleurpulseerosieresrfc3op5579innoirportefroide75l8059019068930_html",
-      "name": "Four encastrable pyrolyse chaleur puls\u00e9e ROSIERES RFC3OP5579IN - noir - porte froide - 75l",
-      "prix_base": 2961000,
-      "prix_comparaison": 3179000,
-      "variation": 218000
-    },
-    {
-      "cle": "four_85495fourelectriqueencastrablepyrolysemultifonctionboschhbg672bb1snoir71l4242005055777_html",
-      "name": "Four \u00e9lectrique encastrable Pyrolyse - Multifonction - BOSCH HBG672BB1S - Noir - 71 L",
-      "prix_base": 5731000,
-      "prix_comparaison": 5900000,
-      "variation": 169000
-    },
-    {
-      "cle": "tableplaquedecuissoninduction_129237plaqueinductioncandy4feux21cmci642cbb18059019067780_html",
-      "name": "Plaque induction CANDY - 4 feux - 21 cm - CI642CBB/1",
-      "prix_base": 1497000,
-      "prix_comparaison": 1635000,
-      "variation": 138000
+      "cle": "soufflesextrudes_130576snacksgoutfromagecricfies90g_html",
+      "name": "Snacks go\u00fbt fromage Cricfies 90g",
+      "prix_base": 4200,
+      "prix_comparaison": 4400,
+      "variation": 200
     }
   ],
   "prix_diminues": [
     {
-      "cle": "kitbadminton_95834setautoportebadmintonfff3450652053058_html",
-      "name": "Set de Badminton complet avec filet 295 x 38 x 154 cm, raquettes, volants et bo\u00eete de rangement",
-      "prix_base": 768000,
-      "prix_comparaison": 399000,
-      "variation": -369000
+      "cle": "soufflesextrudes_130576snacksgoutfromagecricfies90g_html",
+      "name": "Snacks go\u00fbt fromage Cricfies 90g",
+      "prix_base": 4200,
+      "prix_comparaison": 4400,
+      "variation": 200
     },
     {
-      "cle": "tableplaquedecuissoninduction_129429plaquedecuissoninductiongrundig8feux80cmgiei838980inh4013833032984_html",
-      "name": "Plaque de cuisson induction GRUNDIG - 8 feux - 80 cm - GIEI838980INH",
-      "prix_base": 4823000,
-      "prix_comparaison": 4477000,
-      "variation": -346000
-    },
-    {
-      "cle": "tableplaquedecuissoninduction_129439plaquedecuissoninductiongrundig3feux60cmgiei627379pn4013833058892_html",
-      "name": "Plaque de cuisson induction GRUNDIG - 3 feux - 60 cm - GIEI627379PN",
-      "prix_base": 3229000,
-      "prix_comparaison": 2924000,
-      "variation": -305000
-    },
-    {
-      "cle": "tableplaquedecuissoninduction_129436plaquedecuissoninductiongrundig3feux60cmgiei627374pn4013833057758_html",
-      "name": "Plaque de cuisson induction GRUNDIG - 3 feux - 60 cm - GIEI627374PN",
-      "prix_base": 3229000,
-      "prix_comparaison": 2952000,
-      "variation": -277000
-    },
-    {
-      "cle": "maisondetoilettetapismaisondetoilette_21615catitmaisondetoilettesmartsiftsystemederamassage0022517506851_html",
-      "name": "CATIT Maison de toilette Smartsift - Systeme de ramassage",
-      "prix_base": 1345000,
-      "prix_comparaison": 1076000,
-      "variation": -269000
+      "cle": "biscuitssales_130460biscuitsauxsesamestriangolini100g_html",
+      "name": "Biscuits aux s\u00e9sames Triangolini 100g",
+      "prix_base": 5900,
+      "prix_comparaison": 6300,
+      "variation": 400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "carrelagemural_79252puccini1decor25x751c6pieces_html",
-      "name": "Puccini 1 decor 25x75 (1c:6 pi\u00e8ces)",
-      "prix_base": 60500,
-      "prix_comparaison": 79000,
-      "indice_prix": 130.5785123966942
+      "cle": "biscuitssales_130460biscuitsauxsesamestriangolini100g_html",
+      "name": "Biscuits aux s\u00e9sames Triangolini 100g",
+      "prix_base": 5900,
+      "prix_comparaison": 6300,
+      "indice_prix": 106.77966101694915
     },
     {
-      "cle": "carrelagemural_79740bellini1decor25x751c6pieces_html",
-      "name": "Bellini 1 decor 25x75 (1c:6 pi\u00e8ces)*",
-      "prix_base": 60500,
-      "prix_comparaison": 79000,
-      "indice_prix": 130.5785123966942
-    },
-    {
-      "cle": "maisondetoilettetapismaisondetoilette_53512rothomaisontoilettebialaanthracite7610859245038_html",
-      "name": "ROTHO - Maison toilette - BIALA - Anthracite",
-      "prix_base": 295000,
-      "prix_comparaison": 369000,
-      "indice_prix": 125.08474576271186
-    },
-    {
-      "cle": "maisondetoilettetapismaisondetoilette_60864rothomaisontoilettebialacappuccino7610859245021_html",
-      "name": "ROTHO - Maison toilette - BIALA - Cappuccino",
-      "prix_base": 295000,
-      "prix_comparaison": 369000,
-      "indice_prix": 125.08474576271186
-    },
-    {
-      "cle": "maisondetoilettetapismaisondetoilette_89630trixiebacalitierevicoaiguemarinepourchat4011905402758_html",
-      "name": "TRIXIE Bac a litiere Vico 40*40*56 cm - Aigue-marine - Pour chat",
-      "prix_base": 160000,
-      "prix_comparaison": 200000,
-      "indice_prix": 125.0
+      "cle": "soufflesextrudes_130576snacksgoutfromagecricfies90g_html",
+      "name": "Snacks go\u00fbt fromage Cricfies 90g",
+      "prix_base": 4200,
+      "prix_comparaison": 4400,
+      "indice_prix": 104.76190476190476
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "kitbadminton_95834setautoportebadmintonfff3450652053058_html",
-      "name": "Set de Badminton complet avec filet 295 x 38 x 154 cm, raquettes, volants et bo\u00eete de rangement",
-      "prix_base": 768000,
-      "prix_comparaison": 399000,
-      "indice_prix": 51.953125
+      "cle": "soufflesextrudes_130576snacksgoutfromagecricfies90g_html",
+      "name": "Snacks go\u00fbt fromage Cricfies 90g",
+      "prix_base": 4200,
+      "prix_comparaison": 4400,
+      "indice_prix": 104.76190476190476
     },
     {
-      "cle": "maisondetoilettetapismaisondetoilette_137671recharge2filtrescharbonpourmaisondetoilette0022517507056_html",
-      "name": "Recharge 2 filtres charbon pour maison de toilette",
-      "prix_base": 120000,
-      "prix_comparaison": 72000,
-      "indice_prix": 60.0
-    },
-    {
-      "cle": "gaufrieretcakemaker_55320russellhobbs2462056gaufrierfiesta3en1plaquegaufrecupcakeetdonut900w4008496938735_html",
-      "name": "Russell Hobbs 24620-56 Gaufrier Fiesta 3en1 Plaque Gaufre Cupcake et Donut 900W",
-      "prix_base": 640000,
-      "prix_comparaison": 495000,
-      "indice_prix": 77.34375
-    },
-    {
-      "cle": "maisondetoilettetapismaisondetoilette_54431trixiemaisondetoilettesvicoeasycleanchat4011905403458_html",
-      "name": "TRIXIE Maison de toilettes Vico Easy Clean chat",
-      "prix_base": 299000,
-      "prix_comparaison": 239000,
-      "indice_prix": 79.93311036789298
-    },
-    {
-      "cle": "gaufrieretcakemaker_61777severinwa2103gaufrierpeuencombrant5partsformedecoeuroriginalethermostatreglablerevetementantiadhesifno4008146210303_html",
-      "name": "SEVERIN WA2103 Gaufrier peu encombrant 5 parts - forme de coeur originale - thermostat r\u00e9glable - revetement anti-adh\u00e9sif - noir",
-      "prix_base": 364000,
-      "prix_comparaison": 291000,
-      "indice_prix": 79.94505494505495
+      "cle": "biscuitssales_130460biscuitsauxsesamestriangolini100g_html",
+      "name": "Biscuits aux s\u00e9sames Triangolini 100g",
+      "prix_base": 5900,
+      "prix_comparaison": 6300,
+      "indice_prix": 106.77966101694915
     }
   ]
 }
