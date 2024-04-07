@@ -2,21 +2,21 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Baignoire Balnéo - Marque - Modele - 185x90x68cm - LED - Jets d'eau et d'air**
-   - Prix avant: 10,720,000 Ar
-   - Prix actuel: 10,720,000 Ar
+1. **Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent**
+   - Prix avant: 12,697,000 Ar
+   - Prix actuel: 12,697,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Baignoire Balnéo - Pack Luxe - 185x90x68cm - Appuie-tete - Systeme Air Bubble - LED - Cascade d'eau**
-   - Prix avant: 12,204,000 Ar
-   - Prix actuel: 12,204,000 Ar
+2. **Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sidéral**
+   - Prix avant: 13,562,000 Ar
+   - Prix actuel: 13,562,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E**
-   - Prix avant: 13,154,000 Ar
-   - Prix actuel: 13,154,000 Ar
+3. **Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent**
+   - Prix avant: 10,362,000 Ar
+   - Prix actuel: 10,362,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

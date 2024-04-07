@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "baignoirekitbalneo_61031baignoirebalneo185x90x68cmblanc3700538218225_html",
-      "name": "Baignoire Baln\u00e9o - Marque - Modele - 185x90x68cm - LED - Jets d'eau et d'air",
-      "prix_base": 10720000,
-      "prix_comparaison": 10720000,
+      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
+      "prix_base": 12697000,
+      "prix_comparaison": 12697000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "baignoirekitbalneo_61032baignoirebalneo185x90x68cmversionpackluxe3700538218232_html",
-      "name": "Baignoire Baln\u00e9o - Pack Luxe - 185x90x68cm - Appuie-tete - Systeme Air Bubble - LED - Cascade d'eau",
-      "prix_base": 12204000,
-      "prix_comparaison": 12204000,
+      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13562000,
+      "prix_comparaison": 13562000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
-      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
-      "prix_base": 13154000,
-      "prix_comparaison": 13154000,
+      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
+      "prix_base": 10362000,
+      "prix_comparaison": 10362000,
       "variation": 0,
       "indice_prix": 100.0
     }
