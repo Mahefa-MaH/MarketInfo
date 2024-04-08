@@ -1,20 +1,48 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12618,
-      "name": "Cr\u00e8me glac\u00e9 caramel 1 l",
-      "prix_base": 29900,
-      "prix_comparaison": 37100,
-      "variation": 7200
+      "list_id": 2066,
+      "name": "Lait Demi-\u00c9cr\u00e9m\u00e9 Brique 1 L",
+      "prix_base": 6600,
+      "prix_comparaison": 6900,
+      "variation": 300
+    },
+    {
+      "list_id": 3099,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 12100,
+      "prix_comparaison": 13000,
+      "variation": 900
+    },
+    {
+      "list_id": 2075,
+      "name": "Huile Tournesol 1 L",
+      "prix_base": 14300,
+      "prix_comparaison": 15600,
+      "variation": 1300
     }
   ],
   "indice de prix": [
     {
-      "list_id": 12618,
-      "name": "Cr\u00e8me glac\u00e9 caramel 1 l",
-      "prix_base": 29900,
-      "prix_comparaison": 37100,
-      "indice_prix": 124.08026755852843
+      "list_id": 2066,
+      "name": "Lait Demi-\u00c9cr\u00e9m\u00e9 Brique 1 L",
+      "prix_base": 6600,
+      "prix_comparaison": 6900,
+      "indice_prix": 104.54545454545455
+    },
+    {
+      "list_id": 3099,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 12100,
+      "prix_comparaison": 13000,
+      "indice_prix": 107.43801652892562
+    },
+    {
+      "list_id": 2075,
+      "name": "Huile Tournesol 1 L",
+      "prix_base": 14300,
+      "prix_comparaison": 15600,
+      "indice_prix": 109.0909090909091
     }
   ]
 }

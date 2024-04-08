@@ -1,174 +1,76 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphones_14841samsunggalaxys24ultra256goviolet_html",
-      "name": "SAMSUNG Galaxy S24 Ultra 256 Go Violet",
-      "prix_base": 6484000,
-      "prix_comparaison": 6427000,
-      "variation": -57000
+      "cle": "laits_14931laitdemiecremeenbrique500mlx24_html",
+      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique 500ml",
+      "prix_base": 2700,
+      "prix_comparaison": 2990,
+      "variation": 290
     },
     {
-      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
-      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
-      "prix_base": 1528000,
-      "prix_comparaison": 1526000,
-      "variation": -2000
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5110,
+      "prix_comparaison": 5900,
+      "variation": 790
     },
     {
-      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
-      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
-      "prix_base": 2186000,
-      "prix_comparaison": 2184000,
-      "variation": -2000
+      "cle": "deodorantsparfums_14969deodorantmencompresse24hattractionantitraces100ml_html",
+      "name": "D\u00e9odorant men compress\u00e9 24h attraction anti-traces 100ml",
+      "prix_base": 8900,
+      "prix_comparaison": 9900,
+      "variation": 1000
     },
     {
-      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
-      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
-      "prix_base": 2068000,
-      "prix_comparaison": 2067000,
-      "variation": -1000
+      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
+      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
+      "prix_base": 8900,
+      "prix_comparaison": 9900,
+      "variation": 1000
     },
     {
-      "cle": "shampoings_4208shampoinglaitdouceuramandedoucecremederiz250ml_html",
-      "name": "Shampoing lait douceur amande douce et cr\u00e8me de riz 250ml",
-      "prix_base": 13200,
-      "prix_comparaison": 13500,
-      "variation": 300
-    },
-    {
-      "cle": "apresshampoings_4209apresshampoingdouceuramandedoucecremederiz200ml_html",
-      "name": "Apr\u00e8s-shampoing douceur amande douce et cr\u00e8me de riz 200ml",
-      "prix_base": 13200,
-      "prix_comparaison": 13500,
-      "variation": 300
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5405000,
-      "prix_comparaison": 5407000,
-      "variation": 2000
-    },
-    {
-      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
-      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
-      "prix_base": 1296000,
-      "prix_comparaison": 1299000,
-      "variation": 3000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
-      "name": "iPhone 13 128Go Midnight",
-      "prix_base": 2995000,
-      "prix_comparaison": 3000000,
-      "variation": 5000
-    },
-    {
-      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 6042000,
-      "prix_comparaison": 6048000,
-      "variation": 6000
-    },
-    {
-      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
-      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
-      "prix_base": 121000,
-      "prix_comparaison": 131000,
-      "variation": 10000
-    },
-    {
-      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
-      "name": "SAMSUNG Galaxy S24 128 Go Argent",
-      "prix_base": 3382568,
-      "prix_comparaison": 4060000,
-      "variation": 677432
+      "cle": "deodorants_13126deodorantantitracelysblancaloevera200mllabell_html",
+      "name": "D\u00e9odorant anti-trace lys blanc et aloe Vera 200ml",
+      "prix_base": 8500,
+      "prix_comparaison": 9900,
+      "variation": 1400
     }
   ],
   "indice de prix": [
     {
-      "cle": "smartphones_14841samsunggalaxys24ultra256goviolet_html",
-      "name": "SAMSUNG Galaxy S24 Ultra 256 Go Violet",
-      "prix_base": 6484000,
-      "prix_comparaison": 6427000,
-      "indice_prix": 99.12091301665639
+      "cle": "laits_14931laitdemiecremeenbrique500mlx24_html",
+      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique 500ml",
+      "prix_base": 2700,
+      "prix_comparaison": 2990,
+      "indice_prix": 110.74074074074075
     },
     {
-      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
-      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
-      "prix_base": 1528000,
-      "prix_comparaison": 1526000,
-      "indice_prix": 99.86910994764398
+      "cle": "deodorantsparfums_14969deodorantmencompresse24hattractionantitraces100ml_html",
+      "name": "D\u00e9odorant men compress\u00e9 24h attraction anti-traces 100ml",
+      "prix_base": 8900,
+      "prix_comparaison": 9900,
+      "indice_prix": 111.23595505617978
     },
     {
-      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
-      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
-      "prix_base": 2186000,
-      "prix_comparaison": 2184000,
-      "indice_prix": 99.90850869167429
+      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
+      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
+      "prix_base": 8900,
+      "prix_comparaison": 9900,
+      "indice_prix": 111.23595505617978
     },
     {
-      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
-      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
-      "prix_base": 2068000,
-      "prix_comparaison": 2067000,
-      "indice_prix": 99.95164410058027
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5110,
+      "prix_comparaison": 5900,
+      "indice_prix": 115.45988258317026
     },
     {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5405000,
-      "prix_comparaison": 5407000,
-      "indice_prix": 100.03700277520814
-    },
-    {
-      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 6042000,
-      "prix_comparaison": 6048000,
-      "indice_prix": 100.09930486593844
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
-      "name": "iPhone 13 128Go Midnight",
-      "prix_base": 2995000,
-      "prix_comparaison": 3000000,
-      "indice_prix": 100.1669449081803
-    },
-    {
-      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
-      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
-      "prix_base": 1296000,
-      "prix_comparaison": 1299000,
-      "indice_prix": 100.23148148148148
-    },
-    {
-      "cle": "shampoings_4208shampoinglaitdouceuramandedoucecremederiz250ml_html",
-      "name": "Shampoing lait douceur amande douce et cr\u00e8me de riz 250ml",
-      "prix_base": 13200,
-      "prix_comparaison": 13500,
-      "indice_prix": 102.27272727272727
-    },
-    {
-      "cle": "apresshampoings_4209apresshampoingdouceuramandedoucecremederiz200ml_html",
-      "name": "Apr\u00e8s-shampoing douceur amande douce et cr\u00e8me de riz 200ml",
-      "prix_base": 13200,
-      "prix_comparaison": 13500,
-      "indice_prix": 102.27272727272727
-    },
-    {
-      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
-      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
-      "prix_base": 121000,
-      "prix_comparaison": 131000,
-      "indice_prix": 108.26446280991736
-    },
-    {
-      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
-      "name": "SAMSUNG Galaxy S24 128 Go Argent",
-      "prix_base": 3382568,
-      "prix_comparaison": 4060000,
-      "indice_prix": 120.02715096932272
+      "cle": "deodorants_13126deodorantantitracelysblancaloevera200mllabell_html",
+      "name": "D\u00e9odorant anti-trace lys blanc et aloe Vera 200ml",
+      "prix_base": 8500,
+      "prix_comparaison": 9900,
+      "indice_prix": 116.47058823529412
     }
   ]
 }

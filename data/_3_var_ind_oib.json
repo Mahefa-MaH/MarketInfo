@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "beurres_2119beurresale200g_html",
-      "name": "Beurre demi sel plaquette 200g",
-      "prix_base": 11900,
-      "prix_comparaison": 14500,
-      "variation": 2600
+      "cle": "coiffure_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
+      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
+      "prix_base": 334000,
+      "prix_comparaison": 385000,
+      "variation": 51000
     },
     {
-      "cle": "conservesdepoissons_13484sardinesaupiment135godyssee_html",
-      "name": "Sardines au piment 135g",
-      "prix_base": 6500,
-      "prix_comparaison": 6900,
-      "variation": 400
+      "cle": "fromagesdechevresbrebisfeta_4404batonnetsdechevre_html",
+      "name": "B\u00e2tonnets de ch\u00e8vre 1kg",
+      "prix_base": 78000,
+      "prix_comparaison": 93500,
+      "variation": 15500
+    },
+    {
+      "cle": "conservesautreslegumes_7052tomatesentierespelees2500g_html",
+      "name": "Tomates enti\u00e8res pel\u00e9es 2500g",
+      "prix_base": 25000,
+      "prix_comparaison": 34900,
+      "variation": 9900
     }
   ],
   "prix_diminues": [
     {
-      "cle": "conservesdepoissons_13484sardinesaupiment135godyssee_html",
-      "name": "Sardines au piment 135g",
-      "prix_base": 6500,
-      "prix_comparaison": 6900,
-      "variation": 400
+      "cle": "promenadevoyage_14033babyonboardsacalangeraccessoiressimplyswirl_html",
+      "name": "BABY ON BOARD Sac a langer + accessoires Simply Swirl",
+      "prix_base": 294000,
+      "prix_comparaison": 287000,
+      "variation": -7000
     },
     {
-      "cle": "beurres_2119beurresale200g_html",
-      "name": "Beurre demi sel plaquette 200g",
-      "prix_base": 11900,
-      "prix_comparaison": 14500,
-      "variation": 2600
+      "cle": "croquettesetfriandiseschien_7043croquettespourchienviandes20kg_html",
+      "name": "Croquettes pour chien viandes 20kg",
+      "prix_base": 171000,
+      "prix_comparaison": 169000,
+      "variation": -2000
+    },
+    {
+      "cle": "poubellesetsacspoubelle_11667poubelleapedalenoire18lapta_html",
+      "name": "Poubelle \u00e0 p\u00e9dale noire 18L",
+      "prix_base": 61000,
+      "prix_comparaison": 59900,
+      "variation": -1100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "beurres_2119beurresale200g_html",
-      "name": "Beurre demi sel plaquette 200g",
-      "prix_base": 11900,
-      "prix_comparaison": 14500,
-      "indice_prix": 121.84873949579831
+      "cle": "sucres_1334sucreenpoudre500g_html",
+      "name": "Sucre en poudre 500g",
+      "prix_base": 4900,
+      "prix_comparaison": 10400,
+      "indice_prix": 212.24489795918367
     },
     {
-      "cle": "conservesdepoissons_13484sardinesaupiment135godyssee_html",
-      "name": "Sardines au piment 135g",
-      "prix_base": 6500,
-      "prix_comparaison": 6900,
-      "indice_prix": 106.15384615384616
+      "cle": "sucres_5543sucreenpoudre650g_html",
+      "name": "Sucre en poudre 650g",
+      "prix_base": 5900,
+      "prix_comparaison": 10400,
+      "indice_prix": 176.27118644067798
+    },
+    {
+      "cle": "conservesautreslegumes_7052tomatesentierespelees2500g_html",
+      "name": "Tomates enti\u00e8res pel\u00e9es 2500g",
+      "prix_base": 25000,
+      "prix_comparaison": 34900,
+      "indice_prix": 139.6
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "conservesdepoissons_13484sardinesaupiment135godyssee_html",
-      "name": "Sardines au piment 135g",
-      "prix_base": 6500,
-      "prix_comparaison": 6900,
-      "indice_prix": 106.15384615384616
+      "cle": "charbonetfeux_12833allumefeucubesx32domedia_html",
+      "name": "Allume feu cubes x32",
+      "prix_base": 8500,
+      "prix_comparaison": 7900,
+      "indice_prix": 92.94117647058823
     },
     {
-      "cle": "beurres_2119beurresale200g_html",
-      "name": "Beurre demi sel plaquette 200g",
-      "prix_base": 11900,
-      "prix_comparaison": 14500,
-      "indice_prix": 121.84873949579831
+      "cle": "laqueshuilesgelsmoussescoiffantes_13250laquesculptnormale75mllabell_html",
+      "name": "Laque sculp't fixation normale 75ml",
+      "prix_base": 8900,
+      "prix_comparaison": 8500,
+      "indice_prix": 95.50561797752809
+    },
+    {
+      "cle": "laqueshuilesgelsmoussescoiffantes_13390laquefixationextraforte75mllabell_html",
+      "name": "Laque fixation extra forte  75ml",
+      "prix_base": 8900,
+      "prix_comparaison": 8500,
+      "indice_prix": 95.50561797752809
     }
   ]
 }
