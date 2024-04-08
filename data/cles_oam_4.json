@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 10304000,
-      "prix_comparaison": 10304000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
       "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
       "prix_base": 10786000,
@@ -17,10 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
-      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 11809000,
-      "prix_comparaison": 11809000,
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 12357000,
+      "prix_comparaison": 12357000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "televiseurled_96219samsung85au7172tvledcrystal4kuhd85214cmsmarttv3portshdmi8806094907964_html",
+      "name": "SAMSUNG 85AU7172 - TV LED Crystal 85 (214 cm) - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI",
+      "prix_base": 10928000,
+      "prix_comparaison": 10928000,
       "variation": 0,
       "indice_prix": 100.0
     }

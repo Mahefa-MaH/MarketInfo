@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
+      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
+      "prix_base": 10290000,
+      "prix_comparaison": 10290000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
       "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
       "prix_base": 12697000,
@@ -9,18 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63233appleipadpro2022129wificellular2togrissideral0194253255475_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 13562000,
-      "prix_comparaison": 13562000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
-      "prix_base": 10362000,
-      "prix_comparaison": 10362000,
+      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11915000,
+      "prix_comparaison": 11915000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_9404rizmakaliokasacde1kg_html",
-      "name": "Riz Makalioka sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "riz_7474rizrougecomplet5kg_html",
       "name": "Riz rouge complet 5kg",
       "prix_base": 18990,
@@ -21,6 +13,14 @@
       "name": "Riz blanc de l'Itasy 25kg",
       "prix_base": 92000,
       "prix_comparaison": 92000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "riz_7289rizblancdeitasy5kg_html",
+      "name": "Riz blanc de l'Itasy 5kg",
+      "prix_base": 18400,
+      "prix_comparaison": 18400,
       "variation": 0,
       "indice_prix": 100.0
     }

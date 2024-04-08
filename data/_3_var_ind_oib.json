@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "brossesadents_14961brossesadentsprotectionsouplefamilyx4piece_html",
-      "name": "Brosses \u00e0 dents protection souple family x 4 pi\u00e8ce",
-      "prix_base": 5500,
-      "prix_comparaison": 6500,
-      "variation": 1000
+      "cle": "beurres_2119beurresale200g_html",
+      "name": "Beurre demi sel plaquette 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 14500,
+      "variation": 2600
+    },
+    {
+      "cle": "conservesdepoissons_13484sardinesaupiment135godyssee_html",
+      "name": "Sardines au piment 135g",
+      "prix_base": 6500,
+      "prix_comparaison": 6900,
+      "variation": 400
     }
   ],
   "prix_diminues": [
     {
-      "cle": "brossesadents_14961brossesadentsprotectionsouplefamilyx4piece_html",
-      "name": "Brosses \u00e0 dents protection souple family x 4 pi\u00e8ce",
-      "prix_base": 5500,
-      "prix_comparaison": 6500,
-      "variation": 1000
+      "cle": "conservesdepoissons_13484sardinesaupiment135godyssee_html",
+      "name": "Sardines au piment 135g",
+      "prix_base": 6500,
+      "prix_comparaison": 6900,
+      "variation": 400
+    },
+    {
+      "cle": "beurres_2119beurresale200g_html",
+      "name": "Beurre demi sel plaquette 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 14500,
+      "variation": 2600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "brossesadents_14961brossesadentsprotectionsouplefamilyx4piece_html",
-      "name": "Brosses \u00e0 dents protection souple family x 4 pi\u00e8ce",
-      "prix_base": 5500,
-      "prix_comparaison": 6500,
-      "indice_prix": 118.18181818181819
+      "cle": "beurres_2119beurresale200g_html",
+      "name": "Beurre demi sel plaquette 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 14500,
+      "indice_prix": 121.84873949579831
+    },
+    {
+      "cle": "conservesdepoissons_13484sardinesaupiment135godyssee_html",
+      "name": "Sardines au piment 135g",
+      "prix_base": 6500,
+      "prix_comparaison": 6900,
+      "indice_prix": 106.15384615384616
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "brossesadents_14961brossesadentsprotectionsouplefamilyx4piece_html",
-      "name": "Brosses \u00e0 dents protection souple family x 4 pi\u00e8ce",
-      "prix_base": 5500,
-      "prix_comparaison": 6500,
-      "indice_prix": 118.18181818181819
+      "cle": "conservesdepoissons_13484sardinesaupiment135godyssee_html",
+      "name": "Sardines au piment 135g",
+      "prix_base": 6500,
+      "prix_comparaison": 6900,
+      "indice_prix": 106.15384615384616
+    },
+    {
+      "cle": "beurres_2119beurresale200g_html",
+      "name": "Beurre demi sel plaquette 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 14500,
+      "indice_prix": 121.84873949579831
     }
   ]
 }
