@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 3533330,
+      "prix_comparaison": 4240000,
+      "variation": 706670
+    },
+    {
       "cle": "coiffure_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
       "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
       "prix_base": 334000,
@@ -15,14 +22,28 @@
       "variation": 15500
     },
     {
-      "cle": "conservesautreslegumes_7052tomatesentierespelees2500g_html",
-      "name": "Tomates enti\u00e8res pel\u00e9es 2500g",
-      "prix_base": 25000,
-      "prix_comparaison": 34900,
-      "variation": 9900
+      "cle": "selsepicesherbes_750garammasala1kg_html",
+      "name": "Garam masala 1kg",
+      "prix_base": 32000,
+      "prix_comparaison": 42300,
+      "variation": 10300
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1499000,
+      "prix_comparaison": 1349100,
+      "variation": -149900
+    },
+    {
+      "cle": "ordinateursdebureau_14825ecranpcgamerincurveaocc24g2aebk236fhddalleva1ms165hzhdmivgadisplayportfreesyncpremium_html",
+      "name": "Ecran PC Gamer incurv\u00e9 - AOC C24G2AE/BK - 23,6 FHD - Dalle VA - 1ms - 165Hz - HDMI / VGA / DisplayPort - FreeSync Premium",
+      "prix_base": 1157000,
+      "prix_comparaison": 1139000,
+      "variation": -18000
+    },
     {
       "cle": "promenadevoyage_14033babyonboardsacalangeraccessoiressimplyswirl_html",
       "name": "BABY ON BOARD Sac a langer + accessoires Simply Swirl",
@@ -36,13 +57,6 @@
       "prix_base": 171000,
       "prix_comparaison": 169000,
       "variation": -2000
-    },
-    {
-      "cle": "poubellesetsacspoubelle_11667poubelleapedalenoire18lapta_html",
-      "name": "Poubelle \u00e0 p\u00e9dale noire 18L",
-      "prix_base": 61000,
-      "prix_comparaison": 59900,
-      "variation": -1100
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,9 +80,23 @@
       "prix_base": 25000,
       "prix_comparaison": 34900,
       "indice_prix": 139.6
+    },
+    {
+      "cle": "sauceschaudessaucestomates_40doubleconcentredetomates2870g_html",
+      "name": "Double concentr\u00e9 de tomates 28% 70g",
+      "prix_base": 890,
+      "prix_comparaison": 1200,
+      "indice_prix": 134.8314606741573
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1499000,
+      "prix_comparaison": 1349100,
+      "indice_prix": 90.0
+    },
     {
       "cle": "charbonetfeux_12833allumefeucubesx32domedia_html",
       "name": "Allume feu cubes x32",
@@ -77,15 +105,15 @@
       "indice_prix": 92.94117647058823
     },
     {
-      "cle": "laqueshuilesgelsmoussescoiffantes_13250laquesculptnormale75mllabell_html",
-      "name": "Laque sculp't fixation normale 75ml",
-      "prix_base": 8900,
-      "prix_comparaison": 8500,
-      "indice_prix": 95.50561797752809
+      "cle": "croquettesetfriandiseschat_14965croquettepourchatspecialsystemeurinaireaupoulet450g_html",
+      "name": "Croquette pour chat sp\u00e9cial syst\u00e8me urinaire au poulet 450g",
+      "prix_base": 21000,
+      "prix_comparaison": 19900,
+      "indice_prix": 94.76190476190476
     },
     {
-      "cle": "laqueshuilesgelsmoussescoiffantes_13390laquefixationextraforte75mllabell_html",
-      "name": "Laque fixation extra forte  75ml",
+      "cle": "laqueshuilesgelsmoussescoiffantes_13250laquesculptnormale75mllabell_html",
+      "name": "Laque sculp't fixation normale 75ml",
       "prix_base": 8900,
       "prix_comparaison": 8500,
       "indice_prix": 95.50561797752809
