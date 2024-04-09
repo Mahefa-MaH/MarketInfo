@@ -1,6 +1,13 @@
 {
   "Variation de prix": [
     {
+      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1499000,
+      "prix_comparaison": 1349100,
+      "variation": -149900
+    },
+    {
       "cle": "laits_14931laitdemiecremeenbrique500mlx24_html",
       "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique 500ml",
       "prix_base": 2700,
@@ -34,9 +41,23 @@
       "prix_base": 8500,
       "prix_comparaison": 9900,
       "variation": 1400
+    },
+    {
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 3533330,
+      "prix_comparaison": 4240000,
+      "variation": 706670
     }
   ],
   "indice de prix": [
+    {
+      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1499000,
+      "prix_comparaison": 1349100,
+      "indice_prix": 90.0
+    },
     {
       "cle": "laits_14931laitdemiecremeenbrique500mlx24_html",
       "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique 500ml",
@@ -71,6 +92,13 @@
       "prix_base": 8500,
       "prix_comparaison": 9900,
       "indice_prix": 116.47058823529412
+    },
+    {
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 3533330,
+      "prix_comparaison": 4240000,
+      "indice_prix": 120.00011320765397
     }
   ]
 }
