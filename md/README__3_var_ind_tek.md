@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Ninebot Gokart Pro**
-   - Prix avant: 16,662,200 Ar
-   - Prix actuel: 17,386,700 Ar
-   - Variation: +724,500 Ar
+1. **Camouflage Palette Concealar 7.5 G**
+   - Prix avant: 35,000 Ar
+   - Prix actuel: 38,200 Ar
+   - Variation: +3,200 Ar
 
-2. **Electric Scooter Black Eu**
-   - Prix avant: 2,414,600 Ar
-   - Prix actuel: 2,519,600 Ar
-   - Variation: +105,000 Ar
+2. **Fond de teint Invisible Cover Hd-80 Soft Beige 30 Ml**
+   - Prix avant: 33,000 Ar
+   - Prix actuel: 36,000 Ar
+   - Variation: +3,000 Ar
 
-3. **Electric Scooter White Eu**
-   - Prix avant: 2,414,600 Ar
-   - Prix actuel: 2,519,600 Ar
-   - Variation: +105,000 Ar
+3. **Fond de teint Invisible Cover Hd-60 Ivory 30 Ml**
+   - Prix avant: 33,000 Ar
+   - Prix actuel: 36,000 Ar
+   - Variation: +3,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Lait En Poudre 1 Kg**
-   - Prix avant: 39,200 Ar
-   - Prix actuel: 32,400 Ar
-   - Variation: -6,800 Ar
+1. **Protège-documents en polypropylène Openline 80 Vues**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 5,800 Ar
+   - Variation: -1,100 Ar
 
-2. **Intimex**
-   - Prix avant: 38,500 Ar
-   - Prix actuel: 37,000 Ar
-   - Variation: -1,500 Ar
+2. **Lingette Anti-COVID x100**
+   - Prix avant: 8,800 Ar
+   - Prix actuel: 8,400 Ar
+   - Variation: -400 Ar
 
-3. **Pâtes Spaghetti 500 G**
-   - Prix avant: 2,800 Ar
-   - Prix actuel: 2,900 Ar
-   - Variation: +100 Ar
+3. **Protège-documents en polypropylène Openline 60 Vues**
+   - Prix avant: 5,500 Ar
+   - Prix actuel: 5,100 Ar
+   - Variation: -400 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Choco 150 Ml**
-   - Prix avant: 1,200 Ar
-   - Prix actuel: 1,400 Ar
-   - Indice de prix : 116.67
+1. **Pâtes Nouilles Saveur poulet 80 g**
+   - Prix avant: 900 Ar
+   - Prix actuel: 1,100 Ar
+   - Indice de prix : 122.22
 
-2. **Pâtes Macaroni Spiral 500 G**
+2. **Protège document 20 vues**
    - Prix avant: 3,000 Ar
    - Prix actuel: 3,400 Ar
    - Indice de prix : 113.33
 
-3. **Dentifrice Generic Bubble Fruit 50 ml**
-   - Prix avant: 4,700 Ar
-   - Prix actuel: 5,300 Ar
-   - Indice de prix : 112.77
+3. **Chemise à clips polypropylène 21x29,7**
+   - Prix avant: 2,400 Ar
+   - Prix actuel: 2,700 Ar
+   - Indice de prix : 112.50
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Lait En Poudre 1 Kg**
-   - Prix avant: 39,200 Ar
-   - Prix actuel: 32,400 Ar
-   - Indice de prix : 82.65
+1. **Protège-documents en polypropylène Openline 80 Vues**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 5,800 Ar
+   - Indice de prix : 84.06
 
-2. **Intimex**
-   - Prix avant: 38,500 Ar
-   - Prix actuel: 37,000 Ar
-   - Indice de prix : 96.10
+2. **Protège-documents en polypropylène Openline 60 Vues**
+   - Prix avant: 5,500 Ar
+   - Prix actuel: 5,100 Ar
+   - Indice de prix : 92.73
 
-3. **Pâtes Spaghetti 500 G**
-   - Prix avant: 2,800 Ar
-   - Prix actuel: 2,900 Ar
-   - Indice de prix : 103.57
+3. **Protège-documents en polypropylène Openline 40 Vues**
+   - Prix avant: 4,400 Ar
+   - Prix actuel: 4,100 Ar
+   - Indice de prix : 93.18
 

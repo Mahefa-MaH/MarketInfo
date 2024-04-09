@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 1556,
-      "prix_base": 16662200,
-      "name": "Ninebot Gokart Pro",
-      "prix_comparaison": 17386700,
-      "variation": 724500
+      "list_id": 1809,
+      "prix_base": 35000,
+      "name": "Camouflage Palette Concealar 7.5 G",
+      "prix_comparaison": 38200,
+      "variation": 3200
     },
     {
-      "list_id": 1558,
-      "prix_base": 2414600,
-      "name": "Electric Scooter Black Eu",
-      "prix_comparaison": 2519600,
-      "variation": 105000
+      "list_id": 1795,
+      "prix_base": 33000,
+      "name": "Fond de teint Invisible Cover Hd-80 Soft Beige 30 Ml",
+      "prix_comparaison": 36000,
+      "variation": 3000
     },
     {
-      "list_id": 1557,
-      "prix_base": 2414600,
-      "name": "Electric Scooter White Eu",
-      "prix_comparaison": 2519600,
-      "variation": 105000
+      "list_id": 1793,
+      "prix_base": 33000,
+      "name": "Fond de teint Invisible Cover Hd-60 Ivory 30 Ml",
+      "prix_comparaison": 36000,
+      "variation": 3000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 2858,
-      "prix_base": 39200,
-      "name": "Lait En Poudre 1 Kg",
-      "prix_comparaison": 32400,
-      "variation": -6800
+      "list_id": 7505,
+      "prix_base": 6900,
+      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 80 Vues",
+      "prix_comparaison": 5800,
+      "variation": -1100
     },
     {
-      "list_id": 1383,
-      "prix_base": 38500,
-      "name": "Intimex",
-      "prix_comparaison": 37000,
-      "variation": -1500
+      "list_id": 1614,
+      "prix_base": 8800,
+      "name": "Lingette Anti-COVID x100",
+      "prix_comparaison": 8400,
+      "variation": -400
     },
     {
-      "list_id": 2030,
-      "prix_base": 2800,
-      "name": "P\u00e2tes Spaghetti 500 G",
-      "prix_comparaison": 2900,
-      "variation": 100
+      "list_id": 7504,
+      "prix_base": 5500,
+      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 60 Vues",
+      "prix_comparaison": 5100,
+      "variation": -400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 2080,
-      "name": "Choco 150 Ml",
-      "prix_base": 1200,
-      "prix_comparaison": 1400,
-      "indice_prix": 116.66666666666667
+      "list_id": 1715,
+      "name": "P\u00e2tes Nouilles Saveur poulet 80 g",
+      "prix_base": 900,
+      "prix_comparaison": 1100,
+      "indice_prix": 122.22222222222223
     },
     {
-      "list_id": 2068,
-      "name": "P\u00e2tes Macaroni Spiral 500 G",
+      "list_id": 7496,
+      "name": "Prot\u00e8ge document 20 vues",
       "prix_base": 3000,
       "prix_comparaison": 3400,
       "indice_prix": 113.33333333333333
     },
     {
-      "list_id": 1345,
-      "name": "Dentifrice Generic Bubble Fruit 50 ml",
-      "prix_base": 4700,
-      "prix_comparaison": 5300,
-      "indice_prix": 112.76595744680851
+      "list_id": 7427,
+      "name": "Chemise \u00e0 clips polypropyl\u00e8ne 21x29,7",
+      "prix_base": 2400,
+      "prix_comparaison": 2700,
+      "indice_prix": 112.5
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 2858,
-      "name": "Lait En Poudre 1 Kg",
-      "prix_base": 39200,
-      "prix_comparaison": 32400,
-      "indice_prix": 82.65306122448979
+      "list_id": 7505,
+      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 80 Vues",
+      "prix_base": 6900,
+      "prix_comparaison": 5800,
+      "indice_prix": 84.05797101449275
     },
     {
-      "list_id": 1383,
-      "name": "Intimex",
-      "prix_base": 38500,
-      "prix_comparaison": 37000,
-      "indice_prix": 96.1038961038961
+      "list_id": 7504,
+      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 60 Vues",
+      "prix_base": 5500,
+      "prix_comparaison": 5100,
+      "indice_prix": 92.72727272727273
     },
     {
-      "list_id": 2030,
-      "name": "P\u00e2tes Spaghetti 500 G",
-      "prix_base": 2800,
-      "prix_comparaison": 2900,
-      "indice_prix": 103.57142857142857
+      "list_id": 7502,
+      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 40 Vues",
+      "prix_base": 4400,
+      "prix_comparaison": 4100,
+      "indice_prix": 93.18181818181819
     }
   ]
 }
