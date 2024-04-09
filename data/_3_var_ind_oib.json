@@ -1,38 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 3533330,
-      "prix_comparaison": 4240000,
-      "variation": 706670
+      "cle": "yaourtsauxfruits_1859yaourtofruitsfraise100g_html",
+      "name": "Yaourt O'fruits fraise 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "variation": -200
+    },
+    {
+      "cle": "yaourtsauxfruits_8897yaourtofruitspoire100g_html",
+      "name": "Yaourt O'fruits poire 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "variation": -200
+    },
+    {
+      "cle": "yaourtsauxfruits_8896yaourtofruitspeche100g_html",
+      "name": "Yaourt O'fruits p\u00eache 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "variation": -200
+    },
+    {
+      "cle": "yaourtsauxfruits_1858yaourtofruitsexotique100g_html",
+      "name": "Yaourt O'fruits exotique 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "variation": -200
     }
   ],
   "prix_diminues": [
     {
-      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1499000,
-      "prix_comparaison": 1349100,
-      "variation": -149900
+      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
+      "name": "Boisson gazeuse cristal 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4600,
+      "variation": -400
+    },
+    {
+      "cle": "yaourtsauxfruits_1858yaourtofruitsexotique100g_html",
+      "name": "Yaourt O'fruits exotique 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "variation": -200
+    },
+    {
+      "cle": "yaourtsauxfruits_8896yaourtofruitspeche100g_html",
+      "name": "Yaourt O'fruits p\u00eache 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "variation": -200
+    },
+    {
+      "cle": "yaourtsauxfruits_8897yaourtofruitspoire100g_html",
+      "name": "Yaourt O'fruits poire 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "variation": -200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "sucres_1334sucreenpoudre500g_html",
-      "name": "Sucre en poudre 500g",
-      "prix_base": 4900,
-      "prix_comparaison": 10400,
-      "indice_prix": 212.24489795918367
+      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
+      "name": "Boisson gazeuse cristal 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4600,
+      "indice_prix": 92.0
+    },
+    {
+      "cle": "yaourtsauxfruits_1859yaourtofruitsfraise100g_html",
+      "name": "Yaourt O'fruits fraise 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "indice_prix": 86.57718120805369
+    },
+    {
+      "cle": "yaourtsauxfruits_8897yaourtofruitspoire100g_html",
+      "name": "Yaourt O'fruits poire 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "indice_prix": 86.57718120805369
+    },
+    {
+      "cle": "yaourtsauxfruits_8896yaourtofruitspeche100g_html",
+      "name": "Yaourt O'fruits p\u00eache 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "indice_prix": 86.57718120805369
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1499000,
-      "prix_comparaison": 1349100,
-      "indice_prix": 90.0
+      "cle": "yaourtsauxfruits_1858yaourtofruitsexotique100g_html",
+      "name": "Yaourt O'fruits exotique 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "indice_prix": 86.57718120805369
+    },
+    {
+      "cle": "yaourtsauxfruits_8896yaourtofruitspeche100g_html",
+      "name": "Yaourt O'fruits p\u00eache 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "indice_prix": 86.57718120805369
+    },
+    {
+      "cle": "yaourtsauxfruits_8897yaourtofruitspoire100g_html",
+      "name": "Yaourt O'fruits poire 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "indice_prix": 86.57718120805369
+    },
+    {
+      "cle": "yaourtsauxfruits_1859yaourtofruitsfraise100g_html",
+      "name": "Yaourt O'fruits fraise 100g",
+      "prix_base": 1490,
+      "prix_comparaison": 1290,
+      "indice_prix": 86.57718120805369
     }
   ]
 }

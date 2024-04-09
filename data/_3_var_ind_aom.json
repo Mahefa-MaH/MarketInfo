@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "biscuitssales_130460biscuitsauxsesamestriangolini100g_html",
-      "name": "Biscuits aux s\u00e9sames Triangolini 100g",
-      "prix_base": 5900,
-      "prix_comparaison": 6300,
-      "variation": 400
-    },
-    {
-      "cle": "soufflesextrudes_130576snacksgoutfromagecricfies90g_html",
-      "name": "Snacks go\u00fbt fromage Cricfies 90g",
-      "prix_base": 4200,
-      "prix_comparaison": 4400,
-      "variation": 200
+      "cle": "luminaire_118408ampouleleddecoglobevintage65we27124mm_html",
+      "name": "Ampoule LED d\u00e9co Globe Vintage-6.5W E27 124 mm",
+      "prix_base": 45000,
+      "prix_comparaison": 48000,
+      "variation": 3000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "soufflesextrudes_130576snacksgoutfromagecricfies90g_html",
-      "name": "Snacks go\u00fbt fromage Cricfies 90g",
-      "prix_base": 4200,
-      "prix_comparaison": 4400,
-      "variation": 200
-    },
-    {
-      "cle": "biscuitssales_130460biscuitsauxsesamestriangolini100g_html",
-      "name": "Biscuits aux s\u00e9sames Triangolini 100g",
-      "prix_base": 5900,
-      "prix_comparaison": 6300,
-      "variation": 400
+      "cle": "luminaire_118408ampouleleddecoglobevintage65we27124mm_html",
+      "name": "Ampoule LED d\u00e9co Globe Vintage-6.5W E27 124 mm",
+      "prix_base": 45000,
+      "prix_comparaison": 48000,
+      "variation": 3000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "biscuitssales_130460biscuitsauxsesamestriangolini100g_html",
-      "name": "Biscuits aux s\u00e9sames Triangolini 100g",
-      "prix_base": 5900,
-      "prix_comparaison": 6300,
-      "indice_prix": 106.77966101694915
-    },
-    {
-      "cle": "soufflesextrudes_130576snacksgoutfromagecricfies90g_html",
-      "name": "Snacks go\u00fbt fromage Cricfies 90g",
-      "prix_base": 4200,
-      "prix_comparaison": 4400,
-      "indice_prix": 104.76190476190476
+      "cle": "luminaire_118408ampouleleddecoglobevintage65we27124mm_html",
+      "name": "Ampoule LED d\u00e9co Globe Vintage-6.5W E27 124 mm",
+      "prix_base": 45000,
+      "prix_comparaison": 48000,
+      "indice_prix": 106.66666666666667
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "soufflesextrudes_130576snacksgoutfromagecricfies90g_html",
-      "name": "Snacks go\u00fbt fromage Cricfies 90g",
-      "prix_base": 4200,
-      "prix_comparaison": 4400,
-      "indice_prix": 104.76190476190476
-    },
-    {
-      "cle": "biscuitssales_130460biscuitsauxsesamestriangolini100g_html",
-      "name": "Biscuits aux s\u00e9sames Triangolini 100g",
-      "prix_base": 5900,
-      "prix_comparaison": 6300,
-      "indice_prix": 106.77966101694915
+      "cle": "luminaire_118408ampouleleddecoglobevintage65we27124mm_html",
+      "name": "Ampoule LED d\u00e9co Globe Vintage-6.5W E27 124 mm",
+      "prix_base": 45000,
+      "prix_comparaison": 48000,
+      "indice_prix": 106.66666666666667
     }
   ]
 }
