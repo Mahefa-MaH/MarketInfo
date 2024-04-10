@@ -20,13 +20,6 @@
       "prix_base": 10500,
       "prix_comparaison": 9975,
       "variation": -525
-    },
-    {
-      "cle": "chips_7273chipsbeurresalelabretonne152g_html",
-      "name": "Chips beurre sal\u00e9 La Bretonne 125g",
-      "prix_base": 10900,
-      "prix_comparaison": 10355,
-      "variation": -545
     }
   ],
   "prix_diminues": [
@@ -50,13 +43,6 @@
       "prix_base": 19900,
       "prix_comparaison": 18905,
       "variation": -995
-    },
-    {
-      "cle": "cerealesetbarres_13558mueslicrispchocolatnoir500gchabrior_html",
-      "name": "Muesli crisp chocolat noir 500g",
-      "prix_base": 17300,
-      "prix_comparaison": 16435,
-      "variation": -865
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,21 +66,14 @@
       "prix_base": 26500,
       "prix_comparaison": 25175,
       "indice_prix": 95.0
-    },
-    {
-      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
-      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "chips_8871chipssaveurmielmoutarde125g_html",
-      "name": "Chips saveur miel moutarde 125g",
-      "prix_base": 10500,
-      "prix_comparaison": 9975,
+      "cle": "chips_7273chipsbeurresalelabretonne152g_html",
+      "name": "Chips beurre sal\u00e9 La Bretonne 125g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
       "indice_prix": 95.0
     },
     {
@@ -105,17 +84,10 @@
       "indice_prix": 95.0
     },
     {
-      "cle": "chips_371chipssaveurindiancurry125g_html",
-      "name": "Chips saveur indian curry 125g",
-      "prix_base": 10900,
-      "prix_comparaison": 10355,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "chips_5671chipssaveurpestomozzarella125g_html",
-      "name": "Chips saveur pesto mozzarella 125g",
-      "prix_base": 10900,
-      "prix_comparaison": 10355,
+      "cle": "chips_8871chipssaveurmielmoutarde125g_html",
+      "name": "Chips saveur miel moutarde 125g",
+      "prix_base": 10500,
+      "prix_comparaison": 9975,
       "indice_prix": 95.0
     }
   ]

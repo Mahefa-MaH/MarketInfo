@@ -1,104 +1,34 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1499000,
-      "prix_comparaison": 1349100,
-      "variation": -149900
+      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
+      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "variation": -1325
     },
     {
-      "cle": "laits_14931laitdemiecremeenbrique500mlx24_html",
-      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique 500ml",
-      "prix_base": 2700,
-      "prix_comparaison": 2990,
-      "variation": 290
-    },
-    {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5110,
-      "prix_comparaison": 5900,
-      "variation": 790
-    },
-    {
-      "cle": "deodorantsparfums_14969deodorantmencompresse24hattractionantitraces100ml_html",
-      "name": "D\u00e9odorant men compress\u00e9 24h attraction anti-traces 100ml",
-      "prix_base": 8900,
-      "prix_comparaison": 9900,
-      "variation": 1000
-    },
-    {
-      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
-      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
-      "prix_base": 8900,
-      "prix_comparaison": 9900,
-      "variation": 1000
-    },
-    {
-      "cle": "deodorants_13126deodorantantitracelysblancaloevera200mllabell_html",
-      "name": "D\u00e9odorant anti-trace lys blanc et aloe Vera 200ml",
-      "prix_base": 8500,
-      "prix_comparaison": 9900,
-      "variation": 1400
-    },
-    {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 3533330,
-      "prix_comparaison": 4240000,
-      "variation": 706670
+      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
+      "name": "Cr\u00e8me douche lait d'amande 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "variation": -1325
     }
   ],
   "indice de prix": [
     {
-      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1499000,
-      "prix_comparaison": 1349100,
-      "indice_prix": 90.0
+      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
+      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "indice_prix": 95.0
     },
     {
-      "cle": "laits_14931laitdemiecremeenbrique500mlx24_html",
-      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique 500ml",
-      "prix_base": 2700,
-      "prix_comparaison": 2990,
-      "indice_prix": 110.74074074074075
-    },
-    {
-      "cle": "deodorantsparfums_14969deodorantmencompresse24hattractionantitraces100ml_html",
-      "name": "D\u00e9odorant men compress\u00e9 24h attraction anti-traces 100ml",
-      "prix_base": 8900,
-      "prix_comparaison": 9900,
-      "indice_prix": 111.23595505617978
-    },
-    {
-      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
-      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
-      "prix_base": 8900,
-      "prix_comparaison": 9900,
-      "indice_prix": 111.23595505617978
-    },
-    {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5110,
-      "prix_comparaison": 5900,
-      "indice_prix": 115.45988258317026
-    },
-    {
-      "cle": "deodorants_13126deodorantantitracelysblancaloevera200mllabell_html",
-      "name": "D\u00e9odorant anti-trace lys blanc et aloe Vera 200ml",
-      "prix_base": 8500,
-      "prix_comparaison": 9900,
-      "indice_prix": 116.47058823529412
-    },
-    {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 3533330,
-      "prix_comparaison": 4240000,
-      "indice_prix": 120.00011320765397
+      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
+      "name": "Cr\u00e8me douche lait d'amande 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "indice_prix": 95.0
     }
   ]
 }
