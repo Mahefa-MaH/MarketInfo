@@ -1,66 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "yaourtsauxfruits_1859yaourtofruitsfraise100g_html",
-      "name": "Yaourt O'fruits fraise 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "variation": -200
+      "cle": "chips_374chipsnaturealancienne125g_html",
+      "name": "Chips nature \u00e0 l'ancienne 125g",
+      "prix_base": 8900,
+      "prix_comparaison": 8455,
+      "variation": -445
     },
     {
-      "cle": "yaourtsauxfruits_8897yaourtofruitspoire100g_html",
-      "name": "Yaourt O'fruits poire 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "variation": -200
+      "cle": "chips_4384chipssaveursaucepommesfrites125g_html",
+      "name": "Chips saveur sauce pommes Frites 125g",
+      "prix_base": 9900,
+      "prix_comparaison": 9405,
+      "variation": -495
+    },
+    {
+      "cle": "chips_8871chipssaveurmielmoutarde125g_html",
+      "name": "Chips saveur miel moutarde 125g",
+      "prix_base": 10500,
+      "prix_comparaison": 9975,
+      "variation": -525
+    },
+    {
+      "cle": "chips_7273chipsbeurresalelabretonne152g_html",
+      "name": "Chips beurre sal\u00e9 La Bretonne 125g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
+      "variation": -545
     }
   ],
   "prix_diminues": [
     {
-      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
-      "name": "Boisson gazeuse cristal 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "variation": -400
+      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
+      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "variation": -1325
     },
     {
-      "cle": "yaourtsauxfruits_1858yaourtofruitsexotique100g_html",
-      "name": "Yaourt O'fruits exotique 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "variation": -200
+      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
+      "name": "Cr\u00e8me douche lait d'amande 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "variation": -1325
+    },
+    {
+      "cle": "papiertoilette_13664papierhygieniqueblancpremium4plisx6rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique blanc pr\u00e9mium 4 plis x 6 rouleaux",
+      "prix_base": 19900,
+      "prix_comparaison": 18905,
+      "variation": -995
+    },
+    {
+      "cle": "cerealesetbarres_13558mueslicrispchocolatnoir500gchabrior_html",
+      "name": "Muesli crisp chocolat noir 500g",
+      "prix_base": 17300,
+      "prix_comparaison": 16435,
+      "variation": -865
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
-      "name": "Boisson gazeuse cristal 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "indice_prix": 92.0
+      "cle": "cerealesetbarres_13558mueslicrispchocolatnoir500gchabrior_html",
+      "name": "Muesli crisp chocolat noir 500g",
+      "prix_base": 17300,
+      "prix_comparaison": 16435,
+      "indice_prix": 95.0
     },
     {
-      "cle": "yaourtsauxfruits_1859yaourtofruitsfraise100g_html",
-      "name": "Yaourt O'fruits fraise 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "indice_prix": 86.57718120805369
+      "cle": "papiertoilette_13664papierhygieniqueblancpremium4plisx6rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique blanc pr\u00e9mium 4 plis x 6 rouleaux",
+      "prix_base": 19900,
+      "prix_comparaison": 18905,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
+      "name": "Cr\u00e8me douche lait d'amande 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
+      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "yaourtsauxfruits_1858yaourtofruitsexotique100g_html",
-      "name": "Yaourt O'fruits exotique 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "indice_prix": 86.57718120805369
+      "cle": "chips_8871chipssaveurmielmoutarde125g_html",
+      "name": "Chips saveur miel moutarde 125g",
+      "prix_base": 10500,
+      "prix_comparaison": 9975,
+      "indice_prix": 95.0
     },
     {
-      "cle": "yaourtsauxfruits_8896yaourtofruitspeche100g_html",
-      "name": "Yaourt O'fruits p\u00eache 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "indice_prix": 86.57718120805369
+      "cle": "chips_374chipsnaturealancienne125g_html",
+      "name": "Chips nature \u00e0 l'ancienne 125g",
+      "prix_base": 8900,
+      "prix_comparaison": 8455,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "chips_371chipssaveurindiancurry125g_html",
+      "name": "Chips saveur indian curry 125g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "chips_5671chipssaveurpestomozzarella125g_html",
+      "name": "Chips saveur pesto mozzarella 125g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
+      "indice_prix": 95.0
     }
   ]
 }
