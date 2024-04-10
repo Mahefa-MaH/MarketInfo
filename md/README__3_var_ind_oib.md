@@ -17,6 +17,11 @@
    - Prix actuel: 9,975 Ar
    - Variation: -525 Ar
 
+4. **Chips saveur poulet braisé 125g**
+   - Prix avant: 10,900 Ar
+   - Prix actuel: 10,355 Ar
+   - Variation: -545 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Crème douche extra douce lait de karité 750ml**
@@ -34,6 +39,11 @@
    - Prix actuel: 18,905 Ar
    - Variation: -995 Ar
 
+4. **Muesli crisp chocolat noir 500g**
+   - Prix avant: 17,300 Ar
+   - Prix actuel: 16,435 Ar
+   - Variation: -865 Ar
+
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Muesli crisp chocolat noir 500g**
@@ -47,6 +57,11 @@
    - Indice de prix : 95.00
 
 3. **Crème douche lait d'amande 750ml**
+   - Prix avant: 26,500 Ar
+   - Prix actuel: 25,175 Ar
+   - Indice de prix : 95.00
+
+4. **Crème douche extra douce lait de karité 750ml**
    - Prix avant: 26,500 Ar
    - Prix actuel: 25,175 Ar
    - Indice de prix : 95.00
@@ -66,5 +81,10 @@
 3. **Chips saveur miel moutarde 125g**
    - Prix avant: 10,500 Ar
    - Prix actuel: 9,975 Ar
+   - Indice de prix : 95.00
+
+4. **Chips saveur indian curry 125g**
+   - Prix avant: 10,900 Ar
+   - Prix actuel: 10,355 Ar
    - Indice de prix : 95.00
 
