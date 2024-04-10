@@ -13,20 +13,6 @@
       "prix_base": 1490,
       "prix_comparaison": 1290,
       "variation": -200
-    },
-    {
-      "cle": "yaourtsauxfruits_8896yaourtofruitspeche100g_html",
-      "name": "Yaourt O'fruits p\u00eache 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "variation": -200
-    },
-    {
-      "cle": "yaourtsauxfruits_1858yaourtofruitsexotique100g_html",
-      "name": "Yaourt O'fruits exotique 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "variation": -200
     }
   ],
   "prix_diminues": [
@@ -40,20 +26,6 @@
     {
       "cle": "yaourtsauxfruits_1858yaourtofruitsexotique100g_html",
       "name": "Yaourt O'fruits exotique 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "variation": -200
-    },
-    {
-      "cle": "yaourtsauxfruits_8896yaourtofruitspeche100g_html",
-      "name": "Yaourt O'fruits p\u00eache 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "variation": -200
-    },
-    {
-      "cle": "yaourtsauxfruits_8897yaourtofruitspoire100g_html",
-      "name": "Yaourt O'fruits poire 100g",
       "prix_base": 1490,
       "prix_comparaison": 1290,
       "variation": -200
@@ -73,20 +45,6 @@
       "prix_base": 1490,
       "prix_comparaison": 1290,
       "indice_prix": 86.57718120805369
-    },
-    {
-      "cle": "yaourtsauxfruits_8897yaourtofruitspoire100g_html",
-      "name": "Yaourt O'fruits poire 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "indice_prix": 86.57718120805369
-    },
-    {
-      "cle": "yaourtsauxfruits_8896yaourtofruitspeche100g_html",
-      "name": "Yaourt O'fruits p\u00eache 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "indice_prix": 86.57718120805369
     }
   ],
   "indices_prix_plus_faibles": [
@@ -100,20 +58,6 @@
     {
       "cle": "yaourtsauxfruits_8896yaourtofruitspeche100g_html",
       "name": "Yaourt O'fruits p\u00eache 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "indice_prix": 86.57718120805369
-    },
-    {
-      "cle": "yaourtsauxfruits_8897yaourtofruitspoire100g_html",
-      "name": "Yaourt O'fruits poire 100g",
-      "prix_base": 1490,
-      "prix_comparaison": 1290,
-      "indice_prix": 86.57718120805369
-    },
-    {
-      "cle": "yaourtsauxfruits_1859yaourtofruitsfraise100g_html",
-      "name": "Yaourt O'fruits fraise 100g",
       "prix_base": 1490,
       "prix_comparaison": 1290,
       "indice_prix": 86.57718120805369
