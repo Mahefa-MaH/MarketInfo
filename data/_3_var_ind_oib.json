@@ -1,122 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "chips_374chipsnaturealancienne125g_html",
-      "name": "Chips nature \u00e0 l'ancienne 125g",
-      "prix_base": 8900,
-      "prix_comparaison": 8455,
-      "variation": -445
-    },
-    {
-      "cle": "chips_4384chipssaveursaucepommesfrites125g_html",
-      "name": "Chips saveur sauce pommes Frites 125g",
-      "prix_base": 9900,
-      "prix_comparaison": 9405,
-      "variation": -495
-    },
-    {
-      "cle": "chips_8871chipssaveurmielmoutarde125g_html",
-      "name": "Chips saveur miel moutarde 125g",
-      "prix_base": 10500,
-      "prix_comparaison": 9975,
-      "variation": -525
-    },
-    {
-      "cle": "chips_356chipssaveurpouletbraise125g_html",
-      "name": "Chips saveur poulet brais\u00e9 125g",
-      "prix_base": 10900,
-      "prix_comparaison": 10355,
-      "variation": -545
+      "cle": "fromagesfondusetatartiner_1275124portionsdefromageptitsfondants400gpaturages_html",
+      "name": "24 Portions de fromage P'tits Fondants 400g",
+      "prix_base": 28400,
+      "prix_comparaison": 29355,
+      "variation": 955
     }
   ],
   "prix_diminues": [
     {
-      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
-      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "variation": -1325
-    },
-    {
-      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
-      "name": "Cr\u00e8me douche lait d'amande 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "variation": -1325
-    },
-    {
-      "cle": "papiertoilette_13664papierhygieniqueblancpremium4plisx6rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique blanc pr\u00e9mium 4 plis x 6 rouleaux",
-      "prix_base": 19900,
-      "prix_comparaison": 18905,
-      "variation": -995
-    },
-    {
-      "cle": "cerealesetbarres_13558mueslicrispchocolatnoir500gchabrior_html",
-      "name": "Muesli crisp chocolat noir 500g",
-      "prix_base": 17300,
-      "prix_comparaison": 16435,
-      "variation": -865
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 657900,
+      "prix_comparaison": 625005,
+      "variation": -32895
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cerealesetbarres_13558mueslicrispchocolatnoir500gchabrior_html",
-      "name": "Muesli crisp chocolat noir 500g",
-      "prix_base": 17300,
-      "prix_comparaison": 16435,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "papiertoilette_13664papierhygieniqueblancpremium4plisx6rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique blanc pr\u00e9mium 4 plis x 6 rouleaux",
-      "prix_base": 19900,
-      "prix_comparaison": 18905,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
-      "name": "Cr\u00e8me douche lait d'amande 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
-      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "indice_prix": 95.0
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "chips_7273chipsbeurresalelabretonne152g_html",
-      "name": "Chips beurre sal\u00e9 La Bretonne 125g",
-      "prix_base": 10900,
-      "prix_comparaison": 10355,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "chips_374chipsnaturealancienne125g_html",
-      "name": "Chips nature \u00e0 l'ancienne 125g",
-      "prix_base": 8900,
-      "prix_comparaison": 8455,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "chips_8871chipssaveurmielmoutarde125g_html",
-      "name": "Chips saveur miel moutarde 125g",
-      "prix_base": 10500,
-      "prix_comparaison": 9975,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "chips_371chipssaveurindiancurry125g_html",
-      "name": "Chips saveur indian curry 125g",
-      "prix_base": 10900,
-      "prix_comparaison": 10355,
-      "indice_prix": 95.0
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1950,
+      "prix_comparaison": 1852,
+      "indice_prix": 94.97435897435898
     }
   ]
 }
