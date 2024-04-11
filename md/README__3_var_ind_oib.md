@@ -7,10 +7,10 @@
    - Prix actuel: 657,900 Ar
    - Variation: +32,895 Ar
 
-2. **Faitout rond rouge Slowcook Ø28cm**
-   - Prix avant: 508,250 Ar
-   - Prix actuel: 535,000 Ar
-   - Variation: +26,750 Ar
+2. **Cafetière expresso multi caps pression de la pompe 19 bars rouge**
+   - Prix avant: 578,550 Ar
+   - Prix actuel: 609,000 Ar
+   - Variation: +30,450 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -20,10 +20,10 @@
    - Prix actuel: 2,465,100 Ar
    - Variation: -273,900 Ar
 
-2. **Savon de toilette cerise 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -530 Ar
+2. **Moutarde 260g**
+   - Prix avant: 10,500 Ar
+   - Prix actuel: 9,700 Ar
+   - Variation: -800 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 

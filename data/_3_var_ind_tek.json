@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 1809,
-      "prix_base": 35000,
-      "name": "Camouflage Palette Concealar 7.5 G",
-      "prix_comparaison": 38200,
-      "variation": 3200
+      "list_id": 1916,
+      "prix_base": 3623600,
+      "name": "Machine \u00e0 laver 8Kg | S\u00e9chage 5Kg - R\u00e9f: BWD 100",
+      "prix_comparaison": 3781200,
+      "variation": 157600
     },
     {
-      "list_id": 1795,
-      "prix_base": 33000,
-      "name": "Fond de teint Invisible Cover Hd-80 Soft Beige 30 Ml",
-      "prix_comparaison": 36000,
-      "variation": 3000
+      "list_id": 1919,
+      "prix_base": 2397600,
+      "name": "Machine \u00e0 laver  7Kg - R\u00e9f: BAW 385",
+      "prix_comparaison": 2501900,
+      "variation": 104300
     },
     {
-      "list_id": 1793,
-      "prix_base": 33000,
-      "name": "Fond de teint Invisible Cover Hd-60 Ivory 30 Ml",
-      "prix_comparaison": 36000,
-      "variation": 3000
+      "list_id": 1921,
+      "prix_base": 2366100,
+      "name": "Lave vaisselle Dfn16430G",
+      "prix_comparaison": 2469100,
+      "variation": 103000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 7505,
-      "prix_base": 6900,
-      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 80 Vues",
-      "prix_comparaison": 5800,
-      "variation": -1100
+      "list_id": 1958,
+      "prix_base": 43491,
+      "name": "Sabl\u00e9 au beurre 90 g paquet de 8",
+      "prix_comparaison": 39300,
+      "variation": -4191
     },
     {
-      "list_id": 1614,
-      "prix_base": 8800,
-      "name": "Lingette Anti-COVID x100",
-      "prix_comparaison": 8400,
-      "variation": -400
+      "list_id": 7891,
+      "prix_base": 19272,
+      "name": "Pochette plastique perfor\u00e9e A4 paquet de 100",
+      "prix_comparaison": 16100,
+      "variation": -3172
     },
     {
-      "list_id": 7504,
-      "prix_base": 5500,
-      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 60 Vues",
-      "prix_comparaison": 5100,
-      "variation": -400
+      "list_id": 2001,
+      "prix_base": 11700,
+      "name": "Jus De Fruit Litchi 1 L",
+      "prix_comparaison": 10500,
+      "variation": -1200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 1715,
-      "name": "P\u00e2tes Nouilles Saveur poulet 80 g",
-      "prix_base": 900,
-      "prix_comparaison": 1100,
-      "indice_prix": 122.22222222222223
+      "list_id": 942,
+      "name": "Pr\u00e9 Lait Infantile 1 er  \u00e2ge 400 G",
+      "prix_base": 43800,
+      "prix_comparaison": 62400,
+      "indice_prix": 142.46575342465752
     },
     {
-      "list_id": 7496,
-      "name": "Prot\u00e8ge document 20 vues",
-      "prix_base": 3000,
-      "prix_comparaison": 3400,
-      "indice_prix": 113.33333333333333
+      "list_id": 7874,
+      "name": "Gomme 1 usage",
+      "prix_base": 400,
+      "prix_comparaison": 500,
+      "indice_prix": 125.0
     },
     {
-      "list_id": 7427,
-      "name": "Chemise \u00e0 clips polypropyl\u00e8ne 21x29,7",
-      "prix_base": 2400,
-      "prix_comparaison": 2700,
-      "indice_prix": 112.5
+      "list_id": 8156,
+      "name": "Pochette KRAFT 22 x 32 autocollant Paquet de 50 pi\u00e8ces",
+      "prix_base": 13600,
+      "prix_comparaison": 15900,
+      "indice_prix": 116.91176470588235
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 7505,
-      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 80 Vues",
-      "prix_base": 6900,
-      "prix_comparaison": 5800,
-      "indice_prix": 84.05797101449275
+      "list_id": 7875,
+      "name": "Stylo bille 200 pointe moyenne poch 4",
+      "prix_base": 3000,
+      "prix_comparaison": 2000,
+      "indice_prix": 66.66666666666667
     },
     {
-      "list_id": 7504,
-      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 60 Vues",
-      "prix_base": 5500,
-      "prix_comparaison": 5100,
-      "indice_prix": 92.72727272727273
+      "list_id": 7784,
+      "name": "Agrafe 24/6 bo\u00eete de 1000",
+      "prix_base": 1800,
+      "prix_comparaison": 1400,
+      "indice_prix": 77.77777777777777
     },
     {
-      "list_id": 7502,
-      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 40 Vues",
-      "prix_base": 4400,
-      "prix_comparaison": 4100,
-      "indice_prix": 93.18181818181819
+      "list_id": 7561,
+      "name": "Cahier 17x22 seyes 48 pages",
+      "prix_base": 1200,
+      "prix_comparaison": 1000,
+      "indice_prix": 83.33333333333333
     }
   ]
 }

@@ -8,11 +8,11 @@
       "variation": 32895
     },
     {
-      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
-      "name": "Faitout rond rouge Slowcook \u00d828cm",
-      "prix_base": 508250,
-      "prix_comparaison": 535000,
-      "variation": 26750
+      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
+      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
+      "prix_base": 578550,
+      "prix_comparaison": 609000,
+      "variation": 30450
     }
   ],
   "prix_diminues": [
@@ -24,11 +24,11 @@
       "variation": -273900
     },
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
+      "cle": "saucesfroidesketchupmayonnaise_14944moutarde260g_html",
+      "name": "Moutarde 260g",
+      "prix_base": 10500,
+      "prix_comparaison": 9700,
+      "variation": -800
     }
   ],
   "indices_prix_plus_eleves": [

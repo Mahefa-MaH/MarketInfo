@@ -1,30 +1,94 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_fromagecheezdeepers4etvachequirit140g_",
+      "name": "Fromage Cheez Deepers 4et Vache qui rit 140g",
+      "prix_base": 17460,
+      "prix_comparaison": 20950,
+      "variation": 3490
+    },
+    {
+      "cle": "produit_fromageentranchecheddarvachequirit200g10portions_",
+      "name": "Fromage  en Tranche Cheddar Vache qui rit 200g | 10 portions",
+      "prix_base": 14690,
+      "prix_comparaison": 17630,
+      "variation": 2940
+    },
+    {
+      "cle": "produit_fromagelefondantenbarquettevachequirit150g_",
+      "name": "Fromage Le Fondant  en Barquette Vache qui rit 150g",
+      "prix_base": 13310,
+      "prix_comparaison": 15970,
+      "variation": 2660
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_fruitdelapassion1kggarana_",
-      "name": "Fruit de la passion 1kg | Garana",
-      "prix_base": 8750,
-      "prix_comparaison": 4000,
-      "variation": -4750
+      "cle": "produit_fromagelefondantenbarquettevachequirit150g_",
+      "name": "Fromage Le Fondant  en Barquette Vache qui rit 150g",
+      "prix_base": 13310,
+      "prix_comparaison": 15970,
+      "variation": 2660
+    },
+    {
+      "cle": "produit_fromageentranchecheddarvachequirit200g10portions_",
+      "name": "Fromage  en Tranche Cheddar Vache qui rit 200g | 10 portions",
+      "prix_base": 14690,
+      "prix_comparaison": 17630,
+      "variation": 2940
+    },
+    {
+      "cle": "produit_fromagecheezdeepers4etvachequirit140g_",
+      "name": "Fromage Cheez Deepers 4et Vache qui rit 140g",
+      "prix_base": 17460,
+      "prix_comparaison": 20950,
+      "variation": 3490
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_fruitdelapassion1kggarana_",
-      "name": "Fruit de la passion 1kg | Garana",
-      "prix_base": 8750,
-      "prix_comparaison": 4000,
-      "indice_prix": 45.714285714285715
+      "cle": "produit_fromageentranchecheddarvachequirit200g10portions_",
+      "name": "Fromage  en Tranche Cheddar Vache qui rit 200g | 10 portions",
+      "prix_base": 14690,
+      "prix_comparaison": 17630,
+      "indice_prix": 120.0136147038802
+    },
+    {
+      "cle": "produit_fromagecheezdeepers4etvachequirit140g_",
+      "name": "Fromage Cheez Deepers 4et Vache qui rit 140g",
+      "prix_base": 17460,
+      "prix_comparaison": 20950,
+      "indice_prix": 119.9885452462772
+    },
+    {
+      "cle": "produit_fromagelefondantenbarquettevachequirit150g_",
+      "name": "Fromage Le Fondant  en Barquette Vache qui rit 150g",
+      "prix_base": 13310,
+      "prix_comparaison": 15970,
+      "indice_prix": 119.98497370398196
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_fruitdelapassion1kggarana_",
-      "name": "Fruit de la passion 1kg | Garana",
-      "prix_base": 8750,
-      "prix_comparaison": 4000,
-      "indice_prix": 45.714285714285715
+      "cle": "produit_fromagelefondantenbarquettevachequirit150g_",
+      "name": "Fromage Le Fondant  en Barquette Vache qui rit 150g",
+      "prix_base": 13310,
+      "prix_comparaison": 15970,
+      "indice_prix": 119.98497370398196
+    },
+    {
+      "cle": "produit_fromagecheezdeepers4etvachequirit140g_",
+      "name": "Fromage Cheez Deepers 4et Vache qui rit 140g",
+      "prix_base": 17460,
+      "prix_comparaison": 20950,
+      "indice_prix": 119.9885452462772
+    },
+    {
+      "cle": "produit_fromageentranchecheddarvachequirit200g10portions_",
+      "name": "Fromage  en Tranche Cheddar Vache qui rit 200g | 10 portions",
+      "prix_base": 14690,
+      "prix_comparaison": 17630,
+      "indice_prix": 120.0136147038802
     }
   ]
 }
