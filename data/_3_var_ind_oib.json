@@ -13,6 +13,13 @@
       "prix_base": 37050,
       "prix_comparaison": 39000,
       "variation": 1950
+    },
+    {
+      "cle": "lessivesetsoindulinge_13266lessivetablettessensitivedouceurcotonpaquetde32apta_html",
+      "name": "Lessive en tablettes sensitive douceur coton paquet de 32",
+      "prix_base": 30875,
+      "prix_comparaison": 32500,
+      "variation": 1625
     }
   ],
   "prix_diminues": [
@@ -29,6 +36,13 @@
       "prix_base": 3553,
       "prix_comparaison": 3740,
       "variation": 187
+    },
+    {
+      "cle": "poubellesetsacspoubelle_1234315sacspoubelleavecpoigneepratic30lapta_html",
+      "name": "15 Sacs poubelle avec poign\u00e9e Pratic' 30L",
+      "prix_base": 3705,
+      "prix_comparaison": 3900,
+      "variation": 195
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,9 +59,23 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "indice_prix": 153.53535353535352
+    },
+    {
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "accessoirespourlentretiendulinge_121546cintresenplastiquepouradultetopbudget_html",
+      "name": "6 Cintres en plastique pour adulte",
+      "prix_base": 9975,
+      "prix_comparaison": 10500,
+      "indice_prix": 105.26315789473684
+    },
     {
       "cle": "papiertoilette_13285papierhygieniqueecologique4rouleauxlabell_html",
       "name": "Papier hygi\u00e9nique \u00e9cologique 4 rouleaux",
@@ -56,10 +84,10 @@
       "indice_prix": 105.26315789473684
     },
     {
-      "cle": "adoucissantsassouplissants_3596amacurcaflora2x5lrosa_html",
-      "name": "Adoucissant fleurs roses 5L",
-      "prix_base": 17860,
-      "prix_comparaison": 18800,
+      "cle": "beurres_2119beurresale200g_html",
+      "name": "Beurre demi sel plaquette 200g",
+      "prix_base": 13775,
+      "prix_comparaison": 14500,
       "indice_prix": 105.26315789473684
     }
   ]
