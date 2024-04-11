@@ -2,27 +2,27 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **24 Portions de fromage P'tits Fondants 400g**
-   - Prix avant: 28,400 Ar
-   - Prix actuel: 29,355 Ar
-   - Variation: +955 Ar
+1. **Poubelle à pédale noire 24L**
+   - Prix avant: 64,125 Ar
+   - Prix actuel: 67,500 Ar
+   - Variation: +3,375 Ar
 
-2. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Variation: +530 Ar
+2. **Pignon de pin 90g**
+   - Prix avant: 37,050 Ar
+   - Prix actuel: 39,000 Ar
+   - Variation: +1,950 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Thermomètre digital résistant aux chocs avec sonde**
-   - Prix avant: 657,900 Ar
-   - Prix actuel: 625,005 Ar
-   - Variation: -32,895 Ar
+1. **Cure dents 2x100**
+   - Prix avant: 2,755 Ar
+   - Prix actuel: 2,900 Ar
+   - Variation: +145 Ar
 
-2. **Cafetière expresso multi caps pression de la pompe 19 bars rouge**
-   - Prix avant: 609,000 Ar
-   - Prix actuel: 578,550 Ar
-   - Variation: -30,450 Ar
+2. **Olives vertes dénoyautées sachet 180g**
+   - Prix avant: 3,553 Ar
+   - Prix actuel: 3,740 Ar
+   - Variation: +187 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -38,13 +38,13 @@
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Gomme plastique**
-   - Prix avant: 1,950 Ar
-   - Prix actuel: 1,852 Ar
-   - Indice de prix : 94.97
+1. **Papier hygiénique écologique 4 rouleaux**
+   - Prix avant: 18,905 Ar
+   - Prix actuel: 19,900 Ar
+   - Indice de prix : 105.26
 
-2. **21 Etiquettes blanches 38x63mm**
-   - Prix avant: 2,550 Ar
-   - Prix actuel: 2,422 Ar
-   - Indice de prix : 94.98
+2. **Adoucissant fleurs roses 5L**
+   - Prix avant: 17,860 Ar
+   - Prix actuel: 18,800 Ar
+   - Indice de prix : 105.26
 

@@ -1,34 +1,34 @@
 {
   "prix_augmentes": [
     {
-      "cle": "fromagesfondusetatartiner_1275124portionsdefromageptitsfondants400gpaturages_html",
-      "name": "24 Portions de fromage P'tits Fondants 400g",
-      "prix_base": 28400,
-      "prix_comparaison": 29355,
-      "variation": 955
+      "cle": "poubellesetsacspoubelle_11844poubelleapedalenoire24lapta_html",
+      "name": "Poubelle \u00e0 p\u00e9dale noire 24L",
+      "prix_base": 64125,
+      "prix_comparaison": 67500,
+      "variation": 3375
     },
     {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "variation": 530
+      "cle": "cacahuetespistachesmelanges_9453pignondepin90g_html",
+      "name": "Pignon de pin 90g",
+      "prix_base": 37050,
+      "prix_comparaison": 39000,
+      "variation": 1950
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 657900,
-      "prix_comparaison": 625005,
-      "variation": -32895
+      "cle": "ustensilesdecuisine_12188curedents2x100domedia_html",
+      "name": "Cure dents 2x100",
+      "prix_base": 2755,
+      "prix_comparaison": 2900,
+      "variation": 145
     },
     {
-      "cle": "machineaexpresso_3482cafetiereexpressomulticapspressiondelapompe19barsrouge_html",
-      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars rouge",
-      "prix_base": 609000,
-      "prix_comparaison": 578550,
-      "variation": -30450
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3553,
+      "prix_comparaison": 3740,
+      "variation": 187
     }
   ],
   "indices_prix_plus_eleves": [
@@ -49,18 +49,18 @@
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "crayonetcoloriage_7565gommeplastique_html",
-      "name": "Gomme plastique",
-      "prix_base": 1950,
-      "prix_comparaison": 1852,
-      "indice_prix": 94.97435897435898
+      "cle": "papiertoilette_13285papierhygieniqueecologique4rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique \u00e9cologique 4 rouleaux",
+      "prix_base": 18905,
+      "prix_comparaison": 19900,
+      "indice_prix": 105.26315789473684
     },
     {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2550,
-      "prix_comparaison": 2422,
-      "indice_prix": 94.98039215686275
+      "cle": "adoucissantsassouplissants_3596amacurcaflora2x5lrosa_html",
+      "name": "Adoucissant fleurs roses 5L",
+      "prix_base": 17860,
+      "prix_comparaison": 18800,
+      "indice_prix": 105.26315789473684
     }
   ]
 }
