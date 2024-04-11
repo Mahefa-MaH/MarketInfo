@@ -1,122 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "poubellesetsacspoubelle_11844poubelleapedalenoire24lapta_html",
-      "name": "Poubelle \u00e0 p\u00e9dale noire 24L",
-      "prix_base": 64125,
-      "prix_comparaison": 67500,
-      "variation": 3375
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 625005,
+      "prix_comparaison": 657900,
+      "variation": 32895
     },
     {
-      "cle": "cacahuetespistachesmelanges_9453pignondepin90g_html",
-      "name": "Pignon de pin 90g",
-      "prix_base": 37050,
-      "prix_comparaison": 39000,
-      "variation": 1950
-    },
-    {
-      "cle": "lessivesetsoindulinge_13266lessivetablettessensitivedouceurcotonpaquetde32apta_html",
-      "name": "Lessive en tablettes sensitive douceur coton paquet de 32",
-      "prix_base": 30875,
-      "prix_comparaison": 32500,
-      "variation": 1625
-    },
-    {
-      "cle": "lessiveliquide_3176lessiveliquidemaxxlingesblancsetcoloresvert5l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s vert 5L",
-      "prix_base": 28405,
-      "prix_comparaison": 29900,
-      "variation": 1495
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 508250,
+      "prix_comparaison": 535000,
+      "variation": 26750
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ustensilesdecuisine_12188curedents2x100domedia_html",
-      "name": "Cure dents 2x100",
-      "prix_base": 2755,
-      "prix_comparaison": 2900,
-      "variation": 145
-    },
-    {
-      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
-      "prix_base": 3553,
-      "prix_comparaison": 3740,
-      "variation": 187
-    },
-    {
-      "cle": "poubellesetsacspoubelle_1234315sacspoubelleavecpoigneepratic30lapta_html",
-      "name": "15 Sacs poubelle avec poign\u00e9e Pratic' 30L",
-      "prix_base": 3705,
-      "prix_comparaison": 3900,
-      "variation": 195
-    },
-    {
-      "cle": "epongesbrossesetgants_125602epongesgrattantessynthetiquesapta_html",
-      "name": "2 \u00c9ponges grattantes synth\u00e8tiques",
-      "prix_base": 3705,
-      "prix_comparaison": 3900,
-      "variation": 195
-    }
-  ],
-  "indices_prix_plus_eleves": [
-    {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
-    },
-    {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
+      "cle": "smartphones_14685355appleiphone13reconditionne_html_15couleurvert_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
+      "name": "APPLE iPhone 13\n                                                  - Reconditionn\u00e9",
+      "prix_base": 2739000,
+      "prix_comparaison": 2465100,
+      "variation": -273900
     },
     {
       "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
       "name": "Savon de toilette cerise 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
+    }
+  ],
+  "indices_prix_plus_eleves": [
+    {
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1852,
+      "prix_comparaison": 1950,
+      "indice_prix": 105.29157667386609
     },
     {
-      "cle": "biberonstetinesetsucettes_6725sucettesensiliconesofttouchfille6mois2pieces_html",
-      "name": "Sucettes en silicone Soft Touch fille + 6 mois 2 pi\u00e8ces",
-      "prix_base": 10972,
-      "prix_comparaison": 11550,
-      "indice_prix": 105.26795479402115
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2422,
+      "prix_comparaison": 2550,
+      "indice_prix": 105.28488852188273
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "accessoirespourlentretiendulinge_121546cintresenplastiquepouradultetopbudget_html",
-      "name": "6 Cintres en plastique pour adulte",
-      "prix_base": 9975,
-      "prix_comparaison": 10500,
-      "indice_prix": 105.26315789473684
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "papiertoilette_13285papierhygieniqueecologique4rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique \u00e9cologique 4 rouleaux",
-      "prix_base": 18905,
-      "prix_comparaison": 19900,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "beurres_2119beurresale200g_html",
-      "name": "Beurre demi sel plaquette 200g",
-      "prix_base": 13775,
-      "prix_comparaison": 14500,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "cremeschantillyaidesculinaires_2131cremeuht35mgbriquette20cleven_html",
-      "name": "Cr\u00e8me liquide UHT 35% Brik 20cl",
-      "prix_base": 10355,
-      "prix_comparaison": 10900,
-      "indice_prix": 105.26315789473684
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     }
   ]
 }

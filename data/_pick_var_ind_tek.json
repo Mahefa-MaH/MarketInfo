@@ -1,34 +1,34 @@
 {
   "Variation de prix": [
     {
-      "list_id": 1801,
-      "name": "Cr\u00e8me BB-05 Anti-Blemish Medium 35 Ml",
-      "prix_base": 19800,
-      "prix_comparaison": 21600,
-      "variation": 1800
+      "list_id": 2008,
+      "name": "Jus De Fruit Pineapple 1 L",
+      "prix_base": 11700,
+      "prix_comparaison": 10500,
+      "variation": -1200
     },
     {
-      "list_id": 1805,
-      "name": "Cr\u00e8me CC-03 Anti-Dark Circles 35 Ml",
-      "prix_base": 24200,
-      "prix_comparaison": 26400,
-      "variation": 2200
+      "list_id": 2016,
+      "name": "Gel Douche A L'Huile D'Argan 500 Ml",
+      "prix_base": 15400,
+      "prix_comparaison": 16900,
+      "variation": 1500
     }
   ],
   "indice de prix": [
     {
-      "list_id": 1805,
-      "name": "Cr\u00e8me CC-03 Anti-Dark Circles 35 Ml",
-      "prix_base": 24200,
-      "prix_comparaison": 26400,
-      "indice_prix": 109.0909090909091
+      "list_id": 2008,
+      "name": "Jus De Fruit Pineapple 1 L",
+      "prix_base": 11700,
+      "prix_comparaison": 10500,
+      "indice_prix": 89.74358974358974
     },
     {
-      "list_id": 1801,
-      "name": "Cr\u00e8me BB-05 Anti-Blemish Medium 35 Ml",
-      "prix_base": 19800,
-      "prix_comparaison": 21600,
-      "indice_prix": 109.0909090909091
+      "list_id": 2016,
+      "name": "Gel Douche A L'Huile D'Argan 500 Ml",
+      "prix_base": 15400,
+      "prix_comparaison": 16900,
+      "indice_prix": 109.74025974025975
     }
   ]
 }
