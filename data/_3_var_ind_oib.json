@@ -20,6 +20,13 @@
       "prix_base": 30875,
       "prix_comparaison": 32500,
       "variation": 1625
+    },
+    {
+      "cle": "lessiveliquide_3176lessiveliquidemaxxlingesblancsetcoloresvert5l_html",
+      "name": "Lessive liquide maxx linges blancs et color\u00e9s vert 5L",
+      "prix_base": 28405,
+      "prix_comparaison": 29900,
+      "variation": 1495
     }
   ],
   "prix_diminues": [
@@ -40,6 +47,13 @@
     {
       "cle": "poubellesetsacspoubelle_1234315sacspoubelleavecpoigneepratic30lapta_html",
       "name": "15 Sacs poubelle avec poign\u00e9e Pratic' 30L",
+      "prix_base": 3705,
+      "prix_comparaison": 3900,
+      "variation": 195
+    },
+    {
+      "cle": "epongesbrossesetgants_125602epongesgrattantessynthetiquesapta_html",
+      "name": "2 \u00c9ponges grattantes synth\u00e8tiques",
       "prix_base": 3705,
       "prix_comparaison": 3900,
       "variation": 195
@@ -66,6 +80,13 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "indice_prix": 153.53535353535352
+    },
+    {
+      "cle": "biberonstetinesetsucettes_6725sucettesensiliconesofttouchfille6mois2pieces_html",
+      "name": "Sucettes en silicone Soft Touch fille + 6 mois 2 pi\u00e8ces",
+      "prix_base": 10972,
+      "prix_comparaison": 11550,
+      "indice_prix": 105.26795479402115
     }
   ],
   "indices_prix_plus_faibles": [
@@ -88,6 +109,13 @@
       "name": "Beurre demi sel plaquette 200g",
       "prix_base": 13775,
       "prix_comparaison": 14500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_2131cremeuht35mgbriquette20cleven_html",
+      "name": "Cr\u00e8me liquide UHT 35% Brik 20cl",
+      "prix_base": 10355,
+      "prix_comparaison": 10900,
       "indice_prix": 105.26315789473684
     }
   ]
