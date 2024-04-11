@@ -13,13 +13,6 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "variation": 530
-    },
-    {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "variation": 530
     }
   ],
   "prix_diminues": [
@@ -36,13 +29,6 @@
       "prix_base": 609000,
       "prix_comparaison": 578550,
       "variation": -30450
-    },
-    {
-      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
-      "name": "Faitout rond rouge Slowcook \u00d828cm",
-      "prix_base": 535000,
-      "prix_comparaison": 508250,
-      "variation": -26750
     }
   ],
   "indices_prix_plus_eleves": [
@@ -56,13 +42,6 @@
     {
       "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
       "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
-    },
-    {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
       "prix_base": 990,
       "prix_comparaison": 1520,
       "indice_prix": 153.53535353535352
@@ -82,13 +61,6 @@
       "prix_base": 2550,
       "prix_comparaison": 2422,
       "indice_prix": 94.98039215686275
-    },
-    {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2750,
-      "prix_comparaison": 2612,
-      "indice_prix": 94.98181818181818
     }
   ]
 }

@@ -12,11 +12,6 @@
    - Prix actuel: 1,520 Ar
    - Variation: +530 Ar
 
-3. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Variation: +530 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Thermomètre digital résistant aux chocs avec sonde**
@@ -29,11 +24,6 @@
    - Prix actuel: 578,550 Ar
    - Variation: -30,450 Ar
 
-3. **Faitout rond rouge Slowcook Ø28cm**
-   - Prix avant: 535,000 Ar
-   - Prix actuel: 508,250 Ar
-   - Variation: -26,750 Ar
-
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Savon de toilette mure sauvage 75g**
@@ -42,11 +32,6 @@
    - Indice de prix : 153.54
 
 2. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Indice de prix : 153.54
-
-3. **Savon de toilette cerise 75g**
    - Prix avant: 990 Ar
    - Prix actuel: 1,520 Ar
    - Indice de prix : 153.54
@@ -61,10 +46,5 @@
 2. **21 Etiquettes blanches 38x63mm**
    - Prix avant: 2,550 Ar
    - Prix actuel: 2,422 Ar
-   - Indice de prix : 94.98
-
-3. **Talc bébé poudre 75g**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,612 Ar
    - Indice de prix : 94.98
 
