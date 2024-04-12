@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Huile de Soja Hina™ 1L | Riche en Oméga 3 et en Vitamine E**
-   - Prix avant: 10,210 Ar
-   - Prix actuel: 10,210 Ar
+3. **Sucre blanc 1kg| En vrac**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 7,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

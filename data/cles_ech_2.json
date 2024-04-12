@@ -17,10 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_huilesoja1l_",
-      "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
-      "prix_base": 10210,
-      "prix_comparaison": 10210,
+      "cle": "produit_sucreblanc1kgenvrac_",
+      "name": "Sucre blanc 1kg| En vrac",
+      "prix_base": 7200,
+      "prix_comparaison": 7200,
       "variation": 0,
       "indice_prix": 100.0
     }
