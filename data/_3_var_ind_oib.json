@@ -6,15 +6,29 @@
       "prix_base": 5890,
       "prix_comparaison": 6200,
       "variation": 310
+    },
+    {
+      "cle": "confiseriesauchocolat_1955barrechocotwix58grx25_html",
+      "name": "Barre de chocolat 58g",
+      "prix_base": 3400,
+      "prix_comparaison": 3100,
+      "variation": -300
     }
   ],
   "prix_diminues": [
     {
-      "cle": "conservesautreslegumes_12461poussesdeharicotsmungoenconserve12180gsainteloi_html",
-      "name": "Pousses de haricots mungo en conserve 1/2 180g",
-      "prix_base": 5890,
-      "prix_comparaison": 6200,
-      "variation": 310
+      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
+      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
+      "prix_base": 9000,
+      "prix_comparaison": 7900,
+      "variation": -1100
+    },
+    {
+      "cle": "gelsetblocswc_15052blocwc5en1parfumlavande_html",
+      "name": "Bloc wc 5 en 1 parfum lavande",
+      "prix_base": 9600,
+      "prix_comparaison": 8590,
+      "variation": -1010
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,15 +38,29 @@
       "prix_base": 5890,
       "prix_comparaison": 6200,
       "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
+      "name": "Boisson gazeuse cristal 150cl",
+      "prix_base": 4600,
+      "prix_comparaison": 4290,
+      "indice_prix": 93.26086956521739
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "conservesautreslegumes_12461poussesdeharicotsmungoenconserve12180gsainteloi_html",
-      "name": "Pousses de haricots mungo en conserve 1/2 180g",
-      "prix_base": 5890,
-      "prix_comparaison": 6200,
-      "indice_prix": 105.26315789473684
+      "cle": "gelsetblocswc_3263impecwcpin500gx12_html",
+      "name": "Gel WC pin 500ml",
+      "prix_base": 5390,
+      "prix_comparaison": 4590,
+      "indice_prix": 85.15769944341373
+    },
+    {
+      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
+      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
+      "prix_base": 9000,
+      "prix_comparaison": 7900,
+      "indice_prix": 87.77777777777777
     }
   ]
 }

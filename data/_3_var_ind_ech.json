@@ -1,94 +1,108 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_fromagecheezdeepers4etvachequirit140g_",
-      "name": "Fromage Cheez Deepers 4et Vache qui rit 140g",
-      "prix_base": 17460,
-      "prix_comparaison": 20950,
-      "variation": 3490
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 6000,
+      "prix_comparaison": 8000,
+      "variation": 2000
     },
     {
-      "cle": "produit_fromageentranchecheddarvachequirit200g10portions_",
-      "name": "Fromage  en Tranche Cheddar Vache qui rit 200g | 10 portions",
-      "prix_base": 14690,
-      "prix_comparaison": 17630,
-      "variation": 2940
+      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
+      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
+      "prix_base": 3333,
+      "prix_comparaison": 3800,
+      "variation": 467
     },
     {
-      "cle": "produit_fromagelefondantenbarquettevachequirit150g_",
-      "name": "Fromage Le Fondant  en Barquette Vache qui rit 150g",
-      "prix_base": 13310,
-      "prix_comparaison": 15970,
-      "variation": 2660
+      "cle": "produit_poivrons3pieces_",
+      "name": "Poivrons 3 pi\u00e8ces",
+      "prix_base": 1100,
+      "prix_comparaison": 1400,
+      "variation": 300
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_fromagelefondantenbarquettevachequirit150g_",
-      "name": "Fromage Le Fondant  en Barquette Vache qui rit 150g",
-      "prix_base": 13310,
-      "prix_comparaison": 15970,
-      "variation": 2660
+      "cle": "produit_carottesfraiche1kggroscalibre_",
+      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
+      "prix_base": 6700,
+      "prix_comparaison": 4000,
+      "variation": -2700
     },
     {
-      "cle": "produit_fromageentranchecheddarvachequirit200g10portions_",
-      "name": "Fromage  en Tranche Cheddar Vache qui rit 200g | 10 portions",
-      "prix_base": 14690,
-      "prix_comparaison": 17630,
-      "variation": 2940
+      "cle": "produit_concombres1kggroscalibre_",
+      "name": "Concombres 1kg | Gros Calibre",
+      "prix_base": 4000,
+      "prix_comparaison": 2700,
+      "variation": -1300
     },
     {
-      "cle": "produit_fromagecheezdeepers4etvachequirit140g_",
-      "name": "Fromage Cheez Deepers 4et Vache qui rit 140g",
-      "prix_base": 17460,
-      "prix_comparaison": 20950,
-      "variation": 3490
+      "cle": "produit_saladeverte1piecelegumefrais_",
+      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
+      "prix_base": 2000,
+      "prix_comparaison": 1000,
+      "variation": -1000
+    },
+    {
+      "cle": "produit_oignonsfrais500ggroscalibre_",
+      "name": "Oignons frais 500g | Gros Calibre",
+      "prix_base": 5330,
+      "prix_comparaison": 4400,
+      "variation": -930
+    },
+    {
+      "cle": "produit_haricotsvert500gavecbouts_",
+      "name": "Haricots verts 500g | Avec bouts",
+      "prix_base": 2700,
+      "prix_comparaison": 2000,
+      "variation": -700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_fromageentranchecheddarvachequirit200g10portions_",
-      "name": "Fromage  en Tranche Cheddar Vache qui rit 200g | 10 portions",
-      "prix_base": 14690,
-      "prix_comparaison": 17630,
-      "indice_prix": 120.0136147038802
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 6000,
+      "prix_comparaison": 8000,
+      "indice_prix": 133.33333333333334
     },
     {
-      "cle": "produit_fromagecheezdeepers4etvachequirit140g_",
-      "name": "Fromage Cheez Deepers 4et Vache qui rit 140g",
-      "prix_base": 17460,
-      "prix_comparaison": 20950,
-      "indice_prix": 119.9885452462772
+      "cle": "produit_poivrons3pieces_",
+      "name": "Poivrons 3 pi\u00e8ces",
+      "prix_base": 1100,
+      "prix_comparaison": 1400,
+      "indice_prix": 127.27272727272727
     },
     {
-      "cle": "produit_fromagelefondantenbarquettevachequirit150g_",
-      "name": "Fromage Le Fondant  en Barquette Vache qui rit 150g",
-      "prix_base": 13310,
-      "prix_comparaison": 15970,
-      "indice_prix": 119.98497370398196
+      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
+      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
+      "prix_base": 3333,
+      "prix_comparaison": 3800,
+      "indice_prix": 114.01140114011402
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_fromagelefondantenbarquettevachequirit150g_",
-      "name": "Fromage Le Fondant  en Barquette Vache qui rit 150g",
-      "prix_base": 13310,
-      "prix_comparaison": 15970,
-      "indice_prix": 119.98497370398196
+      "cle": "produit_saladeverte1piecelegumefrais_",
+      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
+      "prix_base": 2000,
+      "prix_comparaison": 1000,
+      "indice_prix": 50.0
     },
     {
-      "cle": "produit_fromagecheezdeepers4etvachequirit140g_",
-      "name": "Fromage Cheez Deepers 4et Vache qui rit 140g",
-      "prix_base": 17460,
-      "prix_comparaison": 20950,
-      "indice_prix": 119.9885452462772
+      "cle": "produit_carottesfraiche1kggroscalibre_",
+      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
+      "prix_base": 6700,
+      "prix_comparaison": 4000,
+      "indice_prix": 59.701492537313435
     },
     {
-      "cle": "produit_fromageentranchecheddarvachequirit200g10portions_",
-      "name": "Fromage  en Tranche Cheddar Vache qui rit 200g | 10 portions",
-      "prix_base": 14690,
-      "prix_comparaison": 17630,
-      "indice_prix": 120.0136147038802
+      "cle": "produit_concombres1kggroscalibre_",
+      "name": "Concombres 1kg | Gros Calibre",
+      "prix_base": 4000,
+      "prix_comparaison": 2700,
+      "indice_prix": 67.5
     }
   ]
 }
