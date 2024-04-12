@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 1916,
-      "prix_base": 3623600,
-      "name": "Machine \u00e0 laver 8Kg | S\u00e9chage 5Kg - R\u00e9f: BWD 100",
-      "prix_comparaison": 3781200,
-      "variation": 157600
-    },
-    {
-      "list_id": 1919,
-      "prix_base": 2397600,
-      "name": "Machine \u00e0 laver  7Kg - R\u00e9f: BAW 385",
-      "prix_comparaison": 2501900,
-      "variation": 104300
-    },
-    {
-      "list_id": 1921,
-      "prix_base": 2366100,
-      "name": "Lave vaisselle Dfn16430G",
-      "prix_comparaison": 2469100,
-      "variation": 103000
+      "list_id": 2090,
+      "prix_base": 3700,
+      "name": "Chocolat En Poudre 200 G",
+      "prix_comparaison": 4000,
+      "variation": 300
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 1958,
-      "prix_base": 43491,
-      "name": "Sabl\u00e9 au beurre 90 g paquet de 8",
-      "prix_comparaison": 39300,
-      "variation": -4191
-    },
-    {
-      "list_id": 7891,
-      "prix_base": 19272,
-      "name": "Pochette plastique perfor\u00e9e A4 paquet de 100",
-      "prix_comparaison": 16100,
-      "variation": -3172
-    },
-    {
-      "list_id": 2001,
-      "prix_base": 11700,
-      "name": "Jus De Fruit Litchi 1 L",
-      "prix_comparaison": 10500,
-      "variation": -1200
+      "list_id": 2090,
+      "prix_base": 3700,
+      "name": "Chocolat En Poudre 200 G",
+      "prix_comparaison": 4000,
+      "variation": 300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 942,
-      "name": "Pr\u00e9 Lait Infantile 1 er  \u00e2ge 400 G",
-      "prix_base": 43800,
-      "prix_comparaison": 62400,
-      "indice_prix": 142.46575342465752
-    },
-    {
-      "list_id": 7874,
-      "name": "Gomme 1 usage",
-      "prix_base": 400,
-      "prix_comparaison": 500,
-      "indice_prix": 125.0
-    },
-    {
-      "list_id": 8156,
-      "name": "Pochette KRAFT 22 x 32 autocollant Paquet de 50 pi\u00e8ces",
-      "prix_base": 13600,
-      "prix_comparaison": 15900,
-      "indice_prix": 116.91176470588235
+      "list_id": 2090,
+      "name": "Chocolat En Poudre 200 G",
+      "prix_base": 3700,
+      "prix_comparaison": 4000,
+      "indice_prix": 108.10810810810811
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 7875,
-      "name": "Stylo bille 200 pointe moyenne poch 4",
-      "prix_base": 3000,
-      "prix_comparaison": 2000,
-      "indice_prix": 66.66666666666667
-    },
-    {
-      "list_id": 7784,
-      "name": "Agrafe 24/6 bo\u00eete de 1000",
-      "prix_base": 1800,
-      "prix_comparaison": 1400,
-      "indice_prix": 77.77777777777777
-    },
-    {
-      "list_id": 7561,
-      "name": "Cahier 17x22 seyes 48 pages",
-      "prix_base": 1200,
-      "prix_comparaison": 1000,
-      "indice_prix": 83.33333333333333
+      "list_id": 2090,
+      "name": "Chocolat En Poudre 200 G",
+      "prix_base": 3700,
+      "prix_comparaison": 4000,
+      "indice_prix": 108.10810810810811
     }
   ]
 }

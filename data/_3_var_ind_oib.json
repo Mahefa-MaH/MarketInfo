@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "conservesautreslegumes_12461poussesdeharicotsmungoenconserve12180gsainteloi_html",
-      "name": "Pousses de haricots mungo en conserve 1/2 180g",
-      "prix_base": 5890,
-      "prix_comparaison": 6200,
-      "variation": 310
+      "cle": "smartphones_14841samsunggalaxys24ultra256goviolet_html",
+      "name": "SAMSUNG Galaxy S24 Ultra 256 Go Violet",
+      "prix_base": 6427000,
+      "prix_comparaison": 6867000,
+      "variation": 440000
     },
     {
-      "cle": "confiseriesauchocolat_1955barrechocotwix58grx25_html",
-      "name": "Barre de chocolat 58g",
-      "prix_base": 3400,
-      "prix_comparaison": 3100,
-      "variation": -300
+      "cle": "ordinateursportables_14812pcportablegamerasustufgamingf15156fhdrtx30504gointelcorei512500hram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming F15 | 15,6 FHD - RTX 3050 4Go - Intel Core i5-12500H - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 3691000,
+      "prix_comparaison": 4017000,
+      "variation": 326000
+    },
+    {
+      "cle": "ordinateursportables_14811pcportableasusvivobook17s1702173hdintelcorei31220pram8go512gossdwin11_html",
+      "name": "PC Portable ASUS VivoBook 17 S1702 | 17,3 HD+ - Intel Core i3-1220P - RAM 8Go - 512Go SSD - Win 11",
+      "prix_base": 2558000,
+      "prix_comparaison": 2845000,
+      "variation": 287000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
-      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
-      "prix_base": 9000,
-      "prix_comparaison": 7900,
-      "variation": -1100
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6048000,
+      "prix_comparaison": 5632000,
+      "variation": -416000
     },
     {
-      "cle": "gelsetblocswc_15052blocwc5en1parfumlavande_html",
-      "name": "Bloc wc 5 en 1 parfum lavande",
-      "prix_base": 9600,
-      "prix_comparaison": 8590,
-      "variation": -1010
+      "cle": "aspirateuraspirateurrobot_14216aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml_html",
+      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussi\u00e8re : 200 ml - Bac a eau : 230 ml",
+      "prix_base": 1057000,
+      "prix_comparaison": 865000,
+      "variation": -192000
+    },
+    {
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 582000,
+      "prix_comparaison": 439000,
+      "variation": -143000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "conservesautreslegumes_12461poussesdeharicotsmungoenconserve12180gsainteloi_html",
-      "name": "Pousses de haricots mungo en conserve 1/2 180g",
-      "prix_base": 5890,
-      "prix_comparaison": 6200,
-      "indice_prix": 105.26315789473684
+      "cle": "ordinateursportables_14811pcportableasusvivobook17s1702173hdintelcorei31220pram8go512gossdwin11_html",
+      "name": "PC Portable ASUS VivoBook 17 S1702 | 17,3 HD+ - Intel Core i3-1220P - RAM 8Go - 512Go SSD - Win 11",
+      "prix_base": 2558000,
+      "prix_comparaison": 2845000,
+      "indice_prix": 111.21970289288507
     },
     {
-      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
-      "name": "Boisson gazeuse cristal 150cl",
-      "prix_base": 4600,
-      "prix_comparaison": 4290,
-      "indice_prix": 93.26086956521739
+      "cle": "hachoirtrancheuse_14025trancheusedomodiametre17cmreglagecoupe1a15mm120w_html",
+      "name": "Trancheuse DOMO - diametre 17cm - R\u00e9glage coupe 1 a 15 mm - 120W",
+      "prix_base": 348000,
+      "prix_comparaison": 383000,
+      "indice_prix": 110.05747126436782
+    },
+    {
+      "cle": "machineacoudre_14224brotherj17smachineacoudremecaniquedesignattractifsimpledutilisationeclairagepuissantparled_html",
+      "name": "BROTHER J17s Machine \u00e0 coudre m\u00e9canique - Design attractif - Simple d'utilisation - Eclairage puissant par LED",
+      "prix_base": 1047000,
+      "prix_comparaison": 1146000,
+      "indice_prix": 109.45558739255014
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "gelsetblocswc_3263impecwcpin500gx12_html",
-      "name": "Gel WC pin 500ml",
-      "prix_base": 5390,
-      "prix_comparaison": 4590,
-      "indice_prix": 85.15769944341373
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 582000,
+      "prix_comparaison": 439000,
+      "indice_prix": 75.4295532646048
     },
     {
-      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
-      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
-      "prix_base": 9000,
-      "prix_comparaison": 7900,
-      "indice_prix": 87.77777777777777
+      "cle": "aspirateuraspirateurrobot_14216aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml_html",
+      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussi\u00e8re : 200 ml - Bac a eau : 230 ml",
+      "prix_base": 1057000,
+      "prix_comparaison": 865000,
+      "indice_prix": 81.83538315988648
+    },
+    {
+      "cle": "pates_9004coquillettes500g_html",
+      "name": "Coquillettes 500g",
+      "prix_base": 6500,
+      "prix_comparaison": 5500,
+      "indice_prix": 84.61538461538461
     }
   ]
 }
