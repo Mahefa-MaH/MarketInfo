@@ -2,27 +2,27 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Biscuits Goûter Fourrés P’tit Déjeuner Choco Tube BN 200g**
+1. **Farine de Sarrasin Treblec™ 1kg**
+   - Prix avant: 29,740 Ar
+   - Prix actuel: 36,233 Ar
+   - Variation: +6,493 Ar
+
+2. **Biscuits Goûter Fourrés P’tit Déjeuner Choco Tube BN 200g**
    - Prix avant: 18,380 Ar
    - Prix actuel: 22,060 Ar
    - Variation: +3,680 Ar
 
-2. **Biscuits Goûter Fourrés Choco au Lait x16 BN 295g**
+3. **Biscuits Goûter Fourrés Choco au Lait x16 BN 295g**
    - Prix avant: 17,540 Ar
    - Prix actuel: 21,050 Ar
    - Variation: +3,510 Ar
 
-3. **Biscuits Goûter Fourrés Choco Noisette x16 295g**
+4. **Biscuits Goûter Fourrés Choco Noisette x16 295g**
    - Prix avant: 17,540 Ar
    - Prix actuel: 21,050 Ar
    - Variation: +3,510 Ar
 
-4. **Biscuits Goûter Fourrés Choco x16 BN 295g**
-   - Prix avant: 17,540 Ar
-   - Prix actuel: 21,050 Ar
-   - Variation: +3,510 Ar
-
-5. **Biscuits Goûter Fourrés Fraise x 16 BN 295g**
+5. **Biscuits Goûter Fourrés Choco x16 BN 295g**
    - Prix avant: 17,540 Ar
    - Prix actuel: 21,050 Ar
    - Variation: +3,510 Ar
@@ -61,15 +61,15 @@
    - Prix actuel: 6,090 Ar
    - Indice de prix : 183.99
 
-2. **Briquet J5 Mini Bic**
+2. **Farine de Sarrasin Treblec™ 1kg**
+   - Prix avant: 29,740 Ar
+   - Prix actuel: 36,233 Ar
+   - Indice de prix : 121.83
+
+3. **Briquet J5 Mini Bic**
    - Prix avant: 3,590 Ar
    - Prix actuel: 4,310 Ar
    - Indice de prix : 120.06
-
-3. **Biscuits Goûter Fourrés Choco x8 BN 150g**
-   - Prix avant: 14,230 Ar
-   - Prix actuel: 17,080 Ar
-   - Indice de prix : 120.03
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 

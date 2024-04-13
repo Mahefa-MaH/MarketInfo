@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
+      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
+      "prix_base": 13154000,
+      "prix_comparaison": 12961000,
+      "variation": -193000,
+      "indice_prix": 98.5327656986468
+    },
+    {
       "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
       "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
       "prix_base": 10290000,
@@ -9,18 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
-      "prix_base": 12697000,
-      "prix_comparaison": 12697000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
-      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 11915000,
-      "prix_comparaison": 11915000,
+      "cle": "televiseurled_138339samsung75qn85btvneoqledminiled75189cm4kuhd3840x2160100hzsmarttvgaminghub4xhdmi8806094906233_html",
+      "name": "Samsung 75QN85B - TV NeoQLED MiniLED 75'' (189 cm) - 4K UHD 3840x2160 - 100Hz - Smart TV - Gaming HUB - 4xHDMI",
+      "prix_base": 10813000,
+      "prix_comparaison": 10813000,
       "variation": 0,
       "indice_prix": 100.0
     }

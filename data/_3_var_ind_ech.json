@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "cle": "produit_farinedesarrasinsarrazin_",
+      "name": "Farine de Sarrasin Treblec\u2122 1kg",
+      "prix_base": 29740,
+      "prix_comparaison": 36233,
+      "variation": 6493
+    },
+    {
       "cle": "produit_biscuitsgouterfourresptitdejeunerchocotubebn200g_",
       "name": "Biscuits Go\u00fbter Fourr\u00e9s P\u2019tit D\u00e9jeuner Choco Tube BN 200g",
       "prix_base": 18380,
@@ -24,13 +31,6 @@
     {
       "cle": "produit_biscuitgouterfchocox16bn295g_",
       "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco x16 BN 295g",
-      "prix_base": 17540,
-      "prix_comparaison": 21050,
-      "variation": 3510
-    },
-    {
-      "cle": "produit_biscuitsgouterffraisex16bn295g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Fraise x 16 BN 295g",
       "prix_base": 17540,
       "prix_comparaison": 21050,
       "variation": 3510
@@ -82,18 +82,18 @@
       "indice_prix": 183.98791540785498
     },
     {
+      "cle": "produit_farinedesarrasinsarrazin_",
+      "name": "Farine de Sarrasin Treblec\u2122 1kg",
+      "prix_base": 29740,
+      "prix_comparaison": 36233,
+      "indice_prix": 121.83254875588433
+    },
+    {
       "cle": "produit_briquetj5minibic_",
       "name": "Briquet J5 Mini Bic",
       "prix_base": 3590,
       "prix_comparaison": 4310,
       "indice_prix": 120.05571030640668
-    },
-    {
-      "cle": "produit_biscuitgouterfchocox8bn150g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco x8 BN 150g",
-      "prix_base": 14230,
-      "prix_comparaison": 17080,
-      "indice_prix": 120.02810962754744
     }
   ],
   "indices_prix_plus_faibles": [
