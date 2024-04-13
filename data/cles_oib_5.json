@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_9404rizmakaliokasacde1kg_html",
-      "name": "Riz Makalioka sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "riz_4952rizdeluxemakalioka5kg_html",
       "name": "Riz de luxe Makalioka 5kg",
       "prix_base": 19550,
@@ -19,6 +11,14 @@
     {
       "cle": "riz_4951rizdetablemakalioka5kg_html",
       "name": "Riz de table Makalioka 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "riz_7474rizrougecomplet5kg_html",
+      "name": "Riz rouge complet 5kg",
       "prix_base": 18990,
       "prix_comparaison": 18990,
       "variation": 0,
