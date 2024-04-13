@@ -1,34 +1,118 @@
 {
   "Variation de prix": [
     {
-      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
-      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "variation": -1325
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6048000,
+      "prix_comparaison": 5632000,
+      "variation": -416000
     },
     {
-      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
-      "name": "Cr\u00e8me douche lait d'amande 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "variation": -1325
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5407000,
+      "prix_comparaison": 5279000,
+      "variation": -128000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
+      "name": "Apple Watch SE GPS +Cellular 40mm - Bracelet Starlight Sport Loop",
+      "prix_base": 1526000,
+      "prix_comparaison": 1517000,
+      "variation": -9000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
+      "prix_base": 4057000,
+      "prix_comparaison": 4051000,
+      "variation": -6000
+    },
+    {
+      "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3189000,
+      "prix_comparaison": 3190000,
+      "variation": 1000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1299000,
+      "prix_comparaison": 1305000,
+      "variation": 6000
+    },
+    {
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1567000,
+      "prix_comparaison": 1607000,
+      "variation": 40000
+    },
+    {
+      "cle": "smartphones_14841samsunggalaxys24ultra256goviolet_html",
+      "name": "SAMSUNG Galaxy S24 Ultra 256 Go Violet",
+      "prix_base": 6427000,
+      "prix_comparaison": 6867000,
+      "variation": 440000
     }
   ],
   "indice de prix": [
     {
-      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
-      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "indice_prix": 95.0
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6048000,
+      "prix_comparaison": 5632000,
+      "indice_prix": 93.12169312169313
     },
     {
-      "cle": "gelsetbainsdouche_5334cremedouchelaitdamande750ml_html",
-      "name": "Cr\u00e8me douche lait d'amande 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 25175,
-      "indice_prix": 95.0
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5407000,
+      "prix_comparaison": 5279000,
+      "indice_prix": 97.63269835398557
+    },
+    {
+      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
+      "name": "Apple Watch SE GPS +Cellular 40mm - Bracelet Starlight Sport Loop",
+      "prix_base": 1526000,
+      "prix_comparaison": 1517000,
+      "indice_prix": 99.41022280471822
+    },
+    {
+      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
+      "prix_base": 4057000,
+      "prix_comparaison": 4051000,
+      "indice_prix": 99.85210746857284
+    },
+    {
+      "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3189000,
+      "prix_comparaison": 3190000,
+      "indice_prix": 100.03135779241141
+    },
+    {
+      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1299000,
+      "prix_comparaison": 1305000,
+      "indice_prix": 100.46189376443418
+    },
+    {
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1567000,
+      "prix_comparaison": 1607000,
+      "indice_prix": 102.55264837268666
+    },
+    {
+      "cle": "smartphones_14841samsunggalaxys24ultra256goviolet_html",
+      "name": "SAMSUNG Galaxy S24 Ultra 256 Go Violet",
+      "prix_base": 6427000,
+      "prix_comparaison": 6867000,
+      "indice_prix": 106.84611793994087
     }
   ]
 }

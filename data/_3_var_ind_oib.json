@@ -6,20 +6,6 @@
       "prix_base": 6427000,
       "prix_comparaison": 6867000,
       "variation": 440000
-    },
-    {
-      "cle": "ordinateursportables_14812pcportablegamerasustufgamingf15156fhdrtx30504gointelcorei512500hram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming F15 | 15,6 FHD - RTX 3050 4Go - Intel Core i5-12500H - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 3691000,
-      "prix_comparaison": 4017000,
-      "variation": 326000
-    },
-    {
-      "cle": "ordinateursportables_14811pcportableasusvivobook17s1702173hdintelcorei31220pram8go512gossdwin11_html",
-      "name": "PC Portable ASUS VivoBook 17 S1702 | 17,3 HD+ - Intel Core i3-1220P - RAM 8Go - 512Go SSD - Win 11",
-      "prix_base": 2558000,
-      "prix_comparaison": 2845000,
-      "variation": 287000
     }
   ],
   "prix_diminues": [
@@ -29,20 +15,6 @@
       "prix_base": 6048000,
       "prix_comparaison": 5632000,
       "variation": -416000
-    },
-    {
-      "cle": "aspirateuraspirateurrobot_14216aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml_html",
-      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussi\u00e8re : 200 ml - Bac a eau : 230 ml",
-      "prix_base": 1057000,
-      "prix_comparaison": 865000,
-      "variation": -192000
-    },
-    {
-      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
-      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
-      "prix_base": 582000,
-      "prix_comparaison": 439000,
-      "variation": -143000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -52,20 +24,6 @@
       "prix_base": 2558000,
       "prix_comparaison": 2845000,
       "indice_prix": 111.21970289288507
-    },
-    {
-      "cle": "hachoirtrancheuse_14025trancheusedomodiametre17cmreglagecoupe1a15mm120w_html",
-      "name": "Trancheuse DOMO - diametre 17cm - R\u00e9glage coupe 1 a 15 mm - 120W",
-      "prix_base": 348000,
-      "prix_comparaison": 383000,
-      "indice_prix": 110.05747126436782
-    },
-    {
-      "cle": "machineacoudre_14224brotherj17smachineacoudremecaniquedesignattractifsimpledutilisationeclairagepuissantparled_html",
-      "name": "BROTHER J17s Machine \u00e0 coudre m\u00e9canique - Design attractif - Simple d'utilisation - Eclairage puissant par LED",
-      "prix_base": 1047000,
-      "prix_comparaison": 1146000,
-      "indice_prix": 109.45558739255014
     }
   ],
   "indices_prix_plus_faibles": [
@@ -75,20 +33,6 @@
       "prix_base": 582000,
       "prix_comparaison": 439000,
       "indice_prix": 75.4295532646048
-    },
-    {
-      "cle": "aspirateuraspirateurrobot_14216aspirateurrobotwififagorfg0283en1balayeaspireetlavebacpoussiere200mlbacaeau230ml_html",
-      "name": "Aspirateur Robot Wifi FAGOR FG028 - 3 en 1 : Balaye, aspire et lave - Bac poussi\u00e8re : 200 ml - Bac a eau : 230 ml",
-      "prix_base": 1057000,
-      "prix_comparaison": 865000,
-      "indice_prix": 81.83538315988648
-    },
-    {
-      "cle": "pates_9004coquillettes500g_html",
-      "name": "Coquillettes 500g",
-      "prix_base": 6500,
-      "prix_comparaison": 5500,
-      "indice_prix": 84.61538461538461
     }
   ]
 }
