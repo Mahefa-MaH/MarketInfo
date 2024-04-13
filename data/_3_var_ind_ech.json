@@ -38,6 +38,20 @@
   ],
   "prix_diminues": [
     {
+      "cle": "produit_kaki1kg_",
+      "name": "Kaki 1kg | Fruit frais de Madagascar",
+      "prix_base": 5400,
+      "prix_comparaison": 3333,
+      "variation": -2067
+    },
+    {
+      "cle": "produit_pokpokdujour150g_",
+      "name": "Pokpok du jour 150g | Coqueret du P\u00e9rou",
+      "prix_base": 5400,
+      "prix_comparaison": 3400,
+      "variation": -2000
+    },
+    {
       "cle": "produit_biscuitgouterffraisex8bn150g_",
       "name": "Biscuits Go\u00fbter Fourr\u00e9s Fraise x8 BN 150g",
       "prix_base": 18590,
@@ -45,35 +59,28 @@
       "variation": -1510
     },
     {
-      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "variation": 660
+      "cle": "produit_pasteque_",
+      "name": "Past\u00e8que 1 pi\u00e8ce | Riche en Vitamine A, B6 et C",
+      "prix_base": 6000,
+      "prix_comparaison": 4667,
+      "variation": -1333
     },
     {
-      "cle": "produit_chewinggumsanssucrewhitementhefortefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "variation": 660
-    },
-    {
-      "cle": "produit_chewinggumsanssucrewhitementhegivreefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Givr\u00e9e Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "variation": 660
-    },
-    {
-      "cle": "produit_briquetj5minibic_",
-      "name": "Briquet J5 Mini Bic",
-      "prix_base": 3590,
-      "prix_comparaison": 4310,
-      "variation": 720
+      "cle": "produit_persil1botte_",
+      "name": "Persil 1 botte",
+      "prix_base": 2700,
+      "prix_comparaison": 1667,
+      "variation": -1033
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "produit_sakaytsilandimilahyfrais500gpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 500g | Piment Habanero",
+      "prix_base": 2670,
+      "prix_comparaison": 5333,
+      "indice_prix": 199.7378277153558
+    },
     {
       "cle": "produit_chewinggumchlorophyllehollywood_",
       "name": "Chewing-Gum Chlorophylle Hollywood",
@@ -82,41 +89,34 @@
       "indice_prix": 183.98791540785498
     },
     {
-      "cle": "produit_farinedesarrasinsarrazin_",
-      "name": "Farine de Sarrasin Treblec\u2122 1kg",
-      "prix_base": 29740,
-      "prix_comparaison": 36233,
-      "indice_prix": 121.83254875588433
-    },
-    {
-      "cle": "produit_briquetj5minibic_",
-      "name": "Briquet J5 Mini Bic",
-      "prix_base": 3590,
-      "prix_comparaison": 4310,
-      "indice_prix": 120.05571030640668
+      "cle": "produit_chouchoute1kgsosety_",
+      "name": "Chouchoute 1kg | Sosety",
+      "prix_base": 1000,
+      "prix_comparaison": 1400,
+      "indice_prix": 140.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_biscuitgouterffraisex8bn150g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Fraise x8 BN 150g",
-      "prix_base": 18590,
-      "prix_comparaison": 17080,
-      "indice_prix": 91.87735341581495
+      "cle": "produit_kaki1kg_",
+      "name": "Kaki 1kg | Fruit frais de Madagascar",
+      "prix_base": 5400,
+      "prix_comparaison": 3333,
+      "indice_prix": 61.72222222222222
     },
     {
-      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "indice_prix": 119.93957703927492
+      "cle": "produit_persil1botte_",
+      "name": "Persil 1 botte",
+      "prix_base": 2700,
+      "prix_comparaison": 1667,
+      "indice_prix": 61.74074074074074
     },
     {
-      "cle": "produit_chewinggumsanssucrewhitementhefortefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "indice_prix": 119.93957703927492
+      "cle": "produit_pokpokdujour150g_",
+      "name": "Pokpok du jour 150g | Coqueret du P\u00e9rou",
+      "prix_base": 5400,
+      "prix_comparaison": 3400,
+      "indice_prix": 62.96296296296296
     }
   ]
 }

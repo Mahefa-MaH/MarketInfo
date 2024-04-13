@@ -29,62 +29,62 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Biscuits Goûter Fourrés Fraise x8 BN 150g**
+1. **Kaki 1kg | Fruit frais de Madagascar**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 3,333 Ar
+   - Variation: -2,067 Ar
+
+2. **Pokpok du jour 150g | Coqueret du Pérou**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 3,400 Ar
+   - Variation: -2,000 Ar
+
+3. **Biscuits Goûter Fourrés Fraise x8 BN 150g**
    - Prix avant: 18,590 Ar
    - Prix actuel: 17,080 Ar
    - Variation: -1,510 Ar
 
-2. **Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees**
-   - Prix avant: 3,310 Ar
-   - Prix actuel: 3,970 Ar
-   - Variation: +660 Ar
+4. **Pastèque 1 pièce | Riche en Vitamine A, B6 et C**
+   - Prix avant: 6,000 Ar
+   - Prix actuel: 4,667 Ar
+   - Variation: -1,333 Ar
 
-3. **Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees**
-   - Prix avant: 3,310 Ar
-   - Prix actuel: 3,970 Ar
-   - Variation: +660 Ar
-
-4. **Chewing-Gum Sans Sucre White Menthe Givrée Freedent 10 Dragees**
-   - Prix avant: 3,310 Ar
-   - Prix actuel: 3,970 Ar
-   - Variation: +660 Ar
-
-5. **Briquet J5 Mini Bic**
-   - Prix avant: 3,590 Ar
-   - Prix actuel: 4,310 Ar
-   - Variation: +720 Ar
+5. **Persil 1 botte**
+   - Prix avant: 2,700 Ar
+   - Prix actuel: 1,667 Ar
+   - Variation: -1,033 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Chewing-Gum Chlorophylle Hollywood**
+1. **Sakay Tsilandimilahy Frais 500g | Piment Habanero**
+   - Prix avant: 2,670 Ar
+   - Prix actuel: 5,333 Ar
+   - Indice de prix : 199.74
+
+2. **Chewing-Gum Chlorophylle Hollywood**
    - Prix avant: 3,310 Ar
    - Prix actuel: 6,090 Ar
    - Indice de prix : 183.99
 
-2. **Farine de Sarrasin Treblec™ 1kg**
-   - Prix avant: 29,740 Ar
-   - Prix actuel: 36,233 Ar
-   - Indice de prix : 121.83
-
-3. **Briquet J5 Mini Bic**
-   - Prix avant: 3,590 Ar
-   - Prix actuel: 4,310 Ar
-   - Indice de prix : 120.06
+3. **Chouchoute 1kg | Sosety**
+   - Prix avant: 1,000 Ar
+   - Prix actuel: 1,400 Ar
+   - Indice de prix : 140.00
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Biscuits Goûter Fourrés Fraise x8 BN 150g**
-   - Prix avant: 18,590 Ar
-   - Prix actuel: 17,080 Ar
-   - Indice de prix : 91.88
+1. **Kaki 1kg | Fruit frais de Madagascar**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 3,333 Ar
+   - Indice de prix : 61.72
 
-2. **Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees**
-   - Prix avant: 3,310 Ar
-   - Prix actuel: 3,970 Ar
-   - Indice de prix : 119.94
+2. **Persil 1 botte**
+   - Prix avant: 2,700 Ar
+   - Prix actuel: 1,667 Ar
+   - Indice de prix : 61.74
 
-3. **Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees**
-   - Prix avant: 3,310 Ar
-   - Prix actuel: 3,970 Ar
-   - Indice de prix : 119.94
+3. **Pokpok du jour 150g | Coqueret du Pérou**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 3,400 Ar
+   - Indice de prix : 62.96
 
