@@ -1,34 +1,76 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 6800,
-      "prix_comparaison": 7070,
-      "variation": 270
+      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "variation": 660
     },
     {
-      "cle": "produit_6laitdemiecremecandia_",
-      "name": "Pack de 6 Lait Demi \u00e9cr\u00e9m\u00e9 en Brique Candia\u2122 1L | Source Naturelle de Calcium",
-      "prix_base": 40800,
-      "prix_comparaison": 42420,
-      "variation": 1620
+      "cle": "produit_chewinggumsanssucrewhitementhefortefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "variation": 660
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhegivreefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Givr\u00e9e Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "variation": 660
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedentbouteillede46dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent Bouteille de 46 Dragees",
+      "prix_base": 15380,
+      "prix_comparaison": 18460,
+      "variation": 3080
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhevertefreedentbouteillede46dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Verte Freedent Bouteille de 46 Dragees",
+      "prix_base": 15380,
+      "prix_comparaison": 18460,
+      "variation": 3080
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_6laitdemiecremecandia_",
-      "name": "Pack de 6 Lait Demi \u00e9cr\u00e9m\u00e9 en Brique Candia\u2122 1L | Source Naturelle de Calcium",
-      "prix_base": 40800,
-      "prix_comparaison": 42420,
-      "indice_prix": 103.97058823529412
+      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "indice_prix": 119.93957703927492
     },
     {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 6800,
-      "prix_comparaison": 7070,
-      "indice_prix": 103.97058823529412
+      "cle": "produit_chewinggumsanssucrewhitementhefortefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "indice_prix": 119.93957703927492
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhegivreefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Givr\u00e9e Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "indice_prix": 119.93957703927492
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedentbouteillede46dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent Bouteille de 46 Dragees",
+      "prix_base": 15380,
+      "prix_comparaison": 18460,
+      "indice_prix": 120.0260078023407
+    },
+    {
+      "cle": "produit_chewinggumsanssucrewhitementhevertefreedentbouteillede46dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Verte Freedent Bouteille de 46 Dragees",
+      "prix_base": 15380,
+      "prix_comparaison": 18460,
+      "indice_prix": 120.0260078023407
     }
   ]
 }

@@ -1,108 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
-      "prix_base": 6000,
-      "prix_comparaison": 8000,
-      "variation": 2000
+      "cle": "produit_biscuitsgouterfourresptitdejeunerchocotubebn200g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s P\u2019tit D\u00e9jeuner Choco Tube BN 200g",
+      "prix_base": 18380,
+      "prix_comparaison": 22060,
+      "variation": 3680
     },
     {
-      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
-      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
-      "prix_base": 3333,
-      "prix_comparaison": 3800,
-      "variation": 467
+      "cle": "produit_biscuitsgouterfchocoaulaitx16bn295g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco au Lait x16 BN 295g",
+      "prix_base": 17540,
+      "prix_comparaison": 21050,
+      "variation": 3510
     },
     {
-      "cle": "produit_poivrons3pieces_",
-      "name": "Poivrons 3 pi\u00e8ces",
-      "prix_base": 1100,
-      "prix_comparaison": 1400,
-      "variation": 300
+      "cle": "produit_biscuitsgouterfchoconoisettex16295g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco Noisette x16 295g",
+      "prix_base": 17540,
+      "prix_comparaison": 21050,
+      "variation": 3510
+    },
+    {
+      "cle": "produit_biscuitgouterfchocox16bn295g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco x16 BN 295g",
+      "prix_base": 17540,
+      "prix_comparaison": 21050,
+      "variation": 3510
+    },
+    {
+      "cle": "produit_biscuitsgouterffraisex16bn295g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s Fraise x 16 BN 295g",
+      "prix_base": 17540,
+      "prix_comparaison": 21050,
+      "variation": 3510
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_carottesfraiche1kggroscalibre_",
-      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
-      "prix_base": 6700,
-      "prix_comparaison": 4000,
-      "variation": -2700
+      "cle": "produit_biscuitgouterffraisex8bn150g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s Fraise x8 BN 150g",
+      "prix_base": 18590,
+      "prix_comparaison": 17080,
+      "variation": -1510
     },
     {
-      "cle": "produit_concombres1kggroscalibre_",
-      "name": "Concombres 1kg | Gros Calibre",
-      "prix_base": 4000,
-      "prix_comparaison": 2700,
-      "variation": -1300
+      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "variation": 660
     },
     {
-      "cle": "produit_saladeverte1piecelegumefrais_",
-      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
-      "prix_base": 2000,
-      "prix_comparaison": 1000,
-      "variation": -1000
+      "cle": "produit_chewinggumsanssucrewhitementhefortefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "variation": 660
     },
     {
-      "cle": "produit_oignonsfrais500ggroscalibre_",
-      "name": "Oignons frais 500g | Gros Calibre",
-      "prix_base": 5330,
-      "prix_comparaison": 4400,
-      "variation": -930
+      "cle": "produit_chewinggumsanssucrewhitementhegivreefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Givr\u00e9e Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "variation": 660
     },
     {
-      "cle": "produit_haricotsvert500gavecbouts_",
-      "name": "Haricots verts 500g | Avec bouts",
-      "prix_base": 2700,
-      "prix_comparaison": 2000,
-      "variation": -700
+      "cle": "produit_briquetj5minibic_",
+      "name": "Briquet J5 Mini Bic",
+      "prix_base": 3590,
+      "prix_comparaison": 4310,
+      "variation": 720
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
-      "prix_base": 6000,
-      "prix_comparaison": 8000,
-      "indice_prix": 133.33333333333334
+      "cle": "produit_chewinggumchlorophyllehollywood_",
+      "name": "Chewing-Gum Chlorophylle Hollywood",
+      "prix_base": 3310,
+      "prix_comparaison": 6090,
+      "indice_prix": 183.98791540785498
     },
     {
-      "cle": "produit_poivrons3pieces_",
-      "name": "Poivrons 3 pi\u00e8ces",
-      "prix_base": 1100,
-      "prix_comparaison": 1400,
-      "indice_prix": 127.27272727272727
+      "cle": "produit_briquetj5minibic_",
+      "name": "Briquet J5 Mini Bic",
+      "prix_base": 3590,
+      "prix_comparaison": 4310,
+      "indice_prix": 120.05571030640668
     },
     {
-      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
-      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
-      "prix_base": 3333,
-      "prix_comparaison": 3800,
-      "indice_prix": 114.01140114011402
+      "cle": "produit_biscuitgouterfchocox8bn150g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco x8 BN 150g",
+      "prix_base": 14230,
+      "prix_comparaison": 17080,
+      "indice_prix": 120.02810962754744
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_saladeverte1piecelegumefrais_",
-      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
-      "prix_base": 2000,
-      "prix_comparaison": 1000,
-      "indice_prix": 50.0
+      "cle": "produit_biscuitgouterffraisex8bn150g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s Fraise x8 BN 150g",
+      "prix_base": 18590,
+      "prix_comparaison": 17080,
+      "indice_prix": 91.87735341581495
     },
     {
-      "cle": "produit_carottesfraiche1kggroscalibre_",
-      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
-      "prix_base": 6700,
-      "prix_comparaison": 4000,
-      "indice_prix": 59.701492537313435
+      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "indice_prix": 119.93957703927492
     },
     {
-      "cle": "produit_concombres1kggroscalibre_",
-      "name": "Concombres 1kg | Gros Calibre",
-      "prix_base": 4000,
-      "prix_comparaison": 2700,
-      "indice_prix": 67.5
+      "cle": "produit_chewinggumsanssucrewhitementhefortefreedent10dragees_",
+      "name": "Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees",
+      "prix_base": 3310,
+      "prix_comparaison": 3970,
+      "indice_prix": 119.93957703927492
     }
   ]
 }

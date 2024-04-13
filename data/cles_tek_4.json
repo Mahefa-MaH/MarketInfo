@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13109,
-      "name": "Sucre blanc 1 Kg",
+      "list_id": 9687,
+      "name": "Sucre blanc 1 kg",
       "prix_base": 7200,
       "prix_comparaison": 7200,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 13700,
-      "prix_comparaison": 13700,
+      "list_id": 8267,
+      "name": "Sucre rouge 1 kg",
+      "prix_base": 5200,
+      "prix_comparaison": 5200,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 3100,
-      "prix_comparaison": 3100,
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7200,
+      "prix_comparaison": 7200,
       "variation": 0,
       "indice_prix": 100.0
     }
