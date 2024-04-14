@@ -1,34 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 2008,
-      "name": "Jus De Fruit Pineapple 1 L",
-      "prix_base": 11700,
-      "prix_comparaison": 10500,
-      "variation": -1200
-    },
-    {
-      "list_id": 2016,
-      "name": "Gel Douche A L'Huile D'Argan 500 Ml",
-      "prix_base": 15400,
-      "prix_comparaison": 16900,
+      "list_id": 11444,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 9800,
       "variation": 1500
     }
   ],
   "indice de prix": [
     {
-      "list_id": 2008,
-      "name": "Jus De Fruit Pineapple 1 L",
-      "prix_base": 11700,
-      "prix_comparaison": 10500,
-      "indice_prix": 89.74358974358974
-    },
-    {
-      "list_id": 2016,
-      "name": "Gel Douche A L'Huile D'Argan 500 Ml",
-      "prix_base": 15400,
-      "prix_comparaison": 16900,
-      "indice_prix": 109.74025974025975
+      "list_id": 11444,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 9800,
+      "indice_prix": 118.07228915662651
     }
   ]
 }
