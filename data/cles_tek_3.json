@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7500,
-      "prix_comparaison": 7500,
+      "list_id": 3826,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 7300,
+      "prix_comparaison": 7300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 9687,
+      "list_id": 5218,
       "name": "Sucre blanc 1 kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
+      "prix_base": 7500,
+      "prix_comparaison": 7500,
       "variation": 0,
       "indice_prix": 100.0
     },
