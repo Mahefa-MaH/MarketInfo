@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 2090,
-      "prix_base": 3700,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_comparaison": 4000,
-      "variation": 300
+      "list_id": 13202,
+      "prix_base": 30500,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_comparaison": 35100,
+      "variation": 4600
+    },
+    {
+      "list_id": 11444,
+      "prix_base": 8300,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
+      "prix_comparaison": 9800,
+      "variation": 1500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 2090,
-      "prix_base": 3700,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_comparaison": 4000,
-      "variation": 300
+      "list_id": 11444,
+      "prix_base": 8300,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
+      "prix_comparaison": 9800,
+      "variation": 1500
+    },
+    {
+      "list_id": 13202,
+      "prix_base": 30500,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_comparaison": 35100,
+      "variation": 4600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 2090,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_base": 3700,
-      "prix_comparaison": 4000,
-      "indice_prix": 108.10810810810811
+      "list_id": 11444,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 9800,
+      "indice_prix": 118.07228915662651
+    },
+    {
+      "list_id": 13202,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_base": 30500,
+      "prix_comparaison": 35100,
+      "indice_prix": 115.08196721311475
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 2090,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_base": 3700,
-      "prix_comparaison": 4000,
-      "indice_prix": 108.10810810810811
+      "list_id": 13202,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_base": 30500,
+      "prix_comparaison": 35100,
+      "indice_prix": 115.08196721311475
+    },
+    {
+      "list_id": 11444,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 9800,
+      "indice_prix": 118.07228915662651
     }
   ]
 }
