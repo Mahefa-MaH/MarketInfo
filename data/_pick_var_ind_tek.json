@@ -1,20 +1,412 @@
 {
   "Variation de prix": [
     {
-      "list_id": 11444,
-      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
-      "prix_base": 8300,
-      "prix_comparaison": 9800,
-      "variation": 1500
+      "list_id": 716,
+      "name": "Coffret Eau de toilette et d\u00e9odorant a\u00e9rosol Rocky Man 100 Ml/200 Ml",
+      "prix_base": 61900,
+      "prix_comparaison": 58200,
+      "variation": -3700
+    },
+    {
+      "list_id": 2594,
+      "name": "Savon Creme Soft 100 G",
+      "prix_base": 5600,
+      "prix_comparaison": 5900,
+      "variation": 300
+    },
+    {
+      "list_id": 2632,
+      "name": "Cr\u00e8me \u00c0 R\u00e9curer Citron 750 Ml",
+      "prix_base": 6600,
+      "prix_comparaison": 7200,
+      "variation": 600
+    },
+    {
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7200,
+      "prix_comparaison": 7900,
+      "variation": 700
+    },
+    {
+      "list_id": 2578,
+      "name": "D\u00e9odorant Bille Dry Fresh F\u00e9minin 50 Ml",
+      "prix_base": 16200,
+      "prix_comparaison": 17000,
+      "variation": 800
+    },
+    {
+      "list_id": 2575,
+      "name": "D\u00e9odorant Bille Silver Protect Homme 50 Ml",
+      "prix_base": 16200,
+      "prix_comparaison": 17000,
+      "variation": 800
+    },
+    {
+      "list_id": 2533,
+      "name": "D\u00e9odorant Bille Masculin Fresh 50 Ml",
+      "prix_base": 16200,
+      "prix_comparaison": 17000,
+      "variation": 800
+    },
+    {
+      "list_id": 2581,
+      "name": "D\u00e9odorant Spray Dry Comfort 200 Ml",
+      "prix_base": 20400,
+      "prix_comparaison": 21300,
+      "variation": 900
+    },
+    {
+      "list_id": 2577,
+      "name": "D\u00e9odorant Bille Masculin Deep 50 Ml",
+      "prix_base": 19647.8,
+      "prix_comparaison": 20600,
+      "variation": 952.2000000000007
+    },
+    {
+      "list_id": 2571,
+      "name": "D\u00e9odorant Bille Feminin Fresh 50 Ml",
+      "prix_base": 19647.8,
+      "prix_comparaison": 20600,
+      "variation": 952.2000000000007
+    },
+    {
+      "list_id": 2573,
+      "name": "D\u00e9odorant Bille Pearl&Beauty 50 Ml",
+      "prix_base": 19647.8,
+      "prix_comparaison": 20600,
+      "variation": 952.2000000000007
+    },
+    {
+      "list_id": 2572,
+      "name": "D\u00e9odorant Bille Masculin Aqua Cool 50 Ml",
+      "prix_base": 19600,
+      "prix_comparaison": 20600,
+      "variation": 1000
+    },
+    {
+      "list_id": 2574,
+      "name": "D\u00e9odorant Bille Energy Fresh 50 Ml",
+      "prix_base": 19600,
+      "prix_comparaison": 20600,
+      "variation": 1000
+    },
+    {
+      "list_id": 2576,
+      "name": "D\u00e9odorant Bille Dry Fresh Masculin 50 Ml",
+      "prix_base": 19600,
+      "prix_comparaison": 20600,
+      "variation": 1000
+    },
+    {
+      "list_id": 2816,
+      "name": "D\u00e9odorant Goyav\u00e9 & Th\u00e9 Rouge 200 Ml",
+      "prix_base": 12100,
+      "prix_comparaison": 13200,
+      "variation": 1100
+    },
+    {
+      "list_id": 2817,
+      "name": "D\u00e9odorant Anti-Traces Lys Blanc / Alo\u00e9 Vera 200 Ml",
+      "prix_base": 12100,
+      "prix_comparaison": 13200,
+      "variation": 1100
+    },
+    {
+      "list_id": 2828,
+      "name": "Masque Hydratant Huile D'Amande Douce/Alo\u00e9 Vera 75 Ml",
+      "prix_base": 12100,
+      "prix_comparaison": 13200,
+      "variation": 1100
+    },
+    {
+      "list_id": 2642,
+      "name": "Nettoyant Sol Carrel\u00e9s \u00c0 L'Huile De Lin 1 L",
+      "prix_base": 12100,
+      "prix_comparaison": 13200,
+      "variation": 1100
+    },
+    {
+      "list_id": 2584,
+      "name": "D\u00e9odorant Spray Pearl & Beauty 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2587,
+      "name": "D\u00e9odorant Spray Invisible Black & White Clear 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2590,
+      "name": "D\u00e9odorant Spray Dry Fresh Feminin 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2579,
+      "name": "D\u00e9odorant Spray Fresh Active 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2582,
+      "name": "D\u00e9odorant Spray Dry Impact Men 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2583,
+      "name": "D\u00e9odorant Spray Cool Kick 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2585,
+      "name": "D\u00e9odorant Spray Masculin Silver Protect 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2586,
+      "name": "D\u00e9odorant Spray Invisible Black & White 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2588,
+      "name": "D\u00e9odorant Spray Deep 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2589,
+      "name": "D\u00e9odorant Spray Dry Fresh Masculin 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "variation": 1142.9000000000015
+    },
+    {
+      "list_id": 2774,
+      "name": "Friteuse Sans Huile Avec Affichage Led 1000 W",
+      "prix_base": 229700,
+      "prix_comparaison": 239700,
+      "variation": 10000
     }
   ],
   "indice de prix": [
     {
-      "list_id": 11444,
-      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
-      "prix_base": 8300,
-      "prix_comparaison": 9800,
-      "indice_prix": 118.07228915662651
+      "list_id": 716,
+      "name": "Coffret Eau de toilette et d\u00e9odorant a\u00e9rosol Rocky Man 100 Ml/200 Ml",
+      "prix_base": 61900,
+      "prix_comparaison": 58200,
+      "indice_prix": 94.02261712439419
+    },
+    {
+      "list_id": 2774,
+      "name": "Friteuse Sans Huile Avec Affichage Led 1000 W",
+      "prix_base": 229700,
+      "prix_comparaison": 239700,
+      "indice_prix": 104.3535045711798
+    },
+    {
+      "list_id": 2581,
+      "name": "D\u00e9odorant Spray Dry Comfort 200 Ml",
+      "prix_base": 20400,
+      "prix_comparaison": 21300,
+      "indice_prix": 104.41176470588235
+    },
+    {
+      "list_id": 2584,
+      "name": "D\u00e9odorant Spray Pearl & Beauty 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2587,
+      "name": "D\u00e9odorant Spray Invisible Black & White Clear 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2590,
+      "name": "D\u00e9odorant Spray Dry Fresh Feminin 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2579,
+      "name": "D\u00e9odorant Spray Fresh Active 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2582,
+      "name": "D\u00e9odorant Spray Dry Impact Men 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2583,
+      "name": "D\u00e9odorant Spray Cool Kick 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2585,
+      "name": "D\u00e9odorant Spray Masculin Silver Protect 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2586,
+      "name": "D\u00e9odorant Spray Invisible Black & White 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2588,
+      "name": "D\u00e9odorant Spray Deep 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2589,
+      "name": "D\u00e9odorant Spray Dry Fresh Masculin 200 Ml",
+      "prix_base": 24457.1,
+      "prix_comparaison": 25600,
+      "indice_prix": 104.67308061871604
+    },
+    {
+      "list_id": 2577,
+      "name": "D\u00e9odorant Bille Masculin Deep 50 Ml",
+      "prix_base": 19647.8,
+      "prix_comparaison": 20600,
+      "indice_prix": 104.84634411995236
+    },
+    {
+      "list_id": 2571,
+      "name": "D\u00e9odorant Bille Feminin Fresh 50 Ml",
+      "prix_base": 19647.8,
+      "prix_comparaison": 20600,
+      "indice_prix": 104.84634411995236
+    },
+    {
+      "list_id": 2573,
+      "name": "D\u00e9odorant Bille Pearl&Beauty 50 Ml",
+      "prix_base": 19647.8,
+      "prix_comparaison": 20600,
+      "indice_prix": 104.84634411995236
+    },
+    {
+      "list_id": 2578,
+      "name": "D\u00e9odorant Bille Dry Fresh F\u00e9minin 50 Ml",
+      "prix_base": 16200,
+      "prix_comparaison": 17000,
+      "indice_prix": 104.93827160493827
+    },
+    {
+      "list_id": 2575,
+      "name": "D\u00e9odorant Bille Silver Protect Homme 50 Ml",
+      "prix_base": 16200,
+      "prix_comparaison": 17000,
+      "indice_prix": 104.93827160493827
+    },
+    {
+      "list_id": 2533,
+      "name": "D\u00e9odorant Bille Masculin Fresh 50 Ml",
+      "prix_base": 16200,
+      "prix_comparaison": 17000,
+      "indice_prix": 104.93827160493827
+    },
+    {
+      "list_id": 2572,
+      "name": "D\u00e9odorant Bille Masculin Aqua Cool 50 Ml",
+      "prix_base": 19600,
+      "prix_comparaison": 20600,
+      "indice_prix": 105.10204081632654
+    },
+    {
+      "list_id": 2574,
+      "name": "D\u00e9odorant Bille Energy Fresh 50 Ml",
+      "prix_base": 19600,
+      "prix_comparaison": 20600,
+      "indice_prix": 105.10204081632654
+    },
+    {
+      "list_id": 2576,
+      "name": "D\u00e9odorant Bille Dry Fresh Masculin 50 Ml",
+      "prix_base": 19600,
+      "prix_comparaison": 20600,
+      "indice_prix": 105.10204081632654
+    },
+    {
+      "list_id": 2594,
+      "name": "Savon Creme Soft 100 G",
+      "prix_base": 5600,
+      "prix_comparaison": 5900,
+      "indice_prix": 105.35714285714286
+    },
+    {
+      "list_id": 2816,
+      "name": "D\u00e9odorant Goyav\u00e9 & Th\u00e9 Rouge 200 Ml",
+      "prix_base": 12100,
+      "prix_comparaison": 13200,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 2817,
+      "name": "D\u00e9odorant Anti-Traces Lys Blanc / Alo\u00e9 Vera 200 Ml",
+      "prix_base": 12100,
+      "prix_comparaison": 13200,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 2632,
+      "name": "Cr\u00e8me \u00c0 R\u00e9curer Citron 750 Ml",
+      "prix_base": 6600,
+      "prix_comparaison": 7200,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 2828,
+      "name": "Masque Hydratant Huile D'Amande Douce/Alo\u00e9 Vera 75 Ml",
+      "prix_base": 12100,
+      "prix_comparaison": 13200,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 2642,
+      "name": "Nettoyant Sol Carrel\u00e9s \u00c0 L'Huile De Lin 1 L",
+      "prix_base": 12100,
+      "prix_comparaison": 13200,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7200,
+      "prix_comparaison": 7900,
+      "indice_prix": 109.72222222222223
     }
   ]
 }

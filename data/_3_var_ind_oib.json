@@ -1,47 +1,110 @@
 {
   "prix_augmentes": [
     {
-      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
-      "name": "Yaourt Yoplait nature sucre 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "variation": 140
+      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
+      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
+      "prix_base": 7900,
+      "prix_comparaison": 9000,
+      "variation": 1100
     },
     {
-      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
-      "name": "Yaourt Yoplait fraise 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "variation": 140
+      "cle": "gelsetblocswc_15053blocwc5en1parfumocean_html",
+      "name": "Bloc wc 5 en 1 parfum oc\u00e9an",
+      "prix_base": 8590,
+      "prix_comparaison": 9600,
+      "variation": 1010
+    },
+    {
+      "cle": "gelsetblocswc_15052blocwc5en1parfumlavande_html",
+      "name": "Bloc wc 5 en 1 parfum lavande",
+      "prix_base": 8590,
+      "prix_comparaison": 9600,
+      "variation": 1010
+    },
+    {
+      "cle": "pates_9004coquillettes500g_html",
+      "name": "Coquillettes 500g",
+      "prix_base": 5500,
+      "prix_comparaison": 6500,
+      "variation": 1000
+    },
+    {
+      "cle": "gelsetblocswc_3263impecwcpin500gx12_html",
+      "name": "Gel WC pin 500ml",
+      "prix_base": 4590,
+      "prix_comparaison": 5390,
+      "variation": 800
     }
   ],
   "prix_diminues": [
     {
-      "cle": "yaourtsnaturesetaromatises_8120yaourtyoplaitcitron90g_html",
-      "name": "Yaourt Yoplait citron 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "variation": 140
+      "cle": "nappesserviettesessuietout_14065serviettesdetable60pieces_html",
+      "name": "Mini-serviettes de table 60 pi\u00e8ces",
+      "prix_base": 1100,
+      "prix_comparaison": 1190,
+      "variation": 90
     },
     {
-      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
-      "name": "Yaourt Yoplait fraise 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "variation": 140
+      "cle": "nouilles_9291nouilleinstantaneehakacurry80g_html",
+      "name": "Nouille instantan\u00e9e Haka curry 80g",
+      "prix_base": 990,
+      "prix_comparaison": 1100,
+      "variation": 110
+    },
+    {
+      "cle": "nouilles_9293nouilleinstantaneehakalegume80g_html",
+      "name": "Nouille instantan\u00e9e Haka l\u00e9gume 80g",
+      "prix_base": 990,
+      "prix_comparaison": 1100,
+      "variation": 110
+    },
+    {
+      "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
+      "name": "Nouille instantan\u00e9e Haka poulet 80g",
+      "prix_base": 990,
+      "prix_comparaison": 1100,
+      "variation": 110
+    },
+    {
+      "cle": "nouilles_9294nouilleinstantaneehakaviande80g_html",
+      "name": "Nouille instantan\u00e9e Haka viande 80g",
+      "prix_base": 990,
+      "prix_comparaison": 1100,
+      "variation": 110
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
-      "name": "Yaourt Yoplait nature sucre 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "indice_prix": 116.47058823529412
+      "cle": "pates_9004coquillettes500g_html",
+      "name": "Coquillettes 500g",
+      "prix_base": 5500,
+      "prix_comparaison": 6500,
+      "indice_prix": 118.18181818181819
     },
     {
-      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
-      "name": "Yaourt Yoplait fraise 90g",
+      "cle": "gelsetblocswc_3263impecwcpin500gx12_html",
+      "name": "Gel WC pin 500ml",
+      "prix_base": 4590,
+      "prix_comparaison": 5390,
+      "indice_prix": 117.42919389978213
+    },
+    {
+      "cle": "gelsetblocswc_3261impecgelwcmarin500gx12_html",
+      "name": "Gel WC marin 500ml",
+      "prix_base": 4590,
+      "prix_comparaison": 5390,
+      "indice_prix": 117.42919389978213
+    },
+    {
+      "cle": "gelsetblocswc_3260impecgelwcfloral5kg_html",
+      "name": "Gel WC floral 500ml",
+      "prix_base": 4590,
+      "prix_comparaison": 5390,
+      "indice_prix": 117.42919389978213
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
+      "name": "Yaourt Yoplait nature sucre 90g",
       "prix_base": 850,
       "prix_comparaison": 990,
       "indice_prix": 116.47058823529412
@@ -49,18 +112,39 @@
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "yaourtsnaturesetaromatises_8120yaourtyoplaitcitron90g_html",
-      "name": "Yaourt Yoplait citron 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "indice_prix": 116.47058823529412
+      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
+      "name": "Boisson gazeuse cristal 150cl",
+      "prix_base": 4290,
+      "prix_comparaison": 4600,
+      "indice_prix": 107.22610722610723
     },
     {
-      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
-      "name": "Yaourt Yoplait fraise 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "indice_prix": 116.47058823529412
+      "cle": "nappesserviettesessuietout_15071serviettesdetable100pieces_html",
+      "name": "Serviettes de table 100 pi\u00e8ces",
+      "prix_base": 2650,
+      "prix_comparaison": 2850,
+      "indice_prix": 107.54716981132076
+    },
+    {
+      "cle": "nappesserviettesessuietout_14065serviettesdetable60pieces_html",
+      "name": "Mini-serviettes de table 60 pi\u00e8ces",
+      "prix_base": 1100,
+      "prix_comparaison": 1190,
+      "indice_prix": 108.18181818181819
+    },
+    {
+      "cle": "nouilles_9291nouilleinstantaneehakacurry80g_html",
+      "name": "Nouille instantan\u00e9e Haka curry 80g",
+      "prix_base": 990,
+      "prix_comparaison": 1100,
+      "indice_prix": 111.11111111111111
+    },
+    {
+      "cle": "nouilles_9293nouilleinstantaneehakalegume80g_html",
+      "name": "Nouille instantan\u00e9e Haka l\u00e9gume 80g",
+      "prix_base": 990,
+      "prix_comparaison": 1100,
+      "indice_prix": 111.11111111111111
     }
   ]
 }
