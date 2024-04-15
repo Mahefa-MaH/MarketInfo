@@ -6,26 +6,12 @@
       "prix_base": 850,
       "prix_comparaison": 990,
       "variation": 140
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
-      "name": "Yaourt Yoplait fraise 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "variation": 140
     }
   ],
   "prix_diminues": [
     {
       "cle": "yaourtsnaturesetaromatises_8120yaourtyoplaitcitron90g_html",
       "name": "Yaourt Yoplait citron 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "variation": 140
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
-      "name": "Yaourt Yoplait fraise 90g",
       "prix_base": 850,
       "prix_comparaison": 990,
       "variation": 140
@@ -38,26 +24,12 @@
       "prix_base": 850,
       "prix_comparaison": 990,
       "indice_prix": 116.47058823529412
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
-      "name": "Yaourt Yoplait fraise 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "indice_prix": 116.47058823529412
     }
   ],
   "indices_prix_plus_faibles": [
     {
       "cle": "yaourtsnaturesetaromatises_8120yaourtyoplaitcitron90g_html",
       "name": "Yaourt Yoplait citron 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "indice_prix": 116.47058823529412
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
-      "name": "Yaourt Yoplait fraise 90g",
       "prix_base": 850,
       "prix_comparaison": 990,
       "indice_prix": 116.47058823529412

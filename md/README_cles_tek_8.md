@@ -2,9 +2,9 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Huile De Soja 1 L**
-   - Prix avant: 9,300 Ar
-   - Prix actuel: 9,300 Ar
+1. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
+   - Prix avant: 172,500 Ar
+   - Prix actuel: 172,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
