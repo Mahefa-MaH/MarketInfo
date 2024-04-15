@@ -1,122 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_farinedesarrasinsarrazin_",
-      "name": "Farine de Sarrasin Treblec\u2122 1kg",
-      "prix_base": 29740,
-      "prix_comparaison": 36233,
-      "variation": 6493
+      "cle": "produit_saucedhuitresredriverbridge710grs_",
+      "name": "Sauce d\u2019hu\u00eetres red river bridge  710grs",
+      "prix_base": 10900,
+      "prix_comparaison": 18590,
+      "variation": 7690
     },
     {
-      "cle": "produit_biscuitsgouterfourresptitdejeunerchocotubebn200g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s P\u2019tit D\u00e9jeuner Choco Tube BN 200g",
-      "prix_base": 18380,
-      "prix_comparaison": 22060,
-      "variation": 3680
+      "cle": "produit_saccongelationcarrefour3lx50_",
+      "name": "Sac de cong\u00e9lation simple Carrefour\u2122 3L x 50",
+      "prix_base": 8160,
+      "prix_comparaison": 14540,
+      "variation": 6380
     },
     {
-      "cle": "produit_biscuitsgouterfchocoaulaitx16bn295g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco au Lait x16 BN 295g",
-      "prix_base": 17540,
-      "prix_comparaison": 21050,
-      "variation": 3510
+      "cle": "produit_saucehuitrevegetarienneredriverbridge710grs_",
+      "name": "Sauce huitre v\u00e9g\u00e9tarienne red river bridge 710grs",
+      "prix_base": 12820,
+      "prix_comparaison": 18590,
+      "variation": 5770
     },
     {
-      "cle": "produit_biscuitsgouterfchoconoisettex16295g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco Noisette x16 295g",
-      "prix_base": 17540,
-      "prix_comparaison": 21050,
-      "variation": 3510
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 4700,
+      "prix_comparaison": 5400,
+      "variation": 700
     },
     {
-      "cle": "produit_biscuitgouterfchocox16bn295g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco x16 BN 295g",
-      "prix_base": 17540,
-      "prix_comparaison": 21050,
-      "variation": 3510
+      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
+      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
+      "prix_base": 2000,
+      "prix_comparaison": 2700,
+      "variation": 700
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_kaki1kg_",
-      "name": "Kaki 1kg | Fruit frais de Madagascar",
+      "cle": "produit_coriandre1botte_",
+      "name": "Coriandre 1 botte",
       "prix_base": 5400,
-      "prix_comparaison": 3333,
-      "variation": -2067
+      "prix_comparaison": 3600,
+      "variation": -1800
     },
     {
-      "cle": "produit_pokpokdujour150g_",
-      "name": "Pokpok du jour 150g | Coqueret du P\u00e9rou",
-      "prix_base": 5400,
-      "prix_comparaison": 3400,
-      "variation": -2000
+      "cle": "produit_menthe1botte_",
+      "name": "Menthe 1 botte",
+      "prix_base": 1600,
+      "prix_comparaison": 1400,
+      "variation": -200
     },
     {
-      "cle": "produit_biscuitgouterffraisex8bn150g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Fraise x8 BN 150g",
-      "prix_base": 18590,
-      "prix_comparaison": 17080,
-      "variation": -1510
+      "cle": "produit_gingembre1kg_",
+      "name": "Gingembre 1Kg",
+      "prix_base": 4667,
+      "prix_comparaison": 4533,
+      "variation": -134
     },
     {
-      "cle": "produit_pasteque_",
-      "name": "Past\u00e8que 1 pi\u00e8ce | Riche en Vitamine A, B6 et C",
-      "prix_base": 6000,
-      "prix_comparaison": 4667,
-      "variation": -1333
+      "cle": "produit_bredeanamamy500g_",
+      "name": "Anamamy 250g | Br\u00e8des",
+      "prix_base": 800,
+      "prix_comparaison": 667,
+      "variation": -133
     },
     {
-      "cle": "produit_persil1botte_",
-      "name": "Persil 1 botte",
-      "prix_base": 2700,
-      "prix_comparaison": 1667,
-      "variation": -1033
+      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 1600,
+      "prix_comparaison": 2000,
+      "variation": 400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_sakaytsilandimilahyfrais500gpimenthabanero_",
-      "name": "Sakay Tsilandimilahy Frais 500g | Piment Habanero",
-      "prix_base": 2670,
-      "prix_comparaison": 5333,
-      "indice_prix": 199.7378277153558
+      "cle": "produit_saccongelationcarrefour3lx50_",
+      "name": "Sac de cong\u00e9lation simple Carrefour\u2122 3L x 50",
+      "prix_base": 8160,
+      "prix_comparaison": 14540,
+      "indice_prix": 178.18627450980392
     },
     {
-      "cle": "produit_chewinggumchlorophyllehollywood_",
-      "name": "Chewing-Gum Chlorophylle Hollywood",
-      "prix_base": 3310,
-      "prix_comparaison": 6090,
-      "indice_prix": 183.98791540785498
+      "cle": "produit_saucedhuitresredriverbridge710grs_",
+      "name": "Sauce d\u2019hu\u00eetres red river bridge  710grs",
+      "prix_base": 10900,
+      "prix_comparaison": 18590,
+      "indice_prix": 170.55045871559633
     },
     {
-      "cle": "produit_chouchoute1kgsosety_",
-      "name": "Chouchoute 1kg | Sosety",
-      "prix_base": 1000,
-      "prix_comparaison": 1400,
-      "indice_prix": 140.0
+      "cle": "produit_saucehuitrevegetarienneredriverbridge710grs_",
+      "name": "Sauce huitre v\u00e9g\u00e9tarienne red river bridge 710grs",
+      "prix_base": 12820,
+      "prix_comparaison": 18590,
+      "indice_prix": 145.00780031201248
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_kaki1kg_",
-      "name": "Kaki 1kg | Fruit frais de Madagascar",
+      "cle": "produit_coriandre1botte_",
+      "name": "Coriandre 1 botte",
       "prix_base": 5400,
-      "prix_comparaison": 3333,
-      "indice_prix": 61.72222222222222
+      "prix_comparaison": 3600,
+      "indice_prix": 66.66666666666667
     },
     {
-      "cle": "produit_persil1botte_",
-      "name": "Persil 1 botte",
-      "prix_base": 2700,
-      "prix_comparaison": 1667,
-      "indice_prix": 61.74074074074074
+      "cle": "produit_bredeanamamy500g_",
+      "name": "Anamamy 250g | Br\u00e8des",
+      "prix_base": 800,
+      "prix_comparaison": 667,
+      "indice_prix": 83.375
     },
     {
-      "cle": "produit_pokpokdujour150g_",
-      "name": "Pokpok du jour 150g | Coqueret du P\u00e9rou",
-      "prix_base": 5400,
-      "prix_comparaison": 3400,
-      "indice_prix": 62.96296296296296
+      "cle": "produit_menthe1botte_",
+      "name": "Menthe 1 botte",
+      "prix_base": 1600,
+      "prix_comparaison": 1400,
+      "indice_prix": 87.5
     }
   ]
 }

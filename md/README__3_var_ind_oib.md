@@ -22,11 +22,6 @@
    - Prix actuel: 6,500 Ar
    - Variation: +1,000 Ar
 
-5. **Gel WC pin 500ml**
-   - Prix avant: 4,590 Ar
-   - Prix actuel: 5,390 Ar
-   - Variation: +800 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Mini-serviettes de table 60 pièces**
@@ -45,11 +40,6 @@
    - Variation: +110 Ar
 
 4. **Nouille instantanée Haka poulet 80g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,100 Ar
-   - Variation: +110 Ar
-
-5. **Nouille instantanée Haka viande 80g**
    - Prix avant: 990 Ar
    - Prix actuel: 1,100 Ar
    - Variation: +110 Ar
@@ -76,11 +66,6 @@
    - Prix actuel: 5,390 Ar
    - Indice de prix : 117.43
 
-5. **Yaourt Yoplait nature sucre 90g**
-   - Prix avant: 850 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 116.47
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Boisson gazeuse cristal 150cl**
@@ -99,11 +84,6 @@
    - Indice de prix : 108.18
 
 4. **Nouille instantanée Haka curry 80g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,100 Ar
-   - Indice de prix : 111.11
-
-5. **Nouille instantanée Haka légume 80g**
    - Prix avant: 990 Ar
    - Prix actuel: 1,100 Ar
    - Indice de prix : 111.11

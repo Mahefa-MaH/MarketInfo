@@ -27,13 +27,6 @@
       "prix_base": 5500,
       "prix_comparaison": 6500,
       "variation": 1000
-    },
-    {
-      "cle": "gelsetblocswc_3263impecwcpin500gx12_html",
-      "name": "Gel WC pin 500ml",
-      "prix_base": 4590,
-      "prix_comparaison": 5390,
-      "variation": 800
     }
   ],
   "prix_diminues": [
@@ -61,13 +54,6 @@
     {
       "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
       "name": "Nouille instantan\u00e9e Haka poulet 80g",
-      "prix_base": 990,
-      "prix_comparaison": 1100,
-      "variation": 110
-    },
-    {
-      "cle": "nouilles_9294nouilleinstantaneehakaviande80g_html",
-      "name": "Nouille instantan\u00e9e Haka viande 80g",
       "prix_base": 990,
       "prix_comparaison": 1100,
       "variation": 110
@@ -101,13 +87,6 @@
       "prix_base": 4590,
       "prix_comparaison": 5390,
       "indice_prix": 117.42919389978213
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
-      "name": "Yaourt Yoplait nature sucre 90g",
-      "prix_base": 850,
-      "prix_comparaison": 990,
-      "indice_prix": 116.47058823529412
     }
   ],
   "indices_prix_plus_faibles": [
@@ -135,13 +114,6 @@
     {
       "cle": "nouilles_9291nouilleinstantaneehakacurry80g_html",
       "name": "Nouille instantan\u00e9e Haka curry 80g",
-      "prix_base": 990,
-      "prix_comparaison": 1100,
-      "indice_prix": 111.11111111111111
-    },
-    {
-      "cle": "nouilles_9293nouilleinstantaneehakalegume80g_html",
-      "name": "Nouille instantan\u00e9e Haka l\u00e9gume 80g",
       "prix_base": 990,
       "prix_comparaison": 1100,
       "indice_prix": 111.11111111111111

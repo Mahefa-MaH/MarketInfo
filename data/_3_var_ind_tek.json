@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 13202,
-      "prix_base": 30500,
-      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
-      "prix_comparaison": 35100,
-      "variation": 4600
+      "list_id": 2710,
+      "prix_base": 2543000,
+      "name": "Machine \u00c0 Expresso Avec Broyeur 1450 w",
+      "prix_comparaison": 2653600,
+      "variation": 110600
     },
     {
-      "list_id": 11444,
-      "prix_base": 8300,
-      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
-      "prix_comparaison": 9800,
-      "variation": 1500
+      "list_id": 2675,
+      "prix_base": 2492800,
+      "name": "Batteuse \u00c0 Bol 1200 W",
+      "prix_comparaison": 2601200,
+      "variation": 108400
+    },
+    {
+      "list_id": 2789,
+      "prix_base": 1771700,
+      "name": "Gazini\u00e8re 120 L",
+      "prix_comparaison": 1848800,
+      "variation": 77100
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 11444,
-      "prix_base": 8300,
-      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
-      "prix_comparaison": 9800,
-      "variation": 1500
+      "list_id": 2850,
+      "prix_base": 260400,
+      "name": "Croquette pour chien Dog Puppy Medium 15 Kg",
+      "prix_comparaison": 234000,
+      "variation": -26400
     },
     {
-      "list_id": 13202,
-      "prix_base": 30500,
-      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
-      "prix_comparaison": 35100,
-      "variation": 4600
+      "list_id": 2847,
+      "prix_base": 253200,
+      "name": "Croquette pour chien Dog Intensive 15 Kg",
+      "prix_comparaison": 228000,
+      "variation": -25200
+    },
+    {
+      "list_id": 2798,
+      "prix_base": 96600,
+      "name": "Sense croquette pour chien D Adult Salm 2 Kg",
+      "prix_comparaison": 81600,
+      "variation": -15000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 11444,
-      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
-      "prix_base": 8300,
-      "prix_comparaison": 9800,
-      "indice_prix": 118.07228915662651
+      "list_id": 2739,
+      "name": "Savon Olive 150 G",
+      "prix_base": 3200,
+      "prix_comparaison": 3600,
+      "indice_prix": 112.5
     },
     {
-      "list_id": 13202,
-      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
-      "prix_base": 30500,
-      "prix_comparaison": 35100,
-      "indice_prix": 115.08196721311475
+      "list_id": 2738,
+      "name": "Savon Glyc\u00e9rine 150 G",
+      "prix_base": 3200,
+      "prix_comparaison": 3600,
+      "indice_prix": 112.5
+    },
+    {
+      "list_id": 2759,
+      "name": "Bande Extensible 24 Mx6 Cmx2",
+      "prix_base": 3400,
+      "prix_comparaison": 3800,
+      "indice_prix": 111.76470588235294
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 13202,
-      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
-      "prix_base": 30500,
-      "prix_comparaison": 35100,
-      "indice_prix": 115.08196721311475
+      "list_id": 2852,
+      "name": "croquette pour chien Dog Puppy Mini 3 Kg",
+      "prix_base": 91200,
+      "prix_comparaison": 76800,
+      "indice_prix": 84.21052631578948
     },
     {
-      "list_id": 11444,
-      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
-      "prix_base": 8300,
-      "prix_comparaison": 9800,
-      "indice_prix": 118.07228915662651
+      "list_id": 2798,
+      "name": "Sense croquette pour chien D Adult Salm 2 Kg",
+      "prix_base": 96600,
+      "prix_comparaison": 81600,
+      "indice_prix": 84.472049689441
+    },
+    {
+      "list_id": 2845,
+      "name": "Croquette pour chien Dog Turkey Gf 2 Kg",
+      "prix_base": 84000,
+      "prix_comparaison": 72000,
+      "indice_prix": 85.71428571428571
     }
   ]
 }
