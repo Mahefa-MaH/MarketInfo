@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "smartphones_14841samsunggalaxys24ultra256goviolet_html",
-      "name": "SAMSUNG Galaxy S24 Ultra 256 Go Violet",
-      "prix_base": 6427000,
-      "prix_comparaison": 6867000,
-      "variation": 440000
+      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
+      "name": "Yaourt Yoplait nature sucre 90g",
+      "prix_base": 850,
+      "prix_comparaison": 990,
+      "variation": 140
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
+      "name": "Yaourt Yoplait fraise 90g",
+      "prix_base": 850,
+      "prix_comparaison": 990,
+      "variation": 140
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 6048000,
-      "prix_comparaison": 5632000,
-      "variation": -416000
+      "cle": "yaourtsnaturesetaromatises_8120yaourtyoplaitcitron90g_html",
+      "name": "Yaourt Yoplait citron 90g",
+      "prix_base": 850,
+      "prix_comparaison": 990,
+      "variation": 140
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
+      "name": "Yaourt Yoplait fraise 90g",
+      "prix_base": 850,
+      "prix_comparaison": 990,
+      "variation": 140
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "ordinateursportables_14811pcportableasusvivobook17s1702173hdintelcorei31220pram8go512gossdwin11_html",
-      "name": "PC Portable ASUS VivoBook 17 S1702 | 17,3 HD+ - Intel Core i3-1220P - RAM 8Go - 512Go SSD - Win 11",
-      "prix_base": 2558000,
-      "prix_comparaison": 2845000,
-      "indice_prix": 111.21970289288507
+      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
+      "name": "Yaourt Yoplait nature sucre 90g",
+      "prix_base": 850,
+      "prix_comparaison": 990,
+      "indice_prix": 116.47058823529412
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
+      "name": "Yaourt Yoplait fraise 90g",
+      "prix_base": 850,
+      "prix_comparaison": 990,
+      "indice_prix": 116.47058823529412
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
-      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
-      "prix_base": 582000,
-      "prix_comparaison": 439000,
-      "indice_prix": 75.4295532646048
+      "cle": "yaourtsnaturesetaromatises_8120yaourtyoplaitcitron90g_html",
+      "name": "Yaourt Yoplait citron 90g",
+      "prix_base": 850,
+      "prix_comparaison": 990,
+      "indice_prix": 116.47058823529412
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
+      "name": "Yaourt Yoplait fraise 90g",
+      "prix_base": 850,
+      "prix_comparaison": 990,
+      "indice_prix": 116.47058823529412
     }
   ]
 }
