@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_4951rizdetablemakalioka5kg_html",
-      "name": "Riz de table Makalioka 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "riz_7289rizblancdeitasy5kg_html",
       "name": "Riz blanc de l'Itasy 5kg",
       "prix_base": 18400,
@@ -21,6 +13,14 @@
       "name": "Farine de riz 1kg",
       "prix_base": 5000,
       "prix_comparaison": 5000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14900,
+      "prix_comparaison": 14900,
       "variation": 0,
       "indice_prix": 100.0
     }
