@@ -147,6 +147,16 @@
    - Prix actuel: 239,700 Ar
    - Variation: +10,000 Ar
 
+30. **Friteuse Sans Huile 1000 W**
+   - Prix avant: 288,500 Ar
+   - Prix actuel: 301,100 Ar
+   - Variation: +12,600 Ar
+
+31. **Friteuse Sans Huile 1500 W**
+   - Prix avant: 329,900 Ar
+   - Prix actuel: 344,300 Ar
+   - Variation: +14,400 Ar
+
 
 
 ## Indice de prix
@@ -161,137 +171,147 @@
    - Prix actuel: 239,700 Ar
    - Indice de prix : 104.35
 
-3. **Déodorant Spray Dry Comfort 200 Ml**
+3. **Friteuse Sans Huile 1500 W**
+   - Prix avant: 329,900 Ar
+   - Prix actuel: 344,300 Ar
+   - Indice de prix : 104.36
+
+4. **Friteuse Sans Huile 1000 W**
+   - Prix avant: 288,500 Ar
+   - Prix actuel: 301,100 Ar
+   - Indice de prix : 104.37
+
+5. **Déodorant Spray Dry Comfort 200 Ml**
    - Prix avant: 20,400 Ar
    - Prix actuel: 21,300 Ar
    - Indice de prix : 104.41
 
-4. **Déodorant Spray Pearl & Beauty 200 Ml**
+6. **Déodorant Spray Pearl & Beauty 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-5. **Déodorant Spray Invisible Black & White Clear 200 Ml**
+7. **Déodorant Spray Invisible Black & White Clear 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-6. **Déodorant Spray Dry Fresh Feminin 200 Ml**
+8. **Déodorant Spray Dry Fresh Feminin 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-7. **Déodorant Spray Fresh Active 200 Ml**
+9. **Déodorant Spray Fresh Active 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-8. **Déodorant Spray Dry Impact Men 200 Ml**
+10. **Déodorant Spray Dry Impact Men 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-9. **Déodorant Spray Cool Kick 200 Ml**
+11. **Déodorant Spray Cool Kick 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-10. **Déodorant Spray Masculin Silver Protect 200 Ml**
+12. **Déodorant Spray Masculin Silver Protect 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-11. **Déodorant Spray Invisible Black & White 200 Ml**
+13. **Déodorant Spray Invisible Black & White 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-12. **Déodorant Spray Deep 200 Ml**
+14. **Déodorant Spray Deep 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-13. **Déodorant Spray Dry Fresh Masculin 200 Ml**
+15. **Déodorant Spray Dry Fresh Masculin 200 Ml**
    - Prix avant: 24,457 Ar
    - Prix actuel: 25,600 Ar
    - Indice de prix : 104.67
 
-14. **Déodorant Bille Masculin Deep 50 Ml**
+16. **Déodorant Bille Masculin Deep 50 Ml**
    - Prix avant: 19,647 Ar
    - Prix actuel: 20,600 Ar
    - Indice de prix : 104.85
 
-15. **Déodorant Bille Feminin Fresh 50 Ml**
+17. **Déodorant Bille Feminin Fresh 50 Ml**
    - Prix avant: 19,647 Ar
    - Prix actuel: 20,600 Ar
    - Indice de prix : 104.85
 
-16. **Déodorant Bille Pearl&Beauty 50 Ml**
+18. **Déodorant Bille Pearl&Beauty 50 Ml**
    - Prix avant: 19,647 Ar
    - Prix actuel: 20,600 Ar
    - Indice de prix : 104.85
 
-17. **Déodorant Bille Dry Fresh Féminin 50 Ml**
+19. **Déodorant Bille Dry Fresh Féminin 50 Ml**
    - Prix avant: 16,200 Ar
    - Prix actuel: 17,000 Ar
    - Indice de prix : 104.94
 
-18. **Déodorant Bille Silver Protect Homme 50 Ml**
+20. **Déodorant Bille Silver Protect Homme 50 Ml**
    - Prix avant: 16,200 Ar
    - Prix actuel: 17,000 Ar
    - Indice de prix : 104.94
 
-19. **Déodorant Bille Masculin Fresh 50 Ml**
+21. **Déodorant Bille Masculin Fresh 50 Ml**
    - Prix avant: 16,200 Ar
    - Prix actuel: 17,000 Ar
    - Indice de prix : 104.94
 
-20. **Déodorant Bille Masculin Aqua Cool 50 Ml**
+22. **Déodorant Bille Masculin Aqua Cool 50 Ml**
    - Prix avant: 19,600 Ar
    - Prix actuel: 20,600 Ar
    - Indice de prix : 105.10
 
-21. **Déodorant Bille Energy Fresh 50 Ml**
+23. **Déodorant Bille Energy Fresh 50 Ml**
    - Prix avant: 19,600 Ar
    - Prix actuel: 20,600 Ar
    - Indice de prix : 105.10
 
-22. **Déodorant Bille Dry Fresh Masculin 50 Ml**
+24. **Déodorant Bille Dry Fresh Masculin 50 Ml**
    - Prix avant: 19,600 Ar
    - Prix actuel: 20,600 Ar
    - Indice de prix : 105.10
 
-23. **Savon Creme Soft 100 G**
+25. **Savon Creme Soft 100 G**
    - Prix avant: 5,600 Ar
    - Prix actuel: 5,900 Ar
    - Indice de prix : 105.36
 
-24. **Déodorant Goyavé & Thé Rouge 200 Ml**
+26. **Déodorant Goyavé & Thé Rouge 200 Ml**
    - Prix avant: 12,100 Ar
    - Prix actuel: 13,200 Ar
    - Indice de prix : 109.09
 
-25. **Déodorant Anti-Traces Lys Blanc / Aloé Vera 200 Ml**
+27. **Déodorant Anti-Traces Lys Blanc / Aloé Vera 200 Ml**
    - Prix avant: 12,100 Ar
    - Prix actuel: 13,200 Ar
    - Indice de prix : 109.09
 
-26. **Crème À Récurer Citron 750 Ml**
+28. **Crème À Récurer Citron 750 Ml**
    - Prix avant: 6,600 Ar
    - Prix actuel: 7,200 Ar
    - Indice de prix : 109.09
 
-27. **Masque Hydratant Huile D'Amande Douce/Aloé Vera 75 Ml**
+29. **Masque Hydratant Huile D'Amande Douce/Aloé Vera 75 Ml**
    - Prix avant: 12,100 Ar
    - Prix actuel: 13,200 Ar
    - Indice de prix : 109.09
 
-28. **Nettoyant Sol Carrelés À L'Huile De Lin 1 L**
+30. **Nettoyant Sol Carrelés À L'Huile De Lin 1 L**
    - Prix avant: 12,100 Ar
    - Prix actuel: 13,200 Ar
    - Indice de prix : 109.09
 
-29. **Sucre Blanc Cristallisé 1 Kg**
+31. **Sucre Blanc Cristallisé 1 Kg**
    - Prix avant: 7,200 Ar
    - Prix actuel: 7,900 Ar
    - Indice de prix : 109.72

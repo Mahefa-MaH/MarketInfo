@@ -202,6 +202,20 @@
       "prix_base": 229700,
       "prix_comparaison": 239700,
       "variation": 10000
+    },
+    {
+      "list_id": 2771,
+      "name": "Friteuse Sans Huile 1000 W",
+      "prix_base": 288500,
+      "prix_comparaison": 301100,
+      "variation": 12600
+    },
+    {
+      "list_id": 2772,
+      "name": "Friteuse Sans Huile 1500 W",
+      "prix_base": 329900,
+      "prix_comparaison": 344300,
+      "variation": 14400
     }
   ],
   "indice de prix": [
@@ -218,6 +232,20 @@
       "prix_base": 229700,
       "prix_comparaison": 239700,
       "indice_prix": 104.3535045711798
+    },
+    {
+      "list_id": 2772,
+      "name": "Friteuse Sans Huile 1500 W",
+      "prix_base": 329900,
+      "prix_comparaison": 344300,
+      "indice_prix": 104.36495907850863
+    },
+    {
+      "list_id": 2771,
+      "name": "Friteuse Sans Huile 1000 W",
+      "prix_base": 288500,
+      "prix_comparaison": 301100,
+      "indice_prix": 104.36741767764298
     },
     {
       "list_id": 2581,
