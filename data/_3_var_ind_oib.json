@@ -1,150 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
-      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
-      "prix_base": 9000,
-      "prix_comparaison": 9500,
-      "variation": 500
+      "cle": "couches_14913couchesmidi511kgx30pieces_html",
+      "name": "Couches midi 5 - 11kg x 30 pi\u00e8ces",
+      "prix_base": 17700,
+      "prix_comparaison": 19000,
+      "variation": 1300
     },
     {
-      "cle": "protectionshygienefeminine_15092servietteshygieniquesmaxiwingsx8_html",
-      "name": "Serviettes hygi\u00e9niques maxi fit wing x8",
-      "prix_base": 3300,
-      "prix_comparaison": 3500,
-      "variation": 200
+      "cle": "couches_14915couchesmaxi918kgx28pieces_html",
+      "name": "Couches maxi 9-18kg x 28 pi\u00e8ces",
+      "prix_base": 17700,
+      "prix_comparaison": 19000,
+      "variation": 1300
     },
     {
-      "cle": "protectionshygienefeminine_15091servietteshygieniquesdaylongx8_html",
-      "name": "Serviettes hygi\u00e9niques day long coton 29cm x8",
-      "prix_base": 3200,
-      "prix_comparaison": 3400,
-      "variation": 200
-    },
-    {
-      "cle": "protectionshygienefeminine_15089servietteshygieniquesalveole29cmx8_html",
-      "name": "Serviettes hygi\u00e9niques alv\u00e9ole 29cm x8",
-      "prix_base": 3200,
-      "prix_comparaison": 3400,
-      "variation": 200
-    },
-    {
-      "cle": "protectionshygienefeminine_15095servietteshygieniquesextralong29cmx6_html",
-      "name": "Serviettes hygi\u00e9niques extra long 29cm x6",
-      "prix_base": 2850,
-      "prix_comparaison": 3000,
-      "variation": 150
+      "cle": "couches_14911couchesculottestaillelx20pieces_html",
+      "name": "Couches culottes taille L x 20 pi\u00e8ces",
+      "prix_base": 17100,
+      "prix_comparaison": 18000,
+      "variation": 900
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
+      "name": "Olives vertes avec noyau sachet 200g",
+      "prix_base": 3740,
+      "prix_comparaison": 3700,
+      "variation": -40
+    },
+    {
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3740,
+      "prix_comparaison": 3700,
+      "variation": -40
+    },
     {
       "cle": "mouchoirsenpapier_15096mouchoirblancx6_html",
       "name": "10 mouchoirs blancs x6 paquets",
       "prix_base": 3350,
       "prix_comparaison": 3500,
       "variation": 150
-    },
-    {
-      "cle": "protectionshygienefeminine_15086servietteshygieniquesdaylongregularalveolex8_html",
-      "name": "Serviettes hygi\u00e9niques day long r\u00e9gular alv\u00e9ole 23cm x8",
-      "prix_base": 2750,
-      "prix_comparaison": 2900,
-      "variation": 150
-    },
-    {
-      "cle": "protectionshygienefeminine_15088servietteshygieniquesdaylongregularcotonx8_html",
-      "name": "Serviettes hygi\u00e9niques day long regular coton 23cm x8",
-      "prix_base": 2750,
-      "prix_comparaison": 2900,
-      "variation": 150
-    },
-    {
-      "cle": "protectionshygienefeminine_15095servietteshygieniquesextralong29cmx6_html",
-      "name": "Serviettes hygi\u00e9niques extra long 29cm x6",
-      "prix_base": 2850,
-      "prix_comparaison": 3000,
-      "variation": 150
-    },
-    {
-      "cle": "protectionshygienefeminine_15089servietteshygieniquesalveole29cmx8_html",
-      "name": "Serviettes hygi\u00e9niques alv\u00e9ole 29cm x8",
-      "prix_base": 3200,
-      "prix_comparaison": 3400,
-      "variation": 200
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "couches_14913couchesmidi511kgx30pieces_html",
+      "name": "Couches midi 5 - 11kg x 30 pi\u00e8ces",
+      "prix_base": 17700,
+      "prix_comparaison": 19000,
+      "indice_prix": 107.34463276836158
+    },
+    {
+      "cle": "couches_14915couchesmaxi918kgx28pieces_html",
+      "name": "Couches maxi 9-18kg x 28 pi\u00e8ces",
+      "prix_base": 17700,
+      "prix_comparaison": 19000,
+      "indice_prix": 107.34463276836158
+    },
     {
       "cle": "protectionshygienefeminine_15091servietteshygieniquesdaylongx8_html",
       "name": "Serviettes hygi\u00e9niques day long coton 29cm x8",
       "prix_base": 3200,
       "prix_comparaison": 3400,
       "indice_prix": 106.25
-    },
-    {
-      "cle": "protectionshygienefeminine_15089servietteshygieniquesalveole29cmx8_html",
-      "name": "Serviettes hygi\u00e9niques alv\u00e9ole 29cm x8",
-      "prix_base": 3200,
-      "prix_comparaison": 3400,
-      "indice_prix": 106.25
-    },
-    {
-      "cle": "protectionshygienefeminine_15092servietteshygieniquesmaxiwingsx8_html",
-      "name": "Serviettes hygi\u00e9niques maxi fit wing x8",
-      "prix_base": 3300,
-      "prix_comparaison": 3500,
-      "indice_prix": 106.06060606060606
-    },
-    {
-      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
-      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
-      "prix_base": 9000,
-      "prix_comparaison": 9500,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "protectionshygienefeminine_15088servietteshygieniquesdaylongregularcotonx8_html",
-      "name": "Serviettes hygi\u00e9niques day long regular coton 23cm x8",
-      "prix_base": 2750,
-      "prix_comparaison": 2900,
-      "indice_prix": 105.45454545454545
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
+      "name": "Olives vertes avec noyau sachet 200g",
+      "prix_base": 3740,
+      "prix_comparaison": 3700,
+      "indice_prix": 98.93048128342247
+    },
+    {
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3740,
+      "prix_comparaison": 3700,
+      "indice_prix": 98.93048128342247
+    },
     {
       "cle": "mouchoirsenpapier_15096mouchoirblancx6_html",
       "name": "10 mouchoirs blancs x6 paquets",
       "prix_base": 3350,
       "prix_comparaison": 3500,
       "indice_prix": 104.4776119402985
-    },
-    {
-      "cle": "protectionshygienefeminine_15095servietteshygieniquesextralong29cmx6_html",
-      "name": "Serviettes hygi\u00e9niques extra long 29cm x6",
-      "prix_base": 2850,
-      "prix_comparaison": 3000,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "protectionshygienefeminine_15086servietteshygieniquesdaylongregularalveolex8_html",
-      "name": "Serviettes hygi\u00e9niques day long r\u00e9gular alv\u00e9ole 23cm x8",
-      "prix_base": 2750,
-      "prix_comparaison": 2900,
-      "indice_prix": 105.45454545454545
-    },
-    {
-      "cle": "protectionshygienefeminine_15088servietteshygieniquesdaylongregularcotonx8_html",
-      "name": "Serviettes hygi\u00e9niques day long regular coton 23cm x8",
-      "prix_base": 2750,
-      "prix_comparaison": 2900,
-      "indice_prix": 105.45454545454545
-    },
-    {
-      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
-      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
-      "prix_base": 9000,
-      "prix_comparaison": 9500,
-      "indice_prix": 105.55555555555556
     }
   ]
 }

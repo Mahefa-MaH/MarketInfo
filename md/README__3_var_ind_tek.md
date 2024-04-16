@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Machine À Expresso Avec Broyeur 1450 w**
-   - Prix avant: 2,543,000 Ar
-   - Prix actuel: 2,653,600 Ar
-   - Variation: +110,600 Ar
+1. **Poudre De Lait Entier 28% D'Origine Animale 25 Kg**
+   - Prix avant: 843,500 Ar
+   - Prix actuel: 920,200 Ar
+   - Variation: +76,700 Ar
 
-2. **Batteuse À Bol 1200 W**
-   - Prix avant: 2,492,800 Ar
-   - Prix actuel: 2,601,200 Ar
-   - Variation: +108,400 Ar
+2. **Micro-Onde 1000 W**
+   - Prix avant: 808,100 Ar
+   - Prix actuel: 843,200 Ar
+   - Variation: +35,100 Ar
 
-3. **Gazinière 120 L**
-   - Prix avant: 1,771,700 Ar
-   - Prix actuel: 1,848,800 Ar
-   - Variation: +77,100 Ar
+3. **Micro-Onde 800 W**
+   - Prix avant: 641,300 Ar
+   - Prix actuel: 669,200 Ar
+   - Variation: +27,900 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Croquette pour chien Dog Puppy Medium 15 Kg**
-   - Prix avant: 260,400 Ar
-   - Prix actuel: 234,000 Ar
-   - Variation: -26,400 Ar
+1. **Pré Lait Infantile 1 er  âge 400 G**
+   - Prix avant: 62,400 Ar
+   - Prix actuel: 43,800 Ar
+   - Variation: -18,600 Ar
 
-2. **Croquette pour chien Dog Intensive 15 Kg**
-   - Prix avant: 253,200 Ar
-   - Prix actuel: 228,000 Ar
-   - Variation: -25,200 Ar
+2. **Céréales Lactées Blé-Fruits 1 Er âge 250 G**
+   - Prix avant: 21,500 Ar
+   - Prix actuel: 19,300 Ar
+   - Variation: -2,200 Ar
 
-3. **Sense croquette pour chien D Adult Salm 2 Kg**
-   - Prix avant: 96,600 Ar
-   - Prix actuel: 81,600 Ar
-   - Variation: -15,000 Ar
+3. **Céréales Lactées Blé-Miel 1 er âge 250 G**
+   - Prix avant: 21,500 Ar
+   - Prix actuel: 19,300 Ar
+   - Variation: -2,200 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Savon Olive 150 G**
-   - Prix avant: 3,200 Ar
-   - Prix actuel: 3,600 Ar
-   - Indice de prix : 112.50
+1. **Jus Cocktail 150 Ml**
+   - Prix avant: 700 Ar
+   - Prix actuel: 900 Ar
+   - Indice de prix : 128.57
 
-2. **Savon Glycérine 150 G**
-   - Prix avant: 3,200 Ar
-   - Prix actuel: 3,600 Ar
-   - Indice de prix : 112.50
+2. **Jus Orange 150 Ml**
+   - Prix avant: 700 Ar
+   - Prix actuel: 900 Ar
+   - Indice de prix : 128.57
 
-3. **Bande Extensible 24 Mx6 Cmx2**
-   - Prix avant: 3,400 Ar
-   - Prix actuel: 3,800 Ar
-   - Indice de prix : 111.76
+3. **Gaufrettes Napolitaner noisette 175 G**
+   - Prix avant: 15,200 Ar
+   - Prix actuel: 19,000 Ar
+   - Indice de prix : 125.00
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **croquette pour chien Dog Puppy Mini 3 Kg**
-   - Prix avant: 91,200 Ar
-   - Prix actuel: 76,800 Ar
-   - Indice de prix : 84.21
+1. **Pré Lait Infantile 1 er  âge 400 G**
+   - Prix avant: 62,400 Ar
+   - Prix actuel: 43,800 Ar
+   - Indice de prix : 70.19
 
-2. **Sense croquette pour chien D Adult Salm 2 Kg**
-   - Prix avant: 96,600 Ar
-   - Prix actuel: 81,600 Ar
-   - Indice de prix : 84.47
+2. **Céréales Lactées Blé-Fruits 1 Er âge 250 G**
+   - Prix avant: 21,500 Ar
+   - Prix actuel: 19,300 Ar
+   - Indice de prix : 89.77
 
-3. **Croquette pour chien Dog Turkey Gf 2 Kg**
-   - Prix avant: 84,000 Ar
-   - Prix actuel: 72,000 Ar
-   - Indice de prix : 85.71
+3. **Céréales Lactées Blé-Miel 1 er âge 250 G**
+   - Prix avant: 21,500 Ar
+   - Prix actuel: 19,300 Ar
+   - Indice de prix : 89.77
 

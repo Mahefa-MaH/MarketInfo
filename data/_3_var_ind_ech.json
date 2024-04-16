@@ -1,122 +1,59 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_saucedhuitresredriverbridge710grs_",
-      "name": "Sauce d\u2019hu\u00eetres red river bridge  710grs",
-      "prix_base": 10900,
-      "prix_comparaison": 18590,
-      "variation": 7690
-    },
-    {
-      "cle": "produit_saccongelationcarrefour3lx50_",
-      "name": "Sac de cong\u00e9lation simple Carrefour\u2122 3L x 50",
-      "prix_base": 8160,
-      "prix_comparaison": 14540,
-      "variation": 6380
-    },
-    {
-      "cle": "produit_saucehuitrevegetarienneredriverbridge710grs_",
-      "name": "Sauce huitre v\u00e9g\u00e9tarienne red river bridge 710grs",
-      "prix_base": 12820,
-      "prix_comparaison": 18590,
-      "variation": 5770
-    },
-    {
-      "cle": "produit_pommessucrees1kggrandcalibre_",
-      "name": "Angivy 1kg",
-      "prix_base": 4700,
-      "prix_comparaison": 5400,
-      "variation": 700
-    },
-    {
-      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
-      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
-      "prix_base": 2000,
-      "prix_comparaison": 2700,
-      "variation": 700
+      "cle": "produit_eggnoodlesredriverbridge400grs_",
+      "name": "Egg noodles red river bridge 400grs",
+      "prix_base": 9490,
+      "prix_comparaison": 12180,
+      "variation": 2690
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_coriandre1botte_",
-      "name": "Coriandre 1 botte",
-      "prix_base": 5400,
-      "prix_comparaison": 3600,
-      "variation": -1800
+      "cle": "produit_farinedesarrasinsarrazin_",
+      "name": "Farine de Sarrasin Treblec\u2122 1kg",
+      "prix_base": 36233,
+      "prix_comparaison": 35000,
+      "variation": -1233
     },
     {
-      "cle": "produit_menthe1botte_",
-      "name": "Menthe 1 botte",
-      "prix_base": 1600,
-      "prix_comparaison": 1400,
-      "variation": -200
-    },
-    {
-      "cle": "produit_gingembre1kg_",
-      "name": "Gingembre 1Kg",
-      "prix_base": 4667,
-      "prix_comparaison": 4533,
-      "variation": -134
-    },
-    {
-      "cle": "produit_bredeanamamy500g_",
-      "name": "Anamamy 250g | Br\u00e8des",
-      "prix_base": 800,
-      "prix_comparaison": 667,
-      "variation": -133
-    },
-    {
-      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 1600,
-      "prix_comparaison": 2000,
-      "variation": 400
+      "cle": "produit_eggnoodlesredriverbridge400grs_",
+      "name": "Egg noodles red river bridge 400grs",
+      "prix_base": 9490,
+      "prix_comparaison": 12180,
+      "variation": 2690
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_saccongelationcarrefour3lx50_",
-      "name": "Sac de cong\u00e9lation simple Carrefour\u2122 3L x 50",
-      "prix_base": 8160,
-      "prix_comparaison": 14540,
-      "indice_prix": 178.18627450980392
+      "cle": "produit_eggnoodlesredriverbridge400grs_",
+      "name": "Egg noodles red river bridge 400grs",
+      "prix_base": 9490,
+      "prix_comparaison": 12180,
+      "indice_prix": 128.34562697576396
     },
     {
-      "cle": "produit_saucedhuitresredriverbridge710grs_",
-      "name": "Sauce d\u2019hu\u00eetres red river bridge  710grs",
-      "prix_base": 10900,
-      "prix_comparaison": 18590,
-      "indice_prix": 170.55045871559633
-    },
-    {
-      "cle": "produit_saucehuitrevegetarienneredriverbridge710grs_",
-      "name": "Sauce huitre v\u00e9g\u00e9tarienne red river bridge 710grs",
-      "prix_base": 12820,
-      "prix_comparaison": 18590,
-      "indice_prix": 145.00780031201248
+      "cle": "produit_farinedesarrasinsarrazin_",
+      "name": "Farine de Sarrasin Treblec\u2122 1kg",
+      "prix_base": 36233,
+      "prix_comparaison": 35000,
+      "indice_prix": 96.5970248116358
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_coriandre1botte_",
-      "name": "Coriandre 1 botte",
-      "prix_base": 5400,
-      "prix_comparaison": 3600,
-      "indice_prix": 66.66666666666667
+      "cle": "produit_farinedesarrasinsarrazin_",
+      "name": "Farine de Sarrasin Treblec\u2122 1kg",
+      "prix_base": 36233,
+      "prix_comparaison": 35000,
+      "indice_prix": 96.5970248116358
     },
     {
-      "cle": "produit_bredeanamamy500g_",
-      "name": "Anamamy 250g | Br\u00e8des",
-      "prix_base": 800,
-      "prix_comparaison": 667,
-      "indice_prix": 83.375
-    },
-    {
-      "cle": "produit_menthe1botte_",
-      "name": "Menthe 1 botte",
-      "prix_base": 1600,
-      "prix_comparaison": 1400,
-      "indice_prix": 87.5
+      "cle": "produit_eggnoodlesredriverbridge400grs_",
+      "name": "Egg noodles red river bridge 400grs",
+      "prix_base": 9490,
+      "prix_comparaison": 12180,
+      "indice_prix": 128.34562697576396
     }
   ]
 }

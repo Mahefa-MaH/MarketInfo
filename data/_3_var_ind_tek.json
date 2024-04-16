@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 2710,
-      "prix_base": 2543000,
-      "name": "Machine \u00c0 Expresso Avec Broyeur 1450 w",
-      "prix_comparaison": 2653600,
-      "variation": 110600
+      "list_id": 3133,
+      "prix_base": 843500,
+      "name": "Poudre De Lait Entier 28% D'Origine Animale 25 Kg",
+      "prix_comparaison": 920200,
+      "variation": 76700
     },
     {
-      "list_id": 2675,
-      "prix_base": 2492800,
-      "name": "Batteuse \u00c0 Bol 1200 W",
-      "prix_comparaison": 2601200,
-      "variation": 108400
+      "list_id": 2918,
+      "prix_base": 808100,
+      "name": "Micro-Onde 1000 W",
+      "prix_comparaison": 843200,
+      "variation": 35100
     },
     {
-      "list_id": 2789,
-      "prix_base": 1771700,
-      "name": "Gazini\u00e8re 120 L",
-      "prix_comparaison": 1848800,
-      "variation": 77100
+      "list_id": 2917,
+      "prix_base": 641300,
+      "name": "Micro-Onde 800 W",
+      "prix_comparaison": 669200,
+      "variation": 27900
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 2850,
-      "prix_base": 260400,
-      "name": "Croquette pour chien Dog Puppy Medium 15 Kg",
-      "prix_comparaison": 234000,
-      "variation": -26400
+      "list_id": 942,
+      "prix_base": 62400,
+      "name": "Pr\u00e9 Lait Infantile 1 er  \u00e2ge 400 G",
+      "prix_comparaison": 43800,
+      "variation": -18600
     },
     {
-      "list_id": 2847,
-      "prix_base": 253200,
-      "name": "Croquette pour chien Dog Intensive 15 Kg",
-      "prix_comparaison": 228000,
-      "variation": -25200
+      "list_id": 946,
+      "prix_base": 21500,
+      "name": "C\u00e9r\u00e9ales Lact\u00e9es Bl\u00e9-Fruits 1 Er \u00e2ge 250 G",
+      "prix_comparaison": 19300,
+      "variation": -2200
     },
     {
-      "list_id": 2798,
-      "prix_base": 96600,
-      "name": "Sense croquette pour chien D Adult Salm 2 Kg",
-      "prix_comparaison": 81600,
-      "variation": -15000
+      "list_id": 947,
+      "prix_base": 21500,
+      "name": "C\u00e9r\u00e9ales Lact\u00e9es Bl\u00e9-Miel 1 er \u00e2ge 250 G",
+      "prix_comparaison": 19300,
+      "variation": -2200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 2739,
-      "name": "Savon Olive 150 G",
-      "prix_base": 3200,
-      "prix_comparaison": 3600,
-      "indice_prix": 112.5
+      "list_id": 3081,
+      "name": "Jus Cocktail 150 Ml",
+      "prix_base": 700,
+      "prix_comparaison": 900,
+      "indice_prix": 128.57142857142858
     },
     {
-      "list_id": 2738,
-      "name": "Savon Glyc\u00e9rine 150 G",
-      "prix_base": 3200,
-      "prix_comparaison": 3600,
-      "indice_prix": 112.5
+      "list_id": 3080,
+      "name": "Jus Orange 150 Ml",
+      "prix_base": 700,
+      "prix_comparaison": 900,
+      "indice_prix": 128.57142857142858
     },
     {
-      "list_id": 2759,
-      "name": "Bande Extensible 24 Mx6 Cmx2",
-      "prix_base": 3400,
-      "prix_comparaison": 3800,
-      "indice_prix": 111.76470588235294
+      "list_id": 965,
+      "name": "Gaufrettes Napolitaner noisette 175 G",
+      "prix_base": 15200,
+      "prix_comparaison": 19000,
+      "indice_prix": 125.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 2852,
-      "name": "croquette pour chien Dog Puppy Mini 3 Kg",
-      "prix_base": 91200,
-      "prix_comparaison": 76800,
-      "indice_prix": 84.21052631578948
+      "list_id": 942,
+      "name": "Pr\u00e9 Lait Infantile 1 er  \u00e2ge 400 G",
+      "prix_base": 62400,
+      "prix_comparaison": 43800,
+      "indice_prix": 70.1923076923077
     },
     {
-      "list_id": 2798,
-      "name": "Sense croquette pour chien D Adult Salm 2 Kg",
-      "prix_base": 96600,
-      "prix_comparaison": 81600,
-      "indice_prix": 84.472049689441
+      "list_id": 946,
+      "name": "C\u00e9r\u00e9ales Lact\u00e9es Bl\u00e9-Fruits 1 Er \u00e2ge 250 G",
+      "prix_base": 21500,
+      "prix_comparaison": 19300,
+      "indice_prix": 89.76744186046511
     },
     {
-      "list_id": 2845,
-      "name": "Croquette pour chien Dog Turkey Gf 2 Kg",
-      "prix_base": 84000,
-      "prix_comparaison": 72000,
-      "indice_prix": 85.71428571428571
+      "list_id": 947,
+      "name": "C\u00e9r\u00e9ales Lact\u00e9es Bl\u00e9-Miel 1 er \u00e2ge 250 G",
+      "prix_base": 21500,
+      "prix_comparaison": 19300,
+      "indice_prix": 89.76744186046511
     }
   ]
 }
