@@ -3,36 +3,148 @@
     {
       "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
       "name": "Serviettes hygi\u00e9niques ultra maxi x24",
-      "prix_base": 7900,
-      "prix_comparaison": 9000,
-      "variation": 1100
+      "prix_base": 9000,
+      "prix_comparaison": 9500,
+      "variation": 500
+    },
+    {
+      "cle": "protectionshygienefeminine_15092servietteshygieniquesmaxiwingsx8_html",
+      "name": "Serviettes hygi\u00e9niques maxi fit wing x8",
+      "prix_base": 3300,
+      "prix_comparaison": 3500,
+      "variation": 200
+    },
+    {
+      "cle": "protectionshygienefeminine_15091servietteshygieniquesdaylongx8_html",
+      "name": "Serviettes hygi\u00e9niques day long coton 29cm x8",
+      "prix_base": 3200,
+      "prix_comparaison": 3400,
+      "variation": 200
+    },
+    {
+      "cle": "protectionshygienefeminine_15089servietteshygieniquesalveole29cmx8_html",
+      "name": "Serviettes hygi\u00e9niques alv\u00e9ole 29cm x8",
+      "prix_base": 3200,
+      "prix_comparaison": 3400,
+      "variation": 200
+    },
+    {
+      "cle": "protectionshygienefeminine_15095servietteshygieniquesextralong29cmx6_html",
+      "name": "Serviettes hygi\u00e9niques extra long 29cm x6",
+      "prix_base": 2850,
+      "prix_comparaison": 3000,
+      "variation": 150
     }
   ],
   "prix_diminues": [
     {
-      "cle": "nappesserviettesessuietout_14065serviettesdetable60pieces_html",
-      "name": "Mini-serviettes de table 60 pi\u00e8ces",
-      "prix_base": 1100,
-      "prix_comparaison": 1190,
-      "variation": 90
+      "cle": "mouchoirsenpapier_15096mouchoirblancx6_html",
+      "name": "10 mouchoirs blancs x6 paquets",
+      "prix_base": 3350,
+      "prix_comparaison": 3500,
+      "variation": 150
+    },
+    {
+      "cle": "protectionshygienefeminine_15086servietteshygieniquesdaylongregularalveolex8_html",
+      "name": "Serviettes hygi\u00e9niques day long r\u00e9gular alv\u00e9ole 23cm x8",
+      "prix_base": 2750,
+      "prix_comparaison": 2900,
+      "variation": 150
+    },
+    {
+      "cle": "protectionshygienefeminine_15088servietteshygieniquesdaylongregularcotonx8_html",
+      "name": "Serviettes hygi\u00e9niques day long regular coton 23cm x8",
+      "prix_base": 2750,
+      "prix_comparaison": 2900,
+      "variation": 150
+    },
+    {
+      "cle": "protectionshygienefeminine_15095servietteshygieniquesextralong29cmx6_html",
+      "name": "Serviettes hygi\u00e9niques extra long 29cm x6",
+      "prix_base": 2850,
+      "prix_comparaison": 3000,
+      "variation": 150
+    },
+    {
+      "cle": "protectionshygienefeminine_15089servietteshygieniquesalveole29cmx8_html",
+      "name": "Serviettes hygi\u00e9niques alv\u00e9ole 29cm x8",
+      "prix_base": 3200,
+      "prix_comparaison": 3400,
+      "variation": 200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "pates_9004coquillettes500g_html",
-      "name": "Coquillettes 500g",
-      "prix_base": 5500,
-      "prix_comparaison": 6500,
-      "indice_prix": 118.18181818181819
+      "cle": "protectionshygienefeminine_15091servietteshygieniquesdaylongx8_html",
+      "name": "Serviettes hygi\u00e9niques day long coton 29cm x8",
+      "prix_base": 3200,
+      "prix_comparaison": 3400,
+      "indice_prix": 106.25
+    },
+    {
+      "cle": "protectionshygienefeminine_15089servietteshygieniquesalveole29cmx8_html",
+      "name": "Serviettes hygi\u00e9niques alv\u00e9ole 29cm x8",
+      "prix_base": 3200,
+      "prix_comparaison": 3400,
+      "indice_prix": 106.25
+    },
+    {
+      "cle": "protectionshygienefeminine_15092servietteshygieniquesmaxiwingsx8_html",
+      "name": "Serviettes hygi\u00e9niques maxi fit wing x8",
+      "prix_base": 3300,
+      "prix_comparaison": 3500,
+      "indice_prix": 106.06060606060606
+    },
+    {
+      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
+      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
+      "prix_base": 9000,
+      "prix_comparaison": 9500,
+      "indice_prix": 105.55555555555556
+    },
+    {
+      "cle": "protectionshygienefeminine_15088servietteshygieniquesdaylongregularcotonx8_html",
+      "name": "Serviettes hygi\u00e9niques day long regular coton 23cm x8",
+      "prix_base": 2750,
+      "prix_comparaison": 2900,
+      "indice_prix": 105.45454545454545
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
-      "name": "Boisson gazeuse cristal 150cl",
-      "prix_base": 4290,
-      "prix_comparaison": 4600,
-      "indice_prix": 107.22610722610723
+      "cle": "mouchoirsenpapier_15096mouchoirblancx6_html",
+      "name": "10 mouchoirs blancs x6 paquets",
+      "prix_base": 3350,
+      "prix_comparaison": 3500,
+      "indice_prix": 104.4776119402985
+    },
+    {
+      "cle": "protectionshygienefeminine_15095servietteshygieniquesextralong29cmx6_html",
+      "name": "Serviettes hygi\u00e9niques extra long 29cm x6",
+      "prix_base": 2850,
+      "prix_comparaison": 3000,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "protectionshygienefeminine_15086servietteshygieniquesdaylongregularalveolex8_html",
+      "name": "Serviettes hygi\u00e9niques day long r\u00e9gular alv\u00e9ole 23cm x8",
+      "prix_base": 2750,
+      "prix_comparaison": 2900,
+      "indice_prix": 105.45454545454545
+    },
+    {
+      "cle": "protectionshygienefeminine_15088servietteshygieniquesdaylongregularcotonx8_html",
+      "name": "Serviettes hygi\u00e9niques day long regular coton 23cm x8",
+      "prix_base": 2750,
+      "prix_comparaison": 2900,
+      "indice_prix": 105.45454545454545
+    },
+    {
+      "cle": "protectionshygienefeminine_15093servietteshygieniquesultramaxix24_html",
+      "name": "Serviettes hygi\u00e9niques ultra maxi x24",
+      "prix_base": 9000,
+      "prix_comparaison": 9500,
+      "indice_prix": 105.55555555555556
     }
   ]
 }

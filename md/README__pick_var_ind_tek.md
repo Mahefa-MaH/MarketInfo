@@ -2,317 +2,287 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Coffret Eau de toilette et déodorant aérosol Rocky Man 100 Ml/200 Ml**
-   - Prix avant: 61,900 Ar
-   - Prix actuel: 58,200 Ar
-   - Variation: -3,700 Ar
+1. **Crème Main Hydratante Jasmin Secret 75 ml**
+   - Prix avant: 22,100 Ar
+   - Prix actuel: 20,800 Ar
+   - Variation: -1,300 Ar
 
-2. **Savon Creme Soft 100 G**
-   - Prix avant: 5,600 Ar
-   - Prix actuel: 5,900 Ar
+2. **Céréales Riz-Fruits 1 er âge 250 G**
+   - Prix avant: 19,600 Ar
+   - Prix actuel: 19,300 Ar
+   - Variation: -300 Ar
+
+3. **Céréales Riz-Miel 1 er âge 250 G**
+   - Prix avant: 19,600 Ar
+   - Prix actuel: 19,300 Ar
+   - Variation: -300 Ar
+
+4. **Choco Fourré À La Crème Brulée 100 G**
+   - Prix avant: 4,000 Ar
+   - Prix actuel: 4,200 Ar
+   - Variation: +200 Ar
+
+5. **Déodorant Wave  200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
    - Variation: +300 Ar
 
-3. **Crème À Récurer Citron 750 Ml**
-   - Prix avant: 6,600 Ar
-   - Prix actuel: 7,200 Ar
-   - Variation: +600 Ar
+6. **Déodorant Dragon 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Variation: +300 Ar
 
-4. **Sucre Blanc Cristallisé 1 Kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,900 Ar
-   - Variation: +700 Ar
+7. **Déodorant South 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Variation: +300 Ar
 
-5. **Déodorant Bille Dry Fresh Féminin 50 Ml**
-   - Prix avant: 16,200 Ar
-   - Prix actuel: 17,000 Ar
-   - Variation: +800 Ar
+8. **Déodorant Dark Chocolat 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Variation: +300 Ar
 
-6. **Déodorant Bille Silver Protect Homme 50 Ml**
-   - Prix avant: 16,200 Ar
-   - Prix actuel: 17,000 Ar
-   - Variation: +800 Ar
+9. **Déodorant Sport 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Variation: +300 Ar
 
-7. **Déodorant Bille Masculin Fresh 50 Ml**
-   - Prix avant: 16,200 Ar
-   - Prix actuel: 17,000 Ar
-   - Variation: +800 Ar
+10. **Déodorant Fresh 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Variation: +300 Ar
 
-8. **Déodorant Spray Dry Comfort 200 Ml**
-   - Prix avant: 20,400 Ar
-   - Prix actuel: 21,300 Ar
-   - Variation: +900 Ar
+11. **Déodorant Energy 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Variation: +300 Ar
 
-9. **Déodorant Bille Masculin Deep 50 Ml**
-   - Prix avant: 19,647 Ar
-   - Prix actuel: 20,600 Ar
-   - Variation: +952.2000000000007 Ar
+12. **Déodorant Race 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Variation: +300 Ar
 
-10. **Déodorant Bille Feminin Fresh 50 Ml**
-   - Prix avant: 19,647 Ar
-   - Prix actuel: 20,600 Ar
-   - Variation: +952.2000000000007 Ar
+13. **Déodorant Nice 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Variation: +300 Ar
 
-11. **Déodorant Bille Pearl&Beauty 50 Ml**
-   - Prix avant: 19,647 Ar
-   - Prix actuel: 20,600 Ar
-   - Variation: +952.2000000000007 Ar
+14. **Déodorant Pink Secret 150 Ml**
+   - Prix avant: 5,300 Ar
+   - Prix actuel: 5,600 Ar
+   - Variation: +300 Ar
 
-12. **Déodorant Bille Masculin Aqua Cool 50 Ml**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Variation: +1,000 Ar
+15. **Déodorant Fresh Bouquet 150 Ml**
+   - Prix avant: 5,300 Ar
+   - Prix actuel: 5,600 Ar
+   - Variation: +300 Ar
 
-13. **Déodorant Bille Energy Fresh 50 Ml**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Variation: +1,000 Ar
+16. **Thon En Miettes À L'Huile Végétale 185 G**
+   - Prix avant: 5,200 Ar
+   - Prix actuel: 5,500 Ar
+   - Variation: +300 Ar
 
-14. **Déodorant Bille Dry Fresh Masculin 50 Ml**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Variation: +1,000 Ar
+17. **Déodorant Beauty 200 Ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,300 Ar
+   - Variation: +400 Ar
 
-15. **Déodorant Goyavé & Thé Rouge 200 Ml**
-   - Prix avant: 12,100 Ar
-   - Prix actuel: 13,200 Ar
-   - Variation: +1,100 Ar
+18. **Déodorant Kiss 200 Ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,300 Ar
+   - Variation: +400 Ar
 
-16. **Déodorant Anti-Traces Lys Blanc / Aloé Vera 200 Ml**
-   - Prix avant: 12,100 Ar
-   - Prix actuel: 13,200 Ar
-   - Variation: +1,100 Ar
+19. **Déodorant Lovely 200 Ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,300 Ar
+   - Variation: +400 Ar
 
-17. **Masque Hydratant Huile D'Amande Douce/Aloé Vera 75 Ml**
-   - Prix avant: 12,100 Ar
-   - Prix actuel: 13,200 Ar
-   - Variation: +1,100 Ar
+20. **Déodorant Sweet 200 Ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,300 Ar
+   - Variation: +400 Ar
 
-18. **Nettoyant Sol Carrelés À L'Huile De Lin 1 L**
-   - Prix avant: 12,100 Ar
-   - Prix actuel: 13,200 Ar
-   - Variation: +1,100 Ar
+21. **Sucre Vanillé 7,5 G 10 Sachets**
+   - Prix avant: 3,600 Ar
+   - Prix actuel: 4,000 Ar
+   - Variation: +400 Ar
 
-19. **Déodorant Spray Pearl & Beauty 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
+22. **Choco Crème À Tartiner 350 G**
+   - Prix avant: 9,200 Ar
+   - Prix actuel: 9,600 Ar
+   - Variation: +400 Ar
 
-20. **Déodorant Spray Invisible Black & White Clear 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
+23. **Vary Amin'Anana 400 G**
+   - Prix avant: 10,900 Ar
+   - Prix actuel: 11,400 Ar
+   - Variation: +500 Ar
 
-21. **Déodorant Spray Dry Fresh Feminin 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
+24. **Huile De Noisette L'Exceptionnelle 25 Cl**
+   - Prix avant: 26,400 Ar
+   - Prix actuel: 28,800 Ar
+   - Variation: +2,400 Ar
 
-22. **Déodorant Spray Fresh Active 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
+25. **Fromage Le Crémeux 1 Kg**
+   - Prix avant: 47,000 Ar
+   - Prix actuel: 50,400 Ar
+   - Variation: +3,400 Ar
 
-23. **Déodorant Spray Dry Impact Men 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
+26. **Gaufrettes crème cacao 175 G**
+   - Prix avant: 15,200 Ar
+   - Prix actuel: 19,000 Ar
+   - Variation: +3,800 Ar
 
-24. **Déodorant Spray Cool Kick 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
+27. **Huile De Coco Désodorisée Étic Bocal 43 Cl**
+   - Prix avant: 52,800 Ar
+   - Prix actuel: 57,600 Ar
+   - Variation: +4,800 Ar
 
-25. **Déodorant Spray Masculin Silver Protect 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
-
-26. **Déodorant Spray Invisible Black & White 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
-
-27. **Déodorant Spray Deep 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
-
-28. **Déodorant Spray Dry Fresh Masculin 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Variation: +1,142.9000000000015 Ar
-
-29. **Friteuse Sans Huile Avec Affichage Led 1000 W**
-   - Prix avant: 229,700 Ar
-   - Prix actuel: 239,700 Ar
-   - Variation: +10,000 Ar
-
-30. **Friteuse Sans Huile 1000 W**
-   - Prix avant: 288,500 Ar
-   - Prix actuel: 301,100 Ar
-   - Variation: +12,600 Ar
-
-31. **Friteuse Sans Huile 1500 W**
-   - Prix avant: 329,900 Ar
-   - Prix actuel: 344,300 Ar
-   - Variation: +14,400 Ar
+28. **Lait Instantané Ecrémé 750 g**
+   - Prix avant: 77,200 Ar
+   - Prix actuel: 82,100 Ar
+   - Variation: +4,900 Ar
 
 
 
 ## Indice de prix
 
-1. **Coffret Eau de toilette et déodorant aérosol Rocky Man 100 Ml/200 Ml**
-   - Prix avant: 61,900 Ar
-   - Prix actuel: 58,200 Ar
-   - Indice de prix : 94.02
+1. **Crème Main Hydratante Jasmin Secret 75 ml**
+   - Prix avant: 22,100 Ar
+   - Prix actuel: 20,800 Ar
+   - Indice de prix : 94.12
 
-2. **Friteuse Sans Huile Avec Affichage Led 1000 W**
-   - Prix avant: 229,700 Ar
-   - Prix actuel: 239,700 Ar
+2. **Céréales Riz-Fruits 1 er âge 250 G**
+   - Prix avant: 19,600 Ar
+   - Prix actuel: 19,300 Ar
+   - Indice de prix : 98.47
+
+3. **Céréales Riz-Miel 1 er âge 250 G**
+   - Prix avant: 19,600 Ar
+   - Prix actuel: 19,300 Ar
+   - Indice de prix : 98.47
+
+4. **Choco Crème À Tartiner 350 G**
+   - Prix avant: 9,200 Ar
+   - Prix actuel: 9,600 Ar
    - Indice de prix : 104.35
 
-3. **Friteuse Sans Huile 1500 W**
-   - Prix avant: 329,900 Ar
-   - Prix actuel: 344,300 Ar
-   - Indice de prix : 104.36
+5. **Vary Amin'Anana 400 G**
+   - Prix avant: 10,900 Ar
+   - Prix actuel: 11,400 Ar
+   - Indice de prix : 104.59
 
-4. **Friteuse Sans Huile 1000 W**
-   - Prix avant: 288,500 Ar
-   - Prix actuel: 301,100 Ar
-   - Indice de prix : 104.37
+6. **Choco Fourré À La Crème Brulée 100 G**
+   - Prix avant: 4,000 Ar
+   - Prix actuel: 4,200 Ar
+   - Indice de prix : 105.00
 
-5. **Déodorant Spray Dry Comfort 200 Ml**
-   - Prix avant: 20,400 Ar
-   - Prix actuel: 21,300 Ar
-   - Indice de prix : 104.41
+7. **Déodorant Wave  200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Indice de prix : 105.56
 
-6. **Déodorant Spray Pearl & Beauty 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+8. **Déodorant Dragon 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Indice de prix : 105.56
 
-7. **Déodorant Spray Invisible Black & White Clear 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+9. **Déodorant South 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Indice de prix : 105.56
 
-8. **Déodorant Spray Dry Fresh Feminin 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+10. **Déodorant Dark Chocolat 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Indice de prix : 105.56
 
-9. **Déodorant Spray Fresh Active 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+11. **Déodorant Sport 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Indice de prix : 105.56
 
-10. **Déodorant Spray Dry Impact Men 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+12. **Déodorant Fresh 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Indice de prix : 105.56
 
-11. **Déodorant Spray Cool Kick 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+13. **Déodorant Energy 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Indice de prix : 105.56
 
-12. **Déodorant Spray Masculin Silver Protect 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+14. **Déodorant Race 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Indice de prix : 105.56
 
-13. **Déodorant Spray Invisible Black & White 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+15. **Déodorant Nice 200 Ml**
+   - Prix avant: 5,400 Ar
+   - Prix actuel: 5,700 Ar
+   - Indice de prix : 105.56
 
-14. **Déodorant Spray Deep 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+16. **Déodorant Pink Secret 150 Ml**
+   - Prix avant: 5,300 Ar
+   - Prix actuel: 5,600 Ar
+   - Indice de prix : 105.66
 
-15. **Déodorant Spray Dry Fresh Masculin 200 Ml**
-   - Prix avant: 24,457 Ar
-   - Prix actuel: 25,600 Ar
-   - Indice de prix : 104.67
+17. **Déodorant Fresh Bouquet 150 Ml**
+   - Prix avant: 5,300 Ar
+   - Prix actuel: 5,600 Ar
+   - Indice de prix : 105.66
 
-16. **Déodorant Bille Masculin Deep 50 Ml**
-   - Prix avant: 19,647 Ar
-   - Prix actuel: 20,600 Ar
-   - Indice de prix : 104.85
+18. **Thon En Miettes À L'Huile Végétale 185 G**
+   - Prix avant: 5,200 Ar
+   - Prix actuel: 5,500 Ar
+   - Indice de prix : 105.77
 
-17. **Déodorant Bille Feminin Fresh 50 Ml**
-   - Prix avant: 19,647 Ar
-   - Prix actuel: 20,600 Ar
-   - Indice de prix : 104.85
+19. **Déodorant Beauty 200 Ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,300 Ar
+   - Indice de prix : 105.80
 
-18. **Déodorant Bille Pearl&Beauty 50 Ml**
-   - Prix avant: 19,647 Ar
-   - Prix actuel: 20,600 Ar
-   - Indice de prix : 104.85
+20. **Déodorant Kiss 200 Ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,300 Ar
+   - Indice de prix : 105.80
 
-19. **Déodorant Bille Dry Fresh Féminin 50 Ml**
-   - Prix avant: 16,200 Ar
-   - Prix actuel: 17,000 Ar
-   - Indice de prix : 104.94
+21. **Déodorant Lovely 200 Ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,300 Ar
+   - Indice de prix : 105.80
 
-20. **Déodorant Bille Silver Protect Homme 50 Ml**
-   - Prix avant: 16,200 Ar
-   - Prix actuel: 17,000 Ar
-   - Indice de prix : 104.94
+22. **Déodorant Sweet 200 Ml**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 7,300 Ar
+   - Indice de prix : 105.80
 
-21. **Déodorant Bille Masculin Fresh 50 Ml**
-   - Prix avant: 16,200 Ar
-   - Prix actuel: 17,000 Ar
-   - Indice de prix : 104.94
+23. **Lait Instantané Ecrémé 750 g**
+   - Prix avant: 77,200 Ar
+   - Prix actuel: 82,100 Ar
+   - Indice de prix : 106.35
 
-22. **Déodorant Bille Masculin Aqua Cool 50 Ml**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Indice de prix : 105.10
+24. **Fromage Le Crémeux 1 Kg**
+   - Prix avant: 47,000 Ar
+   - Prix actuel: 50,400 Ar
+   - Indice de prix : 107.23
 
-23. **Déodorant Bille Energy Fresh 50 Ml**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Indice de prix : 105.10
-
-24. **Déodorant Bille Dry Fresh Masculin 50 Ml**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Indice de prix : 105.10
-
-25. **Savon Creme Soft 100 G**
-   - Prix avant: 5,600 Ar
-   - Prix actuel: 5,900 Ar
-   - Indice de prix : 105.36
-
-26. **Déodorant Goyavé & Thé Rouge 200 Ml**
-   - Prix avant: 12,100 Ar
-   - Prix actuel: 13,200 Ar
+25. **Huile De Coco Désodorisée Étic Bocal 43 Cl**
+   - Prix avant: 52,800 Ar
+   - Prix actuel: 57,600 Ar
    - Indice de prix : 109.09
 
-27. **Déodorant Anti-Traces Lys Blanc / Aloé Vera 200 Ml**
-   - Prix avant: 12,100 Ar
-   - Prix actuel: 13,200 Ar
+26. **Huile De Noisette L'Exceptionnelle 25 Cl**
+   - Prix avant: 26,400 Ar
+   - Prix actuel: 28,800 Ar
    - Indice de prix : 109.09
 
-28. **Crème À Récurer Citron 750 Ml**
-   - Prix avant: 6,600 Ar
-   - Prix actuel: 7,200 Ar
-   - Indice de prix : 109.09
+27. **Sucre Vanillé 7,5 G 10 Sachets**
+   - Prix avant: 3,600 Ar
+   - Prix actuel: 4,000 Ar
+   - Indice de prix : 111.11
 
-29. **Masque Hydratant Huile D'Amande Douce/Aloé Vera 75 Ml**
-   - Prix avant: 12,100 Ar
-   - Prix actuel: 13,200 Ar
-   - Indice de prix : 109.09
-
-30. **Nettoyant Sol Carrelés À L'Huile De Lin 1 L**
-   - Prix avant: 12,100 Ar
-   - Prix actuel: 13,200 Ar
-   - Indice de prix : 109.09
-
-31. **Sucre Blanc Cristallisé 1 Kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,900 Ar
-   - Indice de prix : 109.72
+28. **Gaufrettes crème cacao 175 G**
+   - Prix avant: 15,200 Ar
+   - Prix actuel: 19,000 Ar
+   - Indice de prix : 125.00
 
