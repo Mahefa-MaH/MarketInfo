@@ -29,6 +29,13 @@
       "variation": 200
     },
     {
+      "list_id": 3124,
+      "name": "D\u00e9odorant Appollo 200 Ml",
+      "prix_base": 5400,
+      "prix_comparaison": 5700,
+      "variation": 300
+    },
+    {
       "list_id": 3122,
       "name": "D\u00e9odorant Wave  200 Ml",
       "prix_base": 5400,
@@ -239,6 +246,13 @@
       "prix_base": 4000,
       "prix_comparaison": 4200,
       "indice_prix": 105.0
+    },
+    {
+      "list_id": 3124,
+      "name": "D\u00e9odorant Appollo 200 Ml",
+      "prix_base": 5400,
+      "prix_comparaison": 5700,
+      "indice_prix": 105.55555555555556
     },
     {
       "list_id": 3122,
