@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_4952rizdeluxemakalioka5kg_html",
-      "name": "Riz de luxe Makalioka 5kg",
-      "prix_base": 19550,
-      "prix_comparaison": 19550,
+      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
+      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
+      "prix_base": 3890,
+      "prix_comparaison": 3890,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_11443rizmakalioka1kg_html",
-      "name": "Riz makalioka 1kg",
-      "prix_base": 4350,
-      "prix_comparaison": 4350,
+      "cle": "riz_11442rizgasymena1kg_html",
+      "name": "Riz gasy mena  1kg",
+      "prix_base": 4250,
+      "prix_comparaison": 4250,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_14597rizmakalioka5kg_html",
-      "name": "Riz makalioka 5kg",
-      "prix_base": 21750,
-      "prix_comparaison": 21750,
+      "cle": "riz_9403rizgasysacde1kg_html",
+      "name": "Riz gasy sac de 1kg",
+      "prix_base": 4490,
+      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     }

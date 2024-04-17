@@ -8,9 +8,3 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Canapé d'angle panoramique convertible -7 places - INDIAN - Tissu 100% polyester - Bleu canard - 360 x 228 cm**
-   - Prix avant: 10,444,000 Ar
-   - Prix actuel: 10,444,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-

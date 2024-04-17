@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "couches_14913couchesmidi511kgx30pieces_html",
-      "name": "Couches midi 5 - 11kg x 30 pi\u00e8ces",
-      "prix_base": 17700,
-      "prix_comparaison": 19000,
-      "variation": 1300
-    },
-    {
-      "cle": "couches_14915couchesmaxi918kgx28pieces_html",
-      "name": "Couches maxi 9-18kg x 28 pi\u00e8ces",
-      "prix_base": 17700,
-      "prix_comparaison": 19000,
-      "variation": 1300
+      "cle": "gelsetblocswc_3370blocwcantitartre4pieces_html",
+      "name": "Bloc WC anti tartre 4 pi\u00e8ces",
+      "prix_base": 6800,
+      "prix_comparaison": 6460,
+      "variation": -340
     }
   ],
   "prix_diminues": [
     {
-      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
-      "name": "Olives vertes avec noyau sachet 200g",
-      "prix_base": 3740,
-      "prix_comparaison": 3700,
-      "variation": -40
-    },
-    {
-      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
-      "prix_base": 3740,
-      "prix_comparaison": 3700,
-      "variation": -40
+      "cle": "cremeschantillyaidesculinaires_580cremeuht1lx635mggrandfermage_html",
+      "name": "Cr\u00e8me UHT 35%mg 1L",
+      "prix_base": 39900,
+      "prix_comparaison": 37905,
+      "variation": -1995
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "couches_14913couchesmidi511kgx30pieces_html",
-      "name": "Couches midi 5 - 11kg x 30 pi\u00e8ces",
-      "prix_base": 17700,
-      "prix_comparaison": 19000,
-      "indice_prix": 107.34463276836158
-    },
-    {
-      "cle": "couches_14915couchesmaxi918kgx28pieces_html",
-      "name": "Couches maxi 9-18kg x 28 pi\u00e8ces",
-      "prix_base": 17700,
-      "prix_comparaison": 19000,
-      "indice_prix": 107.34463276836158
+      "cle": "cremeschantillyaidesculinaires_580cremeuht1lx635mggrandfermage_html",
+      "name": "Cr\u00e8me UHT 35%mg 1L",
+      "prix_base": 39900,
+      "prix_comparaison": 37905,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "cornichonsolivescondiments_1150olivesvertesavecnoyausachet200g_html",
-      "name": "Olives vertes avec noyau sachet 200g",
-      "prix_base": 3740,
-      "prix_comparaison": 3700,
-      "indice_prix": 98.93048128342247
-    },
-    {
-      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
-      "prix_base": 3740,
-      "prix_comparaison": 3700,
-      "indice_prix": 98.93048128342247
+      "cle": "gelsetblocswc_3370blocwcantitartre4pieces_html",
+      "name": "Bloc WC anti tartre 4 pi\u00e8ces",
+      "prix_base": 6800,
+      "prix_comparaison": 6460,
+      "indice_prix": 95.0
     }
   ]
 }
