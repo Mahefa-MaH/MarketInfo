@@ -1,6 +1,6 @@
-# Market Info - File 45
+# Market Info - File 46
 
-## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty**
    - Prix avant: 13,847,000 Ar

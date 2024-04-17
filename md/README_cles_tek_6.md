@@ -1,22 +1,22 @@
-# Market Info - File 43
+# Market Info - File 44
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
-   - Prix avant: 172,500 Ar
-   - Prix actuel: 172,500 Ar
+1. **Riz Makalioka blanc 5 kg**
+   - Prix avant: 18,600 Ar
+   - Prix actuel: 18,600 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre Blanc 250 g**
-   - Prix avant: 3,100 Ar
-   - Prix actuel: 3,100 Ar
+2. **Sucre blanc 1 Kg**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 7,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucrettes blanches  50 g**
-   - Prix avant: 6,300 Ar
-   - Prix actuel: 6,300 Ar
+3. **Sucre Blanc 1 Kg**
+   - Prix avant: 13,700 Ar
+   - Prix actuel: 13,700 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

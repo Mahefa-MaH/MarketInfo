@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13304,
-      "name": "Riz Rouge (Vary mena) 50kg",
-      "prix_base": 240000,
-      "prix_comparaison": 240000,
+      "list_id": 13777,
+      "name": "Riz Complet Rouge Vary Gasy 5kg",
+      "prix_base": 21000,
+      "prix_comparaison": 21000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9700,
-      "prix_comparaison": 9700,
+      "list_id": 1561,
+      "name": "Riz Rouge 5 Kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 11107,
-      "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
-      "prix_base": 184000,
-      "prix_comparaison": 184000,
+      "list_id": 7131,
+      "name": "Riz makalioka rouge 5 kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     }

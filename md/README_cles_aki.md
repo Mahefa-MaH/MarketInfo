@@ -1,6 +1,6 @@
-# Market Info - File 28
+# Market Info - File 29
 
-## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre Blanc (kg)**
    - Prix avant: 6,600 Ar

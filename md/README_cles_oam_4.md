@@ -1,6 +1,6 @@
-# Market Info - File 49
+# Market Info - File 50
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sidéral**
    - Prix avant: 10,786,000 Ar

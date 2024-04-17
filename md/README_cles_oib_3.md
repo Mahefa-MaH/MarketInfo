@@ -1,6 +1,6 @@
-# Market Info - File 25
+# Market Info - File 26
 
-## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Détartrant ménager rouge 1L**
    - Prix avant: 3,890 Ar

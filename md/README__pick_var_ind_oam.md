@@ -1,6 +1,6 @@
-# Market Info - File 47
+# Market Info - File 48
 
-## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
+## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Micro-ondes combiné SAMSUNG MC32J7035AW/EF - Blanc**
    - Prix avant: 1,661,000 Ar
