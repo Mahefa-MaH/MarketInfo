@@ -7,7 +7,17 @@
    - Prix actuel: 29,330 Ar
    - Variation: +2,663 Ar
 
-2. **Chou Fleur 1 pièce**
+2. **Ananas Frais 1 pièce | Riche en Calcium et Vitamine C  | Mûr à consommer le jour même**
+   - Prix avant: 3,300 Ar
+   - Prix actuel: 4,670 Ar
+   - Variation: +1,370 Ar
+
+3. **Ananas Frais 1 pièce |  Grand Calibre | Mûr à consommer le jour même**
+   - Prix avant: 4,000 Ar
+   - Prix actuel: 4,670 Ar
+   - Variation: +670 Ar
+
+4. **Chou Fleur 1 pièce**
    - Prix avant: 4,800 Ar
    - Prix actuel: 5,330 Ar
    - Variation: +530 Ar
@@ -24,27 +34,37 @@
    - Prix actuel: 5,330 Ar
    - Variation: +530 Ar
 
-3. **Ail frais épluché Prêt à cuisiner | 1kg**
+3. **Ananas Frais 1 pièce |  Grand Calibre | Mûr à consommer le jour même**
+   - Prix avant: 4,000 Ar
+   - Prix actuel: 4,670 Ar
+   - Variation: +670 Ar
+
+4. **Ananas Frais 1 pièce | Riche en Calcium et Vitamine C  | Mûr à consommer le jour même**
+   - Prix avant: 3,300 Ar
+   - Prix actuel: 4,670 Ar
+   - Variation: +1,370 Ar
+
+5. **Ail frais épluché Prêt à cuisiner | 1kg**
    - Prix avant: 26,667 Ar
    - Prix actuel: 29,330 Ar
    - Variation: +2,663 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Chou Fleur 1 pièce**
+1. **Ananas Frais 1 pièce | Riche en Calcium et Vitamine C  | Mûr à consommer le jour même**
+   - Prix avant: 3,300 Ar
+   - Prix actuel: 4,670 Ar
+   - Indice de prix : 141.52
+
+2. **Ananas Frais 1 pièce |  Grand Calibre | Mûr à consommer le jour même**
+   - Prix avant: 4,000 Ar
+   - Prix actuel: 4,670 Ar
+   - Indice de prix : 116.75
+
+3. **Chou Fleur 1 pièce**
    - Prix avant: 4,800 Ar
    - Prix actuel: 5,330 Ar
    - Indice de prix : 111.04
-
-2. **Ail frais épluché Prêt à cuisiner | 1kg**
-   - Prix avant: 26,667 Ar
-   - Prix actuel: 29,330 Ar
-   - Indice de prix : 109.99
-
-3. **Angivy 1kg**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,330 Ar
-   - Indice de prix : 98.70
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 

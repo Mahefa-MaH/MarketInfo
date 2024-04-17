@@ -8,6 +8,20 @@
       "variation": 2663
     },
     {
+      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 3300,
+      "prix_comparaison": 4670,
+      "variation": 1370
+    },
+    {
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |  Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 4000,
+      "prix_comparaison": 4670,
+      "variation": 670
+    },
+    {
       "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
       "name": "Chou Fleur 1 pi\u00e8ce",
       "prix_base": 4800,
@@ -31,6 +45,20 @@
       "variation": 530
     },
     {
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |  Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 4000,
+      "prix_comparaison": 4670,
+      "variation": 670
+    },
+    {
+      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 3300,
+      "prix_comparaison": 4670,
+      "variation": 1370
+    },
+    {
       "cle": "produit_ailfraisepluchepretacuisiner1kg_",
       "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
       "prix_base": 26667,
@@ -40,25 +68,25 @@
   ],
   "indices_prix_plus_eleves": [
     {
+      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 3300,
+      "prix_comparaison": 4670,
+      "indice_prix": 141.5151515151515
+    },
+    {
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |  Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 4000,
+      "prix_comparaison": 4670,
+      "indice_prix": 116.75
+    },
+    {
       "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
       "name": "Chou Fleur 1 pi\u00e8ce",
       "prix_base": 4800,
       "prix_comparaison": 5330,
       "indice_prix": 111.04166666666667
-    },
-    {
-      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
-      "prix_base": 26667,
-      "prix_comparaison": 29330,
-      "indice_prix": 109.98612517343533
-    },
-    {
-      "cle": "produit_pommessucrees1kggrandcalibre_",
-      "name": "Angivy 1kg",
-      "prix_base": 5400,
-      "prix_comparaison": 5330,
-      "indice_prix": 98.70370370370371
     }
   ],
   "indices_prix_plus_faibles": [

@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Poudre De Lait Entier 28% D'Origine Animale 25 Kg**
-   - Prix avant: 843,500 Ar
-   - Prix actuel: 920,200 Ar
-   - Variation: +76,700 Ar
+1. **Amandes Décortiquées 125 G**
+   - Prix avant: 38,600 Ar
+   - Prix actuel: 45,200 Ar
+   - Variation: +6,600 Ar
 
-2. **Micro-Onde 1000 W**
-   - Prix avant: 808,100 Ar
-   - Prix actuel: 843,200 Ar
-   - Variation: +35,100 Ar
+2. **Shampoing Disciplinant Extra De Jicama 500 Ml**
+   - Prix avant: 16,600 Ar
+   - Prix actuel: 20,600 Ar
+   - Variation: +4,000 Ar
 
-3. **Micro-Onde 800 W**
-   - Prix avant: 641,300 Ar
-   - Prix actuel: 669,200 Ar
-   - Variation: +27,900 Ar
+3. **Shampoing Extra Doux Huile D'Amande Douce 500 ml**
+   - Prix avant: 16,600 Ar
+   - Prix actuel: 20,600 Ar
+   - Variation: +4,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Pré Lait Infantile 1 er  âge 400 G**
-   - Prix avant: 62,400 Ar
-   - Prix actuel: 43,800 Ar
-   - Variation: -18,600 Ar
+1. **Pâtes Courtes Penne Rigate 3 Kg**
+   - Prix avant: 60,000 Ar
+   - Prix actuel: 57,600 Ar
+   - Variation: -2,400 Ar
 
-2. **Céréales Lactées Blé-Fruits 1 Er âge 250 G**
-   - Prix avant: 21,500 Ar
-   - Prix actuel: 19,300 Ar
-   - Variation: -2,200 Ar
+2. **Savon Barre 800 G**
+   - Prix avant: 10,965 Ar
+   - Prix actuel: 10,200 Ar
+   - Variation: -765 Ar
 
-3. **Céréales Lactées Blé-Miel 1 er âge 250 G**
-   - Prix avant: 21,500 Ar
-   - Prix actuel: 19,300 Ar
-   - Variation: -2,200 Ar
+3. **Sauce Pesto Rosso 135 G**
+   - Prix avant: 20,000 Ar
+   - Prix actuel: 19,800 Ar
+   - Variation: -200 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Jus Cocktail 150 Ml**
-   - Prix avant: 700 Ar
-   - Prix actuel: 900 Ar
-   - Indice de prix : 128.57
+1. **Shampoing Disciplinant Extra De Jicama 500 Ml**
+   - Prix avant: 16,600 Ar
+   - Prix actuel: 20,600 Ar
+   - Indice de prix : 124.10
 
-2. **Jus Orange 150 Ml**
-   - Prix avant: 700 Ar
-   - Prix actuel: 900 Ar
-   - Indice de prix : 128.57
+2. **Shampoing Extra Doux Huile D'Amande Douce 500 ml**
+   - Prix avant: 16,600 Ar
+   - Prix actuel: 20,600 Ar
+   - Indice de prix : 124.10
 
-3. **Gaufrettes Napolitaner noisette 175 G**
+3. **Gel Douche Extra Doux Poire 300 ml**
    - Prix avant: 15,200 Ar
-   - Prix actuel: 19,000 Ar
-   - Indice de prix : 125.00
+   - Prix actuel: 18,400 Ar
+   - Indice de prix : 121.05
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Pré Lait Infantile 1 er  âge 400 G**
-   - Prix avant: 62,400 Ar
-   - Prix actuel: 43,800 Ar
-   - Indice de prix : 70.19
+1. **Savon Barre 800 G**
+   - Prix avant: 10,965 Ar
+   - Prix actuel: 10,200 Ar
+   - Indice de prix : 93.02
 
-2. **Céréales Lactées Blé-Fruits 1 Er âge 250 G**
-   - Prix avant: 21,500 Ar
-   - Prix actuel: 19,300 Ar
-   - Indice de prix : 89.77
+2. **Pâtes Courtes Penne Rigate 3 Kg**
+   - Prix avant: 60,000 Ar
+   - Prix actuel: 57,600 Ar
+   - Indice de prix : 96.00
 
-3. **Céréales Lactées Blé-Miel 1 er âge 250 G**
-   - Prix avant: 21,500 Ar
-   - Prix actuel: 19,300 Ar
-   - Indice de prix : 89.77
+3. **Sauce Pesto Rosso 135 G**
+   - Prix avant: 20,000 Ar
+   - Prix actuel: 19,800 Ar
+   - Indice de prix : 99.00
 

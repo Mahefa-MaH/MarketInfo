@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 3133,
-      "prix_base": 843500,
-      "name": "Poudre De Lait Entier 28% D'Origine Animale 25 Kg",
-      "prix_comparaison": 920200,
-      "variation": 76700
+      "list_id": 989,
+      "prix_base": 38600,
+      "name": "Amandes D\u00e9cortiqu\u00e9es 125 G",
+      "prix_comparaison": 45200,
+      "variation": 6600
     },
     {
-      "list_id": 2918,
-      "prix_base": 808100,
-      "name": "Micro-Onde 1000 W",
-      "prix_comparaison": 843200,
-      "variation": 35100
+      "list_id": 1366,
+      "prix_base": 16600,
+      "name": "Shampoing Disciplinant Extra De Jicama 500 Ml",
+      "prix_comparaison": 20600,
+      "variation": 4000
     },
     {
-      "list_id": 2917,
-      "prix_base": 641300,
-      "name": "Micro-Onde 800 W",
-      "prix_comparaison": 669200,
-      "variation": 27900
+      "list_id": 1365,
+      "prix_base": 16600,
+      "name": "Shampoing Extra Doux Huile D'Amande Douce 500 ml",
+      "prix_comparaison": 20600,
+      "variation": 4000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 942,
-      "prix_base": 62400,
-      "name": "Pr\u00e9 Lait Infantile 1 er  \u00e2ge 400 G",
-      "prix_comparaison": 43800,
-      "variation": -18600
+      "list_id": 3980,
+      "prix_base": 60000,
+      "name": "P\u00e2tes Courtes Penne Rigate 3 Kg",
+      "prix_comparaison": 57600,
+      "variation": -2400
     },
     {
-      "list_id": 946,
-      "prix_base": 21500,
-      "name": "C\u00e9r\u00e9ales Lact\u00e9es Bl\u00e9-Fruits 1 Er \u00e2ge 250 G",
-      "prix_comparaison": 19300,
-      "variation": -2200
+      "list_id": 3820,
+      "prix_base": 10965,
+      "name": "Savon Barre 800 G",
+      "prix_comparaison": 10200,
+      "variation": -765
     },
     {
-      "list_id": 947,
-      "prix_base": 21500,
-      "name": "C\u00e9r\u00e9ales Lact\u00e9es Bl\u00e9-Miel 1 er \u00e2ge 250 G",
-      "prix_comparaison": 19300,
-      "variation": -2200
+      "list_id": 4000,
+      "prix_base": 20000,
+      "name": "Sauce Pesto Rosso 135 G",
+      "prix_comparaison": 19800,
+      "variation": -200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3081,
-      "name": "Jus Cocktail 150 Ml",
-      "prix_base": 700,
-      "prix_comparaison": 900,
-      "indice_prix": 128.57142857142858
+      "list_id": 1366,
+      "name": "Shampoing Disciplinant Extra De Jicama 500 Ml",
+      "prix_base": 16600,
+      "prix_comparaison": 20600,
+      "indice_prix": 124.09638554216868
     },
     {
-      "list_id": 3080,
-      "name": "Jus Orange 150 Ml",
-      "prix_base": 700,
-      "prix_comparaison": 900,
-      "indice_prix": 128.57142857142858
+      "list_id": 1365,
+      "name": "Shampoing Extra Doux Huile D'Amande Douce 500 ml",
+      "prix_base": 16600,
+      "prix_comparaison": 20600,
+      "indice_prix": 124.09638554216868
     },
     {
-      "list_id": 965,
-      "name": "Gaufrettes Napolitaner noisette 175 G",
+      "list_id": 1372,
+      "name": "Gel Douche Extra Doux Poire 300 ml",
       "prix_base": 15200,
-      "prix_comparaison": 19000,
-      "indice_prix": 125.0
+      "prix_comparaison": 18400,
+      "indice_prix": 121.05263157894737
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 942,
-      "name": "Pr\u00e9 Lait Infantile 1 er  \u00e2ge 400 G",
-      "prix_base": 62400,
-      "prix_comparaison": 43800,
-      "indice_prix": 70.1923076923077
+      "list_id": 3820,
+      "name": "Savon Barre 800 G",
+      "prix_base": 10965,
+      "prix_comparaison": 10200,
+      "indice_prix": 93.02325581395348
     },
     {
-      "list_id": 946,
-      "name": "C\u00e9r\u00e9ales Lact\u00e9es Bl\u00e9-Fruits 1 Er \u00e2ge 250 G",
-      "prix_base": 21500,
-      "prix_comparaison": 19300,
-      "indice_prix": 89.76744186046511
+      "list_id": 3980,
+      "name": "P\u00e2tes Courtes Penne Rigate 3 Kg",
+      "prix_base": 60000,
+      "prix_comparaison": 57600,
+      "indice_prix": 96.0
     },
     {
-      "list_id": 947,
-      "name": "C\u00e9r\u00e9ales Lact\u00e9es Bl\u00e9-Miel 1 er \u00e2ge 250 G",
-      "prix_base": 21500,
-      "prix_comparaison": 19300,
-      "indice_prix": 89.76744186046511
+      "list_id": 4000,
+      "name": "Sauce Pesto Rosso 135 G",
+      "prix_base": 20000,
+      "prix_comparaison": 19800,
+      "indice_prix": 99.0
     }
   ]
 }
