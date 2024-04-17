@@ -2,69 +2,49 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Bloc WC anti tartre 4 pièces**
-   - Prix avant: 6,800 Ar
-   - Prix actuel: 6,460 Ar
-   - Variation: -340 Ar
+1. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Variation: +530 Ar
 
-2. **100% pur jus  de pomme pet 1L**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,405 Ar
-   - Variation: -495 Ar
-
-3. **Crème liquide végétale sucrée 1L**
-   - Prix avant: 21,000 Ar
-   - Prix actuel: 19,950 Ar
-   - Variation: -1,050 Ar
+2. **Savon de toilette cerise 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Variation: +530 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Crème UHT 35%mg 1L**
-   - Prix avant: 39,900 Ar
-   - Prix actuel: 37,905 Ar
-   - Variation: -1,995 Ar
+1. **Table à repasser Technic 130x44cm**
+   - Prix avant: 420,000 Ar
+   - Prix actuel: 399,000 Ar
+   - Variation: -21,000 Ar
 
-2. **Crème liquide végétale gourmet 1L**
-   - Prix avant: 21,000 Ar
-   - Prix actuel: 19,950 Ar
-   - Variation: -1,050 Ar
-
-3. **Crème liquide végétale non sucrée 1L**
-   - Prix avant: 21,000 Ar
-   - Prix actuel: 19,950 Ar
-   - Variation: -1,050 Ar
+2. **Centrale vapeur 2200W**
+   - Prix avant: 370,000 Ar
+   - Prix actuel: 351,500 Ar
+   - Variation: -18,500 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Crème UHT 35%mg 1L**
-   - Prix avant: 39,900 Ar
-   - Prix actuel: 37,905 Ar
-   - Indice de prix : 95.00
+1. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Indice de prix : 153.54
 
-2. **Crème liquide végétale sucrée 1L**
-   - Prix avant: 21,000 Ar
-   - Prix actuel: 19,950 Ar
-   - Indice de prix : 95.00
-
-3. **Crème liquide végétale non sucrée 1L**
-   - Prix avant: 21,000 Ar
-   - Prix actuel: 19,950 Ar
-   - Indice de prix : 95.00
+2. **Savon de toilette cerise 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Indice de prix : 153.54
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **100% pur jus  de pomme pet 1L**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,405 Ar
-   - Indice de prix : 95.00
+1. **21 Etiquettes blanches 38x63mm**
+   - Prix avant: 2,550 Ar
+   - Prix actuel: 2,422 Ar
+   - Indice de prix : 94.98
 
-2. **Bloc WC anti tartre 4 pièces**
-   - Prix avant: 6,800 Ar
-   - Prix actuel: 6,460 Ar
-   - Indice de prix : 95.00
-
-3. **Crème liquide végétale gourmet 1L**
-   - Prix avant: 21,000 Ar
-   - Prix actuel: 19,950 Ar
-   - Indice de prix : 95.00
+2. **Vaseline 50ml**
+   - Prix avant: 2,750 Ar
+   - Prix actuel: 2,612 Ar
+   - Indice de prix : 94.98
 

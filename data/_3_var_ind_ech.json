@@ -1,59 +1,87 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_eggnoodlesredriverbridge400grs_",
-      "name": "Egg noodles red river bridge 400grs",
-      "prix_base": 9490,
-      "prix_comparaison": 12180,
-      "variation": 2690
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 26667,
+      "prix_comparaison": 29330,
+      "variation": 2663
+    },
+    {
+      "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
+      "name": "Chou Fleur 1 pi\u00e8ce",
+      "prix_base": 4800,
+      "prix_comparaison": 5330,
+      "variation": 530
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_farinedesarrasinsarrazin_",
-      "name": "Farine de Sarrasin Treblec\u2122 1kg",
-      "prix_base": 36233,
-      "prix_comparaison": 35000,
-      "variation": -1233
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 5400,
+      "prix_comparaison": 5330,
+      "variation": -70
     },
     {
-      "cle": "produit_eggnoodlesredriverbridge400grs_",
-      "name": "Egg noodles red river bridge 400grs",
-      "prix_base": 9490,
-      "prix_comparaison": 12180,
-      "variation": 2690
+      "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
+      "name": "Chou Fleur 1 pi\u00e8ce",
+      "prix_base": 4800,
+      "prix_comparaison": 5330,
+      "variation": 530
+    },
+    {
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 26667,
+      "prix_comparaison": 29330,
+      "variation": 2663
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_eggnoodlesredriverbridge400grs_",
-      "name": "Egg noodles red river bridge 400grs",
-      "prix_base": 9490,
-      "prix_comparaison": 12180,
-      "indice_prix": 128.34562697576396
+      "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
+      "name": "Chou Fleur 1 pi\u00e8ce",
+      "prix_base": 4800,
+      "prix_comparaison": 5330,
+      "indice_prix": 111.04166666666667
     },
     {
-      "cle": "produit_farinedesarrasinsarrazin_",
-      "name": "Farine de Sarrasin Treblec\u2122 1kg",
-      "prix_base": 36233,
-      "prix_comparaison": 35000,
-      "indice_prix": 96.5970248116358
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 26667,
+      "prix_comparaison": 29330,
+      "indice_prix": 109.98612517343533
+    },
+    {
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 5400,
+      "prix_comparaison": 5330,
+      "indice_prix": 98.70370370370371
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_farinedesarrasinsarrazin_",
-      "name": "Farine de Sarrasin Treblec\u2122 1kg",
-      "prix_base": 36233,
-      "prix_comparaison": 35000,
-      "indice_prix": 96.5970248116358
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 5400,
+      "prix_comparaison": 5330,
+      "indice_prix": 98.70370370370371
     },
     {
-      "cle": "produit_eggnoodlesredriverbridge400grs_",
-      "name": "Egg noodles red river bridge 400grs",
-      "prix_base": 9490,
-      "prix_comparaison": 12180,
-      "indice_prix": 128.34562697576396
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 26667,
+      "prix_comparaison": 29330,
+      "indice_prix": 109.98612517343533
+    },
+    {
+      "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
+      "name": "Chou Fleur 1 pi\u00e8ce",
+      "prix_base": 4800,
+      "prix_comparaison": 5330,
+      "indice_prix": 111.04166666666667
     }
   ]
 }

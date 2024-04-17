@@ -2,297 +2,97 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Crème Main Hydratante Jasmin Secret 75 ml**
-   - Prix avant: 22,100 Ar
-   - Prix actuel: 20,800 Ar
-   - Variation: -1,300 Ar
+1. **Chewing-Gums Sans Sucres Style Chloro 12 Pièces**
+   - Prix avant: 6,800 Ar
+   - Prix actuel: 6,900 Ar
+   - Variation: +100 Ar
 
-2. **Céréales Riz-Fruits 1 er âge 250 G**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 19,300 Ar
-   - Variation: -300 Ar
+2. **Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche**
+   - Prix avant: 7,300 Ar
+   - Prix actuel: 7,400 Ar
+   - Variation: +100 Ar
 
-3. **Céréales Riz-Miel 1 er âge 250 G**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 19,300 Ar
-   - Variation: -300 Ar
-
-4. **Choco Fourré À La Crème Brulée 100 G**
-   - Prix avant: 4,000 Ar
-   - Prix actuel: 4,200 Ar
-   - Variation: +200 Ar
-
-5. **Déodorant Appollo 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-6. **Déodorant Wave  200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-7. **Déodorant Dragon 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-8. **Déodorant South 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-9. **Déodorant Dark Chocolat 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-10. **Déodorant Sport 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-11. **Déodorant Fresh 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-12. **Déodorant Energy 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-13. **Déodorant Race 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-14. **Déodorant Nice 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Variation: +300 Ar
-
-15. **Déodorant Pink Secret 150 Ml**
-   - Prix avant: 5,300 Ar
-   - Prix actuel: 5,600 Ar
-   - Variation: +300 Ar
-
-16. **Déodorant Fresh Bouquet 150 Ml**
-   - Prix avant: 5,300 Ar
-   - Prix actuel: 5,600 Ar
-   - Variation: +300 Ar
-
-17. **Thon En Miettes À L'Huile Végétale 185 G**
-   - Prix avant: 5,200 Ar
-   - Prix actuel: 5,500 Ar
-   - Variation: +300 Ar
-
-18. **Déodorant Beauty 200 Ml**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,300 Ar
-   - Variation: +400 Ar
-
-19. **Déodorant Kiss 200 Ml**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,300 Ar
-   - Variation: +400 Ar
-
-20. **Déodorant Lovely 200 Ml**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,300 Ar
-   - Variation: +400 Ar
-
-21. **Déodorant Sweet 200 Ml**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,300 Ar
-   - Variation: +400 Ar
-
-22. **Sucre Vanillé 7,5 G 10 Sachets**
-   - Prix avant: 3,600 Ar
-   - Prix actuel: 4,000 Ar
-   - Variation: +400 Ar
-
-23. **Choco Crème À Tartiner 350 G**
-   - Prix avant: 9,200 Ar
-   - Prix actuel: 9,600 Ar
-   - Variation: +400 Ar
-
-24. **Vary Amin'Anana 400 G**
-   - Prix avant: 10,900 Ar
-   - Prix actuel: 11,400 Ar
+3. **Huile De Soja 1 L**
+   - Prix avant: 9,700 Ar
+   - Prix actuel: 10,200 Ar
    - Variation: +500 Ar
 
-25. **Huile De Noisette L'Exceptionnelle 25 Cl**
-   - Prix avant: 26,400 Ar
-   - Prix actuel: 28,800 Ar
-   - Variation: +2,400 Ar
+4. **Huile De Tournesol 1 L**
+   - Prix avant: 12,400 Ar
+   - Prix actuel: 13,000 Ar
+   - Variation: +600 Ar
 
-26. **Fromage Le Crémeux 1 Kg**
-   - Prix avant: 47,000 Ar
-   - Prix actuel: 50,400 Ar
-   - Variation: +3,400 Ar
+5. **Huile De Soja 1 L**
+   - Prix avant: 10,700 Ar
+   - Prix actuel: 11,800 Ar
+   - Variation: +1,100 Ar
 
-27. **Gaufrettes crème cacao 175 G**
-   - Prix avant: 15,200 Ar
-   - Prix actuel: 19,000 Ar
-   - Variation: +3,800 Ar
+6. **Huile De Tournesol 1 L**
+   - Prix avant: 12,500 Ar
+   - Prix actuel: 13,800 Ar
+   - Variation: +1,300 Ar
 
-28. **Huile De Coco Désodorisée Étic Bocal 43 Cl**
-   - Prix avant: 52,800 Ar
-   - Prix actuel: 57,600 Ar
-   - Variation: +4,800 Ar
+7. **Huile De Tournesol 1 L**
+   - Prix avant: 14,500 Ar
+   - Prix actuel: 16,000 Ar
+   - Variation: +1,500 Ar
 
-29. **Lait Instantané Ecrémé 750 g**
-   - Prix avant: 77,200 Ar
-   - Prix actuel: 82,100 Ar
-   - Variation: +4,900 Ar
+8. **Apres Shampoing Soin Huile D'Argan**
+   - Prix avant: 20,800 Ar
+   - Prix actuel: 23,900 Ar
+   - Variation: +3,100 Ar
+
+9. **Shampoing Extra Doux Huile D'Amande Douce 500 ml**
+   - Prix avant: 16,600 Ar
+   - Prix actuel: 20,600 Ar
+   - Variation: +4,000 Ar
 
 
 
 ## Indice de prix
 
-1. **Crème Main Hydratante Jasmin Secret 75 ml**
-   - Prix avant: 22,100 Ar
-   - Prix actuel: 20,800 Ar
-   - Indice de prix : 94.12
+1. **Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche**
+   - Prix avant: 7,300 Ar
+   - Prix actuel: 7,400 Ar
+   - Indice de prix : 101.37
 
-2. **Céréales Riz-Fruits 1 er âge 250 G**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 19,300 Ar
-   - Indice de prix : 98.47
+2. **Chewing-Gums Sans Sucres Style Chloro 12 Pièces**
+   - Prix avant: 6,800 Ar
+   - Prix actuel: 6,900 Ar
+   - Indice de prix : 101.47
 
-3. **Céréales Riz-Miel 1 er âge 250 G**
-   - Prix avant: 19,600 Ar
-   - Prix actuel: 19,300 Ar
-   - Indice de prix : 98.47
+3. **Huile De Tournesol 1 L**
+   - Prix avant: 12,400 Ar
+   - Prix actuel: 13,000 Ar
+   - Indice de prix : 104.84
 
-4. **Choco Crème À Tartiner 350 G**
-   - Prix avant: 9,200 Ar
-   - Prix actuel: 9,600 Ar
-   - Indice de prix : 104.35
+4. **Huile De Soja 1 L**
+   - Prix avant: 9,700 Ar
+   - Prix actuel: 10,200 Ar
+   - Indice de prix : 105.15
 
-5. **Vary Amin'Anana 400 G**
-   - Prix avant: 10,900 Ar
-   - Prix actuel: 11,400 Ar
-   - Indice de prix : 104.59
+5. **Huile De Soja 1 L**
+   - Prix avant: 10,700 Ar
+   - Prix actuel: 11,800 Ar
+   - Indice de prix : 110.28
 
-6. **Choco Fourré À La Crème Brulée 100 G**
-   - Prix avant: 4,000 Ar
-   - Prix actuel: 4,200 Ar
-   - Indice de prix : 105.00
+6. **Huile De Tournesol 1 L**
+   - Prix avant: 14,500 Ar
+   - Prix actuel: 16,000 Ar
+   - Indice de prix : 110.34
 
-7. **Déodorant Appollo 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
+7. **Huile De Tournesol 1 L**
+   - Prix avant: 12,500 Ar
+   - Prix actuel: 13,800 Ar
+   - Indice de prix : 110.40
 
-8. **Déodorant Wave  200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
+8. **Apres Shampoing Soin Huile D'Argan**
+   - Prix avant: 20,800 Ar
+   - Prix actuel: 23,900 Ar
+   - Indice de prix : 114.90
 
-9. **Déodorant Dragon 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
-
-10. **Déodorant South 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
-
-11. **Déodorant Dark Chocolat 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
-
-12. **Déodorant Sport 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
-
-13. **Déodorant Fresh 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
-
-14. **Déodorant Energy 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
-
-15. **Déodorant Race 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
-
-16. **Déodorant Nice 200 Ml**
-   - Prix avant: 5,400 Ar
-   - Prix actuel: 5,700 Ar
-   - Indice de prix : 105.56
-
-17. **Déodorant Pink Secret 150 Ml**
-   - Prix avant: 5,300 Ar
-   - Prix actuel: 5,600 Ar
-   - Indice de prix : 105.66
-
-18. **Déodorant Fresh Bouquet 150 Ml**
-   - Prix avant: 5,300 Ar
-   - Prix actuel: 5,600 Ar
-   - Indice de prix : 105.66
-
-19. **Thon En Miettes À L'Huile Végétale 185 G**
-   - Prix avant: 5,200 Ar
-   - Prix actuel: 5,500 Ar
-   - Indice de prix : 105.77
-
-20. **Déodorant Beauty 200 Ml**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,300 Ar
-   - Indice de prix : 105.80
-
-21. **Déodorant Kiss 200 Ml**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,300 Ar
-   - Indice de prix : 105.80
-
-22. **Déodorant Lovely 200 Ml**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,300 Ar
-   - Indice de prix : 105.80
-
-23. **Déodorant Sweet 200 Ml**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,300 Ar
-   - Indice de prix : 105.80
-
-24. **Lait Instantané Ecrémé 750 g**
-   - Prix avant: 77,200 Ar
-   - Prix actuel: 82,100 Ar
-   - Indice de prix : 106.35
-
-25. **Fromage Le Crémeux 1 Kg**
-   - Prix avant: 47,000 Ar
-   - Prix actuel: 50,400 Ar
-   - Indice de prix : 107.23
-
-26. **Huile De Coco Désodorisée Étic Bocal 43 Cl**
-   - Prix avant: 52,800 Ar
-   - Prix actuel: 57,600 Ar
-   - Indice de prix : 109.09
-
-27. **Huile De Noisette L'Exceptionnelle 25 Cl**
-   - Prix avant: 26,400 Ar
-   - Prix actuel: 28,800 Ar
-   - Indice de prix : 109.09
-
-28. **Sucre Vanillé 7,5 G 10 Sachets**
-   - Prix avant: 3,600 Ar
-   - Prix actuel: 4,000 Ar
-   - Indice de prix : 111.11
-
-29. **Gaufrettes crème cacao 175 G**
-   - Prix avant: 15,200 Ar
-   - Prix actuel: 19,000 Ar
-   - Indice de prix : 125.00
+9. **Shampoing Extra Doux Huile D'Amande Douce 500 ml**
+   - Prix avant: 16,600 Ar
+   - Prix actuel: 20,600 Ar
+   - Indice de prix : 124.10
 

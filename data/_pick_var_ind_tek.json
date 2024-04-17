@@ -1,412 +1,132 @@
 {
   "Variation de prix": [
     {
-      "list_id": 723,
-      "name": "Cr\u00e8me Main Hydratante Jasmin Secret 75 ml",
-      "prix_base": 22100,
-      "prix_comparaison": 20800,
-      "variation": -1300
+      "list_id": 3631,
+      "name": "Chewing-Gums Sans Sucres Style Chloro 12 Pi\u00e8ces",
+      "prix_base": 6800,
+      "prix_comparaison": 6900,
+      "variation": 100
     },
     {
-      "list_id": 944,
-      "name": "C\u00e9r\u00e9ales Riz-Fruits 1 er \u00e2ge 250 G",
-      "prix_base": 19600,
-      "prix_comparaison": 19300,
-      "variation": -300
+      "list_id": 3630,
+      "name": "Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche",
+      "prix_base": 7300,
+      "prix_comparaison": 7400,
+      "variation": 100
     },
     {
-      "list_id": 945,
-      "name": "C\u00e9r\u00e9ales Riz-Miel 1 er \u00e2ge 250 G",
-      "prix_base": 19600,
-      "prix_comparaison": 19300,
-      "variation": -300
-    },
-    {
-      "list_id": 2995,
-      "name": "Choco Fourr\u00e9 \u00c0 La Cr\u00e8me Brul\u00e9e 100 G",
-      "prix_base": 4000,
-      "prix_comparaison": 4200,
-      "variation": 200
-    },
-    {
-      "list_id": 3124,
-      "name": "D\u00e9odorant Appollo 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3122,
-      "name": "D\u00e9odorant Wave  200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3123,
-      "name": "D\u00e9odorant Dragon 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3125,
-      "name": "D\u00e9odorant South 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3126,
-      "name": "D\u00e9odorant Dark Chocolat 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3127,
-      "name": "D\u00e9odorant Sport 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3128,
-      "name": "D\u00e9odorant Fresh 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3129,
-      "name": "D\u00e9odorant Energy 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3130,
-      "name": "D\u00e9odorant Race 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3120,
-      "name": "D\u00e9odorant Nice 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "variation": 300
-    },
-    {
-      "list_id": 3115,
-      "name": "D\u00e9odorant Pink Secret 150 Ml",
-      "prix_base": 5300,
-      "prix_comparaison": 5600,
-      "variation": 300
-    },
-    {
-      "list_id": 3116,
-      "name": "D\u00e9odorant Fresh Bouquet 150 Ml",
-      "prix_base": 5300,
-      "prix_comparaison": 5600,
-      "variation": 300
-    },
-    {
-      "list_id": 3102,
-      "name": "Thon En Miettes \u00c0 L'Huile V\u00e9g\u00e9tale 185 G",
-      "prix_base": 5200,
-      "prix_comparaison": 5500,
-      "variation": 300
-    },
-    {
-      "list_id": 3117,
-      "name": "D\u00e9odorant Beauty 200 Ml",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "variation": 400
-    },
-    {
-      "list_id": 3118,
-      "name": "D\u00e9odorant Kiss 200 Ml",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "variation": 400
-    },
-    {
-      "list_id": 3119,
-      "name": "D\u00e9odorant Lovely 200 Ml",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "variation": 400
-    },
-    {
-      "list_id": 3121,
-      "name": "D\u00e9odorant Sweet 200 Ml",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "variation": 400
-    },
-    {
-      "list_id": 3150,
-      "name": "Sucre Vanill\u00e9 7,5 G 10 Sachets",
-      "prix_base": 3600,
-      "prix_comparaison": 4000,
-      "variation": 400
-    },
-    {
-      "list_id": 2997,
-      "name": "Choco Cr\u00e8me \u00c0 Tartiner 350 G",
-      "prix_base": 9200,
-      "prix_comparaison": 9600,
-      "variation": 400
-    },
-    {
-      "list_id": 3321,
-      "name": "Vary Amin'Anana 400 G",
-      "prix_base": 10900,
-      "prix_comparaison": 11400,
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9700,
+      "prix_comparaison": 10200,
       "variation": 500
     },
     {
-      "list_id": 3148,
-      "name": "Huile De Noisette L'Exceptionnelle 25 Cl",
-      "prix_base": 26400,
-      "prix_comparaison": 28800,
-      "variation": 2400
+      "list_id": 3829,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 12400,
+      "prix_comparaison": 13000,
+      "variation": 600
     },
     {
-      "list_id": 2942,
-      "name": "Fromage Le Cr\u00e9meux 1 Kg",
-      "prix_base": 47000,
-      "prix_comparaison": 50400,
-      "variation": 3400
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10700,
+      "prix_comparaison": 11800,
+      "variation": 1100
     },
     {
-      "list_id": 964,
-      "name": "Gaufrettes cr\u00e8me cacao 175 G",
-      "prix_base": 15200,
-      "prix_comparaison": 19000,
-      "variation": 3800
+      "list_id": 3830,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 12500,
+      "prix_comparaison": 13800,
+      "variation": 1300
     },
     {
-      "list_id": 3149,
-      "name": "Huile De Coco D\u00e9sodoris\u00e9e \u00c9tic Bocal 43 Cl",
-      "prix_base": 52800,
-      "prix_comparaison": 57600,
-      "variation": 4800
+      "list_id": 3831,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 14500,
+      "prix_comparaison": 16000,
+      "variation": 1500
     },
     {
-      "list_id": 952,
-      "name": "Lait Instantan\u00e9 Ecr\u00e9m\u00e9 750 g",
-      "prix_base": 77200,
-      "prix_comparaison": 82100,
-      "variation": 4900
+      "list_id": 1367,
+      "name": "Apres Shampoing Soin Huile D'Argan",
+      "prix_base": 20800,
+      "prix_comparaison": 23900,
+      "variation": 3100
+    },
+    {
+      "list_id": 1365,
+      "name": "Shampoing Extra Doux Huile D'Amande Douce 500 ml",
+      "prix_base": 16600,
+      "prix_comparaison": 20600,
+      "variation": 4000
     }
   ],
   "indice de prix": [
     {
-      "list_id": 723,
-      "name": "Cr\u00e8me Main Hydratante Jasmin Secret 75 ml",
-      "prix_base": 22100,
-      "prix_comparaison": 20800,
-      "indice_prix": 94.11764705882354
+      "list_id": 3630,
+      "name": "Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche",
+      "prix_base": 7300,
+      "prix_comparaison": 7400,
+      "indice_prix": 101.36986301369863
     },
     {
-      "list_id": 944,
-      "name": "C\u00e9r\u00e9ales Riz-Fruits 1 er \u00e2ge 250 G",
-      "prix_base": 19600,
-      "prix_comparaison": 19300,
-      "indice_prix": 98.46938775510205
+      "list_id": 3631,
+      "name": "Chewing-Gums Sans Sucres Style Chloro 12 Pi\u00e8ces",
+      "prix_base": 6800,
+      "prix_comparaison": 6900,
+      "indice_prix": 101.47058823529412
     },
     {
-      "list_id": 945,
-      "name": "C\u00e9r\u00e9ales Riz-Miel 1 er \u00e2ge 250 G",
-      "prix_base": 19600,
-      "prix_comparaison": 19300,
-      "indice_prix": 98.46938775510205
+      "list_id": 3829,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 12400,
+      "prix_comparaison": 13000,
+      "indice_prix": 104.83870967741936
     },
     {
-      "list_id": 2997,
-      "name": "Choco Cr\u00e8me \u00c0 Tartiner 350 G",
-      "prix_base": 9200,
-      "prix_comparaison": 9600,
-      "indice_prix": 104.34782608695652
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9700,
+      "prix_comparaison": 10200,
+      "indice_prix": 105.15463917525773
     },
     {
-      "list_id": 3321,
-      "name": "Vary Amin'Anana 400 G",
-      "prix_base": 10900,
-      "prix_comparaison": 11400,
-      "indice_prix": 104.58715596330275
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10700,
+      "prix_comparaison": 11800,
+      "indice_prix": 110.2803738317757
     },
     {
-      "list_id": 2995,
-      "name": "Choco Fourr\u00e9 \u00c0 La Cr\u00e8me Brul\u00e9e 100 G",
-      "prix_base": 4000,
-      "prix_comparaison": 4200,
-      "indice_prix": 105.0
+      "list_id": 3831,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 14500,
+      "prix_comparaison": 16000,
+      "indice_prix": 110.34482758620689
     },
     {
-      "list_id": 3124,
-      "name": "D\u00e9odorant Appollo 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
+      "list_id": 3830,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 12500,
+      "prix_comparaison": 13800,
+      "indice_prix": 110.4
     },
     {
-      "list_id": 3122,
-      "name": "D\u00e9odorant Wave  200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
+      "list_id": 1367,
+      "name": "Apres Shampoing Soin Huile D'Argan",
+      "prix_base": 20800,
+      "prix_comparaison": 23900,
+      "indice_prix": 114.90384615384616
     },
     {
-      "list_id": 3123,
-      "name": "D\u00e9odorant Dragon 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "list_id": 3125,
-      "name": "D\u00e9odorant South 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "list_id": 3126,
-      "name": "D\u00e9odorant Dark Chocolat 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "list_id": 3127,
-      "name": "D\u00e9odorant Sport 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "list_id": 3128,
-      "name": "D\u00e9odorant Fresh 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "list_id": 3129,
-      "name": "D\u00e9odorant Energy 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "list_id": 3130,
-      "name": "D\u00e9odorant Race 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "list_id": 3120,
-      "name": "D\u00e9odorant Nice 200 Ml",
-      "prix_base": 5400,
-      "prix_comparaison": 5700,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "list_id": 3115,
-      "name": "D\u00e9odorant Pink Secret 150 Ml",
-      "prix_base": 5300,
-      "prix_comparaison": 5600,
-      "indice_prix": 105.66037735849056
-    },
-    {
-      "list_id": 3116,
-      "name": "D\u00e9odorant Fresh Bouquet 150 Ml",
-      "prix_base": 5300,
-      "prix_comparaison": 5600,
-      "indice_prix": 105.66037735849056
-    },
-    {
-      "list_id": 3102,
-      "name": "Thon En Miettes \u00c0 L'Huile V\u00e9g\u00e9tale 185 G",
-      "prix_base": 5200,
-      "prix_comparaison": 5500,
-      "indice_prix": 105.76923076923077
-    },
-    {
-      "list_id": 3117,
-      "name": "D\u00e9odorant Beauty 200 Ml",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "indice_prix": 105.79710144927536
-    },
-    {
-      "list_id": 3118,
-      "name": "D\u00e9odorant Kiss 200 Ml",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "indice_prix": 105.79710144927536
-    },
-    {
-      "list_id": 3119,
-      "name": "D\u00e9odorant Lovely 200 Ml",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "indice_prix": 105.79710144927536
-    },
-    {
-      "list_id": 3121,
-      "name": "D\u00e9odorant Sweet 200 Ml",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "indice_prix": 105.79710144927536
-    },
-    {
-      "list_id": 952,
-      "name": "Lait Instantan\u00e9 Ecr\u00e9m\u00e9 750 g",
-      "prix_base": 77200,
-      "prix_comparaison": 82100,
-      "indice_prix": 106.34715025906736
-    },
-    {
-      "list_id": 2942,
-      "name": "Fromage Le Cr\u00e9meux 1 Kg",
-      "prix_base": 47000,
-      "prix_comparaison": 50400,
-      "indice_prix": 107.23404255319149
-    },
-    {
-      "list_id": 3149,
-      "name": "Huile De Coco D\u00e9sodoris\u00e9e \u00c9tic Bocal 43 Cl",
-      "prix_base": 52800,
-      "prix_comparaison": 57600,
-      "indice_prix": 109.0909090909091
-    },
-    {
-      "list_id": 3148,
-      "name": "Huile De Noisette L'Exceptionnelle 25 Cl",
-      "prix_base": 26400,
-      "prix_comparaison": 28800,
-      "indice_prix": 109.0909090909091
-    },
-    {
-      "list_id": 3150,
-      "name": "Sucre Vanill\u00e9 7,5 G 10 Sachets",
-      "prix_base": 3600,
-      "prix_comparaison": 4000,
-      "indice_prix": 111.11111111111111
-    },
-    {
-      "list_id": 964,
-      "name": "Gaufrettes cr\u00e8me cacao 175 G",
-      "prix_base": 15200,
-      "prix_comparaison": 19000,
-      "indice_prix": 125.0
+      "list_id": 1365,
+      "name": "Shampoing Extra Doux Huile D'Amande Douce 500 ml",
+      "prix_base": 16600,
+      "prix_comparaison": 20600,
+      "indice_prix": 124.09638554216868
     }
   ]
 }
