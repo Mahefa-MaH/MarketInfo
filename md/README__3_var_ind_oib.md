@@ -2,49 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Variation: +530 Ar
+1. **Papier hygiénique rose Le Classique 12 rouleaux**
+   - Prix avant: 19,855 Ar
+   - Prix actuel: 20,900 Ar
+   - Variation: +1,045 Ar
 
-2. **Savon de toilette cerise 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Variation: +530 Ar
+2. **Biscuit petit beurre pocket 300g**
+   - Prix avant: 17,005 Ar
+   - Prix actuel: 17,900 Ar
+   - Variation: +895 Ar
+
+3. **Fromage La Mimolette 10 tranches 160g**
+   - Prix avant: 16,055 Ar
+   - Prix actuel: 16,900 Ar
+   - Variation: +845 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Thermomètre digital résistant aux chocs avec sonde**
-   - Prix avant: 657,900 Ar
-   - Prix actuel: 625,005 Ar
-   - Variation: -32,895 Ar
+1. **Shampoing très doux à l'argile et citron vert 250ml**
+   - Prix avant: 7,220 Ar
+   - Prix actuel: 6,900 Ar
+   - Variation: -320 Ar
 
-2. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
-   - Prix avant: 599,000 Ar
-   - Prix actuel: 569,050 Ar
-   - Variation: -29,950 Ar
+2. **Eau de Source 2L**
+   - Prix avant: 2,366 Ar
+   - Prix actuel: 2,490 Ar
+   - Variation: +124 Ar
+
+3. **Eponges mousse grattantes 2 pièces**
+   - Prix avant: 2,375 Ar
+   - Prix actuel: 2,500 Ar
+   - Variation: +125 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Indice de prix : 153.54
+1. **Talc bébé poudre 75g**
+   - Prix avant: 2,612 Ar
+   - Prix actuel: 2,750 Ar
+   - Indice de prix : 105.28
 
-2. **Savon de toilette cerise 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Indice de prix : 153.54
+2. **Thé noir earl grey à la bergamote 25 sachets x50g**
+   - Prix avant: 6,555 Ar
+   - Prix actuel: 6,900 Ar
+   - Indice de prix : 105.26
+
+3. **2 Éponges à récurer en inox**
+   - Prix avant: 2,755 Ar
+   - Prix actuel: 2,900 Ar
+   - Indice de prix : 105.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Gomme plastique**
-   - Prix avant: 1,950 Ar
-   - Prix actuel: 1,852 Ar
-   - Indice de prix : 94.97
+1. **Shampoing très doux à l'argile et citron vert 250ml**
+   - Prix avant: 7,220 Ar
+   - Prix actuel: 6,900 Ar
+   - Indice de prix : 95.57
 
-2. **21 Etiquettes blanches 38x63mm**
-   - Prix avant: 2,550 Ar
-   - Prix actuel: 2,422 Ar
-   - Indice de prix : 94.98
+2. **Eau de Source 2L**
+   - Prix avant: 2,366 Ar
+   - Prix actuel: 2,490 Ar
+   - Indice de prix : 105.24
+
+3. **4 Glaces en cornet citron x120ml**
+   - Prix avant: 15,105 Ar
+   - Prix actuel: 15,900 Ar
+   - Indice de prix : 105.26
 

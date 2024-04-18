@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "variation": 530
+      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
+      "prix_base": 19855,
+      "prix_comparaison": 20900,
+      "variation": 1045
     },
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "variation": 530
+      "cle": "biscuitssecssables_13183biscuitpetitbeurrepocket300gchabrior_html",
+      "name": "Biscuit petit beurre pocket 300g",
+      "prix_base": 17005,
+      "prix_comparaison": 17900,
+      "variation": 895
+    },
+    {
+      "cle": "fromagesentranches_2151fromagelamimolette10tranches160g_html",
+      "name": "Fromage La Mimolette 10 tranches 160g",
+      "prix_base": 16055,
+      "prix_comparaison": 16900,
+      "variation": 845
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 657900,
-      "prix_comparaison": 625005,
-      "variation": -32895
+      "cle": "shampoings_12967shampoingtresdouxalargilecitronvert250mllabell_html",
+      "name": "Shampoing tr\u00e8s doux \u00e0 l'argile et citron vert 250ml",
+      "prix_base": 7220,
+      "prix_comparaison": 6900,
+      "variation": -320
     },
     {
-      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
-      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
-      "prix_base": 599000,
-      "prix_comparaison": 569050,
-      "variation": -29950
+      "cle": "eauxdesource_3066eaudesource6x2l_html",
+      "name": "Eau de Source 2L",
+      "prix_base": 2366,
+      "prix_comparaison": 2490,
+      "variation": 124
+    },
+    {
+      "cle": "produitskibomoinsde5000ar_6302epongesmoussegrattantes2pieces_html",
+      "name": "Eponges mousse grattantes 2 pi\u00e8ces",
+      "prix_base": 2375,
+      "prix_comparaison": 2500,
+      "variation": 125
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     },
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
+      "cle": "thesetinfusions_12982thenoirearlgreyalabergamote25sachetsx50gcotterley_html",
+      "name": "Th\u00e9 noir earl grey \u00e0 la bergamote 25 sachets x50g",
+      "prix_base": 6555,
+      "prix_comparaison": 6900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "epongesbrossesetgants_124962epongesarecurereninoxapta_html",
+      "name": "2 \u00c9ponges \u00e0 r\u00e9curer en inox",
+      "prix_base": 2755,
+      "prix_comparaison": 2900,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "crayonetcoloriage_7565gommeplastique_html",
-      "name": "Gomme plastique",
-      "prix_base": 1950,
-      "prix_comparaison": 1852,
-      "indice_prix": 94.97435897435898
+      "cle": "shampoings_12967shampoingtresdouxalargilecitronvert250mllabell_html",
+      "name": "Shampoing tr\u00e8s doux \u00e0 l'argile et citron vert 250ml",
+      "prix_base": 7220,
+      "prix_comparaison": 6900,
+      "indice_prix": 95.56786703601108
     },
     {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2550,
-      "prix_comparaison": 2422,
-      "indice_prix": 94.98039215686275
+      "cle": "eauxdesource_3066eaudesource6x2l_html",
+      "name": "Eau de Source 2L",
+      "prix_base": 2366,
+      "prix_comparaison": 2490,
+      "indice_prix": 105.24091293322063
+    },
+    {
+      "cle": "conesetcornets_102104glacesencornetcitronx120ml_html",
+      "name": "4 Glaces en cornet citron x120ml",
+      "prix_base": 15105,
+      "prix_comparaison": 15900,
+      "indice_prix": 105.26315789473684
     }
   ]
 }
