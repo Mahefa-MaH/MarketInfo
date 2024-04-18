@@ -20,6 +20,13 @@
       "prix_base": 16055,
       "prix_comparaison": 16900,
       "variation": 845
+    },
+    {
+      "cle": "nectarsdefruits_12598nectarmultifruitsenbrique2lpaquito_html",
+      "name": "Nectar multifruits en brique 2L",
+      "prix_base": 16055,
+      "prix_comparaison": 16900,
+      "variation": 845
     }
   ],
   "prix_diminues": [
@@ -43,6 +50,13 @@
       "prix_base": 2375,
       "prix_comparaison": 2500,
       "variation": 125
+    },
+    {
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "variation": 138
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,6 +80,13 @@
       "prix_base": 2375,
       "prix_comparaison": 2500,
       "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "pates_9111coquillettesprimo500g_html",
+      "name": "Coquillettes Primo 500g",
+      "prix_base": 2945,
+      "prix_comparaison": 3100,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
@@ -88,6 +109,13 @@
       "name": "4 Glaces en cornet citron x120ml",
       "prix_base": 15105,
       "prix_comparaison": 15900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "biscuitschocolatesfruites_13860biscuitavectablettedechocolataulait150gtopbudget_html",
+      "name": "Biscuit avec tablette de chocolat au lait 150g",
+      "prix_base": 7505,
+      "prix_comparaison": 7900,
       "indice_prix": 105.26315789473684
     }
   ]

@@ -17,6 +17,11 @@
    - Prix actuel: 16,900 Ar
    - Variation: +845 Ar
 
+4. **Nectar multifruits en brique 2L**
+   - Prix avant: 16,055 Ar
+   - Prix actuel: 16,900 Ar
+   - Variation: +845 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Shampoing très doux à l'argile et citron vert 250ml**
@@ -33,6 +38,11 @@
    - Prix avant: 2,375 Ar
    - Prix actuel: 2,500 Ar
    - Variation: +125 Ar
+
+4. **Talc bébé poudre 75g**
+   - Prix avant: 2,612 Ar
+   - Prix actuel: 2,750 Ar
+   - Variation: +138 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -51,6 +61,11 @@
    - Prix actuel: 2,500 Ar
    - Indice de prix : 105.26
 
+4. **Coquillettes Primo 500g**
+   - Prix avant: 2,945 Ar
+   - Prix actuel: 3,100 Ar
+   - Indice de prix : 105.26
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Shampoing très doux à l'argile et citron vert 250ml**
@@ -66,5 +81,10 @@
 3. **4 Glaces en cornet citron x120ml**
    - Prix avant: 15,105 Ar
    - Prix actuel: 15,900 Ar
+   - Indice de prix : 105.26
+
+4. **Biscuit avec tablette de chocolat au lait 150g**
+   - Prix avant: 7,505 Ar
+   - Prix actuel: 7,900 Ar
    - Indice de prix : 105.26
 
