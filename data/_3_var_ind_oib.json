@@ -1,122 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
-      "prix_base": 19855,
-      "prix_comparaison": 20900,
-      "variation": 1045
+      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1349100,
+      "prix_comparaison": 1499000,
+      "variation": 149900
     },
     {
-      "cle": "biscuitssecssables_13183biscuitpetitbeurrepocket300gchabrior_html",
-      "name": "Biscuit petit beurre pocket 300g",
-      "prix_base": 17005,
-      "prix_comparaison": 17900,
-      "variation": 895
+      "cle": "accessoirespourlentretiendulinge_11689tablearepassertechnic130x44cmdomedia_html",
+      "name": "Table \u00e0 repasser Technic 130x44cm",
+      "prix_base": 399000,
+      "prix_comparaison": 420000,
+      "variation": 21000
     },
     {
-      "cle": "fromagesentranches_2151fromagelamimolette10tranches160g_html",
-      "name": "Fromage La Mimolette 10 tranches 160g",
-      "prix_base": 16055,
-      "prix_comparaison": 16900,
-      "variation": 845
-    },
-    {
-      "cle": "nectarsdefruits_12598nectarmultifruitsenbrique2lpaquito_html",
-      "name": "Nectar multifruits en brique 2L",
-      "prix_base": 16055,
-      "prix_comparaison": 16900,
-      "variation": 845
+      "cle": "accessoirespourlentretiendulinge_11801sechoirtour46metresdomedia_html",
+      "name": "S\u00e9choir tour 46 m\u00e8tres",
+      "prix_base": 261250,
+      "prix_comparaison": 275000,
+      "variation": 13750
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
+    },
+    {
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
+    },
     {
       "cle": "shampoings_12967shampoingtresdouxalargilecitronvert250mllabell_html",
       "name": "Shampoing tr\u00e8s doux \u00e0 l'argile et citron vert 250ml",
       "prix_base": 7220,
       "prix_comparaison": 6900,
       "variation": -320
-    },
-    {
-      "cle": "eauxdesource_3066eaudesource6x2l_html",
-      "name": "Eau de Source 2L",
-      "prix_base": 2366,
-      "prix_comparaison": 2490,
-      "variation": 124
-    },
-    {
-      "cle": "produitskibomoinsde5000ar_6302epongesmoussegrattantes2pieces_html",
-      "name": "Eponges mousse grattantes 2 pi\u00e8ces",
-      "prix_base": 2375,
-      "prix_comparaison": 2500,
-      "variation": 125
-    },
-    {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "variation": 138
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
+      "cle": "farinecerealepetitdejeuner_919kobaainanature35g_html",
+      "name": "Koba aina nature 35g",
+      "prix_base": 500,
+      "prix_comparaison": 590,
+      "indice_prix": 118.0
     },
     {
-      "cle": "epongesbrossesetgants_124962epongesarecurereninoxapta_html",
-      "name": "2 \u00c9ponges \u00e0 r\u00e9curer en inox",
-      "prix_base": 2755,
-      "prix_comparaison": 2900,
-      "indice_prix": 105.26315789473684
+      "cle": "farinecerealepetitdejeuner_920kobaainafraise35g_html",
+      "name": "Koba aina fraise 35g",
+      "prix_base": 500,
+      "prix_comparaison": 590,
+      "indice_prix": 118.0
     },
     {
-      "cle": "produitskibomoinsde5000ar_6302epongesmoussegrattantes2pieces_html",
-      "name": "Eponges mousse grattantes 2 pi\u00e8ces",
-      "prix_base": 2375,
-      "prix_comparaison": 2500,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "pates_9111coquillettesprimo500g_html",
-      "name": "Coquillettes Primo 500g",
-      "prix_base": 2945,
-      "prix_comparaison": 3100,
-      "indice_prix": 105.26315789473684
+      "cle": "farinecerealepetitdejeuner_918kobaainabanane35g_html",
+      "name": "Koba aina banane 35g",
+      "prix_base": 500,
+      "prix_comparaison": 590,
+      "indice_prix": 118.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "shampoings_12967shampoingtresdouxalargilecitronvert250mllabell_html",
-      "name": "Shampoing tr\u00e8s doux \u00e0 l'argile et citron vert 250ml",
-      "prix_base": 7220,
-      "prix_comparaison": 6900,
-      "indice_prix": 95.56786703601108
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "eauxdesource_3066eaudesource6x2l_html",
-      "name": "Eau de Source 2L",
-      "prix_base": 2366,
-      "prix_comparaison": 2490,
-      "indice_prix": 105.24091293322063
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "conesetcornets_102104glacesencornetcitronx120ml_html",
-      "name": "4 Glaces en cornet citron x120ml",
-      "prix_base": 15105,
-      "prix_comparaison": 15900,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "biscuitschocolatesfruites_13860biscuitavectablettedechocolataulait150gtopbudget_html",
-      "name": "Biscuit avec tablette de chocolat au lait 150g",
-      "prix_base": 7505,
-      "prix_comparaison": 7900,
-      "indice_prix": 105.26315789473684
+      "cle": "yaourtsnaturesetaromatises_7037yaourtbrassesucrepommerouge100g_html",
+      "name": "Yaourt brasse sucr\u00e9 pomme rouge 100g",
+      "prix_base": 1100,
+      "prix_comparaison": 950,
+      "indice_prix": 86.36363636363636
     }
   ]
 }

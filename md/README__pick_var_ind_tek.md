@@ -2,97 +2,127 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Chewing-Gums Sans Sucres Style Chloro 12 Pièces**
-   - Prix avant: 6,800 Ar
-   - Prix actuel: 6,900 Ar
-   - Variation: +100 Ar
+1. **Huile D’Olive Pomace 5 L**
+   - Prix avant: 280,000 Ar
+   - Prix actuel: 260,700 Ar
+   - Variation: -19,300 Ar
 
-2. **Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche**
-   - Prix avant: 7,300 Ar
-   - Prix actuel: 7,400 Ar
-   - Variation: +100 Ar
+2. **Canette sans sucre 33 cl**
+   - Prix avant: 3,000 Ar
+   - Prix actuel: 3,200 Ar
+   - Variation: +200 Ar
 
-3. **Huile De Soja 1 L**
-   - Prix avant: 9,700 Ar
-   - Prix actuel: 10,200 Ar
-   - Variation: +500 Ar
-
-4. **Huile De Tournesol 1 L**
-   - Prix avant: 12,400 Ar
-   - Prix actuel: 13,000 Ar
+3. **Shampooing Crème Nutrition Ultra Doux Richesse D'Argan 250 Ml**
+   - Prix avant: 12,900 Ar
+   - Prix actuel: 13,500 Ar
    - Variation: +600 Ar
 
-5. **Huile De Soja 1 L**
-   - Prix avant: 10,700 Ar
-   - Prix actuel: 11,800 Ar
-   - Variation: +1,100 Ar
+4. **Déodorant Compressé 48H Grenade 100 Ml**
+   - Prix avant: 17,500 Ar
+   - Prix actuel: 18,300 Ar
+   - Variation: +800 Ar
 
-6. **Huile De Tournesol 1 L**
-   - Prix avant: 12,500 Ar
-   - Prix actuel: 13,800 Ar
+5. **La Crème Visage Des Peaux Sensibles Bio 100 Ml**
+   - Prix avant: 29,000 Ar
+   - Prix actuel: 30,300 Ar
    - Variation: +1,300 Ar
 
-7. **Huile De Tournesol 1 L**
-   - Prix avant: 14,500 Ar
-   - Prix actuel: 16,000 Ar
-   - Variation: +1,500 Ar
+6. **Gel Crème Soin Corps Hydratant Body Superfood À La Pastèque 380 Ml**
+   - Prix avant: 38,100 Ar
+   - Prix actuel: 39,800 Ar
+   - Variation: +1,700 Ar
 
-8. **Apres Shampoing Soin Huile D'Argan**
-   - Prix avant: 20,800 Ar
-   - Prix actuel: 23,900 Ar
-   - Variation: +3,100 Ar
+7. **Crème Peau Grasse 5 En 1 Miracle Skin Perfector Bb Medium 50 Ml**
+   - Prix avant: 54,000 Ar
+   - Prix actuel: 56,400 Ar
+   - Variation: +2,400 Ar
 
-9. **Shampoing Extra Doux Huile D'Amande Douce 500 ml**
-   - Prix avant: 16,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Variation: +4,000 Ar
+8. **Crème Peau Grasse 5 En 1 Miracle Skin Perfector Bb Light 50 Ml**
+   - Prix avant: 54,000 Ar
+   - Prix actuel: 56,400 Ar
+   - Variation: +2,400 Ar
+
+9. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454**
+   - Prix avant: 62,100 Ar
+   - Prix actuel: 64,800 Ar
+   - Variation: +2,700 Ar
+
+10. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Chocolat Ganache 525**
+   - Prix avant: 62,100 Ar
+   - Prix actuel: 64,800 Ar
+   - Variation: +2,700 Ar
+
+11. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Châtain Craquant 400**
+   - Prix avant: 62,100 Ar
+   - Prix actuel: 64,800 Ar
+   - Variation: +2,700 Ar
+
+12. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Chocolat Noir 323**
+   - Prix avant: 62,100 Ar
+   - Prix actuel: 64,800 Ar
+   - Variation: +2,700 Ar
 
 
 
 ## Indice de prix
 
-1. **Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche**
-   - Prix avant: 7,300 Ar
-   - Prix actuel: 7,400 Ar
-   - Indice de prix : 101.37
+1. **Huile D’Olive Pomace 5 L**
+   - Prix avant: 280,000 Ar
+   - Prix actuel: 260,700 Ar
+   - Indice de prix : 93.11
 
-2. **Chewing-Gums Sans Sucres Style Chloro 12 Pièces**
-   - Prix avant: 6,800 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 101.47
+2. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454**
+   - Prix avant: 62,100 Ar
+   - Prix actuel: 64,800 Ar
+   - Indice de prix : 104.35
 
-3. **Huile De Tournesol 1 L**
-   - Prix avant: 12,400 Ar
-   - Prix actuel: 13,000 Ar
-   - Indice de prix : 104.84
+3. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Chocolat Ganache 525**
+   - Prix avant: 62,100 Ar
+   - Prix actuel: 64,800 Ar
+   - Indice de prix : 104.35
 
-4. **Huile De Soja 1 L**
-   - Prix avant: 9,700 Ar
-   - Prix actuel: 10,200 Ar
-   - Indice de prix : 105.15
+4. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Châtain Craquant 400**
+   - Prix avant: 62,100 Ar
+   - Prix actuel: 64,800 Ar
+   - Indice de prix : 104.35
 
-5. **Huile De Soja 1 L**
-   - Prix avant: 10,700 Ar
-   - Prix actuel: 11,800 Ar
-   - Indice de prix : 110.28
+5. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Chocolat Noir 323**
+   - Prix avant: 62,100 Ar
+   - Prix actuel: 64,800 Ar
+   - Indice de prix : 104.35
 
-6. **Huile De Tournesol 1 L**
-   - Prix avant: 14,500 Ar
-   - Prix actuel: 16,000 Ar
-   - Indice de prix : 110.34
+6. **Crème Peau Grasse 5 En 1 Miracle Skin Perfector Bb Medium 50 Ml**
+   - Prix avant: 54,000 Ar
+   - Prix actuel: 56,400 Ar
+   - Indice de prix : 104.44
 
-7. **Huile De Tournesol 1 L**
-   - Prix avant: 12,500 Ar
-   - Prix actuel: 13,800 Ar
-   - Indice de prix : 110.40
+7. **Crème Peau Grasse 5 En 1 Miracle Skin Perfector Bb Light 50 Ml**
+   - Prix avant: 54,000 Ar
+   - Prix actuel: 56,400 Ar
+   - Indice de prix : 104.44
 
-8. **Apres Shampoing Soin Huile D'Argan**
-   - Prix avant: 20,800 Ar
-   - Prix actuel: 23,900 Ar
-   - Indice de prix : 114.90
+8. **Gel Crème Soin Corps Hydratant Body Superfood À La Pastèque 380 Ml**
+   - Prix avant: 38,100 Ar
+   - Prix actuel: 39,800 Ar
+   - Indice de prix : 104.46
 
-9. **Shampoing Extra Doux Huile D'Amande Douce 500 ml**
-   - Prix avant: 16,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Indice de prix : 124.10
+9. **La Crème Visage Des Peaux Sensibles Bio 100 Ml**
+   - Prix avant: 29,000 Ar
+   - Prix actuel: 30,300 Ar
+   - Indice de prix : 104.48
+
+10. **Déodorant Compressé 48H Grenade 100 Ml**
+   - Prix avant: 17,500 Ar
+   - Prix actuel: 18,300 Ar
+   - Indice de prix : 104.57
+
+11. **Shampooing Crème Nutrition Ultra Doux Richesse D'Argan 250 Ml**
+   - Prix avant: 12,900 Ar
+   - Prix actuel: 13,500 Ar
+   - Indice de prix : 104.65
+
+12. **Canette sans sucre 33 cl**
+   - Prix avant: 3,000 Ar
+   - Prix actuel: 3,200 Ar
+   - Indice de prix : 106.67
 

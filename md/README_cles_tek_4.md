@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Huile De Soja 1 L**
-   - Prix avant: 9,300 Ar
-   - Prix actuel: 9,300 Ar
+1. **Sucre Blanc 1 Kg**
+   - Prix avant: 13,700 Ar
+   - Prix actuel: 13,700 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz blanc import de Inde 50 kg**
-   - Prix avant: 143,000 Ar
-   - Prix actuel: 143,000 Ar
+2. **Sucre Blanc Brésilien En Sac De 50 Kg**
+   - Prix avant: 272,000 Ar
+   - Prix actuel: 272,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz Rouge 5 Kg**
-   - Prix avant: 19,800 Ar
-   - Prix actuel: 19,800 Ar
+3. **Sucre Blanc 1 Kg**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

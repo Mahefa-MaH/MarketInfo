@@ -2,89 +2,70 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Papier hygiénique rose Le Classique 12 rouleaux**
-   - Prix avant: 19,855 Ar
-   - Prix actuel: 20,900 Ar
-   - Variation: +1,045 Ar
+1. **APPLE iPhone 11
+                                                  - Reconditionné**
+   - Prix avant: 1,349,100 Ar
+   - Prix actuel: 1,499,000 Ar
+   - Variation: +149,900 Ar
 
-2. **Biscuit petit beurre pocket 300g**
-   - Prix avant: 17,005 Ar
-   - Prix actuel: 17,900 Ar
-   - Variation: +895 Ar
+2. **Table à repasser Technic 130x44cm**
+   - Prix avant: 399,000 Ar
+   - Prix actuel: 420,000 Ar
+   - Variation: +21,000 Ar
 
-3. **Fromage La Mimolette 10 tranches 160g**
-   - Prix avant: 16,055 Ar
-   - Prix actuel: 16,900 Ar
-   - Variation: +845 Ar
-
-4. **Nectar multifruits en brique 2L**
-   - Prix avant: 16,055 Ar
-   - Prix actuel: 16,900 Ar
-   - Variation: +845 Ar
+3. **Séchoir tour 46 mètres**
+   - Prix avant: 261,250 Ar
+   - Prix actuel: 275,000 Ar
+   - Variation: +13,750 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Shampoing très doux à l'argile et citron vert 250ml**
+1. **Savon de toilette cerise 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Variation: -530 Ar
+
+2. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Variation: -530 Ar
+
+3. **Shampoing très doux à l'argile et citron vert 250ml**
    - Prix avant: 7,220 Ar
    - Prix actuel: 6,900 Ar
    - Variation: -320 Ar
 
-2. **Eau de Source 2L**
-   - Prix avant: 2,366 Ar
-   - Prix actuel: 2,490 Ar
-   - Variation: +124 Ar
-
-3. **Eponges mousse grattantes 2 pièces**
-   - Prix avant: 2,375 Ar
-   - Prix actuel: 2,500 Ar
-   - Variation: +125 Ar
-
-4. **Talc bébé poudre 75g**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Variation: +138 Ar
-
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Talc bébé poudre 75g**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
+1. **Koba aina nature 35g**
+   - Prix avant: 500 Ar
+   - Prix actuel: 590 Ar
+   - Indice de prix : 118.00
 
-2. **2 Éponges à récurer en inox**
-   - Prix avant: 2,755 Ar
-   - Prix actuel: 2,900 Ar
-   - Indice de prix : 105.26
+2. **Koba aina fraise 35g**
+   - Prix avant: 500 Ar
+   - Prix actuel: 590 Ar
+   - Indice de prix : 118.00
 
-3. **Eponges mousse grattantes 2 pièces**
-   - Prix avant: 2,375 Ar
-   - Prix actuel: 2,500 Ar
-   - Indice de prix : 105.26
-
-4. **Coquillettes Primo 500g**
-   - Prix avant: 2,945 Ar
-   - Prix actuel: 3,100 Ar
-   - Indice de prix : 105.26
+3. **Koba aina banane 35g**
+   - Prix avant: 500 Ar
+   - Prix actuel: 590 Ar
+   - Indice de prix : 118.00
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Shampoing très doux à l'argile et citron vert 250ml**
-   - Prix avant: 7,220 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 95.57
+1. **Savon de toilette cerise 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Indice de prix : 65.13
 
-2. **Eau de Source 2L**
-   - Prix avant: 2,366 Ar
-   - Prix actuel: 2,490 Ar
-   - Indice de prix : 105.24
+2. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Indice de prix : 65.13
 
-3. **4 Glaces en cornet citron x120ml**
-   - Prix avant: 15,105 Ar
-   - Prix actuel: 15,900 Ar
-   - Indice de prix : 105.26
-
-4. **Biscuit avec tablette de chocolat au lait 150g**
-   - Prix avant: 7,505 Ar
-   - Prix actuel: 7,900 Ar
-   - Indice de prix : 105.26
+3. **Yaourt brasse sucré pomme rouge 100g**
+   - Prix avant: 1,100 Ar
+   - Prix actuel: 950 Ar
+   - Indice de prix : 86.36
 

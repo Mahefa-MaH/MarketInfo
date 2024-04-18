@@ -1,132 +1,174 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3631,
-      "name": "Chewing-Gums Sans Sucres Style Chloro 12 Pi\u00e8ces",
-      "prix_base": 6800,
-      "prix_comparaison": 6900,
-      "variation": 100
+      "list_id": 4011,
+      "name": "Huile D\u2019Olive Pomace 5 L",
+      "prix_base": 280000,
+      "prix_comparaison": 260700,
+      "variation": -19300
     },
     {
-      "list_id": 3630,
-      "name": "Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche",
-      "prix_base": 7300,
-      "prix_comparaison": 7400,
-      "variation": 100
+      "list_id": 4673,
+      "name": "Canette sans sucre 33 cl",
+      "prix_base": 3000,
+      "prix_comparaison": 3200,
+      "variation": 200
     },
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9700,
-      "prix_comparaison": 10200,
-      "variation": 500
-    },
-    {
-      "list_id": 3829,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 12400,
-      "prix_comparaison": 13000,
+      "list_id": 4032,
+      "name": "Shampooing Cr\u00e8me Nutrition Ultra Doux Richesse D'Argan 250 Ml",
+      "prix_base": 12900,
+      "prix_comparaison": 13500,
       "variation": 600
     },
     {
-      "list_id": 3828,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 10700,
-      "prix_comparaison": 11800,
-      "variation": 1100
+      "list_id": 4139,
+      "name": "D\u00e9odorant Compress\u00e9 48H Grenade 100 Ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18300,
+      "variation": 800
     },
     {
-      "list_id": 3830,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 12500,
-      "prix_comparaison": 13800,
+      "list_id": 4129,
+      "name": "La Cr\u00e8me Visage Des Peaux Sensibles Bio 100 Ml",
+      "prix_base": 29000,
+      "prix_comparaison": 30300,
       "variation": 1300
     },
     {
-      "list_id": 3831,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 14500,
-      "prix_comparaison": 16000,
-      "variation": 1500
+      "list_id": 4036,
+      "name": "Gel Cr\u00e8me Soin Corps Hydratant Body Superfood \u00c0 La Past\u00e8que 380 Ml",
+      "prix_base": 38100,
+      "prix_comparaison": 39800,
+      "variation": 1700
     },
     {
-      "list_id": 1367,
-      "name": "Apres Shampoing Soin Huile D'Argan",
-      "prix_base": 20800,
-      "prix_comparaison": 23900,
-      "variation": 3100
+      "list_id": 4044,
+      "name": "Cr\u00e8me Peau Grasse 5 En 1 Miracle Skin Perfector Bb Medium 50 Ml",
+      "prix_base": 54000,
+      "prix_comparaison": 56400,
+      "variation": 2400
     },
     {
-      "list_id": 1365,
-      "name": "Shampoing Extra Doux Huile D'Amande Douce 500 ml",
-      "prix_base": 16600,
-      "prix_comparaison": 20600,
-      "variation": 4000
+      "list_id": 4043,
+      "name": "Cr\u00e8me Peau Grasse 5 En 1 Miracle Skin Perfector Bb Light 50 Ml",
+      "prix_base": 54000,
+      "prix_comparaison": 56400,
+      "variation": 2400
+    },
+    {
+      "list_id": 4171,
+      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454",
+      "prix_base": 62100,
+      "prix_comparaison": 64800,
+      "variation": 2700
+    },
+    {
+      "list_id": 4172,
+      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Chocolat Ganache 525",
+      "prix_base": 62100,
+      "prix_comparaison": 64800,
+      "variation": 2700
+    },
+    {
+      "list_id": 4174,
+      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Ch\u00e2tain Craquant 400",
+      "prix_base": 62100,
+      "prix_comparaison": 64800,
+      "variation": 2700
+    },
+    {
+      "list_id": 4175,
+      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Chocolat Noir 323",
+      "prix_base": 62100,
+      "prix_comparaison": 64800,
+      "variation": 2700
     }
   ],
   "indice de prix": [
     {
-      "list_id": 3630,
-      "name": "Chewing-Gums 2 Fresh Sans Sucre Menthe Fraiche",
-      "prix_base": 7300,
-      "prix_comparaison": 7400,
-      "indice_prix": 101.36986301369863
+      "list_id": 4011,
+      "name": "Huile D\u2019Olive Pomace 5 L",
+      "prix_base": 280000,
+      "prix_comparaison": 260700,
+      "indice_prix": 93.10714285714286
     },
     {
-      "list_id": 3631,
-      "name": "Chewing-Gums Sans Sucres Style Chloro 12 Pi\u00e8ces",
-      "prix_base": 6800,
-      "prix_comparaison": 6900,
-      "indice_prix": 101.47058823529412
+      "list_id": 4171,
+      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454",
+      "prix_base": 62100,
+      "prix_comparaison": 64800,
+      "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 3829,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 12400,
-      "prix_comparaison": 13000,
-      "indice_prix": 104.83870967741936
+      "list_id": 4172,
+      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Chocolat Ganache 525",
+      "prix_base": 62100,
+      "prix_comparaison": 64800,
+      "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9700,
-      "prix_comparaison": 10200,
-      "indice_prix": 105.15463917525773
+      "list_id": 4174,
+      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Ch\u00e2tain Craquant 400",
+      "prix_base": 62100,
+      "prix_comparaison": 64800,
+      "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 3828,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 10700,
-      "prix_comparaison": 11800,
-      "indice_prix": 110.2803738317757
+      "list_id": 4175,
+      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Chocolat Noir 323",
+      "prix_base": 62100,
+      "prix_comparaison": 64800,
+      "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 3831,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 14500,
-      "prix_comparaison": 16000,
-      "indice_prix": 110.34482758620689
+      "list_id": 4044,
+      "name": "Cr\u00e8me Peau Grasse 5 En 1 Miracle Skin Perfector Bb Medium 50 Ml",
+      "prix_base": 54000,
+      "prix_comparaison": 56400,
+      "indice_prix": 104.44444444444444
     },
     {
-      "list_id": 3830,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 12500,
-      "prix_comparaison": 13800,
-      "indice_prix": 110.4
+      "list_id": 4043,
+      "name": "Cr\u00e8me Peau Grasse 5 En 1 Miracle Skin Perfector Bb Light 50 Ml",
+      "prix_base": 54000,
+      "prix_comparaison": 56400,
+      "indice_prix": 104.44444444444444
     },
     {
-      "list_id": 1367,
-      "name": "Apres Shampoing Soin Huile D'Argan",
-      "prix_base": 20800,
-      "prix_comparaison": 23900,
-      "indice_prix": 114.90384615384616
+      "list_id": 4036,
+      "name": "Gel Cr\u00e8me Soin Corps Hydratant Body Superfood \u00c0 La Past\u00e8que 380 Ml",
+      "prix_base": 38100,
+      "prix_comparaison": 39800,
+      "indice_prix": 104.46194225721784
     },
     {
-      "list_id": 1365,
-      "name": "Shampoing Extra Doux Huile D'Amande Douce 500 ml",
-      "prix_base": 16600,
-      "prix_comparaison": 20600,
-      "indice_prix": 124.09638554216868
+      "list_id": 4129,
+      "name": "La Cr\u00e8me Visage Des Peaux Sensibles Bio 100 Ml",
+      "prix_base": 29000,
+      "prix_comparaison": 30300,
+      "indice_prix": 104.48275862068965
+    },
+    {
+      "list_id": 4139,
+      "name": "D\u00e9odorant Compress\u00e9 48H Grenade 100 Ml",
+      "prix_base": 17500,
+      "prix_comparaison": 18300,
+      "indice_prix": 104.57142857142857
+    },
+    {
+      "list_id": 4032,
+      "name": "Shampooing Cr\u00e8me Nutrition Ultra Doux Richesse D'Argan 250 Ml",
+      "prix_base": 12900,
+      "prix_comparaison": 13500,
+      "indice_prix": 104.65116279069767
+    },
+    {
+      "list_id": 4673,
+      "name": "Canette sans sucre 33 cl",
+      "prix_base": 3000,
+      "prix_comparaison": 3200,
+      "indice_prix": 106.66666666666667
     }
   ]
 }
