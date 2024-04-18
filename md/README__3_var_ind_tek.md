@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Amandes Décortiquées 125 G**
-   - Prix avant: 38,600 Ar
-   - Prix actuel: 45,200 Ar
-   - Variation: +6,600 Ar
+1. **Destructeur MOMENTUM X312-SL  DIN P3  12 flles  23 litres**
+   - Prix avant: 963,800 Ar
+   - Prix actuel: 1,005,700 Ar
+   - Variation: +41,900 Ar
 
-2. **Shampoing Disciplinant Extra De Jicama 500 Ml**
-   - Prix avant: 16,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Variation: +4,000 Ar
+2. **Machine à plastifier Saturn 3i A4 230 V**
+   - Prix avant: 892,200 Ar
+   - Prix actuel: 931,000 Ar
+   - Variation: +38,800 Ar
 
-3. **Shampoing Extra Doux Huile D'Amande Douce 500 ml**
-   - Prix avant: 16,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Variation: +4,000 Ar
+3. **Lifter Gloss Brillant à Lèvres Hydratant 016 Rouille**
+   - Prix avant: 56,800 Ar
+   - Prix actuel: 62,000 Ar
+   - Variation: +5,200 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Pâtes Courtes Penne Rigate 3 Kg**
-   - Prix avant: 60,000 Ar
-   - Prix actuel: 57,600 Ar
-   - Variation: -2,400 Ar
+1. **Machine À Expresso Avec Broyeur 1450 w**
+   - Prix avant: 2,543,000 Ar
+   - Prix actuel: 2,388,200 Ar
+   - Variation: -154,800 Ar
 
-2. **Savon Barre 800 G**
-   - Prix avant: 10,965 Ar
-   - Prix actuel: 10,200 Ar
-   - Variation: -765 Ar
+2. **Batteuse À Bol 1200 W**
+   - Prix avant: 2,492,800 Ar
+   - Prix actuel: 2,341,100 Ar
+   - Variation: -151,700 Ar
 
-3. **Sauce Pesto Rosso 135 G**
-   - Prix avant: 20,000 Ar
-   - Prix actuel: 19,800 Ar
-   - Variation: -200 Ar
+3. **Gazinière 120 L**
+   - Prix avant: 1,771,700 Ar
+   - Prix actuel: 1,663,900 Ar
+   - Variation: -107,800 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Shampoing Disciplinant Extra De Jicama 500 Ml**
-   - Prix avant: 16,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Indice de prix : 124.10
+1. **Crayon graphite black'Peps JUMBO HB 1 pièce**
+   - Prix avant: 1,500 Ar
+   - Prix actuel: 2,000 Ar
+   - Indice de prix : 133.33
 
-2. **Shampoing Extra Doux Huile D'Amande Douce 500 ml**
-   - Prix avant: 16,600 Ar
-   - Prix actuel: 20,600 Ar
-   - Indice de prix : 124.10
+2. **Gomme blanche Essentials plast soft 1 pièce**
+   - Prix avant: 700 Ar
+   - Prix actuel: 800 Ar
+   - Indice de prix : 114.29
 
-3. **Gel Douche Extra Doux Poire 300 ml**
-   - Prix avant: 15,200 Ar
-   - Prix actuel: 18,400 Ar
-   - Indice de prix : 121.05
+3. **Crayon graphite black'Peps HB 1 pièce**
+   - Prix avant: 900 Ar
+   - Prix actuel: 1,000 Ar
+   - Indice de prix : 111.11
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Savon Barre 800 G**
-   - Prix avant: 10,965 Ar
-   - Prix actuel: 10,200 Ar
-   - Indice de prix : 93.02
+1. **Classeur (Serodo) 3 mm boîte de 100**
+   - Prix avant: 44,300 Ar
+   - Prix actuel: 33,200 Ar
+   - Indice de prix : 74.94
 
-2. **Pâtes Courtes Penne Rigate 3 Kg**
-   - Prix avant: 60,000 Ar
-   - Prix actuel: 57,600 Ar
-   - Indice de prix : 96.00
+2. **Rame de papier A4 80 g**
+   - Prix avant: 24,300 Ar
+   - Prix actuel: 21,600 Ar
+   - Indice de prix : 88.89
 
-3. **Sauce Pesto Rosso 135 G**
-   - Prix avant: 20,000 Ar
-   - Prix actuel: 19,800 Ar
-   - Indice de prix : 99.00
+3. **Couche bébé Twin Pants Junior 30 pièces**
+   - Prix avant: 33,800 Ar
+   - Prix actuel: 31,200 Ar
+   - Indice de prix : 92.31
 

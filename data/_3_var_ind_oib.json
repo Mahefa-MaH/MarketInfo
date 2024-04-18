@@ -1,48 +1,62 @@
 {
   "prix_augmentes": [
     {
+      "cle": "consoles_15130consoleplaystation5editiondigitalslim_html",
+      "name": "Console PlayStation 5 - Edition Digital-Slim",
+      "prix_base": 2419000,
+      "prix_comparaison": 2680000,
+      "variation": 261000
+    },
+    {
+      "cle": "consoles_15131consolexboxseriess1tonoir_html",
+      "name": "Console Xbox Series S 1To Noir",
+      "prix_base": 1849000,
+      "prix_comparaison": 2055000,
+      "variation": 206000
+    },
+    {
+      "cle": "consoles_15132consolenintendoswitchmodeleolededitionlimiteemariorouge_html",
+      "name": "Console Nintendo Switch - Modele OLED \u2022 \u00c9dition Limit\u00e9e Mario (Rouge)",
+      "prix_base": 1699000,
+      "prix_comparaison": 1866000,
+      "variation": 167000
+    },
+    {
       "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
       "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
       "prix_base": 1349100,
       "prix_comparaison": 1499000,
       "variation": 149900
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_11689tablearepassertechnic130x44cmdomedia_html",
-      "name": "Table \u00e0 repasser Technic 130x44cm",
-      "prix_base": 399000,
-      "prix_comparaison": 420000,
-      "variation": 21000
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_11801sechoirtour46metresdomedia_html",
-      "name": "S\u00e9choir tour 46 m\u00e8tres",
-      "prix_base": 261250,
-      "prix_comparaison": 275000,
-      "variation": 13750
     }
   ],
   "prix_diminues": [
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
+      "cle": "fromagesduresetrapes_10403fromagesaintpaulinboule1kg_html",
+      "name": "Fromage Saint Paulin boule 1kg",
+      "prix_base": 68000,
+      "prix_comparaison": 61000,
+      "variation": -7000
     },
     {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
+      "cle": "fromagesduresetrapes_10404fromagesaintpaulinboule250g_html",
+      "name": "Fromage Saint Paulin boule 250g",
+      "prix_base": 21000,
+      "prix_comparaison": 18900,
+      "variation": -2100
     },
     {
-      "cle": "shampoings_12967shampoingtresdouxalargilecitronvert250mllabell_html",
-      "name": "Shampoing tr\u00e8s doux \u00e0 l'argile et citron vert 250ml",
-      "prix_base": 7220,
-      "prix_comparaison": 6900,
-      "variation": -320
+      "cle": "fromagesduresetrapes_734fromagenytsiroedam250g_html",
+      "name": "Fromage Ny Tsiro Edam 250g",
+      "prix_base": 21000,
+      "prix_comparaison": 18900,
+      "variation": -2100
+    },
+    {
+      "cle": "fromagesfondusetatartiner_7152lecamembertaulaitfrais250g_html",
+      "name": "Le camembert au lait frais 250g",
+      "prix_base": 18500,
+      "prix_comparaison": 16650,
+      "variation": -1850
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,6 +80,13 @@
       "prix_base": 500,
       "prix_comparaison": 590,
       "indice_prix": 118.0
+    },
+    {
+      "cle": "accessoirespourlentretiendulinge_14401coffrealinge55l_html",
+      "name": "Coffre \u00e0 linge 55L",
+      "prix_base": 70300,
+      "prix_comparaison": 79000,
+      "indice_prix": 112.37553342816501
     }
   ],
   "indices_prix_plus_faibles": [
@@ -89,6 +110,13 @@
       "prix_base": 1100,
       "prix_comparaison": 950,
       "indice_prix": 86.36363636363636
+    },
+    {
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 13000,
+      "prix_comparaison": 11500,
+      "indice_prix": 88.46153846153847
     }
   ]
 }
