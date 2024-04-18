@@ -54,17 +54,17 @@
       "indice_prix": 105.2833078101072
     },
     {
-      "cle": "thesetinfusions_12982thenoirearlgreyalabergamote25sachetsx50gcotterley_html",
-      "name": "Th\u00e9 noir earl grey \u00e0 la bergamote 25 sachets x50g",
-      "prix_base": 6555,
-      "prix_comparaison": 6900,
-      "indice_prix": 105.26315789473684
-    },
-    {
       "cle": "epongesbrossesetgants_124962epongesarecurereninoxapta_html",
       "name": "2 \u00c9ponges \u00e0 r\u00e9curer en inox",
       "prix_base": 2755,
       "prix_comparaison": 2900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "produitskibomoinsde5000ar_6302epongesmoussegrattantes2pieces_html",
+      "name": "Eponges mousse grattantes 2 pi\u00e8ces",
+      "prix_base": 2375,
+      "prix_comparaison": 2500,
       "indice_prix": 105.26315789473684
     }
   ],

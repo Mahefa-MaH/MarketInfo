@@ -41,14 +41,14 @@
    - Prix actuel: 2,750 Ar
    - Indice de prix : 105.28
 
-2. **Thé noir earl grey à la bergamote 25 sachets x50g**
-   - Prix avant: 6,555 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 105.26
-
-3. **2 Éponges à récurer en inox**
+2. **2 Éponges à récurer en inox**
    - Prix avant: 2,755 Ar
    - Prix actuel: 2,900 Ar
+   - Indice de prix : 105.26
+
+3. **Eponges mousse grattantes 2 pièces**
+   - Prix avant: 2,375 Ar
+   - Prix actuel: 2,500 Ar
    - Indice de prix : 105.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
