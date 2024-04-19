@@ -1,18 +1,25 @@
 {
   "prix_augmentes": [
     {
-      "cle": "sucres_4881sucreblancfana1kg_html",
-      "name": "Sucre blanc Fana 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6290,
-      "variation": -610
+      "cle": "classeursscolaires_6191classeurleviera4dos80mm_html",
+      "name": "Classeur levier A4 Dos 80mm",
+      "prix_base": 13395,
+      "prix_comparaison": 14100,
+      "variation": 705
     },
     {
-      "cle": "gelsetbainsdouche_13908bainmoussantparfumfleuri750mltopbudget_html",
-      "name": "Bain moussant parfum fleuri 750ml",
-      "prix_base": 5400,
-      "prix_comparaison": 4500,
-      "variation": -900
+      "cle": "biscuitssalesetbretzels_12213biscuitssnackyfinsetfondants100gbelin_html",
+      "name": "Biscuits Snacky fins et fondants 100g",
+      "prix_base": 5890,
+      "prix_comparaison": 6200,
+      "variation": 310
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1852yaourtbrassenaturesucre100g_html",
+      "name": "Yaourt brasse nature sucre 100g",
+      "prix_base": 1050,
+      "prix_comparaison": 890,
+      "variation": -160
     }
   ],
   "prix_diminues": [
@@ -29,22 +36,36 @@
       "prix_base": 85000,
       "prix_comparaison": 57000,
       "variation": -28000
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
+      "name": "Cappuccino noisette en bo\u00eete 270g",
+      "prix_base": 44500,
+      "prix_comparaison": 22500,
+      "variation": -22000
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "biscuitssalesetbretzels_12213biscuitssnackyfinsetfondants100gbelin_html",
+      "name": "Biscuits Snacky fins et fondants 100g",
+      "prix_base": 5890,
+      "prix_comparaison": 6200,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "classeursscolaires_6191classeurleviera4dos80mm_html",
+      "name": "Classeur levier A4 Dos 80mm",
+      "prix_base": 13395,
+      "prix_comparaison": 14100,
+      "indice_prix": 105.26315789473684
+    },
     {
       "cle": "sucres_4881sucreblancfana1kg_html",
       "name": "Sucre blanc Fana 1kg",
       "prix_base": 6900,
       "prix_comparaison": 6290,
       "indice_prix": 91.15942028985508
-    },
-    {
-      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
-      "name": "Cr\u00e8me lavante lait et miel 750ml",
-      "prix_base": 8900,
-      "prix_comparaison": 7900,
-      "indice_prix": 88.76404494382022
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +82,13 @@
       "prix_base": 44500,
       "prix_comparaison": 22500,
       "indice_prix": 50.561797752808985
+    },
+    {
+      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
+      "name": "20 Sacs poubelle transparent 50L",
+      "prix_base": 9350,
+      "prix_comparaison": 5000,
+      "indice_prix": 53.475935828877006
     }
   ]
 }

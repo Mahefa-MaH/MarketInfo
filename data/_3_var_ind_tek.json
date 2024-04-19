@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 4506,
-      "prix_base": 963800,
-      "name": "Destructeur MOMENTUM X312-SL  DIN P3  12 flles  23 litres",
-      "prix_comparaison": 1005700,
-      "variation": 41900
+      "list_id": 8846,
+      "prix_base": 36000,
+      "name": "Recharge liquide 45 nuits bois\u00e9es agrumes",
+      "prix_comparaison": 49000,
+      "variation": 13000
     },
     {
-      "list_id": 4612,
-      "prix_base": 892200,
-      "name": "Machine \u00e0 plastifier Saturn 3i A4 230 V",
-      "prix_comparaison": 931000,
-      "variation": 38800
+      "list_id": 8855,
+      "prix_base": 33200,
+      "name": "Recharge liquide pour diffuseur \u00e9lectrique 45 nuits",
+      "prix_comparaison": 45300,
+      "variation": 12100
     },
     {
-      "list_id": 4598,
-      "prix_base": 56800,
-      "name": "Lifter Gloss Brillant \u00e0 L\u00e8vres Hydratant 016 Rouille",
-      "prix_comparaison": 62000,
-      "variation": 5200
+      "list_id": 8861,
+      "prix_base": 27500,
+      "name": "Spray insecticide Sp\u00e9cial Insectes Volants 400 ml",
+      "prix_comparaison": 39200,
+      "variation": 11700
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4751,
-      "prix_base": 2543000,
-      "name": "Machine \u00c0 Expresso Avec Broyeur 1450 w",
-      "prix_comparaison": 2388200,
-      "variation": -154800
+      "list_id": 4826,
+      "prix_base": 641300,
+      "name": "Micro-Onde 800 W",
+      "prix_comparaison": 602300,
+      "variation": -39000
     },
     {
-      "list_id": 4740,
-      "prix_base": 2492800,
-      "name": "Batteuse \u00c0 Bol 1200 W",
-      "prix_comparaison": 2341100,
-      "variation": -151700
+      "list_id": 4822,
+      "prix_base": 522200,
+      "name": "Four \u00c9lectrique 2000 W",
+      "prix_comparaison": 490400,
+      "variation": -31800
     },
     {
-      "list_id": 4785,
-      "prix_base": 1771700,
-      "name": "Gazini\u00e8re 120 L",
-      "prix_comparaison": 1663900,
-      "variation": -107800
+      "list_id": 4863,
+      "prix_base": 595400,
+      "name": "Refroidisseur D\u2019Air 130 W",
+      "prix_comparaison": 563700,
+      "variation": -31700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 4313,
-      "name": "Crayon graphite black'Peps JUMBO HB 1 pi\u00e8ce",
-      "prix_base": 1500,
-      "prix_comparaison": 2000,
-      "indice_prix": 133.33333333333334
+      "list_id": 8861,
+      "name": "Spray insecticide Sp\u00e9cial Insectes Volants 400 ml",
+      "prix_base": 27500,
+      "prix_comparaison": 39200,
+      "indice_prix": 142.54545454545453
     },
     {
-      "list_id": 4349,
-      "name": "Gomme blanche Essentials plast soft 1 pi\u00e8ce",
-      "prix_base": 700,
-      "prix_comparaison": 800,
-      "indice_prix": 114.28571428571429
+      "list_id": 8867,
+      "name": "Attrape-mouches 4 rubans",
+      "prix_base": 6400,
+      "prix_comparaison": 9000,
+      "indice_prix": 140.625
     },
     {
-      "list_id": 4308,
-      "name": "Crayon graphite black'Peps HB 1 pi\u00e8ce",
-      "prix_base": 900,
-      "prix_comparaison": 1000,
-      "indice_prix": 111.11111111111111
+      "list_id": 8842,
+      "name": "Sachets parfum\u00e9s fleur d'oranger 24 unit\u00e9s",
+      "prix_base": 19700,
+      "prix_comparaison": 27000,
+      "indice_prix": 137.05583756345177
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 4568,
-      "name": "Classeur (Serodo) 3 mm bo\u00eete de 100",
-      "prix_base": 44300,
-      "prix_comparaison": 33200,
-      "indice_prix": 74.94356659142213
+      "list_id": 13045,
+      "name": "La pointe de Brie cr\u00e9meux 200 g",
+      "prix_base": 43100,
+      "prix_comparaison": 39500,
+      "indice_prix": 91.64733178654292
     },
     {
-      "list_id": 4520,
-      "name": "Rame de papier A4 80 g",
-      "prix_base": 24300,
-      "prix_comparaison": 21600,
-      "indice_prix": 88.88888888888889
+      "list_id": 13066,
+      "name": "Mimolette jeune 290 g",
+      "prix_base": 52700,
+      "prix_comparaison": 49400,
+      "indice_prix": 93.7381404174573
     },
     {
-      "list_id": 4589,
-      "name": "Couche b\u00e9b\u00e9 Twin Pants Junior 30 pi\u00e8ces",
-      "prix_base": 33800,
-      "prix_comparaison": 31200,
-      "indice_prix": 92.3076923076923
+      "list_id": 4804,
+      "name": "Grille Pain 700 W",
+      "prix_base": 73500,
+      "prix_comparaison": 69000,
+      "indice_prix": 93.87755102040816
     }
   ]
 }

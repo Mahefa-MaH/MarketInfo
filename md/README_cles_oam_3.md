@@ -14,3 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
+3. **Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sidéral**
+   - Prix avant: 10,786,000 Ar
+   - Prix actuel: 10,786,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+

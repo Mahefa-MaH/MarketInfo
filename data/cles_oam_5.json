@@ -1,10 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "televiseurled_138339samsung75qn85btvneoqledminiled75189cm4kuhd3840x2160100hzsmarttvgaminghub4xhdmi8806094906233_html",
-      "name": "Samsung 75QN85B - TV NeoQLED MiniLED 75'' (189 cm) - 4K UHD 3840x2160 - 100Hz - Smart TV - Gaming HUB - 4xHDMI",
-      "prix_base": 10813000,
-      "prix_comparaison": 10813000,
+      "cle": "tablettetactile_63212appleipadpro2022129wifi2togrissideral0194253243571_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 12697000,
+      "prix_comparaison": 12697000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
+      "prix_base": 11216000,
+      "prix_comparaison": 11216000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
+      "prix_base": 11343000,
+      "prix_comparaison": 11343000,
       "variation": 0,
       "indice_prix": 100.0
     }
