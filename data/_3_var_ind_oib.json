@@ -1,150 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "consoles_15130consoleplaystation5editiondigitalslim_html",
-      "name": "Console PlayStation 5 - Edition Digital-Slim",
-      "prix_base": 2419000,
-      "prix_comparaison": 2680000,
-      "variation": 261000
+      "cle": "sucres_4881sucreblancfana1kg_html",
+      "name": "Sucre blanc Fana 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6290,
+      "variation": -610
     },
     {
-      "cle": "consoles_15131consolexboxseriess1tonoir_html",
-      "name": "Console Xbox Series S 1To Noir",
-      "prix_base": 1849000,
-      "prix_comparaison": 2055000,
-      "variation": 206000
-    },
-    {
-      "cle": "consoles_15132consolenintendoswitchmodeleolededitionlimiteemariorouge_html",
-      "name": "Console Nintendo Switch - Modele OLED \u2022 \u00c9dition Limit\u00e9e Mario (Rouge)",
-      "prix_base": 1699000,
-      "prix_comparaison": 1866000,
-      "variation": 167000
-    },
-    {
-      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1349100,
-      "prix_comparaison": 1499000,
-      "variation": 149900
-    },
-    {
-      "cle": "consoles_14602consolenintendoswitchavecunjoyconrougenonetunjoyconbleunon_html",
-      "name": "Console Nintendo Switch Bleu N\u00e9on & Rouge N\u00e9on",
-      "prix_base": 1459000,
-      "prix_comparaison": 1606000,
-      "variation": 147000
+      "cle": "gelsetbainsdouche_13908bainmoussantparfumfleuri750mltopbudget_html",
+      "name": "Bain moussant parfum fleuri 750ml",
+      "prix_base": 5400,
+      "prix_comparaison": 4500,
+      "variation": -900
     }
   ],
   "prix_diminues": [
     {
-      "cle": "fromagesduresetrapes_10403fromagesaintpaulinboule1kg_html",
-      "name": "Fromage Saint Paulin boule 1kg",
-      "prix_base": 68000,
-      "prix_comparaison": 61000,
-      "variation": -7000
+      "cle": "poeleetcasserole_9495sauteuseinoxainductiono26cm_html",
+      "name": "Sauteuse inox \u00e0 induction \u00d826cm",
+      "prix_base": 170000,
+      "prix_comparaison": 125000,
+      "variation": -45000
     },
     {
-      "cle": "fromagesduresetrapes_10404fromagesaintpaulinboule250g_html",
-      "name": "Fromage Saint Paulin boule 250g",
-      "prix_base": 21000,
-      "prix_comparaison": 18900,
-      "variation": -2100
-    },
-    {
-      "cle": "fromagesduresetrapes_734fromagenytsiroedam250g_html",
-      "name": "Fromage Ny Tsiro Edam 250g",
-      "prix_base": 21000,
-      "prix_comparaison": 18900,
-      "variation": -2100
-    },
-    {
-      "cle": "fromagesfondusetatartiner_7152lecamembertaulaitfrais250g_html",
-      "name": "Le camembert au lait frais 250g",
-      "prix_base": 18500,
-      "prix_comparaison": 16650,
-      "variation": -1850
-    },
-    {
-      "cle": "beurres_2114beurresocolaitdemisel200g_html",
-      "name": "Beurre demi sel Socolait 200g",
-      "prix_base": 13000,
-      "prix_comparaison": 11500,
-      "variation": -1500
+      "cle": "poeleetcasserole_4147cass20alugazelecvitro_html",
+      "name": "Casserole aluminium 20cm",
+      "prix_base": 85000,
+      "prix_comparaison": 57000,
+      "variation": -28000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "farinecerealepetitdejeuner_919kobaainanature35g_html",
-      "name": "Koba aina nature 35g",
-      "prix_base": 500,
-      "prix_comparaison": 590,
-      "indice_prix": 118.0
+      "cle": "sucres_4881sucreblancfana1kg_html",
+      "name": "Sucre blanc Fana 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6290,
+      "indice_prix": 91.15942028985508
     },
     {
-      "cle": "farinecerealepetitdejeuner_920kobaainafraise35g_html",
-      "name": "Koba aina fraise 35g",
-      "prix_base": 500,
-      "prix_comparaison": 590,
-      "indice_prix": 118.0
-    },
-    {
-      "cle": "farinecerealepetitdejeuner_918kobaainabanane35g_html",
-      "name": "Koba aina banane 35g",
-      "prix_base": 500,
-      "prix_comparaison": 590,
-      "indice_prix": 118.0
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_14401coffrealinge55l_html",
-      "name": "Coffre \u00e0 linge 55L",
-      "prix_base": 70300,
-      "prix_comparaison": 79000,
-      "indice_prix": 112.37553342816501
-    },
-    {
-      "cle": "consoles_15131consolexboxseriess1tonoir_html",
-      "name": "Console Xbox Series S 1To Noir",
-      "prix_base": 1849000,
-      "prix_comparaison": 2055000,
-      "indice_prix": 111.14115738236885
+      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
+      "name": "Cr\u00e8me lavante lait et miel 750ml",
+      "prix_base": 8900,
+      "prix_comparaison": 7900,
+      "indice_prix": 88.76404494382022
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
+      "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
+      "name": "Cappuccino noisette en bo\u00eete 270g",
+      "prix_base": 44500,
+      "prix_comparaison": 22500,
+      "indice_prix": 50.561797752808985
     },
     {
-      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
-      "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_7037yaourtbrassesucrepommerouge100g_html",
-      "name": "Yaourt brasse sucr\u00e9 pomme rouge 100g",
-      "prix_base": 1100,
-      "prix_comparaison": 950,
-      "indice_prix": 86.36363636363636
-    },
-    {
-      "cle": "beurres_2114beurresocolaitdemisel200g_html",
-      "name": "Beurre demi sel Socolait 200g",
-      "prix_base": 13000,
-      "prix_comparaison": 11500,
-      "indice_prix": 88.46153846153847
-    },
-    {
-      "cle": "beurres_2113beurredouxsocolait200g_html",
-      "name": "Beurre doux Socolait 200g",
-      "prix_base": 13000,
-      "prix_comparaison": 11500,
-      "indice_prix": 88.46153846153847
+      "cle": "cafesolublechicoreecappuccino_10246cappuccinovanille18tassesenboite310g_html",
+      "name": "Cappuccino vanille 18 tasses en boite 310g",
+      "prix_base": 44500,
+      "prix_comparaison": 22500,
+      "indice_prix": 50.561797752808985
     }
   ]
 }

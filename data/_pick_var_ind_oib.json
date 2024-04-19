@@ -1,62 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "cremeschantillyaidesculinaires_580cremeuht1lx635mggrandfermage_html",
-      "name": "Cr\u00e8me UHT 35%mg 1L",
-      "prix_base": 39900,
-      "prix_comparaison": 37905,
-      "variation": -1995
-    },
-    {
-      "cle": "cremeschantillyaidesculinaires_2134cremeliquidevegetalegourmet1l_html",
-      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale gourmet 1L",
-      "prix_base": 21000,
-      "prix_comparaison": 19950,
-      "variation": -1050
-    },
-    {
-      "cle": "cremeschantillyaidesculinaires_2133cremeliquidevegetalenonsucree1l_html",
-      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale non sucr\u00e9e 1L",
-      "prix_base": 21000,
-      "prix_comparaison": 19950,
-      "variation": -1050
-    },
-    {
-      "cle": "cremeschantillyaidesculinaires_2132cremeliquidevegetalesucree1l_html",
-      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale sucr\u00e9e 1L",
-      "prix_base": 21000,
-      "prix_comparaison": 19950,
-      "variation": -1050
+      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
+      "name": "Cr\u00e8me lavante lait et miel 750ml",
+      "prix_base": 8900,
+      "prix_comparaison": 7900,
+      "variation": -1000
     }
   ],
   "indice de prix": [
     {
-      "cle": "cremeschantillyaidesculinaires_2134cremeliquidevegetalegourmet1l_html",
-      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale gourmet 1L",
-      "prix_base": 21000,
-      "prix_comparaison": 19950,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "cremeschantillyaidesculinaires_2133cremeliquidevegetalenonsucree1l_html",
-      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale non sucr\u00e9e 1L",
-      "prix_base": 21000,
-      "prix_comparaison": 19950,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "cremeschantillyaidesculinaires_2132cremeliquidevegetalesucree1l_html",
-      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale sucr\u00e9e 1L",
-      "prix_base": 21000,
-      "prix_comparaison": 19950,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "cremeschantillyaidesculinaires_580cremeuht1lx635mggrandfermage_html",
-      "name": "Cr\u00e8me UHT 35%mg 1L",
-      "prix_base": 39900,
-      "prix_comparaison": 37905,
-      "indice_prix": 95.0
+      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
+      "name": "Cr\u00e8me lavante lait et miel 750ml",
+      "prix_base": 8900,
+      "prix_comparaison": 7900,
+      "indice_prix": 88.76404494382022
     }
   ]
 }

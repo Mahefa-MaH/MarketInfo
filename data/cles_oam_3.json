@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
-      "prix_base": 10362000,
-      "prix_comparaison": 10362000,
+      "cle": "unitecentraleseuleminipc_92289pcdebureaugamingomenbyhp40lgt211033nfintelcorei713700kram32go1tossdgeforcertx408016gowindows110197192261774_html",
+      "name": "PC Gamer Omen by HP 40L GT21-1033nf- Intel Core i7-13700K - RAM 32Go - 1To SSD - GeForce RTX 4080 16Go - Windows 11",
+      "prix_base": 16024000,
+      "prix_comparaison": 16024000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63230appleipadpro2022129wificellular1togrissideral0194253254898_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 11343000,
-      "prix_comparaison": 11343000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 10304000,
-      "prix_comparaison": 10304000,
+      "cle": "unitecentraleseuleminipc_124796pcdebureaugamingomenbyhp45lgt221037nfintelcorei713700kram32goddr51tossdgeforcertx409024gofreedo0197497044478_html",
+      "name": "PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS",
+      "prix_base": 32334000,
+      "prix_comparaison": 32334000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E**
-   - Prix avant: 13,154,000 Ar
-   - Prix actuel: 12,961,000 Ar
-   - Variation: -193,000 Ar
-   - Indice de prix : 98.53
-
-2. **TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1**
-   - Prix avant: 10,290,000 Ar
-   - Prix actuel: 10,290,000 Ar
+1. **Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver**
+   - Prix avant: 21,130,000 Ar
+   - Prix actuel: 21,130,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Samsung 75QN85B - TV NeoQLED MiniLED 75'' (189 cm) - 4K UHD 3840x2160 - 100Hz - Smart TV - Gaming HUB - 4xHDMI**
-   - Prix avant: 10,813,000 Ar
-   - Prix actuel: 10,813,000 Ar
+2. **Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver**
+   - Prix avant: 11,494,000 Ar
+   - Prix actuel: 11,494,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **PC de bureau Gaming Omen by HP 45L GT22-1038nf - Intel Core i9-13900K - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDO**
+   - Prix avant: 30,764,000 Ar
+   - Prix actuel: 30,764,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
