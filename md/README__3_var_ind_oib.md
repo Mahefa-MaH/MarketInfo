@@ -23,6 +23,11 @@
    - Prix actuel: 1,499,000 Ar
    - Variation: +149,900 Ar
 
+5. **Console Nintendo Switch Bleu Néon & Rouge Néon**
+   - Prix avant: 1,459,000 Ar
+   - Prix actuel: 1,606,000 Ar
+   - Variation: +147,000 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Fromage Saint Paulin boule 1kg**
@@ -44,6 +49,11 @@
    - Prix avant: 18,500 Ar
    - Prix actuel: 16,650 Ar
    - Variation: -1,850 Ar
+
+5. **Beurre demi sel Socolait 200g**
+   - Prix avant: 13,000 Ar
+   - Prix actuel: 11,500 Ar
+   - Variation: -1,500 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -67,6 +77,11 @@
    - Prix actuel: 79,000 Ar
    - Indice de prix : 112.38
 
+5. **Console Xbox Series S 1To Noir**
+   - Prix avant: 1,849,000 Ar
+   - Prix actuel: 2,055,000 Ar
+   - Indice de prix : 111.14
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Savon de toilette cerise 75g**
@@ -85,6 +100,11 @@
    - Indice de prix : 86.36
 
 4. **Beurre demi sel Socolait 200g**
+   - Prix avant: 13,000 Ar
+   - Prix actuel: 11,500 Ar
+   - Indice de prix : 88.46
+
+5. **Beurre doux Socolait 200g**
    - Prix avant: 13,000 Ar
    - Prix actuel: 11,500 Ar
    - Indice de prix : 88.46

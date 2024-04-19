@@ -27,6 +27,13 @@
       "prix_base": 1349100,
       "prix_comparaison": 1499000,
       "variation": 149900
+    },
+    {
+      "cle": "consoles_14602consolenintendoswitchavecunjoyconrougenonetunjoyconbleunon_html",
+      "name": "Console Nintendo Switch Bleu N\u00e9on & Rouge N\u00e9on",
+      "prix_base": 1459000,
+      "prix_comparaison": 1606000,
+      "variation": 147000
     }
   ],
   "prix_diminues": [
@@ -57,6 +64,13 @@
       "prix_base": 18500,
       "prix_comparaison": 16650,
       "variation": -1850
+    },
+    {
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 13000,
+      "prix_comparaison": 11500,
+      "variation": -1500
     }
   ],
   "indices_prix_plus_eleves": [
@@ -87,6 +101,13 @@
       "prix_base": 70300,
       "prix_comparaison": 79000,
       "indice_prix": 112.37553342816501
+    },
+    {
+      "cle": "consoles_15131consolexboxseriess1tonoir_html",
+      "name": "Console Xbox Series S 1To Noir",
+      "prix_base": 1849000,
+      "prix_comparaison": 2055000,
+      "indice_prix": 111.14115738236885
     }
   ],
   "indices_prix_plus_faibles": [
@@ -114,6 +135,13 @@
     {
       "cle": "beurres_2114beurresocolaitdemisel200g_html",
       "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 13000,
+      "prix_comparaison": 11500,
+      "indice_prix": 88.46153846153847
+    },
+    {
+      "cle": "beurres_2113beurredouxsocolait200g_html",
+      "name": "Beurre doux Socolait 200g",
       "prix_base": 13000,
       "prix_comparaison": 11500,
       "indice_prix": 88.46153846153847
