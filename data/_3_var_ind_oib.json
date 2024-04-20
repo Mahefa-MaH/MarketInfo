@@ -1,29 +1,29 @@
 {
   "prix_augmentes": [
     {
-      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 5450,
-      "prix_comparaison": 3000,
-      "variation": -2450
+      "cle": "cookiesetbrownies_13812cookiespepitesdechocolat200gtopbudget_html",
+      "name": "Cookies p\u00e9pites de chocolat 200g",
+      "prix_base": 6900,
+      "prix_comparaison": 5990,
+      "variation": -910
     }
   ],
   "prix_diminues": [
     {
-      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
-      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
-      "prix_base": 21900,
-      "prix_comparaison": 15900,
-      "variation": -6000
+      "cle": "poeleetcasserole_9495sauteuseinoxainductiono26cm_html",
+      "name": "Sauteuse inox \u00e0 induction \u00d826cm",
+      "prix_base": 170000,
+      "prix_comparaison": 125000,
+      "variation": -45000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
-      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
-      "prix_base": 21900,
-      "prix_comparaison": 15900,
-      "indice_prix": 72.6027397260274
+      "cle": "cookiesetbrownies_13812cookiespepitesdechocolat200gtopbudget_html",
+      "name": "Cookies p\u00e9pites de chocolat 200g",
+      "prix_base": 6900,
+      "prix_comparaison": 5990,
+      "indice_prix": 86.81159420289855
     }
   ],
   "indices_prix_plus_faibles": [

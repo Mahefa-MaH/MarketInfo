@@ -2,24 +2,24 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **20 Sacs poubelle transparent 30L**
-   - Prix avant: 5,450 Ar
-   - Prix actuel: 3,000 Ar
-   - Variation: -2,450 Ar
+1. **Cookies pépites de chocolat 200g**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 5,990 Ar
+   - Variation: -910 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **10 Minis glaces en cornet crème et chocolat  x28ml**
-   - Prix avant: 21,900 Ar
-   - Prix actuel: 15,900 Ar
-   - Variation: -6,000 Ar
+1. **Sauteuse inox à induction Ø26cm**
+   - Prix avant: 170,000 Ar
+   - Prix actuel: 125,000 Ar
+   - Variation: -45,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **10 Minis glaces en cornet crème et chocolat  x28ml**
-   - Prix avant: 21,900 Ar
-   - Prix actuel: 15,900 Ar
-   - Indice de prix : 72.60
+1. **Cookies pépites de chocolat 200g**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 5,990 Ar
+   - Indice de prix : 86.81
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
