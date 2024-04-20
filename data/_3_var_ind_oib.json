@@ -1,109 +1,74 @@
 {
   "prix_augmentes": [
     {
-      "cle": "classeursscolaires_6191classeurleviera4dos80mm_html",
-      "name": "Classeur levier A4 Dos 80mm",
-      "prix_base": 13395,
-      "prix_comparaison": 14100,
-      "variation": 705
+      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
+      "name": "20 Sacs poubelle transparent 30L",
+      "prix_base": 5450,
+      "prix_comparaison": 3000,
+      "variation": -2450
     },
     {
-      "cle": "biscuitssalesetbretzels_12213biscuitssnackyfinsetfondants100gbelin_html",
-      "name": "Biscuits Snacky fins et fondants 100g",
-      "prix_base": 5890,
-      "prix_comparaison": 6200,
-      "variation": 310
+      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
+      "name": "20 Sacs poubelle transparent 50L",
+      "prix_base": 9350,
+      "prix_comparaison": 5000,
+      "variation": -4350
     },
     {
-      "cle": "yaourtsnaturesetaromatises_1852yaourtbrassenaturesucre100g_html",
-      "name": "Yaourt brasse nature sucre 100g",
-      "prix_base": 1050,
-      "prix_comparaison": 890,
-      "variation": -160
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_1845yaourtbrasse100gnature_html",
-      "name": "Yaourt brasse nature 100g",
-      "prix_base": 1050,
-      "prix_comparaison": 890,
-      "variation": -160
+      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
+      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
+      "prix_base": 21900,
+      "prix_comparaison": 15900,
+      "variation": -6000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "poeleetcasserole_9495sauteuseinoxainductiono26cm_html",
-      "name": "Sauteuse inox \u00e0 induction \u00d826cm",
-      "prix_base": 170000,
-      "prix_comparaison": 125000,
-      "variation": -45000
+      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
+      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
+      "prix_base": 21900,
+      "prix_comparaison": 15900,
+      "variation": -6000
     },
     {
-      "cle": "poeleetcasserole_4147cass20alugazelecvitro_html",
-      "name": "Casserole aluminium 20cm",
-      "prix_base": 85000,
-      "prix_comparaison": 57000,
-      "variation": -28000
+      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
+      "name": "20 Sacs poubelle transparent 50L",
+      "prix_base": 9350,
+      "prix_comparaison": 5000,
+      "variation": -4350
     },
     {
-      "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
-      "name": "Cappuccino noisette en bo\u00eete 270g",
-      "prix_base": 44500,
-      "prix_comparaison": 22500,
-      "variation": -22000
-    },
-    {
-      "cle": "cafesolublechicoreecappuccino_10246cappuccinovanille18tassesenboite310g_html",
-      "name": "Cappuccino vanille 18 tasses en boite 310g",
-      "prix_base": 44500,
-      "prix_comparaison": 22500,
-      "variation": -22000
+      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
+      "name": "20 Sacs poubelle transparent 30L",
+      "prix_base": 5450,
+      "prix_comparaison": 3000,
+      "variation": -2450
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "biscuitssalesetbretzels_12213biscuitssnackyfinsetfondants100gbelin_html",
-      "name": "Biscuits Snacky fins et fondants 100g",
-      "prix_base": 5890,
-      "prix_comparaison": 6200,
-      "indice_prix": 105.26315789473684
+      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
+      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
+      "prix_base": 21900,
+      "prix_comparaison": 15900,
+      "indice_prix": 72.6027397260274
     },
     {
-      "cle": "classeursscolaires_6191classeurleviera4dos80mm_html",
-      "name": "Classeur levier A4 Dos 80mm",
-      "prix_base": 13395,
-      "prix_comparaison": 14100,
-      "indice_prix": 105.26315789473684
+      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
+      "name": "20 Sacs poubelle transparent 30L",
+      "prix_base": 5450,
+      "prix_comparaison": 3000,
+      "indice_prix": 55.04587155963303
     },
     {
-      "cle": "sucres_4881sucreblancfana1kg_html",
-      "name": "Sucre blanc Fana 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6290,
-      "indice_prix": 91.15942028985508
-    },
-    {
-      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
-      "name": "Cr\u00e8me lavante lait et miel 750ml",
-      "prix_base": 8900,
-      "prix_comparaison": 7900,
-      "indice_prix": 88.76404494382022
+      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
+      "name": "20 Sacs poubelle transparent 50L",
+      "prix_base": 9350,
+      "prix_comparaison": 5000,
+      "indice_prix": 53.475935828877006
     }
   ],
   "indices_prix_plus_faibles": [
-    {
-      "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
-      "name": "Cappuccino noisette en bo\u00eete 270g",
-      "prix_base": 44500,
-      "prix_comparaison": 22500,
-      "indice_prix": 50.561797752808985
-    },
-    {
-      "cle": "cafesolublechicoreecappuccino_10246cappuccinovanille18tassesenboite310g_html",
-      "name": "Cappuccino vanille 18 tasses en boite 310g",
-      "prix_base": 44500,
-      "prix_comparaison": 22500,
-      "indice_prix": 50.561797752808985
-    },
     {
       "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
       "name": "20 Sacs poubelle transparent 50L",
@@ -112,11 +77,18 @@
       "indice_prix": 53.475935828877006
     },
     {
-      "cle": "buchescremeglacee_14341bucheglaceefacondameblanche900ml_html",
-      "name": "B\u00fbche glac\u00e9e fa\u00e7on dame blanche 900ml",
-      "prix_base": 36900,
-      "prix_comparaison": 19900,
-      "indice_prix": 53.929539295392956
+      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
+      "name": "20 Sacs poubelle transparent 30L",
+      "prix_base": 5450,
+      "prix_comparaison": 3000,
+      "indice_prix": 55.04587155963303
+    },
+    {
+      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
+      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
+      "prix_base": 21900,
+      "prix_comparaison": 15900,
+      "indice_prix": 72.6027397260274
     }
   ]
 }

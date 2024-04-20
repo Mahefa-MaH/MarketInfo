@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63210appleipadpro2022129wifi1togrissideral0194253243038_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sid\u00e9ral",
-      "prix_base": 10304000,
-      "prix_comparaison": 10304000,
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 12676000,
+      "prix_comparaison": 12676000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63211appleipadpro2022129wifi1toargent0194253243304_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent",
-      "prix_base": 10362000,
-      "prix_comparaison": 10362000,
+      "cle": "machineacafeexpressobroyeur_49153delonghiecam65075msmachineexpressoautomatiqueavecbroyeurprimadonnaeliteinox8004399331013_html",
+      "name": "Machine expresso automatique avec broyeur DELONGHI PrimaDonna Elite ECAM 650.75.MS - Inox",
+      "prix_base": 10324000,
+      "prix_comparaison": 10324000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_99750appleipadpro2022129wifi2toargent0194253243847_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Argent",
-      "prix_base": 12697000,
-      "prix_comparaison": 12697000,
+      "cle": "machineacafeexpressobroyeur_49156machineacafeexpressobroyeurdelonghiecam65085msgrisconnecteprimadonnaeliteexperience8004399331648_html",
+      "name": "Machine expresso broyeur - DELONGHI PrimaDonna Elite Experience ECAM650.85.MS - Gris - Connect\u00e9 - Machine a caf\u00e9 grains",
+      "prix_base": 10514000,
+      "prix_comparaison": 10514000,
       "variation": 0,
       "indice_prix": 100.0
     }

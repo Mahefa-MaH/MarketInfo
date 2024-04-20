@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz makalioka 1kg**
-   - Prix avant: 4,350 Ar
-   - Prix actuel: 4,350 Ar
+1. **Sucre blanc en morceaux 1kg**
+   - Prix avant: 14,900 Ar
+   - Prix actuel: 14,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz blanc de l'Itasy 5kg**
-   - Prix avant: 18,400 Ar
-   - Prix actuel: 18,400 Ar
+2. **Sucre blanc en poudre 1kg**
+   - Prix avant: 11,500 Ar
+   - Prix actuel: 11,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz makalioka 5kg**
-   - Prix avant: 21,750 Ar
-   - Prix actuel: 21,750 Ar
+3. **Huile de soja 1L**
+   - Prix avant: 15,500 Ar
+   - Prix actuel: 15,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver**
-   - Prix avant: 21,130,000 Ar
-   - Prix actuel: 21,130,000 Ar
+1. **Bosch KGN39AIAT - Série 6 Réfrigérateur combiné pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox**
+   - Prix avant: 10,863,000 Ar
+   - Prix actuel: 10,863,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver**
-   - Prix avant: 11,494,000 Ar
-   - Prix actuel: 11,494,000 Ar
+2. **Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent**
+   - Prix avant: 10,362,000 Ar
+   - Prix actuel: 10,362,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **PC de bureau Gaming Omen by HP 45L GT22-1038nf - Intel Core i9-13900K - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDO**
-   - Prix avant: 30,764,000 Ar
-   - Prix actuel: 30,764,000 Ar
+3. **Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Gris Sidéral**
+   - Prix avant: 11,343,000 Ar
+   - Prix actuel: 11,343,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
