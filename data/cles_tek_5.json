@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3826,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 6500,
-      "prix_comparaison": 6500,
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 6300,
+      "prix_comparaison": 6300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7500,
-      "prix_comparaison": 7500,
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 11800,
+      "prix_comparaison": 11800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 8267,
-      "name": "Sucre rouge 1 kg",
-      "prix_base": 5200,
-      "prix_comparaison": 5200,
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9300,
+      "prix_comparaison": 9300,
       "variation": 0,
       "indice_prix": 100.0
     }

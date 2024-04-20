@@ -6,13 +6,6 @@
       "prix_base": 21900,
       "prix_comparaison": 15900,
       "variation": -6000
-    },
-    {
-      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
-      "name": "Cr\u00e8me lavante lait et miel 750ml",
-      "prix_base": 8900,
-      "prix_comparaison": 7900,
-      "variation": -1000
     }
   ],
   "indice de prix": [
@@ -22,13 +15,6 @@
       "prix_base": 21900,
       "prix_comparaison": 15900,
       "indice_prix": 72.6027397260274
-    },
-    {
-      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
-      "name": "Cr\u00e8me lavante lait et miel 750ml",
-      "prix_base": 8900,
-      "prix_comparaison": 7900,
-      "indice_prix": 88.76404494382022
     }
   ]
 }
