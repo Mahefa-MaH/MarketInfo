@@ -6,20 +6,6 @@
       "prix_base": 5450,
       "prix_comparaison": 3000,
       "variation": -2450
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 9350,
-      "prix_comparaison": 5000,
-      "variation": -4350
-    },
-    {
-      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
-      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
-      "prix_base": 21900,
-      "prix_comparaison": 15900,
-      "variation": -6000
     }
   ],
   "prix_diminues": [
@@ -29,20 +15,6 @@
       "prix_base": 21900,
       "prix_comparaison": 15900,
       "variation": -6000
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 9350,
-      "prix_comparaison": 5000,
-      "variation": -4350
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 5450,
-      "prix_comparaison": 3000,
-      "variation": -2450
     }
   ],
   "indices_prix_plus_eleves": [
@@ -52,20 +24,6 @@
       "prix_base": 21900,
       "prix_comparaison": 15900,
       "indice_prix": 72.6027397260274
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 5450,
-      "prix_comparaison": 3000,
-      "indice_prix": 55.04587155963303
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 9350,
-      "prix_comparaison": 5000,
-      "indice_prix": 53.475935828877006
     }
   ],
   "indices_prix_plus_faibles": [
@@ -75,20 +33,6 @@
       "prix_base": 9350,
       "prix_comparaison": 5000,
       "indice_prix": 53.475935828877006
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 5450,
-      "prix_comparaison": 3000,
-      "indice_prix": 55.04587155963303
-    },
-    {
-      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
-      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
-      "prix_base": 21900,
-      "prix_comparaison": 15900,
-      "indice_prix": 72.6027397260274
     }
   ]
 }
