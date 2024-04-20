@@ -17,6 +17,11 @@
    - Prix actuel: 890 Ar
    - Variation: -160 Ar
 
+4. **Yaourt brasse nature 100g**
+   - Prix avant: 1,050 Ar
+   - Prix actuel: 890 Ar
+   - Variation: -160 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Sauteuse inox à induction Ø26cm**
@@ -30,6 +35,11 @@
    - Variation: -28,000 Ar
 
 3. **Cappuccino noisette en boîte 270g**
+   - Prix avant: 44,500 Ar
+   - Prix actuel: 22,500 Ar
+   - Variation: -22,000 Ar
+
+4. **Cappuccino vanille 18 tasses en boite 310g**
    - Prix avant: 44,500 Ar
    - Prix actuel: 22,500 Ar
    - Variation: -22,000 Ar
@@ -51,6 +61,11 @@
    - Prix actuel: 6,290 Ar
    - Indice de prix : 91.16
 
+4. **Crème lavante lait et miel 750ml**
+   - Prix avant: 8,900 Ar
+   - Prix actuel: 7,900 Ar
+   - Indice de prix : 88.76
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Cappuccino noisette en boîte 270g**
@@ -67,4 +82,9 @@
    - Prix avant: 9,350 Ar
    - Prix actuel: 5,000 Ar
    - Indice de prix : 53.48
+
+4. **Bûche glacée façon dame blanche 900ml**
+   - Prix avant: 36,900 Ar
+   - Prix actuel: 19,900 Ar
+   - Indice de prix : 53.93
 

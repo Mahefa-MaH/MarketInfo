@@ -1,6 +1,13 @@
 {
   "Variation de prix": [
     {
+      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
+      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
+      "prix_base": 21900,
+      "prix_comparaison": 15900,
+      "variation": -6000
+    },
+    {
       "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
       "name": "Cr\u00e8me lavante lait et miel 750ml",
       "prix_base": 8900,
@@ -9,6 +16,13 @@
     }
   ],
   "indice de prix": [
+    {
+      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
+      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
+      "prix_base": 21900,
+      "prix_comparaison": 15900,
+      "indice_prix": 72.6027397260274
+    },
     {
       "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
       "name": "Cr\u00e8me lavante lait et miel 750ml",

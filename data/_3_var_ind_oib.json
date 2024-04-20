@@ -20,6 +20,13 @@
       "prix_base": 1050,
       "prix_comparaison": 890,
       "variation": -160
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1845yaourtbrasse100gnature_html",
+      "name": "Yaourt brasse nature 100g",
+      "prix_base": 1050,
+      "prix_comparaison": 890,
+      "variation": -160
     }
   ],
   "prix_diminues": [
@@ -40,6 +47,13 @@
     {
       "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
       "name": "Cappuccino noisette en bo\u00eete 270g",
+      "prix_base": 44500,
+      "prix_comparaison": 22500,
+      "variation": -22000
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_10246cappuccinovanille18tassesenboite310g_html",
+      "name": "Cappuccino vanille 18 tasses en boite 310g",
       "prix_base": 44500,
       "prix_comparaison": 22500,
       "variation": -22000
@@ -66,6 +80,13 @@
       "prix_base": 6900,
       "prix_comparaison": 6290,
       "indice_prix": 91.15942028985508
+    },
+    {
+      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
+      "name": "Cr\u00e8me lavante lait et miel 750ml",
+      "prix_base": 8900,
+      "prix_comparaison": 7900,
+      "indice_prix": 88.76404494382022
     }
   ],
   "indices_prix_plus_faibles": [
@@ -89,6 +110,13 @@
       "prix_base": 9350,
       "prix_comparaison": 5000,
       "indice_prix": 53.475935828877006
+    },
+    {
+      "cle": "buchescremeglacee_14341bucheglaceefacondameblanche900ml_html",
+      "name": "B\u00fbche glac\u00e9e fa\u00e7on dame blanche 900ml",
+      "prix_base": 36900,
+      "prix_comparaison": 19900,
+      "indice_prix": 53.929539295392956
     }
   ]
 }
