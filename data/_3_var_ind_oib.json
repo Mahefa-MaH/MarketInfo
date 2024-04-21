@@ -6,6 +6,27 @@
       "prix_base": 6900,
       "prix_comparaison": 5990,
       "variation": -910
+    },
+    {
+      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
+      "name": "20 Sacs poubelle transparent 30L",
+      "prix_base": 5450,
+      "prix_comparaison": 3000,
+      "variation": -2450
+    },
+    {
+      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
+      "name": "Eau de cologne lavande 500ml",
+      "prix_base": 14500,
+      "prix_comparaison": 12000,
+      "variation": -2500
+    },
+    {
+      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
+      "name": "20 Sacs poubelle transparent 50L",
+      "prix_base": 9350,
+      "prix_comparaison": 5000,
+      "variation": -4350
     }
   ],
   "prix_diminues": [
@@ -15,6 +36,27 @@
       "prix_base": 170000,
       "prix_comparaison": 125000,
       "variation": -45000
+    },
+    {
+      "cle": "poeleetcasserole_4147cass20alugazelecvitro_html",
+      "name": "Casserole aluminium 20cm",
+      "prix_base": 85000,
+      "prix_comparaison": 57000,
+      "variation": -28000
+    },
+    {
+      "cle": "buchescremeglacee_14341bucheglaceefacondameblanche900ml_html",
+      "name": "B\u00fbche glac\u00e9e fa\u00e7on dame blanche 900ml",
+      "prix_base": 36900,
+      "prix_comparaison": 19900,
+      "variation": -17000
+    },
+    {
+      "cle": "moulesetplatsafour_5300moule12minimuffinssilicone_html",
+      "name": "Moule 12 mini muffins silicone",
+      "prix_base": 44100,
+      "prix_comparaison": 35000,
+      "variation": -9100
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +66,27 @@
       "prix_base": 6900,
       "prix_comparaison": 5990,
       "indice_prix": 86.81159420289855
+    },
+    {
+      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
+      "name": "Eau de cologne lavande 500ml",
+      "prix_base": 14500,
+      "prix_comparaison": 12000,
+      "indice_prix": 82.75862068965517
+    },
+    {
+      "cle": "moulesetplatsafour_5296moule20macaronssilicone_html",
+      "name": "Moule 20 macarons silicone",
+      "prix_base": 44100,
+      "prix_comparaison": 35000,
+      "indice_prix": 79.36507936507937
+    },
+    {
+      "cle": "moulesetplatsafour_5300moule12minimuffinssilicone_html",
+      "name": "Moule 12 mini muffins silicone",
+      "prix_base": 44100,
+      "prix_comparaison": 35000,
+      "indice_prix": 79.36507936507937
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +96,27 @@
       "prix_base": 9350,
       "prix_comparaison": 5000,
       "indice_prix": 53.475935828877006
+    },
+    {
+      "cle": "buchescremeglacee_14341bucheglaceefacondameblanche900ml_html",
+      "name": "B\u00fbche glac\u00e9e fa\u00e7on dame blanche 900ml",
+      "prix_base": 36900,
+      "prix_comparaison": 19900,
+      "indice_prix": 53.929539295392956
+    },
+    {
+      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
+      "name": "20 Sacs poubelle transparent 30L",
+      "prix_base": 5450,
+      "prix_comparaison": 3000,
+      "indice_prix": 55.04587155963303
+    },
+    {
+      "cle": "poeleetcasserole_4147cass20alugazelecvitro_html",
+      "name": "Casserole aluminium 20cm",
+      "prix_base": 85000,
+      "prix_comparaison": 57000,
+      "indice_prix": 67.05882352941177
     }
   ]
 }
