@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
-      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
-      "prix_base": 17500000,
-      "prix_comparaison": 17500000,
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 12357000,
+      "prix_comparaison": 12357000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
-      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
-      "prix_base": 12961000,
-      "prix_comparaison": 12961000,
+      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
+      "prix_base": 12171000,
+      "prix_comparaison": 12171000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
-      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
-      "prix_base": 12676000,
-      "prix_comparaison": 12676000,
+      "cle": "tondeuseautoporteesansfil_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
+      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
+      "prix_base": 11958000,
+      "prix_comparaison": 11958000,
       "variation": 0,
       "indice_prix": 100.0
     }

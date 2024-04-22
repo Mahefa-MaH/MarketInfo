@@ -2,21 +2,9 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sidéral**
-   - Prix avant: 10,304,000 Ar
-   - Prix actuel: 10,304,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-2. **Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sidéral**
-   - Prix avant: 10,786,000 Ar
-   - Prix actuel: 10,786,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sidéral**
-   - Prix avant: 11,915,000 Ar
-   - Prix actuel: 11,915,000 Ar
+1. **Tondeuse autoportée thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique**
+   - Prix avant: 14,749,000 Ar
+   - Prix actuel: 14,749,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
