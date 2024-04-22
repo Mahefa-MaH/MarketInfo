@@ -2,67 +2,87 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **La pointe de Brie crémeux 200 g**
-   - Prix avant: 43,100 Ar
-   - Prix actuel: 39,500 Ar
-   - Variation: -3,600 Ar
+1. **Sucre dosette 100 sachets**
+   - Prix avant: 15,300 Ar
+   - Prix actuel: 12,800 Ar
+   - Variation: -2,500 Ar
 
-2. **Cœur complice doux et crémeux 300 g**
-   - Prix avant: 88,900 Ar
-   - Prix actuel: 85,600 Ar
-   - Variation: -3,300 Ar
+2. **Café arôme crème**
+   - Prix avant: 6,400 Ar
+   - Prix actuel: 5,300 Ar
+   - Variation: -1,100 Ar
 
-3. **Yaourt nature sucré 4X125 g**
-   - Prix avant: 63,500 Ar
-   - Prix actuel: 61,800 Ar
-   - Variation: -1,700 Ar
+3. **Huile De Soja 1 L**
+   - Prix avant: 10,200 Ar
+   - Prix actuel: 9,300 Ar
+   - Variation: -900 Ar
 
-4. **Crèmes desserts chocolat 4X125 g**
-   - Prix avant: 65,900 Ar
-   - Prix actuel: 64,300 Ar
-   - Variation: -1,600 Ar
+4. **Sucre blanc 1 kg**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 6,900 Ar
+   - Variation: -600 Ar
 
-5. **Crèmes desserts vanille 4X125 g**
-   - Prix avant: 65,900 Ar
-   - Prix actuel: 64,300 Ar
-   - Variation: -1,600 Ar
+5. **riz jasmin Parfumé 5 kg**
+   - Prix avant: 23,600 Ar
+   - Prix actuel: 25,800 Ar
+   - Variation: +2,200 Ar
 
-6. **Déodorant spray dry protect cotton mist 200 ml**
-   - Prix avant: 14,100 Ar
-   - Prix actuel: 15,400 Ar
-   - Variation: +1,300 Ar
+6. **Crème Anti-Acné 30 g**
+   - Prix avant: 108,900 Ar
+   - Prix actuel: 118,800 Ar
+   - Variation: +9,900 Ar
+
+7. **Crème éclaircissante hydratante pour le visage 50 g**
+   - Prix avant: 108,900 Ar
+   - Prix actuel: 118,800 Ar
+   - Variation: +9,900 Ar
+
+8. **Crème éclaircissante à la vitamine C 50 g**
+   - Prix avant: 108,900 Ar
+   - Prix actuel: 118,800 Ar
+   - Variation: +9,900 Ar
 
 
 
 ## Indice de prix
 
-1. **La pointe de Brie crémeux 200 g**
-   - Prix avant: 43,100 Ar
-   - Prix actuel: 39,500 Ar
-   - Indice de prix : 91.65
+1. **Café arôme crème**
+   - Prix avant: 6,400 Ar
+   - Prix actuel: 5,300 Ar
+   - Indice de prix : 82.81
 
-2. **Cœur complice doux et crémeux 300 g**
-   - Prix avant: 88,900 Ar
-   - Prix actuel: 85,600 Ar
-   - Indice de prix : 96.29
+2. **Sucre dosette 100 sachets**
+   - Prix avant: 15,300 Ar
+   - Prix actuel: 12,800 Ar
+   - Indice de prix : 83.66
 
-3. **Yaourt nature sucré 4X125 g**
-   - Prix avant: 63,500 Ar
-   - Prix actuel: 61,800 Ar
-   - Indice de prix : 97.32
+3. **Huile De Soja 1 L**
+   - Prix avant: 10,200 Ar
+   - Prix actuel: 9,300 Ar
+   - Indice de prix : 91.18
 
-4. **Crèmes desserts chocolat 4X125 g**
-   - Prix avant: 65,900 Ar
-   - Prix actuel: 64,300 Ar
-   - Indice de prix : 97.57
+4. **Sucre blanc 1 kg**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 6,900 Ar
+   - Indice de prix : 92.00
 
-5. **Crèmes desserts vanille 4X125 g**
-   - Prix avant: 65,900 Ar
-   - Prix actuel: 64,300 Ar
-   - Indice de prix : 97.57
+5. **Crème Anti-Acné 30 g**
+   - Prix avant: 108,900 Ar
+   - Prix actuel: 118,800 Ar
+   - Indice de prix : 109.09
 
-6. **Déodorant spray dry protect cotton mist 200 ml**
-   - Prix avant: 14,100 Ar
-   - Prix actuel: 15,400 Ar
-   - Indice de prix : 109.22
+6. **Crème éclaircissante hydratante pour le visage 50 g**
+   - Prix avant: 108,900 Ar
+   - Prix actuel: 118,800 Ar
+   - Indice de prix : 109.09
+
+7. **Crème éclaircissante à la vitamine C 50 g**
+   - Prix avant: 108,900 Ar
+   - Prix actuel: 118,800 Ar
+   - Indice de prix : 109.09
+
+8. **riz jasmin Parfumé 5 kg**
+   - Prix avant: 23,600 Ar
+   - Prix actuel: 25,800 Ar
+   - Indice de prix : 109.32
 

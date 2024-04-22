@@ -1,90 +1,118 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13045,
-      "name": "La pointe de Brie cr\u00e9meux 200 g",
-      "prix_base": 43100,
-      "prix_comparaison": 39500,
-      "variation": -3600
+      "list_id": 5219,
+      "name": "Sucre dosette 100 sachets",
+      "prix_base": 15300,
+      "prix_comparaison": 12800,
+      "variation": -2500
     },
     {
-      "list_id": 13052,
-      "name": "C\u0153ur complice doux et cr\u00e9meux 300 g",
-      "prix_base": 88900,
-      "prix_comparaison": 85600,
-      "variation": -3300
+      "list_id": 5229,
+      "name": "Caf\u00e9 ar\u00f4me cr\u00e8me",
+      "prix_base": 6400,
+      "prix_comparaison": 5300,
+      "variation": -1100
     },
     {
-      "list_id": 13029,
-      "name": "Yaourt nature sucr\u00e9 4X125 g",
-      "prix_base": 63500,
-      "prix_comparaison": 61800,
-      "variation": -1700
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10200,
+      "prix_comparaison": 9300,
+      "variation": -900
     },
     {
-      "list_id": 12697,
-      "name": "Cr\u00e8mes desserts chocolat 4X125 g",
-      "prix_base": 65900,
-      "prix_comparaison": 64300,
-      "variation": -1600
+      "list_id": 5218,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 7500,
+      "prix_comparaison": 6900,
+      "variation": -600
     },
     {
-      "list_id": 12698,
-      "name": "Cr\u00e8mes desserts vanille 4X125 g",
-      "prix_base": 65900,
-      "prix_comparaison": 64300,
-      "variation": -1600
+      "list_id": 5075,
+      "name": "riz jasmin Parfum\u00e9 5 kg",
+      "prix_base": 23600,
+      "prix_comparaison": 25800,
+      "variation": 2200
     },
     {
-      "list_id": 4968,
-      "name": "D\u00e9odorant spray dry protect cotton mist 200 ml",
-      "prix_base": 14100,
-      "prix_comparaison": 15400,
-      "variation": 1300
+      "list_id": 5442,
+      "name": "Cr\u00e8me Anti-Acn\u00e9 30 g",
+      "prix_base": 108900,
+      "prix_comparaison": 118800,
+      "variation": 9900
+    },
+    {
+      "list_id": 5446,
+      "name": "Cr\u00e8me \u00e9claircissante hydratante pour le visage 50 g",
+      "prix_base": 108900,
+      "prix_comparaison": 118800,
+      "variation": 9900
+    },
+    {
+      "list_id": 5449,
+      "name": "Cr\u00e8me \u00e9claircissante \u00e0 la vitamine C 50 g",
+      "prix_base": 108900,
+      "prix_comparaison": 118800,
+      "variation": 9900
     }
   ],
   "indice de prix": [
     {
-      "list_id": 13045,
-      "name": "La pointe de Brie cr\u00e9meux 200 g",
-      "prix_base": 43100,
-      "prix_comparaison": 39500,
-      "indice_prix": 91.64733178654292
+      "list_id": 5229,
+      "name": "Caf\u00e9 ar\u00f4me cr\u00e8me",
+      "prix_base": 6400,
+      "prix_comparaison": 5300,
+      "indice_prix": 82.8125
     },
     {
-      "list_id": 13052,
-      "name": "C\u0153ur complice doux et cr\u00e9meux 300 g",
-      "prix_base": 88900,
-      "prix_comparaison": 85600,
-      "indice_prix": 96.28796400449944
+      "list_id": 5219,
+      "name": "Sucre dosette 100 sachets",
+      "prix_base": 15300,
+      "prix_comparaison": 12800,
+      "indice_prix": 83.66013071895425
     },
     {
-      "list_id": 13029,
-      "name": "Yaourt nature sucr\u00e9 4X125 g",
-      "prix_base": 63500,
-      "prix_comparaison": 61800,
-      "indice_prix": 97.32283464566929
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10200,
+      "prix_comparaison": 9300,
+      "indice_prix": 91.17647058823529
     },
     {
-      "list_id": 12697,
-      "name": "Cr\u00e8mes desserts chocolat 4X125 g",
-      "prix_base": 65900,
-      "prix_comparaison": 64300,
-      "indice_prix": 97.57207890743551
+      "list_id": 5218,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 7500,
+      "prix_comparaison": 6900,
+      "indice_prix": 92.0
     },
     {
-      "list_id": 12698,
-      "name": "Cr\u00e8mes desserts vanille 4X125 g",
-      "prix_base": 65900,
-      "prix_comparaison": 64300,
-      "indice_prix": 97.57207890743551
+      "list_id": 5442,
+      "name": "Cr\u00e8me Anti-Acn\u00e9 30 g",
+      "prix_base": 108900,
+      "prix_comparaison": 118800,
+      "indice_prix": 109.0909090909091
     },
     {
-      "list_id": 4968,
-      "name": "D\u00e9odorant spray dry protect cotton mist 200 ml",
-      "prix_base": 14100,
-      "prix_comparaison": 15400,
-      "indice_prix": 109.21985815602837
+      "list_id": 5446,
+      "name": "Cr\u00e8me \u00e9claircissante hydratante pour le visage 50 g",
+      "prix_base": 108900,
+      "prix_comparaison": 118800,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 5449,
+      "name": "Cr\u00e8me \u00e9claircissante \u00e0 la vitamine C 50 g",
+      "prix_base": 108900,
+      "prix_comparaison": 118800,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 5075,
+      "name": "riz jasmin Parfum\u00e9 5 kg",
+      "prix_base": 23600,
+      "prix_comparaison": 25800,
+      "indice_prix": 109.32203389830508
     }
   ]
 }

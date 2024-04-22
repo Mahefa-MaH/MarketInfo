@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 5000,
-      "prix_comparaison": 9350,
-      "variation": 4350
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 439000,
+      "prix_comparaison": 479000,
+      "variation": 40000
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
+      "name": "Cappuccino noisette en bo\u00eete 270g",
+      "prix_base": 22500,
+      "prix_comparaison": 44500,
+      "variation": 22000
+    },
+    {
+      "cle": "televiseursetsupports_14837tvledhisense50a6k50127cmuhd4kdolbyvisiondtsvirtualxtmsmarttv3xhdmi20ecransansbord_html",
+      "name": "TV LED HISENSE 50A6K - 50'' (127 CM) - UHD 4K - DOLBY VISION - DTS VIRTUAL:X TM - SMART TV - 3 x HDMI 2.0 - \u00c9CRAN SANS BORD",
+      "prix_base": 3001000,
+      "prix_comparaison": 3021000,
+      "variation": 20000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 3000,
-      "prix_comparaison": 5450,
-      "variation": 2450
+      "cle": "ordinateursportables_14812pcportablegamerasustufgamingf15156fhdrtx30504gointelcorei512500hram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming F15 | 15,6 FHD - RTX 3050 4Go - Intel Core i5-12500H - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 4017000,
+      "prix_comparaison": 3871000,
+      "variation": -146000
+    },
+    {
+      "cle": "coiffure_14662babyliss6704wesechecheveuxspeedpro2000moteuracfabriquenitalie_html",
+      "name": "BaByliss  - 6704WE - Seche-cheveux Speed Pro 2000 Moteur AC Fabriqu\u008e en Italie",
+      "prix_base": 251000,
+      "prix_comparaison": 244000,
+      "variation": -7000
+    },
+    {
+      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
+      "name": "Huile de tournesol 1L",
+      "prix_base": 17900,
+      "prix_comparaison": 16500,
+      "variation": -1400
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
+      "name": "Cappuccino noisette en bo\u00eete 270g",
+      "prix_base": 22500,
+      "prix_comparaison": 44500,
+      "indice_prix": 197.77777777777777
+    },
     {
       "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
       "name": "20 Sacs poubelle transparent 50L",
       "prix_base": 5000,
       "prix_comparaison": 9350,
       "indice_prix": 187.0
-    }
-  ],
-  "indices_prix_plus_faibles": [
+    },
     {
       "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
       "name": "20 Sacs poubelle transparent 30L",
       "prix_base": 3000,
       "prix_comparaison": 5450,
       "indice_prix": 181.66666666666666
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "cle": "sauceschaudessaucestomates_12617saucepournems90gitinerairedessaveurs_html",
+      "name": "Sauce pour Nems 90g",
+      "prix_base": 9600,
+      "prix_comparaison": 8500,
+      "indice_prix": 88.54166666666667
+    },
+    {
+      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
+      "name": "Huile de tournesol 1L",
+      "prix_base": 17900,
+      "prix_comparaison": 16500,
+      "indice_prix": 92.17877094972067
+    },
+    {
+      "cle": "aidesalapatisserie_12435sucrevanille10x75gchabrior_html",
+      "name": "Sucre vanill\u00e9 10x7,5g",
+      "prix_base": 5300,
+      "prix_comparaison": 4900,
+      "indice_prix": 92.45283018867924
     }
   ]
 }
