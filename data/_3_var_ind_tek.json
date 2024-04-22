@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 13204,
-      "prix_base": 78000,
-      "name": "Bac de rangement 32L",
-      "prix_comparaison": 90000,
-      "variation": 12000
+      "list_id": 5431,
+      "prix_base": 772200,
+      "name": "Chambre d'inhalation masque pour b\u00e9b\u00e9 0 \u00e0 9 mois",
+      "prix_comparaison": 842400,
+      "variation": 70200
+    },
+    {
+      "list_id": 5470,
+      "prix_base": 163900,
+      "name": "Masque de Nuit Purifiant Arbre \u00e0 Th\u00e9",
+      "prix_comparaison": 178800,
+      "variation": 14900
+    },
+    {
+      "list_id": 5468,
+      "prix_base": 163900,
+      "name": "Masque Hydro Gel \u00e0 la Menthe Fraiche",
+      "prix_comparaison": 178800,
+      "variation": 14900
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 13204,
-      "prix_base": 78000,
-      "name": "Bac de rangement 32L",
-      "prix_comparaison": 90000,
-      "variation": 12000
+      "list_id": 5299,
+      "prix_base": 230000,
+      "name": "Aspirateur 2 l",
+      "prix_comparaison": 201000,
+      "variation": -29000
+    },
+    {
+      "list_id": 5317,
+      "prix_base": 33800,
+      "name": "Bouquet de roses rouge fleurs des champs 8 tiges",
+      "prix_comparaison": 28800,
+      "variation": -5000
+    },
+    {
+      "list_id": 5316,
+      "prix_base": 59000,
+      "name": "Bouquet de roses rouge fleur des champs 15 tiges",
+      "prix_comparaison": 54000,
+      "variation": -5000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 13204,
-      "name": "Bac de rangement 32L",
-      "prix_base": 78000,
-      "prix_comparaison": 90000,
-      "indice_prix": 115.38461538461539
+      "list_id": 4003,
+      "name": "Sauce Pesto 135 G",
+      "prix_base": 20000,
+      "prix_comparaison": 22900,
+      "indice_prix": 114.5
+    },
+    {
+      "list_id": 5397,
+      "name": "Crayon graphite HB A/g Cosmic teens 1 pi\u00e8ce",
+      "prix_base": 700,
+      "prix_comparaison": 800,
+      "indice_prix": 114.28571428571429
+    },
+    {
+      "list_id": 5260,
+      "name": "Gomme couleur essential soft PM 1 pi\u00e8ce",
+      "prix_base": 800,
+      "prix_comparaison": 900,
+      "indice_prix": 112.5
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 13204,
-      "name": "Bac de rangement 32L",
-      "prix_base": 78000,
-      "prix_comparaison": 90000,
-      "indice_prix": 115.38461538461539
+      "list_id": 5229,
+      "name": "Caf\u00e9 ar\u00f4me cr\u00e8me",
+      "prix_base": 6400,
+      "prix_comparaison": 5300,
+      "indice_prix": 82.8125
+    },
+    {
+      "list_id": 5219,
+      "name": "Sucre dosette 100 sachets",
+      "prix_base": 15300,
+      "prix_comparaison": 12800,
+      "indice_prix": 83.66013071895425
+    },
+    {
+      "list_id": 5317,
+      "name": "Bouquet de roses rouge fleurs des champs 8 tiges",
+      "prix_base": 33800,
+      "prix_comparaison": 28800,
+      "indice_prix": 85.20710059171597
     }
   ]
 }

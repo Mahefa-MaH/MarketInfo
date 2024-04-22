@@ -22,10 +22,10 @@
    - Prix actuel: 223,000 Ar
    - Variation: +62,000 Ar
 
-5. **Cluedo Escape Trahison au Manoir Tudor - jeu d'enquete façon escape game - 1 a 6 joueurs -des 10 ans**
-   - Prix avant: 129,000 Ar
-   - Prix actuel: 180,000 Ar
-   - Variation: +51,000 Ar
+5. **LITTLE BALANCE 8399 Chef 5 Trio USB, Balance de cuisine sans pile, Rechargeable USB, 3 en 1 : Coupez, pesez, versez, 5 kg/1g, Ba**
+   - Prix avant: 240,000 Ar
+   - Prix actuel: 297,000 Ar
+   - Variation: +57,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 

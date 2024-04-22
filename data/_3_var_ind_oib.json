@@ -1,25 +1,11 @@
 {
   "prix_augmentes": [
     {
-      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
-      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
-      "prix_base": 439000,
-      "prix_comparaison": 479000,
-      "variation": 40000
-    },
-    {
-      "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
-      "name": "Cappuccino noisette en bo\u00eete 270g",
-      "prix_base": 22500,
-      "prix_comparaison": 44500,
-      "variation": 22000
-    },
-    {
-      "cle": "televiseursetsupports_14837tvledhisense50a6k50127cmuhd4kdolbyvisiondtsvirtualxtmsmarttv3xhdmi20ecransansbord_html",
-      "name": "TV LED HISENSE 50A6K - 50'' (127 CM) - UHD 4K - DOLBY VISION - DTS VIRTUAL:X TM - SMART TV - 3 x HDMI 2.0 - \u00c9CRAN SANS BORD",
-      "prix_base": 3001000,
-      "prix_comparaison": 3021000,
-      "variation": 20000
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 3533330,
+      "prix_comparaison": 4240000,
+      "variation": 706670
     }
   ],
   "prix_diminues": [
@@ -29,20 +15,6 @@
       "prix_base": 4017000,
       "prix_comparaison": 3871000,
       "variation": -146000
-    },
-    {
-      "cle": "coiffure_14662babyliss6704wesechecheveuxspeedpro2000moteuracfabriquenitalie_html",
-      "name": "BaByliss  - 6704WE - Seche-cheveux Speed Pro 2000 Moteur AC Fabriqu\u008e en Italie",
-      "prix_base": 251000,
-      "prix_comparaison": 244000,
-      "variation": -7000
-    },
-    {
-      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 17900,
-      "prix_comparaison": 16500,
-      "variation": -1400
     }
   ],
   "indices_prix_plus_eleves": [
@@ -52,20 +24,6 @@
       "prix_base": 22500,
       "prix_comparaison": 44500,
       "indice_prix": 197.77777777777777
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 5000,
-      "prix_comparaison": 9350,
-      "indice_prix": 187.0
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 3000,
-      "prix_comparaison": 5450,
-      "indice_prix": 181.66666666666666
     }
   ],
   "indices_prix_plus_faibles": [
@@ -75,20 +33,6 @@
       "prix_base": 9600,
       "prix_comparaison": 8500,
       "indice_prix": 88.54166666666667
-    },
-    {
-      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 17900,
-      "prix_comparaison": 16500,
-      "indice_prix": 92.17877094972067
-    },
-    {
-      "cle": "aidesalapatisserie_12435sucrevanille10x75gchabrior_html",
-      "name": "Sucre vanill\u00e9 10x7,5g",
-      "prix_base": 5300,
-      "prix_comparaison": 4900,
-      "indice_prix": 92.45283018867924
     }
   ]
 }
