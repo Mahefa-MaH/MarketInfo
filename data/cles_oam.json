@@ -1,10 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "canapesofadivan_136047canapedanglegaucheconvertibleimperial5placestissugrisclair2coffresderangementl304xp212xh86cm3700538240035_html",
-      "name": "Canap\u00e9 d'angle gauche convertible IMPERIAL 5 places - Tissu gris clair - 2 coffres de rangement - L304 x P212 x H86 cm",
-      "prix_base": 10125000,
-      "prix_comparaison": 10125000,
+      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
+      "prix_base": 12171000,
+      "prix_comparaison": 12171000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tondeuseautoporteesansfil_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
+      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
+      "prix_base": 11958000,
+      "prix_comparaison": 11958000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tondeuseautoporteesansfil_136387tondeuseautoporteethermique98cmdecoupealpinaat398hatransmissionhydrostatique8008984851559_html",
+      "name": "Tondeuse autoport\u00e9e thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique",
+      "prix_base": 14749000,
+      "prix_comparaison": 14749000,
       "variation": 0,
       "indice_prix": 100.0
     }

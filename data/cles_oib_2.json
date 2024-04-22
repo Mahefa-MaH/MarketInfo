@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "huiles_1894huiledesoja20lhina_html",
-      "name": "Huile de soja Hina 20L",
-      "prix_base": 179400,
-      "prix_comparaison": 179400,
+      "cle": "riz_11443rizmakalioka1kg_html",
+      "name": "Riz makalioka 1kg",
+      "prix_base": 4350,
+      "prix_comparaison": 4350,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "sucres_4881sucreblancfana1kg_html",
-      "name": "Sucre blanc Fana 1kg",
-      "prix_base": 6290,
-      "prix_comparaison": 6290,
+      "cle": "riz_14597rizmakalioka5kg_html",
+      "name": "Riz makalioka 5kg",
+      "prix_base": 21750,
+      "prix_comparaison": 21750,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_15213rizdiamante5kg_html",
-      "name": "Riz blanc diamante 5Kg",
-      "prix_base": 16500,
-      "prix_comparaison": 16500,
+      "cle": "riz_9404rizmakaliokasacde1kg_html",
+      "name": "Riz Makalioka sac de 1kg",
+      "prix_base": 4490,
+      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     }
