@@ -6,13 +6,6 @@
       "prix_base": 5000,
       "prix_comparaison": 9350,
       "variation": 4350
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 3000,
-      "prix_comparaison": 5450,
-      "variation": 2450
     }
   ],
   "prix_diminues": [
@@ -22,13 +15,6 @@
       "prix_base": 3000,
       "prix_comparaison": 5450,
       "variation": 2450
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 5000,
-      "prix_comparaison": 9350,
-      "variation": 4350
     }
   ],
   "indices_prix_plus_eleves": [
@@ -38,13 +24,6 @@
       "prix_base": 5000,
       "prix_comparaison": 9350,
       "indice_prix": 187.0
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 3000,
-      "prix_comparaison": 5450,
-      "indice_prix": 181.66666666666666
     }
   ],
   "indices_prix_plus_faibles": [
@@ -54,13 +33,6 @@
       "prix_base": 3000,
       "prix_comparaison": 5450,
       "indice_prix": 181.66666666666666
-    },
-    {
-      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 5000,
-      "prix_comparaison": 9350,
-      "indice_prix": 187.0
     }
   ]
 }
