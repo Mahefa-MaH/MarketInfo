@@ -10,7 +10,7 @@
 
 2. **Riz blanc diamante 5Kg**
    - Prix avant: 16,500 Ar
-   - Prix actuel: 16,500 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+   - Prix actuel: 19,300 Ar
+   - Variation: +2,800 Ar
+   - Indice de prix : 116.97
 

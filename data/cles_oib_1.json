@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_4951rizdetablemakalioka5kg_html",
-      "name": "Riz de table Makalioka 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
+      "cle": "riz_4952rizdeluxemakalioka5kg_html",
+      "name": "Riz de luxe Makalioka 5kg",
+      "prix_base": 19550,
+      "prix_comparaison": 19550,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_11442rizgasymena1kg_html",
-      "name": "Riz gasy mena  1kg",
-      "prix_base": 4250,
-      "prix_comparaison": 4250,
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14900,
+      "prix_comparaison": 14900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_9403rizgasysacde1kg_html",
-      "name": "Riz gasy sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
+      "cle": "huiles_8994huiledesoja1l_html",
+      "name": "Huile de soja 1L",
+      "prix_base": 15500,
+      "prix_comparaison": 15500,
       "variation": 0,
       "indice_prix": 100.0
     }
