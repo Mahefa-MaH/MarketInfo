@@ -27,13 +27,6 @@
       "prix_base": 10990,
       "prix_comparaison": 12900,
       "variation": 1910
-    },
-    {
-      "cle": "lessiveenpoudreettablette_9302lessiveenpoudrevioletvaoline30g_html",
-      "name": "Lessive en poudre violet Vaoline 30g",
-      "prix_base": 350,
-      "prix_comparaison": 250,
-      "variation": -100
     }
   ],
   "prix_diminues": [
@@ -59,18 +52,11 @@
       "variation": -3100
     },
     {
-      "cle": "biscuitssalesetbretzels_5145biscuitssalesaperomix350g_html",
-      "name": "Biscuits sal\u00e9s Ap\u00e9ro mix 350g",
-      "prix_base": 11200,
-      "prix_comparaison": 9590,
-      "variation": -1610
-    },
-    {
-      "cle": "biscuitssalesetbretzels_14988biscuitssalesminicraker_html",
-      "name": "Biscuits sal\u00e9s mini craker",
-      "prix_base": 10900,
-      "prix_comparaison": 9590,
-      "variation": -1310
+      "cle": "boissonsinstantanees_13869petitdejeunerinstantaneaucacaomaigreenpoudre800gtopbudget_html",
+      "name": "Petit d\u00e9jeuner instantan\u00e9 au cacao maigre en poudre 800g",
+      "prix_base": 25900,
+      "prix_comparaison": 22900,
+      "variation": -3000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -101,13 +87,6 @@
       "prix_base": 4021000,
       "prix_comparaison": 4060000,
       "indice_prix": 100.96990798308879
-    },
-    {
-      "cle": "fromagesfondusetatartiner_927fromagelavachequirit8portions120g_html",
-      "name": "Fromage La vache qui rit 8 portions 120g",
-      "prix_base": 5100,
-      "prix_comparaison": 4750,
-      "indice_prix": 93.13725490196079
     }
   ],
   "indices_prix_plus_faibles": [
@@ -133,18 +112,11 @@
       "indice_prix": 76.15384615384616
     },
     {
-      "cle": "dentifrice_4886dentifricemaximumcavityprotection35g_html",
-      "name": "Dentifrice maximum cavity protection 35g",
-      "prix_base": 1900,
-      "prix_comparaison": 1490,
-      "indice_prix": 78.42105263157895
-    },
-    {
-      "cle": "fruitsdemeretcrustaces_7501crevettesdecortiqueesmm500g_html",
-      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 500g",
-      "prix_base": 35000,
-      "prix_comparaison": 27500,
-      "indice_prix": 78.57142857142857
+      "cle": "detergentvaisselle_13889liquidevaissellepomme500mltopbudget_html",
+      "name": "Liquide vaisselle pomme 500ml",
+      "prix_base": 3900,
+      "prix_comparaison": 2990,
+      "indice_prix": 76.66666666666667
     }
   ]
 }

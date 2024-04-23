@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 4000,
-      "prix_base": 19800,
-      "name": "Sauce Pesto Rosso 135 G",
-      "prix_comparaison": 22900,
-      "variation": 3100
+      "list_id": 5672,
+      "prix_base": 933600,
+      "name": "Prot\u00e9ines Vanille Iso Whey 2270 g",
+      "prix_comparaison": 1018500,
+      "variation": 84900
     },
     {
-      "list_id": 5499,
-      "prix_base": 30700,
-      "name": "Baume \u00e0 l\u00e8vres Gommage",
-      "prix_comparaison": 33500,
-      "variation": 2800
+      "list_id": 5671,
+      "prix_base": 933600,
+      "name": "Prot\u00e9ines Chocolat Iso Whey 2270 g",
+      "prix_comparaison": 1018440,
+      "variation": 84840
+    },
+    {
+      "list_id": 5741,
+      "prix_base": 609400,
+      "name": "Prot\u00e9ine V\u00e9gan Vanille 2000 g",
+      "prix_comparaison": 664800,
+      "variation": 55400
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 5499,
-      "prix_base": 30700,
-      "name": "Baume \u00e0 l\u00e8vres Gommage",
-      "prix_comparaison": 33500,
-      "variation": 2800
+      "list_id": 5665,
+      "prix_base": 406800,
+      "name": "Chaise visiteur",
+      "prix_comparaison": 276000,
+      "variation": -130800
     },
     {
-      "list_id": 4000,
-      "prix_base": 19800,
-      "name": "Sauce Pesto Rosso 135 G",
-      "prix_comparaison": 22900,
-      "variation": 3100
+      "list_id": 6081,
+      "prix_base": 95000,
+      "name": "Cafeti\u00e8re Italienne",
+      "prix_comparaison": 72000,
+      "variation": -23000
+    },
+    {
+      "list_id": 11865,
+      "prix_base": 22900,
+      "name": "Liquide vaisselle au vinaigre de fruits citron 1,5 L",
+      "prix_comparaison": 16700,
+      "variation": -6200
     }
   ],
   "indices_prix_plus_eleves": [
     {
+      "list_id": 5771,
+      "name": "Baume Ravintsara roll-on 30 ml",
+      "prix_base": 3000,
+      "prix_comparaison": 4000,
+      "indice_prix": 133.33333333333334
+    },
+    {
+      "list_id": 6915,
+      "name": "Essuie-tout blanc XXXL 500 formats",
+      "prix_base": 28800,
+      "prix_comparaison": 33600,
+      "indice_prix": 116.66666666666667
+    },
+    {
       "list_id": 4000,
       "name": "Sauce Pesto Rosso 135 G",
       "prix_base": 19800,
       "prix_comparaison": 22900,
       "indice_prix": 115.65656565656566
-    },
-    {
-      "list_id": 5499,
-      "name": "Baume \u00e0 l\u00e8vres Gommage",
-      "prix_base": 30700,
-      "prix_comparaison": 33500,
-      "indice_prix": 109.12052117263843
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 5499,
-      "name": "Baume \u00e0 l\u00e8vres Gommage",
-      "prix_base": 30700,
-      "prix_comparaison": 33500,
-      "indice_prix": 109.12052117263843
+      "list_id": 5665,
+      "name": "Chaise visiteur",
+      "prix_base": 406800,
+      "prix_comparaison": 276000,
+      "indice_prix": 67.84660766961652
     },
     {
-      "list_id": 4000,
-      "name": "Sauce Pesto Rosso 135 G",
-      "prix_base": 19800,
-      "prix_comparaison": 22900,
-      "indice_prix": 115.65656565656566
+      "list_id": 11865,
+      "name": "Liquide vaisselle au vinaigre de fruits citron 1,5 L",
+      "prix_base": 22900,
+      "prix_comparaison": 16700,
+      "indice_prix": 72.92576419213974
+    },
+    {
+      "list_id": 5564,
+      "name": "Savon Vanilla beauty Soap 80 g",
+      "prix_base": 2400,
+      "prix_comparaison": 1800,
+      "indice_prix": 75.0
     }
   ]
 }

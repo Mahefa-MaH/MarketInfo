@@ -1,48 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "microondes_86028microondescombinesamsungmc32j7035awefblanc8806086598408_html",
-      "name": "Micro-ondes combin\u00e9 SAMSUNG MC32J7035AW/EF - Blanc",
-      "prix_base": 1661000,
-      "prix_comparaison": 1714000,
-      "variation": 53000
-    },
-    {
-      "cle": "four_61750fourencastrabletwinconvectionmultifonctioncatalysesamsungnv7b4420zasnv7b4420zasinox595x596x570cm8806094336917_html",
-      "name": "Four encastrable twin convection multifonction catalyse SAMSUNG - NV7B4420ZAS - NV7B4420ZAS - Inox - Connect\u00e9",
-      "prix_base": 4233000,
-      "prix_comparaison": 4301000,
-      "variation": 68000
-    },
-    {
-      "cle": "four_61749fourencastrablesinglefanmultifonctionspyrolysesamsungnv7b41307aknoir595x596x570cm8806094336689_html",
-      "name": "Four encastrable single fan multifonctions pyrolyse SAMSUNG - NV7B41307AK \u2013 Noir \u2013 59,5x59,6x57,0cm",
-      "prix_base": 4385000,
-      "prix_comparaison": 4465000,
-      "variation": 80000
+      "cle": "tablettetactile_137365samsunggalaxytaba91164go5ggris8806095360720_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go 5G Gris",
+      "prix_base": 1586000,
+      "prix_comparaison": 1587000,
+      "variation": 1000
     }
   ],
   "indice de prix": [
     {
-      "cle": "four_61750fourencastrabletwinconvectionmultifonctioncatalysesamsungnv7b4420zasnv7b4420zasinox595x596x570cm8806094336917_html",
-      "name": "Four encastrable twin convection multifonction catalyse SAMSUNG - NV7B4420ZAS - NV7B4420ZAS - Inox - Connect\u00e9",
-      "prix_base": 4233000,
-      "prix_comparaison": 4301000,
-      "indice_prix": 101.60642570281125
-    },
-    {
-      "cle": "four_61749fourencastrablesinglefanmultifonctionspyrolysesamsungnv7b41307aknoir595x596x570cm8806094336689_html",
-      "name": "Four encastrable single fan multifonctions pyrolyse SAMSUNG - NV7B41307AK \u2013 Noir \u2013 59,5x59,6x57,0cm",
-      "prix_base": 4385000,
-      "prix_comparaison": 4465000,
-      "indice_prix": 101.82440136830103
-    },
-    {
-      "cle": "microondes_86028microondescombinesamsungmc32j7035awefblanc8806086598408_html",
-      "name": "Micro-ondes combin\u00e9 SAMSUNG MC32J7035AW/EF - Blanc",
-      "prix_base": 1661000,
-      "prix_comparaison": 1714000,
-      "indice_prix": 103.19084888621312
+      "cle": "tablettetactile_137365samsunggalaxytaba91164go5ggris8806095360720_html",
+      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go 5G Gris",
+      "prix_base": 1586000,
+      "prix_comparaison": 1587000,
+      "indice_prix": 100.06305170239597
     }
   ]
 }

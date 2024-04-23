@@ -22,11 +22,6 @@
    - Prix actuel: 12,900 Ar
    - Variation: +1,910 Ar
 
-5. **Lessive en poudre violet Vaoline 30g**
-   - Prix avant: 350 Ar
-   - Prix actuel: 250 Ar
-   - Variation: -100 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Crevettes décortiquées MM 500g**
@@ -44,15 +39,10 @@
    - Prix actuel: 9,900 Ar
    - Variation: -3,100 Ar
 
-4. **Biscuits salés Apéro mix 350g**
-   - Prix avant: 11,200 Ar
-   - Prix actuel: 9,590 Ar
-   - Variation: -1,610 Ar
-
-5. **Biscuits salés mini craker**
-   - Prix avant: 10,900 Ar
-   - Prix actuel: 9,590 Ar
-   - Variation: -1,310 Ar
+4. **Petit déjeuner instantané au cacao maigre en poudre 800g**
+   - Prix avant: 25,900 Ar
+   - Prix actuel: 22,900 Ar
+   - Variation: -3,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -76,11 +66,6 @@
    - Prix actuel: 4,060,000 Ar
    - Indice de prix : 100.97
 
-5. **Fromage La vache qui rit 8 portions 120g**
-   - Prix avant: 5,100 Ar
-   - Prix actuel: 4,750 Ar
-   - Indice de prix : 93.14
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Lessive en poudre bleu Vaoline 30g**
@@ -98,13 +83,8 @@
    - Prix actuel: 9,900 Ar
    - Indice de prix : 76.15
 
-4. **Dentifrice maximum cavity protection 35g**
-   - Prix avant: 1,900 Ar
-   - Prix actuel: 1,490 Ar
-   - Indice de prix : 78.42
-
-5. **Crevettes décortiquées MM 500g**
-   - Prix avant: 35,000 Ar
-   - Prix actuel: 27,500 Ar
-   - Indice de prix : 78.57
+4. **Liquide vaisselle pomme 500ml**
+   - Prix avant: 3,900 Ar
+   - Prix actuel: 2,990 Ar
+   - Indice de prix : 76.67
 
