@@ -6,6 +6,34 @@
       "prix_base": 3533330,
       "prix_comparaison": 4240000,
       "variation": 706670
+    },
+    {
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 3382568,
+      "prix_comparaison": 4060000,
+      "variation": 677432
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14665appleiphone14256gbproductred_html",
+      "name": "APPLE iPhone 14 256GB (PRODUCT)RED",
+      "prix_base": 4137000,
+      "prix_comparaison": 4186000,
+      "variation": 49000
+    },
+    {
+      "cle": "poeleetcasserole_9495sauteuseinoxainductiono26cm_html",
+      "name": "Sauteuse inox \u00e0 induction \u00d826cm",
+      "prix_base": 125000,
+      "prix_comparaison": 170000,
+      "variation": 45000
+    },
+    {
+      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
+      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
+      "prix_base": 439000,
+      "prix_comparaison": 479000,
+      "variation": 40000
     }
   ],
   "prix_diminues": [
@@ -15,6 +43,34 @@
       "prix_base": 4017000,
       "prix_comparaison": 3871000,
       "variation": -146000
+    },
+    {
+      "cle": "robotmultifonctions_14023robotmultifonctionboschmultitalent3blanc800w2vitessesetpulsebolmelangeur23lbolmixeur1l2disques_html",
+      "name": "Robot multifonction BOSCH MultiTalent3 - Blanc - 800 W - 2 vitesses et pulse - Bol m\u00e9langeur 2,3 L - Bol mixeur 1 L - 2 disques",
+      "prix_base": 651000,
+      "prix_comparaison": 622000,
+      "variation": -29000
+    },
+    {
+      "cle": "coiffure_14662babyliss6704wesechecheveuxspeedpro2000moteuracfabriquenitalie_html",
+      "name": "BaByliss  - 6704WE - Seche-cheveux Speed Pro 2000 Moteur AC Fabriqu\u008e en Italie",
+      "prix_base": 251000,
+      "prix_comparaison": 244000,
+      "variation": -7000
+    },
+    {
+      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
+      "name": "Huile de tournesol 1L",
+      "prix_base": 17900,
+      "prix_comparaison": 16500,
+      "variation": -1400
+    },
+    {
+      "cle": "sauceschaudessaucestomates_12617saucepournems90gitinerairedessaveurs_html",
+      "name": "Sauce pour Nems 90g",
+      "prix_base": 9600,
+      "prix_comparaison": 8500,
+      "variation": -1100
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +80,34 @@
       "prix_base": 22500,
       "prix_comparaison": 44500,
       "indice_prix": 197.77777777777777
+    },
+    {
+      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
+      "name": "20 Sacs poubelle transparent 50L",
+      "prix_base": 5000,
+      "prix_comparaison": 9350,
+      "indice_prix": 187.0
+    },
+    {
+      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
+      "name": "20 Sacs poubelle transparent 30L",
+      "prix_base": 3000,
+      "prix_comparaison": 5450,
+      "indice_prix": 181.66666666666666
+    },
+    {
+      "cle": "poeleetcasserole_4147cass20alugazelecvitro_html",
+      "name": "Casserole aluminium 20cm",
+      "prix_base": 57000,
+      "prix_comparaison": 85000,
+      "indice_prix": 149.12280701754386
+    },
+    {
+      "cle": "tablettesdechocolat_2682tablettedechocolatnoirextra100g_html",
+      "name": "Tablette de chocolat noir extra 100g",
+      "prix_base": 3500,
+      "prix_comparaison": 5200,
+      "indice_prix": 148.57142857142858
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +117,34 @@
       "prix_base": 9600,
       "prix_comparaison": 8500,
       "indice_prix": 88.54166666666667
+    },
+    {
+      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
+      "name": "Huile de tournesol 1L",
+      "prix_base": 17900,
+      "prix_comparaison": 16500,
+      "indice_prix": 92.17877094972067
+    },
+    {
+      "cle": "aidesalapatisserie_12435sucrevanille10x75gchabrior_html",
+      "name": "Sucre vanill\u00e9 10x7,5g",
+      "prix_base": 5300,
+      "prix_comparaison": 4900,
+      "indice_prix": 92.45283018867924
+    },
+    {
+      "cle": "potages_12997veloutepotironalacreme1lsainteloi_html",
+      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
+      "prix_base": 12700,
+      "prix_comparaison": 11900,
+      "indice_prix": 93.7007874015748
+    },
+    {
+      "cle": "robotmultifonctions_14023robotmultifonctionboschmultitalent3blanc800w2vitessesetpulsebolmelangeur23lbolmixeur1l2disques_html",
+      "name": "Robot multifonction BOSCH MultiTalent3 - Blanc - 800 W - 2 vitesses et pulse - Bol m\u00e9langeur 2,3 L - Bol mixeur 1 L - 2 disques",
+      "prix_base": 651000,
+      "prix_comparaison": 622000,
+      "indice_prix": 95.54531490015361
     }
   ]
 }
