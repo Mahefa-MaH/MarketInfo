@@ -1,132 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "potages_12997veloutepotironalacreme1lsainteloi_html",
-      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
-      "prix_base": 12700,
-      "prix_comparaison": 11900,
-      "variation": -800
-    },
-    {
-      "cle": "potages_13189veloute8legumescreme1lsainteloi_html",
-      "name": "Velout\u00e9 8 l\u00e9gumes et cr\u00e8me 1L",
-      "prix_base": 10900,
-      "prix_comparaison": 11500,
-      "variation": 600
-    },
-    {
-      "cle": "potages_12971veloutepotironetcreme2x30clsainteloi_html",
-      "name": "Velout\u00e9 potiron et cr\u00e8me 2x30cl",
-      "prix_base": 10900,
-      "prix_comparaison": 11500,
-      "variation": 600
-    },
-    {
-      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
-      "name": "Cr\u00e8me lavante lait et miel 750ml",
-      "prix_base": 7900,
-      "prix_comparaison": 8900,
-      "variation": 1000
-    },
-    {
-      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
-      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
-      "prix_base": 15900,
-      "prix_comparaison": 21900,
-      "variation": 6000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
-      "name": "iPhone 13 128Go Midnight",
-      "prix_base": 3000000,
-      "prix_comparaison": 3029000,
-      "variation": 29000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14665appleiphone14256gbproductred_html",
-      "name": "APPLE iPhone 14 256GB (PRODUCT)RED",
-      "prix_base": 4137000,
-      "prix_comparaison": 4186000,
-      "variation": 49000
-    },
-    {
-      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
-      "name": "SAMSUNG Galaxy S24 128 Go Argent",
-      "prix_base": 3382568,
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4021000,
       "prix_comparaison": 4060000,
-      "variation": 677432
-    },
-    {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 3533330,
-      "prix_comparaison": 4240000,
-      "variation": 706670
+      "variation": 39000
     }
   ],
   "indice de prix": [
     {
-      "cle": "potages_12997veloutepotironalacreme1lsainteloi_html",
-      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
-      "prix_base": 12700,
-      "prix_comparaison": 11900,
-      "indice_prix": 93.7007874015748
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
-      "name": "iPhone 13 128Go Midnight",
-      "prix_base": 3000000,
-      "prix_comparaison": 3029000,
-      "indice_prix": 100.96666666666667
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14665appleiphone14256gbproductred_html",
-      "name": "APPLE iPhone 14 256GB (PRODUCT)RED",
-      "prix_base": 4137000,
-      "prix_comparaison": 4186000,
-      "indice_prix": 101.18443316412859
-    },
-    {
-      "cle": "potages_13189veloute8legumescreme1lsainteloi_html",
-      "name": "Velout\u00e9 8 l\u00e9gumes et cr\u00e8me 1L",
-      "prix_base": 10900,
-      "prix_comparaison": 11500,
-      "indice_prix": 105.5045871559633
-    },
-    {
-      "cle": "potages_12971veloutepotironetcreme2x30clsainteloi_html",
-      "name": "Velout\u00e9 potiron et cr\u00e8me 2x30cl",
-      "prix_base": 10900,
-      "prix_comparaison": 11500,
-      "indice_prix": 105.5045871559633
-    },
-    {
-      "cle": "gelsetbainsdouche_13913cremelavantelaitetmieltopbudget_html",
-      "name": "Cr\u00e8me lavante lait et miel 750ml",
-      "prix_base": 7900,
-      "prix_comparaison": 8900,
-      "indice_prix": 112.65822784810126
-    },
-    {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 3533330,
-      "prix_comparaison": 4240000,
-      "indice_prix": 120.00011320765397
-    },
-    {
-      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
-      "name": "SAMSUNG Galaxy S24 128 Go Argent",
-      "prix_base": 3382568,
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4021000,
       "prix_comparaison": 4060000,
-      "indice_prix": 120.02715096932272
-    },
-    {
-      "cle": "conesetcornets_1021110minisglacesencornetcremeetchocolatx28ml_html",
-      "name": "10 Minis glaces en cornet cr\u00e8me et chocolat  x28ml",
-      "prix_base": 15900,
-      "prix_comparaison": 21900,
-      "indice_prix": 137.73584905660377
+      "indice_prix": 100.96990798308879
     }
   ]
 }

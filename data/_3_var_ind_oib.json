@@ -1,150 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 3533330,
-      "prix_comparaison": 4240000,
-      "variation": 706670
-    },
-    {
-      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
-      "name": "SAMSUNG Galaxy S24 128 Go Argent",
-      "prix_base": 3382568,
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4021000,
       "prix_comparaison": 4060000,
-      "variation": 677432
+      "variation": 39000
     },
     {
-      "cle": "telephonieetobjetsconnectes_14665appleiphone14256gbproductred_html",
-      "name": "APPLE iPhone 14 256GB (PRODUCT)RED",
-      "prix_base": 4137000,
-      "prix_comparaison": 4186000,
-      "variation": 49000
+      "cle": "jusdefruits_8904jusdefruitwhispersofsummer1l_html",
+      "name": "Jus de fruit whispers of summer 1L",
+      "prix_base": 10990,
+      "prix_comparaison": 12900,
+      "variation": 1910
     },
     {
-      "cle": "poeleetcasserole_9495sauteuseinoxainductiono26cm_html",
-      "name": "Sauteuse inox \u00e0 induction \u00d826cm",
-      "prix_base": 125000,
-      "prix_comparaison": 170000,
-      "variation": 45000
+      "cle": "jusdefruits_327ceresjusdefruitmedley1l_html",
+      "name": "Jus de fruit multifruits 1L",
+      "prix_base": 10990,
+      "prix_comparaison": 12900,
+      "variation": 1910
     },
     {
-      "cle": "enceintesbluetooth_14880barredesonbluetoothcontinentaledisoncebds4022b340wrms20chstereoauxusbecranledhdmiarcoptique_html",
-      "name": "Barre de son bluetooth Continental Edison -CEBDS4022B3 - 40W RMS - 2.0CH STEREO - AUX - USB - ECRAN LED - HDMI (ARC) - Optique -",
-      "prix_base": 439000,
-      "prix_comparaison": 479000,
-      "variation": 40000
+      "cle": "jusdefruits_8906jusdefruitseasonstreasures1l_html",
+      "name": "Jus de fruit  Season's Treasures 1L",
+      "prix_base": 10990,
+      "prix_comparaison": 12900,
+      "variation": 1910
+    },
+    {
+      "cle": "lessiveenpoudreettablette_9302lessiveenpoudrevioletvaoline30g_html",
+      "name": "Lessive en poudre violet Vaoline 30g",
+      "prix_base": 350,
+      "prix_comparaison": 250,
+      "variation": -100
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ordinateursportables_14812pcportablegamerasustufgamingf15156fhdrtx30504gointelcorei512500hram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming F15 | 15,6 FHD - RTX 3050 4Go - Intel Core i5-12500H - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 4017000,
-      "prix_comparaison": 3871000,
-      "variation": -146000
+      "cle": "fruitsdemeretcrustaces_7501crevettesdecortiqueesmm500g_html",
+      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 500g",
+      "prix_base": 35000,
+      "prix_comparaison": 27500,
+      "variation": -7500
     },
     {
-      "cle": "robotmultifonctions_14023robotmultifonctionboschmultitalent3blanc800w2vitessesetpulsebolmelangeur23lbolmixeur1l2disques_html",
-      "name": "Robot multifonction BOSCH MultiTalent3 - Blanc - 800 W - 2 vitesses et pulse - Bol m\u00e9langeur 2,3 L - Bol mixeur 1 L - 2 disques",
-      "prix_base": 651000,
-      "prix_comparaison": 622000,
-      "variation": -29000
+      "cle": "fruitsdemeretcrustaces_7502crevettesdecortiqueesmm250g_html",
+      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 250g",
+      "prix_base": 17500,
+      "prix_comparaison": 14000,
+      "variation": -3500
     },
     {
-      "cle": "coiffure_14662babyliss6704wesechecheveuxspeedpro2000moteuracfabriquenitalie_html",
-      "name": "BaByliss  - 6704WE - Seche-cheveux Speed Pro 2000 Moteur AC Fabriqu\u008e en Italie",
-      "prix_base": 251000,
-      "prix_comparaison": 244000,
-      "variation": -7000
+      "cle": "savonmenager_7030savonbarrecitron1kg_html",
+      "name": "Savon barre citron 1kg",
+      "prix_base": 13000,
+      "prix_comparaison": 9900,
+      "variation": -3100
     },
     {
-      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 17900,
-      "prix_comparaison": 16500,
-      "variation": -1400
+      "cle": "biscuitssalesetbretzels_5145biscuitssalesaperomix350g_html",
+      "name": "Biscuits sal\u00e9s Ap\u00e9ro mix 350g",
+      "prix_base": 11200,
+      "prix_comparaison": 9590,
+      "variation": -1610
     },
     {
-      "cle": "sauceschaudessaucestomates_12617saucepournems90gitinerairedessaveurs_html",
-      "name": "Sauce pour Nems 90g",
-      "prix_base": 9600,
-      "prix_comparaison": 8500,
-      "variation": -1100
+      "cle": "biscuitssalesetbretzels_14988biscuitssalesminicraker_html",
+      "name": "Biscuits sal\u00e9s mini craker",
+      "prix_base": 10900,
+      "prix_comparaison": 9590,
+      "variation": -1310
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
-      "name": "Cappuccino noisette en bo\u00eete 270g",
-      "prix_base": 22500,
-      "prix_comparaison": 44500,
-      "indice_prix": 197.77777777777777
+      "cle": "jusdefruits_8904jusdefruitwhispersofsummer1l_html",
+      "name": "Jus de fruit whispers of summer 1L",
+      "prix_base": 10990,
+      "prix_comparaison": 12900,
+      "indice_prix": 117.37943585077343
     },
     {
-      "cle": "poubellesetsacspoubelle_642220sacspoubelletransparent50l_html",
-      "name": "20 Sacs poubelle transparent 50L",
-      "prix_base": 5000,
-      "prix_comparaison": 9350,
-      "indice_prix": 187.0
+      "cle": "jusdefruits_327ceresjusdefruitmedley1l_html",
+      "name": "Jus de fruit multifruits 1L",
+      "prix_base": 10990,
+      "prix_comparaison": 12900,
+      "indice_prix": 117.37943585077343
     },
     {
-      "cle": "poubellesetsacspoubelle_642120sacspoubelletransparent30l_html",
-      "name": "20 Sacs poubelle transparent 30L",
-      "prix_base": 3000,
-      "prix_comparaison": 5450,
-      "indice_prix": 181.66666666666666
+      "cle": "jusdefruits_8906jusdefruitseasonstreasures1l_html",
+      "name": "Jus de fruit  Season's Treasures 1L",
+      "prix_base": 10990,
+      "prix_comparaison": 12900,
+      "indice_prix": 117.37943585077343
     },
     {
-      "cle": "poeleetcasserole_4147cass20alugazelecvitro_html",
-      "name": "Casserole aluminium 20cm",
-      "prix_base": 57000,
-      "prix_comparaison": 85000,
-      "indice_prix": 149.12280701754386
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4021000,
+      "prix_comparaison": 4060000,
+      "indice_prix": 100.96990798308879
     },
     {
-      "cle": "tablettesdechocolat_2682tablettedechocolatnoirextra100g_html",
-      "name": "Tablette de chocolat noir extra 100g",
-      "prix_base": 3500,
-      "prix_comparaison": 5200,
-      "indice_prix": 148.57142857142858
+      "cle": "fromagesfondusetatartiner_927fromagelavachequirit8portions120g_html",
+      "name": "Fromage La vache qui rit 8 portions 120g",
+      "prix_base": 5100,
+      "prix_comparaison": 4750,
+      "indice_prix": 93.13725490196079
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "sauceschaudessaucestomates_12617saucepournems90gitinerairedessaveurs_html",
-      "name": "Sauce pour Nems 90g",
-      "prix_base": 9600,
-      "prix_comparaison": 8500,
-      "indice_prix": 88.54166666666667
+      "cle": "lessiveenpoudreettablette_9301lessiveenpoudrebleuvaoline30g_html",
+      "name": "Lessive en poudre bleu Vaoline 30g",
+      "prix_base": 350,
+      "prix_comparaison": 250,
+      "indice_prix": 71.42857142857143
     },
     {
-      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 17900,
-      "prix_comparaison": 16500,
-      "indice_prix": 92.17877094972067
+      "cle": "lessiveenpoudreettablette_9302lessiveenpoudrevioletvaoline30g_html",
+      "name": "Lessive en poudre violet Vaoline 30g",
+      "prix_base": 350,
+      "prix_comparaison": 250,
+      "indice_prix": 71.42857142857143
     },
     {
-      "cle": "aidesalapatisserie_12435sucrevanille10x75gchabrior_html",
-      "name": "Sucre vanill\u00e9 10x7,5g",
-      "prix_base": 5300,
-      "prix_comparaison": 4900,
-      "indice_prix": 92.45283018867924
+      "cle": "savonmenager_7030savonbarrecitron1kg_html",
+      "name": "Savon barre citron 1kg",
+      "prix_base": 13000,
+      "prix_comparaison": 9900,
+      "indice_prix": 76.15384615384616
     },
     {
-      "cle": "potages_12997veloutepotironalacreme1lsainteloi_html",
-      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
-      "prix_base": 12700,
-      "prix_comparaison": 11900,
-      "indice_prix": 93.7007874015748
+      "cle": "dentifrice_4886dentifricemaximumcavityprotection35g_html",
+      "name": "Dentifrice maximum cavity protection 35g",
+      "prix_base": 1900,
+      "prix_comparaison": 1490,
+      "indice_prix": 78.42105263157895
     },
     {
-      "cle": "robotmultifonctions_14023robotmultifonctionboschmultitalent3blanc800w2vitessesetpulsebolmelangeur23lbolmixeur1l2disques_html",
-      "name": "Robot multifonction BOSCH MultiTalent3 - Blanc - 800 W - 2 vitesses et pulse - Bol m\u00e9langeur 2,3 L - Bol mixeur 1 L - 2 disques",
-      "prix_base": 651000,
-      "prix_comparaison": 622000,
-      "indice_prix": 95.54531490015361
+      "cle": "fruitsdemeretcrustaces_7501crevettesdecortiqueesmm500g_html",
+      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 500g",
+      "prix_base": 35000,
+      "prix_comparaison": 27500,
+      "indice_prix": 78.57142857142857
     }
   ]
 }
