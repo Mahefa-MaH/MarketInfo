@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Sucre blanc 1 Kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,200 Ar
+1. **Huile De Soja 1 L**
+   - Prix avant: 9,300 Ar
+   - Prix actuel: 9,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
-   - Prix avant: 184,000 Ar
-   - Prix actuel: 184,000 Ar
+2. **Riz Rouge 5 Kg**
+   - Prix avant: 19,800 Ar
+   - Prix actuel: 19,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
-   - Prix avant: 172,500 Ar
-   - Prix actuel: 172,500 Ar
+3. **Riz makalioka rouge 5 kg**
+   - Prix avant: 19,800 Ar
+   - Prix actuel: 19,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
