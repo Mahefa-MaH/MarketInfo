@@ -1,38 +1,30 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_cacaonesquick250g_",
-      "name": "Cacao Nesquick 250g",
-      "prix_base": 18670,
-      "prix_comparaison": 25000,
-      "variation": 6330
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_cacaonesquick250g_",
-      "name": "Cacao Nesquick 250g",
-      "prix_base": 18670,
-      "prix_comparaison": 25000,
-      "variation": 6330
+      "cle": "produit_vanillemadagascarphaelflor50g_",
+      "name": "Vanille de Madagascar BIO Phael Flor\u2122 50g | Naturel et Sans Conservateurs",
+      "prix_base": 123080,
+      "prix_comparaison": 100000,
+      "variation": -23080
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_cacaonesquick250g_",
-      "name": "Cacao Nesquick 250g",
-      "prix_base": 18670,
-      "prix_comparaison": 25000,
-      "indice_prix": 133.9046598821639
+      "cle": "produit_vanillemadagascarphaelflor50g_",
+      "name": "Vanille de Madagascar BIO Phael Flor\u2122 50g | Naturel et Sans Conservateurs",
+      "prix_base": 123080,
+      "prix_comparaison": 100000,
+      "indice_prix": 81.24796880077999
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_cacaonesquick250g_",
-      "name": "Cacao Nesquick 250g",
-      "prix_base": 18670,
-      "prix_comparaison": 25000,
-      "indice_prix": 133.9046598821639
+      "cle": "produit_vanillemadagascarphaelflor50g_",
+      "name": "Vanille de Madagascar BIO Phael Flor\u2122 50g | Naturel et Sans Conservateurs",
+      "prix_base": 123080,
+      "prix_comparaison": 100000,
+      "indice_prix": 81.24796880077999
     }
   ]
 }

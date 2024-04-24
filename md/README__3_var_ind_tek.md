@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Huile Exquise pour peau à l'Huile d'Argan Flacon 50 ml**
-   - Prix avant: 137,600 Ar
-   - Prix actuel: 150,200 Ar
-   - Variation: +12,600 Ar
+1. **Piano de cuisson Classica inox 115 l**
+   - Prix avant: 7,676,200 Ar
+   - Prix actuel: 8,608,800 Ar
+   - Variation: +932,600 Ar
 
-2. **Baume Corps Gourmand à l'Huile de Monoï  ao Pot 150 ml**
-   - Prix avant: 131,700 Ar
-   - Prix actuel: 143,700 Ar
-   - Variation: +12,000 Ar
+2. **Piano de cuisson 129 l**
+   - Prix avant: 8,445,900 Ar
+   - Prix actuel: 9,213,800 Ar
+   - Variation: +767,900 Ar
 
-3. **Masque au Charbon Végétal Pot 75 ml**
-   - Prix avant: 123,800 Ar
-   - Prix actuel: 135,000 Ar
-   - Variation: +11,200 Ar
+3. **Réfrigérateur 1 porte GLT71SWCSE 386 L Blanc**
+   - Prix avant: 5,628,300 Ar
+   - Prix actuel: 6,312,200 Ar
+   - Variation: +683,900 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Sauce All Arrabbiata 295 g**
-   - Prix avant: 14,300 Ar
-   - Prix actuel: 14,900 Ar
-   - Variation: +600 Ar
+1. **Fer à repasser à vapeur 2600 Watts 350 ml**
+   - Prix avant: 55,900 Ar
+   - Prix actuel: 49,000 Ar
+   - Variation: -6,900 Ar
 
-2. **Sauce al Basilic 295 g**
-   - Prix avant: 14,300 Ar
-   - Prix actuel: 15,000 Ar
-   - Variation: +700 Ar
+2. **Eponge grattante multi-usage 11x7 cm**
+   - Prix avant: 3,800 Ar
+   - Prix actuel: 3,500 Ar
+   - Variation: -300 Ar
 
-3. **Pâte Tagliatelle n°81 500 g**
-   - Prix avant: 14,800 Ar
-   - Prix actuel: 15,500 Ar
-   - Variation: +700 Ar
+3. **Zinga Plastiques**
+   - Prix avant: 2,700 Ar
+   - Prix actuel: 2,640 Ar
+   - Variation: -60 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Crème pour les mains bio tube 75 ml**
-   - Prix avant: 48,500 Ar
-   - Prix actuel: 53,000 Ar
-   - Indice de prix : 109.28
+1. **Legumes Couscous 1/2 400 g**
+   - Prix avant: 7,800 Ar
+   - Prix actuel: 9,300 Ar
+   - Indice de prix : 119.23
 
-2. **Masque Visage Purifiant Tube 75 ml**
-   - Prix avant: 48,500 Ar
-   - Prix actuel: 53,000 Ar
-   - Indice de prix : 109.28
+2. **Fer à repasser à sec**
+   - Prix avant: 37,600 Ar
+   - Prix actuel: 42,200 Ar
+   - Indice de prix : 112.23
 
-3. **Crème de nuit bio tube 30 ml**
-   - Prix avant: 47,500 Ar
-   - Prix actuel: 51,900 Ar
-   - Indice de prix : 109.26
+3. **Fer à repasser TFV-2004 Bleu 2000 W**
+   - Prix avant: 72,000 Ar
+   - Prix actuel: 80,800 Ar
+   - Indice de prix : 112.22
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Sauce All Arrabbiata 295 g**
-   - Prix avant: 14,300 Ar
-   - Prix actuel: 14,900 Ar
-   - Indice de prix : 104.20
+1. **Fer à repasser à vapeur 2600 Watts 350 ml**
+   - Prix avant: 55,900 Ar
+   - Prix actuel: 49,000 Ar
+   - Indice de prix : 87.66
 
-2. **Sauce Basilic 400 g**
-   - Prix avant: 18,400 Ar
-   - Prix actuel: 19,200 Ar
-   - Indice de prix : 104.35
+2. **Eponge grattante multi-usage 11x7 cm**
+   - Prix avant: 3,800 Ar
+   - Prix actuel: 3,500 Ar
+   - Indice de prix : 92.11
 
-3. **Sauce Arrabbiata 400 g**
-   - Prix avant: 18,400 Ar
-   - Prix actuel: 19,200 Ar
-   - Indice de prix : 104.35
+3. **Zinga Plastiques**
+   - Prix avant: 2,700 Ar
+   - Prix actuel: 2,640 Ar
+   - Indice de prix : 97.78
 

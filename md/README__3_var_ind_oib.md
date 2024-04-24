@@ -12,27 +12,17 @@
    - Prix actuel: 1,520 Ar
    - Variation: +530 Ar
 
-3. **Savon de toilette cerise 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Variation: +530 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
+1. **Thermomètre digital résistant aux chocs avec sonde**
+   - Prix avant: 657,900 Ar
+   - Prix actuel: 625,005 Ar
+   - Variation: -32,895 Ar
+
+2. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
    - Prix avant: 599,000 Ar
    - Prix actuel: 569,050 Ar
    - Variation: -29,950 Ar
-
-2. **Table à repasser Technic 130x44cm**
-   - Prix avant: 420,000 Ar
-   - Prix actuel: 399,000 Ar
-   - Variation: -21,000 Ar
-
-3. **Aspirateur balai sans sac**
-   - Prix avant: 390,000 Ar
-   - Prix actuel: 370,500 Ar
-   - Variation: -19,500 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -42,11 +32,6 @@
    - Indice de prix : 153.54
 
 2. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Indice de prix : 153.54
-
-3. **Savon de toilette cerise 75g**
    - Prix avant: 990 Ar
    - Prix actuel: 1,520 Ar
    - Indice de prix : 153.54
@@ -61,10 +46,5 @@
 2. **21 Etiquettes blanches 38x63mm**
    - Prix avant: 2,550 Ar
    - Prix actuel: 2,422 Ar
-   - Indice de prix : 94.98
-
-3. **2 Recharges porte mines 0,7mm - HB**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,612 Ar
    - Indice de prix : 94.98
 

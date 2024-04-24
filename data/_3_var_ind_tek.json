@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 6096,
-      "prix_base": 137600,
-      "name": "Huile Exquise pour peau \u00e0 l'Huile d'Argan Flacon 50 ml",
-      "prix_comparaison": 150200,
-      "variation": 12600
+      "list_id": 6238,
+      "prix_base": 7676200,
+      "name": "Piano de cuisson Classica inox 115 l",
+      "prix_comparaison": 8608800,
+      "variation": 932600
     },
     {
-      "list_id": 6060,
-      "prix_base": 131700,
-      "name": "Baume Corps Gourmand \u00e0 l'Huile de Mono\u00ef  ao Pot 150 ml",
-      "prix_comparaison": 143700,
-      "variation": 12000
+      "list_id": 6210,
+      "prix_base": 8445900,
+      "name": "Piano de cuisson 129 l",
+      "prix_comparaison": 9213800,
+      "variation": 767900
     },
     {
-      "list_id": 6098,
-      "prix_base": 123800,
-      "name": "Masque au Charbon V\u00e9g\u00e9tal Pot 75 ml",
-      "prix_comparaison": 135000,
-      "variation": 11200
+      "list_id": 6282,
+      "prix_base": 5628300,
+      "name": "R\u00e9frig\u00e9rateur 1 porte GLT71SWCSE 386 L Blanc",
+      "prix_comparaison": 6312200,
+      "variation": 683900
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 6051,
-      "prix_base": 14300,
-      "name": "Sauce All Arrabbiata 295 g",
-      "prix_comparaison": 14900,
-      "variation": 600
+      "list_id": 6431,
+      "prix_base": 55900,
+      "name": "Fer \u00e0 repasser \u00e0 vapeur 2600 Watts 350 ml",
+      "prix_comparaison": 49000,
+      "variation": -6900
     },
     {
-      "list_id": 6052,
-      "prix_base": 14300,
-      "name": "Sauce al Basilic 295 g",
-      "prix_comparaison": 15000,
-      "variation": 700
+      "list_id": 6150,
+      "prix_base": 3800,
+      "name": "Eponge grattante multi-usage 11x7 cm",
+      "prix_comparaison": 3500,
+      "variation": -300
     },
     {
-      "list_id": 6038,
-      "prix_base": 14800,
-      "name": "P\u00e2te Tagliatelle n\u00b081 500 g",
-      "prix_comparaison": 15500,
-      "variation": 700
+      "list_id": 13884,
+      "prix_base": 2700,
+      "name": "Zinga Plastiques",
+      "prix_comparaison": 2640,
+      "variation": -60
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 6071,
-      "name": "Cr\u00e8me pour les mains bio tube 75 ml",
-      "prix_base": 48500,
-      "prix_comparaison": 53000,
-      "indice_prix": 109.27835051546391
+      "list_id": 11771,
+      "name": "Legumes Couscous 1/2 400 g",
+      "prix_base": 7800,
+      "prix_comparaison": 9300,
+      "indice_prix": 119.23076923076923
     },
     {
-      "list_id": 6097,
-      "name": "Masque Visage Purifiant Tube 75 ml",
-      "prix_base": 48500,
-      "prix_comparaison": 53000,
-      "indice_prix": 109.27835051546391
+      "list_id": 6430,
+      "name": "Fer \u00e0 repasser \u00e0 sec",
+      "prix_base": 37600,
+      "prix_comparaison": 42200,
+      "indice_prix": 112.23404255319149
     },
     {
-      "list_id": 6069,
-      "name": "Cr\u00e8me de nuit bio tube 30 ml",
-      "prix_base": 47500,
-      "prix_comparaison": 51900,
-      "indice_prix": 109.26315789473684
+      "list_id": 6432,
+      "name": "Fer \u00e0 repasser TFV-2004 Bleu 2000 W",
+      "prix_base": 72000,
+      "prix_comparaison": 80800,
+      "indice_prix": 112.22222222222223
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 6051,
-      "name": "Sauce All Arrabbiata 295 g",
-      "prix_base": 14300,
-      "prix_comparaison": 14900,
-      "indice_prix": 104.1958041958042
+      "list_id": 6431,
+      "name": "Fer \u00e0 repasser \u00e0 vapeur 2600 Watts 350 ml",
+      "prix_base": 55900,
+      "prix_comparaison": 49000,
+      "indice_prix": 87.65652951699464
     },
     {
-      "list_id": 6049,
-      "name": "Sauce Basilic 400 g",
-      "prix_base": 18400,
-      "prix_comparaison": 19200,
-      "indice_prix": 104.34782608695652
+      "list_id": 6150,
+      "name": "Eponge grattante multi-usage 11x7 cm",
+      "prix_base": 3800,
+      "prix_comparaison": 3500,
+      "indice_prix": 92.10526315789474
     },
     {
-      "list_id": 6050,
-      "name": "Sauce Arrabbiata 400 g",
-      "prix_base": 18400,
-      "prix_comparaison": 19200,
-      "indice_prix": 104.34782608695652
+      "list_id": 13884,
+      "name": "Zinga Plastiques",
+      "prix_base": 2700,
+      "prix_comparaison": 2640,
+      "indice_prix": 97.77777777777777
     }
   ]
 }

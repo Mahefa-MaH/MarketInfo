@@ -13,36 +13,22 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "variation": 530
-    },
-    {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "variation": 530
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 657900,
+      "prix_comparaison": 625005,
+      "variation": -32895
+    },
     {
       "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
       "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
       "prix_base": 599000,
       "prix_comparaison": 569050,
       "variation": -29950
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_11689tablearepassertechnic130x44cmdomedia_html",
-      "name": "Table \u00e0 repasser Technic 130x44cm",
-      "prix_base": 420000,
-      "prix_comparaison": 399000,
-      "variation": -21000
-    },
-    {
-      "cle": "aspirateuraspirateurrobot_11747aspirateurbalaisanssacdomedia_html",
-      "name": "Aspirateur balai sans sac",
-      "prix_base": 390000,
-      "prix_comparaison": 370500,
-      "variation": -19500
     }
   ],
   "indices_prix_plus_eleves": [
@@ -56,13 +42,6 @@
     {
       "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
       "name": "Savon de toilette mure sauvage 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
-    },
-    {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
       "prix_base": 990,
       "prix_comparaison": 1520,
       "indice_prix": 153.53535353535352
@@ -82,13 +61,6 @@
       "prix_base": 2550,
       "prix_comparaison": 2422,
       "indice_prix": 94.98039215686275
-    },
-    {
-      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
-      "name": "2 Recharges porte mines 0,7mm - HB",
-      "prix_base": 2750,
-      "prix_comparaison": 2612,
-      "indice_prix": 94.98181818181818
     }
   ]
 }
