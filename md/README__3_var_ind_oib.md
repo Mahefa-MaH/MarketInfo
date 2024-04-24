@@ -22,6 +22,11 @@
    - Prix actuel: 12,900 Ar
    - Variation: +1,910 Ar
 
+5. **Lessive en poudre violet Vaoline 30g**
+   - Prix avant: 350 Ar
+   - Prix actuel: 250 Ar
+   - Variation: -100 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Crevettes décortiquées MM 500g**
@@ -42,6 +47,11 @@
 4. **Petit déjeuner instantané au cacao maigre en poudre 800g**
    - Prix avant: 25,900 Ar
    - Prix actuel: 22,900 Ar
+   - Variation: -3,000 Ar
+
+5. **Boissons instantanées granulés chocolat 800g**
+   - Prix avant: 26,900 Ar
+   - Prix actuel: 23,900 Ar
    - Variation: -3,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
@@ -66,6 +76,11 @@
    - Prix actuel: 4,060,000 Ar
    - Indice de prix : 100.97
 
+5. **Huile de soja Hina 1L**
+   - Prix avant: 8,900 Ar
+   - Prix actuel: 8,290 Ar
+   - Indice de prix : 93.15
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Lessive en poudre bleu Vaoline 30g**
@@ -87,4 +102,9 @@
    - Prix avant: 3,900 Ar
    - Prix actuel: 2,990 Ar
    - Indice de prix : 76.67
+
+5. **Liquide vaisselle citron 1L**
+   - Prix avant: 4,500 Ar
+   - Prix actuel: 3,500 Ar
+   - Indice de prix : 77.78
 

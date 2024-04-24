@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "sucres_4881sucreblancfana1kg_html",
-      "name": "Sucre blanc Fana 1kg",
-      "prix_base": 6290,
-      "prix_comparaison": 6290,
+      "cle": "riz_9404rizmakaliokasacde1kg_html",
+      "name": "Riz Makalioka sac de 1kg",
+      "prix_base": 4490,
+      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "semoulesetcouscous_1460farinederiz1kg_html",
-      "name": "Farine de riz 1kg",
-      "prix_base": 5000,
-      "prix_comparaison": 5000,
+      "cle": "riz_4951rizdetablemakalioka5kg_html",
+      "name": "Riz de table Makalioka 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_11442rizgasymena1kg_html",
-      "name": "Riz gasy mena  1kg",
-      "prix_base": 4250,
-      "prix_comparaison": 4250,
+      "cle": "riz_7474rizrougecomplet5kg_html",
+      "name": "Riz rouge complet 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -27,6 +27,13 @@
       "prix_base": 10990,
       "prix_comparaison": 12900,
       "variation": 1910
+    },
+    {
+      "cle": "lessiveenpoudreettablette_9302lessiveenpoudrevioletvaoline30g_html",
+      "name": "Lessive en poudre violet Vaoline 30g",
+      "prix_base": 350,
+      "prix_comparaison": 250,
+      "variation": -100
     }
   ],
   "prix_diminues": [
@@ -56,6 +63,13 @@
       "name": "Petit d\u00e9jeuner instantan\u00e9 au cacao maigre en poudre 800g",
       "prix_base": 25900,
       "prix_comparaison": 22900,
+      "variation": -3000
+    },
+    {
+      "cle": "boissonsinstantanees_13898boissonsinstantanesgranuleschocolat800gtopbudget_html",
+      "name": "Boissons instantan\u00e9es granul\u00e9s chocolat 800g",
+      "prix_base": 26900,
+      "prix_comparaison": 23900,
       "variation": -3000
     }
   ],
@@ -87,6 +101,13 @@
       "prix_base": 4021000,
       "prix_comparaison": 4060000,
       "indice_prix": 100.96990798308879
+    },
+    {
+      "cle": "huiles_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 8290,
+      "indice_prix": 93.14606741573034
     }
   ],
   "indices_prix_plus_faibles": [
@@ -117,6 +138,13 @@
       "prix_base": 3900,
       "prix_comparaison": 2990,
       "indice_prix": 76.66666666666667
+    },
+    {
+      "cle": "detergentvaisselle_13843liquidevaissellecitron1ltopbudget_html",
+      "name": "Liquide vaisselle citron 1L",
+      "prix_base": 4500,
+      "prix_comparaison": 3500,
+      "indice_prix": 77.77777777777777
     }
   ]
 }
