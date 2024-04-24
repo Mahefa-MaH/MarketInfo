@@ -17,16 +17,6 @@
    - Prix actuel: 1,900 Ar
    - Variation: -100 Ar
 
-4. **Papier film alimentaire 29cmx30m**
-   - Prix avant: 4,800 Ar
-   - Prix actuel: 4,560 Ar
-   - Variation: -240 Ar
-
-5. **Biscuits crackers Tuc original 100g**
-   - Prix avant: 5,200 Ar
-   - Prix actuel: 4,940 Ar
-   - Variation: -260 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Papier aluminium 50 mètres**
@@ -43,16 +33,6 @@
    - Prix avant: 17,500 Ar
    - Prix actuel: 16,625 Ar
    - Variation: -875 Ar
-
-4. **Nectar d'orange avec pulpe 2L**
-   - Prix avant: 14,500 Ar
-   - Prix actuel: 13,775 Ar
-   - Variation: -725 Ar
-
-5. **Biscuits véritables petit beurre 200g**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 9,025 Ar
-   - Variation: -475 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -71,16 +51,6 @@
    - Prix actuel: 8,455 Ar
    - Indice de prix : 95.00
 
-4. **Biscuits crackers Tuc original 100g**
-   - Prix avant: 5,200 Ar
-   - Prix actuel: 4,940 Ar
-   - Indice de prix : 95.00
-
-5. **Assortiment de biscuits salés à l'emmental Box Monaco 205g**
-   - Prix avant: 17,900 Ar
-   - Prix actuel: 17,005 Ar
-   - Indice de prix : 95.00
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Biscuits sablés pur beurre 234mg**
@@ -96,15 +66,5 @@
 3. **Cookies pomme caramel 222mg**
    - Prix avant: 1,500 Ar
    - Prix actuel: 1,425 Ar
-   - Indice de prix : 95.00
-
-4. **Cookies tout chocolat 222mg**
-   - Prix avant: 1,500 Ar
-   - Prix actuel: 1,425 Ar
-   - Indice de prix : 95.00
-
-5. **Pommes frites classiques 1kg**
-   - Prix avant: 17,500 Ar
-   - Prix actuel: 16,625 Ar
    - Indice de prix : 95.00
 
