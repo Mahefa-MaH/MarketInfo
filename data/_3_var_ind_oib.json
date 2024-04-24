@@ -1,150 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
-      "name": "iPhone 15 128GB Noir",
-      "prix_base": 4021000,
-      "prix_comparaison": 4060000,
-      "variation": 39000
+      "cle": "cookiesetbrownies_517cookiestoutchocolat222mg_html",
+      "name": "Cookies tout chocolat 222mg",
+      "prix_base": 1500,
+      "prix_comparaison": 1425,
+      "variation": -75
     },
     {
-      "cle": "jusdefruits_8904jusdefruitwhispersofsummer1l_html",
-      "name": "Jus de fruit whispers of summer 1L",
-      "prix_base": 10990,
-      "prix_comparaison": 12900,
-      "variation": 1910
+      "cle": "cookiesetbrownies_516cookiepommecaramel222mg_html",
+      "name": "Cookies pomme caramel 222mg",
+      "prix_base": 1500,
+      "prix_comparaison": 1425,
+      "variation": -75
     },
     {
-      "cle": "jusdefruits_327ceresjusdefruitmedley1l_html",
-      "name": "Jus de fruit multifruits 1L",
-      "prix_base": 10990,
-      "prix_comparaison": 12900,
-      "variation": 1910
-    },
-    {
-      "cle": "jusdefruits_8906jusdefruitseasonstreasures1l_html",
-      "name": "Jus de fruit  Season's Treasures 1L",
-      "prix_base": 10990,
-      "prix_comparaison": 12900,
-      "variation": 1910
-    },
-    {
-      "cle": "lessiveenpoudreettablette_9302lessiveenpoudrevioletvaoline30g_html",
-      "name": "Lessive en poudre violet Vaoline 30g",
-      "prix_base": 350,
-      "prix_comparaison": 250,
+      "cle": "biscuitssecssables_1484sables3biscuitsaubeurre234mg_html",
+      "name": "Biscuits sabl\u00e9s pur beurre 234mg",
+      "prix_base": 2000,
+      "prix_comparaison": 1900,
       "variation": -100
     }
   ],
   "prix_diminues": [
     {
-      "cle": "fruitsdemeretcrustaces_7501crevettesdecortiqueesmm500g_html",
-      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 500g",
-      "prix_base": 35000,
-      "prix_comparaison": 27500,
-      "variation": -7500
+      "cle": "papiersetfilmsalimentaires_3422rouleaualuminium29cmx50metresalbaenboitex24_html",
+      "name": "Papier aluminium 50 m\u00e8tres",
+      "prix_base": 24300,
+      "prix_comparaison": 23085,
+      "variation": -1215
     },
     {
-      "cle": "fruitsdemeretcrustaces_7502crevettesdecortiqueesmm250g_html",
-      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 250g",
+      "cle": "biscuitssalesetbretzels_12201assortimentdebiscuitssalesalemmentalboxmonaco205gbelin_html",
+      "name": "Assortiment de biscuits sal\u00e9s \u00e0 l'emmental Box Monaco 205g",
+      "prix_base": 17900,
+      "prix_comparaison": 17005,
+      "variation": -895
+    },
+    {
+      "cle": "pommesdeterreetfrites_11501pommesfritesclassiques1kgsainteloi_html",
+      "name": "Pommes frites classiques 1kg",
       "prix_base": 17500,
-      "prix_comparaison": 14000,
-      "variation": -3500
-    },
-    {
-      "cle": "savonmenager_7030savonbarrecitron1kg_html",
-      "name": "Savon barre citron 1kg",
-      "prix_base": 13000,
-      "prix_comparaison": 9900,
-      "variation": -3100
-    },
-    {
-      "cle": "boissonsinstantanees_13869petitdejeunerinstantaneaucacaomaigreenpoudre800gtopbudget_html",
-      "name": "Petit d\u00e9jeuner instantan\u00e9 au cacao maigre en poudre 800g",
-      "prix_base": 25900,
-      "prix_comparaison": 22900,
-      "variation": -3000
-    },
-    {
-      "cle": "boissonsinstantanees_13898boissonsinstantanesgranuleschocolat800gtopbudget_html",
-      "name": "Boissons instantan\u00e9es granul\u00e9s chocolat 800g",
-      "prix_base": 26900,
-      "prix_comparaison": 23900,
-      "variation": -3000
+      "prix_comparaison": 16625,
+      "variation": -875
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "jusdefruits_8904jusdefruitwhispersofsummer1l_html",
-      "name": "Jus de fruit whispers of summer 1L",
-      "prix_base": 10990,
-      "prix_comparaison": 12900,
-      "indice_prix": 117.37943585077343
+      "cle": "papiersetfilmsalimentaires_3423papierfilmalimentaire29cmx30metresalbaenboitex24_html",
+      "name": "Papier film alimentaire 29cmx30m",
+      "prix_base": 4800,
+      "prix_comparaison": 4560,
+      "indice_prix": 95.0
     },
     {
-      "cle": "jusdefruits_327ceresjusdefruitmedley1l_html",
-      "name": "Jus de fruit multifruits 1L",
-      "prix_base": 10990,
-      "prix_comparaison": 12900,
-      "indice_prix": 117.37943585077343
+      "cle": "papiersetfilmsalimentaires_3422rouleaualuminium29cmx50metresalbaenboitex24_html",
+      "name": "Papier aluminium 50 m\u00e8tres",
+      "prix_base": 24300,
+      "prix_comparaison": 23085,
+      "indice_prix": 95.0
     },
     {
-      "cle": "jusdefruits_8906jusdefruitseasonstreasures1l_html",
-      "name": "Jus de fruit  Season's Treasures 1L",
-      "prix_base": 10990,
-      "prix_comparaison": 12900,
-      "indice_prix": 117.37943585077343
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
-      "name": "iPhone 15 128GB Noir",
-      "prix_base": 4021000,
-      "prix_comparaison": 4060000,
-      "indice_prix": 100.96990798308879
-    },
-    {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
+      "cle": "chips_374chipsnaturealancienne125g_html",
+      "name": "Chips nature \u00e0 l'ancienne 125g",
       "prix_base": 8900,
-      "prix_comparaison": 8290,
-      "indice_prix": 93.14606741573034
+      "prix_comparaison": 8455,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "lessiveenpoudreettablette_9301lessiveenpoudrebleuvaoline30g_html",
-      "name": "Lessive en poudre bleu Vaoline 30g",
-      "prix_base": 350,
-      "prix_comparaison": 250,
-      "indice_prix": 71.42857142857143
+      "cle": "biscuitssecssables_1484sables3biscuitsaubeurre234mg_html",
+      "name": "Biscuits sabl\u00e9s pur beurre 234mg",
+      "prix_base": 2000,
+      "prix_comparaison": 1900,
+      "indice_prix": 95.0
     },
     {
-      "cle": "lessiveenpoudreettablette_9302lessiveenpoudrevioletvaoline30g_html",
-      "name": "Lessive en poudre violet Vaoline 30g",
-      "prix_base": 350,
-      "prix_comparaison": 250,
-      "indice_prix": 71.42857142857143
+      "cle": "biscuitssecssables_4532biscuitsveritablespetitbeurre200g_html",
+      "name": "Biscuits v\u00e9ritables petit beurre 200g",
+      "prix_base": 9500,
+      "prix_comparaison": 9025,
+      "indice_prix": 95.0
     },
     {
-      "cle": "savonmenager_7030savonbarrecitron1kg_html",
-      "name": "Savon barre citron 1kg",
-      "prix_base": 13000,
-      "prix_comparaison": 9900,
-      "indice_prix": 76.15384615384616
-    },
-    {
-      "cle": "detergentvaisselle_13889liquidevaissellepomme500mltopbudget_html",
-      "name": "Liquide vaisselle pomme 500ml",
-      "prix_base": 3900,
-      "prix_comparaison": 2990,
-      "indice_prix": 76.66666666666667
-    },
-    {
-      "cle": "detergentvaisselle_13843liquidevaissellecitron1ltopbudget_html",
-      "name": "Liquide vaisselle citron 1L",
-      "prix_base": 4500,
-      "prix_comparaison": 3500,
-      "indice_prix": 77.77777777777777
+      "cle": "cookiesetbrownies_516cookiepommecaramel222mg_html",
+      "name": "Cookies pomme caramel 222mg",
+      "prix_base": 1500,
+      "prix_comparaison": 1425,
+      "indice_prix": 95.0
     }
   ]
 }

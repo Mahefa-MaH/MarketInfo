@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 12676000,
+      "prix_comparaison": 12676000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
       "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
       "prix_base": 10863000,
@@ -9,18 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
-      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
-      "prix_base": 12961000,
-      "prix_comparaison": 12961000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "canapesofadivan_136047canapedanglegaucheconvertibleimperial5placestissugrisclair2coffresderangementl304xp212xh86cm3700538240035_html",
-      "name": "Canap\u00e9 d'angle gauche convertible IMPERIAL 5 places - Tissu gris clair - 2 coffres de rangement - L304 x P212 x H86 cm",
-      "prix_base": 10125000,
-      "prix_comparaison": 10125000,
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 10786000,
+      "prix_comparaison": 10786000,
       "variation": 0,
       "indice_prix": 100.0
     }

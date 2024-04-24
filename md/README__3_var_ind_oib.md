@@ -2,109 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **iPhone 15 128GB Noir**
-   - Prix avant: 4,021,000 Ar
-   - Prix actuel: 4,060,000 Ar
-   - Variation: +39,000 Ar
+1. **Cookies tout chocolat 222mg**
+   - Prix avant: 1,500 Ar
+   - Prix actuel: 1,425 Ar
+   - Variation: -75 Ar
 
-2. **Jus de fruit whispers of summer 1L**
-   - Prix avant: 10,990 Ar
-   - Prix actuel: 12,900 Ar
-   - Variation: +1,910 Ar
+2. **Cookies pomme caramel 222mg**
+   - Prix avant: 1,500 Ar
+   - Prix actuel: 1,425 Ar
+   - Variation: -75 Ar
 
-3. **Jus de fruit multifruits 1L**
-   - Prix avant: 10,990 Ar
-   - Prix actuel: 12,900 Ar
-   - Variation: +1,910 Ar
-
-4. **Jus de fruit  Season's Treasures 1L**
-   - Prix avant: 10,990 Ar
-   - Prix actuel: 12,900 Ar
-   - Variation: +1,910 Ar
-
-5. **Lessive en poudre violet Vaoline 30g**
-   - Prix avant: 350 Ar
-   - Prix actuel: 250 Ar
+3. **Biscuits sablés pur beurre 234mg**
+   - Prix avant: 2,000 Ar
+   - Prix actuel: 1,900 Ar
    - Variation: -100 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Crevettes décortiquées MM 500g**
-   - Prix avant: 35,000 Ar
-   - Prix actuel: 27,500 Ar
-   - Variation: -7,500 Ar
+1. **Papier aluminium 50 mètres**
+   - Prix avant: 24,300 Ar
+   - Prix actuel: 23,085 Ar
+   - Variation: -1,215 Ar
 
-2. **Crevettes décortiquées MM 250g**
+2. **Assortiment de biscuits salés à l'emmental Box Monaco 205g**
+   - Prix avant: 17,900 Ar
+   - Prix actuel: 17,005 Ar
+   - Variation: -895 Ar
+
+3. **Pommes frites classiques 1kg**
    - Prix avant: 17,500 Ar
-   - Prix actuel: 14,000 Ar
-   - Variation: -3,500 Ar
-
-3. **Savon barre citron 1kg**
-   - Prix avant: 13,000 Ar
-   - Prix actuel: 9,900 Ar
-   - Variation: -3,100 Ar
-
-4. **Petit déjeuner instantané au cacao maigre en poudre 800g**
-   - Prix avant: 25,900 Ar
-   - Prix actuel: 22,900 Ar
-   - Variation: -3,000 Ar
-
-5. **Boissons instantanées granulés chocolat 800g**
-   - Prix avant: 26,900 Ar
-   - Prix actuel: 23,900 Ar
-   - Variation: -3,000 Ar
+   - Prix actuel: 16,625 Ar
+   - Variation: -875 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Jus de fruit whispers of summer 1L**
-   - Prix avant: 10,990 Ar
-   - Prix actuel: 12,900 Ar
-   - Indice de prix : 117.38
+1. **Papier film alimentaire 29cmx30m**
+   - Prix avant: 4,800 Ar
+   - Prix actuel: 4,560 Ar
+   - Indice de prix : 95.00
 
-2. **Jus de fruit multifruits 1L**
-   - Prix avant: 10,990 Ar
-   - Prix actuel: 12,900 Ar
-   - Indice de prix : 117.38
+2. **Papier aluminium 50 mètres**
+   - Prix avant: 24,300 Ar
+   - Prix actuel: 23,085 Ar
+   - Indice de prix : 95.00
 
-3. **Jus de fruit  Season's Treasures 1L**
-   - Prix avant: 10,990 Ar
-   - Prix actuel: 12,900 Ar
-   - Indice de prix : 117.38
-
-4. **iPhone 15 128GB Noir**
-   - Prix avant: 4,021,000 Ar
-   - Prix actuel: 4,060,000 Ar
-   - Indice de prix : 100.97
-
-5. **Huile de soja Hina 1L**
+3. **Chips nature à l'ancienne 125g**
    - Prix avant: 8,900 Ar
-   - Prix actuel: 8,290 Ar
-   - Indice de prix : 93.15
+   - Prix actuel: 8,455 Ar
+   - Indice de prix : 95.00
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Lessive en poudre bleu Vaoline 30g**
-   - Prix avant: 350 Ar
-   - Prix actuel: 250 Ar
-   - Indice de prix : 71.43
+1. **Biscuits sablés pur beurre 234mg**
+   - Prix avant: 2,000 Ar
+   - Prix actuel: 1,900 Ar
+   - Indice de prix : 95.00
 
-2. **Lessive en poudre violet Vaoline 30g**
-   - Prix avant: 350 Ar
-   - Prix actuel: 250 Ar
-   - Indice de prix : 71.43
+2. **Biscuits véritables petit beurre 200g**
+   - Prix avant: 9,500 Ar
+   - Prix actuel: 9,025 Ar
+   - Indice de prix : 95.00
 
-3. **Savon barre citron 1kg**
-   - Prix avant: 13,000 Ar
-   - Prix actuel: 9,900 Ar
-   - Indice de prix : 76.15
-
-4. **Liquide vaisselle pomme 500ml**
-   - Prix avant: 3,900 Ar
-   - Prix actuel: 2,990 Ar
-   - Indice de prix : 76.67
-
-5. **Liquide vaisselle citron 1L**
-   - Prix avant: 4,500 Ar
-   - Prix actuel: 3,500 Ar
-   - Indice de prix : 77.78
+3. **Cookies pomme caramel 222mg**
+   - Prix avant: 1,500 Ar
+   - Prix actuel: 1,425 Ar
+   - Indice de prix : 95.00
 
