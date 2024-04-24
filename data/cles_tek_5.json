@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8267,
-      "name": "Sucre rouge 1 kg",
-      "prix_base": 5200,
-      "prix_comparaison": 5200,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 9687,
       "name": "Sucre blanc 1 kg",
       "prix_base": 7200,
@@ -21,6 +13,14 @@
       "name": "Riz blanc parfum\u00e9 5 kg",
       "prix_base": 40800,
       "prix_comparaison": 40800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 11800,
+      "prix_comparaison": 11800,
       "variation": 0,
       "indice_prix": 100.0
     }

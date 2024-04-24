@@ -1,412 +1,202 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5677,
-      "name": "Cr\u00e8me lavante amande douce 300 ml",
-      "prix_base": 3700,
-      "prix_comparaison": 3800,
-      "variation": 100
+      "list_id": 6067,
+      "name": "Cr\u00e8me de jour bio tube 30 ml",
+      "prix_base": 47500,
+      "prix_comparaison": 51900,
+      "variation": 4400
     },
     {
-      "list_id": 5854,
-      "name": "Cr\u00e8me liquide V\u00e9g\u00e9tale non sucr\u00e9e 200 ml",
-      "prix_base": 6200,
-      "prix_comparaison": 6500,
-      "variation": 300
+      "list_id": 6069,
+      "name": "Cr\u00e8me de nuit bio tube 30 ml",
+      "prix_base": 47500,
+      "prix_comparaison": 51900,
+      "variation": 4400
     },
     {
-      "list_id": 5597,
-      "name": "Th\u00e9 glac\u00e9 P\u00eache z\u00e9ro sucre cannette 33 Cl",
-      "prix_base": 3600,
-      "prix_comparaison": 4000,
-      "variation": 400
-    },
-    {
-      "list_id": 5853,
-      "name": "Cr\u00e8me liquide V\u00e9g\u00e9tale non sucr\u00e9e 0,5 L",
-      "prix_base": 14200,
-      "prix_comparaison": 14900,
-      "variation": 700
-    },
-    {
-      "list_id": 5851,
-      "name": "Cr\u00e8me fouett\u00e9e chantilly spray 250 ml",
-      "prix_base": 16900,
-      "prix_comparaison": 17700,
-      "variation": 800
-    },
-    {
-      "list_id": 5653,
-      "name": "Sucre en morceaux 1 kg",
-      "prix_base": 18300,
-      "prix_comparaison": 19100,
-      "variation": 800
-    },
-    {
-      "list_id": 5852,
-      "name": "Cr\u00e8me liquide V\u00e9g\u00e9tale non sucr\u00e9e 1 L",
-      "prix_base": 26100,
-      "prix_comparaison": 27300,
-      "variation": 1200
-    },
-    {
-      "list_id": 5855,
-      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale sucr\u00e9e 1 L",
-      "prix_base": 25500,
-      "prix_comparaison": 26700,
-      "variation": 1200
-    },
-    {
-      "list_id": 5759,
-      "name": "Huile pour peau \u00e0 l'azul\u00e8ne 50 ml",
-      "prix_base": 15400,
-      "prix_comparaison": 16800,
-      "variation": 1400
-    },
-    {
-      "list_id": 5539,
-      "name": "Parfum d'ambiance aux Huiles essentielles 5 L",
-      "prix_base": 62500,
-      "prix_comparaison": 65300,
-      "variation": 2800
-    },
-    {
-      "list_id": 11667,
-      "name": "Huile M\u00e9lange de colza & d'olive 1L",
-      "prix_base": 43800,
-      "prix_comparaison": 46700,
-      "variation": 2900
-    },
-    {
-      "list_id": 5894,
-      "name": "Huile vierge de noix de coco pour peau 150 ml",
-      "prix_base": 44600,
-      "prix_comparaison": 48600,
-      "variation": 4000
-    },
-    {
-      "list_id": 5577,
-      "name": "Collier Animaux aux huiles essentielles",
+      "list_id": 6071,
+      "name": "Cr\u00e8me pour les mains bio tube 75 ml",
       "prix_base": 48500,
       "prix_comparaison": 53000,
       "variation": 4500
     },
     {
-      "list_id": 5891,
-      "name": "Huiles Pures macadamia pour peau 100 ml",
+      "list_id": 6074,
+      "name": "D\u00e9odorant vanille bio spray 75 ml",
       "prix_base": 56400,
       "prix_comparaison": 61600,
       "variation": 5200
     },
     {
-      "list_id": 5893,
-      "name": "Huiles Pures Ricin pour peau 100 ml",
-      "prix_base": 57400,
-      "prix_comparaison": 62700,
-      "variation": 5300
+      "list_id": 6070,
+      "name": "Cr\u00e8me Mains \u00e0 l'Huile d'Argan Tube 75 ml",
+      "prix_base": 61400,
+      "prix_comparaison": 67000,
+      "variation": 5600
     },
     {
-      "list_id": 5888,
-      "name": "Huiles essentielles Pures avocat pour peau 100 ml",
-      "prix_base": 62400,
-      "prix_comparaison": 68100,
-      "variation": 5700
+      "list_id": 6063,
+      "name": "Cr\u00e8me Confort Multi-Usages Tube 100 ml",
+      "prix_base": 70300,
+      "prix_comparaison": 76700,
+      "variation": 6400
     },
     {
-      "list_id": 5875,
-      "name": "Huile Magicieuse pour peau de Th\u00e9 Blanc 50 ml",
-      "prix_base": 68300,
-      "prix_comparaison": 74600,
-      "variation": 6300
+      "list_id": 6066,
+      "name": "Cr\u00e8me de jour Argan bio 50 ml",
+      "prix_base": 81200,
+      "prix_comparaison": 88600,
+      "variation": 7400
     },
     {
-      "list_id": 5874,
-      "name": "Huile magicieuse Curcuma 50 ml",
-      "prix_base": 75200,
-      "prix_comparaison": 82100,
-      "variation": 6900
+      "list_id": 6068,
+      "name": "Cr\u00e8me de nuit Argan bio 50 ml",
+      "prix_base": 81200,
+      "prix_comparaison": 88600,
+      "variation": 7400
     },
     {
-      "list_id": 5887,
-      "name": "Huile pure de noyau d'abricot pour peau 100 ml",
-      "prix_base": 79200,
-      "prix_comparaison": 86400,
-      "variation": 7200
+      "list_id": 6065,
+      "name": "Cr\u00e8me de Douche Hydratante \u00e0 l'Huile de Mono\u00ef ao Tube 150 ml",
+      "prix_base": 81200,
+      "prix_comparaison": 88600,
+      "variation": 7400
     },
     {
-      "list_id": 5760,
-      "name": "Cr\u00e8me de Gommage Visage D\u00e9tox 75 ml",
-      "prix_base": 83200,
-      "prix_comparaison": 90800,
-      "variation": 7600
-    },
-    {
-      "list_id": 5873,
-      "name": "Huile Magicieuse argan pour peau et cheveux 50 ml",
+      "list_id": 6061,
+      "name": "Cr\u00e8me anti - \u00e2ge Argan BIO 50 ml",
       "prix_base": 86100,
       "prix_comparaison": 94000,
       "variation": 7900
     },
     {
-      "list_id": 5868,
-      "name": "Cr\u00e8me pour peau reg\u00e9n\u00e9ratrice Aloe vera 200 ml",
-      "prix_base": 89100,
-      "prix_comparaison": 97200,
-      "variation": 8100
-    },
-    {
-      "list_id": 5877,
-      "name": "Huile Pure Arnica pour peau 100 ml",
-      "prix_base": 91100,
-      "prix_comparaison": 99400,
-      "variation": 8300
-    },
-    {
-      "list_id": 5886,
-      "name": "Huile pure de Fenugrec pour peau 100 ml",
-      "prix_base": 91100,
-      "prix_comparaison": 99400,
-      "variation": 8300
-    },
-    {
-      "list_id": 5890,
-      "name": "Huiles Pures de jojoba pour peau 100 ml",
-      "prix_base": 91100,
-      "prix_comparaison": 99400,
-      "variation": 8300
-    },
-    {
-      "list_id": 5892,
-      "name": "Huiles Pures onagre pour peau 100 ml",
+      "list_id": 6091,
+      "name": "Gommage Corps \u00e0 l'Huile d'Argan Tube 100 ml",
       "prix_base": 97000,
       "prix_comparaison": 105900,
       "variation": 8900
     },
     {
-      "list_id": 5876,
-      "name": "Huile Magicieuse Figue de Barbarie pour peau 50 ml",
-      "prix_base": 98000,
-      "prix_comparaison": 107000,
-      "variation": 9000
+      "list_id": 6092,
+      "name": "Gommage Corps Nourrissant \u00e0 l'Huile de Mono\u00ef  ao Tube 150 ml",
+      "prix_base": 101000,
+      "prix_comparaison": 110200,
+      "variation": 9200
     },
     {
-      "list_id": 5889,
-      "name": "Huiles Pures Bourrache pour peau100 ml",
-      "prix_base": 100000,
-      "prix_comparaison": 109100,
-      "variation": 9100
+      "list_id": 6060,
+      "name": "Baume Corps Gourmand \u00e0 l'Huile de Mono\u00ef  ao Pot 150 ml",
+      "prix_base": 131700,
+      "prix_comparaison": 143700,
+      "variation": 12000
     },
     {
-      "list_id": 5922,
-      "name": "Cr\u00e8mes Fluide Corps Escargot 200 ml",
-      "prix_base": 191100,
-      "prix_comparaison": 208500,
-      "variation": 17400
+      "list_id": 6096,
+      "name": "Huile Exquise pour peau \u00e0 l'Huile d'Argan Flacon 50 ml",
+      "prix_base": 137600,
+      "prix_comparaison": 150200,
+      "variation": 12600
     }
   ],
   "indice de prix": [
     {
-      "list_id": 5677,
-      "name": "Cr\u00e8me lavante amande douce 300 ml",
-      "prix_base": 3700,
-      "prix_comparaison": 3800,
-      "indice_prix": 102.70270270270271
+      "list_id": 6063,
+      "name": "Cr\u00e8me Confort Multi-Usages Tube 100 ml",
+      "prix_base": 70300,
+      "prix_comparaison": 76700,
+      "indice_prix": 109.10384068278805
     },
     {
-      "list_id": 5653,
-      "name": "Sucre en morceaux 1 kg",
-      "prix_base": 18300,
-      "prix_comparaison": 19100,
-      "indice_prix": 104.37158469945355
+      "list_id": 6092,
+      "name": "Gommage Corps Nourrissant \u00e0 l'Huile de Mono\u00ef  ao Tube 150 ml",
+      "prix_base": 101000,
+      "prix_comparaison": 110200,
+      "indice_prix": 109.10891089108911
     },
     {
-      "list_id": 5539,
-      "name": "Parfum d'ambiance aux Huiles essentielles 5 L",
-      "prix_base": 62500,
-      "prix_comparaison": 65300,
-      "indice_prix": 104.48
+      "list_id": 6060,
+      "name": "Baume Corps Gourmand \u00e0 l'Huile de Mono\u00ef  ao Pot 150 ml",
+      "prix_base": 131700,
+      "prix_comparaison": 143700,
+      "indice_prix": 109.1116173120729
     },
     {
-      "list_id": 5852,
-      "name": "Cr\u00e8me liquide V\u00e9g\u00e9tale non sucr\u00e9e 1 L",
-      "prix_base": 26100,
-      "prix_comparaison": 27300,
-      "indice_prix": 104.59770114942529
+      "list_id": 6066,
+      "name": "Cr\u00e8me de jour Argan bio 50 ml",
+      "prix_base": 81200,
+      "prix_comparaison": 88600,
+      "indice_prix": 109.11330049261083
     },
     {
-      "list_id": 5855,
-      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale sucr\u00e9e 1 L",
-      "prix_base": 25500,
-      "prix_comparaison": 26700,
-      "indice_prix": 104.70588235294117
+      "list_id": 6068,
+      "name": "Cr\u00e8me de nuit Argan bio 50 ml",
+      "prix_base": 81200,
+      "prix_comparaison": 88600,
+      "indice_prix": 109.11330049261083
     },
     {
-      "list_id": 5851,
-      "name": "Cr\u00e8me fouett\u00e9e chantilly spray 250 ml",
-      "prix_base": 16900,
-      "prix_comparaison": 17700,
-      "indice_prix": 104.73372781065089
+      "list_id": 6065,
+      "name": "Cr\u00e8me de Douche Hydratante \u00e0 l'Huile de Mono\u00ef ao Tube 150 ml",
+      "prix_base": 81200,
+      "prix_comparaison": 88600,
+      "indice_prix": 109.11330049261083
     },
     {
-      "list_id": 5854,
-      "name": "Cr\u00e8me liquide V\u00e9g\u00e9tale non sucr\u00e9e 200 ml",
-      "prix_base": 6200,
-      "prix_comparaison": 6500,
-      "indice_prix": 104.83870967741936
+      "list_id": 6070,
+      "name": "Cr\u00e8me Mains \u00e0 l'Huile d'Argan Tube 75 ml",
+      "prix_base": 61400,
+      "prix_comparaison": 67000,
+      "indice_prix": 109.12052117263843
     },
     {
-      "list_id": 5853,
-      "name": "Cr\u00e8me liquide V\u00e9g\u00e9tale non sucr\u00e9e 0,5 L",
-      "prix_base": 14200,
-      "prix_comparaison": 14900,
-      "indice_prix": 104.92957746478874
+      "list_id": 6096,
+      "name": "Huile Exquise pour peau \u00e0 l'Huile d'Argan Flacon 50 ml",
+      "prix_base": 137600,
+      "prix_comparaison": 150200,
+      "indice_prix": 109.15697674418605
     },
     {
-      "list_id": 11667,
-      "name": "Huile M\u00e9lange de colza & d'olive 1L",
-      "prix_base": 43800,
-      "prix_comparaison": 46700,
-      "indice_prix": 106.62100456621005
-    },
-    {
-      "list_id": 5894,
-      "name": "Huile vierge de noix de coco pour peau 150 ml",
-      "prix_base": 44600,
-      "prix_comparaison": 48600,
-      "indice_prix": 108.96860986547085
-    },
-    {
-      "list_id": 5759,
-      "name": "Huile pour peau \u00e0 l'azul\u00e8ne 50 ml",
-      "prix_base": 15400,
-      "prix_comparaison": 16800,
-      "indice_prix": 109.0909090909091
-    },
-    {
-      "list_id": 5868,
-      "name": "Cr\u00e8me pour peau reg\u00e9n\u00e9ratrice Aloe vera 200 ml",
-      "prix_base": 89100,
-      "prix_comparaison": 97200,
-      "indice_prix": 109.0909090909091
-    },
-    {
-      "list_id": 5887,
-      "name": "Huile pure de noyau d'abricot pour peau 100 ml",
-      "prix_base": 79200,
-      "prix_comparaison": 86400,
-      "indice_prix": 109.0909090909091
-    },
-    {
-      "list_id": 5889,
-      "name": "Huiles Pures Bourrache pour peau100 ml",
-      "prix_base": 100000,
-      "prix_comparaison": 109100,
-      "indice_prix": 109.1
-    },
-    {
-      "list_id": 5922,
-      "name": "Cr\u00e8mes Fluide Corps Escargot 200 ml",
-      "prix_base": 191100,
-      "prix_comparaison": 208500,
-      "indice_prix": 109.10518053375196
-    },
-    {
-      "list_id": 5877,
-      "name": "Huile Pure Arnica pour peau 100 ml",
-      "prix_base": 91100,
-      "prix_comparaison": 99400,
-      "indice_prix": 109.11086717892425
-    },
-    {
-      "list_id": 5886,
-      "name": "Huile pure de Fenugrec pour peau 100 ml",
-      "prix_base": 91100,
-      "prix_comparaison": 99400,
-      "indice_prix": 109.11086717892425
-    },
-    {
-      "list_id": 5890,
-      "name": "Huiles Pures de jojoba pour peau 100 ml",
-      "prix_base": 91100,
-      "prix_comparaison": 99400,
-      "indice_prix": 109.11086717892425
-    },
-    {
-      "list_id": 5760,
-      "name": "Cr\u00e8me de Gommage Visage D\u00e9tox 75 ml",
-      "prix_base": 83200,
-      "prix_comparaison": 90800,
-      "indice_prix": 109.13461538461539
-    },
-    {
-      "list_id": 5888,
-      "name": "Huiles essentielles Pures avocat pour peau 100 ml",
-      "prix_base": 62400,
-      "prix_comparaison": 68100,
-      "indice_prix": 109.13461538461539
-    },
-    {
-      "list_id": 5892,
-      "name": "Huiles Pures onagre pour peau 100 ml",
+      "list_id": 6091,
+      "name": "Gommage Corps \u00e0 l'Huile d'Argan Tube 100 ml",
       "prix_base": 97000,
       "prix_comparaison": 105900,
       "indice_prix": 109.17525773195877
     },
     {
-      "list_id": 5873,
-      "name": "Huile Magicieuse argan pour peau et cheveux 50 ml",
+      "list_id": 6061,
+      "name": "Cr\u00e8me anti - \u00e2ge Argan BIO 50 ml",
       "prix_base": 86100,
       "prix_comparaison": 94000,
       "indice_prix": 109.17537746806039
     },
     {
-      "list_id": 5874,
-      "name": "Huile magicieuse Curcuma 50 ml",
-      "prix_base": 75200,
-      "prix_comparaison": 82100,
-      "indice_prix": 109.17553191489361
-    },
-    {
-      "list_id": 5876,
-      "name": "Huile Magicieuse Figue de Barbarie pour peau 50 ml",
-      "prix_base": 98000,
-      "prix_comparaison": 107000,
-      "indice_prix": 109.18367346938776
-    },
-    {
-      "list_id": 5891,
-      "name": "Huiles Pures macadamia pour peau 100 ml",
+      "list_id": 6074,
+      "name": "D\u00e9odorant vanille bio spray 75 ml",
       "prix_base": 56400,
       "prix_comparaison": 61600,
       "indice_prix": 109.21985815602837
     },
     {
-      "list_id": 5875,
-      "name": "Huile Magicieuse pour peau de Th\u00e9 Blanc 50 ml",
-      "prix_base": 68300,
-      "prix_comparaison": 74600,
-      "indice_prix": 109.22401171303075
+      "list_id": 6067,
+      "name": "Cr\u00e8me de jour bio tube 30 ml",
+      "prix_base": 47500,
+      "prix_comparaison": 51900,
+      "indice_prix": 109.26315789473684
     },
     {
-      "list_id": 5893,
-      "name": "Huiles Pures Ricin pour peau 100 ml",
-      "prix_base": 57400,
-      "prix_comparaison": 62700,
-      "indice_prix": 109.23344947735191
+      "list_id": 6069,
+      "name": "Cr\u00e8me de nuit bio tube 30 ml",
+      "prix_base": 47500,
+      "prix_comparaison": 51900,
+      "indice_prix": 109.26315789473684
     },
     {
-      "list_id": 5577,
-      "name": "Collier Animaux aux huiles essentielles",
+      "list_id": 6071,
+      "name": "Cr\u00e8me pour les mains bio tube 75 ml",
       "prix_base": 48500,
       "prix_comparaison": 53000,
       "indice_prix": 109.27835051546391
-    },
-    {
-      "list_id": 5597,
-      "name": "Th\u00e9 glac\u00e9 P\u00eache z\u00e9ro sucre cannette 33 Cl",
-      "prix_base": 3600,
-      "prix_comparaison": 4000,
-      "indice_prix": 111.11111111111111
     }
   ]
 }

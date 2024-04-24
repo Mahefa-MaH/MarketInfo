@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 5672,
-      "prix_base": 933600,
-      "name": "Prot\u00e9ines Vanille Iso Whey 2270 g",
-      "prix_comparaison": 1018500,
-      "variation": 84900
+      "list_id": 6096,
+      "prix_base": 137600,
+      "name": "Huile Exquise pour peau \u00e0 l'Huile d'Argan Flacon 50 ml",
+      "prix_comparaison": 150200,
+      "variation": 12600
     },
     {
-      "list_id": 5671,
-      "prix_base": 933600,
-      "name": "Prot\u00e9ines Chocolat Iso Whey 2270 g",
-      "prix_comparaison": 1018440,
-      "variation": 84840
+      "list_id": 6060,
+      "prix_base": 131700,
+      "name": "Baume Corps Gourmand \u00e0 l'Huile de Mono\u00ef  ao Pot 150 ml",
+      "prix_comparaison": 143700,
+      "variation": 12000
     },
     {
-      "list_id": 5741,
-      "prix_base": 609400,
-      "name": "Prot\u00e9ine V\u00e9gan Vanille 2000 g",
-      "prix_comparaison": 664800,
-      "variation": 55400
+      "list_id": 6098,
+      "prix_base": 123800,
+      "name": "Masque au Charbon V\u00e9g\u00e9tal Pot 75 ml",
+      "prix_comparaison": 135000,
+      "variation": 11200
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 5665,
-      "prix_base": 406800,
-      "name": "Chaise visiteur",
-      "prix_comparaison": 276000,
-      "variation": -130800
+      "list_id": 6051,
+      "prix_base": 14300,
+      "name": "Sauce All Arrabbiata 295 g",
+      "prix_comparaison": 14900,
+      "variation": 600
     },
     {
-      "list_id": 6081,
-      "prix_base": 95000,
-      "name": "Cafeti\u00e8re Italienne",
-      "prix_comparaison": 72000,
-      "variation": -23000
+      "list_id": 6052,
+      "prix_base": 14300,
+      "name": "Sauce al Basilic 295 g",
+      "prix_comparaison": 15000,
+      "variation": 700
     },
     {
-      "list_id": 11865,
-      "prix_base": 22900,
-      "name": "Liquide vaisselle au vinaigre de fruits citron 1,5 L",
-      "prix_comparaison": 16700,
-      "variation": -6200
+      "list_id": 6038,
+      "prix_base": 14800,
+      "name": "P\u00e2te Tagliatelle n\u00b081 500 g",
+      "prix_comparaison": 15500,
+      "variation": 700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 5771,
-      "name": "Baume Ravintsara roll-on 30 ml",
-      "prix_base": 3000,
-      "prix_comparaison": 4000,
-      "indice_prix": 133.33333333333334
+      "list_id": 6071,
+      "name": "Cr\u00e8me pour les mains bio tube 75 ml",
+      "prix_base": 48500,
+      "prix_comparaison": 53000,
+      "indice_prix": 109.27835051546391
     },
     {
-      "list_id": 6915,
-      "name": "Essuie-tout blanc XXXL 500 formats",
-      "prix_base": 28800,
-      "prix_comparaison": 33600,
-      "indice_prix": 116.66666666666667
+      "list_id": 6097,
+      "name": "Masque Visage Purifiant Tube 75 ml",
+      "prix_base": 48500,
+      "prix_comparaison": 53000,
+      "indice_prix": 109.27835051546391
     },
     {
-      "list_id": 4000,
-      "name": "Sauce Pesto Rosso 135 G",
-      "prix_base": 19800,
-      "prix_comparaison": 22900,
-      "indice_prix": 115.65656565656566
+      "list_id": 6069,
+      "name": "Cr\u00e8me de nuit bio tube 30 ml",
+      "prix_base": 47500,
+      "prix_comparaison": 51900,
+      "indice_prix": 109.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 5665,
-      "name": "Chaise visiteur",
-      "prix_base": 406800,
-      "prix_comparaison": 276000,
-      "indice_prix": 67.84660766961652
+      "list_id": 6051,
+      "name": "Sauce All Arrabbiata 295 g",
+      "prix_base": 14300,
+      "prix_comparaison": 14900,
+      "indice_prix": 104.1958041958042
     },
     {
-      "list_id": 11865,
-      "name": "Liquide vaisselle au vinaigre de fruits citron 1,5 L",
-      "prix_base": 22900,
-      "prix_comparaison": 16700,
-      "indice_prix": 72.92576419213974
+      "list_id": 6049,
+      "name": "Sauce Basilic 400 g",
+      "prix_base": 18400,
+      "prix_comparaison": 19200,
+      "indice_prix": 104.34782608695652
     },
     {
-      "list_id": 5564,
-      "name": "Savon Vanilla beauty Soap 80 g",
-      "prix_base": 2400,
-      "prix_comparaison": 1800,
-      "indice_prix": 75.0
+      "list_id": 6050,
+      "name": "Sauce Arrabbiata 400 g",
+      "prix_base": 18400,
+      "prix_comparaison": 19200,
+      "indice_prix": 104.34782608695652
     }
   ]
 }

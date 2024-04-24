@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Protéines Vanille Iso Whey 2270 g**
-   - Prix avant: 933,600 Ar
-   - Prix actuel: 1,018,500 Ar
-   - Variation: +84,900 Ar
+1. **Huile Exquise pour peau à l'Huile d'Argan Flacon 50 ml**
+   - Prix avant: 137,600 Ar
+   - Prix actuel: 150,200 Ar
+   - Variation: +12,600 Ar
 
-2. **Protéines Chocolat Iso Whey 2270 g**
-   - Prix avant: 933,600 Ar
-   - Prix actuel: 1,018,440 Ar
-   - Variation: +84,840 Ar
+2. **Baume Corps Gourmand à l'Huile de Monoï  ao Pot 150 ml**
+   - Prix avant: 131,700 Ar
+   - Prix actuel: 143,700 Ar
+   - Variation: +12,000 Ar
 
-3. **Protéine Végan Vanille 2000 g**
-   - Prix avant: 609,400 Ar
-   - Prix actuel: 664,800 Ar
-   - Variation: +55,400 Ar
+3. **Masque au Charbon Végétal Pot 75 ml**
+   - Prix avant: 123,800 Ar
+   - Prix actuel: 135,000 Ar
+   - Variation: +11,200 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Chaise visiteur**
-   - Prix avant: 406,800 Ar
-   - Prix actuel: 276,000 Ar
-   - Variation: -130,800 Ar
+1. **Sauce All Arrabbiata 295 g**
+   - Prix avant: 14,300 Ar
+   - Prix actuel: 14,900 Ar
+   - Variation: +600 Ar
 
-2. **Cafetière Italienne**
-   - Prix avant: 95,000 Ar
-   - Prix actuel: 72,000 Ar
-   - Variation: -23,000 Ar
+2. **Sauce al Basilic 295 g**
+   - Prix avant: 14,300 Ar
+   - Prix actuel: 15,000 Ar
+   - Variation: +700 Ar
 
-3. **Liquide vaisselle au vinaigre de fruits citron 1,5 L**
-   - Prix avant: 22,900 Ar
-   - Prix actuel: 16,700 Ar
-   - Variation: -6,200 Ar
+3. **Pâte Tagliatelle n°81 500 g**
+   - Prix avant: 14,800 Ar
+   - Prix actuel: 15,500 Ar
+   - Variation: +700 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Baume Ravintsara roll-on 30 ml**
-   - Prix avant: 3,000 Ar
-   - Prix actuel: 4,000 Ar
-   - Indice de prix : 133.33
+1. **Crème pour les mains bio tube 75 ml**
+   - Prix avant: 48,500 Ar
+   - Prix actuel: 53,000 Ar
+   - Indice de prix : 109.28
 
-2. **Essuie-tout blanc XXXL 500 formats**
-   - Prix avant: 28,800 Ar
-   - Prix actuel: 33,600 Ar
-   - Indice de prix : 116.67
+2. **Masque Visage Purifiant Tube 75 ml**
+   - Prix avant: 48,500 Ar
+   - Prix actuel: 53,000 Ar
+   - Indice de prix : 109.28
 
-3. **Sauce Pesto Rosso 135 G**
-   - Prix avant: 19,800 Ar
-   - Prix actuel: 22,900 Ar
-   - Indice de prix : 115.66
+3. **Crème de nuit bio tube 30 ml**
+   - Prix avant: 47,500 Ar
+   - Prix actuel: 51,900 Ar
+   - Indice de prix : 109.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Chaise visiteur**
-   - Prix avant: 406,800 Ar
-   - Prix actuel: 276,000 Ar
-   - Indice de prix : 67.85
+1. **Sauce All Arrabbiata 295 g**
+   - Prix avant: 14,300 Ar
+   - Prix actuel: 14,900 Ar
+   - Indice de prix : 104.20
 
-2. **Liquide vaisselle au vinaigre de fruits citron 1,5 L**
-   - Prix avant: 22,900 Ar
-   - Prix actuel: 16,700 Ar
-   - Indice de prix : 72.93
+2. **Sauce Basilic 400 g**
+   - Prix avant: 18,400 Ar
+   - Prix actuel: 19,200 Ar
+   - Indice de prix : 104.35
 
-3. **Savon Vanilla beauty Soap 80 g**
-   - Prix avant: 2,400 Ar
-   - Prix actuel: 1,800 Ar
-   - Indice de prix : 75.00
+3. **Sauce Arrabbiata 400 g**
+   - Prix avant: 18,400 Ar
+   - Prix actuel: 19,200 Ar
+   - Indice de prix : 104.35
 
