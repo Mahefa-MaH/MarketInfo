@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Cookies tout chocolat 222mg**
-   - Prix avant: 1,500 Ar
-   - Prix actuel: 1,425 Ar
-   - Variation: -75 Ar
+1. **Savon de toilette lait d'amande 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Variation: +530 Ar
 
-2. **Cookies pomme caramel 222mg**
-   - Prix avant: 1,500 Ar
-   - Prix actuel: 1,425 Ar
-   - Variation: -75 Ar
+2. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Variation: +530 Ar
 
-3. **Biscuits sablés pur beurre 234mg**
-   - Prix avant: 2,000 Ar
-   - Prix actuel: 1,900 Ar
-   - Variation: -100 Ar
+3. **Savon de toilette cerise 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Variation: +530 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Papier aluminium 50 mètres**
-   - Prix avant: 24,300 Ar
-   - Prix actuel: 23,085 Ar
-   - Variation: -1,215 Ar
+1. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
+   - Prix avant: 599,000 Ar
+   - Prix actuel: 569,050 Ar
+   - Variation: -29,950 Ar
 
-2. **Assortiment de biscuits salés à l'emmental Box Monaco 205g**
-   - Prix avant: 17,900 Ar
-   - Prix actuel: 17,005 Ar
-   - Variation: -895 Ar
+2. **Table à repasser Technic 130x44cm**
+   - Prix avant: 420,000 Ar
+   - Prix actuel: 399,000 Ar
+   - Variation: -21,000 Ar
 
-3. **Pommes frites classiques 1kg**
-   - Prix avant: 17,500 Ar
-   - Prix actuel: 16,625 Ar
-   - Variation: -875 Ar
+3. **Aspirateur balai sans sac**
+   - Prix avant: 390,000 Ar
+   - Prix actuel: 370,500 Ar
+   - Variation: -19,500 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Papier film alimentaire 29cmx30m**
-   - Prix avant: 4,800 Ar
-   - Prix actuel: 4,560 Ar
-   - Indice de prix : 95.00
+1. **Savon de toilette lait d'amande 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Indice de prix : 153.54
 
-2. **Papier aluminium 50 mètres**
-   - Prix avant: 24,300 Ar
-   - Prix actuel: 23,085 Ar
-   - Indice de prix : 95.00
+2. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Indice de prix : 153.54
 
-3. **Chips nature à l'ancienne 125g**
-   - Prix avant: 8,900 Ar
-   - Prix actuel: 8,455 Ar
-   - Indice de prix : 95.00
+3. **Savon de toilette cerise 75g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,520 Ar
+   - Indice de prix : 153.54
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Biscuits sablés pur beurre 234mg**
-   - Prix avant: 2,000 Ar
-   - Prix actuel: 1,900 Ar
-   - Indice de prix : 95.00
+1. **Gomme plastique**
+   - Prix avant: 1,950 Ar
+   - Prix actuel: 1,852 Ar
+   - Indice de prix : 94.97
 
-2. **Biscuits véritables petit beurre 200g**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 9,025 Ar
-   - Indice de prix : 95.00
+2. **21 Etiquettes blanches 38x63mm**
+   - Prix avant: 2,550 Ar
+   - Prix actuel: 2,422 Ar
+   - Indice de prix : 94.98
 
-3. **Cookies pomme caramel 222mg**
-   - Prix avant: 1,500 Ar
-   - Prix actuel: 1,425 Ar
-   - Indice de prix : 95.00
+3. **2 Recharges porte mines 0,7mm - HB**
+   - Prix avant: 2,750 Ar
+   - Prix actuel: 2,612 Ar
+   - Indice de prix : 94.98
 

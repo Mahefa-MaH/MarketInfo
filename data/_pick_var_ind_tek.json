@@ -1,6 +1,69 @@
 {
   "Variation de prix": [
     {
+      "list_id": 6133,
+      "name": "Huile d'olive pomace 250 ml",
+      "prix_base": 15800,
+      "prix_comparaison": 16500,
+      "variation": 700
+    },
+    {
+      "list_id": 6132,
+      "name": "Huile d'olive pomace 500 ml",
+      "prix_base": 25500,
+      "prix_comparaison": 26700,
+      "variation": 1200
+    },
+    {
+      "list_id": 6130,
+      "name": "Huile d'olive pomace 1 L",
+      "prix_base": 44900,
+      "prix_comparaison": 46800,
+      "variation": 1900
+    },
+    {
+      "list_id": 6369,
+      "name": "jouet Baby t\u00e9l\u00e9phone son lumi\u00e8re",
+      "prix_base": 47600,
+      "prix_comparaison": 49700,
+      "variation": 2100
+    },
+    {
+      "list_id": 6124,
+      "name": "Huile d'olive extra vierge 500 ml",
+      "prix_base": 48900,
+      "prix_comparaison": 51000,
+      "variation": 2100
+    },
+    {
+      "list_id": 6136,
+      "name": "Huile d'olive Extra vierge 500 ml",
+      "prix_base": 53800,
+      "prix_comparaison": 56200,
+      "variation": 2400
+    },
+    {
+      "list_id": 6134,
+      "name": "Huile d' Olive Extra Vierge 1 L",
+      "prix_base": 68500,
+      "prix_comparaison": 71600,
+      "variation": 3100
+    },
+    {
+      "list_id": 6135,
+      "name": "Huile d'olive Extra vierge 1 L",
+      "prix_base": 95200,
+      "prix_comparaison": 99400,
+      "variation": 4200
+    },
+    {
+      "list_id": 6127,
+      "name": "Huile d'olive extra vierge non filtr\u00e9e Verdenso 500 ml",
+      "prix_base": 46800,
+      "prix_comparaison": 51000,
+      "variation": 4200
+    },
+    {
       "list_id": 6067,
       "name": "Cr\u00e8me de jour bio tube 30 ml",
       "prix_base": 47500,
@@ -22,6 +85,13 @@
       "variation": 4500
     },
     {
+      "list_id": 6119,
+      "name": "Sauce au Truffe d'\u00e9t\u00e9 moulu \u00e0 l'huile EVO 80 g",
+      "prix_base": 107600,
+      "prix_comparaison": 112400,
+      "variation": 4800
+    },
+    {
       "list_id": 6074,
       "name": "D\u00e9odorant vanille bio spray 75 ml",
       "prix_base": 56400,
@@ -36,18 +106,11 @@
       "variation": 5600
     },
     {
-      "list_id": 6063,
-      "name": "Cr\u00e8me Confort Multi-Usages Tube 100 ml",
-      "prix_base": 70300,
-      "prix_comparaison": 76700,
-      "variation": 6400
-    },
-    {
-      "list_id": 6066,
-      "name": "Cr\u00e8me de jour Argan bio 50 ml",
-      "prix_base": 81200,
-      "prix_comparaison": 88600,
-      "variation": 7400
+      "list_id": 6120,
+      "name": "Sauce au Cr\u00e8me de C\u00e8pes \u00e0 la Truffe 400 g",
+      "prix_base": 133900,
+      "prix_comparaison": 139700,
+      "variation": 5800
     },
     {
       "list_id": 6068,
@@ -64,11 +127,11 @@
       "variation": 7400
     },
     {
-      "list_id": 6061,
-      "name": "Cr\u00e8me anti - \u00e2ge Argan BIO 50 ml",
-      "prix_base": 86100,
-      "prix_comparaison": 94000,
-      "variation": 7900
+      "list_id": 6122,
+      "name": "Sauce \u00e0 la Cr\u00e8me aux 4 Fromages 800 g",
+      "prix_base": 190400,
+      "prix_comparaison": 198800,
+      "variation": 8400
     },
     {
       "list_id": 6091,
@@ -101,11 +164,88 @@
   ],
   "indice de prix": [
     {
-      "list_id": 6063,
-      "name": "Cr\u00e8me Confort Multi-Usages Tube 100 ml",
-      "prix_base": 70300,
-      "prix_comparaison": 76700,
-      "indice_prix": 109.10384068278805
+      "list_id": 6130,
+      "name": "Huile d'olive pomace 1 L",
+      "prix_base": 44900,
+      "prix_comparaison": 46800,
+      "indice_prix": 104.2316258351893
+    },
+    {
+      "list_id": 6124,
+      "name": "Huile d'olive extra vierge 500 ml",
+      "prix_base": 48900,
+      "prix_comparaison": 51000,
+      "indice_prix": 104.29447852760737
+    },
+    {
+      "list_id": 6120,
+      "name": "Sauce au Cr\u00e8me de C\u00e8pes \u00e0 la Truffe 400 g",
+      "prix_base": 133900,
+      "prix_comparaison": 139700,
+      "indice_prix": 104.33159073935774
+    },
+    {
+      "list_id": 6135,
+      "name": "Huile d'olive Extra vierge 1 L",
+      "prix_base": 95200,
+      "prix_comparaison": 99400,
+      "indice_prix": 104.41176470588235
+    },
+    {
+      "list_id": 6369,
+      "name": "jouet Baby t\u00e9l\u00e9phone son lumi\u00e8re",
+      "prix_base": 47600,
+      "prix_comparaison": 49700,
+      "indice_prix": 104.41176470588235
+    },
+    {
+      "list_id": 6122,
+      "name": "Sauce \u00e0 la Cr\u00e8me aux 4 Fromages 800 g",
+      "prix_base": 190400,
+      "prix_comparaison": 198800,
+      "indice_prix": 104.41176470588235
+    },
+    {
+      "list_id": 6133,
+      "name": "Huile d'olive pomace 250 ml",
+      "prix_base": 15800,
+      "prix_comparaison": 16500,
+      "indice_prix": 104.43037974683544
+    },
+    {
+      "list_id": 6136,
+      "name": "Huile d'olive Extra vierge 500 ml",
+      "prix_base": 53800,
+      "prix_comparaison": 56200,
+      "indice_prix": 104.46096654275092
+    },
+    {
+      "list_id": 6119,
+      "name": "Sauce au Truffe d'\u00e9t\u00e9 moulu \u00e0 l'huile EVO 80 g",
+      "prix_base": 107600,
+      "prix_comparaison": 112400,
+      "indice_prix": 104.46096654275092
+    },
+    {
+      "list_id": 6134,
+      "name": "Huile d' Olive Extra Vierge 1 L",
+      "prix_base": 68500,
+      "prix_comparaison": 71600,
+      "indice_prix": 104.52554744525547
+    },
+    {
+      "list_id": 6132,
+      "name": "Huile d'olive pomace 500 ml",
+      "prix_base": 25500,
+      "prix_comparaison": 26700,
+      "indice_prix": 104.70588235294117
+    },
+    {
+      "list_id": 6127,
+      "name": "Huile d'olive extra vierge non filtr\u00e9e Verdenso 500 ml",
+      "prix_base": 46800,
+      "prix_comparaison": 51000,
+      "indice_prix": 108.97435897435898
     },
     {
       "list_id": 6092,
@@ -120,13 +260,6 @@
       "prix_base": 131700,
       "prix_comparaison": 143700,
       "indice_prix": 109.1116173120729
-    },
-    {
-      "list_id": 6066,
-      "name": "Cr\u00e8me de jour Argan bio 50 ml",
-      "prix_base": 81200,
-      "prix_comparaison": 88600,
-      "indice_prix": 109.11330049261083
     },
     {
       "list_id": 6068,
@@ -162,13 +295,6 @@
       "prix_base": 97000,
       "prix_comparaison": 105900,
       "indice_prix": 109.17525773195877
-    },
-    {
-      "list_id": 6061,
-      "name": "Cr\u00e8me anti - \u00e2ge Argan BIO 50 ml",
-      "prix_base": 86100,
-      "prix_comparaison": 94000,
-      "indice_prix": 109.17537746806039
     },
     {
       "list_id": 6074,

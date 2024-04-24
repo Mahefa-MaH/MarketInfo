@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cookiesetbrownies_517cookiestoutchocolat222mg_html",
-      "name": "Cookies tout chocolat 222mg",
-      "prix_base": 1500,
-      "prix_comparaison": 1425,
-      "variation": -75
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "variation": 530
     },
     {
-      "cle": "cookiesetbrownies_516cookiepommecaramel222mg_html",
-      "name": "Cookies pomme caramel 222mg",
-      "prix_base": 1500,
-      "prix_comparaison": 1425,
-      "variation": -75
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "variation": 530
     },
     {
-      "cle": "biscuitssecssables_1484sables3biscuitsaubeurre234mg_html",
-      "name": "Biscuits sabl\u00e9s pur beurre 234mg",
-      "prix_base": 2000,
-      "prix_comparaison": 1900,
-      "variation": -100
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "variation": 530
     }
   ],
   "prix_diminues": [
     {
-      "cle": "papiersetfilmsalimentaires_3422rouleaualuminium29cmx50metresalbaenboitex24_html",
-      "name": "Papier aluminium 50 m\u00e8tres",
-      "prix_base": 24300,
-      "prix_comparaison": 23085,
-      "variation": -1215
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 599000,
+      "prix_comparaison": 569050,
+      "variation": -29950
     },
     {
-      "cle": "biscuitssalesetbretzels_12201assortimentdebiscuitssalesalemmentalboxmonaco205gbelin_html",
-      "name": "Assortiment de biscuits sal\u00e9s \u00e0 l'emmental Box Monaco 205g",
-      "prix_base": 17900,
-      "prix_comparaison": 17005,
-      "variation": -895
+      "cle": "accessoirespourlentretiendulinge_11689tablearepassertechnic130x44cmdomedia_html",
+      "name": "Table \u00e0 repasser Technic 130x44cm",
+      "prix_base": 420000,
+      "prix_comparaison": 399000,
+      "variation": -21000
     },
     {
-      "cle": "pommesdeterreetfrites_11501pommesfritesclassiques1kgsainteloi_html",
-      "name": "Pommes frites classiques 1kg",
-      "prix_base": 17500,
-      "prix_comparaison": 16625,
-      "variation": -875
+      "cle": "aspirateuraspirateurrobot_11747aspirateurbalaisanssacdomedia_html",
+      "name": "Aspirateur balai sans sac",
+      "prix_base": 390000,
+      "prix_comparaison": 370500,
+      "variation": -19500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "papiersetfilmsalimentaires_3423papierfilmalimentaire29cmx30metresalbaenboitex24_html",
-      "name": "Papier film alimentaire 29cmx30m",
-      "prix_base": 4800,
-      "prix_comparaison": 4560,
-      "indice_prix": 95.0
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
     },
     {
-      "cle": "papiersetfilmsalimentaires_3422rouleaualuminium29cmx50metresalbaenboitex24_html",
-      "name": "Papier aluminium 50 m\u00e8tres",
-      "prix_base": 24300,
-      "prix_comparaison": 23085,
-      "indice_prix": 95.0
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
     },
     {
-      "cle": "chips_374chipsnaturealancienne125g_html",
-      "name": "Chips nature \u00e0 l'ancienne 125g",
-      "prix_base": 8900,
-      "prix_comparaison": 8455,
-      "indice_prix": 95.0
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "biscuitssecssables_1484sables3biscuitsaubeurre234mg_html",
-      "name": "Biscuits sabl\u00e9s pur beurre 234mg",
-      "prix_base": 2000,
-      "prix_comparaison": 1900,
-      "indice_prix": 95.0
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1950,
+      "prix_comparaison": 1852,
+      "indice_prix": 94.97435897435898
     },
     {
-      "cle": "biscuitssecssables_4532biscuitsveritablespetitbeurre200g_html",
-      "name": "Biscuits v\u00e9ritables petit beurre 200g",
-      "prix_base": 9500,
-      "prix_comparaison": 9025,
-      "indice_prix": 95.0
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2550,
+      "prix_comparaison": 2422,
+      "indice_prix": 94.98039215686275
     },
     {
-      "cle": "cookiesetbrownies_516cookiepommecaramel222mg_html",
-      "name": "Cookies pomme caramel 222mg",
-      "prix_base": 1500,
-      "prix_comparaison": 1425,
-      "indice_prix": 95.0
+      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
+      "name": "2 Recharges porte mines 0,7mm - HB",
+      "prix_base": 2750,
+      "prix_comparaison": 2612,
+      "indice_prix": 94.98181818181818
     }
   ]
 }
