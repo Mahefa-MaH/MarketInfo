@@ -6,6 +6,27 @@
       "prix_base": 2465100,
       "prix_comparaison": 2739000,
       "variation": 273900
+    },
+    {
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 625005,
+      "prix_comparaison": 657900,
+      "variation": 32895
+    },
+    {
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 569050,
+      "prix_comparaison": 599000,
+      "variation": 29950
+    },
+    {
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 508250,
+      "prix_comparaison": 535000,
+      "variation": 26750
     }
   ],
   "prix_diminues": [
@@ -15,6 +36,27 @@
       "prix_base": 1520,
       "prix_comparaison": 990,
       "variation": -530
+    },
+    {
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
+    },
+    {
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
+    },
+    {
+      "cle": "lessiveenpoudreettablette_5231lessivepoudreblancetcouleur30g_html",
+      "name": "Lessive poudre blanc et couleur 30g",
+      "prix_base": 618,
+      "prix_comparaison": 650,
+      "variation": 32
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +66,27 @@
       "prix_base": 250,
       "prix_comparaison": 350,
       "indice_prix": 140.0
+    },
+    {
+      "cle": "lessiveenpoudreettablette_9301lessiveenpoudrebleuvaoline30g_html",
+      "name": "Lessive en poudre bleu Vaoline 30g",
+      "prix_base": 250,
+      "prix_comparaison": 350,
+      "indice_prix": 140.0
+    },
+    {
+      "cle": "laitconcentre_7391laitconcentremilgro390g_html",
+      "name": "Lait concentr\u00e9 Milgro 390g",
+      "prix_base": 4900,
+      "prix_comparaison": 5990,
+      "indice_prix": 122.24489795918367
+    },
+    {
+      "cle": "huiles_11447huiledetournesolspecial1l_html",
+      "name": "Huile de tournesol Sp\u00e9cial 1L",
+      "prix_base": 8290,
+      "prix_comparaison": 9990,
+      "indice_prix": 120.50663449939687
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +96,27 @@
       "prix_base": 1520,
       "prix_comparaison": 990,
       "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "lessiveenpoudreettablette_5231lessivepoudreblancetcouleur30g_html",
+      "name": "Lessive poudre blanc et couleur 30g",
+      "prix_base": 618,
+      "prix_comparaison": 650,
+      "indice_prix": 105.1779935275081
     }
   ]
 }

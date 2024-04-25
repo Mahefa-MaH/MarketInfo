@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 6238,
-      "prix_base": 7676200,
-      "name": "Piano de cuisson Classica inox 115 l",
-      "prix_comparaison": 8608800,
-      "variation": 932600
+      "list_id": 6927,
+      "prix_base": 3703300,
+      "name": "Aspirateur balai V8 absolute 115 w",
+      "prix_comparaison": 3980200,
+      "variation": 276900
     },
     {
-      "list_id": 6210,
-      "prix_base": 8445900,
-      "name": "Piano de cuisson 129 l",
-      "prix_comparaison": 9213800,
-      "variation": 767900
+      "list_id": 6934,
+      "prix_base": 3146400,
+      "name": "Aspirateur balai RH9877WO XFORCE  11,6 FLEX 21,9 volts",
+      "prix_comparaison": 3381700,
+      "variation": 235300
     },
     {
-      "list_id": 6282,
-      "prix_base": 5628300,
-      "name": "R\u00e9frig\u00e9rateur 1 porte GLT71SWCSE 386 L Blanc",
-      "prix_comparaison": 6312200,
-      "variation": 683900
+      "list_id": 6931,
+      "prix_base": 2738500,
+      "name": "Aspirateur balai VS20T7531T4/EF 425 w",
+      "prix_comparaison": 2943200,
+      "variation": 204700
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 6431,
-      "prix_base": 55900,
-      "name": "Fer \u00e0 repasser \u00e0 vapeur 2600 Watts 350 ml",
-      "prix_comparaison": 49000,
-      "variation": -6900
+      "list_id": 4745,
+      "prix_base": 97400,
+      "name": "Machine \u00c0 Caf\u00e9 900 W",
+      "prix_comparaison": 90800,
+      "variation": -6600
     },
     {
-      "list_id": 6150,
-      "prix_base": 3800,
-      "name": "Eponge grattante multi-usage 11x7 cm",
-      "prix_comparaison": 3500,
+      "list_id": 13283,
+      "prix_base": 44400,
+      "name": "Pignons de pin 125 g",
+      "prix_comparaison": 43300,
+      "variation": -1100
+    },
+    {
+      "list_id": 6826,
+      "prix_base": 3900,
+      "name": "Bonbon world mix 120 g",
+      "prix_comparaison": 3600,
       "variation": -300
-    },
-    {
-      "list_id": 13884,
-      "prix_base": 2700,
-      "name": "Zinga Plastiques",
-      "prix_comparaison": 2640,
-      "variation": -60
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 11771,
-      "name": "Legumes Couscous 1/2 400 g",
-      "prix_base": 7800,
-      "prix_comparaison": 9300,
-      "indice_prix": 119.23076923076923
+      "list_id": 5075,
+      "name": "riz jasmin Parfum\u00e9 5 kg",
+      "prix_base": 25800,
+      "prix_comparaison": 34500,
+      "indice_prix": 133.72093023255815
     },
     {
-      "list_id": 6430,
-      "name": "Fer \u00e0 repasser \u00e0 sec",
-      "prix_base": 37600,
-      "prix_comparaison": 42200,
-      "indice_prix": 112.23404255319149
+      "list_id": 6982,
+      "name": "stylo \u00e0 bille top 505 vert 1 pi\u00e8ce",
+      "prix_base": 700,
+      "prix_comparaison": 800,
+      "indice_prix": 114.28571428571429
     },
     {
-      "list_id": 6432,
-      "name": "Fer \u00e0 repasser TFV-2004 Bleu 2000 W",
-      "prix_base": 72000,
-      "prix_comparaison": 80800,
-      "indice_prix": 112.22222222222223
+      "list_id": 6772,
+      "name": "Gel WC Zero 500 ml",
+      "prix_base": 8100,
+      "prix_comparaison": 9200,
+      "indice_prix": 113.58024691358025
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 6431,
-      "name": "Fer \u00e0 repasser \u00e0 vapeur 2600 Watts 350 ml",
-      "prix_base": 55900,
-      "prix_comparaison": 49000,
-      "indice_prix": 87.65652951699464
+      "list_id": 6992,
+      "name": "stylo \u00e0 bille top 505 rouge",
+      "prix_base": 1000,
+      "prix_comparaison": 900,
+      "indice_prix": 90.0
     },
     {
-      "list_id": 6150,
-      "name": "Eponge grattante multi-usage 11x7 cm",
-      "prix_base": 3800,
-      "prix_comparaison": 3500,
-      "indice_prix": 92.10526315789474
+      "list_id": 6826,
+      "name": "Bonbon world mix 120 g",
+      "prix_base": 3900,
+      "prix_comparaison": 3600,
+      "indice_prix": 92.3076923076923
     },
     {
-      "list_id": 13884,
-      "name": "Zinga Plastiques",
-      "prix_base": 2700,
-      "prix_comparaison": 2640,
-      "indice_prix": 97.77777777777777
+      "list_id": 4745,
+      "name": "Machine \u00c0 Caf\u00e9 900 W",
+      "prix_base": 97400,
+      "prix_comparaison": 90800,
+      "indice_prix": 93.22381930184805
     }
   ]
 }

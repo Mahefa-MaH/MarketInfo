@@ -1,30 +1,94 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_poivron1kg_",
+      "name": "Poivron 1kg",
+      "prix_base": 6000,
+      "prix_comparaison": 6500,
+      "variation": 500
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_vanillemadagascarphaelflor50g_",
-      "name": "Vanille de Madagascar BIO Phael Flor\u2122 50g | Naturel et Sans Conservateurs",
-      "prix_base": 123080,
-      "prix_comparaison": 100000,
-      "variation": -23080
+      "cle": "produit_carottesnaturelles_",
+      "name": "Carottes fra\u00eeches 1kg  | Calibre moyen",
+      "prix_base": 6700,
+      "prix_comparaison": 4000,
+      "variation": -2700
+    },
+    {
+      "cle": "produit_carottesfraiche1kggroscalibre_",
+      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
+      "prix_base": 6250,
+      "prix_comparaison": 4000,
+      "variation": -2250
+    },
+    {
+      "cle": "produit_carottesfraiche500ggroscalibre_",
+      "name": "Carottes Fra\u00eeche 500g | Gros calibre",
+      "prix_base": 3400,
+      "prix_comparaison": 2500,
+      "variation": -900
+    },
+    {
+      "cle": "produit_carottesfraiche500g_",
+      "name": "Carottes Fra\u00eeche 500g | Calibre moyen",
+      "prix_base": 3000,
+      "prix_comparaison": 2500,
+      "variation": -500
+    },
+    {
+      "cle": "produit_poivron1kg_",
+      "name": "Poivron 1kg",
+      "prix_base": 6000,
+      "prix_comparaison": 6500,
+      "variation": 500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_vanillemadagascarphaelflor50g_",
-      "name": "Vanille de Madagascar BIO Phael Flor\u2122 50g | Naturel et Sans Conservateurs",
-      "prix_base": 123080,
-      "prix_comparaison": 100000,
-      "indice_prix": 81.24796880077999
+      "cle": "produit_poivron1kg_",
+      "name": "Poivron 1kg",
+      "prix_base": 6000,
+      "prix_comparaison": 6500,
+      "indice_prix": 108.33333333333333
+    },
+    {
+      "cle": "produit_carottesfraiche500g_",
+      "name": "Carottes Fra\u00eeche 500g | Calibre moyen",
+      "prix_base": 3000,
+      "prix_comparaison": 2500,
+      "indice_prix": 83.33333333333333
+    },
+    {
+      "cle": "produit_carottesfraiche500ggroscalibre_",
+      "name": "Carottes Fra\u00eeche 500g | Gros calibre",
+      "prix_base": 3400,
+      "prix_comparaison": 2500,
+      "indice_prix": 73.52941176470588
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_vanillemadagascarphaelflor50g_",
-      "name": "Vanille de Madagascar BIO Phael Flor\u2122 50g | Naturel et Sans Conservateurs",
-      "prix_base": 123080,
-      "prix_comparaison": 100000,
-      "indice_prix": 81.24796880077999
+      "cle": "produit_carottesnaturelles_",
+      "name": "Carottes fra\u00eeches 1kg  | Calibre moyen",
+      "prix_base": 6700,
+      "prix_comparaison": 4000,
+      "indice_prix": 59.701492537313435
+    },
+    {
+      "cle": "produit_carottesfraiche1kggroscalibre_",
+      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
+      "prix_base": 6250,
+      "prix_comparaison": 4000,
+      "indice_prix": 64.0
+    },
+    {
+      "cle": "produit_carottesfraiche500ggroscalibre_",
+      "name": "Carottes Fra\u00eeche 500g | Gros calibre",
+      "prix_base": 3400,
+      "prix_comparaison": 2500,
+      "indice_prix": 73.52941176470588
     }
   ]
 }
