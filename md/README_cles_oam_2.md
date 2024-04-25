@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Gris Sidéral**
-   - Prix avant: 10,304,000 Ar
-   - Prix actuel: 10,304,000 Ar
+1. **Prise connectée ECOFLOW OB03564 - Prise Wi-Fi compacte - Gris**
+   - Prix avant: 23,558,000 Ar
+   - Prix actuel: 23,558,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Gris Sidéral**
-   - Prix avant: 12,697,000 Ar
-   - Prix actuel: 12,697,000 Ar
+2. **Groupe electrogène 13000 H mn ins E TBL**
+   - Prix avant: 28,000,000 Ar
+   - Prix actuel: 28,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2022) - 12.9 - WiFi - 1 To - Argent**
-   - Prix avant: 10,362,000 Ar
-   - Prix actuel: 10,362,000 Ar
+3. **Groupe électrogene Essence DEFPRO - 8500 W - Triphasé bi-tension**
+   - Prix avant: 10,180,000 Ar
+   - Prix actuel: 10,180,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
