@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 3100,
-      "prix_comparaison": 3100,
+      "list_id": 11107,
+      "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
+      "prix_base": 184000,
+      "prix_comparaison": 184000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 9679,
-      "name": "Sucrettes blanches  50 g",
-      "prix_base": 6300,
-      "prix_comparaison": 6300,
+      "list_id": 11110,
+      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
+      "prix_base": 172500,
+      "prix_comparaison": 172500,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 1561,
-      "name": "Riz Rouge 5 Kg",
-      "prix_base": 19800,
-      "prix_comparaison": 19800,
+      "list_id": 12451,
+      "name": "Riz rouge long grain complet 500 g",
+      "prix_base": 11900,
+      "prix_comparaison": 11900,
       "variation": 0,
       "indice_prix": 100.0
     }
