@@ -1,48 +1,20 @@
 {
   "prix_augmentes": [
     {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 15900,
-      "prix_comparaison": 18400,
-      "variation": 2500
-    },
-    {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8290,
-      "prix_comparaison": 9990,
-      "variation": 1700
-    },
-    {
-      "cle": "lessivesetsoindulinge_13266lessivetablettessensitivedouceurcotonpaquetde32apta_html",
-      "name": "Lessive en tablettes sensitive douceur coton paquet de 32",
-      "prix_base": 30875,
-      "prix_comparaison": 32500,
-      "variation": 1625
+      "cle": "smartphones_14685355appleiphone13reconditionne_html_15couleurvert_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
+      "name": "APPLE iPhone 13\n                                                  - Reconditionn\u00e9",
+      "prix_base": 2465100,
+      "prix_comparaison": 2739000,
+      "variation": 273900
     }
   ],
   "prix_diminues": [
     {
-      "cle": "lessiveenpoudreettablette_9301lessiveenpoudrebleuvaoline30g_html",
-      "name": "Lessive en poudre bleu Vaoline 30g",
-      "prix_base": 250,
-      "prix_comparaison": 350,
-      "variation": 100
-    },
-    {
-      "cle": "lessiveenpoudreettablette_9302lessiveenpoudrevioletvaoline30g_html",
-      "name": "Lessive en poudre violet Vaoline 30g",
-      "prix_base": 250,
-      "prix_comparaison": 350,
-      "variation": 100
-    },
-    {
-      "cle": "sucres_2712sucrevanilline10x75g_html",
-      "name": "Sucre vanillin\u00e9 10x7,5g",
-      "prix_base": 2755,
-      "prix_comparaison": 2900,
-      "variation": 145
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
     }
   ],
   "indices_prix_plus_eleves": [
@@ -52,43 +24,15 @@
       "prix_base": 250,
       "prix_comparaison": 350,
       "indice_prix": 140.0
-    },
-    {
-      "cle": "lessiveenpoudreettablette_9301lessiveenpoudrebleuvaoline30g_html",
-      "name": "Lessive en poudre bleu Vaoline 30g",
-      "prix_base": 250,
-      "prix_comparaison": 350,
-      "indice_prix": 140.0
-    },
-    {
-      "cle": "laitconcentre_7391laitconcentremilgro390g_html",
-      "name": "Lait concentr\u00e9 Milgro 390g",
-      "prix_base": 4900,
-      "prix_comparaison": 5990,
-      "indice_prix": 122.24489795918367
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "aidesalapatisserie_14962pepitesdechocolat100g_html",
-      "name": "P\u00e9pites de chocolat 100g",
-      "prix_base": 5890,
-      "prix_comparaison": 6200,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "patesatartiner_5178pateatartinerchocolat750g_html",
-      "name": "P\u00e2te \u00e0 tartiner chocolat 750g",
-      "prix_base": 17480,
-      "prix_comparaison": 18400,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "huiles_12241huiledecolza1lboutondor_html",
-      "name": "Huile de colza 1L",
-      "prix_base": 13205,
-      "prix_comparaison": 13900,
-      "indice_prix": 105.26315789473684
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     }
   ]
 }

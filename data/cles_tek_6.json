@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8267,
-      "name": "Sucre rouge 1 kg",
-      "prix_base": 5200,
-      "prix_comparaison": 5200,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 12923,
       "name": "Riz blanc parfum\u00e9 5 kg",
       "prix_base": 40800,
       "prix_comparaison": 40800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 13775,
+      "name": "Riz de Luxe Makalioka 5kg",
+      "prix_base": 23000,
+      "prix_comparaison": 23000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 13776,
+      "name": "Riz Blanchi Makalioka 5kg",
+      "prix_base": 21000,
+      "prix_comparaison": 21000,
       "variation": 0,
       "indice_prix": 100.0
     }

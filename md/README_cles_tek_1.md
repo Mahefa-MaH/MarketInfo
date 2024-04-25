@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz rouge long grain complet 500 g**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 11,900 Ar
+3. **Sucre blanc 1 Kg**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 7,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
