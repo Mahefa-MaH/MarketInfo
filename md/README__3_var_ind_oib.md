@@ -17,11 +17,6 @@
    - Prix actuel: 32,500 Ar
    - Variation: +1,625 Ar
 
-4. **Lessive liquide maxx linges blancs et colorés bleu 5L**
-   - Prix avant: 28,405 Ar
-   - Prix actuel: 29,900 Ar
-   - Variation: +1,495 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Lessive en poudre bleu Vaoline 30g**
@@ -38,11 +33,6 @@
    - Prix avant: 2,755 Ar
    - Prix actuel: 2,900 Ar
    - Variation: +145 Ar
-
-4. **15 Sacs poubelle avec poignée Pratic' 30L**
-   - Prix avant: 3,705 Ar
-   - Prix actuel: 3,900 Ar
-   - Variation: +195 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -61,11 +51,6 @@
    - Prix actuel: 5,990 Ar
    - Indice de prix : 122.24
 
-4. **Huile de tournesol Spécial 1L**
-   - Prix avant: 8,290 Ar
-   - Prix actuel: 9,990 Ar
-   - Indice de prix : 120.51
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Pépites de chocolat 100g**
@@ -81,10 +66,5 @@
 3. **Huile de colza 1L**
    - Prix avant: 13,205 Ar
    - Prix actuel: 13,900 Ar
-   - Indice de prix : 105.26
-
-4. **Cotons carrés de soins pour bébé 100 pièces**
-   - Prix avant: 9,405 Ar
-   - Prix actuel: 9,900 Ar
    - Indice de prix : 105.26
 

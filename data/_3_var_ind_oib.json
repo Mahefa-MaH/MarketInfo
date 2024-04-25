@@ -20,13 +20,6 @@
       "prix_base": 30875,
       "prix_comparaison": 32500,
       "variation": 1625
-    },
-    {
-      "cle": "lessiveliquide_3175lessiveliquidemaxxlingesblancsetcoloresbleu5l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 5L",
-      "prix_base": 28405,
-      "prix_comparaison": 29900,
-      "variation": 1495
     }
   ],
   "prix_diminues": [
@@ -50,13 +43,6 @@
       "prix_base": 2755,
       "prix_comparaison": 2900,
       "variation": 145
-    },
-    {
-      "cle": "poubellesetsacspoubelle_1234315sacspoubelleavecpoigneepratic30lapta_html",
-      "name": "15 Sacs poubelle avec poign\u00e9e Pratic' 30L",
-      "prix_base": 3705,
-      "prix_comparaison": 3900,
-      "variation": 195
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,13 +66,6 @@
       "prix_base": 4900,
       "prix_comparaison": 5990,
       "indice_prix": 122.24489795918367
-    },
-    {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8290,
-      "prix_comparaison": 9990,
-      "indice_prix": 120.50663449939687
     }
   ],
   "indices_prix_plus_faibles": [
@@ -109,13 +88,6 @@
       "name": "Huile de colza 1L",
       "prix_base": 13205,
       "prix_comparaison": 13900,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "cotonsetlingettes_5538cotonscarresdesoinspourbebe100pieces_html",
-      "name": "Cotons carr\u00e9s de soins pour b\u00e9b\u00e9 100 pi\u00e8ces",
-      "prix_base": 9405,
-      "prix_comparaison": 9900,
       "indice_prix": 105.26315789473684
     }
   ]
