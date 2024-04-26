@@ -1,6 +1,13 @@
 {
   "Variation de prix": [
     {
+      "list_id": 6916,
+      "name": "Diffuseur \u00e9lectrique d'huile essentielle tulipe",
+      "prix_base": 105700,
+      "prix_comparaison": 110300,
+      "variation": 4600
+    },
+    {
       "list_id": 5075,
       "name": "riz jasmin Parfum\u00e9 5 kg",
       "prix_base": 25800,
@@ -9,6 +16,13 @@
     }
   ],
   "indice de prix": [
+    {
+      "list_id": 6916,
+      "name": "Diffuseur \u00e9lectrique d'huile essentielle tulipe",
+      "prix_base": 105700,
+      "prix_comparaison": 110300,
+      "indice_prix": 104.3519394512772
+    },
     {
       "list_id": 5075,
       "name": "riz jasmin Parfum\u00e9 5 kg",
