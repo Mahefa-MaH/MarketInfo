@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
-      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "poeleagranulesetpellets_95544poeleagranulesmodulableinvictanola77kwrendement86noir3244336418741_html",
+      "name": "Poele a granul\u00e9s INVICTA Nola 7 - 7 kW - Rendement 86% - Noir",
+      "prix_base": 10125000,
+      "prix_comparaison": 10125000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
-      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
-      "prix_base": 21450000,
-      "prix_comparaison": 21450000,
+      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
+      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
+      "prix_base": 19133000,
+      "prix_comparaison": 19133000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
-      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
-      "prix_base": 22195000,
-      "prix_comparaison": 22195000,
+      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
+      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
+      "prix_base": 16343000,
+      "prix_comparaison": 16343000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Théodolite digital avec trépied et mire**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+1. **Poele a granulés INVICTA Nola 7 - 7 kW - Rendement 86% - Noir**
+   - Prix avant: 10,125,000 Ar
+   - Prix actuel: 10,125,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Pompe pneumatique Airless pro sur chariot 322 bars***
-   - Prix avant: 21,450,000 Ar
-   - Prix actuel: 21,450,000 Ar
+2. **Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magnésium - Classe énergétique A+**
+   - Prix avant: 19,133,000 Ar
+   - Prix actuel: 19,133,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **générateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)**
-   - Prix avant: 22,195,000 Ar
-   - Prix actuel: 22,195,000 Ar
+3. **Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magnésium**
+   - Prix avant: 16,343,000 Ar
+   - Prix actuel: 16,343,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

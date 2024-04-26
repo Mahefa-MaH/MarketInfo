@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "prisetelecommandeetelecommandedeprise_138869priseconnecteeecoflowob03564prisewificompactegris4895251604451_html",
-      "name": "Prise connect\u00e9e ECOFLOW OB03564 - Prise Wi-Fi compacte - Gris",
-      "prix_base": 23558000,
-      "prix_comparaison": 23558000,
+      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
+      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
+      "prix_base": 11560000,
+      "prix_comparaison": 11560000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
-      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
-      "prix_base": 28000000,
-      "prix_comparaison": 28000000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
-      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
-      "prix_base": 10180000,
-      "prix_comparaison": 10180000,
+      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
+      "name": "Poele a bois en fonte - INVICTA - mandorin",
+      "prix_base": 10763000,
+      "prix_comparaison": 10763000,
       "variation": 0,
       "indice_prix": 100.0
     }
