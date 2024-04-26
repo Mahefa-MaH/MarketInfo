@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 7900,
-      "prix_comparaison": 7900,
+      "list_id": 3826,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 6500,
+      "prix_comparaison": 6500,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13304,
-      "name": "Riz Rouge (Vary mena) 50kg",
-      "prix_base": 240000,
-      "prix_comparaison": 240000,
+      "list_id": 5218,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3828,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 11800,
-      "prix_comparaison": 11800,
+      "list_id": 8267,
+      "name": "Sucre rouge 1 kg",
+      "prix_base": 5200,
+      "prix_comparaison": 5200,
       "variation": 0,
       "indice_prix": 100.0
     }

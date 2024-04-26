@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 6927,
-      "prix_base": 3703300,
-      "name": "Aspirateur balai V8 absolute 115 w",
-      "prix_comparaison": 3980200,
-      "variation": 276900
+      "list_id": 10799,
+      "prix_base": 2600,
+      "name": "Bonbons Soda Cola sachet de 50 pi\u00e8ces 100 g",
+      "prix_comparaison": 3960,
+      "variation": 1360
     },
     {
-      "list_id": 6934,
-      "prix_base": 3146400,
-      "name": "Aspirateur balai RH9877WO XFORCE  11,6 FLEX 21,9 volts",
-      "prix_comparaison": 3381700,
-      "variation": 235300
-    },
-    {
-      "list_id": 6931,
-      "prix_base": 2738500,
-      "name": "Aspirateur balai VS20T7531T4/EF 425 w",
-      "prix_comparaison": 2943200,
-      "variation": 204700
+      "list_id": 8289,
+      "prix_base": 3100,
+      "name": "Bonbons en sachet de 50 pi\u00e8ces",
+      "prix_comparaison": 3400,
+      "variation": 300
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4745,
-      "prix_base": 97400,
-      "name": "Machine \u00c0 Caf\u00e9 900 W",
-      "prix_comparaison": 90800,
-      "variation": -6600
+      "list_id": 8289,
+      "prix_base": 3100,
+      "name": "Bonbons en sachet de 50 pi\u00e8ces",
+      "prix_comparaison": 3400,
+      "variation": 300
     },
     {
-      "list_id": 13283,
-      "prix_base": 44400,
-      "name": "Pignons de pin 125 g",
-      "prix_comparaison": 43300,
-      "variation": -1100
-    },
-    {
-      "list_id": 6826,
-      "prix_base": 3900,
-      "name": "Bonbon world mix 120 g",
-      "prix_comparaison": 3600,
-      "variation": -300
+      "list_id": 10799,
+      "prix_base": 2600,
+      "name": "Bonbons Soda Cola sachet de 50 pi\u00e8ces 100 g",
+      "prix_comparaison": 3960,
+      "variation": 1360
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 5075,
-      "name": "riz jasmin Parfum\u00e9 5 kg",
-      "prix_base": 25800,
-      "prix_comparaison": 34500,
-      "indice_prix": 133.72093023255815
+      "list_id": 10799,
+      "name": "Bonbons Soda Cola sachet de 50 pi\u00e8ces 100 g",
+      "prix_base": 2600,
+      "prix_comparaison": 3960,
+      "indice_prix": 152.30769230769232
     },
     {
-      "list_id": 6982,
-      "name": "stylo \u00e0 bille top 505 vert 1 pi\u00e8ce",
-      "prix_base": 700,
-      "prix_comparaison": 800,
-      "indice_prix": 114.28571428571429
-    },
-    {
-      "list_id": 6772,
-      "name": "Gel WC Zero 500 ml",
-      "prix_base": 8100,
-      "prix_comparaison": 9200,
-      "indice_prix": 113.58024691358025
+      "list_id": 8289,
+      "name": "Bonbons en sachet de 50 pi\u00e8ces",
+      "prix_base": 3100,
+      "prix_comparaison": 3400,
+      "indice_prix": 109.6774193548387
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 6992,
-      "name": "stylo \u00e0 bille top 505 rouge",
-      "prix_base": 1000,
-      "prix_comparaison": 900,
-      "indice_prix": 90.0
+      "list_id": 8289,
+      "name": "Bonbons en sachet de 50 pi\u00e8ces",
+      "prix_base": 3100,
+      "prix_comparaison": 3400,
+      "indice_prix": 109.6774193548387
     },
     {
-      "list_id": 6826,
-      "name": "Bonbon world mix 120 g",
-      "prix_base": 3900,
-      "prix_comparaison": 3600,
-      "indice_prix": 92.3076923076923
-    },
-    {
-      "list_id": 4745,
-      "name": "Machine \u00c0 Caf\u00e9 900 W",
-      "prix_base": 97400,
-      "prix_comparaison": 90800,
-      "indice_prix": 93.22381930184805
+      "list_id": 10799,
+      "name": "Bonbons Soda Cola sachet de 50 pi\u00e8ces 100 g",
+      "prix_base": 2600,
+      "prix_comparaison": 3960,
+      "indice_prix": 152.30769230769232
     }
   ]
 }
