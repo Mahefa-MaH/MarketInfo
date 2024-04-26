@@ -15,6 +15,13 @@
       "variation": 369000
     },
     {
+      "cle": "bacalitiere_137785petsafecouverclelitiereautoscoopfree150729849171244_html",
+      "name": "PETSAFE - Couvercle + Litiere - AUTO SCOOPFREE 1.5",
+      "prix_base": 1521000,
+      "prix_comparaison": 1794000,
+      "variation": 273000
+    },
+    {
       "cle": "ensembletablechaisedejardin_137874ensemblerepas4personnesmala3584179086357_html",
       "name": "Ensemble repas MALA en r\u00e9sine tress\u00e9e noire 4 places",
       "prix_base": 2711000,
@@ -27,13 +34,6 @@
       "prix_base": 685000,
       "prix_comparaison": 856000,
       "variation": 171000
-    },
-    {
-      "cle": "gpsautomoduleboitierdenavigation_86157tomtomgocampertourgpscampingcaretcaravaneecran6cartographieeurope0636926106313_html",
-      "name": "GPS Camping-Car et Caravane TomTom GO Camper Tour - \u00c9cran 6 - Cartographie Europe",
-      "prix_base": 1466000,
-      "prix_comparaison": 1635000,
-      "variation": 169000
     }
   ],
   "prix_diminues": [
@@ -96,18 +96,18 @@
       "indice_prix": 133.55704697986576
     },
     {
+      "cle": "draphoussematelas_19091domivalotde2drapshousseblancu00e9toilesperle60x120cm3120760066492_html",
+      "name": "Lot 2 Draps housse - DOMIVA - Jersey - Blanc/Perle - 60 x 120 cm",
+      "prix_base": 114000,
+      "prix_comparaison": 151000,
+      "indice_prix": 132.4561403508772
+    },
+    {
       "cle": "potdefleurs_59145edapotdefleurrondtoscaneo60xh47cm76lgrisanthracite3086960207489_html",
       "name": "EDA Pot de fleur rond Toscane - \u00d8 60 x H 47 cm - 76 L - Gris anthracite",
       "prix_base": 309000,
       "prix_comparaison": 408000,
       "indice_prix": 132.03883495145632
-    },
-    {
-      "cle": "museliere_22577yagomuseliereennylonnoirpourgrandchienpartiemuseauavecfiletrespirantetru00e9glable3281018191097_html",
-      "name": "YAGO Museliere en Nylon Noir pour Grand Chien, Partie Museau avec Filet Respirant et R\u00e9glable",
-      "prix_base": 102000,
-      "prix_comparaison": 129000,
-      "indice_prix": 126.47058823529412
     }
   ],
   "indices_prix_plus_faibles": [

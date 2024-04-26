@@ -12,20 +12,20 @@
    - Prix actuel: 3,189,000 Ar
    - Variation: +369,000 Ar
 
-3. **Ensemble repas MALA en résine tressée noire 4 places**
+3. **PETSAFE - Couvercle + Litiere - AUTO SCOOPFREE 1.5**
+   - Prix avant: 1,521,000 Ar
+   - Prix actuel: 1,794,000 Ar
+   - Variation: +273,000 Ar
+
+4. **Ensemble repas MALA en résine tressée noire 4 places**
    - Prix avant: 2,711,000 Ar
    - Prix actuel: 2,950,000 Ar
    - Variation: +239,000 Ar
 
-4. **BRENNENSTUHL Enrouleur standard pro 25m H07RN-F 3G1.5**
+5. **BRENNENSTUHL Enrouleur standard pro 25m H07RN-F 3G1.5**
    - Prix avant: 685,000 Ar
    - Prix actuel: 856,000 Ar
    - Variation: +171,000 Ar
-
-5. **GPS Camping-Car et Caravane TomTom GO Camper Tour - Écran 6 - Cartographie Europe**
-   - Prix avant: 1,466,000 Ar
-   - Prix actuel: 1,635,000 Ar
-   - Variation: +169,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -71,15 +71,15 @@
    - Prix actuel: 398,000 Ar
    - Indice de prix : 133.56
 
-4. **EDA Pot de fleur rond Toscane - Ø 60 x H 47 cm - 76 L - Gris anthracite**
+4. **Lot 2 Draps housse - DOMIVA - Jersey - Blanc/Perle - 60 x 120 cm**
+   - Prix avant: 114,000 Ar
+   - Prix actuel: 151,000 Ar
+   - Indice de prix : 132.46
+
+5. **EDA Pot de fleur rond Toscane - Ø 60 x H 47 cm - 76 L - Gris anthracite**
    - Prix avant: 309,000 Ar
    - Prix actuel: 408,000 Ar
    - Indice de prix : 132.04
-
-5. **YAGO Museliere en Nylon Noir pour Grand Chien, Partie Museau avec Filet Respirant et Réglable**
-   - Prix avant: 102,000 Ar
-   - Prix actuel: 129,000 Ar
-   - Indice de prix : 126.47
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 

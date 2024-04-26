@@ -1,59 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
-      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
-      "prix_base": 11000,
-      "prix_comparaison": 11112,
-      "variation": 112
+      "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
+      "name": "Chou Fleur 1 pi\u00e8ce",
+      "prix_base": 5330,
+      "prix_comparaison": 6667,
+      "variation": 1337
+    },
+    {
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 4670,
+      "prix_comparaison": 5333,
+      "variation": 663
+    },
+    {
+      "cle": "produit_manioc1kgmangahazo_",
+      "name": "Manioc 1kg | Mangahazo lena",
+      "prix_base": 1100,
+      "prix_comparaison": 1600,
+      "variation": 500
+    },
+    {
+      "cle": "produit_coriandre1botte_",
+      "name": "Coriandre 1 botte",
+      "prix_base": 3600,
+      "prix_comparaison": 4000,
+      "variation": 400
+    },
+    {
+      "cle": "produit_petitebananemavokely1kgakondromavokely_",
+      "name": "Banane mavokely 1 kg | petite banane",
+      "prix_base": 2140,
+      "prix_comparaison": 2533,
+      "variation": 393
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_persil1botte_",
-      "name": "Persil 1 botte",
-      "prix_base": 1667,
-      "prix_comparaison": 1457,
-      "variation": -210
+      "cle": "produit_betteraverouge_",
+      "name": "Betterave rouge 1 kg",
+      "prix_base": 10800,
+      "prix_comparaison": 6667,
+      "variation": -4133
     },
     {
-      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
-      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
-      "prix_base": 11000,
-      "prix_comparaison": 11112,
-      "variation": 112
+      "cle": "produit_haricotsvert1kgavecbouts_",
+      "name": "Haricots verts 1kg Avec bouts",
+      "prix_base": 7400,
+      "prix_comparaison": 4000,
+      "variation": -3400
+    },
+    {
+      "cle": "produit_poivrevertfrais1kg_",
+      "name": "Poivre Vert Frais 500g",
+      "prix_base": 9330,
+      "prix_comparaison": 6667,
+      "variation": -2663
+    },
+    {
+      "cle": "produit_voanjoborylena1kapoaka_",
+      "name": "Pois de bambara frais 250g | Voanjobory lena",
+      "prix_base": 3600,
+      "prix_comparaison": 2000,
+      "variation": -1600
+    },
+    {
+      "cle": "produit_carottesnaturelles_",
+      "name": "Carottes fra\u00eeches 1kg  | Calibre moyen",
+      "prix_base": 4000,
+      "prix_comparaison": 3333,
+      "variation": -667
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
-      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
-      "prix_base": 11000,
-      "prix_comparaison": 11112,
-      "indice_prix": 101.01818181818182
+      "cle": "produit_manioc1kgmangahazo_",
+      "name": "Manioc 1kg | Mangahazo lena",
+      "prix_base": 1100,
+      "prix_comparaison": 1600,
+      "indice_prix": 145.45454545454547
     },
     {
-      "cle": "produit_persil1botte_",
-      "name": "Persil 1 botte",
-      "prix_base": 1667,
-      "prix_comparaison": 1457,
-      "indice_prix": 87.40251949610078
+      "cle": "produit_chouxfleur1piecelegumefrais100naturelles_",
+      "name": "Chou Fleur 1 pi\u00e8ce",
+      "prix_base": 5330,
+      "prix_comparaison": 6667,
+      "indice_prix": 125.0844277673546
+    },
+    {
+      "cle": "produit_petitebananemavokely1kgakondromavokely_",
+      "name": "Banane mavokely 1 kg | petite banane",
+      "prix_base": 2140,
+      "prix_comparaison": 2533,
+      "indice_prix": 118.3644859813084
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_persil1botte_",
-      "name": "Persil 1 botte",
-      "prix_base": 1667,
-      "prix_comparaison": 1457,
-      "indice_prix": 87.40251949610078
+      "cle": "produit_haricotsvert1kgavecbouts_",
+      "name": "Haricots verts 1kg Avec bouts",
+      "prix_base": 7400,
+      "prix_comparaison": 4000,
+      "indice_prix": 54.054054054054056
     },
     {
-      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
-      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
-      "prix_base": 11000,
-      "prix_comparaison": 11112,
-      "indice_prix": 101.01818181818182
+      "cle": "produit_voanjoborylena1kapoaka_",
+      "name": "Pois de bambara frais 250g | Voanjobory lena",
+      "prix_base": 3600,
+      "prix_comparaison": 2000,
+      "indice_prix": 55.55555555555556
+    },
+    {
+      "cle": "produit_betteraverouge_",
+      "name": "Betterave rouge 1 kg",
+      "prix_base": 10800,
+      "prix_comparaison": 6667,
+      "indice_prix": 61.73148148148148
     }
   ]
 }

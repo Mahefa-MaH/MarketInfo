@@ -1,6 +1,13 @@
 {
   "Variation de prix": [
     {
+      "cle": "montrebluetoothconnecteemontreintelligente_128812applewatchseries9gpscellular41mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949021930_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 2633000,
+      "prix_comparaison": 2623000,
+      "variation": -10000
+    },
+    {
       "cle": "commandechauffage_85900vannederadiateurintelligenteevethermotechnologieapplehomekitetprogrammesautonomesbluetooththread4260195392007_html",
       "name": "Vanne de radiateur intelligente EVE THERMO - Technologie Apple HomeKit et programmes autonomes Bluetooth Thread",
       "prix_base": 363000,
@@ -15,11 +22,662 @@
       "variation": 7000
     },
     {
+      "cle": "montrebluetoothconnecteemontreintelligente_128870applewatchsegpscellular40mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949006470_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 1540000,
+      "prix_comparaison": 1548000,
+      "variation": 8000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128879applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandml0195949003974_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1302000,
+      "prix_comparaison": 1311000,
+      "variation": 9000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128875applewatchsegpscellular40mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949006678_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1539000,
+      "prix_comparaison": 1548000,
+      "variation": 9000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_130181xiaomibraceletconnectemismartband8graphite6941812722916_html",
+      "name": "XIAOMI - Bracelet connect\u00e9 - Mi Smart Band 8 Graphite",
+      "prix_base": 215000,
+      "prix_comparaison": 226000,
+      "variation": 11000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128872applewatchsegps40mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949003646_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 1307000,
+      "prix_comparaison": 1319000,
+      "variation": 12000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128809applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949029905_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 2070000,
+      "prix_comparaison": 2084000,
+      "variation": 14000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128865applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949006074_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1534000,
+      "prix_comparaison": 1548000,
+      "variation": 14000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128864applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949003202_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1305000,
+      "prix_comparaison": 1320000,
+      "variation": 15000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128889applewatchsegpscellular44mmboitiermidnightaluminiumbraceletmidnightsportloop0195949007477_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1670000,
+      "prix_comparaison": 1685000,
+      "variation": 15000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128883applewatchsegpscellular44mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949007071_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 1670000,
+      "prix_comparaison": 1685000,
+      "variation": 15000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128808applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportbandsm0195949029790_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - S/M",
+      "prix_base": 2078000,
+      "prix_comparaison": 2097000,
+      "variation": 19000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128876applewatchsegpscellular40mmboitiersilveraluminiumbraceletstormbluesportbandml0195949006777_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1522000,
+      "prix_comparaison": 1541000,
+      "variation": 19000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128832applewatchseries9gps45mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949030789_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 2214000,
+      "prix_comparaison": 2234000,
+      "variation": 20000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128843applewatchseries9gps45mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949031229_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 2214000,
+      "prix_comparaison": 2234000,
+      "variation": 20000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128885applewatchsegps44mmboitiermidnightaluminiumbraceletmidnightsportbandsm0195949004520_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - S/M",
+      "prix_base": 1435000,
+      "prix_comparaison": 1456000,
+      "variation": 21000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128871applewatchsegps40mmboitiermidnightaluminiumbraceletmidnightsportbandsm0195949003530_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - S/M",
+      "prix_base": 1298000,
+      "prix_comparaison": 1319000,
+      "variation": 21000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128826applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop0195949030345_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2067000,
+      "prix_comparaison": 2088000,
+      "variation": 21000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128798applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949029462_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 2076000,
+      "prix_comparaison": 2097000,
+      "variation": 21000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_129907applewatchsegpscellular40mmboitiermidnightaluminiumbraceletmidnightsportloop0195949006579_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1526000,
+      "prix_comparaison": 1548000,
+      "variation": 22000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128819applewatchseries9gpscellular41mmboitierpinkaluminiumbraceletlightpinksportloop0195949022708_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2623000,
+      "prix_comparaison": 2646000,
+      "variation": 23000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128887applewatchsegps44mmboitiermidnightaluminiumbraceletmidnightsportloop0195949004742_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1433000,
+      "prix_comparaison": 1456000,
+      "variation": 23000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128824applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949030123_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2064000,
+      "prix_comparaison": 2088000,
+      "variation": 24000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128833applewatchseries9gps45mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949030895_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2210000,
+      "prix_comparaison": 2234000,
+      "variation": 24000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128834applewatchseries9gpscellular45mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949023927_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 2759000,
+      "prix_comparaison": 2783000,
+      "variation": 24000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128890applewatchsegps44mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949004858_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1424000,
+      "prix_comparaison": 1454000,
+      "variation": 30000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128907applewatchultra2gpscellular49mmboitiertitaniumbraceletolivealpineloopmedium0194253829713_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Olive Alpine Loop - Medium",
+      "prix_base": 4100000,
+      "prix_comparaison": 4130000,
+      "variation": 30000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128868applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop0195949006272_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 1517000,
+      "prix_comparaison": 1548000,
+      "variation": 31000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128831applewatchseries9gpscellular41mmboitieracierargentbraceletsilvermilaneseloop0195949023033_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Argent - Bracelet Silver Milanese Loop",
+      "prix_base": 3872000,
+      "prix_comparaison": 3904000,
+      "variation": 32000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128805applewatchseries9gpscellular41mmboitieracierorbraceletclaysportbandml0195949023255_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Or - Bracelet Clay Sport Band - M/L",
+      "prix_base": 3666000,
+      "prix_comparaison": 3699000,
+      "variation": 33000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128866applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949003318_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 1286000,
+      "prix_comparaison": 1319000,
+      "variation": 33000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127059samsunggalaxywatch640mmgraphite4g8806095076010_html",
+      "name": "SAMSUNG Galaxy Watch6 40mm Graphite 4G",
+      "prix_base": 1645000,
+      "prix_comparaison": 1678000,
+      "variation": 33000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128873applewatchsegps40mmboitiermidnightaluminiumbraceletmidnightsportloop0195949003752_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1286000,
+      "prix_comparaison": 1320000,
+      "variation": 34000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128878applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949003868_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1286000,
+      "prix_comparaison": 1320000,
+      "variation": 34000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128806applewatchseries9gpscellular41mmboitieracierorbraceletgoldmilaneseloop0195949023361_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Or - Bracelet Gold Milanese Loop",
+      "prix_base": 3892000,
+      "prix_comparaison": 3927000,
+      "variation": 35000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128836applewatchseries9gpscellular45mmboitierstarlightaluminiumbraceletstarlightsportloop0195949024146_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 2736000,
+      "prix_comparaison": 2771000,
+      "variation": 35000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128886applewatchsegps44mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949004636_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 1420000,
+      "prix_comparaison": 1456000,
+      "variation": 36000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128881applewatchsegps44mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949004308_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 1420000,
+      "prix_comparaison": 1456000,
+      "variation": 36000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128880applewatchsegps44mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949004193_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1420000,
+      "prix_comparaison": 1456000,
+      "variation": 36000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128874applewatchsegps44mmboitiersilveraluminiumbraceletwinterbluesportloop0195949005077_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1420000,
+      "prix_comparaison": 1456000,
+      "variation": 36000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128902applewatchultra2gpscellular49mmboitiertitaniumbraceletbluealpinelooplarge0194253827917_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue Alpine Loop - Large",
+      "prix_base": 4119000,
+      "prix_comparaison": 4156000,
+      "variation": 37000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128905applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpinelooplarge0194253828990_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Large",
+      "prix_base": 4119000,
+      "prix_comparaison": 4156000,
+      "variation": 37000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128903applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopsmall0194253828273_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Small",
+      "prix_base": 4119000,
+      "prix_comparaison": 4156000,
+      "variation": 37000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_129920xiaomimontreconnecteeredmiwatch36941812705827_html",
+      "name": "XIAOMI - Montre connect\u00e9e - Redmi Watch 3",
+      "prix_base": 646000,
+      "prix_comparaison": 684000,
+      "variation": 38000
+    },
+    {
       "cle": "refrigerateurclassique_133275refrigerateurcombinesamsungrb33b610fwwblanc8806094505634_html",
       "name": "R\u00e9frig\u00e9rateur combin\u00e9 SAMSUNG RB33B610FWW Blanc",
       "prix_base": 4543000,
       "prix_comparaison": 4582000,
       "variation": 39000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128911applewatchultra2gpscellular49mmboitiertitaniumbraceletblueblacktrailloopsm0194253831877_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue/Black Trail Loop - S/M",
+      "prix_base": 4106000,
+      "prix_comparaison": 4145000,
+      "variation": 39000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128877applewatchsegpscellular40mmboitiersilveraluminiumbraceletwinterbluesportloop0195949006876_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1509000,
+      "prix_comparaison": 1548000,
+      "variation": 39000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128888applewatchsegpscellular44mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949007378_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 1643000,
+      "prix_comparaison": 1685000,
+      "variation": 42000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128893applewatchsegpscellular44mmboitiersilveraluminiumbraceletwinterbluesportloop0195949007774_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1643000,
+      "prix_comparaison": 1685000,
+      "variation": 42000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_136333applewatchsegpscellular44mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949007576_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1643000,
+      "prix_comparaison": 1685000,
+      "variation": 42000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128818applewatchseries9gpscellular41mmboitierpinkaluminiumbraceletlightpinksportbandml0195949022593_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - M/L",
+      "prix_base": 2594000,
+      "prix_comparaison": 2638000,
+      "variation": 44000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128636samsunggalaxywatch6classic43mmnoirbluetooth8806095036984_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 43mm Noir Bluetooth",
+      "prix_base": 1782000,
+      "prix_comparaison": 1828000,
+      "variation": 46000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128854applewatchseries9gpscellular45mmboitierproductredaluminiumbraceletproductredsportbandsm0195949028465_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier (PRODUCT)RED Aluminium - Bracelet (PRODUCT)RED Sport Band - S/M",
+      "prix_base": 2728000,
+      "prix_comparaison": 2775000,
+      "variation": 47000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128849applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop0195949031991_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2184000,
+      "prix_comparaison": 2232000,
+      "variation": 48000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_14170samsunggalaxywatch440mm4gor8806092607224_html",
+      "name": "SAMSUNG Galaxy Watch4 40mm 4G Or",
+      "prix_base": 1332000,
+      "prix_comparaison": 1381000,
+      "variation": 49000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128842applewatchseries9gpscellular41mmboitieraciergraphitebraceletgraphitemilaneseloop0195949023699_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Graphite - Bracelet Graphite Milanese Loop",
+      "prix_base": 3860000,
+      "prix_comparaison": 3910000,
+      "variation": 50000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128804applewatchseries9gpscellular41mmboitieracierorbraceletclaysportbandsm0195949023149_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Or - Bracelet Clay Sport Band - S/M",
+      "prix_base": 3632000,
+      "prix_comparaison": 3684000,
+      "variation": 52000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128848applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportbandml0195949031885_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - M/L",
+      "prix_base": 2181000,
+      "prix_comparaison": 2233000,
+      "variation": 52000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128825applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandml0195949030239_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "variation": 53000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128810applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop0195949030017_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "variation": 53000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128814applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm0195949030451_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "variation": 53000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128816applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportloop0195949030673_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "variation": 53000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128800applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportloop0195949029684_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "variation": 53000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128815applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandml0195949030567_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - M/L",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "variation": 53000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128811applewatchseries9gpscellular41mmboitiermidnightaluminiumbraceletmidnightsportbandsm0195949021824_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - S/M",
+      "prix_base": 2590000,
+      "prix_comparaison": 2646000,
+      "variation": 56000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128847applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportbandsm0195949031779_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2178000,
+      "prix_comparaison": 2234000,
+      "variation": 56000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128857applewatchseries9gps45mmboitiersilveraluminiumbraceletstormbluesportbandml0195949031557_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 2178000,
+      "prix_comparaison": 2234000,
+      "variation": 56000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128845applewatchseries9gpscellular45mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949024368_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 2726000,
+      "prix_comparaison": 2783000,
+      "variation": 57000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128639samsunggalaxywatch6classic43mmnoir4g8806095076195_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 43mm Noir 4G",
+      "prix_base": 1985000,
+      "prix_comparaison": 2046000,
+      "variation": 61000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_43873samsunggalaxywatch440mmbluethoothnoir8806092521926_html",
+      "name": "SAMSUNG Galaxy Watch4 40mm Bluethooth Noir",
+      "prix_base": 1141000,
+      "prix_comparaison": 1207000,
+      "variation": 66000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128803applewatchseries9gpscellular41mmboitierstarlightaluminiumbraceletstarlightsportloop0195949021718_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 2579000,
+      "prix_comparaison": 2646000,
+      "variation": 67000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128828applewatchseries9gpscellular41mmboitiersilveraluminiumbraceletstormbluesportbandml0195949022265_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 2579000,
+      "prix_comparaison": 2646000,
+      "variation": 67000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128822applewatchseries9gpscellular41mmboitierproductredaluminiumbraceletproductredsportbandsm0195949028137_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier (PRODUCT)RED Aluminium - Bracelet (PRODUCT)RED Sport Band - S/M",
+      "prix_base": 2579000,
+      "prix_comparaison": 2646000,
+      "variation": 67000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_129905applewatchseries9gpscellular45mmboitiersilveraluminiumbraceletwinterbluesportloop0195949024801_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2713000,
+      "prix_comparaison": 2783000,
+      "variation": 70000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128835applewatchseries9gpscellular45mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949024030_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2713000,
+      "prix_comparaison": 2783000,
+      "variation": 70000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128901applewatchultra2gpscellular49mmboitiertitaniumbraceletbluealpineloopmedium0194253827559_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue Alpine Loop - Medium",
+      "prix_base": 4082000,
+      "prix_comparaison": 4156000,
+      "variation": 74000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_135727applewatchseries9gpscellular45mmboitierpinkaluminiumbraceletlightpinksportbandsm0195949024917_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2949000,
+      "prix_comparaison": 3025000,
+      "variation": 76000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128830applewatchseries9gpscellular41mmboitieracierargentbraceletstormbluesportbandml0195949022920_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Argent - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 3605000,
+      "prix_comparaison": 3699000,
+      "variation": 94000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_135728applewatchultra2gpscellular49mmboitiertitaniumbraceletorangebeigetrailloopml0194253830795_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Orange/Beige Trail Loop - M/L",
+      "prix_base": 4418000,
+      "prix_comparaison": 4518000,
+      "variation": 100000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128638samsunggalaxywatch640mmcreme4g8806095075891_html",
+      "name": "SAMSUNG Galaxy Watch6 40mm Creme 4G",
+      "prix_base": 1488000,
+      "prix_comparaison": 1589000,
+      "variation": 101000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128841applewatchseries9gpscellular45mmboitieraciergraphitebraceletgraphitemilaneseloop0195949026126_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Acier Graphite - Bracelet Graphite Milanese Loop",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "variation": 105000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128900applewatchultra2gpscellular49mmboitiertitaniumbraceletbluealpineloopsmall0194253827191_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue Alpine Loop - Small",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "variation": 105000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128899applewatchultra2gpscellular49mmboitiertitaniumbraceletorangeoceanband0194253826477_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Orange Ocean Band",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "variation": 105000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128912applewatchultra2gpscellular49mmboitiertitaniumbraceletblueblacktrailloopml0194253832232_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue/Black Trail Loop - M/L",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "variation": 105000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_133511applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband0194253826835_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "variation": 105000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128908applewatchultra2gpscellular49mmboitiertitaniumbraceletolivealpinelooplarge0194253830078_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Olive Alpine Loop - Large",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "variation": 105000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_133512applewatchultra2gpscellular49mmboitiertitaniumbraceletorangebeigetrailloopsm0194253830436_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Orange/Beige Trail Loop - S/M",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "variation": 105000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_129919applewatchultra2gpscellular49mmboitiertitaniumbraceletblueoceanband0194253826118_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue Ocean Band",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "variation": 105000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_133295samsunggalaxywatch6classic43mmargent4g8806095076300_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 43mm Argent 4G",
+      "prix_base": 1985000,
+      "prix_comparaison": 2090000,
+      "variation": 105000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127694samsunggalaxywatch644mmargent4g8806095075600_html",
+      "name": "SAMSUNG Galaxy Watch6 44mm Argent 4G",
+      "prix_base": 1600000,
+      "prix_comparaison": 1708000,
+      "variation": 108000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127058samsunggalaxywatch644mmgraphite4g8806095075525_html",
+      "name": "SAMSUNG Galaxy Watch6 44mm Graphite 4G",
+      "prix_base": 1600000,
+      "prix_comparaison": 1708000,
+      "variation": 108000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127689samsunggalaxywatch6classic43mmargentbluetooth8806095036946_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 43mm Argent Bluetooth",
+      "prix_base": 1665000,
+      "prix_comparaison": 1778000,
+      "variation": 113000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128640samsunggalaxywatch6classic47mmargent4g8806095076522_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 47mm Argent 4G",
+      "prix_base": 2124000,
+      "prix_comparaison": 2245000,
+      "variation": 121000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_130138samsunggalaxywatch6classic47mmnoirbluetooth8806095038827_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 47mm Noir Bluetooth",
+      "prix_base": 1862000,
+      "prix_comparaison": 1988000,
+      "variation": 126000
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127695samsunggalaxywatch6classic47mmnoir4g8806095076454_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 47mm Noir 4G",
+      "prix_base": 2109000,
+      "prix_comparaison": 2252000,
+      "variation": 143000
     },
     {
       "cle": "refrigerateurclassique_26968samsungrl34t631esaru00e9frigu00e9rateurcombinu00e9341l227114lfroidventilu00e9l60xh185cmmetalgrey8806090563492_html",
@@ -38,6 +696,55 @@
       "indice_prix": 98.34710743801652
     },
     {
+      "cle": "montrebluetoothconnecteemontreintelligente_128812applewatchseries9gpscellular41mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949021930_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 2633000,
+      "prix_comparaison": 2623000,
+      "indice_prix": 99.6202050892518
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128870applewatchsegpscellular40mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949006470_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 1540000,
+      "prix_comparaison": 1548000,
+      "indice_prix": 100.51948051948052
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128875applewatchsegpscellular40mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949006678_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1539000,
+      "prix_comparaison": 1548000,
+      "indice_prix": 100.58479532163743
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128809applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949029905_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 2070000,
+      "prix_comparaison": 2084000,
+      "indice_prix": 100.67632850241546
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128879applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandml0195949003974_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1302000,
+      "prix_comparaison": 1311000,
+      "indice_prix": 100.69124423963133
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128907applewatchultra2gpscellular49mmboitiertitaniumbraceletolivealpineloopmedium0194253829713_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Olive Alpine Loop - Medium",
+      "prix_base": 4100000,
+      "prix_comparaison": 4130000,
+      "indice_prix": 100.73170731707317
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128831applewatchseries9gpscellular41mmboitieracierargentbraceletsilvermilaneseloop0195949023033_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Argent - Bracelet Silver Milanese Loop",
+      "prix_base": 3872000,
+      "prix_comparaison": 3904000,
+      "indice_prix": 100.82644628099173
+    },
+    {
       "cle": "refrigerateurclassique_133275refrigerateurcombinesamsungrb33b610fwwblanc8806094505634_html",
       "name": "R\u00e9frig\u00e9rateur combin\u00e9 SAMSUNG RB33B610FWW Blanc",
       "prix_base": 4543000,
@@ -45,11 +752,620 @@
       "indice_prix": 100.85846357032797
     },
     {
+      "cle": "montrebluetoothconnecteemontreintelligente_128834applewatchseries9gpscellular45mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949023927_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 2759000,
+      "prix_comparaison": 2783000,
+      "indice_prix": 100.86988039144617
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128819applewatchseries9gpscellular41mmboitierpinkaluminiumbraceletlightpinksportloop0195949022708_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2623000,
+      "prix_comparaison": 2646000,
+      "indice_prix": 100.87685855890201
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128889applewatchsegpscellular44mmboitiermidnightaluminiumbraceletmidnightsportloop0195949007477_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1670000,
+      "prix_comparaison": 1685000,
+      "indice_prix": 100.89820359281437
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128883applewatchsegpscellular44mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949007071_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 1670000,
+      "prix_comparaison": 1685000,
+      "indice_prix": 100.89820359281437
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128902applewatchultra2gpscellular49mmboitiertitaniumbraceletbluealpinelooplarge0194253827917_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue Alpine Loop - Large",
+      "prix_base": 4119000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 100.89827628065065
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128905applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpinelooplarge0194253828990_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Large",
+      "prix_base": 4119000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 100.89827628065065
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128903applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopsmall0194253828273_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Small",
+      "prix_base": 4119000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 100.89827628065065
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128806applewatchseries9gpscellular41mmboitieracierorbraceletgoldmilaneseloop0195949023361_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Or - Bracelet Gold Milanese Loop",
+      "prix_base": 3892000,
+      "prix_comparaison": 3927000,
+      "indice_prix": 100.89928057553956
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128805applewatchseries9gpscellular41mmboitieracierorbraceletclaysportbandml0195949023255_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Or - Bracelet Clay Sport Band - M/L",
+      "prix_base": 3666000,
+      "prix_comparaison": 3699000,
+      "indice_prix": 100.90016366612112
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128832applewatchseries9gps45mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949030789_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 2214000,
+      "prix_comparaison": 2234000,
+      "indice_prix": 100.903342366757
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128843applewatchseries9gps45mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949031229_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 2214000,
+      "prix_comparaison": 2234000,
+      "indice_prix": 100.903342366757
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128865applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949006074_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1534000,
+      "prix_comparaison": 1548000,
+      "indice_prix": 100.91264667535854
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128808applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportbandsm0195949029790_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - S/M",
+      "prix_base": 2078000,
+      "prix_comparaison": 2097000,
+      "indice_prix": 100.9143407122233
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128872applewatchsegps40mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949003646_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 1307000,
+      "prix_comparaison": 1319000,
+      "indice_prix": 100.91813312930375
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128911applewatchultra2gpscellular49mmboitiertitaniumbraceletblueblacktrailloopsm0194253831877_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue/Black Trail Loop - S/M",
+      "prix_base": 4106000,
+      "prix_comparaison": 4145000,
+      "indice_prix": 100.94982951777887
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128798applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949029462_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 2076000,
+      "prix_comparaison": 2097000,
+      "indice_prix": 101.01156069364161
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128826applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop0195949030345_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2067000,
+      "prix_comparaison": 2088000,
+      "indice_prix": 101.01596516690856
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128833applewatchseries9gps45mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949030895_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2210000,
+      "prix_comparaison": 2234000,
+      "indice_prix": 101.08597285067873
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128864applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949003202_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1305000,
+      "prix_comparaison": 1320000,
+      "indice_prix": 101.14942528735632
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128824applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949030123_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2064000,
+      "prix_comparaison": 2088000,
+      "indice_prix": 101.16279069767442
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128876applewatchsegpscellular40mmboitiersilveraluminiumbraceletstormbluesportbandml0195949006777_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1522000,
+      "prix_comparaison": 1541000,
+      "indice_prix": 101.24835742444152
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128836applewatchseries9gpscellular45mmboitierstarlightaluminiumbraceletstarlightsportloop0195949024146_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 2736000,
+      "prix_comparaison": 2771000,
+      "indice_prix": 101.27923976608187
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128842applewatchseries9gpscellular41mmboitieraciergraphitebraceletgraphitemilaneseloop0195949023699_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Graphite - Bracelet Graphite Milanese Loop",
+      "prix_base": 3860000,
+      "prix_comparaison": 3910000,
+      "indice_prix": 101.29533678756476
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128804applewatchseries9gpscellular41mmboitieracierorbraceletclaysportbandsm0195949023149_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Or - Bracelet Clay Sport Band - S/M",
+      "prix_base": 3632000,
+      "prix_comparaison": 3684000,
+      "indice_prix": 101.431718061674
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_129907applewatchsegpscellular40mmboitiermidnightaluminiumbraceletmidnightsportloop0195949006579_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1526000,
+      "prix_comparaison": 1548000,
+      "indice_prix": 101.44167758846658
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128885applewatchsegps44mmboitiermidnightaluminiumbraceletmidnightsportbandsm0195949004520_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - S/M",
+      "prix_base": 1435000,
+      "prix_comparaison": 1456000,
+      "indice_prix": 101.46341463414635
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128887applewatchsegps44mmboitiermidnightaluminiumbraceletmidnightsportloop0195949004742_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1433000,
+      "prix_comparaison": 1456000,
+      "indice_prix": 101.60502442428472
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128871applewatchsegps40mmboitiermidnightaluminiumbraceletmidnightsportbandsm0195949003530_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - S/M",
+      "prix_base": 1298000,
+      "prix_comparaison": 1319000,
+      "indice_prix": 101.61787365177196
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128818applewatchseries9gpscellular41mmboitierpinkaluminiumbraceletlightpinksportbandml0195949022593_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - M/L",
+      "prix_base": 2594000,
+      "prix_comparaison": 2638000,
+      "indice_prix": 101.69622205088666
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128854applewatchseries9gpscellular45mmboitierproductredaluminiumbraceletproductredsportbandsm0195949028465_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier (PRODUCT)RED Aluminium - Bracelet (PRODUCT)RED Sport Band - S/M",
+      "prix_base": 2728000,
+      "prix_comparaison": 2775000,
+      "indice_prix": 101.72287390029325
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128901applewatchultra2gpscellular49mmboitiertitaniumbraceletbluealpineloopmedium0194253827559_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue Alpine Loop - Medium",
+      "prix_base": 4082000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 101.81283684468397
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127059samsunggalaxywatch640mmgraphite4g8806095076010_html",
+      "name": "SAMSUNG Galaxy Watch6 40mm Graphite 4G",
+      "prix_base": 1645000,
+      "prix_comparaison": 1678000,
+      "indice_prix": 102.00607902735563
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128868applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop0195949006272_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 1517000,
+      "prix_comparaison": 1548000,
+      "indice_prix": 102.0435069215557
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128845applewatchseries9gpscellular45mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949024368_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 2726000,
+      "prix_comparaison": 2783000,
+      "indice_prix": 102.0909757887014
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128890applewatchsegps44mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949004858_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1424000,
+      "prix_comparaison": 1454000,
+      "indice_prix": 102.1067415730337
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128811applewatchseries9gpscellular41mmboitiermidnightaluminiumbraceletmidnightsportbandsm0195949021824_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - S/M",
+      "prix_base": 2590000,
+      "prix_comparaison": 2646000,
+      "indice_prix": 102.16216216216216
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128849applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop0195949031991_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2184000,
+      "prix_comparaison": 2232000,
+      "indice_prix": 102.1978021978022
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_135728applewatchultra2gpscellular49mmboitiertitaniumbraceletorangebeigetrailloopml0194253830795_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Orange/Beige Trail Loop - M/L",
+      "prix_base": 4418000,
+      "prix_comparaison": 4518000,
+      "indice_prix": 102.26346763241285
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128848applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportbandml0195949031885_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - M/L",
+      "prix_base": 2181000,
+      "prix_comparaison": 2233000,
+      "indice_prix": 102.38422741861531
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128886applewatchsegps44mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949004636_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 1420000,
+      "prix_comparaison": 1456000,
+      "indice_prix": 102.53521126760563
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128881applewatchsegps44mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949004308_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 1420000,
+      "prix_comparaison": 1456000,
+      "indice_prix": 102.53521126760563
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128880applewatchsegps44mmboitierstarlightaluminiumbraceletstarlightsportbandsm0195949004193_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1420000,
+      "prix_comparaison": 1456000,
+      "indice_prix": 102.53521126760563
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128874applewatchsegps44mmboitiersilveraluminiumbraceletwinterbluesportloop0195949005077_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1420000,
+      "prix_comparaison": 1456000,
+      "indice_prix": 102.53521126760563
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128888applewatchsegpscellular44mmboitiermidnightaluminiumbraceletmidnightsportbandml0195949007378_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Band - M/L",
+      "prix_base": 1643000,
+      "prix_comparaison": 1685000,
+      "indice_prix": 102.55629945222155
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128893applewatchsegpscellular44mmboitiersilveraluminiumbraceletwinterbluesportloop0195949007774_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1643000,
+      "prix_comparaison": 1685000,
+      "indice_prix": 102.55629945222155
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_136333applewatchsegpscellular44mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949007576_html",
+      "name": "Apple Watch SE GPS + Cellular - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1643000,
+      "prix_comparaison": 1685000,
+      "indice_prix": 102.55629945222155
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128866applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949003318_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 1286000,
+      "prix_comparaison": 1319000,
+      "indice_prix": 102.5660964230171
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128847applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportbandsm0195949031779_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2178000,
+      "prix_comparaison": 2234000,
+      "indice_prix": 102.57116620752984
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128857applewatchseries9gps45mmboitiersilveraluminiumbraceletstormbluesportbandml0195949031557_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 2178000,
+      "prix_comparaison": 2234000,
+      "indice_prix": 102.57116620752984
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_135727applewatchseries9gpscellular45mmboitierpinkaluminiumbraceletlightpinksportbandsm0195949024917_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2949000,
+      "prix_comparaison": 3025000,
+      "indice_prix": 102.57714479484571
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_129905applewatchseries9gpscellular45mmboitiersilveraluminiumbraceletwinterbluesportloop0195949024801_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2713000,
+      "prix_comparaison": 2783000,
+      "indice_prix": 102.58016955399927
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128835applewatchseries9gpscellular45mmboitierstarlightaluminiumbraceletstarlightsportbandml0195949024030_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2713000,
+      "prix_comparaison": 2783000,
+      "indice_prix": 102.58016955399927
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128636samsunggalaxywatch6classic43mmnoirbluetooth8806095036984_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 43mm Noir Bluetooth",
+      "prix_base": 1782000,
+      "prix_comparaison": 1828000,
+      "indice_prix": 102.58136924803591
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128877applewatchsegpscellular40mmboitiersilveraluminiumbraceletwinterbluesportloop0195949006876_html",
+      "name": "Apple Watch SE GPS + Cellular - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1509000,
+      "prix_comparaison": 1548000,
+      "indice_prix": 102.5844930417495
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128841applewatchseries9gpscellular45mmboitieraciergraphitebraceletgraphitemilaneseloop0195949026126_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 45mm - Bo\u00eetier Acier Graphite - Bracelet Graphite Milanese Loop",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 102.59195260429523
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128900applewatchultra2gpscellular49mmboitiertitaniumbraceletbluealpineloopsmall0194253827191_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue Alpine Loop - Small",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 102.59195260429523
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128899applewatchultra2gpscellular49mmboitiertitaniumbraceletorangeoceanband0194253826477_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Orange Ocean Band",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 102.59195260429523
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128912applewatchultra2gpscellular49mmboitiertitaniumbraceletblueblacktrailloopml0194253832232_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue/Black Trail Loop - M/L",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 102.59195260429523
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_133511applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband0194253826835_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 102.59195260429523
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128908applewatchultra2gpscellular49mmboitiertitaniumbraceletolivealpinelooplarge0194253830078_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Olive Alpine Loop - Large",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 102.59195260429523
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_133512applewatchultra2gpscellular49mmboitiertitaniumbraceletorangebeigetrailloopsm0194253830436_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Orange/Beige Trail Loop - S/M",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 102.59195260429523
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_129919applewatchultra2gpscellular49mmboitiertitaniumbraceletblueoceanband0194253826118_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Blue Ocean Band",
+      "prix_base": 4051000,
+      "prix_comparaison": 4156000,
+      "indice_prix": 102.59195260429523
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128825applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandml0195949030239_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "indice_prix": 102.59295499021526
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128810applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop0195949030017_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "indice_prix": 102.59295499021526
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128814applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm0195949030451_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "indice_prix": 102.59295499021526
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128816applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportloop0195949030673_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "indice_prix": 102.59295499021526
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128800applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportloop0195949029684_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "indice_prix": 102.59295499021526
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128815applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandml0195949030567_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Band - M/L",
+      "prix_base": 2044000,
+      "prix_comparaison": 2097000,
+      "indice_prix": 102.59295499021526
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128803applewatchseries9gpscellular41mmboitierstarlightaluminiumbraceletstarlightsportloop0195949021718_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Loop",
+      "prix_base": 2579000,
+      "prix_comparaison": 2646000,
+      "indice_prix": 102.5979061651803
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128828applewatchseries9gpscellular41mmboitiersilveraluminiumbraceletstormbluesportbandml0195949022265_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 2579000,
+      "prix_comparaison": 2646000,
+      "indice_prix": 102.5979061651803
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128822applewatchseries9gpscellular41mmboitierproductredaluminiumbraceletproductredsportbandsm0195949028137_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier (PRODUCT)RED Aluminium - Bracelet (PRODUCT)RED Sport Band - S/M",
+      "prix_base": 2579000,
+      "prix_comparaison": 2646000,
+      "indice_prix": 102.5979061651803
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128830applewatchseries9gpscellular41mmboitieracierargentbraceletstormbluesportbandml0195949022920_html",
+      "name": "Apple Watch Series\u00a09 GPS + Cellular - 41mm - Bo\u00eetier Acier Argent - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 3605000,
+      "prix_comparaison": 3699000,
+      "indice_prix": 102.60748959778086
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128873applewatchsegps40mmboitiermidnightaluminiumbraceletmidnightsportloop0195949003752_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1286000,
+      "prix_comparaison": 1320000,
+      "indice_prix": 102.64385692068429
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128878applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandsm0195949003868_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1286000,
+      "prix_comparaison": 1320000,
+      "indice_prix": 102.64385692068429
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128639samsunggalaxywatch6classic43mmnoir4g8806095076195_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 43mm Noir 4G",
+      "prix_base": 1985000,
+      "prix_comparaison": 2046000,
+      "indice_prix": 103.07304785894206
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_14170samsunggalaxywatch440mm4gor8806092607224_html",
+      "name": "SAMSUNG Galaxy Watch4 40mm 4G Or",
+      "prix_base": 1332000,
+      "prix_comparaison": 1381000,
+      "indice_prix": 103.67867867867868
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_130181xiaomibraceletconnectemismartband8graphite6941812722916_html",
+      "name": "XIAOMI - Bracelet connect\u00e9 - Mi Smart Band 8 Graphite",
+      "prix_base": 215000,
+      "prix_comparaison": 226000,
+      "indice_prix": 105.11627906976744
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_133295samsunggalaxywatch6classic43mmargent4g8806095076300_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 43mm Argent 4G",
+      "prix_base": 1985000,
+      "prix_comparaison": 2090000,
+      "indice_prix": 105.2896725440806
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128640samsunggalaxywatch6classic47mmargent4g8806095076522_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 47mm Argent 4G",
+      "prix_base": 2124000,
+      "prix_comparaison": 2245000,
+      "indice_prix": 105.69679849340866
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_43873samsunggalaxywatch440mmbluethoothnoir8806092521926_html",
+      "name": "SAMSUNG Galaxy Watch4 40mm Bluethooth Noir",
+      "prix_base": 1141000,
+      "prix_comparaison": 1207000,
+      "indice_prix": 105.78439964943033
+    },
+    {
       "cle": "interrupteur_91188xiaomimiswitchinterrupteursansfilblanc6934177710834_html",
       "name": "XIAOMI Mi Switch Interrupteur Sans Fil Blanc",
       "prix_base": 120000,
       "prix_comparaison": 127000,
       "indice_prix": 105.83333333333333
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_129920xiaomimontreconnecteeredmiwatch36941812705827_html",
+      "name": "XIAOMI - Montre connect\u00e9e - Redmi Watch 3",
+      "prix_base": 646000,
+      "prix_comparaison": 684000,
+      "indice_prix": 105.88235294117646
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127694samsunggalaxywatch644mmargent4g8806095075600_html",
+      "name": "SAMSUNG Galaxy Watch6 44mm Argent 4G",
+      "prix_base": 1600000,
+      "prix_comparaison": 1708000,
+      "indice_prix": 106.75
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127058samsunggalaxywatch644mmgraphite4g8806095075525_html",
+      "name": "SAMSUNG Galaxy Watch6 44mm Graphite 4G",
+      "prix_base": 1600000,
+      "prix_comparaison": 1708000,
+      "indice_prix": 106.75
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_130138samsunggalaxywatch6classic47mmnoirbluetooth8806095038827_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 47mm Noir Bluetooth",
+      "prix_base": 1862000,
+      "prix_comparaison": 1988000,
+      "indice_prix": 106.76691729323308
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127695samsunggalaxywatch6classic47mmnoir4g8806095076454_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 47mm Noir 4G",
+      "prix_base": 2109000,
+      "prix_comparaison": 2252000,
+      "indice_prix": 106.78046467520151
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_127689samsunggalaxywatch6classic43mmargentbluetooth8806095036946_html",
+      "name": "SAMSUNG Galaxy Watch6 Classic 43mm Argent Bluetooth",
+      "prix_base": 1665000,
+      "prix_comparaison": 1778000,
+      "indice_prix": 106.78678678678679
+    },
+    {
+      "cle": "montrebluetoothconnecteemontreintelligente_128638samsunggalaxywatch640mmcreme4g8806095075891_html",
+      "name": "SAMSUNG Galaxy Watch6 40mm Creme 4G",
+      "prix_base": 1488000,
+      "prix_comparaison": 1589000,
+      "indice_prix": 106.78763440860214
     },
     {
       "cle": "refrigerateurclassique_26968samsungrl34t631esaru00e9frigu00e9rateurcombinu00e9341l227114lfroidventilu00e9l60xh185cmmetalgrey8806090563492_html",
