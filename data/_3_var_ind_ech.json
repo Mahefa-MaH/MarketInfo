@@ -1,94 +1,59 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_poivron1kg_",
-      "name": "Poivron 1kg",
-      "prix_base": 6000,
-      "prix_comparaison": 6500,
-      "variation": 500
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
+      "prix_base": 11000,
+      "prix_comparaison": 11112,
+      "variation": 112
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_carottesnaturelles_",
-      "name": "Carottes fra\u00eeches 1kg  | Calibre moyen",
-      "prix_base": 6700,
-      "prix_comparaison": 4000,
-      "variation": -2700
+      "cle": "produit_persil1botte_",
+      "name": "Persil 1 botte",
+      "prix_base": 1667,
+      "prix_comparaison": 1457,
+      "variation": -210
     },
     {
-      "cle": "produit_carottesfraiche1kggroscalibre_",
-      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
-      "prix_base": 6250,
-      "prix_comparaison": 4000,
-      "variation": -2250
-    },
-    {
-      "cle": "produit_carottesfraiche500ggroscalibre_",
-      "name": "Carottes Fra\u00eeche 500g | Gros calibre",
-      "prix_base": 3400,
-      "prix_comparaison": 2500,
-      "variation": -900
-    },
-    {
-      "cle": "produit_carottesfraiche500g_",
-      "name": "Carottes Fra\u00eeche 500g | Calibre moyen",
-      "prix_base": 3000,
-      "prix_comparaison": 2500,
-      "variation": -500
-    },
-    {
-      "cle": "produit_poivron1kg_",
-      "name": "Poivron 1kg",
-      "prix_base": 6000,
-      "prix_comparaison": 6500,
-      "variation": 500
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
+      "prix_base": 11000,
+      "prix_comparaison": 11112,
+      "variation": 112
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_poivron1kg_",
-      "name": "Poivron 1kg",
-      "prix_base": 6000,
-      "prix_comparaison": 6500,
-      "indice_prix": 108.33333333333333
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
+      "prix_base": 11000,
+      "prix_comparaison": 11112,
+      "indice_prix": 101.01818181818182
     },
     {
-      "cle": "produit_carottesfraiche500g_",
-      "name": "Carottes Fra\u00eeche 500g | Calibre moyen",
-      "prix_base": 3000,
-      "prix_comparaison": 2500,
-      "indice_prix": 83.33333333333333
-    },
-    {
-      "cle": "produit_carottesfraiche500ggroscalibre_",
-      "name": "Carottes Fra\u00eeche 500g | Gros calibre",
-      "prix_base": 3400,
-      "prix_comparaison": 2500,
-      "indice_prix": 73.52941176470588
+      "cle": "produit_persil1botte_",
+      "name": "Persil 1 botte",
+      "prix_base": 1667,
+      "prix_comparaison": 1457,
+      "indice_prix": 87.40251949610078
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_carottesnaturelles_",
-      "name": "Carottes fra\u00eeches 1kg  | Calibre moyen",
-      "prix_base": 6700,
-      "prix_comparaison": 4000,
-      "indice_prix": 59.701492537313435
+      "cle": "produit_persil1botte_",
+      "name": "Persil 1 botte",
+      "prix_base": 1667,
+      "prix_comparaison": 1457,
+      "indice_prix": 87.40251949610078
     },
     {
-      "cle": "produit_carottesfraiche1kggroscalibre_",
-      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
-      "prix_base": 6250,
-      "prix_comparaison": 4000,
-      "indice_prix": 64.0
-    },
-    {
-      "cle": "produit_carottesfraiche500ggroscalibre_",
-      "name": "Carottes Fra\u00eeche 500g | Gros calibre",
-      "prix_base": 3400,
-      "prix_comparaison": 2500,
-      "indice_prix": 73.52941176470588
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
+      "prix_base": 11000,
+      "prix_comparaison": 11112,
+      "indice_prix": 101.01818181818182
     }
   ]
 }

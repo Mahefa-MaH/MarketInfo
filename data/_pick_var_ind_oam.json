@@ -1,20 +1,62 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_137365samsunggalaxytaba91164go5ggris8806095360720_html",
-      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go 5G Gris",
-      "prix_base": 1586000,
-      "prix_comparaison": 1587000,
-      "variation": 1000
+      "cle": "commandechauffage_85900vannederadiateurintelligenteevethermotechnologieapplehomekitetprogrammesautonomesbluetooththread4260195392007_html",
+      "name": "Vanne de radiateur intelligente EVE THERMO - Technologie Apple HomeKit et programmes autonomes Bluetooth Thread",
+      "prix_base": 363000,
+      "prix_comparaison": 357000,
+      "variation": -6000
+    },
+    {
+      "cle": "interrupteur_91188xiaomimiswitchinterrupteursansfilblanc6934177710834_html",
+      "name": "XIAOMI Mi Switch Interrupteur Sans Fil Blanc",
+      "prix_base": 120000,
+      "prix_comparaison": 127000,
+      "variation": 7000
+    },
+    {
+      "cle": "refrigerateurclassique_133275refrigerateurcombinesamsungrb33b610fwwblanc8806094505634_html",
+      "name": "R\u00e9frig\u00e9rateur combin\u00e9 SAMSUNG RB33B610FWW Blanc",
+      "prix_base": 4543000,
+      "prix_comparaison": 4582000,
+      "variation": 39000
+    },
+    {
+      "cle": "refrigerateurclassique_26968samsungrl34t631esaru00e9frigu00e9rateurcombinu00e9341l227114lfroidventilu00e9l60xh185cmmetalgrey8806090563492_html",
+      "name": "R\u00e9frig\u00e9rateur combin\u00e9 SAMSUNG RL34T631ESA - 341L (227+114L) - Froid ventil\u00e9 - L60xH185cm - Metal Grey",
+      "prix_base": 5581000,
+      "prix_comparaison": 6081000,
+      "variation": 500000
     }
   ],
   "indice de prix": [
     {
-      "cle": "tablettetactile_137365samsunggalaxytaba91164go5ggris8806095360720_html",
-      "name": "SAMSUNG Galaxy Tab A9+ 11 64Go 5G Gris",
-      "prix_base": 1586000,
-      "prix_comparaison": 1587000,
-      "indice_prix": 100.06305170239597
+      "cle": "commandechauffage_85900vannederadiateurintelligenteevethermotechnologieapplehomekitetprogrammesautonomesbluetooththread4260195392007_html",
+      "name": "Vanne de radiateur intelligente EVE THERMO - Technologie Apple HomeKit et programmes autonomes Bluetooth Thread",
+      "prix_base": 363000,
+      "prix_comparaison": 357000,
+      "indice_prix": 98.34710743801652
+    },
+    {
+      "cle": "refrigerateurclassique_133275refrigerateurcombinesamsungrb33b610fwwblanc8806094505634_html",
+      "name": "R\u00e9frig\u00e9rateur combin\u00e9 SAMSUNG RB33B610FWW Blanc",
+      "prix_base": 4543000,
+      "prix_comparaison": 4582000,
+      "indice_prix": 100.85846357032797
+    },
+    {
+      "cle": "interrupteur_91188xiaomimiswitchinterrupteursansfilblanc6934177710834_html",
+      "name": "XIAOMI Mi Switch Interrupteur Sans Fil Blanc",
+      "prix_base": 120000,
+      "prix_comparaison": 127000,
+      "indice_prix": 105.83333333333333
+    },
+    {
+      "cle": "refrigerateurclassique_26968samsungrl34t631esaru00e9frigu00e9rateurcombinu00e9341l227114lfroidventilu00e9l60xh185cmmetalgrey8806090563492_html",
+      "name": "R\u00e9frig\u00e9rateur combin\u00e9 SAMSUNG RL34T631ESA - 341L (227+114L) - Froid ventil\u00e9 - L60xH185cm - Metal Grey",
+      "prix_base": 5581000,
+      "prix_comparaison": 6081000,
+      "indice_prix": 108.95896792689483
     }
   ]
 }

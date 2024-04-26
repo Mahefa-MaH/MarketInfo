@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "smartphones_14685355appleiphone13reconditionne_html_15couleurvert_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2465100,
-      "prix_comparaison": 2739000,
-      "variation": 273900
-    },
-    {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 625005,
-      "prix_comparaison": 657900,
-      "variation": 32895
+      "cle": "biscuitssalesetbretzels_12674gressinsausesame125gboutondor_html",
+      "name": "Gressins au s\u00e9same 125g",
+      "prix_base": 7505,
+      "prix_comparaison": 7900,
+      "variation": 395
     }
   ],
   "prix_diminues": [
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
-    },
-    {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "variation": -530
+      "cle": "ordinateursportables_14819pcportablegamerlenovogaming315fhd250ntrtx2050ryzen55500hram16gossd512gosanswindowsazerty_html",
+      "name": "PC Portable Gamer LENOVO Gaming 3 | 15'' FHD 250Nt - RTX 2050 - Ryzen 5-5500H - RAM 16Go - SSD 512Go - Sans Windows - AZERTY",
+      "prix_base": 3327000,
+      "prix_comparaison": 3099000,
+      "variation": -228000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "lessiveenpoudreettablette_9302lessiveenpoudrevioletvaoline30g_html",
-      "name": "Lessive en poudre violet Vaoline 30g",
-      "prix_base": 250,
-      "prix_comparaison": 350,
-      "indice_prix": 140.0
-    },
-    {
-      "cle": "lessiveenpoudreettablette_9301lessiveenpoudrebleuvaoline30g_html",
-      "name": "Lessive en poudre bleu Vaoline 30g",
-      "prix_base": 250,
-      "prix_comparaison": 350,
-      "indice_prix": 140.0
+      "cle": "biscuitssalesetbretzels_12674gressinsausesame125gboutondor_html",
+      "name": "Gressins au s\u00e9same 125g",
+      "prix_base": 7505,
+      "prix_comparaison": 7900,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
-    },
-    {
-      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
-      "name": "Savon de toilette lait d'amande 75g",
-      "prix_base": 1520,
-      "prix_comparaison": 990,
-      "indice_prix": 65.13157894736842
+      "cle": "enceintesbluetooth_14874enceinteportablebluetoothblancinovalleyhp202bthwi_html",
+      "name": "ENCEINTE PORTABLE BLUETOOTH BLANC - INOVALLEY - HP202-BTH-W\tI",
+      "prix_base": 151000,
+      "prix_comparaison": 119000,
+      "indice_prix": 78.80794701986756
     }
   ]
 }
