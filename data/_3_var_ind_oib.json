@@ -20,13 +20,6 @@
       "prix_base": 7505,
       "prix_comparaison": 7900,
       "variation": 395
-    },
-    {
-      "cle": "selsepicesherbes_12585baiesroses22gcigalou_html",
-      "name": "Baies roses 22g",
-      "prix_base": 7505,
-      "prix_comparaison": 7900,
-      "variation": 395
     }
   ],
   "prix_diminues": [
@@ -50,13 +43,6 @@
       "prix_base": 3871000,
       "prix_comparaison": 3679000,
       "variation": -192000
-    },
-    {
-      "cle": "consoles_15132consolenintendoswitchmodeleolededitionlimiteemariorouge_html",
-      "name": "Console Nintendo Switch - Modele OLED \u2022 \u00c9dition Limit\u00e9e Mario (Rouge)",
-      "prix_base": 1866000,
-      "prix_comparaison": 1689000,
-      "variation": -177000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -79,13 +65,6 @@
       "name": "Ketchup all\u00e9g\u00e9 en sucre 530g",
       "prix_base": 9025,
       "prix_comparaison": 9500,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "selsepicesherbes_12310cumingrains40gcigalou_html",
-      "name": "Cumin grains 40g",
-      "prix_base": 6745,
-      "prix_comparaison": 7100,
       "indice_prix": 105.26315789473684
     }
   ],
@@ -110,13 +89,6 @@
       "prix_base": 401000,
       "prix_comparaison": 359000,
       "indice_prix": 89.52618453865337
-    },
-    {
-      "cle": "consoles_14598nintendoconsoleswitchliteturquoise_html",
-      "name": "NINTENDO Console Switch Lite - Turquoise",
-      "prix_base": 1194000,
-      "prix_comparaison": 1069000,
-      "indice_prix": 89.53098827470687
     }
   ]
 }
