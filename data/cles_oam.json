@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
-      "prix_base": 12171000,
-      "prix_comparaison": 12171000,
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 12676000,
+      "prix_comparaison": 12676000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuseautoporteesansfil_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
-      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
-      "prix_base": 11958000,
-      "prix_comparaison": 11958000,
+      "cle": "prisetelecommandeetelecommandedeprise_138869priseconnecteeecoflowob03564prisewificompactegris4895251604451_html",
+      "name": "Prise connect\u00e9e ECOFLOW OB03564 - Prise Wi-Fi compacte - Gris",
+      "prix_base": 23558000,
+      "prix_comparaison": 23558000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuseautoporteesansfil_136387tondeuseautoporteethermique98cmdecoupealpinaat398hatransmissionhydrostatique8008984851559_html",
-      "name": "Tondeuse autoport\u00e9e thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique",
-      "prix_base": 14749000,
-      "prix_comparaison": 14749000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
+      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
+      "prix_base": 10863000,
+      "prix_comparaison": 10913000,
+      "variation": 50000,
+      "indice_prix": 100.46027800791678
     }
   ]
 }
