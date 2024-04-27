@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_rizrougemalgachesupermarchemg50kgvarymenaoriginemadagascar_",
-      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 50kg | Vary mena | Origine Madagascar",
-      "prix_base": 199500,
-      "prix_comparaison": 199500,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "produit_rizrougevarygasykapoaka_",
       "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 1kg | Vary mena | Origine Madagascar",
       "prix_base": 3950,
@@ -17,10 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_huilesoja1l_",
-      "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
-      "prix_base": 10210,
-      "prix_comparaison": 10210,
+      "cle": "produit_sucreblanc1kgenvrac_",
+      "name": "Sucre blanc 1kg| En vrac",
+      "prix_base": 7200,
+      "prix_comparaison": 7200,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sucreblancramatoa1kg_",
+      "name": "Sucre Blanc Ramatoa\u2122 1kg | Sucre de canne raffin\u00e9",
+      "prix_base": 9510,
+      "prix_comparaison": 9510,
       "variation": 0,
       "indice_prix": 100.0
     }
