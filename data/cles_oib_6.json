@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "huiles_8994huiledesoja1l_html",
-      "name": "Huile de soja 1L",
-      "prix_base": 15500,
-      "prix_comparaison": 15500,
+      "cle": "sucres_4881sucreblancfana1kg_html",
+      "name": "Sucre blanc Fana 1kg",
+      "prix_base": 6290,
+      "prix_comparaison": 6290,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8290,
-      "prix_comparaison": 8290,
+      "cle": "sucres_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 8600,
+      "prix_comparaison": 8600,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "farinesetchapelures_13065farinepourpainblanc1kgchabrior_html",
+      "name": "Farine pour  pain blanc 1kg",
+      "prix_base": 8500,
+      "prix_comparaison": 8500,
       "variation": 0,
       "indice_prix": 100.0
     }

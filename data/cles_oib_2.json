@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
+      "cle": "riz_9403rizgasysacde1kg_html",
+      "name": "Riz gasy sac de 1kg",
+      "prix_base": 4490,
+      "prix_comparaison": 4490,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "riz_7289rizblancdeitasy5kg_html",
+      "name": "Riz blanc de l'Itasy 5kg",
+      "prix_base": 15900,
+      "prix_comparaison": 15900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "riz_11443rizmakalioka1kg_html",
       "name": "Riz makalioka 1kg",
       "prix_base": 4350,
       "prix_comparaison": 4350,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "riz_14597rizmakalioka5kg_html",
-      "name": "Riz makalioka 5kg",
-      "prix_base": 21750,
-      "prix_comparaison": 21750,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "riz_9404rizmakaliokasacde1kg_html",
-      "name": "Riz Makalioka sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     }
