@@ -2,25 +2,25 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Savon barre citron 1kg**
+1. **Crevettes décortiquées MM 500g**
+   - Prix avant: 27,500 Ar
+   - Prix actuel: 35,000 Ar
+   - Variation: +7,500 Ar
+
+2. **Crevettes décortiquées MM 250g**
+   - Prix avant: 14,000 Ar
+   - Prix actuel: 17,500 Ar
+   - Variation: +3,500 Ar
+
+3. **Savon barre citron 1kg**
    - Prix avant: 9,900 Ar
    - Prix actuel: 13,000 Ar
    - Variation: +3,100 Ar
 
-2. **Petit déjeuner instantané au cacao maigre en poudre 800g**
+4. **Petit déjeuner instantané au cacao maigre en poudre 800g**
    - Prix avant: 22,900 Ar
    - Prix actuel: 25,900 Ar
    - Variation: +3,000 Ar
-
-3. **Boissons instantanées granulés chocolat 800g**
-   - Prix avant: 23,900 Ar
-   - Prix actuel: 26,900 Ar
-   - Variation: +3,000 Ar
-
-4. **Riz blanc de l'Itasy 5kg**
-   - Prix avant: 15,900 Ar
-   - Prix actuel: 18,400 Ar
-   - Variation: +2,500 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -65,10 +65,10 @@
    - Prix actuel: 13,000 Ar
    - Indice de prix : 131.31
 
-4. **Liquide vaisselle citron 1L**
-   - Prix avant: 3,500 Ar
-   - Prix actuel: 4,500 Ar
-   - Indice de prix : 128.57
+4. **Liquide vaisselle pomme 500ml**
+   - Prix avant: 2,990 Ar
+   - Prix actuel: 3,900 Ar
+   - Indice de prix : 130.43
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 

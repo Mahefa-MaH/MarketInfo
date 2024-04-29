@@ -1,150 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "refrigerateurclassique_26968samsungrl34t631esaru00e9frigu00e9rateurcombinu00e9341l227114lfroidventilu00e9l60xh185cmmetalgrey8806090563492_html",
-      "name": "R\u00e9frig\u00e9rateur combin\u00e9 SAMSUNG RL34T631ESA - 341L (227+114L) - Froid ventil\u00e9 - L60xH185cm - Metal Grey",
-      "prix_base": 5581000,
-      "prix_comparaison": 6081000,
-      "variation": 500000
-    },
-    {
-      "cle": "ensembletablechaisedejardin_137835ensemblerepasdejardintable180cm8chaisesstructurealuminiumplateauverretrempegris3619995433396_html",
-      "name": "Ensemble repas de jardin : Table 180 cm + 8 chaises - Structure aluminium - Plateau verre tremp\u00e9 - Gris",
-      "prix_base": 2820000,
-      "prix_comparaison": 3189000,
-      "variation": 369000
-    },
-    {
-      "cle": "bacalitiere_137785petsafecouverclelitiereautoscoopfree150729849171244_html",
-      "name": "PETSAFE - Couvercle + Litiere - AUTO SCOOPFREE 1.5",
-      "prix_base": 1521000,
-      "prix_comparaison": 1794000,
-      "variation": 273000
-    },
-    {
-      "cle": "ensembletablechaisedejardin_137874ensemblerepas4personnesmala3584179086357_html",
-      "name": "Ensemble repas MALA en r\u00e9sine tress\u00e9e noire 4 places",
-      "prix_base": 2711000,
-      "prix_comparaison": 2950000,
-      "variation": 239000
-    },
-    {
-      "cle": "enrouleur_98912brennenstuhlenrouleurstandardpro25mh07rnf3g153281852069217_html",
-      "name": "BRENNENSTUHL Enrouleur standard pro 25m H07RN-F 3G1.5",
-      "prix_base": 685000,
-      "prix_comparaison": 856000,
-      "variation": 171000
+      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
+      "name": "Pousses de haricots mungo en conserve 1/2 180g",
+      "prix_base": 6200,
+      "prix_comparaison": 6900,
+      "variation": 700
     }
   ],
   "prix_diminues": [
     {
-      "cle": "extracteurdejus_5120moulinexzu600110ultrajuiceextracteurdejusafroid2filtresgourde600mlu00a0goulotteextralarge85mmprogrammeautoma3016661157561_html",
-      "name": "Extracteur de Jus a Froid MOULINEX Ultra Juice ZU600110 - 2 Filtres Gourde 600 mL - Goulotte Extra-large 85 mm",
-      "prix_base": 2116000,
-      "prix_comparaison": 1689000,
-      "variation": -427000
-    },
-    {
-      "cle": "adaptateursiegebasesiegeautoadaptateurnacelle_40491maxicosibasecabriofixisizepourcosicabriofixisize8712930177630_html",
-      "name": "Embase MAXI COSI Carbiofix i-Size, Isofix, Black",
-      "prix_base": 1236000,
-      "prix_comparaison": 1067000,
-      "variation": -169000
-    },
-    {
-      "cle": "refrigerateurclassique_126275refrigerateurcombineposelibreboschkgn49xleaser42portes438lh203xl70xp67cminox4242005162963_html",
-      "name": "R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - BOSCH KGN49XLEA SER4 - 438 L - H203XL70XP67 cm - No Frost - inox",
-      "prix_base": 6441000,
-      "prix_comparaison": 6274000,
-      "variation": -167000
-    },
-    {
-      "cle": "ensembletablechaisedejardin_138475tabledejardinextensiblerectangulaire6a8personnesstructurealuminiuml135270xp90xh75cmgrisfonce3619995433419_html",
-      "name": "Table de jardin extensible rectangulaire 6 a 10 personnes - Structure aluminium - L 135-270 x P 90 x H 75 cm - Gris fonc\u00e9",
-      "prix_base": 2791000,
-      "prix_comparaison": 2631000,
-      "variation": -160000
-    },
-    {
-      "cle": "universminiature_133331bdetablibricoloultimate3032163607304_html",
-      "name": "B+D ETABLI BRICOLO ULTIMATE",
-      "prix_base": 797000,
-      "prix_comparaison": 638000,
-      "variation": -159000
+      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
+      "name": "Pousses de haricots mungo en conserve 1/2 180g",
+      "prix_base": 6200,
+      "prix_comparaison": 6900,
+      "variation": 700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "prisetelecommandeetelecommandedeprise_4490yaleacpseuprisetu00e9lu00e9commandu00e9eintu00e9rieurepouralarmemaisonconnectu00e9esync5052847099186_html",
-      "name": "Yale AC-PS EU Prise T\u00e9l\u00e9command\u00e9e Int\u00e9rieure pour Alarme Maison Connect\u00e9e Sync",
-      "prix_base": 140000,
-      "prix_comparaison": 296000,
-      "indice_prix": 211.42857142857142
-    },
-    {
-      "cle": "coiffeurestheticienne_137359smobymybeautyhairsetsetdecoiffureenfantlisseuretsechecheveuxfacticesfonctionselectroniques3201443032163201441_html",
-      "name": "Smoby - My Beauty Hair Set - Set de Coiffure Enfant - Lisseur et Seche-Cheveux Factices - Fonctions Electroniques - 320144",
-      "prix_base": 119000,
-      "prix_comparaison": 168000,
-      "indice_prix": 141.1764705882353
-    },
-    {
-      "cle": "potdefleurs_100154artevasipotdefleurscapri60cmblanc5600442812022_html",
-      "name": "ARTEVASI Pot de fleurs Capri - 60 cm - Blanc",
-      "prix_base": 298000,
-      "prix_comparaison": 398000,
-      "indice_prix": 133.55704697986576
-    },
-    {
-      "cle": "draphoussematelas_19091domivalotde2drapshousseblancu00e9toilesperle60x120cm3120760066492_html",
-      "name": "Lot 2 Draps housse - DOMIVA - Jersey - Blanc/Perle - 60 x 120 cm",
-      "prix_base": 114000,
-      "prix_comparaison": 151000,
-      "indice_prix": 132.4561403508772
-    },
-    {
-      "cle": "potdefleurs_59145edapotdefleurrondtoscaneo60xh47cm76lgrisanthracite3086960207489_html",
-      "name": "EDA Pot de fleur rond Toscane - \u00d8 60 x H 47 cm - 76 L - Gris anthracite",
-      "prix_base": 309000,
-      "prix_comparaison": 408000,
-      "indice_prix": 132.03883495145632
+      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
+      "name": "Pousses de haricots mungo en conserve 1/2 180g",
+      "prix_base": 6200,
+      "prix_comparaison": 6900,
+      "indice_prix": 111.29032258064517
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "extracteurdejus_5120moulinexzu600110ultrajuiceextracteurdejusafroid2filtresgourde600mlu00a0goulotteextralarge85mmprogrammeautoma3016661157561_html",
-      "name": "Extracteur de Jus a Froid MOULINEX Ultra Juice ZU600110 - 2 Filtres Gourde 600 mL - Goulotte Extra-large 85 mm",
-      "prix_base": 2116000,
-      "prix_comparaison": 1689000,
-      "indice_prix": 79.82041587901702
-    },
-    {
-      "cle": "dinettecuisine_125721jeuxdimitationcuisinepetitdejeunerecoiffier16833280250016830_html",
-      "name": "Jeux d'imitation : cuisine Petit-d\u00e9jeuner - ECOIFFIER - 1683",
-      "prix_base": 243000,
-      "prix_comparaison": 194000,
-      "indice_prix": 79.83539094650206
-    },
-    {
-      "cle": "potdefleurs_125425edavasetoscanemihauto44xh53cm50lblanc3086960230807_html",
-      "name": "EDA Vase Toscane mi-haut - \u00d8 44 x H 53 cm - 50 L - Blanc",
-      "prix_base": 299000,
-      "prix_comparaison": 239000,
-      "indice_prix": 79.93311036789298
-    },
-    {
-      "cle": "potdefleurs_93653edaplastiquepotrond50cmgraphitup67lblancceruse3086960260040_html",
-      "name": "EDA PLASTIQUE - Pot rond 50 cm Graphit'Up - 67 L - Blanc c\u00e9rus\u00e9",
-      "prix_base": 399000,
-      "prix_comparaison": 319000,
-      "indice_prix": 79.9498746867168
-    },
-    {
-      "cle": "docteurinfirmiereveterinaire_56340smobychariotveterinairepeluchechatoninclusedes3ans3032163404026_html",
-      "name": "Smoby chariot v\u00e9t\u00e9rinaire - peluche chaton incluse - des 3 ans",
-      "prix_base": 409000,
-      "prix_comparaison": 327000,
-      "indice_prix": 79.95110024449878
+      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
+      "name": "Pousses de haricots mungo en conserve 1/2 180g",
+      "prix_base": 6200,
+      "prix_comparaison": 6900,
+      "indice_prix": 111.29032258064517
     }
   ]
 }

@@ -1,6 +1,20 @@
 {
   "prix_augmentes": [
     {
+      "cle": "fruitsdemeretcrustaces_7501crevettesdecortiqueesmm500g_html",
+      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 500g",
+      "prix_base": 27500,
+      "prix_comparaison": 35000,
+      "variation": 7500
+    },
+    {
+      "cle": "fruitsdemeretcrustaces_7502crevettesdecortiqueesmm250g_html",
+      "name": "Crevettes d\u00e9cortiqu\u00e9es MM 250g",
+      "prix_base": 14000,
+      "prix_comparaison": 17500,
+      "variation": 3500
+    },
+    {
       "cle": "savonmenager_7030savonbarrecitron1kg_html",
       "name": "Savon barre citron 1kg",
       "prix_base": 9900,
@@ -13,20 +27,6 @@
       "prix_base": 22900,
       "prix_comparaison": 25900,
       "variation": 3000
-    },
-    {
-      "cle": "boissonsinstantanees_13898boissonsinstantanesgranuleschocolat800gtopbudget_html",
-      "name": "Boissons instantan\u00e9es granul\u00e9s chocolat 800g",
-      "prix_base": 23900,
-      "prix_comparaison": 26900,
-      "variation": 3000
-    },
-    {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 15900,
-      "prix_comparaison": 18400,
-      "variation": 2500
     }
   ],
   "prix_diminues": [
@@ -82,11 +82,11 @@
       "indice_prix": 131.31313131313132
     },
     {
-      "cle": "detergentvaisselle_13843liquidevaissellecitron1ltopbudget_html",
-      "name": "Liquide vaisselle citron 1L",
-      "prix_base": 3500,
-      "prix_comparaison": 4500,
-      "indice_prix": 128.57142857142858
+      "cle": "detergentvaisselle_13889liquidevaissellepomme500mltopbudget_html",
+      "name": "Liquide vaisselle pomme 500ml",
+      "prix_base": 2990,
+      "prix_comparaison": 3900,
+      "indice_prix": 130.43478260869566
     }
   ],
   "indices_prix_plus_faibles": [

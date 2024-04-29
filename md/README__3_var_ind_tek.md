@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **10 Capsules à café Capriccio**
-   - Prix avant: 52,000 Ar
-   - Prix actuel: 59,000 Ar
-   - Variation: +7,000 Ar
+1. **jouet La Bonne Paye**
+   - Prix avant: 277,200 Ar
+   - Prix actuel: 302,400 Ar
+   - Variation: +25,200 Ar
 
-2. **10 Capsules à café Arpeggio**
-   - Prix avant: 52,000 Ar
-   - Prix actuel: 59,000 Ar
-   - Variation: +7,000 Ar
+2. **jouet Lumi mouton nuit enchantée bleu**
+   - Prix avant: 247,200 Ar
+   - Prix actuel: 269,700 Ar
+   - Variation: +22,500 Ar
 
-3. **Macédoine 4/4**
-   - Prix avant: 11,400 Ar
-   - Prix actuel: 13,500 Ar
-   - Variation: +2,100 Ar
+3. **jouet Qui-Est-Ce ?**
+   - Prix avant: 179,300 Ar
+   - Prix actuel: 195,600 Ar
+   - Variation: +16,300 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Bonbons en sachet de 50 pièces**
-   - Prix avant: 3,100 Ar
-   - Prix actuel: 3,400 Ar
-   - Variation: +300 Ar
+1. **Bloc 5 prises 16A**
+   - Prix avant: 42,500 Ar
+   - Prix actuel: 40,800 Ar
+   - Variation: -1,700 Ar
 
-2. **100 disques à démaquiller**
-   - Prix avant: 4,900 Ar
-   - Prix actuel: 5,600 Ar
-   - Variation: +700 Ar
+2. **Huile De Soja 1 L**
+   - Prix avant: 10,200 Ar
+   - Prix actuel: 9,400 Ar
+   - Variation: -800 Ar
 
-3. **Gobelet café en carton paquet de 20 pièces**
-   - Prix avant: 9,400 Ar
-   - Prix actuel: 10,200 Ar
-   - Variation: +800 Ar
+3. **Petit pot cocktail fruit 130 g**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 8,100 Ar
+   - Variation: +100 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Bonbons Soda Cola sachet de 50 pièces 100 g**
-   - Prix avant: 2,600 Ar
-   - Prix actuel: 3,960 Ar
-   - Indice de prix : 152.31
+1. **Poivrons verts 500 g**
+   - Prix avant: 2,700 Ar
+   - Prix actuel: 4,100 Ar
+   - Indice de prix : 151.85
 
-2. **Macédoine 4/4**
-   - Prix avant: 11,400 Ar
-   - Prix actuel: 13,500 Ar
-   - Indice de prix : 118.42
+2. **Courgettes 500 g**
+   - Prix avant: 2,300 Ar
+   - Prix actuel: 2,700 Ar
+   - Indice de prix : 117.39
 
-3. **100 disques à démaquiller**
-   - Prix avant: 4,900 Ar
-   - Prix actuel: 5,600 Ar
-   - Indice de prix : 114.29
+3. **Pommes de terre 500 g**
+   - Prix avant: 3,100 Ar
+   - Prix actuel: 3,600 Ar
+   - Indice de prix : 116.13
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Bouilloire En Verre 3000 W**
-   - Prix avant: 161,600 Ar
-   - Prix actuel: 162,900 Ar
-   - Indice de prix : 100.80
+1. **Huile De Soja 1 L**
+   - Prix avant: 10,200 Ar
+   - Prix actuel: 9,400 Ar
+   - Indice de prix : 92.16
 
-2. **Gobelet café en carton paquet de 20 pièces**
-   - Prix avant: 9,400 Ar
-   - Prix actuel: 10,200 Ar
-   - Indice de prix : 108.51
+2. **Bloc 5 prises 16A**
+   - Prix avant: 42,500 Ar
+   - Prix actuel: 40,800 Ar
+   - Indice de prix : 96.00
 
-3. **Bonbons en sachet de 50 pièces**
-   - Prix avant: 3,100 Ar
-   - Prix actuel: 3,400 Ar
-   - Indice de prix : 109.68
+3. **Petit pot cocktail fruit 130 g**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 8,100 Ar
+   - Indice de prix : 101.25
 

@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 9922,
-      "prix_base": 52000,
-      "name": "10 Capsules \u00e0 caf\u00e9 Capriccio",
-      "prix_comparaison": 59000,
-      "variation": 7000
+      "list_id": 6540,
+      "prix_base": 277200,
+      "name": "jouet La Bonne Paye",
+      "prix_comparaison": 302400,
+      "variation": 25200
     },
     {
-      "list_id": 9921,
-      "prix_base": 52000,
-      "name": "10 Capsules \u00e0 caf\u00e9 Arpeggio",
-      "prix_comparaison": 59000,
-      "variation": 7000
+      "list_id": 6595,
+      "prix_base": 247200,
+      "name": "jouet Lumi mouton nuit enchant\u00e9e bleu",
+      "prix_comparaison": 269700,
+      "variation": 22500
     },
     {
-      "list_id": 12224,
-      "prix_base": 11400,
-      "name": "Mac\u00e9doine 4/4",
-      "prix_comparaison": 13500,
-      "variation": 2100
+      "list_id": 6575,
+      "prix_base": 179300,
+      "name": "jouet Qui-Est-Ce ?",
+      "prix_comparaison": 195600,
+      "variation": 16300
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 8289,
-      "prix_base": 3100,
-      "name": "Bonbons en sachet de 50 pi\u00e8ces",
-      "prix_comparaison": 3400,
-      "variation": 300
+      "list_id": 6550,
+      "prix_base": 42500,
+      "name": "Bloc 5 prises 16A",
+      "prix_comparaison": 40800,
+      "variation": -1700
     },
     {
-      "list_id": 11244,
-      "prix_base": 4900,
-      "name": "100 disques \u00e0 d\u00e9maquiller",
-      "prix_comparaison": 5600,
-      "variation": 700
+      "list_id": 3827,
+      "prix_base": 10200,
+      "name": "Huile De Soja 1 L",
+      "prix_comparaison": 9400,
+      "variation": -800
     },
     {
-      "list_id": 9042,
-      "prix_base": 9400,
-      "name": "Gobelet caf\u00e9 en carton paquet de 20 pi\u00e8ces",
-      "prix_comparaison": 10200,
-      "variation": 800
+      "list_id": 6553,
+      "prix_base": 8000,
+      "name": "Petit pot cocktail fruit 130 g",
+      "prix_comparaison": 8100,
+      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 10799,
-      "name": "Bonbons Soda Cola sachet de 50 pi\u00e8ces 100 g",
-      "prix_base": 2600,
-      "prix_comparaison": 3960,
-      "indice_prix": 152.30769230769232
+      "list_id": 10655,
+      "name": "Poivrons verts 500 g",
+      "prix_base": 2700,
+      "prix_comparaison": 4100,
+      "indice_prix": 151.85185185185185
     },
     {
-      "list_id": 12224,
-      "name": "Mac\u00e9doine 4/4",
-      "prix_base": 11400,
-      "prix_comparaison": 13500,
-      "indice_prix": 118.42105263157895
+      "list_id": 10648,
+      "name": "Courgettes 500 g",
+      "prix_base": 2300,
+      "prix_comparaison": 2700,
+      "indice_prix": 117.3913043478261
     },
     {
-      "list_id": 11244,
-      "name": "100 disques \u00e0 d\u00e9maquiller",
-      "prix_base": 4900,
-      "prix_comparaison": 5600,
-      "indice_prix": 114.28571428571429
+      "list_id": 10647,
+      "name": "Pommes de terre 500 g",
+      "prix_base": 3100,
+      "prix_comparaison": 3600,
+      "indice_prix": 116.12903225806451
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 4759,
-      "name": "Bouilloire En Verre 3000 W",
-      "prix_base": 161600,
-      "prix_comparaison": 162900,
-      "indice_prix": 100.80445544554455
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10200,
+      "prix_comparaison": 9400,
+      "indice_prix": 92.15686274509804
     },
     {
-      "list_id": 9042,
-      "name": "Gobelet caf\u00e9 en carton paquet de 20 pi\u00e8ces",
-      "prix_base": 9400,
-      "prix_comparaison": 10200,
-      "indice_prix": 108.51063829787235
+      "list_id": 6550,
+      "name": "Bloc 5 prises 16A",
+      "prix_base": 42500,
+      "prix_comparaison": 40800,
+      "indice_prix": 96.0
     },
     {
-      "list_id": 8289,
-      "name": "Bonbons en sachet de 50 pi\u00e8ces",
-      "prix_base": 3100,
-      "prix_comparaison": 3400,
-      "indice_prix": 109.6774193548387
+      "list_id": 6553,
+      "name": "Petit pot cocktail fruit 130 g",
+      "prix_base": 8000,
+      "prix_comparaison": 8100,
+      "indice_prix": 101.25
     }
   ]
 }
