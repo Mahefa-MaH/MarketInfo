@@ -8,69 +8,55 @@
       "variation": 3100
     },
     {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8290,
-      "prix_comparaison": 9990,
-      "variation": 1700
+      "cle": "boissonsinstantanees_13869petitdejeunerinstantaneaucacaomaigreenpoudre800gtopbudget_html",
+      "name": "Petit d\u00e9jeuner instantan\u00e9 au cacao maigre en poudre 800g",
+      "prix_base": 22900,
+      "prix_comparaison": 25900,
+      "variation": 3000
     },
     {
-      "cle": "detergentvaisselle_13843liquidevaissellecitron1ltopbudget_html",
-      "name": "Liquide vaisselle citron 1L",
-      "prix_base": 3500,
-      "prix_comparaison": 4500,
-      "variation": 1000
+      "cle": "boissonsinstantanees_13898boissonsinstantanesgranuleschocolat800gtopbudget_html",
+      "name": "Boissons instantan\u00e9es granul\u00e9s chocolat 800g",
+      "prix_base": 23900,
+      "prix_comparaison": 26900,
+      "variation": 3000
     },
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8290,
-      "prix_comparaison": 8900,
-      "variation": 610
-    },
-    {
-      "cle": "nouilles_7390nouillesseches375g_html",
-      "name": "Nouilles s\u00e8ches 375g",
-      "prix_base": 3900,
-      "prix_comparaison": 4390,
-      "variation": 490
+      "cle": "riz_7289rizblancdeitasy5kg_html",
+      "name": "Riz blanc de l'Itasy 5kg",
+      "prix_base": 15900,
+      "prix_comparaison": 18400,
+      "variation": 2500
     }
   ],
   "prix_diminues": [
     {
-      "cle": "lessiveenpoudreettablette_9301lessiveenpoudrebleuvaoline30g_html",
-      "name": "Lessive en poudre bleu Vaoline 30g",
-      "prix_base": 250,
-      "prix_comparaison": 350,
-      "variation": 100
+      "cle": "smartphones_146901170appleiphone14plusreconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
+      "name": "APPLE iPhone 14 Plus\n                                                  - Reconditionn\u00e9",
+      "prix_base": 3719000,
+      "prix_comparaison": 3347100,
+      "variation": -371900
     },
     {
-      "cle": "lessiveenpoudreettablette_9302lessiveenpoudrevioletvaoline30g_html",
-      "name": "Lessive en poudre violet Vaoline 30g",
-      "prix_base": 250,
-      "prix_comparaison": 350,
-      "variation": 100
+      "cle": "smartphones_14688802appleiphone13promaxreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
+      "name": "APPLE iPhone 13 Pro Max\n                                                  - Reconditionn\u00e9",
+      "prix_base": 3459000,
+      "prix_comparaison": 3113100,
+      "variation": -345900
     },
     {
-      "cle": "nouilles_9292nouilleinstantaneehakacrevettes80g_html",
-      "name": "Nouille instantan\u00e9e Haka crevettes 80g",
-      "prix_base": 950,
-      "prix_comparaison": 1100,
-      "variation": 150
+      "cle": "smartphones_14687528appleiphone13proreconditionne_html_34couleurgraphite_39batterie_neuvenon_40etat_du_telephonebon_etat_47stockage256_go",
+      "name": "APPLE iPhone 13 Pro\n                                                  - Reconditionn\u00e9",
+      "prix_base": 3359000,
+      "prix_comparaison": 3023100,
+      "variation": -335900
     },
     {
-      "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
-      "name": "Nouille instantan\u00e9e Haka poulet 80g",
-      "prix_base": 950,
-      "prix_comparaison": 1100,
-      "variation": 150
-    },
-    {
-      "cle": "nouilles_7390nouillesseches375g_html",
-      "name": "Nouilles s\u00e8ches 375g",
-      "prix_base": 3900,
-      "prix_comparaison": 4390,
-      "variation": 490
+      "cle": "smartphones_146891006appleiphone14reconditionne_html_27couleurminuit_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
+      "name": "APPLE iPhone 14\n                                                  - Reconditionn\u00e9",
+      "prix_base": 3339000,
+      "prix_comparaison": 3005100,
+      "variation": -333900
     }
   ],
   "indices_prix_plus_eleves": [
@@ -101,50 +87,36 @@
       "prix_base": 3500,
       "prix_comparaison": 4500,
       "indice_prix": 128.57142857142858
-    },
-    {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8290,
-      "prix_comparaison": 9990,
-      "indice_prix": 120.50663449939687
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8290,
-      "prix_comparaison": 8900,
-      "indice_prix": 107.35826296743063
+      "cle": "machineacoudre_14224brotherj17smachineacoudremecaniquedesignattractifsimpledutilisationeclairagepuissantparled_html",
+      "name": "BROTHER J17s Machine \u00e0 coudre m\u00e9canique - Design attractif - Simple d'utilisation - Eclairage puissant par LED",
+      "prix_base": 1146000,
+      "prix_comparaison": 939000,
+      "indice_prix": 81.93717277486911
     },
     {
-      "cle": "nouilles_7390nouillesseches375g_html",
-      "name": "Nouilles s\u00e8ches 375g",
-      "prix_base": 3900,
-      "prix_comparaison": 4390,
-      "indice_prix": 112.56410256410257
+      "cle": "promenadevoyage_14033babyonboardsacalangeraccessoiressimplyswirl_html",
+      "name": "BABY ON BOARD Sac a langer + accessoires Simply Swirl",
+      "prix_base": 287000,
+      "prix_comparaison": 249000,
+      "indice_prix": 86.7595818815331
     },
     {
-      "cle": "nouilles_9292nouilleinstantaneehakacrevettes80g_html",
-      "name": "Nouille instantan\u00e9e Haka crevettes 80g",
-      "prix_base": 950,
-      "prix_comparaison": 1100,
-      "indice_prix": 115.78947368421052
+      "cle": "coiffure_13997steampod30lisseurvapeurprofessionnel2en1lorealprofessionnelparis_html",
+      "name": "Steampod 3.0 - Lisseur Vapeur Professionnel 2-en-1 - L'Or\u00e9al Professionnel Paris",
+      "prix_base": 1270000,
+      "prix_comparaison": 1119000,
+      "indice_prix": 88.11023622047244
     },
     {
-      "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
-      "name": "Nouille instantan\u00e9e Haka poulet 80g",
-      "prix_base": 950,
-      "prix_comparaison": 1100,
-      "indice_prix": 115.78947368421052
-    },
-    {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8290,
-      "prix_comparaison": 9990,
-      "indice_prix": 120.50663449939687
+      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1499000,
+      "prix_comparaison": 1349100,
+      "indice_prix": 90.0
     }
   ]
 }

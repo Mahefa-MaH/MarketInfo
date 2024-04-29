@@ -1,34 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 6916,
-      "name": "Diffuseur \u00e9lectrique d'huile essentielle tulipe",
-      "prix_base": 105700,
-      "prix_comparaison": 110300,
-      "variation": 4600
-    },
-    {
-      "list_id": 5075,
-      "name": "riz jasmin Parfum\u00e9 5 kg",
-      "prix_base": 25800,
-      "prix_comparaison": 34500,
-      "variation": 8700
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10200,
+      "prix_comparaison": 9400,
+      "variation": -800
     }
   ],
   "indice de prix": [
     {
-      "list_id": 6916,
-      "name": "Diffuseur \u00e9lectrique d'huile essentielle tulipe",
-      "prix_base": 105700,
-      "prix_comparaison": 110300,
-      "indice_prix": 104.3519394512772
-    },
-    {
-      "list_id": 5075,
-      "name": "riz jasmin Parfum\u00e9 5 kg",
-      "prix_base": 25800,
-      "prix_comparaison": 34500,
-      "indice_prix": 133.72093023255815
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10200,
+      "prix_comparaison": 9400,
+      "indice_prix": 92.15686274509804
     }
   ]
 }
