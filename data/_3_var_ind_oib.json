@@ -13,6 +13,27 @@
       "prix_base": 8290,
       "prix_comparaison": 9990,
       "variation": 1700
+    },
+    {
+      "cle": "detergentvaisselle_13843liquidevaissellecitron1ltopbudget_html",
+      "name": "Liquide vaisselle citron 1L",
+      "prix_base": 3500,
+      "prix_comparaison": 4500,
+      "variation": 1000
+    },
+    {
+      "cle": "huiles_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8290,
+      "prix_comparaison": 8900,
+      "variation": 610
+    },
+    {
+      "cle": "nouilles_7390nouillesseches375g_html",
+      "name": "Nouilles s\u00e8ches 375g",
+      "prix_base": 3900,
+      "prix_comparaison": 4390,
+      "variation": 490
     }
   ],
   "prix_diminues": [
@@ -29,6 +50,27 @@
       "prix_base": 250,
       "prix_comparaison": 350,
       "variation": 100
+    },
+    {
+      "cle": "nouilles_9292nouilleinstantaneehakacrevettes80g_html",
+      "name": "Nouille instantan\u00e9e Haka crevettes 80g",
+      "prix_base": 950,
+      "prix_comparaison": 1100,
+      "variation": 150
+    },
+    {
+      "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
+      "name": "Nouille instantan\u00e9e Haka poulet 80g",
+      "prix_base": 950,
+      "prix_comparaison": 1100,
+      "variation": 150
+    },
+    {
+      "cle": "nouilles_7390nouillesseches375g_html",
+      "name": "Nouilles s\u00e8ches 375g",
+      "prix_base": 3900,
+      "prix_comparaison": 4390,
+      "variation": 490
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +87,27 @@
       "prix_base": 250,
       "prix_comparaison": 350,
       "indice_prix": 140.0
+    },
+    {
+      "cle": "savonmenager_7030savonbarrecitron1kg_html",
+      "name": "Savon barre citron 1kg",
+      "prix_base": 9900,
+      "prix_comparaison": 13000,
+      "indice_prix": 131.31313131313132
+    },
+    {
+      "cle": "detergentvaisselle_13843liquidevaissellecitron1ltopbudget_html",
+      "name": "Liquide vaisselle citron 1L",
+      "prix_base": 3500,
+      "prix_comparaison": 4500,
+      "indice_prix": 128.57142857142858
+    },
+    {
+      "cle": "huiles_11447huiledetournesolspecial1l_html",
+      "name": "Huile de tournesol Sp\u00e9cial 1L",
+      "prix_base": 8290,
+      "prix_comparaison": 9990,
+      "indice_prix": 120.50663449939687
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +124,27 @@
       "prix_base": 3900,
       "prix_comparaison": 4390,
       "indice_prix": 112.56410256410257
+    },
+    {
+      "cle": "nouilles_9292nouilleinstantaneehakacrevettes80g_html",
+      "name": "Nouille instantan\u00e9e Haka crevettes 80g",
+      "prix_base": 950,
+      "prix_comparaison": 1100,
+      "indice_prix": 115.78947368421052
+    },
+    {
+      "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
+      "name": "Nouille instantan\u00e9e Haka poulet 80g",
+      "prix_base": 950,
+      "prix_comparaison": 1100,
+      "indice_prix": 115.78947368421052
+    },
+    {
+      "cle": "huiles_11447huiledetournesolspecial1l_html",
+      "name": "Huile de tournesol Sp\u00e9cial 1L",
+      "prix_base": 8290,
+      "prix_comparaison": 9990,
+      "indice_prix": 120.50663449939687
     }
   ]
 }
