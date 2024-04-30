@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleagranulesetpellets_95544poeleagranulesmodulableinvictanola77kwrendement86noir3244336418741_html",
-      "name": "Poele a granul\u00e9s INVICTA Nola 7 - 7 kW - Rendement 86% - Noir",
-      "prix_base": 10125000,
-      "prix_comparaison": 10125000,
+      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 10487000,
+      "prix_comparaison": 10487000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 19133000,
-      "prix_comparaison": 19133000,
+      "cle": "ensemblesommiermatelas_52218dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x90x200cmmatelasressortsensaches5412618134476_html",
+      "name": "Ensemble matelas + sommiers relaxation \u00e9lectrique - 2x90x200 cm - Matelas ressorts ensach\u00e9s - ERGO 9 Dreamzone - DEKO DREAM",
+      "prix_base": 10825000,
+      "prix_comparaison": 10825000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
-      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
-      "prix_base": 16343000,
-      "prix_comparaison": 16343000,
+      "cle": "ensemblesommiermatelas_52217dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x80x200cmmatelasressortsensaches5412618134469_html",
+      "name": "Ensemble relaxation \u00e9lectrique matelas + sommier - 2x80x200 cm - Matelas ressorts ensach\u00e9s DEKO DREAM ERGO 9 Dreamzone",
+      "prix_base": 10374000,
+      "prix_comparaison": 10374000,
       "variation": 0,
       "indice_prix": 100.0
     }

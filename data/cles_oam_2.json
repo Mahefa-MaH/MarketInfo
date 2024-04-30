@@ -1,18 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
-      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
-      "prix_base": 11560000,
-      "prix_comparaison": 11560000,
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 12357000,
+      "prix_comparaison": 12357000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
-      "name": "Poele a bois en fonte - INVICTA - mandorin",
-      "prix_base": 10763000,
-      "prix_comparaison": 10763000,
+      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
+      "prix_base": 15366000,
+      "prix_comparaison": 15366000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_133174apple14macbookprom3pro2023ram18gostockage512goargentazerty0195949077890_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 11972000,
+      "prix_comparaison": 11972000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104000plaquevibrantereversible820x480mmhonda_html",
-      "name": "Plaque vibrante r\u00e9versible 820x480mm Honda",
-      "prix_base": 21000000,
-      "prix_comparaison": 21000000,
+      "cle": "ordinateurportable_133946apple16macbookprom3max2023ram48gostockage1tonoirsideralazerty0195949185151_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 21350000,
+      "prix_comparaison": 21350000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
-      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
-      "prix_base": 12835000,
-      "prix_comparaison": 12835000,
+      "cle": "ordinateurportable_135417apple16macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949074813_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 17963000,
+      "prix_comparaison": 17963000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
+      "cle": "ordinateurportable_133947apple16macbookprom3max2023ram48gostockage1toargentazerty0195949185601_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 21350000,
+      "prix_comparaison": 21350000,
       "variation": 0,
       "indice_prix": 100.0
     }

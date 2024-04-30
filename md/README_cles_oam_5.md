@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Plaque vibrante réversible 820x480mm Honda**
-   - Prix avant: 21,000,000 Ar
-   - Prix actuel: 21,000,000 Ar
+1. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 21,350,000 Ar
+   - Prix actuel: 21,350,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Armoire a fusils Ranger BURG-WÄCHTER 800/8 K**
-   - Prix avant: 12,835,000 Ar
-   - Prix actuel: 12,835,000 Ar
+2. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 17,963,000 Ar
+   - Prix actuel: 17,963,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Echafaudage roulant Neolium 200 Line 14m**
-   - Prix avant: 37,000,000 Ar
-   - Prix actuel: 37,000,000 Ar
+3. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 21,350,000 Ar
+   - Prix actuel: 21,350,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

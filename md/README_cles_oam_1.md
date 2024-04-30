@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Poele a granulés INVICTA Nola 7 - 7 kW - Rendement 86% - Noir**
-   - Prix avant: 10,125,000 Ar
-   - Prix actuel: 10,125,000 Ar
+1. **Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 10,487,000 Ar
+   - Prix actuel: 10,487,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magnésium - Classe énergétique A+**
-   - Prix avant: 19,133,000 Ar
-   - Prix actuel: 19,133,000 Ar
+2. **Ensemble matelas + sommiers relaxation électrique - 2x90x200 cm - Matelas ressorts ensachés - ERGO 9 Dreamzone - DEKO DREAM**
+   - Prix avant: 10,825,000 Ar
+   - Prix actuel: 10,825,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magnésium**
-   - Prix avant: 16,343,000 Ar
-   - Prix actuel: 16,343,000 Ar
+3. **Ensemble relaxation électrique matelas + sommier - 2x80x200 cm - Matelas ressorts ensachés DEKO DREAM ERGO 9 Dreamzone**
+   - Prix avant: 10,374,000 Ar
+   - Prix actuel: 10,374,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

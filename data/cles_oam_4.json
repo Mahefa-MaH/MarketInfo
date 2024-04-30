@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
-      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
-      "prix_base": 12500000,
-      "prix_comparaison": 12500000,
+      "cle": "ordinateurportable_133931apple14macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949077456_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 19095000,
+      "prix_comparaison": 19095000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
-      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "ordinateurportable_133933apple14macbookprom3max2023ram36gostockage1toargentazerty0195949078774_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 19143000,
+      "prix_comparaison": 19143000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "electricitedomotique_120268onduleurapceasyupssrv6000va230vavecbatterieexterne_html",
-      "name": "Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe",
-      "prix_base": 11000000,
-      "prix_comparaison": 11000000,
+      "cle": "ordinateurportable_133171apple16macbookprom3pro2023ram36gostockage512gonoirsideralazerty0195949074370_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 16561000,
+      "prix_comparaison": 16561000,
       "variation": 0,
       "indice_prix": 100.0
     }

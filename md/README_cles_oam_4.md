@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Betonnière 290L essence GX 160 Honda (BET.350L-RG-LAT)**
-   - Prix avant: 12,500,000 Ar
-   - Prix actuel: 12,500,000 Ar
+1. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 19,095,000 Ar
+   - Prix actuel: 19,095,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Betonnière tractable 290 L avec moteur électrique de 2CV**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+2. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 19,143,000 Ar
+   - Prix actuel: 19,143,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe**
-   - Prix avant: 11,000,000 Ar
-   - Prix actuel: 11,000,000 Ar
+3. **Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Noir sidéral - Azerty**
+   - Prix avant: 16,561,000 Ar
+   - Prix actuel: 16,561,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
