@@ -8,6 +8,13 @@
       "variation": 2000
     },
     {
+      "cle": "vaissellesjetables_7421gobeletpetfast2530claveccouvercle50pieces_html",
+      "name": "Gobelet PET Fast 25-30cl avec couvercle 50 pi\u00e8ces",
+      "prix_base": 64500,
+      "prix_comparaison": 66000,
+      "variation": 1500
+    },
+    {
       "cle": "huiles_12241huiledecolza1lboutondor_html",
       "name": "Huile de colza 1L",
       "prix_base": 13900,
@@ -57,6 +64,13 @@
       "prix_base": 5900,
       "prix_comparaison": 6900,
       "variation": 1000
+    },
+    {
+      "cle": "huiles_12241huiledecolza1lboutondor_html",
+      "name": "Huile de colza 1L",
+      "prix_base": 13900,
+      "prix_comparaison": 14900,
+      "variation": 1000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,6 +94,13 @@
       "prix_base": 13900,
       "prix_comparaison": 14900,
       "indice_prix": 107.19424460431655
+    },
+    {
+      "cle": "vaissellesjetables_7421gobeletpetfast2530claveccouvercle50pieces_html",
+      "name": "Gobelet PET Fast 25-30cl avec couvercle 50 pi\u00e8ces",
+      "prix_base": 64500,
+      "prix_comparaison": 66000,
+      "indice_prix": 102.32558139534883
     },
     {
       "cle": "pates_1655spaghetticuissonparfaite500g_html",
@@ -110,6 +131,13 @@
       "prix_base": 5800,
       "prix_comparaison": 5900,
       "indice_prix": 101.72413793103448
+    },
+    {
+      "cle": "vaissellesjetables_7421gobeletpetfast2530claveccouvercle50pieces_html",
+      "name": "Gobelet PET Fast 25-30cl avec couvercle 50 pi\u00e8ces",
+      "prix_base": 64500,
+      "prix_comparaison": 66000,
+      "indice_prix": 102.32558139534883
     },
     {
       "cle": "huiles_12241huiledecolza1lboutondor_html",

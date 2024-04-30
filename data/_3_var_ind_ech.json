@@ -1,108 +1,86 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_vindepaysdocarcadiamerlot75cl13dalcool_",
-      "name": "Vin de Pays d\u2019OC Arcadia Merlot 75Cl  | 13% d\u2019alcool",
-      "prix_base": 40260,
-      "prix_comparaison": 46328,
-      "variation": 6068
-    },
-    {
-      "cle": "produit_bossedeboeufoutrafonyenviron500gspecialementhalal_",
-      "name": "Bosse de Boeuf ou Trafony Environ  500g LeaderPrice\u2122| Sp\u00e9cialement Halal",
-      "prix_base": 13000,
-      "prix_comparaison": 14000,
-      "variation": 1000
-    },
-    {
-      "cle": "produit_chouchoute1kgsosety_",
-      "name": "Chouchoute 1kg | Sosety",
-      "prix_base": 1400,
-      "prix_comparaison": 1600,
-      "variation": 200
-    },
-    {
-      "cle": "produit_tissam1kgbredes2_",
-      "name": "Tissam 1kg | Br\u00e8des",
-      "prix_base": 1600,
-      "prix_comparaison": 1644,
-      "variation": 44
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_tissam1kgbredes2_",
-      "name": "Tissam 1kg | Br\u00e8des",
-      "prix_base": 1600,
-      "prix_comparaison": 1644,
-      "variation": 44
+      "cle": "produit_oeufsvolaille65g_",
+      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
+      "prix_base": 12770,
+      "prix_comparaison": 11740,
+      "variation": -1030
     },
     {
-      "cle": "produit_chouchoute1kgsosety_",
-      "name": "Chouchoute 1kg | Sosety",
-      "prix_base": 1400,
-      "prix_comparaison": 1600,
-      "variation": 200
+      "cle": "produit_ingredientsflanaucaramel_",
+      "name": "Ingr\u00e9dients flan au caramel",
+      "prix_base": 6560,
+      "prix_comparaison": 5800,
+      "variation": -760
     },
     {
-      "cle": "produit_bossedeboeufoutrafonyenviron500gspecialementhalal_",
-      "name": "Bosse de Boeuf ou Trafony Environ  500g LeaderPrice\u2122| Sp\u00e9cialement Halal",
-      "prix_base": 13000,
-      "prix_comparaison": 14000,
-      "variation": 1000
+      "cle": "produit_ingredientsflanpatissiersanspate_",
+      "name": "Ingr\u00e9dients flan p\u00e2tissier sans p\u00e2te",
+      "prix_base": 6560,
+      "prix_comparaison": 5800,
+      "variation": -760
     },
     {
-      "cle": "produit_vindepaysdocarcadiamerlot75cl13dalcool_",
-      "name": "Vin de Pays d\u2019OC Arcadia Merlot 75Cl  | 13% d\u2019alcool",
-      "prix_base": 40260,
-      "prix_comparaison": 46328,
-      "variation": 6068
+      "cle": "produit_ingredientspourcrepes_",
+      "name": "Ingr\u00e9dients pour cr\u00eapes",
+      "prix_base": 6560,
+      "prix_comparaison": 5800,
+      "variation": -760
+    },
+    {
+      "cle": "produit_oeufdevolaillevonjypackde6grosoeufsdeplusde63g_",
+      "name": "Oeuf de volaille Vonjy\u2122 Pack de 6",
+      "prix_base": 6560,
+      "prix_comparaison": 5800,
+      "variation": -760
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_vindepaysdocarcadiamerlot75cl13dalcool_",
-      "name": "Vin de Pays d\u2019OC Arcadia Merlot 75Cl  | 13% d\u2019alcool",
-      "prix_base": 40260,
-      "prix_comparaison": 46328,
-      "indice_prix": 115.07203179334327
+      "cle": "produit_oeufsvolaille65g_",
+      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
+      "prix_base": 12770,
+      "prix_comparaison": 11740,
+      "indice_prix": 91.93422083007047
     },
     {
-      "cle": "produit_chouchoute1kgsosety_",
-      "name": "Chouchoute 1kg | Sosety",
-      "prix_base": 1400,
-      "prix_comparaison": 1600,
-      "indice_prix": 114.28571428571429
+      "cle": "produit_tamponsabrasifsalbapaquetde5_",
+      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
+      "prix_base": 5430,
+      "prix_comparaison": 4920,
+      "indice_prix": 90.60773480662984
     },
     {
-      "cle": "produit_bossedeboeufoutrafonyenviron500gspecialementhalal_",
-      "name": "Bosse de Boeuf ou Trafony Environ  500g LeaderPrice\u2122| Sp\u00e9cialement Halal",
-      "prix_base": 13000,
-      "prix_comparaison": 14000,
-      "indice_prix": 107.6923076923077
+      "cle": "produit_oeufdevolaillevonjypackde6grosoeufsdeplusde63g_",
+      "name": "Oeuf de volaille Vonjy\u2122 Pack de 6",
+      "prix_base": 6560,
+      "prix_comparaison": 5800,
+      "indice_prix": 88.41463414634147
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_tissam1kgbredes2_",
-      "name": "Tissam 1kg | Br\u00e8des",
-      "prix_base": 1600,
-      "prix_comparaison": 1644,
-      "indice_prix": 102.75
+      "cle": "produit_ingredientsflanaucaramel_",
+      "name": "Ingr\u00e9dients flan au caramel",
+      "prix_base": 6560,
+      "prix_comparaison": 5800,
+      "indice_prix": 88.41463414634147
     },
     {
-      "cle": "produit_bossedeboeufoutrafonyenviron500gspecialementhalal_",
-      "name": "Bosse de Boeuf ou Trafony Environ  500g LeaderPrice\u2122| Sp\u00e9cialement Halal",
-      "prix_base": 13000,
-      "prix_comparaison": 14000,
-      "indice_prix": 107.6923076923077
+      "cle": "produit_ingredientsflanpatissiersanspate_",
+      "name": "Ingr\u00e9dients flan p\u00e2tissier sans p\u00e2te",
+      "prix_base": 6560,
+      "prix_comparaison": 5800,
+      "indice_prix": 88.41463414634147
     },
     {
-      "cle": "produit_chouchoute1kgsosety_",
-      "name": "Chouchoute 1kg | Sosety",
-      "prix_base": 1400,
-      "prix_comparaison": 1600,
-      "indice_prix": 114.28571428571429
+      "cle": "produit_ingredientspourcrepes_",
+      "name": "Ingr\u00e9dients pour cr\u00eapes",
+      "prix_base": 6560,
+      "prix_comparaison": 5800,
+      "indice_prix": 88.41463414634147
     }
   ]
 }

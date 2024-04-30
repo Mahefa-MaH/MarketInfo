@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 6540,
-      "prix_base": 277200,
-      "name": "jouet La Bonne Paye",
-      "prix_comparaison": 302400,
-      "variation": 25200
+      "list_id": 8402,
+      "prix_base": 2235600,
+      "name": "Baby Foot SZX - S03",
+      "prix_comparaison": 2798400,
+      "variation": 562800
     },
     {
-      "list_id": 6595,
-      "prix_base": 247200,
-      "name": "jouet Lumi mouton nuit enchant\u00e9e bleu",
-      "prix_comparaison": 269700,
-      "variation": 22500
+      "list_id": 9144,
+      "prix_base": 84000,
+      "name": "Bi\u00e8re Bouteille 33 cl x 24 pi\u00e8ces avec cageot consign\u00e9",
+      "prix_comparaison": 89300,
+      "variation": 5300
     },
     {
-      "list_id": 6575,
-      "prix_base": 179300,
-      "name": "jouet Qui-Est-Ce ?",
-      "prix_comparaison": 195600,
-      "variation": 16300
+      "list_id": 639,
+      "prix_base": 62800,
+      "name": "Guipure & Silk Ylang Vanille 100 ml",
+      "prix_comparaison": 66800,
+      "variation": 4000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 6550,
-      "prix_base": 42500,
-      "name": "Bloc 5 prises 16A",
-      "prix_comparaison": 40800,
-      "variation": -1700
+      "list_id": 639,
+      "prix_base": 62800,
+      "name": "Guipure & Silk Ylang Vanille 100 ml",
+      "prix_comparaison": 66800,
+      "variation": 4000
     },
     {
-      "list_id": 3827,
-      "prix_base": 10200,
-      "name": "Huile De Soja 1 L",
-      "prix_comparaison": 9400,
-      "variation": -800
+      "list_id": 9144,
+      "prix_base": 84000,
+      "name": "Bi\u00e8re Bouteille 33 cl x 24 pi\u00e8ces avec cageot consign\u00e9",
+      "prix_comparaison": 89300,
+      "variation": 5300
     },
     {
-      "list_id": 6553,
-      "prix_base": 8000,
-      "name": "Petit pot cocktail fruit 130 g",
-      "prix_comparaison": 8100,
-      "variation": 100
+      "list_id": 8402,
+      "prix_base": 2235600,
+      "name": "Baby Foot SZX - S03",
+      "prix_comparaison": 2798400,
+      "variation": 562800
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 10655,
-      "name": "Poivrons verts 500 g",
-      "prix_base": 2700,
-      "prix_comparaison": 4100,
-      "indice_prix": 151.85185185185185
+      "list_id": 8402,
+      "name": "Baby Foot SZX - S03",
+      "prix_base": 2235600,
+      "prix_comparaison": 2798400,
+      "indice_prix": 125.17444981213097
     },
     {
-      "list_id": 10648,
-      "name": "Courgettes 500 g",
-      "prix_base": 2300,
-      "prix_comparaison": 2700,
-      "indice_prix": 117.3913043478261
+      "list_id": 639,
+      "name": "Guipure & Silk Ylang Vanille 100 ml",
+      "prix_base": 62800,
+      "prix_comparaison": 66800,
+      "indice_prix": 106.36942675159236
     },
     {
-      "list_id": 10647,
-      "name": "Pommes de terre 500 g",
-      "prix_base": 3100,
-      "prix_comparaison": 3600,
-      "indice_prix": 116.12903225806451
+      "list_id": 9144,
+      "name": "Bi\u00e8re Bouteille 33 cl x 24 pi\u00e8ces avec cageot consign\u00e9",
+      "prix_base": 84000,
+      "prix_comparaison": 89300,
+      "indice_prix": 106.30952380952381
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 10200,
-      "prix_comparaison": 9400,
-      "indice_prix": 92.15686274509804
+      "list_id": 9144,
+      "name": "Bi\u00e8re Bouteille 33 cl x 24 pi\u00e8ces avec cageot consign\u00e9",
+      "prix_base": 84000,
+      "prix_comparaison": 89300,
+      "indice_prix": 106.30952380952381
     },
     {
-      "list_id": 6550,
-      "name": "Bloc 5 prises 16A",
-      "prix_base": 42500,
-      "prix_comparaison": 40800,
-      "indice_prix": 96.0
+      "list_id": 639,
+      "name": "Guipure & Silk Ylang Vanille 100 ml",
+      "prix_base": 62800,
+      "prix_comparaison": 66800,
+      "indice_prix": 106.36942675159236
     },
     {
-      "list_id": 6553,
-      "name": "Petit pot cocktail fruit 130 g",
-      "prix_base": 8000,
-      "prix_comparaison": 8100,
-      "indice_prix": 101.25
+      "list_id": 8402,
+      "name": "Baby Foot SZX - S03",
+      "prix_base": 2235600,
+      "prix_comparaison": 2798400,
+      "indice_prix": 125.17444981213097
     }
   ]
 }

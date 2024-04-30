@@ -2,93 +2,37 @@
   "prix_augmentes": [
     {
       "cle": "home_jspbutvente_fichecleproduitprod002938",
-      "name": "Paille de fer",
-      "prix_base": 200,
-      "prix_comparaison": 5600,
-      "variation": 5400
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009231",
-      "name": "Nickel - Lave vitre - 1l",
-      "prix_base": 4900,
-      "prix_comparaison": 5300,
-      "variation": 400
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009197",
-      "name": "WINDA - Papier Toilette - 6 Rouleaux",
-      "prix_base": 4300,
-      "prix_comparaison": 3300,
-      "variation": -1000
+      "name": "Paille de fer - Paquet de 12",
+      "prix_base": 5600,
+      "prix_comparaison": 500,
+      "variation": -5100
     }
   ],
   "prix_diminues": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009197",
-      "name": "WINDA - Papier Toilette - 6 Rouleaux",
-      "prix_base": 4300,
-      "prix_comparaison": 3300,
-      "variation": -1000
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009231",
-      "name": "Nickel - Lave vitre - 1l",
-      "prix_base": 4900,
-      "prix_comparaison": 5300,
-      "variation": 400
-    },
-    {
       "cle": "home_jspbutvente_fichecleproduitprod002938",
-      "name": "Paille de fer",
-      "prix_base": 200,
-      "prix_comparaison": 5600,
-      "variation": 5400
+      "name": "Paille de fer - Paquet de 12",
+      "prix_base": 5600,
+      "prix_comparaison": 500,
+      "variation": -5100
     }
   ],
   "indices_prix_plus_eleves": [
     {
       "cle": "home_jspbutvente_fichecleproduitprod002938",
-      "name": "Paille de fer",
-      "prix_base": 200,
-      "prix_comparaison": 5600,
-      "indice_prix": 2800.0
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009231",
-      "name": "Nickel - Lave vitre - 1l",
-      "prix_base": 4900,
-      "prix_comparaison": 5300,
-      "indice_prix": 108.16326530612245
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009197",
-      "name": "WINDA - Papier Toilette - 6 Rouleaux",
-      "prix_base": 4300,
-      "prix_comparaison": 3300,
-      "indice_prix": 76.74418604651163
+      "name": "Paille de fer - Paquet de 12",
+      "prix_base": 5600,
+      "prix_comparaison": 500,
+      "indice_prix": 8.928571428571429
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "home_jspbutvente_fichecleproduitprod009197",
-      "name": "WINDA - Papier Toilette - 6 Rouleaux",
-      "prix_base": 4300,
-      "prix_comparaison": 3300,
-      "indice_prix": 76.74418604651163
-    },
-    {
-      "cle": "home_jspbutvente_fichecleproduitprod009231",
-      "name": "Nickel - Lave vitre - 1l",
-      "prix_base": 4900,
-      "prix_comparaison": 5300,
-      "indice_prix": 108.16326530612245
-    },
-    {
       "cle": "home_jspbutvente_fichecleproduitprod002938",
-      "name": "Paille de fer",
-      "prix_base": 200,
-      "prix_comparaison": 5600,
-      "indice_prix": 2800.0
+      "name": "Paille de fer - Paquet de 12",
+      "prix_base": 5600,
+      "prix_comparaison": 500,
+      "indice_prix": 8.928571428571429
     }
   ]
 }

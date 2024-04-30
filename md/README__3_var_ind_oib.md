@@ -7,17 +7,22 @@
    - Prix actuel: 16,900 Ar
    - Variation: +2,000 Ar
 
-2. **Huile de colza 1L**
+2. **Gobelet PET Fast 25-30cl avec couvercle 50 pièces**
+   - Prix avant: 64,500 Ar
+   - Prix actuel: 66,000 Ar
+   - Variation: +1,500 Ar
+
+3. **Huile de colza 1L**
    - Prix avant: 13,900 Ar
    - Prix actuel: 14,900 Ar
    - Variation: +1,000 Ar
 
-3. **Gel douche men tonic vivifiant 250ml**
+4. **Gel douche men tonic vivifiant 250ml**
    - Prix avant: 5,900 Ar
    - Prix actuel: 6,900 Ar
    - Variation: +1,000 Ar
 
-4. **Spaghetti cuisson parfaite 500g**
+5. **Spaghetti cuisson parfaite 500g**
    - Prix avant: 5,800 Ar
    - Prix actuel: 5,900 Ar
    - Variation: +100 Ar
@@ -44,6 +49,11 @@
    - Prix actuel: 6,900 Ar
    - Variation: +1,000 Ar
 
+5. **Huile de colza 1L**
+   - Prix avant: 13,900 Ar
+   - Prix actuel: 14,900 Ar
+   - Variation: +1,000 Ar
+
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Gel douche men tonic vivifiant 250ml**
@@ -61,7 +71,12 @@
    - Prix actuel: 14,900 Ar
    - Indice de prix : 107.19
 
-4. **Spaghetti cuisson parfaite 500g**
+4. **Gobelet PET Fast 25-30cl avec couvercle 50 pièces**
+   - Prix avant: 64,500 Ar
+   - Prix actuel: 66,000 Ar
+   - Indice de prix : 102.33
+
+5. **Spaghetti cuisson parfaite 500g**
    - Prix avant: 5,800 Ar
    - Prix actuel: 5,900 Ar
    - Indice de prix : 101.72
@@ -83,7 +98,12 @@
    - Prix actuel: 5,900 Ar
    - Indice de prix : 101.72
 
-4. **Huile de colza 1L**
+4. **Gobelet PET Fast 25-30cl avec couvercle 50 pièces**
+   - Prix avant: 64,500 Ar
+   - Prix actuel: 66,000 Ar
+   - Indice de prix : 102.33
+
+5. **Huile de colza 1L**
    - Prix avant: 13,900 Ar
    - Prix actuel: 14,900 Ar
    - Indice de prix : 107.19
