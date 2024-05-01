@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
-      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
-      "prix_base": 12357000,
-      "prix_comparaison": 12357000,
+      "cle": "tondeuse_88490tondeuserobotgardenasilenolife125015103264078500043816_html",
+      "name": "Tondeuse robot connect\u00e9e Bluetooth GARDENA SILENO life 1250 - 1250 m\u00b2 - 15103-26",
+      "prix_base": 10159000,
+      "prix_comparaison": 10159000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
-      "prix_base": 15366000,
-      "prix_comparaison": 15366000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ordinateurportable_133174apple14macbookprom3pro2023ram18gostockage512goargentazerty0195949077890_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 11972000,
-      "prix_comparaison": 11972000,
+      "cle": "tondeuse_95365gardenatondeuserobotsmartsilenolife1000tondsouslapluieetpassagesetroitsappsilencieuxrobotdetonte4078500060592_html",
+      "name": "GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages \u00e9troits, App, Silencieux, Robot de Tonte",
+      "prix_base": 11121000,
+      "prix_comparaison": 11121000,
       "variation": 0,
       "indice_prix": 100.0
     }

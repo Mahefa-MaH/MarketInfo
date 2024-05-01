@@ -1,12 +1,20 @@
 {
   "Variation de prix": [
     {
+      "cle": "riz_15213rizdiamante5kg_html",
+      "name": "Riz blanc diamante 5Kg",
+      "prix_base": 19300,
+      "prix_comparaison": 19300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "riz_7289rizblancdeitasy5kg_html",
       "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 15900,
+      "prix_base": 18400,
       "prix_comparaison": 18400,
-      "variation": 2500,
-      "indice_prix": 115.72327044025157
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
