@@ -1,76 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "variation": 660
-    },
-    {
-      "cle": "produit_chewinggumsanssucrewhitementhefortefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "variation": 660
-    },
-    {
-      "cle": "produit_chewinggumsanssucrewhitementhegivreefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Givr\u00e9e Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "variation": 660
-    },
-    {
-      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedentbouteillede46dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent Bouteille de 46 Dragees",
-      "prix_base": 15380,
-      "prix_comparaison": 18460,
-      "variation": 3080
-    },
-    {
-      "cle": "produit_chewinggumsanssucrewhitementhevertefreedentbouteillede46dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Verte Freedent Bouteille de 46 Dragees",
-      "prix_base": 15380,
-      "prix_comparaison": 18460,
-      "variation": 3080
+      "cle": "produit_laitconcentresucresocolait1kgricheenvitaminesi_",
+      "name": "Lait concentr\u00e9 sucr\u00e9 Socolait\u2122 1kg",
+      "prix_base": 18000,
+      "prix_comparaison": 21320,
+      "variation": 3320
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "indice_prix": 119.93957703927492
-    },
-    {
-      "cle": "produit_chewinggumsanssucrewhitementhefortefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Forte Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "indice_prix": 119.93957703927492
-    },
-    {
-      "cle": "produit_chewinggumsanssucrewhitementhegivreefreedent10dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Givr\u00e9e Freedent 10 Dragees",
-      "prix_base": 3310,
-      "prix_comparaison": 3970,
-      "indice_prix": 119.93957703927492
-    },
-    {
-      "cle": "produit_chewinggumsanssucrewhitementhedoucefreedentbouteillede46dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Douce Freedent Bouteille de 46 Dragees",
-      "prix_base": 15380,
-      "prix_comparaison": 18460,
-      "indice_prix": 120.0260078023407
-    },
-    {
-      "cle": "produit_chewinggumsanssucrewhitementhevertefreedentbouteillede46dragees_",
-      "name": "Chewing-Gum Sans Sucre White Menthe Verte Freedent Bouteille de 46 Dragees",
-      "prix_base": 15380,
-      "prix_comparaison": 18460,
-      "indice_prix": 120.0260078023407
+      "cle": "produit_laitconcentresucresocolait1kgricheenvitaminesi_",
+      "name": "Lait concentr\u00e9 sucr\u00e9 Socolait\u2122 1kg",
+      "prix_base": 18000,
+      "prix_comparaison": 21320,
+      "indice_prix": 118.44444444444444
     }
   ]
 }
