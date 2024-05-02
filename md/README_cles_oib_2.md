@@ -2,21 +2,21 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz makalioka 1kg**
-   - Prix avant: 4,350 Ar
-   - Prix actuel: 4,350 Ar
+1. **Sucre blanc en morceaux 1kg**
+   - Prix avant: 14,900 Ar
+   - Prix actuel: 14,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz makalioka 5kg**
-   - Prix avant: 21,750 Ar
-   - Prix actuel: 21,750 Ar
+2. **Farine pour  pain blanc 1kg**
+   - Prix avant: 8,500 Ar
+   - Prix actuel: 8,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz Makalioka sac de 1kg**
-   - Prix avant: 4,490 Ar
-   - Prix actuel: 4,490 Ar
+3. **Huile de soja Hina 20L**
+   - Prix avant: 179,400 Ar
+   - Prix actuel: 179,400 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
