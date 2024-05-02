@@ -1,29 +1,50 @@
 {
   "prix_augmentes": [
     {
-      "cle": "nectarsdefruits_1099nectarmultifruit20cl_html",
-      "name": "Nectar Multifruit 20cl",
-      "prix_base": 1900,
-      "prix_comparaison": 1790,
-      "variation": -110
+      "cle": "confiseriesauchocolat_1195pastillesmmscacahuetes100g_html",
+      "name": "Pastilles m&m's cacahuetes 100g",
+      "prix_base": 9490,
+      "prix_comparaison": 10500,
+      "variation": 1010
     },
     {
-      "cle": "jusdefruitsfruitsgoutersdesserts_8885monpremieryaourt100g_html",
-      "name": "Mon premier yaourt 100g",
-      "prix_base": 1090,
-      "prix_comparaison": 950,
-      "variation": -140
+      "cle": "fromages_15111fromageyama100g_html",
+      "name": "Fromage yama 100g",
+      "prix_base": 3600,
+      "prix_comparaison": 4200,
+      "variation": 600
     },
     {
-      "cle": "compotes_13007compotepommepommefraiseallegeeensucres12x90gpaquito_html",
-      "name": "Compote pomme et pomme fraise all\u00e9g\u00e9e en sucres 12x90g",
-      "prix_base": 31200,
-      "prix_comparaison": 27500,
-      "variation": -3700
+      "cle": "confiseriesauchocolat_1956pastillesmmscacahuetes45gx24_html",
+      "name": "Pastilles m&m's cacahu\u00e8tes 45g",
+      "prix_base": 4400,
+      "prix_comparaison": 4900,
+      "variation": 500
+    },
+    {
+      "cle": "confiseriesauchocolat_1952barredechocolataulaitbounty57g_html",
+      "name": "Barre de chocolat au lait bounty 57g",
+      "prix_base": 3290,
+      "prix_comparaison": 3650,
+      "variation": 360
+    },
+    {
+      "cle": "confiseriesauchocolat_1953barrechocomarsnoir50grx24_html",
+      "name": "Barre de chocolat noir 50g",
+      "prix_base": 3190,
+      "prix_comparaison": 3500,
+      "variation": 310
     }
   ],
   "prix_diminues": [
     {
+      "cle": "fromagesfondusetatartiner_707fromagebabybelcirerouge200g_html",
+      "name": "Fromage babybel cire rouge 200g",
+      "prix_base": 26600,
+      "prix_comparaison": 21000,
+      "variation": -5600
+    },
+    {
       "cle": "compotes_13007compotepommepommefraiseallegeeensucres12x90gpaquito_html",
       "name": "Compote pomme et pomme fraise all\u00e9g\u00e9e en sucres 12x90g",
       "prix_base": 31200,
@@ -31,64 +52,99 @@
       "variation": -3700
     },
     {
-      "cle": "jusdefruitsfruitsgoutersdesserts_8885monpremieryaourt100g_html",
-      "name": "Mon premier yaourt 100g",
-      "prix_base": 1090,
-      "prix_comparaison": 950,
-      "variation": -140
+      "cle": "fromagesduresetrapes_732fromageminibabybelfilet5pieces_html",
+      "name": "Fromage mini babybel filet 5 pi\u00e8ces",
+      "prix_base": 17990,
+      "prix_comparaison": 14500,
+      "variation": -3490
     },
     {
-      "cle": "nectarsdefruits_1099nectarmultifruit20cl_html",
-      "name": "Nectar Multifruit 20cl",
-      "prix_base": 1900,
-      "prix_comparaison": 1790,
-      "variation": -110
+      "cle": "bonbonsgelifiesetacidules_8758bonbonsbeans85g_html",
+      "name": "Bonbons beans 85g",
+      "prix_base": 4500,
+      "prix_comparaison": 3400,
+      "variation": -1100
+    },
+    {
+      "cle": "bonbonsgelifiesetacidules_168bonbonsassortisgalaxymix100g_html",
+      "name": "Bonbons assortis galaxy mix 100g",
+      "prix_base": 4500,
+      "prix_comparaison": 3400,
+      "variation": -1100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "nectarsdefruits_1099nectarmultifruit20cl_html",
-      "name": "Nectar Multifruit 20cl",
-      "prix_base": 1900,
-      "prix_comparaison": 1790,
-      "indice_prix": 94.21052631578948
+      "cle": "cookiesetbrownies_5684biscuitscookies_html",
+      "name": "Biscuits cookies",
+      "prix_base": 800,
+      "prix_comparaison": 1000,
+      "indice_prix": 125.0
     },
     {
-      "cle": "compotes_13007compotepommepommefraiseallegeeensucres12x90gpaquito_html",
-      "name": "Compote pomme et pomme fraise all\u00e9g\u00e9e en sucres 12x90g",
-      "prix_base": 31200,
-      "prix_comparaison": 27500,
-      "indice_prix": 88.14102564102564
+      "cle": "fromages_15111fromageyama100g_html",
+      "name": "Fromage yama 100g",
+      "prix_base": 3600,
+      "prix_comparaison": 4200,
+      "indice_prix": 116.66666666666667
     },
     {
-      "cle": "jusdefruitsfruitsgoutersdesserts_8885monpremieryaourt100g_html",
-      "name": "Mon premier yaourt 100g",
-      "prix_base": 1090,
-      "prix_comparaison": 950,
-      "indice_prix": 87.1559633027523
+      "cle": "yaourtsauxfruits_1858yaourtofruitsexotique100g_html",
+      "name": "Yaourt O'fruits exotique 100g",
+      "prix_base": 1290,
+      "prix_comparaison": 1490,
+      "indice_prix": 115.50387596899225
+    },
+    {
+      "cle": "confiseriesauchocolat_1956pastillesmmscacahuetes45gx24_html",
+      "name": "Pastilles m&m's cacahu\u00e8tes 45g",
+      "prix_base": 4400,
+      "prix_comparaison": 4900,
+      "indice_prix": 111.36363636363636
+    },
+    {
+      "cle": "confiseriesauchocolat_1952barredechocolataulaitbounty57g_html",
+      "name": "Barre de chocolat au lait bounty 57g",
+      "prix_base": 3290,
+      "prix_comparaison": 3650,
+      "indice_prix": 110.94224924012158
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "jusdefruitsfruitsgoutersdesserts_8885monpremieryaourt100g_html",
-      "name": "Mon premier yaourt 100g",
-      "prix_base": 1090,
-      "prix_comparaison": 950,
-      "indice_prix": 87.1559633027523
+      "cle": "bonbonsgelifiesetacidules_8758bonbonsbeans85g_html",
+      "name": "Bonbons beans 85g",
+      "prix_base": 4500,
+      "prix_comparaison": 3400,
+      "indice_prix": 75.55555555555556
     },
     {
-      "cle": "compotes_13007compotepommepommefraiseallegeeensucres12x90gpaquito_html",
-      "name": "Compote pomme et pomme fraise all\u00e9g\u00e9e en sucres 12x90g",
-      "prix_base": 31200,
-      "prix_comparaison": 27500,
-      "indice_prix": 88.14102564102564
+      "cle": "bonbonsgelifiesetacidules_168bonbonsassortisgalaxymix100g_html",
+      "name": "Bonbons assortis galaxy mix 100g",
+      "prix_base": 4500,
+      "prix_comparaison": 3400,
+      "indice_prix": 75.55555555555556
     },
     {
-      "cle": "nectarsdefruits_1099nectarmultifruit20cl_html",
-      "name": "Nectar Multifruit 20cl",
-      "prix_base": 1900,
-      "prix_comparaison": 1790,
-      "indice_prix": 94.21052631578948
+      "cle": "bonbonsgelifiesetacidules_173cinemamix12x100g_html",
+      "name": "Bonbons cin\u00e9ma mix 100g",
+      "prix_base": 4500,
+      "prix_comparaison": 3400,
+      "indice_prix": 75.55555555555556
+    },
+    {
+      "cle": "bonbonsgelifiesetacidules_167sugaredcrocodiles12bagsx100g_html",
+      "name": "Bonbons jelly crocodiles 100g",
+      "prix_base": 4500,
+      "prix_comparaison": 3400,
+      "indice_prix": 75.55555555555556
+    },
+    {
+      "cle": "bonbonsgelifiesetacidules_181sourlittlemix12x100g_html",
+      "name": "Bonbons sour little mix 100g",
+      "prix_base": 4500,
+      "prix_comparaison": 3400,
+      "indice_prix": 75.55555555555556
     }
   ]
 }

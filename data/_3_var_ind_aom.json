@@ -1,38 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "artderecevoir_20536livrederecetteswebervamosalaplancha3010000075622_html",
-      "name": "Livre de recettes WEBER Vamos a la Plancha",
-      "prix_base": 252000,
-      "prix_comparaison": 259000,
-      "variation": 7000
+      "cle": "robotdecuisinerobotmultifonctions_90161kenwoodkvc85124sirobotpatissiertitaniumchefbaker2bolseninox35let5lbalanceintegree6kgblender18l5011423002323_html",
+      "name": "KENWOOD KVC85.124.SI - Robot p\u00e2tissier Titanium Chef Baker - 2 bols en inox 3,5L et 5L - Balance int\u00e9gr\u00e9e 6kg - Blender 1,8L -",
+      "prix_base": 3635000,
+      "prix_comparaison": 4026000,
+      "variation": 391000
+    },
+    {
+      "cle": "hotte_26280hotteelicapandorablf90l90cmevacuationrecyclage57dbmaxclassea8020283041868_html",
+      "name": "Hotte ELICA PANDORA BL/F/90 L 90 cm - Evacuation & recyclage - 57 dB max - Classe A",
+      "prix_base": 8609000,
+      "prix_comparaison": 8935000,
+      "variation": 326000
+    },
+    {
+      "cle": "hotte_47699hottemuraleinclineeboschdwk87em60669m3h80cm60db4vitessesnoir4242005180141_html",
+      "name": "Hotte murale inclin\u00e9e - BOSCH DWK87EM60 - 669M3/H - 80 cm - 60 dB - 4 vitesses - Noir",
+      "prix_base": 3932000,
+      "prix_comparaison": 4138000,
+      "variation": 206000
+    },
+    {
+      "cle": "hotte_125320turboairthunder90cmhottemuraleextractionoufiltration735m3airhavecbooster69dbavecbooster3vitessesl90cmn8020283039667_html",
+      "name": "TurboAir Thunder 90 cm -Hotte murale extraction ou filtration-735 m3 air / h avec booster-69 dB avec booster-3 vitesses-L",
+      "prix_base": 3852000,
+      "prix_comparaison": 4056000,
+      "variation": 204000
+    },
+    {
+      "cle": "hotte_125319turboairthunder60cmhottemuraleevacuationrecyclage757m3airhavecbooster69dbavecbooster3vitessesl60cmno8020283039650_html",
+      "name": "TurboAir thunder 60cm - Hotte murale evacuation / recyclage-757 m3 air / h avec booster-69 dB avec booster-3 vitesses-L 60 cm-No",
+      "prix_base": 3314000,
+      "prix_comparaison": 3504000,
+      "variation": 190000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "artderecevoir_20536livrederecetteswebervamosalaplancha3010000075622_html",
-      "name": "Livre de recettes WEBER Vamos a la Plancha",
-      "prix_base": 252000,
-      "prix_comparaison": 259000,
-      "variation": 7000
+      "cle": "robotdecuisinerobotmultifonctions_48939robotkitchenmachineinoxbosch55l4242002957494_html",
+      "name": "Robot Kitchen Machine inox BOSCH - 5,5L",
+      "prix_base": 5541000,
+      "prix_comparaison": 5097000,
+      "variation": -444000
+    },
+    {
+      "cle": "compresseurauto_23192michelincompresseurprogrammable12v7bars3221320095195_html",
+      "name": "MICHELIN - Compresseur programmable - 12V - 7 bars",
+      "prix_base": 987000,
+      "prix_comparaison": 860000,
+      "variation": -127000
+    },
+    {
+      "cle": "blender_83097russellhobbs2318056blendermixeurnutriboostcompactmultifonctions700winoxbrossepreparationsvitaminees15accesso4008496892402_html",
+      "name": "RUSSELL HOBBS 23180-56 Blender Mixeur Nutriboost Compact Multifonctions 700W Inox Bross\u00e9, Pr\u00e9parations Vitamin\u00e9es, 15 Accesso",
+      "prix_base": 645000,
+      "prix_comparaison": 530000,
+      "variation": -115000
+    },
+    {
+      "cle": "blender_90562severinsm3734blenderrecipientenverred1lamovible2vitessesfonctionpulse22000toursminrangecableinoxn4008146022869_html",
+      "name": "SEVERIN SM3734 Blender, r\u00e9cipient en verre d'1L amovible, 2 vitesses + fonction pulse, 22 000 tours/min, range c\u00e2ble, inox / N",
+      "prix_base": 528000,
+      "prix_comparaison": 416000,
+      "variation": -112000
+    },
+    {
+      "cle": "robotdecuisinerobotmultifonctions_128530moulinexrobotmultifonctionsdoubleforcecompact9accessoiresnoirgrisfp5468113016661158315_html",
+      "name": "MOULINEX Double Force Compact Robot multifonction, 2 sorties moteur, 2 vitesses, Blender Smoothies et Shakes, 9 accessoires",
+      "prix_base": 1004000,
+      "prix_comparaison": 897000,
+      "variation": -107000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "artderecevoir_20536livrederecetteswebervamosalaplancha3010000075622_html",
-      "name": "Livre de recettes WEBER Vamos a la Plancha",
-      "prix_base": 252000,
-      "prix_comparaison": 259000,
-      "indice_prix": 102.77777777777777
+      "cle": "cuvecollecteurdeau_132858edarecuperateurdeausoupleetpliable500lavecfiltreenfilet2robinetsresistantauxintemperieso80xh3086960265960_html",
+      "name": "EDA - R\u00e9cup\u00e9rateur d'eau Souple et Pliable 500 L - avec Filtre en Filet + 2 Robinets - R\u00e9sistant aux Intemp\u00e9ries - \u00d8 80 x H",
+      "prix_base": 637000,
+      "prix_comparaison": 797000,
+      "indice_prix": 125.11773940345368
+    },
+    {
+      "cle": "cuvecollecteurdeau_132857edarecuperateurdeausoupleetpliable250lavecfiltreenfilet2robinetsresistantauxintemperieso60xh3086960265953_html",
+      "name": "EDA - R\u00e9cup\u00e9rateur d'eau Souple et Pliable 250 L - avec Filtre en Filet + 2 Robinets - R\u00e9sistant aux Intemp\u00e9ries - \u00d8 60 x H",
+      "prix_base": 438000,
+      "prix_comparaison": 548000,
+      "indice_prix": 125.11415525114155
+    },
+    {
+      "cle": "clavierdordinateur_136866claviergamermecaniquesteelseriesapexprotklwireless2023sanspavenumeriquefilaireavecswitchsreglable5707119047364_html",
+      "name": "Clavier gamer m\u00e9canique - STEELSERIES - APEX PRO TKL WIRELESS (2023) - Sans pav\u00e9 num\u00e9rique - Filaire - Avec switchs r\u00e9glable",
+      "prix_base": 1377000,
+      "prix_comparaison": 1531000,
+      "indice_prix": 111.1837327523602
+    },
+    {
+      "cle": "robotdecuisinerobotmultifonctions_90161kenwoodkvc85124sirobotpatissiertitaniumchefbaker2bolseninox35let5lbalanceintegree6kgblender18l5011423002323_html",
+      "name": "KENWOOD KVC85.124.SI - Robot p\u00e2tissier Titanium Chef Baker - 2 bols en inox 3,5L et 5L - Balance int\u00e9gr\u00e9e 6kg - Blender 1,8L -",
+      "prix_base": 3635000,
+      "prix_comparaison": 4026000,
+      "indice_prix": 110.75653370013755
+    },
+    {
+      "cle": "clavierdordinateur_133404claviergamingmecaniquetheglabkeyzthalliumrouge3760162067217_html",
+      "name": "Clavier Gaming m\u00e9canique - THE G-LAB - KEYZ THALLIUM - Rouge",
+      "prix_base": 310000,
+      "prix_comparaison": 343000,
+      "indice_prix": 110.64516129032258
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "artderecevoir_20536livrederecetteswebervamosalaplancha3010000075622_html",
-      "name": "Livre de recettes WEBER Vamos a la Plancha",
-      "prix_base": 252000,
-      "prix_comparaison": 259000,
-      "indice_prix": 102.77777777777777
+      "cle": "blender_90562severinsm3734blenderrecipientenverred1lamovible2vitessesfonctionpulse22000toursminrangecableinoxn4008146022869_html",
+      "name": "SEVERIN SM3734 Blender, r\u00e9cipient en verre d'1L amovible, 2 vitesses + fonction pulse, 22 000 tours/min, range c\u00e2ble, inox / N",
+      "prix_base": 528000,
+      "prix_comparaison": 416000,
+      "indice_prix": 78.78787878787878
+    },
+    {
+      "cle": "blender_83097russellhobbs2318056blendermixeurnutriboostcompactmultifonctions700winoxbrossepreparationsvitaminees15accesso4008496892402_html",
+      "name": "RUSSELL HOBBS 23180-56 Blender Mixeur Nutriboost Compact Multifonctions 700W Inox Bross\u00e9, Pr\u00e9parations Vitamin\u00e9es, 15 Accesso",
+      "prix_base": 645000,
+      "prix_comparaison": 530000,
+      "indice_prix": 82.17054263565892
+    },
+    {
+      "cle": "accessoirespiecespreparationculinaire_26695moulinexcouverclehermu00e9tiquecuvecookeoxa6080003507790050453_html",
+      "name": "MOULINEX Couvercle Herm\u00e9tique - Cuve Cookeo - XA608000",
+      "prix_base": 114000,
+      "prix_comparaison": 97000,
+      "indice_prix": 85.08771929824562
+    },
+    {
+      "cle": "clavierdordinateur_88897mobilitylabclavierdesigntouchfilairepourmacgrissideralazerty3700527311487_html",
+      "name": "MOBILITY LAB Clavier DesignTouch filaire pour MAC Gris Sid\u00e9ral - AZERTY",
+      "prix_base": 221000,
+      "prix_comparaison": 189000,
+      "indice_prix": 85.52036199095022
+    },
+    {
+      "cle": "balanceculinaireelectronique_89598balancedecuisineterraillonclassicinox3094570146425_html",
+      "name": "Balance de cuisine \u00e9lectronique TERRAILLON - Classic Inox - Capacit\u00e9 5kg - Graduation 1g - Fonction tare",
+      "prix_base": 162000,
+      "prix_comparaison": 139000,
+      "indice_prix": 85.80246913580247
     }
   ]
 }

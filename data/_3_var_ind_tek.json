@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 8402,
-      "prix_base": 2235600,
-      "name": "Baby Foot SZX - S03",
-      "prix_comparaison": 2798400,
-      "variation": 562800
-    },
-    {
-      "list_id": 9144,
-      "prix_base": 84000,
-      "name": "Bi\u00e8re Bouteille 33 cl x 24 pi\u00e8ces avec cageot consign\u00e9",
-      "prix_comparaison": 89300,
-      "variation": 5300
-    },
-    {
-      "list_id": 639,
-      "prix_base": 62800,
-      "name": "Guipure & Silk Ylang Vanille 100 ml",
-      "prix_comparaison": 66800,
-      "variation": 4000
+      "list_id": 10703,
+      "prix_base": 29000,
+      "name": "Poulet entier 1,5 Kg",
+      "prix_comparaison": 40200,
+      "variation": 11200
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 639,
-      "prix_base": 62800,
-      "name": "Guipure & Silk Ylang Vanille 100 ml",
-      "prix_comparaison": 66800,
-      "variation": 4000
-    },
-    {
-      "list_id": 9144,
-      "prix_base": 84000,
-      "name": "Bi\u00e8re Bouteille 33 cl x 24 pi\u00e8ces avec cageot consign\u00e9",
-      "prix_comparaison": 89300,
-      "variation": 5300
-    },
-    {
-      "list_id": 8402,
-      "prix_base": 2235600,
-      "name": "Baby Foot SZX - S03",
-      "prix_comparaison": 2798400,
-      "variation": 562800
+      "list_id": 10703,
+      "prix_base": 29000,
+      "name": "Poulet entier 1,5 Kg",
+      "prix_comparaison": 40200,
+      "variation": 11200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 8402,
-      "name": "Baby Foot SZX - S03",
-      "prix_base": 2235600,
-      "prix_comparaison": 2798400,
-      "indice_prix": 125.17444981213097
-    },
-    {
-      "list_id": 639,
-      "name": "Guipure & Silk Ylang Vanille 100 ml",
-      "prix_base": 62800,
-      "prix_comparaison": 66800,
-      "indice_prix": 106.36942675159236
-    },
-    {
-      "list_id": 9144,
-      "name": "Bi\u00e8re Bouteille 33 cl x 24 pi\u00e8ces avec cageot consign\u00e9",
-      "prix_base": 84000,
-      "prix_comparaison": 89300,
-      "indice_prix": 106.30952380952381
+      "list_id": 10703,
+      "name": "Poulet entier 1,5 Kg",
+      "prix_base": 29000,
+      "prix_comparaison": 40200,
+      "indice_prix": 138.6206896551724
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 9144,
-      "name": "Bi\u00e8re Bouteille 33 cl x 24 pi\u00e8ces avec cageot consign\u00e9",
-      "prix_base": 84000,
-      "prix_comparaison": 89300,
-      "indice_prix": 106.30952380952381
-    },
-    {
-      "list_id": 639,
-      "name": "Guipure & Silk Ylang Vanille 100 ml",
-      "prix_base": 62800,
-      "prix_comparaison": 66800,
-      "indice_prix": 106.36942675159236
-    },
-    {
-      "list_id": 8402,
-      "name": "Baby Foot SZX - S03",
-      "prix_base": 2235600,
-      "prix_comparaison": 2798400,
-      "indice_prix": 125.17444981213097
+      "list_id": 10703,
+      "name": "Poulet entier 1,5 Kg",
+      "prix_base": 29000,
+      "prix_comparaison": 40200,
+      "indice_prix": 138.6206896551724
     }
   ]
 }
