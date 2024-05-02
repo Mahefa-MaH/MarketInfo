@@ -1,150 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "huiles_12242huiledetournesol1lboutondor_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 14900,
-      "prix_comparaison": 16900,
-      "variation": 2000
+      "cle": "nectarsdefruits_1099nectarmultifruit20cl_html",
+      "name": "Nectar Multifruit 20cl",
+      "prix_base": 1900,
+      "prix_comparaison": 1790,
+      "variation": -110
     },
     {
-      "cle": "vaissellesjetables_7421gobeletpetfast2530claveccouvercle50pieces_html",
-      "name": "Gobelet PET Fast 25-30cl avec couvercle 50 pi\u00e8ces",
-      "prix_base": 64500,
-      "prix_comparaison": 66000,
-      "variation": 1500
+      "cle": "jusdefruitsfruitsgoutersdesserts_8885monpremieryaourt100g_html",
+      "name": "Mon premier yaourt 100g",
+      "prix_base": 1090,
+      "prix_comparaison": 950,
+      "variation": -140
     },
     {
-      "cle": "huiles_12241huiledecolza1lboutondor_html",
-      "name": "Huile de colza 1L",
-      "prix_base": 13900,
-      "prix_comparaison": 14900,
-      "variation": 1000
-    },
-    {
-      "cle": "gelsdoucheetshampoingshomme_13228geldouchementonicvivifiant250mllabell_html",
-      "name": "Gel douche men tonic vivifiant 250ml",
-      "prix_base": 5900,
-      "prix_comparaison": 6900,
-      "variation": 1000
-    },
-    {
-      "cle": "pates_1655spaghetticuissonparfaite500g_html",
-      "name": "Spaghetti cuisson parfaite 500g",
-      "prix_base": 5800,
-      "prix_comparaison": 5900,
-      "variation": 100
+      "cle": "compotes_13007compotepommepommefraiseallegeeensucres12x90gpaquito_html",
+      "name": "Compote pomme et pomme fraise all\u00e9g\u00e9e en sucres 12x90g",
+      "prix_base": 31200,
+      "prix_comparaison": 27500,
+      "variation": -3700
     }
   ],
   "prix_diminues": [
     {
-      "cle": "pates_9005fusilli500g_html",
-      "name": "Fusilli 500g",
-      "prix_base": 6900,
-      "prix_comparaison": 6500,
-      "variation": -400
+      "cle": "compotes_13007compotepommepommefraiseallegeeensucres12x90gpaquito_html",
+      "name": "Compote pomme et pomme fraise all\u00e9g\u00e9e en sucres 12x90g",
+      "prix_base": 31200,
+      "prix_comparaison": 27500,
+      "variation": -3700
     },
     {
-      "cle": "pates_9009farfalle500g_html",
-      "name": "Farfalle 500g",
-      "prix_base": 6800,
-      "prix_comparaison": 6500,
-      "variation": -300
+      "cle": "jusdefruitsfruitsgoutersdesserts_8885monpremieryaourt100g_html",
+      "name": "Mon premier yaourt 100g",
+      "prix_base": 1090,
+      "prix_comparaison": 950,
+      "variation": -140
     },
     {
-      "cle": "pates_1655spaghetticuissonparfaite500g_html",
-      "name": "Spaghetti cuisson parfaite 500g",
-      "prix_base": 5800,
-      "prix_comparaison": 5900,
-      "variation": 100
-    },
-    {
-      "cle": "gelsdoucheetshampoingshomme_13228geldouchementonicvivifiant250mllabell_html",
-      "name": "Gel douche men tonic vivifiant 250ml",
-      "prix_base": 5900,
-      "prix_comparaison": 6900,
-      "variation": 1000
-    },
-    {
-      "cle": "huiles_12241huiledecolza1lboutondor_html",
-      "name": "Huile de colza 1L",
-      "prix_base": 13900,
-      "prix_comparaison": 14900,
-      "variation": 1000
+      "cle": "nectarsdefruits_1099nectarmultifruit20cl_html",
+      "name": "Nectar Multifruit 20cl",
+      "prix_base": 1900,
+      "prix_comparaison": 1790,
+      "variation": -110
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "gelsdoucheetshampoingshomme_13228geldouchementonicvivifiant250mllabell_html",
-      "name": "Gel douche men tonic vivifiant 250ml",
-      "prix_base": 5900,
-      "prix_comparaison": 6900,
-      "indice_prix": 116.94915254237289
+      "cle": "nectarsdefruits_1099nectarmultifruit20cl_html",
+      "name": "Nectar Multifruit 20cl",
+      "prix_base": 1900,
+      "prix_comparaison": 1790,
+      "indice_prix": 94.21052631578948
     },
     {
-      "cle": "huiles_12242huiledetournesol1lboutondor_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 14900,
-      "prix_comparaison": 16900,
-      "indice_prix": 113.42281879194631
+      "cle": "compotes_13007compotepommepommefraiseallegeeensucres12x90gpaquito_html",
+      "name": "Compote pomme et pomme fraise all\u00e9g\u00e9e en sucres 12x90g",
+      "prix_base": 31200,
+      "prix_comparaison": 27500,
+      "indice_prix": 88.14102564102564
     },
     {
-      "cle": "huiles_12241huiledecolza1lboutondor_html",
-      "name": "Huile de colza 1L",
-      "prix_base": 13900,
-      "prix_comparaison": 14900,
-      "indice_prix": 107.19424460431655
-    },
-    {
-      "cle": "vaissellesjetables_7421gobeletpetfast2530claveccouvercle50pieces_html",
-      "name": "Gobelet PET Fast 25-30cl avec couvercle 50 pi\u00e8ces",
-      "prix_base": 64500,
-      "prix_comparaison": 66000,
-      "indice_prix": 102.32558139534883
-    },
-    {
-      "cle": "pates_1655spaghetticuissonparfaite500g_html",
-      "name": "Spaghetti cuisson parfaite 500g",
-      "prix_base": 5800,
-      "prix_comparaison": 5900,
-      "indice_prix": 101.72413793103448
+      "cle": "jusdefruitsfruitsgoutersdesserts_8885monpremieryaourt100g_html",
+      "name": "Mon premier yaourt 100g",
+      "prix_base": 1090,
+      "prix_comparaison": 950,
+      "indice_prix": 87.1559633027523
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "pates_9005fusilli500g_html",
-      "name": "Fusilli 500g",
-      "prix_base": 6900,
-      "prix_comparaison": 6500,
-      "indice_prix": 94.20289855072464
+      "cle": "jusdefruitsfruitsgoutersdesserts_8885monpremieryaourt100g_html",
+      "name": "Mon premier yaourt 100g",
+      "prix_base": 1090,
+      "prix_comparaison": 950,
+      "indice_prix": 87.1559633027523
     },
     {
-      "cle": "pates_9009farfalle500g_html",
-      "name": "Farfalle 500g",
-      "prix_base": 6800,
-      "prix_comparaison": 6500,
-      "indice_prix": 95.58823529411765
+      "cle": "compotes_13007compotepommepommefraiseallegeeensucres12x90gpaquito_html",
+      "name": "Compote pomme et pomme fraise all\u00e9g\u00e9e en sucres 12x90g",
+      "prix_base": 31200,
+      "prix_comparaison": 27500,
+      "indice_prix": 88.14102564102564
     },
     {
-      "cle": "pates_1655spaghetticuissonparfaite500g_html",
-      "name": "Spaghetti cuisson parfaite 500g",
-      "prix_base": 5800,
-      "prix_comparaison": 5900,
-      "indice_prix": 101.72413793103448
-    },
-    {
-      "cle": "vaissellesjetables_7421gobeletpetfast2530claveccouvercle50pieces_html",
-      "name": "Gobelet PET Fast 25-30cl avec couvercle 50 pi\u00e8ces",
-      "prix_base": 64500,
-      "prix_comparaison": 66000,
-      "indice_prix": 102.32558139534883
-    },
-    {
-      "cle": "huiles_12241huiledecolza1lboutondor_html",
-      "name": "Huile de colza 1L",
-      "prix_base": 13900,
-      "prix_comparaison": 14900,
-      "indice_prix": 107.19424460431655
+      "cle": "nectarsdefruits_1099nectarmultifruit20cl_html",
+      "name": "Nectar Multifruit 20cl",
+      "prix_base": 1900,
+      "prix_comparaison": 1790,
+      "indice_prix": 94.21052631578948
     }
   ]
 }

@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
-      "name": "Pousses de haricots mungo en conserve 1/2 180g",
-      "prix_base": 6200,
-      "prix_comparaison": 6900,
-      "variation": 700
+      "cle": "artderecevoir_20536livrederecetteswebervamosalaplancha3010000075622_html",
+      "name": "Livre de recettes WEBER Vamos a la Plancha",
+      "prix_base": 252000,
+      "prix_comparaison": 259000,
+      "variation": 7000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
-      "name": "Pousses de haricots mungo en conserve 1/2 180g",
-      "prix_base": 6200,
-      "prix_comparaison": 6900,
-      "variation": 700
+      "cle": "artderecevoir_20536livrederecetteswebervamosalaplancha3010000075622_html",
+      "name": "Livre de recettes WEBER Vamos a la Plancha",
+      "prix_base": 252000,
+      "prix_comparaison": 259000,
+      "variation": 7000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
-      "name": "Pousses de haricots mungo en conserve 1/2 180g",
-      "prix_base": 6200,
-      "prix_comparaison": 6900,
-      "indice_prix": 111.29032258064517
+      "cle": "artderecevoir_20536livrederecetteswebervamosalaplancha3010000075622_html",
+      "name": "Livre de recettes WEBER Vamos a la Plancha",
+      "prix_base": 252000,
+      "prix_comparaison": 259000,
+      "indice_prix": 102.77777777777777
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
-      "name": "Pousses de haricots mungo en conserve 1/2 180g",
-      "prix_base": 6200,
-      "prix_comparaison": 6900,
-      "indice_prix": 111.29032258064517
+      "cle": "artderecevoir_20536livrederecetteswebervamosalaplancha3010000075622_html",
+      "name": "Livre de recettes WEBER Vamos a la Plancha",
+      "prix_base": 252000,
+      "prix_comparaison": 259000,
+      "indice_prix": 102.77777777777777
     }
   ]
 }
