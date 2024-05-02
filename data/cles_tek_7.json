@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8197,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9300,
-      "prix_comparaison": 9300,
+      "list_id": 7132,
+      "name": "Riz Makalioka blanc 5 kg",
+      "prix_base": 18600,
+      "prix_comparaison": 18600,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 13700,
-      "prix_comparaison": 13700,
+      "list_id": 13775,
+      "name": "Riz de Luxe Makalioka 5kg",
+      "prix_base": 23000,
+      "prix_comparaison": 23000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 272000,
-      "prix_comparaison": 272000,
+      "list_id": 13776,
+      "name": "Riz Blanchi Makalioka 5kg",
+      "prix_base": 21000,
+      "prix_comparaison": 21000,
       "variation": 0,
       "indice_prix": 100.0
     }
