@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 10703,
-      "prix_base": 29000,
-      "name": "Poulet entier 1,5 Kg",
-      "prix_comparaison": 40200,
-      "variation": 11200
+      "list_id": 13497,
+      "prix_base": 6800,
+      "name": "Couteau \u00e0 mastic 80 mm 3\" ( acier inoxydable )",
+      "prix_comparaison": 6900,
+      "variation": 100
+    },
+    {
+      "list_id": 13445,
+      "prix_base": 3200,
+      "name": "Crayon testeur",
+      "prix_comparaison": 3300,
+      "variation": 100
+    },
+    {
+      "list_id": 13403,
+      "prix_base": 6800,
+      "name": "Tournevis isol\u00e9 SL5.5x125mm",
+      "prix_comparaison": 6900,
+      "variation": 100
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 10703,
-      "prix_base": 29000,
-      "name": "Poulet entier 1,5 Kg",
-      "prix_comparaison": 40200,
-      "variation": 11200
+      "list_id": 13403,
+      "prix_base": 6800,
+      "name": "Tournevis isol\u00e9 SL5.5x125mm",
+      "prix_comparaison": 6900,
+      "variation": 100
+    },
+    {
+      "list_id": 13445,
+      "prix_base": 3200,
+      "name": "Crayon testeur",
+      "prix_comparaison": 3300,
+      "variation": 100
+    },
+    {
+      "list_id": 13497,
+      "prix_base": 6800,
+      "name": "Couteau \u00e0 mastic 80 mm 3\" ( acier inoxydable )",
+      "prix_comparaison": 6900,
+      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 10703,
-      "name": "Poulet entier 1,5 Kg",
-      "prix_base": 29000,
-      "prix_comparaison": 40200,
-      "indice_prix": 138.6206896551724
+      "list_id": 13445,
+      "name": "Crayon testeur",
+      "prix_base": 3200,
+      "prix_comparaison": 3300,
+      "indice_prix": 103.125
+    },
+    {
+      "list_id": 13497,
+      "name": "Couteau \u00e0 mastic 80 mm 3\" ( acier inoxydable )",
+      "prix_base": 6800,
+      "prix_comparaison": 6900,
+      "indice_prix": 101.47058823529412
+    },
+    {
+      "list_id": 13403,
+      "name": "Tournevis isol\u00e9 SL5.5x125mm",
+      "prix_base": 6800,
+      "prix_comparaison": 6900,
+      "indice_prix": 101.47058823529412
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 10703,
-      "name": "Poulet entier 1,5 Kg",
-      "prix_base": 29000,
-      "prix_comparaison": 40200,
-      "indice_prix": 138.6206896551724
+      "list_id": 13403,
+      "name": "Tournevis isol\u00e9 SL5.5x125mm",
+      "prix_base": 6800,
+      "prix_comparaison": 6900,
+      "indice_prix": 101.47058823529412
+    },
+    {
+      "list_id": 13497,
+      "name": "Couteau \u00e0 mastic 80 mm 3\" ( acier inoxydable )",
+      "prix_base": 6800,
+      "prix_comparaison": 6900,
+      "indice_prix": 101.47058823529412
+    },
+    {
+      "list_id": 13445,
+      "name": "Crayon testeur",
+      "prix_base": 3200,
+      "prix_comparaison": 3300,
+      "indice_prix": 103.125
     }
   ]
 }
