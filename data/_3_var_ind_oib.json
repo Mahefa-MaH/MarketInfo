@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "confiseriesauchocolat_1195pastillesmmscacahuetes100g_html",
-      "name": "Pastilles m&m's cacahuetes 100g",
-      "prix_base": 9490,
-      "prix_comparaison": 10500,
-      "variation": 1010
+      "cle": "fromages_15111fromageyama100g_html",
+      "name": "Fromage yama 100g",
+      "prix_base": 4200,
+      "prix_comparaison": 4390,
+      "variation": 190
+    },
+    {
+      "cle": "laitsinfantiles_9796laitinfantile2emeagenursie300g_html",
+      "name": "Lait infantile 2\u00e8me \u00e2ge Nursie 300g",
+      "prix_base": 18000,
+      "prix_comparaison": 15900,
+      "variation": -2100
+    },
+    {
+      "cle": "laitsinfantiles_9380farinedeblelacteebananefarilac200g_html",
+      "name": "Lait infantile 1\u00e8re age Nursie 300g",
+      "prix_base": 18000,
+      "prix_comparaison": 15900,
+      "variation": -2100
     }
   ],
   "prix_diminues": [
     {
-      "cle": "fromagesfondusetatartiner_707fromagebabybelcirerouge200g_html",
-      "name": "Fromage babybel cire rouge 200g",
-      "prix_base": 26600,
-      "prix_comparaison": 21000,
-      "variation": -5600
+      "cle": "fromagesentranches_742fromagelavachequirittranchesandwich10tranches200g_html",
+      "name": "Fromage La vache qui rit tranche sandwich 10 tranches 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 11000,
+      "variation": -2500
+    },
+    {
+      "cle": "laitsinfantiles_9380farinedeblelacteebananefarilac200g_html",
+      "name": "Lait infantile 1\u00e8re age Nursie 300g",
+      "prix_base": 18000,
+      "prix_comparaison": 15900,
+      "variation": -2100
+    },
+    {
+      "cle": "laitsinfantiles_9796laitinfantile2emeagenursie300g_html",
+      "name": "Lait infantile 2\u00e8me \u00e2ge Nursie 300g",
+      "prix_base": 18000,
+      "prix_comparaison": 15900,
+      "variation": -2100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cookiesetbrownies_5684biscuitscookies_html",
-      "name": "Biscuits cookies",
-      "prix_base": 800,
-      "prix_comparaison": 1000,
-      "indice_prix": 125.0
+      "cle": "fromages_15111fromageyama100g_html",
+      "name": "Fromage yama 100g",
+      "prix_base": 4200,
+      "prix_comparaison": 4390,
+      "indice_prix": 104.52380952380952
+    },
+    {
+      "cle": "laitsinfantiles_9796laitinfantile2emeagenursie300g_html",
+      "name": "Lait infantile 2\u00e8me \u00e2ge Nursie 300g",
+      "prix_base": 18000,
+      "prix_comparaison": 15900,
+      "indice_prix": 88.33333333333333
+    },
+    {
+      "cle": "laitsinfantiles_9380farinedeblelacteebananefarilac200g_html",
+      "name": "Lait infantile 1\u00e8re age Nursie 300g",
+      "prix_base": 18000,
+      "prix_comparaison": 15900,
+      "indice_prix": 88.33333333333333
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "bonbonsgelifiesetacidules_8758bonbonsbeans85g_html",
-      "name": "Bonbons beans 85g",
-      "prix_base": 4500,
-      "prix_comparaison": 3400,
-      "indice_prix": 75.55555555555556
+      "cle": "fromagesentranches_742fromagelavachequirittranchesandwich10tranches200g_html",
+      "name": "Fromage La vache qui rit tranche sandwich 10 tranches 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 11000,
+      "indice_prix": 81.48148148148148
+    },
+    {
+      "cle": "laitsinfantiles_9380farinedeblelacteebananefarilac200g_html",
+      "name": "Lait infantile 1\u00e8re age Nursie 300g",
+      "prix_base": 18000,
+      "prix_comparaison": 15900,
+      "indice_prix": 88.33333333333333
+    },
+    {
+      "cle": "laitsinfantiles_9796laitinfantile2emeagenursie300g_html",
+      "name": "Lait infantile 2\u00e8me \u00e2ge Nursie 300g",
+      "prix_base": 18000,
+      "prix_comparaison": 15900,
+      "indice_prix": 88.33333333333333
     }
   ]
 }

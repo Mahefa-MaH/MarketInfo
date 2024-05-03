@@ -1,34 +1,34 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 10200,
-      "prix_comparaison": 9400,
-      "variation": -800
+      "list_id": 13309,
+      "name": "Compotes pomme et poire sans sucres ajout\u00e9s 90gX4",
+      "prix_base": 19200,
+      "prix_comparaison": 15500,
+      "variation": -3700
     },
     {
-      "list_id": 6532,
-      "name": "jouet t\u00e9l\u00e9phone musical",
-      "prix_base": 19500,
-      "prix_comparaison": 21300,
-      "variation": 1800
+      "list_id": 11426,
+      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
+      "prix_base": 17800,
+      "prix_comparaison": 15500,
+      "variation": -2300
     }
   ],
   "indice de prix": [
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 10200,
-      "prix_comparaison": 9400,
-      "indice_prix": 92.15686274509804
+      "list_id": 13309,
+      "name": "Compotes pomme et poire sans sucres ajout\u00e9s 90gX4",
+      "prix_base": 19200,
+      "prix_comparaison": 15500,
+      "indice_prix": 80.72916666666667
     },
     {
-      "list_id": 6532,
-      "name": "jouet t\u00e9l\u00e9phone musical",
-      "prix_base": 19500,
-      "prix_comparaison": 21300,
-      "indice_prix": 109.23076923076923
+      "list_id": 11426,
+      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
+      "prix_base": 17800,
+      "prix_comparaison": 15500,
+      "indice_prix": 87.07865168539325
     }
   ]
 }

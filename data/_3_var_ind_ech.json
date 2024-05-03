@@ -1,122 +1,108 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_beurredouxgastronomiquepresident200g_",
-      "name": "Beurre Doux French Butter Pr\u00e9sident\u2122 200g",
-      "prix_base": 30530,
-      "prix_comparaison": 42650,
-      "variation": 12120
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 29330,
+      "prix_comparaison": 32000,
+      "variation": 2670
     },
     {
-      "cle": "produit_glaceenbatonnetdoublechocolatmagnum88ml_",
-      "name": "Glace en b\u00e2tonnet Double Chocolat Magnum\u2122 88ml",
-      "prix_base": 10400,
-      "prix_comparaison": 14530,
-      "variation": 4130
+      "cle": "produit_chouxrouge1piecelaisoa_",
+      "name": "Choux rouge 1 pi\u00e8ce | Laisoa",
+      "prix_base": 6800,
+      "prix_comparaison": 9400,
+      "variation": 2600
     },
     {
-      "cle": "produit_glaceenbatonnetdoublestrarchasermagnum88ml_",
-      "name": "Glace en b\u00e2tonnet Double Strarchaser Magnum\u2122 88ml",
-      "prix_base": 11200,
-      "prix_comparaison": 14530,
-      "variation": 3330
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 8667,
+      "prix_comparaison": 9400,
+      "variation": 733
     },
     {
-      "cle": "produit_laitconcentresucresocolait1kgricheenvitaminesi_",
-      "name": "Lait concentr\u00e9 sucr\u00e9 Socolait\u2122 1kg",
-      "prix_base": 18000,
-      "prix_comparaison": 21320,
-      "variation": 3320
-    },
-    {
-      "cle": "produit_biscuitsgouterfourresduominibn175g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Duo Mini BN 175g",
-      "prix_base": 20490,
-      "prix_comparaison": 22250,
-      "variation": 1760
+      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
+      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
+      "prix_base": 2700,
+      "prix_comparaison": 3200,
+      "variation": 500
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_tamponsabrasifsalbapaquetde5_",
-      "name": "Tampons Abrasifs Alba | Paquet de 5",
-      "prix_base": 4920,
-      "prix_comparaison": 5430,
-      "variation": 510
+      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
+      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
+      "prix_base": 2700,
+      "prix_comparaison": 3200,
+      "variation": 500
     },
     {
-      "cle": "produit_glaceminiamandemagnum55ml_",
-      "name": "Glace Mini Amande Magnum\u2122 55ml",
-      "prix_base": 6400,
-      "prix_comparaison": 7990,
-      "variation": 1590
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 8667,
+      "prix_comparaison": 9400,
+      "variation": 733
     },
     {
-      "cle": "produit_glaceenminibatonnetclassicmagnum55ml_",
-      "name": "Glace en mini b\u00e2tonnet Classic Magnum\u2122 55ml",
-      "prix_base": 6400,
-      "prix_comparaison": 7990,
-      "variation": 1590
+      "cle": "produit_chouxrouge1piecelaisoa_",
+      "name": "Choux rouge 1 pi\u00e8ce | Laisoa",
+      "prix_base": 6800,
+      "prix_comparaison": 9400,
+      "variation": 2600
     },
     {
-      "cle": "produit_biscuitsgouterfourresduominibn175g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Duo Mini BN 175g",
-      "prix_base": 20490,
-      "prix_comparaison": 22250,
-      "variation": 1760
-    },
-    {
-      "cle": "produit_laitconcentresucresocolait1kgricheenvitaminesi_",
-      "name": "Lait concentr\u00e9 sucr\u00e9 Socolait\u2122 1kg",
-      "prix_base": 18000,
-      "prix_comparaison": 21320,
-      "variation": 3320
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 29330,
+      "prix_comparaison": 32000,
+      "variation": 2670
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_glaceenbatonnetdoublechocolatmagnum88ml_",
-      "name": "Glace en b\u00e2tonnet Double Chocolat Magnum\u2122 88ml",
-      "prix_base": 10400,
-      "prix_comparaison": 14530,
-      "indice_prix": 139.71153846153845
+      "cle": "produit_chouxrouge1piecelaisoa_",
+      "name": "Choux rouge 1 pi\u00e8ce | Laisoa",
+      "prix_base": 6800,
+      "prix_comparaison": 9400,
+      "indice_prix": 138.23529411764707
     },
     {
-      "cle": "produit_beurredouxgastronomiquepresident200g_",
-      "name": "Beurre Doux French Butter Pr\u00e9sident\u2122 200g",
-      "prix_base": 30530,
-      "prix_comparaison": 42650,
-      "indice_prix": 139.69865705863086
+      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
+      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
+      "prix_base": 2700,
+      "prix_comparaison": 3200,
+      "indice_prix": 118.51851851851852
     },
     {
-      "cle": "produit_glaceenbatonnetdoublestrarchasermagnum88ml_",
-      "name": "Glace en b\u00e2tonnet Double Strarchaser Magnum\u2122 88ml",
-      "prix_base": 11200,
-      "prix_comparaison": 14530,
-      "indice_prix": 129.73214285714286
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 29330,
+      "prix_comparaison": 32000,
+      "indice_prix": 109.10330719399931
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_biscuitsgouterfourresduominibn175g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Duo Mini BN 175g",
-      "prix_base": 20490,
-      "prix_comparaison": 22250,
-      "indice_prix": 108.58955588091752
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 8667,
+      "prix_comparaison": 9400,
+      "indice_prix": 108.45736702434522
     },
     {
-      "cle": "produit_tamponsabrasifsalbapaquetde5_",
-      "name": "Tampons Abrasifs Alba | Paquet de 5",
-      "prix_base": 4920,
-      "prix_comparaison": 5430,
-      "indice_prix": 110.36585365853658
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 29330,
+      "prix_comparaison": 32000,
+      "indice_prix": 109.10330719399931
     },
     {
-      "cle": "produit_laitconcentresucresocolait1kgricheenvitaminesi_",
-      "name": "Lait concentr\u00e9 sucr\u00e9 Socolait\u2122 1kg",
-      "prix_base": 18000,
-      "prix_comparaison": 21320,
-      "indice_prix": 118.44444444444444
+      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
+      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
+      "prix_base": 2700,
+      "prix_comparaison": 3200,
+      "indice_prix": 118.51851851851852
     }
   ]
 }
