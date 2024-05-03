@@ -1,46 +1,46 @@
 {
   "prix_augmentes": [
     {
+      "list_id": 4783,
+      "prix_base": 1491500,
+      "name": "Barbecue \u00c0 Gaz 4 Br\u00fbleurs 11,6 kw",
+      "prix_comparaison": 1503400,
+      "variation": 11900
+    },
+    {
+      "list_id": 4780,
+      "prix_base": 46900,
+      "name": "Plaque De Cuisson 1000 W",
+      "prix_comparaison": 47300,
+      "variation": 400
+    },
+    {
       "list_id": 13497,
       "prix_base": 6800,
       "name": "Couteau \u00e0 mastic 80 mm 3\" ( acier inoxydable )",
-      "prix_comparaison": 6900,
-      "variation": 100
-    },
-    {
-      "list_id": 13445,
-      "prix_base": 3200,
-      "name": "Crayon testeur",
-      "prix_comparaison": 3300,
-      "variation": 100
-    },
-    {
-      "list_id": 13403,
-      "prix_base": 6800,
-      "name": "Tournevis isol\u00e9 SL5.5x125mm",
       "prix_comparaison": 6900,
       "variation": 100
     }
   ],
   "prix_diminues": [
     {
+      "list_id": 13309,
+      "prix_base": 19200,
+      "name": "Compotes pomme et poire sans sucres ajout\u00e9s 90gX4",
+      "prix_comparaison": 15500,
+      "variation": -3700
+    },
+    {
+      "list_id": 11426,
+      "prix_base": 17800,
+      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
+      "prix_comparaison": 15500,
+      "variation": -2300
+    },
+    {
       "list_id": 13403,
       "prix_base": 6800,
       "name": "Tournevis isol\u00e9 SL5.5x125mm",
-      "prix_comparaison": 6900,
-      "variation": 100
-    },
-    {
-      "list_id": 13445,
-      "prix_base": 3200,
-      "name": "Crayon testeur",
-      "prix_comparaison": 3300,
-      "variation": 100
-    },
-    {
-      "list_id": 13497,
-      "prix_base": 6800,
-      "name": "Couteau \u00e0 mastic 80 mm 3\" ( acier inoxydable )",
       "prix_comparaison": 6900,
       "variation": 100
     }
@@ -70,25 +70,25 @@
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 13403,
-      "name": "Tournevis isol\u00e9 SL5.5x125mm",
-      "prix_base": 6800,
-      "prix_comparaison": 6900,
-      "indice_prix": 101.47058823529412
+      "list_id": 13309,
+      "name": "Compotes pomme et poire sans sucres ajout\u00e9s 90gX4",
+      "prix_base": 19200,
+      "prix_comparaison": 15500,
+      "indice_prix": 80.72916666666667
     },
     {
-      "list_id": 13497,
-      "name": "Couteau \u00e0 mastic 80 mm 3\" ( acier inoxydable )",
-      "prix_base": 6800,
-      "prix_comparaison": 6900,
-      "indice_prix": 101.47058823529412
+      "list_id": 11426,
+      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
+      "prix_base": 17800,
+      "prix_comparaison": 15500,
+      "indice_prix": 87.07865168539325
     },
     {
-      "list_id": 13445,
-      "name": "Crayon testeur",
-      "prix_base": 3200,
-      "prix_comparaison": 3300,
-      "indice_prix": 103.125
+      "list_id": 4788,
+      "name": "Po\u00eale \u00c0 Frire 20 cm",
+      "prix_base": 34100,
+      "prix_comparaison": 34200,
+      "indice_prix": 100.29325513196481
     }
   ]
 }

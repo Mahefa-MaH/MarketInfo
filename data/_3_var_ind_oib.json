@@ -20,6 +20,13 @@
       "prix_base": 18000,
       "prix_comparaison": 15900,
       "variation": -2100
+    },
+    {
+      "cle": "fromagesentranches_742fromagelavachequirittranchesandwich10tranches200g_html",
+      "name": "Fromage La vache qui rit tranche sandwich 10 tranches 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 11000,
+      "variation": -2500
     }
   ],
   "prix_diminues": [
@@ -43,6 +50,13 @@
       "prix_base": 18000,
       "prix_comparaison": 15900,
       "variation": -2100
+    },
+    {
+      "cle": "fromages_15111fromageyama100g_html",
+      "name": "Fromage yama 100g",
+      "prix_base": 4200,
+      "prix_comparaison": 4390,
+      "variation": 190
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,6 +80,13 @@
       "prix_base": 18000,
       "prix_comparaison": 15900,
       "indice_prix": 88.33333333333333
+    },
+    {
+      "cle": "fromagesentranches_742fromagelavachequirittranchesandwich10tranches200g_html",
+      "name": "Fromage La vache qui rit tranche sandwich 10 tranches 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 11000,
+      "indice_prix": 81.48148148148148
     }
   ],
   "indices_prix_plus_faibles": [
@@ -89,6 +110,13 @@
       "prix_base": 18000,
       "prix_comparaison": 15900,
       "indice_prix": 88.33333333333333
+    },
+    {
+      "cle": "fromages_15111fromageyama100g_html",
+      "name": "Fromage yama 100g",
+      "prix_base": 4200,
+      "prix_comparaison": 4390,
+      "indice_prix": 104.52380952380952
     }
   ]
 }
