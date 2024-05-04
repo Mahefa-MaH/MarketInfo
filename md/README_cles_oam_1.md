@@ -2,15 +2,15 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Tondeuse autoportée thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm³ - Jusqu'a 2800 m²**
-   - Prix avant: 14,191,000 Ar
-   - Prix actuel: 14,191,000 Ar
+1. **GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages étroits, App, Silencieux, Robot de Tonte**
+   - Prix avant: 11,121,000 Ar
+   - Prix actuel: 11,121,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Tondeuse rider autoportée thermique 61 cm de coupe 224cc MR224-61 SCHEPPACH - Bac de collecte de 150L**
-   - Prix avant: 10,116,000 Ar
-   - Prix actuel: 10,116,000 Ar
+2. **Tondeuse autoportée thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm³ - Jusqu'a 2800 m²**
+   - Prix avant: 14,191,000 Ar
+   - Prix actuel: 14,191,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
