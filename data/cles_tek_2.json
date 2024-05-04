@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13776,
-      "name": "Riz Blanchi Makalioka 5kg",
-      "prix_base": 21000,
-      "prix_comparaison": 21000,
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 143000,
+      "prix_comparaison": 143000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13777,
-      "name": "Riz Complet Rouge Vary Gasy 5kg",
-      "prix_base": 21000,
-      "prix_comparaison": 21000,
+      "list_id": 1561,
+      "name": "Riz Rouge 5 Kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13109,
-      "name": "Sucre blanc 1 Kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
+      "list_id": 7131,
+      "name": "Riz makalioka rouge 5 kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     }

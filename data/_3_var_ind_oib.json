@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "cle": "televiseursetsupports_14838televiseur4kminiqledtcl55c803144hznatifgoogletvtcl_html",
+      "name": "T\u00e9l\u00e9viseur 4K MINI QLED TCL 55C803 - 144HZ NATIF GOOGLE TV TCL",
+      "prix_base": 5010000,
+      "prix_comparaison": 5258000,
+      "variation": 248000
+    },
+    {
       "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
       "name": "SAMSUNG Galaxy S24 256 Go Indigo",
       "prix_base": 4240000,
@@ -20,16 +27,16 @@
       "prix_base": 5227000,
       "prix_comparaison": 5450000,
       "variation": 223000
-    },
-    {
-      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
-      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
-      "prix_base": 4051000,
-      "prix_comparaison": 4263000,
-      "variation": 212000
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
+      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
+      "prix_base": 3291000,
+      "prix_comparaison": 2997000,
+      "variation": -294000
+    },
     {
       "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
       "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
@@ -38,25 +45,18 @@
       "variation": -97000
     },
     {
+      "cle": "barbecueplancha_14006barbecueelectriquesurpiedslivoodom297g_html",
+      "name": "Barbecue \u00e9lectrique sur pieds LIVOO - DOM297G",
+      "prix_base": 478000,
+      "prix_comparaison": 446000,
+      "variation": -32000
+    },
+    {
       "cle": "laitenpoudre_944laitenpoudreolait1kg_html",
       "name": "Lait en poudre O'lait 1kg",
       "prix_base": 47000,
       "prix_comparaison": 33500,
       "variation": -13500
-    },
-    {
-      "cle": "centralevapeurdefroisseur_14031arthurmartinamp467centralevapeur55bars2200wcuve14ldebitvapeur140gmin_html",
-      "name": "ARTHUR MARTIN AMP467 - Centrale Vapeur - 5.5 BARS - 2200W - Cuve 1,4 L - D\u00e9bit vapeur 140 g/min",
-      "prix_base": 614000,
-      "prix_comparaison": 609000,
-      "variation": -5000
-    },
-    {
-      "cle": "laitenpoudre_945laitenpoudreolait250g_html",
-      "name": "Lait en poudre O'lait 250g",
-      "prix_base": 13000,
-      "prix_comparaison": 9500,
-      "variation": -3500
     }
   ],
   "indices_prix_plus_eleves": [
@@ -68,22 +68,22 @@
       "indice_prix": 172.9559748427673
     },
     {
+      "cle": "raclettefonduefourapizza_14013pizzadagennaroariete909rouge_html",
+      "name": "Pizza Da Gennaro ARIETE - 909 - Rouge",
+      "prix_base": 568000,
+      "prix_comparaison": 669000,
+      "indice_prix": 117.78169014084507
+    },
+    {
+      "cle": "colas_5505boissongazeusecocacoca30cl_html",
+      "name": "Boisson gazeuse Coca cola 30cl",
+      "prix_base": 3990,
+      "prix_comparaison": 4500,
+      "indice_prix": 112.78195488721805
+    },
+    {
       "cle": "yaourtsaboire_10343yaourtaboireyamavanille125ml_html",
       "name": "Yaourt \u00e0 boire Yama vanille 125ml",
-      "prix_base": 800,
-      "prix_comparaison": 900,
-      "indice_prix": 112.5
-    },
-    {
-      "cle": "yaourtsaboire_10344yaourtaboireyamafraise125ml_html",
-      "name": "Yaourt \u00e0 boire Yama fraise 125ml",
-      "prix_base": 800,
-      "prix_comparaison": 900,
-      "indice_prix": 112.5
-    },
-    {
-      "cle": "yaourtsaboire_10345yaourtaboireyamacoco120ml_html",
-      "name": "Yaourt \u00e0 boire Yama coco 125ml",
       "prix_base": 800,
       "prix_comparaison": 900,
       "indice_prix": 112.5
@@ -105,18 +105,18 @@
       "indice_prix": 73.07692307692308
     },
     {
+      "cle": "fromagesentranches_742fromagelavachequirittranchesandwich10tranches200g_html",
+      "name": "Fromage La vache qui rit tranche sandwich 10 tranches 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 11000,
+      "indice_prix": 81.48148148148148
+    },
+    {
       "cle": "sauceschaudessaucestomates_8298laitdecoco400ml_html",
       "name": "Lait de coco 400ml",
       "prix_base": 5400,
       "prix_comparaison": 4500,
       "indice_prix": 83.33333333333333
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_1845yaourtbrasse100gnature_html",
-      "name": "Yaourt brasse nature 100g",
-      "prix_base": 1050,
-      "prix_comparaison": 890,
-      "indice_prix": 84.76190476190476
     }
   ]
 }

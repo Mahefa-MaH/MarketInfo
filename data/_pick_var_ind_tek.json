@@ -1,34 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13309,
-      "name": "Compotes pomme et poire sans sucres ajout\u00e9s 90gX4",
-      "prix_base": 19200,
-      "prix_comparaison": 15500,
-      "variation": -3700
-    },
-    {
       "list_id": 11426,
       "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
-      "prix_base": 17800,
-      "prix_comparaison": 15500,
-      "variation": -2300
+      "prix_base": 15500,
+      "prix_comparaison": 17800,
+      "variation": 2300
     }
   ],
   "indice de prix": [
     {
-      "list_id": 13309,
-      "name": "Compotes pomme et poire sans sucres ajout\u00e9s 90gX4",
-      "prix_base": 19200,
-      "prix_comparaison": 15500,
-      "indice_prix": 80.72916666666667
-    },
-    {
       "list_id": 11426,
       "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
-      "prix_base": 17800,
-      "prix_comparaison": 15500,
-      "indice_prix": 87.07865168539325
+      "prix_base": 15500,
+      "prix_comparaison": 17800,
+      "indice_prix": 114.83870967741936
     }
   ]
 }

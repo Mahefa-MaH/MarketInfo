@@ -1,356 +1,454 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphones_146901170appleiphone14plusreconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 14 Plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3719000,
-      "prix_comparaison": 3347100,
-      "variation": -371900
+      "cle": "cremeschantillyaidesculinaires_8117laitdecoco400ml_html",
+      "name": "Cr\u00e8me de coco 400ml",
+      "prix_base": 6390,
+      "prix_comparaison": 5500,
+      "variation": -890
     },
     {
-      "cle": "smartphones_14688802appleiphone13promaxreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3459000,
-      "prix_comparaison": 3113100,
-      "variation": -345900
+      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
+      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
+      "prix_base": 131000,
+      "prix_comparaison": 135000,
+      "variation": 4000
     },
     {
-      "cle": "smartphones_14687528appleiphone13proreconditionne_html_34couleurgraphite_39batterie_neuvenon_40etat_du_telephonebon_etat_47stockage256_go",
-      "name": "APPLE iPhone 13 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3359000,
-      "prix_comparaison": 3023100,
-      "variation": -335900
+      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
+      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
+      "prix_base": 377000,
+      "prix_comparaison": 386000,
+      "variation": 9000
     },
     {
-      "cle": "smartphones_146891006appleiphone14reconditionne_html_27couleurminuit_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 14\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3339000,
-      "prix_comparaison": 3005100,
-      "variation": -333900
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1607000,
+      "prix_comparaison": 1616000,
+      "variation": 9000
     },
     {
-      "cle": "smartphones_146841046appleiphone12promaxreconditionne_html_32couleurargent_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 12 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2979000,
-      "prix_comparaison": 2681100,
-      "variation": -297900
+      "cle": "casquesecouteurs_14650xiaomiecouteurssansfilbluetoothredmibuds4active_html",
+      "name": "XIAOMI - Ecouteurs sans fil Bluetooth - Redmi Buds 4 Active",
+      "prix_base": 152000,
+      "prix_comparaison": 162000,
+      "variation": 10000
     },
     {
-      "cle": "smartphones_14685355appleiphone13reconditionne_html_15couleurvert_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2739000,
-      "prix_comparaison": 2465100,
-      "variation": -273900
+      "cle": "smartphones_14641xiaomiredmi124128goargent_html",
+      "name": "XIAOMI - REDMI 12 4 - 128Go - ARGENT",
+      "prix_base": 941000,
+      "prix_comparaison": 965000,
+      "variation": 24000
     },
     {
-      "cle": "smartphones_146831430appleiphone12proreconditionne_html_5couleurgris_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 12 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2439000,
-      "prix_comparaison": 2195100,
-      "variation": -243900
+      "cle": "smartphones_14643xiaomiredmi12128go5gsilve_html",
+      "name": "XIAOMI Redmi 12 128Go 5G Silve",
+      "prix_base": 1028000,
+      "prix_comparaison": 1055000,
+      "variation": 27000
     },
     {
-      "cle": "smartphones_14678437appleiphone13minireconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13 Mini\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2299000,
-      "prix_comparaison": 2069100,
-      "variation": -229900
+      "cle": "smartphones_14652xiaomipocom5s128go4gnoirredmibuds4litemipowerredmi_html",
+      "name": "XIAOMI POCO M5S 128Go 4G Noir + Redmi Buds 4 Lite + MI POWER REDMI",
+      "prix_base": 1188000,
+      "prix_comparaison": 1218000,
+      "variation": 30000
     },
     {
-      "cle": "smartphones_14680641appleiphone11promaxreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2219000,
-      "prix_comparaison": 1997100,
-      "variation": -221900
+      "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1500000,
+      "prix_comparaison": 1539000,
+      "variation": 39000
     },
     {
-      "cle": "smartphones_14679476appleiphone11proreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1900000,
-      "prix_comparaison": 1710000,
-      "variation": -190000
+      "cle": "montresbraceletsconnectes_14796applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandml_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1302000,
+      "prix_comparaison": 1344000,
+      "variation": 42000
     },
     {
-      "cle": "smartphones_14681861appleiphone12reconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 12\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1799000,
-      "prix_comparaison": 1619100,
-      "variation": -179900
+      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1305000,
+      "prix_comparaison": 1353000,
+      "variation": 48000
     },
     {
-      "cle": "smartphones_146821206appleiphone12minireconditionne_html_8couleurblanc_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 12 Mini\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1559000,
-      "prix_comparaison": 1403100,
-      "variation": -155900
+      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
+      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2097000,
+      "prix_comparaison": 2151000,
+      "variation": 54000
     },
     {
-      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1499000,
-      "prix_comparaison": 1349100,
-      "variation": -149900
+      "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2189000,
+      "prix_comparaison": 2245000,
+      "variation": 56000
     },
     {
-      "cle": "smartphones_146961350appleiphonese2022reconditionne_html_27couleurminuit_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone SE 2022\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1399000,
-      "prix_comparaison": 1259100,
-      "variation": -139900
+      "cle": "montresbraceletsconnectes_14795applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1286000,
+      "prix_comparaison": 1353000,
+      "variation": 67000
     },
     {
-      "cle": "smartphones_147011717appleiphonexsmaxreconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone XS Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1369000,
-      "prix_comparaison": 1232100,
-      "variation": -136900
+      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
+      "name": "Apple Watch SE GPS +Cellular 40mm - Bracelet Starlight Sport Loop",
+      "prix_base": 1517000,
+      "prix_comparaison": 1588000,
+      "variation": 71000
     },
     {
-      "cle": "smartphones_147001639appleiphonexsreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_47stockage256_go",
-      "name": "APPLE iPhone XS\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1269000,
-      "prix_comparaison": 1142100,
-      "variation": -126900
+      "cle": "montresbraceletsconnectes_14798applewatchsegps44mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1420000,
+      "prix_comparaison": 1494000,
+      "variation": 74000
     },
     {
-      "cle": "smartphones_146941598appleiphonexreconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone X\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1139000,
-      "prix_comparaison": 1025100,
-      "variation": -113900
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2067000,
+      "prix_comparaison": 2141000,
+      "variation": 74000
     },
     {
-      "cle": "smartphones_14699162appleiphonexrreconditionne_html_11couleurnoir_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone XR\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1099000,
-      "prix_comparaison": 989100,
-      "variation": -109900
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2064000,
+      "prix_comparaison": 2141000,
+      "variation": 77000
     },
     {
-      "cle": "smartphones_146911334appleiphone6splusreconditionne_html_32couleurargent_39batterie_neuvenon_41etat_du_telephonetres_bon_etat_43stockage16_go",
-      "name": "APPLE iPhone 6S plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1019000,
-      "prix_comparaison": 917100,
-      "variation": -101900
+      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
+      "name": "iPhone 13 128Go Midnight",
+      "prix_base": 3029000,
+      "prix_comparaison": 3107000,
+      "variation": 78000
     },
     {
-      "cle": "smartphones_146921486appleiphone8plusreconditionne_html_32couleurargent_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 8 Plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 999000,
-      "prix_comparaison": 899100,
-      "variation": -99900
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2184000,
+      "prix_comparaison": 2288000,
+      "variation": 104000
     },
     {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5279000,
-      "prix_comparaison": 5199000,
-      "variation": -80000
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4119000,
+      "prix_comparaison": 4225000,
+      "variation": 106000
     },
     {
-      "cle": "smartphones_146981296appleiphonese2020reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone SE 2020\n                                                  - Reconditionn\u00e9",
-      "prix_base": 759000,
-      "prix_comparaison": 683100,
-      "variation": -75900
+      "cle": "montresbraceletsconnectes_14800applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2044000,
+      "prix_comparaison": 2151000,
+      "variation": 107000
     },
     {
-      "cle": "smartphones_146951368appleiphone8reconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 8\n                                                  - Reconditionn\u00e9",
-      "prix_base": 669000,
-      "prix_comparaison": 602100,
-      "variation": -66900
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 2044000,
+      "prix_comparaison": 2151000,
+      "variation": 107000
     },
     {
-      "cle": "smartphones_14693712appleiphone7reconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_44stockage32_go",
-      "name": "APPLE iPhone 7\n                                                  - Reconditionn\u00e9",
-      "prix_base": 499000,
-      "prix_comparaison": 449100,
-      "variation": -49900
+      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 5083000,
+      "prix_comparaison": 5214000,
+      "variation": 131000
     },
     {
-      "cle": "smartphones_146971091appleiphone6sreconditionne_html_36couleuror_rose_39batterie_neuvenon_40etat_du_telephonebon_etat_43stockage16_go",
-      "name": "APPLE iPhone 6S\n                                                  - Reconditionn\u00e9",
-      "prix_base": 469000,
-      "prix_comparaison": 422100,
-      "variation": -46900
+      "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3190000,
+      "prix_comparaison": 3329000,
+      "variation": 139000
+    },
+    {
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 4060000,
+      "prix_comparaison": 4225000,
+      "variation": 165000
+    },
+    {
+      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 7471000,
+      "prix_comparaison": 7663000,
+      "variation": 192000
+    },
+    {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 5632000,
+      "prix_comparaison": 5842000,
+      "variation": 210000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
+      "prix_base": 4051000,
+      "prix_comparaison": 4263000,
+      "variation": 212000
+    },
+    {
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5227000,
+      "prix_comparaison": 5450000,
+      "variation": 223000
+    },
+    {
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5779000,
+      "prix_comparaison": 6007000,
+      "variation": 228000
+    },
+    {
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 4240000,
+      "prix_comparaison": 4474000,
+      "variation": 234000
     }
   ],
   "indice de prix": [
     {
-      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1499000,
-      "prix_comparaison": 1349100,
-      "indice_prix": 90.0
+      "cle": "cremeschantillyaidesculinaires_8117laitdecoco400ml_html",
+      "name": "Cr\u00e8me de coco 400ml",
+      "prix_base": 6390,
+      "prix_comparaison": 5500,
+      "indice_prix": 86.07198748043818
     },
     {
-      "cle": "smartphones_14679476appleiphone11proreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1900000,
-      "prix_comparaison": 1710000,
-      "indice_prix": 90.0
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1607000,
+      "prix_comparaison": 1616000,
+      "indice_prix": 100.56004978220287
     },
     {
-      "cle": "smartphones_14680641appleiphone11promaxreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2219000,
-      "prix_comparaison": 1997100,
-      "indice_prix": 90.0
+      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
+      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
+      "prix_base": 377000,
+      "prix_comparaison": 386000,
+      "indice_prix": 102.38726790450929
     },
     {
-      "cle": "smartphones_14681861appleiphone12reconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 12\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1799000,
-      "prix_comparaison": 1619100,
-      "indice_prix": 90.0
+      "cle": "smartphones_14652xiaomipocom5s128go4gnoirredmibuds4litemipowerredmi_html",
+      "name": "XIAOMI POCO M5S 128Go 4G Noir + Redmi Buds 4 Lite + MI POWER REDMI",
+      "prix_base": 1188000,
+      "prix_comparaison": 1218000,
+      "indice_prix": 102.52525252525253
     },
     {
-      "cle": "smartphones_146821206appleiphone12minireconditionne_html_8couleurblanc_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 12 Mini\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1559000,
-      "prix_comparaison": 1403100,
-      "indice_prix": 90.0
+      "cle": "smartphones_14641xiaomiredmi124128goargent_html",
+      "name": "XIAOMI - REDMI 12 4 - 128Go - ARGENT",
+      "prix_base": 941000,
+      "prix_comparaison": 965000,
+      "indice_prix": 102.55047821466525
     },
     {
-      "cle": "smartphones_146831430appleiphone12proreconditionne_html_5couleurgris_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 12 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2439000,
-      "prix_comparaison": 2195100,
-      "indice_prix": 90.0
+      "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2189000,
+      "prix_comparaison": 2245000,
+      "indice_prix": 102.55824577432618
     },
     {
-      "cle": "smartphones_146841046appleiphone12promaxreconditionne_html_32couleurargent_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 12 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2979000,
-      "prix_comparaison": 2681100,
-      "indice_prix": 90.0
+      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 7471000,
+      "prix_comparaison": 7663000,
+      "indice_prix": 102.56993709008165
     },
     {
-      "cle": "smartphones_14685355appleiphone13reconditionne_html_15couleurvert_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2739000,
-      "prix_comparaison": 2465100,
-      "indice_prix": 90.0
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4119000,
+      "prix_comparaison": 4225000,
+      "indice_prix": 102.57344015537753
     },
     {
-      "cle": "smartphones_14678437appleiphone13minireconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13 Mini\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2299000,
-      "prix_comparaison": 2069100,
-      "indice_prix": 90.0
+      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
+      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2097000,
+      "prix_comparaison": 2151000,
+      "indice_prix": 102.57510729613733
     },
     {
-      "cle": "smartphones_14687528appleiphone13proreconditionne_html_34couleurgraphite_39batterie_neuvenon_40etat_du_telephonebon_etat_47stockage256_go",
-      "name": "APPLE iPhone 13 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3359000,
-      "prix_comparaison": 3023100,
-      "indice_prix": 90.0
+      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
+      "name": "iPhone 13 128Go Midnight",
+      "prix_base": 3029000,
+      "prix_comparaison": 3107000,
+      "indice_prix": 102.57510729613733
     },
     {
-      "cle": "smartphones_14688802appleiphone13promaxreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3459000,
-      "prix_comparaison": 3113100,
-      "indice_prix": 90.0
+      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 5083000,
+      "prix_comparaison": 5214000,
+      "indice_prix": 102.5772181782412
     },
     {
-      "cle": "smartphones_146891006appleiphone14reconditionne_html_27couleurminuit_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 14\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3339000,
-      "prix_comparaison": 3005100,
-      "indice_prix": 90.0
+      "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1500000,
+      "prix_comparaison": 1539000,
+      "indice_prix": 102.6
     },
     {
-      "cle": "smartphones_146901170appleiphone14plusreconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 14 Plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3719000,
-      "prix_comparaison": 3347100,
-      "indice_prix": 90.0
+      "cle": "smartphones_14643xiaomiredmi12128go5gsilve_html",
+      "name": "XIAOMI Redmi 12 128Go 5G Silve",
+      "prix_base": 1028000,
+      "prix_comparaison": 1055000,
+      "indice_prix": 102.62645914396887
     },
     {
-      "cle": "smartphones_146971091appleiphone6sreconditionne_html_36couleuror_rose_39batterie_neuvenon_40etat_du_telephonebon_etat_43stockage16_go",
-      "name": "APPLE iPhone 6S\n                                                  - Reconditionn\u00e9",
-      "prix_base": 469000,
-      "prix_comparaison": 422100,
-      "indice_prix": 90.0
+      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
+      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
+      "prix_base": 131000,
+      "prix_comparaison": 135000,
+      "indice_prix": 103.05343511450381
     },
     {
-      "cle": "smartphones_146911334appleiphone6splusreconditionne_html_32couleurargent_39batterie_neuvenon_41etat_du_telephonetres_bon_etat_43stockage16_go",
-      "name": "APPLE iPhone 6S plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1019000,
-      "prix_comparaison": 917100,
-      "indice_prix": 90.0
+      "cle": "montresbraceletsconnectes_14796applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandml_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1302000,
+      "prix_comparaison": 1344000,
+      "indice_prix": 103.2258064516129
     },
     {
-      "cle": "smartphones_14693712appleiphone7reconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_44stockage32_go",
-      "name": "APPLE iPhone 7\n                                                  - Reconditionn\u00e9",
-      "prix_base": 499000,
-      "prix_comparaison": 449100,
-      "indice_prix": 90.0
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2067000,
+      "prix_comparaison": 2141000,
+      "indice_prix": 103.58006773101113
     },
     {
-      "cle": "smartphones_146951368appleiphone8reconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 8\n                                                  - Reconditionn\u00e9",
-      "prix_base": 669000,
-      "prix_comparaison": 602100,
-      "indice_prix": 90.0
+      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1305000,
+      "prix_comparaison": 1353000,
+      "indice_prix": 103.67816091954023
     },
     {
-      "cle": "smartphones_146921486appleiphone8plusreconditionne_html_32couleurargent_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 8 Plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 999000,
-      "prix_comparaison": 899100,
-      "indice_prix": 90.0
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 5632000,
+      "prix_comparaison": 5842000,
+      "indice_prix": 103.72869318181819
     },
     {
-      "cle": "smartphones_146981296appleiphonese2020reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone SE 2020\n                                                  - Reconditionn\u00e9",
-      "prix_base": 759000,
-      "prix_comparaison": 683100,
-      "indice_prix": 90.0
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2064000,
+      "prix_comparaison": 2141000,
+      "indice_prix": 103.73062015503876
     },
     {
-      "cle": "smartphones_146961350appleiphonese2022reconditionne_html_27couleurminuit_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone SE 2022\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1399000,
-      "prix_comparaison": 1259100,
-      "indice_prix": 90.0
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5779000,
+      "prix_comparaison": 6007000,
+      "indice_prix": 103.94531925938743
     },
     {
-      "cle": "smartphones_146941598appleiphonexreconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone X\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1139000,
-      "prix_comparaison": 1025100,
-      "indice_prix": 90.0
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 4060000,
+      "prix_comparaison": 4225000,
+      "indice_prix": 104.06403940886699
     },
     {
-      "cle": "smartphones_14699162appleiphonexrreconditionne_html_11couleurnoir_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone XR\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1099000,
-      "prix_comparaison": 989100,
-      "indice_prix": 90.0
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5227000,
+      "prix_comparaison": 5450000,
+      "indice_prix": 104.26630954658503
     },
     {
-      "cle": "smartphones_147001639appleiphonexsreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_47stockage256_go",
-      "name": "APPLE iPhone XS\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1269000,
-      "prix_comparaison": 1142100,
-      "indice_prix": 90.0
+      "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3190000,
+      "prix_comparaison": 3329000,
+      "indice_prix": 104.35736677115987
     },
     {
-      "cle": "smartphones_147011717appleiphonexsmaxreconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone XS Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1369000,
-      "prix_comparaison": 1232100,
-      "indice_prix": 90.0
+      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
+      "name": "Apple Watch SE GPS +Cellular 40mm - Bracelet Starlight Sport Loop",
+      "prix_base": 1517000,
+      "prix_comparaison": 1588000,
+      "indice_prix": 104.68029004614371
     },
     {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5279000,
-      "prix_comparaison": 5199000,
-      "indice_prix": 98.48456146997538
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2184000,
+      "prix_comparaison": 2288000,
+      "indice_prix": 104.76190476190476
+    },
+    {
+      "cle": "montresbraceletsconnectes_14795applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1286000,
+      "prix_comparaison": 1353000,
+      "indice_prix": 105.2099533437014
+    },
+    {
+      "cle": "montresbraceletsconnectes_14798applewatchsegps44mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1420000,
+      "prix_comparaison": 1494000,
+      "indice_prix": 105.21126760563381
+    },
+    {
+      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
+      "prix_base": 4051000,
+      "prix_comparaison": 4263000,
+      "indice_prix": 105.23327573438657
+    },
+    {
+      "cle": "montresbraceletsconnectes_14800applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2044000,
+      "prix_comparaison": 2151000,
+      "indice_prix": 105.23483365949119
+    },
+    {
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 2044000,
+      "prix_comparaison": 2151000,
+      "indice_prix": 105.23483365949119
+    },
+    {
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 4240000,
+      "prix_comparaison": 4474000,
+      "indice_prix": 105.51886792452831
+    },
+    {
+      "cle": "casquesecouteurs_14650xiaomiecouteurssansfilbluetoothredmibuds4active_html",
+      "name": "XIAOMI - Ecouteurs sans fil Bluetooth - Redmi Buds 4 Active",
+      "prix_base": 152000,
+      "prix_comparaison": 162000,
+      "indice_prix": 106.57894736842105
     }
   ]
 }
