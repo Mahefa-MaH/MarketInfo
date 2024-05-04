@@ -13,6 +13,20 @@
       "prix_base": 4240000,
       "prix_comparaison": 4474000,
       "variation": 234000
+    },
+    {
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5779000,
+      "prix_comparaison": 6007000,
+      "variation": 228000
+    },
+    {
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5227000,
+      "prix_comparaison": 5450000,
+      "variation": 223000
     }
   ],
   "prix_diminues": [
@@ -29,6 +43,20 @@
       "prix_base": 1468000,
       "prix_comparaison": 1371000,
       "variation": -97000
+    },
+    {
+      "cle": "barbecueplancha_14006barbecueelectriquesurpiedslivoodom297g_html",
+      "name": "Barbecue \u00e9lectrique sur pieds LIVOO - DOM297G",
+      "prix_base": 478000,
+      "prix_comparaison": 446000,
+      "variation": -32000
+    },
+    {
+      "cle": "laitenpoudre_944laitenpoudreolait1kg_html",
+      "name": "Lait en poudre O'lait 1kg",
+      "prix_base": 47000,
+      "prix_comparaison": 33500,
+      "variation": -13500
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +73,20 @@
       "prix_base": 568000,
       "prix_comparaison": 669000,
       "indice_prix": 117.78169014084507
+    },
+    {
+      "cle": "colas_5505boissongazeusecocacoca30cl_html",
+      "name": "Boisson gazeuse Coca cola 30cl",
+      "prix_base": 3990,
+      "prix_comparaison": 4500,
+      "indice_prix": 112.78195488721805
+    },
+    {
+      "cle": "yaourtsaboire_10343yaourtaboireyamavanille125ml_html",
+      "name": "Yaourt \u00e0 boire Yama vanille 125ml",
+      "prix_base": 800,
+      "prix_comparaison": 900,
+      "indice_prix": 112.5
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +103,20 @@
       "prix_base": 13000,
       "prix_comparaison": 9500,
       "indice_prix": 73.07692307692308
+    },
+    {
+      "cle": "fromagesentranches_742fromagelavachequirittranchesandwich10tranches200g_html",
+      "name": "Fromage La vache qui rit tranche sandwich 10 tranches 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 11000,
+      "indice_prix": 81.48148148148148
+    },
+    {
+      "cle": "sauceschaudessaucestomates_8298laitdecoco400ml_html",
+      "name": "Lait de coco 400ml",
+      "prix_base": 5400,
+      "prix_comparaison": 4500,
+      "indice_prix": 83.33333333333333
     }
   ]
 }

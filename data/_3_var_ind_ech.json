@@ -1,122 +1,30 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
-      "prix_base": 29330,
-      "prix_comparaison": 32000,
-      "variation": 2670
-    },
-    {
-      "cle": "produit_chouxrouge1piecelaisoa_",
-      "name": "Choux rouge 1 pi\u00e8ce | Laisoa",
-      "prix_base": 6800,
-      "prix_comparaison": 9400,
-      "variation": 2600
-    },
-    {
-      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 5333,
-      "prix_comparaison": 6700,
-      "variation": 1367
-    },
-    {
-      "cle": "produit_oignonsfrais1kggroscalibre_",
-      "name": "Oignons frais 1kg | Gros Calibre",
-      "prix_base": 8667,
-      "prix_comparaison": 9400,
-      "variation": 733
-    },
-    {
-      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
-      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
-      "prix_base": 2700,
-      "prix_comparaison": 3200,
-      "variation": 500
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
-      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
-      "prix_base": 2700,
-      "prix_comparaison": 3200,
-      "variation": 500
-    },
-    {
-      "cle": "produit_oignonsfrais1kggroscalibre_",
-      "name": "Oignons frais 1kg | Gros Calibre",
-      "prix_base": 8667,
-      "prix_comparaison": 9400,
-      "variation": 733
-    },
-    {
-      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 5333,
-      "prix_comparaison": 6700,
-      "variation": 1367
-    },
-    {
-      "cle": "produit_chouxrouge1piecelaisoa_",
-      "name": "Choux rouge 1 pi\u00e8ce | Laisoa",
-      "prix_base": 6800,
-      "prix_comparaison": 9400,
-      "variation": 2600
-    },
-    {
-      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
-      "prix_base": 29330,
-      "prix_comparaison": 32000,
-      "variation": 2670
+      "cle": "produit_tamponsabrasifsalbapaquetde5_",
+      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
+      "prix_base": 5430,
+      "prix_comparaison": 4920,
+      "variation": -510
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_chouxrouge1piecelaisoa_",
-      "name": "Choux rouge 1 pi\u00e8ce | Laisoa",
-      "prix_base": 6800,
-      "prix_comparaison": 9400,
-      "indice_prix": 138.23529411764707
-    },
-    {
-      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 5333,
-      "prix_comparaison": 6700,
-      "indice_prix": 125.63285205325333
-    },
-    {
-      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
-      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
-      "prix_base": 2700,
-      "prix_comparaison": 3200,
-      "indice_prix": 118.51851851851852
+      "cle": "produit_tamponsabrasifsalbapaquetde5_",
+      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
+      "prix_base": 5430,
+      "prix_comparaison": 4920,
+      "indice_prix": 90.60773480662984
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_oignonsfrais1kggroscalibre_",
-      "name": "Oignons frais 1kg | Gros Calibre",
-      "prix_base": 8667,
-      "prix_comparaison": 9400,
-      "indice_prix": 108.45736702434522
-    },
-    {
-      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
-      "prix_base": 29330,
-      "prix_comparaison": 32000,
-      "indice_prix": 109.10330719399931
-    },
-    {
-      "cle": "produit_sakayfantsinakoholahyfrais100gpimentdemadagascar_",
-      "name": "Sakay Fantsin\u2019akoholahy Frais 100g | Piment de Madagascar",
-      "prix_base": 2700,
-      "prix_comparaison": 3200,
-      "indice_prix": 118.51851851851852
+      "cle": "produit_tamponsabrasifsalbapaquetde5_",
+      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
+      "prix_base": 5430,
+      "prix_comparaison": 4920,
+      "indice_prix": 90.60773480662984
     }
   ]
 }
