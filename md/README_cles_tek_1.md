@@ -14,7 +14,7 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz Rouge 5 Kg**
+3. **Riz makalioka rouge 5 kg**
    - Prix avant: 19,800 Ar
    - Prix actuel: 19,800 Ar
    - Variation: 0 Ar
