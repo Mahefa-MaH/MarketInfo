@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 11426,
-      "prix_base": 15500,
-      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
-      "prix_comparaison": 17800,
-      "variation": 2300
+      "list_id": 12809,
+      "prix_base": 16700,
+      "name": "Pomme de terre dauphine 500 g",
+      "prix_comparaison": 26700,
+      "variation": 10000
+    },
+    {
+      "list_id": 12830,
+      "prix_base": 31100,
+      "name": "Po\u00eal\u00e9e M\u00e9ridionale 1 kg",
+      "prix_comparaison": 40800,
+      "variation": 9700
+    },
+    {
+      "list_id": 12882,
+      "prix_base": 14300,
+      "name": "Ice jets X8 480 g",
+      "prix_comparaison": 21000,
+      "variation": 6700
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 11426,
-      "prix_base": 15500,
-      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
-      "prix_comparaison": 17800,
-      "variation": 2300
+      "list_id": 12825,
+      "prix_base": 26300,
+      "name": "Petits Pois doux extra-fins 1 kg",
+      "prix_comparaison": 31600,
+      "variation": 5300
+    },
+    {
+      "list_id": 12660,
+      "prix_base": 21500,
+      "name": "Sorbet citron jaune 1l",
+      "prix_comparaison": 27200,
+      "variation": 5700
+    },
+    {
+      "list_id": 13024,
+      "prix_base": 24000,
+      "name": "Po\u00eal\u00e9e \u00e0 la Mexicaine 750 g",
+      "prix_comparaison": 30400,
+      "variation": 6400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 11426,
-      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
-      "prix_base": 15500,
-      "prix_comparaison": 17800,
-      "indice_prix": 114.83870967741936
+      "list_id": 12809,
+      "name": "Pomme de terre dauphine 500 g",
+      "prix_base": 16700,
+      "prix_comparaison": 26700,
+      "indice_prix": 159.88023952095807
+    },
+    {
+      "list_id": 12882,
+      "name": "Ice jets X8 480 g",
+      "prix_base": 14300,
+      "prix_comparaison": 21000,
+      "indice_prix": 146.85314685314685
+    },
+    {
+      "list_id": 12830,
+      "name": "Po\u00eal\u00e9e M\u00e9ridionale 1 kg",
+      "prix_base": 31100,
+      "prix_comparaison": 40800,
+      "indice_prix": 131.18971061093248
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 11426,
-      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
-      "prix_base": 15500,
-      "prix_comparaison": 17800,
-      "indice_prix": 114.83870967741936
+      "list_id": 12825,
+      "name": "Petits Pois doux extra-fins 1 kg",
+      "prix_base": 26300,
+      "prix_comparaison": 31600,
+      "indice_prix": 120.15209125475285
+    },
+    {
+      "list_id": 12660,
+      "name": "Sorbet citron jaune 1l",
+      "prix_base": 21500,
+      "prix_comparaison": 27200,
+      "indice_prix": 126.51162790697674
+    },
+    {
+      "list_id": 13024,
+      "name": "Po\u00eal\u00e9e \u00e0 la Mexicaine 750 g",
+      "prix_base": 24000,
+      "prix_comparaison": 30400,
+      "indice_prix": 126.66666666666667
     }
   ]
 }
