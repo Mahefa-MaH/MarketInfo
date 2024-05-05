@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages étroits, App, Silencieux, Robot de Tonte**
-   - Prix avant: 11,121,000 Ar
-   - Prix actuel: 11,121,000 Ar
+1. **PC de bureau Gaming Omen by HP 45L GT22-1038nf - Intel Core i9-13900K - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDO**
+   - Prix avant: 31,557,000 Ar
+   - Prix actuel: 31,557,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Tondeuse autoportée thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm³ - Jusqu'a 2800 m²**
-   - Prix avant: 14,191,000 Ar
-   - Prix actuel: 14,191,000 Ar
+2. **Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver**
+   - Prix avant: 21,256,000 Ar
+   - Prix actuel: 21,256,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Tondeuse autoportée thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m²**
-   - Prix avant: 12,788,000 Ar
-   - Prix actuel: 12,788,000 Ar
+3. **Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver**
+   - Prix avant: 11,581,000 Ar
+   - Prix actuel: 11,581,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

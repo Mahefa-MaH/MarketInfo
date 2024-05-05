@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_95365gardenatondeuserobotsmartsilenolife1000tondsouslapluieetpassagesetroitsappsilencieuxrobotdetonte4078500060592_html",
-      "name": "GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages \u00e9troits, App, Silencieux, Robot de Tonte",
-      "prix_base": 11121000,
-      "prix_comparaison": 11121000,
+      "cle": "unitecentraleseuleminipc_124797pcdebureaugamingomenbyhp45lgt221038nfintelcorei913900kram32goddr51tossdgeforcertx408016gofreedo0197497044515_html",
+      "name": "PC de bureau Gaming Omen by HP 45L GT22-1038nf - Intel Core i9-13900K - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDO",
+      "prix_base": 31557000,
+      "prix_comparaison": 31557000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
-      "prix_base": 14191000,
-      "prix_comparaison": 14191000,
+      "cle": "unitecentraleseuleminipc_125031applemacstudioapplem2ultra24corecpu60coregpuram64gostockage1tosilver0194253433538_html",
+      "name": "Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver",
+      "prix_base": 21256000,
+      "prix_comparaison": 21256000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
-      "prix_base": 12788000,
-      "prix_comparaison": 12788000,
+      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
+      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
+      "prix_base": 11581000,
+      "prix_comparaison": 11581000,
       "variation": 0,
       "indice_prix": 100.0
     }

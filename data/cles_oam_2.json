@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
-      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
-      "prix_base": 11344000,
-      "prix_comparaison": 11344000,
+      "cle": "unitecentraleseuleminipc_124796pcdebureaugamingomenbyhp45lgt221037nfintelcorei713700kram32goddr51tossdgeforcertx409024gofreedo0197497044478_html",
+      "name": "PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS",
+      "prix_base": 33167000,
+      "prix_comparaison": 33167000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_100076tondeuseautoportee61cmdecoupe224ccmr22461scheppach4046664176213_html",
-      "name": "Tondeuse rider autoport\u00e9e thermique 61 cm de coupe 224cc MR224-61 SCHEPPACH - Bac de collecte de 150L",
-      "prix_base": 10465000,
-      "prix_comparaison": 10465000,
+      "cle": "unitecentraleseuleminipc_92289pcdebureaugamingomenbyhp40lgt211033nfintelcorei713700kram32go1tossdgeforcertx408016gowindows110197192261774_html",
+      "name": "PC Gamer Omen by HP 40L GT21-1033nf- Intel Core i7-13700K - RAM 32Go - 1To SSD - GeForce RTX 4080 16Go - Windows 11",
+      "prix_base": 16437000,
+      "prix_comparaison": 16437000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuse_88490tondeuserobotgardenasilenolife125015103264078500043816_html",
-      "name": "Tondeuse robot connect\u00e9e Bluetooth GARDENA SILENO life 1250 - 1250 m\u00b2 - 15103-26",
-      "prix_base": 10723000,
-      "prix_comparaison": 10723000,
+      "cle": "unitecentraleseuleminipc_124795pcdebureaugamingomenbyhp45lgt221036nfryzen97900xram32goddr51tossdnvidiageforcertx409024gofreedo0197497044461_html",
+      "name": "PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS",
+      "prix_base": 33972000,
+      "prix_comparaison": 33972000,
       "variation": 0,
       "indice_prix": 100.0
     }
