@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "farinesetchapelures_13065farinepourpainblanc1kgchabrior_html",
-      "name": "Farine pour  pain blanc 1kg",
-      "prix_base": 8500,
-      "prix_comparaison": 8500,
+      "cle": "sucres_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 8600,
+      "prix_comparaison": 8600,
       "variation": 0,
       "indice_prix": 100.0
     },
