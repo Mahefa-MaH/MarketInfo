@@ -2,9 +2,9 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz blanc de l'Itasy 5kg**
-   - Prix avant: 18,400 Ar
-   - Prix actuel: 18,400 Ar
+1. **Détartrant ménager rouge 1L**
+   - Prix avant: 3,890 Ar
+   - Prix actuel: 3,890 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz gasy mena  1kg**
-   - Prix avant: 4,250 Ar
-   - Prix actuel: 4,250 Ar
+3. **Riz blanc de l'Itasy 5kg**
+   - Prix avant: 18,400 Ar
+   - Prix actuel: 18,400 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_7474rizrougecomplet5kg_html",
-      "name": "Riz rouge complet 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
+      "cle": "sucres_4881sucreblancfana1kg_html",
+      "name": "Sucre blanc Fana 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_8994huiledesoja1l_html",
-      "name": "Huile de soja 1L",
-      "prix_base": 15500,
-      "prix_comparaison": 15500,
+      "cle": "sucres_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 8600,
+      "prix_comparaison": 8600,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8900,
-      "prix_comparaison": 8900,
+      "cle": "riz_11442rizgasymena1kg_html",
+      "name": "Riz gasy mena  1kg",
+      "prix_base": 4250,
+      "prix_comparaison": 4250,
       "variation": 0,
       "indice_prix": 100.0
     }
