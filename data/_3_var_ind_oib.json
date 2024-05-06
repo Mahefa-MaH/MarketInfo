@@ -1,38 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "televiseursetsupports_14838televiseur4kminiqledtcl55c803144hznatifgoogletvtcl_html",
-      "name": "T\u00e9l\u00e9viseur 4K MINI QLED TCL 55C803 - 144HZ NATIF GOOGLE TV TCL",
-      "prix_base": 5010000,
-      "prix_comparaison": 5258000,
-      "variation": 248000
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 6007000,
+      "prix_comparaison": 6107000,
+      "variation": 100000
+    },
+    {
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5450000,
+      "prix_comparaison": 5524000,
+      "variation": 74000
+    },
+    {
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 4225000,
+      "prix_comparaison": 4289000,
+      "variation": 64000
+    },
+    {
+      "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1539000,
+      "prix_comparaison": 1583000,
+      "variation": 44000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
-      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
-      "prix_base": 3291000,
-      "prix_comparaison": 2997000,
-      "variation": -294000
+      "cle": "enceintesbluetooth_14875enceinteportablebluetoothnoirinovalleyhp202bthb_html",
+      "name": "ENCEINTE PORTABLE BLUETOOTH NOIR - INOVALLEY - HP202-BTH-B",
+      "prix_base": 155000,
+      "prix_comparaison": 125000,
+      "variation": -30000
+    },
+    {
+      "cle": "rasagehomme_14001remingtonhc5810coffretcheveuxtondeusecheveuxhommelamesautoaffuteesadvancedceramicmoteurpropuissant_html",
+      "name": "Remington HC5810 Coffret Cheveux, Tondeuse Cheveux Homme,Lames Auto-Aff\u00fbt\u00e9es Advanced Ceramic, Moteur Pro Puissant",
+      "prix_base": 353000,
+      "prix_comparaison": 331000,
+      "variation": -22000
+    },
+    {
+      "cle": "centralevapeurdefroisseur_14031arthurmartinamp467centralevapeur55bars2200wcuve14ldebitvapeur140gmin_html",
+      "name": "ARTHUR MARTIN AMP467 - Centrale Vapeur - 5.5 BARS - 2200W - Cuve 1,4 L - D\u00e9bit vapeur 140 g/min",
+      "prix_base": 609000,
+      "prix_comparaison": 591000,
+      "variation": -18000
+    },
+    {
+      "cle": "televiseursetsupports_14835continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb_html",
+      "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
+      "prix_base": 1634000,
+      "prix_comparaison": 1624000,
+      "variation": -10000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "coiffure_14657remingtons1510feralisserlisseurplaquesflottantestourmalineioniquecramiqueantistatiqueglissefacilelger_html",
-      "name": "Remington S1510 Fer a Lisser Lisseur Plaques Flottantes, Tourmaline Ionique, C\u00e9ramique, Antistatique, Glisse Facile, L\u008eger",
-      "prix_base": 159000,
-      "prix_comparaison": 275000,
-      "indice_prix": 172.9559748427673
+      "cle": "fromagesentranches_742fromagelavachequirittranchesandwich10tranches200g_html",
+      "name": "Fromage La vache qui rit sandwich original 10 tranches 200g",
+      "prix_base": 11000,
+      "prix_comparaison": 13500,
+      "indice_prix": 122.72727272727273
+    },
+    {
+      "cle": "fromagesfondusetatartiner_4715fromagelavachequiritlight200g_html",
+      "name": "Fromage La vache qui rit sandwich Light 10 tranches 200g",
+      "prix_base": 11000,
+      "prix_comparaison": 13500,
+      "indice_prix": 122.72727272727273
+    },
+    {
+      "cle": "sauceschaudessaucestomates_8298laitdecoco400ml_html",
+      "name": "Lait de coco 400ml",
+      "prix_base": 4500,
+      "prix_comparaison": 5400,
+      "indice_prix": 120.0
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1861yaourtbrassesucre100gvanille_html",
+      "name": "Yaourt brasse sucre vanille 100g",
+      "prix_base": 890,
+      "prix_comparaison": 1050,
+      "indice_prix": 117.97752808988764
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "laitenpoudre_944laitenpoudreolait1kg_html",
-      "name": "Lait en poudre O'lait 1kg",
-      "prix_base": 47000,
-      "prix_comparaison": 33500,
-      "indice_prix": 71.27659574468085
+      "cle": "enceintesbluetooth_14875enceinteportablebluetoothnoirinovalleyhp202bthb_html",
+      "name": "ENCEINTE PORTABLE BLUETOOTH NOIR - INOVALLEY - HP202-BTH-B",
+      "prix_base": 155000,
+      "prix_comparaison": 125000,
+      "indice_prix": 80.64516129032258
+    },
+    {
+      "cle": "rasagehomme_14001remingtonhc5810coffretcheveuxtondeusecheveuxhommelamesautoaffuteesadvancedceramicmoteurpropuissant_html",
+      "name": "Remington HC5810 Coffret Cheveux, Tondeuse Cheveux Homme,Lames Auto-Aff\u00fbt\u00e9es Advanced Ceramic, Moteur Pro Puissant",
+      "prix_base": 353000,
+      "prix_comparaison": 331000,
+      "indice_prix": 93.76770538243626
+    },
+    {
+      "cle": "centralevapeurdefroisseur_14031arthurmartinamp467centralevapeur55bars2200wcuve14ldebitvapeur140gmin_html",
+      "name": "ARTHUR MARTIN AMP467 - Centrale Vapeur - 5.5 BARS - 2200W - Cuve 1,4 L - D\u00e9bit vapeur 140 g/min",
+      "prix_base": 609000,
+      "prix_comparaison": 591000,
+      "indice_prix": 97.04433497536945
+    },
+    {
+      "cle": "coiffure_13987remingtond5715sechecheveuxprofessionnelioniquethermacare2300wgrilleceramiquechaleurhomogene_html",
+      "name": "REMINGTON D5715 Seche-Cheveux Professionnel Ionique Thermacare 2300W, Grille C\u008eramique, Chaleur Homogene",
+      "prix_base": 250000,
+      "prix_comparaison": 244000,
+      "indice_prix": 97.6
     }
   ]
 }
