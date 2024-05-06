@@ -1,30 +1,66 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 4670,
+      "prix_comparaison": 6700,
+      "variation": 2030
+    },
+    {
+      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 2000,
+      "prix_comparaison": 3400,
+      "variation": 1400
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_tamponsabrasifsalbapaquetde5_",
-      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
-      "prix_base": 5430,
-      "prix_comparaison": 4920,
-      "variation": -510
+      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 2000,
+      "prix_comparaison": 3400,
+      "variation": 1400
+    },
+    {
+      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 4670,
+      "prix_comparaison": 6700,
+      "variation": 2030
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_tamponsabrasifsalbapaquetde5_",
-      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
-      "prix_base": 5430,
-      "prix_comparaison": 4920,
-      "indice_prix": 90.60773480662984
+      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 2000,
+      "prix_comparaison": 3400,
+      "indice_prix": 170.0
+    },
+    {
+      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 4670,
+      "prix_comparaison": 6700,
+      "indice_prix": 143.46895074946468
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_tamponsabrasifsalbapaquetde5_",
-      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
-      "prix_base": 5430,
-      "prix_comparaison": 4920,
-      "indice_prix": 90.60773480662984
+      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 4670,
+      "prix_comparaison": 6700,
+      "indice_prix": 143.46895074946468
+    },
+    {
+      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 2000,
+      "prix_comparaison": 3400,
+      "indice_prix": 170.0
     }
   ]
 }
