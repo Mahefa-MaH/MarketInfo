@@ -1,20 +1,34 @@
 {
   "Variation de prix": [
     {
-      "list_id": 11426,
-      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
-      "prix_base": 15500,
-      "prix_comparaison": 17800,
-      "variation": 2300
+      "list_id": 12466,
+      "name": "Riz complet long grain 10 minutes 500 g",
+      "prix_base": 8400,
+      "prix_comparaison": 8700,
+      "variation": 300
+    },
+    {
+      "list_id": 12451,
+      "name": "Riz rouge long grain complet 500 g",
+      "prix_base": 11900,
+      "prix_comparaison": 12300,
+      "variation": 400
     }
   ],
   "indice de prix": [
     {
-      "list_id": 11426,
-      "name": "Compotes de pomme et poire sans sucres ajout\u00e9s 4 x 100 g",
-      "prix_base": 15500,
-      "prix_comparaison": 17800,
-      "indice_prix": 114.83870967741936
+      "list_id": 12451,
+      "name": "Riz rouge long grain complet 500 g",
+      "prix_base": 11900,
+      "prix_comparaison": 12300,
+      "indice_prix": 103.36134453781513
+    },
+    {
+      "list_id": 12466,
+      "name": "Riz complet long grain 10 minutes 500 g",
+      "prix_base": 8400,
+      "prix_comparaison": 8700,
+      "indice_prix": 103.57142857142857
     }
   ]
 }

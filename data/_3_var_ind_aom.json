@@ -1,150 +1,150 @@
 {
   "prix_augmentes": [
     {
+      "cle": "yaourtierefromagere_135811yaourtiere7potshkoenig3701335302216_html",
+      "name": "Yaourtiere 7 pots HKoeNIG",
+      "prix_base": 374000,
+      "prix_comparaison": 384000,
+      "variation": 10000
+    },
+    {
+      "cle": "serviettedebaindrapdebain_1265622serviettesdebaintoday50x902drapsdebain70x130cm100cotondenim3574641225520_html",
+      "name": "2 Serviettes de bain TODAY 50x90 + 2 Draps de bain 70x130 cm 100% Coton - Denim",
+      "prix_base": 224000,
+      "prix_comparaison": 232000,
+      "variation": 8000
+    },
+    {
+      "cle": "serviettedebaindrapdebain_133451todayessentialdrapdebain70x130cm100cotoncolorisocre3574641230852_html",
+      "name": "TODAY Essential - Drap de bain 70x130 cm 100% Coton coloris ocre",
+      "prix_base": 106000,
+      "prix_comparaison": 109000,
+      "variation": 3000
+    },
+    {
+      "cle": "materieldechauffagedepiscine_92344intex28685chauffagetapissolaire6941057402031_html",
+      "name": "Tapis solaire chauffant pour piscine Intex - Noir - 1,2x1,2 m - PVC - 28685",
+      "prix_base": 207000,
+      "prix_comparaison": 209000,
+      "variation": 2000
+    },
+    {
       "cle": "balaiagazonbalaiafeuilles_96082brossemotoriseetelescopique18vdiam150mm210trminperche1ma14mlivreeavec1brossemoyenne1mousse4892210186751_html",
       "name": "Brosse motoris\u00e9e t\u00e9lescopique 18V - diam. 150 mm - 210 tr/min - perche 1 m a 1,4 m - Livr\u00e9e avec 1 brosse moyenne + 1 mousse",
       "prix_base": 818000,
       "prix_comparaison": 819000,
       "variation": 1000
-    },
-    {
-      "cle": "aspirateurindustriel_39322aspirateureauetpoussierekarcherwd2plusv15418ccuvepolypropylene15l1000wfonctionsoufflerie4054278874579_html",
-      "name": "Aspirateur eau et poussiere KARCHER WD 2 Plus V-15/4/18 C - Cuve polypropylene 15 L - 1000W (Fonction soufflerie)",
-      "prix_base": 730000,
-      "prix_comparaison": 729000,
-      "variation": -1000
-    },
-    {
-      "cle": "houssedemeublesdejardin_33118sethoussecouverturechaisex4blanc3760171980637_html",
-      "name": "Housses de chaise blanches pour jardin - Set de 4",
-      "prix_base": 115000,
-      "prix_comparaison": 113000,
-      "variation": -2000
-    },
-    {
-      "cle": "houssedemeublesdejardin_33121sethoussecouverturechaisex4noir3760171980736_html",
-      "name": "Housses de chaise x4 - Noir - Meuble de jardin",
-      "prix_base": 128000,
-      "prix_comparaison": 125000,
-      "variation": -3000
-    },
-    {
-      "cle": "broyeuraccessoirebroyeur_43639broyeurdevu00e9gu00e9tauxu00e9lectrique2500wryobirsh2545bportecouteauxbac40l4892210137951_html",
-      "name": "Broyeur de v\u00e9g\u00e9taux \u00e9lectrique 2500W RYOBI RSH2545B - Porte-couteaux, bac 40L",
-      "prix_base": 1515000,
-      "prix_comparaison": 1495000,
-      "variation": -20000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "baignoire_139055baignoirepliante23x80x49cmgrisblanclooping3159059052670_html",
-      "name": "Baignoire pliante - 23x80x49 cm - Gris blanc - LOOPING",
-      "prix_base": 448000,
-      "prix_comparaison": 358000,
-      "variation": -90000
+      "cle": "drone_127445dronedjiavataexplorercombo6941565952202_html",
+      "name": "Drone Cam\u00e9ra FPV - DJI Avata Explorer - Vid\u00e9o Stabilis\u00e9e 4K - FOV 155\u00b0 - Vol Stationnaire",
+      "prix_base": 5857000,
+      "prix_comparaison": 4349000,
+      "variation": -1508000
     },
     {
-      "cle": "broyeuraccessoirebroyeur_89254packryobirsh3045uxlcomposedunbroyeurrsh3045ugantsdejardinagerenforcesettactilesrac811xllunettesdeprotecti4058546343477_html",
-      "name": "Pack broyeur de v\u00e9g\u00e9taux RYOBI RSH3045U + accessoires",
-      "prix_base": 1646000,
-      "prix_comparaison": 1591000,
-      "variation": -55000
+      "cle": "tabledejardinvendueseule_45902tabledejardinrondeacierthermolaquenassiliumenlamellesdiametre110cm3619999329770_html",
+      "name": "Table de jardin ronde - Acier thermolaqu\u00e9 + nassilium en lamelles - Diametre 110 cm",
+      "prix_base": 1682000,
+      "prix_comparaison": 1300000,
+      "variation": -382000
     },
     {
-      "cle": "broyeuraccessoirebroyeur_43639broyeurdevu00e9gu00e9tauxu00e9lectrique2500wryobirsh2545bportecouteauxbac40l4892210137951_html",
-      "name": "Broyeur de v\u00e9g\u00e9taux \u00e9lectrique 2500W RYOBI RSH2545B - Porte-couteaux, bac 40L",
-      "prix_base": 1515000,
-      "prix_comparaison": 1495000,
-      "variation": -20000
+      "cle": "tabledejardinvendueseule_50247tabledejardintabledebalconrabattablepliantegrisenacier1personne60x78x86101cm3619999332862_html",
+      "name": "Table de jardin - Table de balcon rabattable - Pliante - Gris - En acier - 1 personne - 60 x 75 x 82-92 cm",
+      "prix_base": 538000,
+      "prix_comparaison": 269000,
+      "variation": -269000
     },
     {
-      "cle": "houssedemeublesdejardin_33121sethoussecouverturechaisex4noir3760171980736_html",
-      "name": "Housses de chaise x4 - Noir - Meuble de jardin",
-      "prix_base": 128000,
-      "prix_comparaison": 125000,
-      "variation": -3000
+      "cle": "tabledejardinvendueseule_45899tableamangerdejardinacierthermolaquu00e9piedsenboistrivanite162x80x74cm3619999329879_html",
+      "name": "Table a manger de jardin - Acier thermolaqu\u00e9 + Pieds en bois + Trivanite - 162 x 80 x 74 cm",
+      "prix_base": 1810000,
+      "prix_comparaison": 1578000,
+      "variation": -232000
     },
     {
-      "cle": "houssedemeublesdejardin_33118sethoussecouverturechaisex4blanc3760171980637_html",
-      "name": "Housses de chaise blanches pour jardin - Set de 4",
-      "prix_base": 115000,
-      "prix_comparaison": 113000,
-      "variation": -2000
+      "cle": "tabledejardinvendueseule_49573tabledejardinronde90cmaciergris3619999333104_html",
+      "name": "Table de jardin ronde - 90 cm - Acier - Gris",
+      "prix_base": 495000,
+      "prix_comparaison": 356000,
+      "variation": -139000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "balaiagazonbalaiafeuilles_96082brossemotoriseetelescopique18vdiam150mm210trminperche1ma14mlivreeavec1brossemoyenne1mousse4892210186751_html",
-      "name": "Brosse motoris\u00e9e t\u00e9lescopique 18V - diam. 150 mm - 210 tr/min - perche 1 m a 1,4 m - Livr\u00e9e avec 1 brosse moyenne + 1 mousse",
-      "prix_base": 818000,
-      "prix_comparaison": 819000,
-      "indice_prix": 100.12224938875306
+      "cle": "serviettedebaindrapdebain_1265622serviettesdebaintoday50x902drapsdebain70x130cm100cotondenim3574641225520_html",
+      "name": "2 Serviettes de bain TODAY 50x90 + 2 Draps de bain 70x130 cm 100% Coton - Denim",
+      "prix_base": 224000,
+      "prix_comparaison": 232000,
+      "indice_prix": 103.57142857142857
     },
     {
-      "cle": "aspirateurindustriel_39322aspirateureauetpoussierekarcherwd2plusv15418ccuvepolypropylene15l1000wfonctionsoufflerie4054278874579_html",
-      "name": "Aspirateur eau et poussiere KARCHER WD 2 Plus V-15/4/18 C - Cuve polypropylene 15 L - 1000W (Fonction soufflerie)",
-      "prix_base": 730000,
-      "prix_comparaison": 729000,
-      "indice_prix": 99.86301369863014
+      "cle": "serviettedebaindrapdebain_133451todayessentialdrapdebain70x130cm100cotoncolorisocre3574641230852_html",
+      "name": "TODAY Essential - Drap de bain 70x130 cm 100% Coton coloris ocre",
+      "prix_base": 106000,
+      "prix_comparaison": 109000,
+      "indice_prix": 102.83018867924528
     },
     {
-      "cle": "broyeuraccessoirebroyeur_43639broyeurdevu00e9gu00e9tauxu00e9lectrique2500wryobirsh2545bportecouteauxbac40l4892210137951_html",
-      "name": "Broyeur de v\u00e9g\u00e9taux \u00e9lectrique 2500W RYOBI RSH2545B - Porte-couteaux, bac 40L",
-      "prix_base": 1515000,
-      "prix_comparaison": 1495000,
-      "indice_prix": 98.67986798679868
+      "cle": "yaourtierefromagere_135811yaourtiere7potshkoenig3701335302216_html",
+      "name": "Yaourtiere 7 pots HKoeNIG",
+      "prix_base": 374000,
+      "prix_comparaison": 384000,
+      "indice_prix": 102.67379679144385
     },
     {
-      "cle": "houssedemeublesdejardin_33118sethoussecouverturechaisex4blanc3760171980637_html",
-      "name": "Housses de chaise blanches pour jardin - Set de 4",
-      "prix_base": 115000,
-      "prix_comparaison": 113000,
-      "indice_prix": 98.26086956521739
+      "cle": "materieldechauffagedepiscine_92344intex28685chauffagetapissolaire6941057402031_html",
+      "name": "Tapis solaire chauffant pour piscine Intex - Noir - 1,2x1,2 m - PVC - 28685",
+      "prix_base": 207000,
+      "prix_comparaison": 209000,
+      "indice_prix": 100.96618357487922
     },
     {
-      "cle": "houssedemeublesdejardin_33121sethoussecouverturechaisex4noir3760171980736_html",
-      "name": "Housses de chaise x4 - Noir - Meuble de jardin",
-      "prix_base": 128000,
-      "prix_comparaison": 125000,
-      "indice_prix": 97.65625
+      "cle": "microphonepc_29265microphoneusbblueyetipourenregistrementstreaminggamingpodcastsurpcoumacbleu5099206084087_html",
+      "name": "Microphone USB - Blue Yeti - Pour Enregistrement, Streaming, Gaming, Podcast sur PC ou Mac - Bleu",
+      "prix_base": 698000,
+      "prix_comparaison": 699000,
+      "indice_prix": 100.1432664756447
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "baignoire_139055baignoirepliante23x80x49cmgrisblanclooping3159059052670_html",
-      "name": "Baignoire pliante - 23x80x49 cm - Gris blanc - LOOPING",
-      "prix_base": 448000,
-      "prix_comparaison": 358000,
-      "indice_prix": 79.91071428571429
+      "cle": "tabledejardinvendueseule_50247tabledejardintabledebalconrabattablepliantegrisenacier1personne60x78x86101cm3619999332862_html",
+      "name": "Table de jardin - Table de balcon rabattable - Pliante - Gris - En acier - 1 personne - 60 x 75 x 82-92 cm",
+      "prix_base": 538000,
+      "prix_comparaison": 269000,
+      "indice_prix": 50.0
     },
     {
-      "cle": "broyeuraccessoirebroyeur_89254packryobirsh3045uxlcomposedunbroyeurrsh3045ugantsdejardinagerenforcesettactilesrac811xllunettesdeprotecti4058546343477_html",
-      "name": "Pack broyeur de v\u00e9g\u00e9taux RYOBI RSH3045U + accessoires",
-      "prix_base": 1646000,
-      "prix_comparaison": 1591000,
-      "indice_prix": 96.65856622114217
+      "cle": "tabledejardinvendueseule_49573tabledejardinronde90cmaciergris3619999333104_html",
+      "name": "Table de jardin ronde - 90 cm - Acier - Gris",
+      "prix_base": 495000,
+      "prix_comparaison": 356000,
+      "indice_prix": 71.91919191919192
     },
     {
-      "cle": "houssedemeublesdejardin_33121sethoussecouverturechaisex4noir3760171980736_html",
-      "name": "Housses de chaise x4 - Noir - Meuble de jardin",
-      "prix_base": 128000,
-      "prix_comparaison": 125000,
-      "indice_prix": 97.65625
+      "cle": "drone_127445dronedjiavataexplorercombo6941565952202_html",
+      "name": "Drone Cam\u00e9ra FPV - DJI Avata Explorer - Vid\u00e9o Stabilis\u00e9e 4K - FOV 155\u00b0 - Vol Stationnaire",
+      "prix_base": 5857000,
+      "prix_comparaison": 4349000,
+      "indice_prix": 74.25303056172102
     },
     {
-      "cle": "houssedemeublesdejardin_33118sethoussecouverturechaisex4blanc3760171980637_html",
-      "name": "Housses de chaise blanches pour jardin - Set de 4",
-      "prix_base": 115000,
-      "prix_comparaison": 113000,
-      "indice_prix": 98.26086956521739
+      "cle": "tabledejardinvendueseule_50246tabledebalconrabattableenacier60x78x86101cmvert3619999332886_html",
+      "name": "Table de balcon rabattable - Acier - 60 x 75 x 82-92 cm - Vert",
+      "prix_base": 359000,
+      "prix_comparaison": 269000,
+      "indice_prix": 74.93036211699165
     },
     {
-      "cle": "broyeuraccessoirebroyeur_43639broyeurdevu00e9gu00e9tauxu00e9lectrique2500wryobirsh2545bportecouteauxbac40l4892210137951_html",
-      "name": "Broyeur de v\u00e9g\u00e9taux \u00e9lectrique 2500W RYOBI RSH2545B - Porte-couteaux, bac 40L",
-      "prix_base": 1515000,
-      "prix_comparaison": 1495000,
-      "indice_prix": 98.67986798679868
+      "cle": "tabledejardinvendueseule_50248tabledebalconrabattableenacierrose60x78x86101cm3619999332879_html",
+      "name": "Table de balcon rabattable - Acier - 60 x 75 x 82-92 cm - Rose",
+      "prix_base": 359000,
+      "prix_comparaison": 269000,
+      "indice_prix": 74.93036211699165
     }
   ]
 }
