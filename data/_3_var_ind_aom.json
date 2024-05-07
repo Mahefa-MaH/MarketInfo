@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "cle": "congelateurcoffre_99184congelateurcoffrecontinentaledisoncecc287we287lclasseel109cmxh85cmblanc3701542101817_html",
+      "name": "Cong\u00e9lateur coffre Continental Edison - CECC287WE 287L - Classe E - L109 cm x H85cm - blanc",
+      "prix_base": 2791000,
+      "prix_comparaison": 3030000,
+      "variation": 239000
+    },
+    {
       "cle": "yaourtierefromagere_135811yaourtiere7potshkoenig3701335302216_html",
       "name": "Yaourtiere 7 pots HKoeNIG",
       "prix_base": 374000,
@@ -27,13 +34,6 @@
       "prix_base": 207000,
       "prix_comparaison": 209000,
       "variation": 2000
-    },
-    {
-      "cle": "balaiagazonbalaiafeuilles_96082brossemotoriseetelescopique18vdiam150mm210trminperche1ma14mlivreeavec1brossemoyenne1mousse4892210186751_html",
-      "name": "Brosse motoris\u00e9e t\u00e9lescopique 18V - diam. 150 mm - 210 tr/min - perche 1 m a 1,4 m - Livr\u00e9e avec 1 brosse moyenne + 1 mousse",
-      "prix_base": 818000,
-      "prix_comparaison": 819000,
-      "variation": 1000
     }
   ],
   "prix_diminues": [
@@ -66,14 +66,21 @@
       "variation": -232000
     },
     {
-      "cle": "tabledejardinvendueseule_49573tabledejardinronde90cmaciergris3619999333104_html",
-      "name": "Table de jardin ronde - 90 cm - Acier - Gris",
-      "prix_base": 495000,
-      "prix_comparaison": 356000,
-      "variation": -139000
+      "cle": "cuisinierepianodecuisine_47596bekofdf63110dbrcuisinieretablemixtegazelectrique4zonesdoublefourelectrique49l38lal60xh85c8690842150166_html",
+      "name": "BEKO FDF63110DBR - Cuisiniere table mixte gaz / \u00e9lectrique - 4 zones - Double four \u00e9lectrique - 49 L - 38 L - A - L60 x H 85 c",
+      "prix_base": 4784000,
+      "prix_comparaison": 4630000,
+      "variation": -154000
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "congelateurcoffre_99184congelateurcoffrecontinentaledisoncecc287we287lclasseel109cmxh85cmblanc3701542101817_html",
+      "name": "Cong\u00e9lateur coffre Continental Edison - CECC287WE 287L - Classe E - L109 cm x H85cm - blanc",
+      "prix_base": 2791000,
+      "prix_comparaison": 3030000,
+      "indice_prix": 108.56323898244356
+    },
     {
       "cle": "serviettedebaindrapdebain_1265622serviettesdebaintoday50x902drapsdebain70x130cm100cotondenim3574641225520_html",
       "name": "2 Serviettes de bain TODAY 50x90 + 2 Draps de bain 70x130 cm 100% Coton - Denim",
@@ -101,13 +108,6 @@
       "prix_base": 207000,
       "prix_comparaison": 209000,
       "indice_prix": 100.96618357487922
-    },
-    {
-      "cle": "microphonepc_29265microphoneusbblueyetipourenregistrementstreaminggamingpodcastsurpcoumacbleu5099206084087_html",
-      "name": "Microphone USB - Blue Yeti - Pour Enregistrement, Streaming, Gaming, Podcast sur PC ou Mac - Bleu",
-      "prix_base": 698000,
-      "prix_comparaison": 699000,
-      "indice_prix": 100.1432664756447
     }
   ],
   "indices_prix_plus_faibles": [

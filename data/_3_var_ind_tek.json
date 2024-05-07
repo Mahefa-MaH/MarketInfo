@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 9635,
-      "prix_base": 7291100,
-      "name": "R\u00e9frig\u00e9rateur 583 L Side by Side",
-      "prix_comparaison": 8008000,
-      "variation": 716900
+      "list_id": 6617,
+      "prix_base": 66700,
+      "name": "Lait infantile Nutricia Aptajunior Premium+ No 3 900 g",
+      "prix_comparaison": 72800,
+      "variation": 6100
     },
     {
-      "list_id": 9636,
-      "prix_base": 5951800,
-      "name": "R\u00e9frig\u00e9rateur 555L Side by Side",
-      "prix_comparaison": 6493000,
-      "variation": 541200
+      "list_id": 6618,
+      "prix_base": 55000,
+      "name": "Lait de croissance 3\u00e8me \u00e2ge Bl\u00e9dilait 900 g",
+      "prix_comparaison": 60100,
+      "variation": 5100
     },
     {
-      "list_id": 8555,
-      "prix_base": 452000,
-      "name": "Tableau blanc 900 X 1200 cm avec pied",
-      "prix_comparaison": 600000,
-      "variation": 148000
+      "list_id": 660,
+      "prix_base": 19200,
+      "name": "Friandises 75 G",
+      "prix_comparaison": 22800,
+      "variation": 3600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 12598,
-      "prix_base": 35900,
-      "name": "Mangue en sachet 450 g",
-      "prix_comparaison": 24700,
-      "variation": -11200
+      "list_id": 5848,
+      "prix_base": 21200,
+      "name": "P\u00e2tes Linguine num\u00e9ro 7   500 g",
+      "prix_comparaison": 21120,
+      "variation": -80
     },
     {
-      "list_id": 12599,
-      "prix_base": 30700,
-      "name": "M\u00e9lange de fruits rouges 650 g",
-      "prix_comparaison": 29200,
-      "variation": -1500
+      "list_id": 12466,
+      "prix_base": 8400,
+      "name": "Riz complet long grain 10 minutes 500 g",
+      "prix_comparaison": 8700,
+      "variation": 300
     },
     {
-      "list_id": 4492,
-      "prix_base": 12800,
-      "name": "Corbeille \u00e0 ordure 307",
-      "prix_comparaison": 13000,
-      "variation": 200
+      "list_id": 12451,
+      "prix_base": 11900,
+      "name": "Riz rouge long grain complet 500 g",
+      "prix_comparaison": 12300,
+      "variation": 400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 12863,
-      "name": "Frittes Allumettes 6X6 2,5 kg",
-      "prix_base": 44300,
-      "prix_comparaison": 64300,
-      "indice_prix": 145.14672686230247
+      "list_id": 660,
+      "name": "Friandises 75 G",
+      "prix_base": 19200,
+      "prix_comparaison": 22800,
+      "indice_prix": 118.75
     },
     {
-      "list_id": 12828,
-      "name": "Palets aux l\u00e9gumes M\u00e9diterran\u00e9ens 300 g",
-      "prix_base": 20300,
-      "prix_comparaison": 28400,
-      "indice_prix": 139.9014778325123
+      "list_id": 6597,
+      "name": "Gel assouplissant et d\u00e9sodorisant lavande murmure 1 L",
+      "prix_base": 16600,
+      "prix_comparaison": 18200,
+      "indice_prix": 109.63855421686748
     },
     {
-      "list_id": 8555,
-      "name": "Tableau blanc 900 X 1200 cm avec pied",
-      "prix_base": 452000,
-      "prix_comparaison": 600000,
-      "indice_prix": 132.7433628318584
+      "list_id": 6599,
+      "name": "Gel assouplissant et d\u00e9sodorisant Sweet Dreams 1 kg",
+      "prix_base": 16600,
+      "prix_comparaison": 18200,
+      "indice_prix": 109.63855421686748
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 12598,
-      "name": "Mangue en sachet 450 g",
-      "prix_base": 35900,
-      "prix_comparaison": 24700,
-      "indice_prix": 68.80222841225627
+      "list_id": 5848,
+      "name": "P\u00e2tes Linguine num\u00e9ro 7   500 g",
+      "prix_base": 21200,
+      "prix_comparaison": 21120,
+      "indice_prix": 99.62264150943396
     },
     {
-      "list_id": 12599,
-      "name": "M\u00e9lange de fruits rouges 650 g",
-      "prix_base": 30700,
-      "prix_comparaison": 29200,
-      "indice_prix": 95.11400651465799
+      "list_id": 12451,
+      "name": "Riz rouge long grain complet 500 g",
+      "prix_base": 11900,
+      "prix_comparaison": 12300,
+      "indice_prix": 103.36134453781513
     },
     {
-      "list_id": 4492,
-      "name": "Corbeille \u00e0 ordure 307",
-      "prix_base": 12800,
-      "prix_comparaison": 13000,
-      "indice_prix": 101.5625
+      "list_id": 13202,
+      "name": "Infusion Th\u00e9 saveur Fruits Rouges x 25",
+      "prix_base": 16900,
+      "prix_comparaison": 17500,
+      "indice_prix": 103.55029585798816
     }
   ]
 }
