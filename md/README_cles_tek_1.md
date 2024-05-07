@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre Blanc Cristallisé 1 Kg**
-   - Prix avant: 7,900 Ar
-   - Prix actuel: 7,900 Ar
+2. **Sucre blanc 1 Kg**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 7,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc 1 Kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,200 Ar
+3. **Riz rouge long grain complet 500 g**
+   - Prix avant: 11,900 Ar
+   - Prix actuel: 11,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
