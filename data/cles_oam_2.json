@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_124796pcdebureaugamingomenbyhp45lgt221037nfintelcorei713700kram32goddr51tossdgeforcertx409024gofreedo0197497044478_html",
-      "name": "PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS",
-      "prix_base": 33167000,
-      "prix_comparaison": 33167000,
+      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
+      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
+      "prix_base": 11560000,
+      "prix_comparaison": 11560000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_92289pcdebureaugamingomenbyhp40lgt211033nfintelcorei713700kram32go1tossdgeforcertx408016gowindows110197192261774_html",
-      "name": "PC Gamer Omen by HP 40L GT21-1033nf- Intel Core i7-13700K - RAM 32Go - 1To SSD - GeForce RTX 4080 16Go - Windows 11",
-      "prix_base": 16437000,
-      "prix_comparaison": 16437000,
+      "cle": "poeleagranulesetpellets_95544poeleagranulesmodulableinvictanola77kwrendement86noir3244336418741_html",
+      "name": "Poele a granul\u00e9s INVICTA Nola 7 - 7 kW - Rendement 86% - Noir",
+      "prix_base": 10125000,
+      "prix_comparaison": 10125000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_124795pcdebureaugamingomenbyhp45lgt221036nfryzen97900xram32goddr51tossdnvidiageforcertx409024gofreedo0197497044461_html",
-      "name": "PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS",
-      "prix_base": 33972000,
-      "prix_comparaison": 33972000,
+      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
+      "name": "Poele a bois en fonte - INVICTA - mandorin",
+      "prix_base": 10763000,
+      "prix_comparaison": 10763000,
       "variation": 0,
       "indice_prix": 100.0
     }

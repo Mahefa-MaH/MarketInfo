@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_124797pcdebureaugamingomenbyhp45lgt221038nfintelcorei913900kram32goddr51tossdgeforcertx408016gofreedo0197497044515_html",
-      "name": "PC de bureau Gaming Omen by HP 45L GT22-1038nf - Intel Core i9-13900K - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDO",
-      "prix_base": 31557000,
-      "prix_comparaison": 31557000,
+      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
+      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
+      "prix_base": 16343000,
+      "prix_comparaison": 16343000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_125031applemacstudioapplem2ultra24corecpu60coregpuram64gostockage1tosilver0194253433538_html",
-      "name": "Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver",
-      "prix_base": 21256000,
-      "prix_comparaison": 21256000,
+      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
+      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
+      "prix_base": 19133000,
+      "prix_comparaison": 19133000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
-      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
-      "prix_base": 11581000,
-      "prix_comparaison": 11581000,
+      "cle": "smartphone_127682samsunggalaxyzfold51tonoir8806095019062_html",
+      "name": "SAMSUNG Galaxy Z Fold5 1To Noir",
+      "prix_base": 10142000,
+      "prix_comparaison": 10142000,
       "variation": 0,
       "indice_prix": 100.0
     }
