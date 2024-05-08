@@ -1,6 +1,20 @@
 {
   "prix_augmentes": [
     {
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 6700,
+      "prix_comparaison": 10000,
+      "variation": 3300
+    },
+    {
+      "cle": "produit_citronsverts1kg_",
+      "name": "Citrons verts 1kg",
+      "prix_base": 4000,
+      "prix_comparaison": 5400,
+      "variation": 1400
+    },
+    {
       "cle": "produit_tomatecerise1kg_",
       "name": "Tomate Cerise 1kg",
       "prix_base": 18667,
@@ -8,35 +22,28 @@
       "variation": 1333
     },
     {
+      "cle": "produit_kaki1kg_",
+      "name": "Kaki 1kg | Fruit frais de Madagascar",
+      "prix_base": 3333,
+      "prix_comparaison": 4000,
+      "variation": 667
+    },
+    {
       "cle": "produit_oignonsfrais1kggroscalibre_",
       "name": "Oignons frais 1kg | Gros Calibre",
       "prix_base": 9400,
       "prix_comparaison": 10000,
       "variation": 600
-    },
-    {
-      "cle": "produit_oignonsfrais500ggroscalibre_",
-      "name": "Oignons frais 500g | Gros Calibre",
-      "prix_base": 4400,
-      "prix_comparaison": 5000,
-      "variation": 600
-    },
-    {
-      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
-      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
-      "prix_base": 3600,
-      "prix_comparaison": 4000,
-      "variation": 400
-    },
-    {
-      "cle": "produit_epinardfrais3bottes_",
-      "name": "\u00c9pinard frais 3 bottes",
-      "prix_base": 2933,
-      "prix_comparaison": 3000,
-      "variation": 67
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "produit_papayefrais_",
+      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
+      "prix_base": 14000,
+      "prix_comparaison": 11000,
+      "variation": -3000
+    },
     {
       "cle": "produit_brocoli1piecelegumefrais100naturelles_",
       "name": "Brocoli environ 400g",
@@ -45,6 +52,13 @@
       "variation": -700
     },
     {
+      "cle": "produit_persil1botte_",
+      "name": "Persil 1 botte",
+      "prix_base": 1457,
+      "prix_comparaison": 1400,
+      "variation": -57
+    },
+    {
       "cle": "produit_epinardfrais3bottes_",
       "name": "\u00c9pinard frais 3 bottes",
       "prix_base": 2933,
@@ -52,51 +66,44 @@
       "variation": 67
     },
     {
-      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
-      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
-      "prix_base": 3600,
-      "prix_comparaison": 4000,
-      "variation": 400
-    },
-    {
-      "cle": "produit_oignonsfrais1kggroscalibre_",
-      "name": "Oignons frais 1kg | Gros Calibre",
-      "prix_base": 9400,
-      "prix_comparaison": 10000,
-      "variation": 600
-    },
-    {
-      "cle": "produit_oignonsfrais500ggroscalibre_",
-      "name": "Oignons frais 500g | Gros Calibre",
-      "prix_base": 4400,
-      "prix_comparaison": 5000,
-      "variation": 600
+      "cle": "produit_petitebananemavokely1kgakondromavokely_",
+      "name": "Banane mavokely 1 kg | petite banane",
+      "prix_base": 2533,
+      "prix_comparaison": 2700,
+      "variation": 167
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_oignonsfrais500ggroscalibre_",
-      "name": "Oignons frais 500g | Gros Calibre",
-      "prix_base": 4400,
-      "prix_comparaison": 5000,
-      "indice_prix": 113.63636363636364
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 6700,
+      "prix_comparaison": 10000,
+      "indice_prix": 149.2537313432836
     },
     {
-      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
-      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
-      "prix_base": 3600,
+      "cle": "produit_citronsverts1kg_",
+      "name": "Citrons verts 1kg",
+      "prix_base": 4000,
+      "prix_comparaison": 5400,
+      "indice_prix": 135.0
+    },
+    {
+      "cle": "produit_kaki1kg_",
+      "name": "Kaki 1kg | Fruit frais de Madagascar",
+      "prix_base": 3333,
       "prix_comparaison": 4000,
-      "indice_prix": 111.11111111111111
-    },
-    {
-      "cle": "produit_tomatecerise1kg_",
-      "name": "Tomate Cerise 1kg",
-      "prix_base": 18667,
-      "prix_comparaison": 20000,
-      "indice_prix": 107.14094391171587
+      "indice_prix": 120.01200120012001
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "produit_papayefrais_",
+      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
+      "prix_base": 14000,
+      "prix_comparaison": 11000,
+      "indice_prix": 78.57142857142857
+    },
     {
       "cle": "produit_brocoli1piecelegumefrais100naturelles_",
       "name": "Brocoli environ 400g",
@@ -105,18 +112,11 @@
       "indice_prix": 85.1063829787234
     },
     {
-      "cle": "produit_epinardfrais3bottes_",
-      "name": "\u00c9pinard frais 3 bottes",
-      "prix_base": 2933,
-      "prix_comparaison": 3000,
-      "indice_prix": 102.28435049437437
-    },
-    {
-      "cle": "produit_oignonsfrais1kggroscalibre_",
-      "name": "Oignons frais 1kg | Gros Calibre",
-      "prix_base": 9400,
-      "prix_comparaison": 10000,
-      "indice_prix": 106.38297872340425
+      "cle": "produit_persil1botte_",
+      "name": "Persil 1 botte",
+      "prix_base": 1457,
+      "prix_comparaison": 1400,
+      "indice_prix": 96.08785175017158
     }
   ]
 }

@@ -20,15 +20,43 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "variation": 530
+    },
+    {
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "variation": 530
+    },
+    {
+      "cle": "lessiveenpoudreettablette_5231lessivepoudreblancetcouleur30g_html",
+      "name": "Lessive poudre blanc et couleur 30g",
+      "prix_base": 650,
+      "prix_comparaison": 618,
+      "variation": -32
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "ordinateursdebureau_14826ecranpcgamerplatmsioptixg271227fhddalleips170hz1msfreesync2hdmi1dp_html",
+      "name": "Ecran PC Gamer plat - MSI - Optix G2712 - 27 FHD - Dalle IPS - 170Hz - 1ms - Freesync - 2 HDMI + 1 DP",
+      "prix_base": 1407000,
+      "prix_comparaison": 1368000,
+      "variation": -39000
+    },
     {
       "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
       "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
       "prix_base": 657900,
       "prix_comparaison": 625005,
       "variation": -32895
+    },
+    {
+      "cle": "machineaexpresso_3483cafetiereexpressomulticapspressiondelapompe19barsnoir_html",
+      "name": "Cafeti\u00e8re expresso multi caps pression de la pompe 19 bars noir",
+      "prix_base": 609000,
+      "prix_comparaison": 578550,
+      "variation": -30450
     },
     {
       "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
@@ -66,9 +94,30 @@
       "prix_base": 990,
       "prix_comparaison": 1520,
       "indice_prix": 153.53535353535352
+    },
+    {
+      "cle": "huiles_10359huiledetournesol5l_html",
+      "name": "Huile de tournesol 5L",
+      "prix_base": 54000,
+      "prix_comparaison": 59000,
+      "indice_prix": 109.25925925925925
+    },
+    {
+      "cle": "ordinateursdebureau_14826ecranpcgamerplatmsioptixg271227fhddalleips170hz1msfreesync2hdmi1dp_html",
+      "name": "Ecran PC Gamer plat - MSI - Optix G2712 - 27 FHD - Dalle IPS - 170Hz - 1ms - Freesync - 2 HDMI + 1 DP",
+      "prix_base": 1407000,
+      "prix_comparaison": 1368000,
+      "indice_prix": 97.22814498933901
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "thesetinfusions_12347infusiontilleul25sachets40gcotterley_html",
+      "name": "Infusion tilleul 25 sachets 40g",
+      "prix_base": 9500,
+      "prix_comparaison": 7505,
+      "indice_prix": 79.0
+    },
     {
       "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
       "name": "Eau de cologne lavande 500ml",
@@ -77,18 +126,25 @@
       "indice_prix": 81.89655172413794
     },
     {
-      "cle": "nettoyantsmultiusages_13910lingettesnettoyantesmultisurfacesparfumcitronx80topbudget_html",
-      "name": "Lingettes nettoyantes multi-surfaces parfum citron x80",
-      "prix_base": 7200,
-      "prix_comparaison": 6175,
-      "indice_prix": 85.76388888888889
+      "cle": "biscuitsfourres_13458lesgaufrettesfraise110gchabrior_html",
+      "name": "Les gaufrettes fraise 110g",
+      "prix_base": 8900,
+      "prix_comparaison": 7505,
+      "indice_prix": 84.32584269662921
     },
     {
-      "cle": "confituresetgelees_13732confitureframboise62fruits310gpaquito_html",
-      "name": "Confiture framboise 62% fruits 310g",
-      "prix_base": 18900,
-      "prix_comparaison": 17005,
-      "indice_prix": 89.97354497354497
+      "cle": "thesetinfusions_13345infusiondejourbio30gcotterley_html",
+      "name": "Infusion de jour bio 30g",
+      "prix_base": 9900,
+      "prix_comparaison": 8455,
+      "indice_prix": 85.4040404040404
+    },
+    {
+      "cle": "cremesdessertflans_13532pureedepommefraiseengourdesanssucresajoutes4x90gpaquito_html",
+      "name": "Pur\u00e9e de pomme fraise en gourde sans sucres ajout\u00e9s 4x90g",
+      "prix_base": 13200,
+      "prix_comparaison": 11305,
+      "indice_prix": 85.64393939393939
     }
   ]
 }
