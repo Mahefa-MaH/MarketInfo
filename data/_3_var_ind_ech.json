@@ -1,66 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
-      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 4670,
-      "prix_comparaison": 6700,
-      "variation": 2030
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 18667,
+      "prix_comparaison": 20000,
+      "variation": 1333
     },
     {
-      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 2000,
-      "prix_comparaison": 3400,
-      "variation": 1400
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 9400,
+      "prix_comparaison": 10000,
+      "variation": 600
+    },
+    {
+      "cle": "produit_oignonsfrais500ggroscalibre_",
+      "name": "Oignons frais 500g | Gros Calibre",
+      "prix_base": 4400,
+      "prix_comparaison": 5000,
+      "variation": 600
+    },
+    {
+      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
+      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
+      "prix_base": 3600,
+      "prix_comparaison": 4000,
+      "variation": 400
+    },
+    {
+      "cle": "produit_epinardfrais3bottes_",
+      "name": "\u00c9pinard frais 3 bottes",
+      "prix_base": 2933,
+      "prix_comparaison": 3000,
+      "variation": 67
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 2000,
-      "prix_comparaison": 3400,
-      "variation": 1400
+      "cle": "produit_brocoli1piecelegumefrais100naturelles_",
+      "name": "Brocoli environ 400g",
+      "prix_base": 4700,
+      "prix_comparaison": 4000,
+      "variation": -700
     },
     {
-      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
-      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 4670,
-      "prix_comparaison": 6700,
-      "variation": 2030
+      "cle": "produit_epinardfrais3bottes_",
+      "name": "\u00c9pinard frais 3 bottes",
+      "prix_base": 2933,
+      "prix_comparaison": 3000,
+      "variation": 67
+    },
+    {
+      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
+      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
+      "prix_base": 3600,
+      "prix_comparaison": 4000,
+      "variation": 400
+    },
+    {
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 9400,
+      "prix_comparaison": 10000,
+      "variation": 600
+    },
+    {
+      "cle": "produit_oignonsfrais500ggroscalibre_",
+      "name": "Oignons frais 500g | Gros Calibre",
+      "prix_base": 4400,
+      "prix_comparaison": 5000,
+      "variation": 600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 2000,
-      "prix_comparaison": 3400,
-      "indice_prix": 170.0
+      "cle": "produit_oignonsfrais500ggroscalibre_",
+      "name": "Oignons frais 500g | Gros Calibre",
+      "prix_base": 4400,
+      "prix_comparaison": 5000,
+      "indice_prix": 113.63636363636364
     },
     {
-      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
-      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 4670,
-      "prix_comparaison": 6700,
-      "indice_prix": 143.46895074946468
+      "cle": "produit_pommesdeterrepourfrite1kggroscalibre_",
+      "name": "Pommes de terre pour Frite 1kg | Gros calibre",
+      "prix_base": 3600,
+      "prix_comparaison": 4000,
+      "indice_prix": 111.11111111111111
+    },
+    {
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 18667,
+      "prix_comparaison": 20000,
+      "indice_prix": 107.14094391171587
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_ananasfrais500gricheencalciumetvitaminec_",
-      "name": "Ananas Frais 1 pi\u00e8ce | Riche en Calcium et Vitamine C  | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 4670,
-      "prix_comparaison": 6700,
-      "indice_prix": 143.46895074946468
+      "cle": "produit_brocoli1piecelegumefrais100naturelles_",
+      "name": "Brocoli environ 400g",
+      "prix_base": 4700,
+      "prix_comparaison": 4000,
+      "indice_prix": 85.1063829787234
     },
     {
-      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 2000,
-      "prix_comparaison": 3400,
-      "indice_prix": 170.0
+      "cle": "produit_epinardfrais3bottes_",
+      "name": "\u00c9pinard frais 3 bottes",
+      "prix_base": 2933,
+      "prix_comparaison": 3000,
+      "indice_prix": 102.28435049437437
+    },
+    {
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 9400,
+      "prix_comparaison": 10000,
+      "indice_prix": 106.38297872340425
     }
   ]
 }
