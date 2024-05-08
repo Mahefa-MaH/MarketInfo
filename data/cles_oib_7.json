@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8900,
-      "prix_comparaison": 8900,
+      "cle": "sucres_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 8600,
+      "prix_comparaison": 8600,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_1894huiledesoja20lhina_html",
-      "name": "Huile de soja Hina 20L",
-      "prix_base": 179400,
-      "prix_comparaison": 179400,
+      "cle": "semoulesetcouscous_1460farinederiz1kg_html",
+      "name": "Farine de riz 1kg",
+      "prix_base": 5000,
+      "prix_comparaison": 5000,
       "variation": 0,
       "indice_prix": 100.0
     }
