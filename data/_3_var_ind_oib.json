@@ -13,6 +13,20 @@
       "prix_base": 30875,
       "prix_comparaison": 32500,
       "variation": 1625
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_12203cafesolublecappuccino10sticks140gnescafe_html",
+      "name": "Caf\u00e9 soluble Cappuccino 10 sticks 140g",
+      "prix_base": 22325,
+      "prix_comparaison": 23500,
+      "variation": 1175
+    },
+    {
+      "cle": "fromagesduresetrapes_5756fromagerape100g_html",
+      "name": "Fromage r\u00e2p\u00e9 100g",
+      "prix_base": 14155,
+      "prix_comparaison": 14900,
+      "variation": 745
     }
   ],
   "prix_diminues": [
@@ -29,6 +43,20 @@
       "prix_base": 6840,
       "prix_comparaison": 7200,
       "variation": 360
+    },
+    {
+      "cle": "epongesbrossesetgants_12783epongescarrees5piecesapta_html",
+      "name": "Eponges carr\u00e9es 5 pi\u00e8ces",
+      "prix_base": 7125,
+      "prix_comparaison": 7500,
+      "variation": 375
+    },
+    {
+      "cle": "chips_361chipssaveurchevrepimentdespelette125g_html",
+      "name": "Chips saveur ch\u00e8vre piment d'espelette 125g",
+      "prix_base": 10355,
+      "prix_comparaison": 10900,
+      "variation": 545
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +73,20 @@
       "prix_base": 22325,
       "prix_comparaison": 23500,
       "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cafemoulucafeengrainsfiltres_12207cafeinstantanespecialfiltre100gnescafe_html",
+      "name": "Caf\u00e9 instantan\u00e9 sp\u00e9cial filtre 100g",
+      "prix_base": 35055,
+      "prix_comparaison": 36900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "papiersetfilmsalimentaires_5209papierfilmalimentaire29cmx50m_html",
+      "name": "Papier film alimentaire 29cmx50m",
+      "prix_base": 6555,
+      "prix_comparaison": 6900,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
@@ -58,6 +100,20 @@
     {
       "cle": "chips_361chipssaveurchevrepimentdespelette125g_html",
       "name": "Chips saveur ch\u00e8vre piment d'espelette 125g",
+      "prix_base": 10355,
+      "prix_comparaison": 10900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "chips_354chipssaveurconfitdoignonsvinaigrebalsamique125g_html",
+      "name": "Chips saveur confit d'oignons vinaigre balsamique 125g",
+      "prix_base": 10355,
+      "prix_comparaison": 10900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "chips_5671chipssaveurpestomozzarella125g_html",
+      "name": "Chips saveur pesto mozzarella 125g",
       "prix_base": 10355,
       "prix_comparaison": 10900,
       "indice_prix": 105.26315789473684
