@@ -6,9 +6,23 @@
       "prix_base": 15000,
       "prix_comparaison": 24000,
       "variation": 9000
+    },
+    {
+      "cle": "produit_citronsverts1kg_",
+      "name": "Citrons verts 1kg",
+      "prix_base": 4000,
+      "prix_comparaison": 5400,
+      "variation": 1400
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "produit_citronsverts1kg_",
+      "name": "Citrons verts 1kg",
+      "prix_base": 4000,
+      "prix_comparaison": 5400,
+      "variation": 1400
+    },
     {
       "cle": "produit_lentille1kapoakaricheenproteine_",
       "name": "Lentille 1kg | Riche en prot\u00e9ine",
@@ -24,9 +38,23 @@
       "prix_base": 15000,
       "prix_comparaison": 24000,
       "indice_prix": 160.0
+    },
+    {
+      "cle": "produit_citronsverts1kg_",
+      "name": "Citrons verts 1kg",
+      "prix_base": 4000,
+      "prix_comparaison": 5400,
+      "indice_prix": 135.0
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "produit_citronsverts1kg_",
+      "name": "Citrons verts 1kg",
+      "prix_base": 4000,
+      "prix_comparaison": 5400,
+      "indice_prix": 135.0
+    },
     {
       "cle": "produit_lentille1kapoakaricheenproteine_",
       "name": "Lentille 1kg | Riche en prot\u00e9ine",

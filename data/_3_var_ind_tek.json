@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 4838,
-      "prix_base": 112800,
-      "name": "Hot Air Styler 1200 W",
-      "prix_comparaison": 113800,
-      "variation": 1000
+      "list_id": 12152,
+      "prix_base": 9000,
+      "name": "D\u00e9sodorisant Aero Fleur de cerisier 300 ml",
+      "prix_comparaison": 10600,
+      "variation": 1600
     },
     {
-      "list_id": 4837,
-      "prix_base": 52500,
-      "name": "Fer \u00c0 Boucler 34 W",
-      "prix_comparaison": 53000,
-      "variation": 500
+      "list_id": 12117,
+      "prix_base": 9000,
+      "name": "D\u00e9sodorisant Aero Fruits Rouge 300 ml",
+      "prix_comparaison": 10600,
+      "variation": 1600
+    },
+    {
+      "list_id": 11986,
+      "prix_base": 11900,
+      "name": "Insecticide anti-volants 400 ml",
+      "prix_comparaison": 13100,
+      "variation": 1200
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4837,
-      "prix_base": 52500,
-      "name": "Fer \u00c0 Boucler 34 W",
-      "prix_comparaison": 53000,
-      "variation": 500
+      "list_id": 11966,
+      "prix_base": 10100,
+      "name": "Bloc wc javel citron X2",
+      "prix_comparaison": 11100,
+      "variation": 1000
     },
     {
-      "list_id": 4838,
-      "prix_base": 112800,
-      "name": "Hot Air Styler 1200 W",
-      "prix_comparaison": 113800,
-      "variation": 1000
+      "list_id": 11987,
+      "prix_base": 11900,
+      "name": "Insecticide anti-rampants 400 ml",
+      "prix_comparaison": 13100,
+      "variation": 1200
+    },
+    {
+      "list_id": 11986,
+      "prix_base": 11900,
+      "name": "Insecticide anti-volants 400 ml",
+      "prix_comparaison": 13100,
+      "variation": 1200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 4837,
-      "name": "Fer \u00c0 Boucler 34 W",
-      "prix_base": 52500,
-      "prix_comparaison": 53000,
-      "indice_prix": 100.95238095238095
+      "list_id": 12152,
+      "name": "D\u00e9sodorisant Aero Fleur de cerisier 300 ml",
+      "prix_base": 9000,
+      "prix_comparaison": 10600,
+      "indice_prix": 117.77777777777777
     },
     {
-      "list_id": 4838,
-      "name": "Hot Air Styler 1200 W",
-      "prix_base": 112800,
-      "prix_comparaison": 113800,
-      "indice_prix": 100.88652482269504
+      "list_id": 12117,
+      "name": "D\u00e9sodorisant Aero Fruits Rouge 300 ml",
+      "prix_base": 9000,
+      "prix_comparaison": 10600,
+      "indice_prix": 117.77777777777777
+    },
+    {
+      "list_id": 11986,
+      "name": "Insecticide anti-volants 400 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 13100,
+      "indice_prix": 110.08403361344538
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 4838,
-      "name": "Hot Air Styler 1200 W",
-      "prix_base": 112800,
-      "prix_comparaison": 113800,
-      "indice_prix": 100.88652482269504
+      "list_id": 11966,
+      "name": "Bloc wc javel citron X2",
+      "prix_base": 10100,
+      "prix_comparaison": 11100,
+      "indice_prix": 109.9009900990099
     },
     {
-      "list_id": 4837,
-      "name": "Fer \u00c0 Boucler 34 W",
-      "prix_base": 52500,
-      "prix_comparaison": 53000,
-      "indice_prix": 100.95238095238095
+      "list_id": 11987,
+      "name": "Insecticide anti-rampants 400 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 13100,
+      "indice_prix": 110.08403361344538
+    },
+    {
+      "list_id": 11986,
+      "name": "Insecticide anti-volants 400 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 13100,
+      "indice_prix": 110.08403361344538
     }
   ]
 }
