@@ -26,25 +26,25 @@
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Fromage râpé 100g**
-   - Prix avant: 14,155 Ar
-   - Prix actuel: 14,900 Ar
+1. **Gel lavant mains savon de Marseille et feuilles d'olivier 300ml**
+   - Prix avant: 6,840 Ar
+   - Prix actuel: 7,200 Ar
    - Indice de prix : 105.26
 
-2. **Eponges carrées 5 pièces**
-   - Prix avant: 7,125 Ar
-   - Prix actuel: 7,500 Ar
+2. **Café soluble Cappuccino 10 sticks 140g**
+   - Prix avant: 22,325 Ar
+   - Prix actuel: 23,500 Ar
    - Indice de prix : 105.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Lessive en tablettes sensitive douceur coton paquet de 32**
-   - Prix avant: 30,875 Ar
-   - Prix actuel: 32,500 Ar
+1. **Eponges carrées 5 pièces**
+   - Prix avant: 7,125 Ar
+   - Prix actuel: 7,500 Ar
    - Indice de prix : 105.26
 
-2. **Papier film alimentaire 29cmx50m**
-   - Prix avant: 6,555 Ar
-   - Prix actuel: 6,900 Ar
+2. **Chips saveur chèvre piment d'espelette 125g**
+   - Prix avant: 10,355 Ar
+   - Prix actuel: 10,900 Ar
    - Indice de prix : 105.26
 
