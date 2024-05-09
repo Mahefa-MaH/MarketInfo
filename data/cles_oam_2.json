@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
-      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
-      "prix_base": 11560000,
-      "prix_comparaison": 11560000,
+      "cle": "batteriedalimentationinformatique_138862ecoflowdelta2max4895251604772_html",
+      "name": "EcoFlow Delta 2 Max",
+      "prix_base": 16383000,
+      "prix_comparaison": 16383000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleagranulesetpellets_95544poeleagranulesmodulableinvictanola77kwrendement86noir3244336418741_html",
-      "name": "Poele a granul\u00e9s INVICTA Nola 7 - 7 kW - Rendement 86% - Noir",
-      "prix_base": 10125000,
-      "prix_comparaison": 10125000,
+      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
+      "prix_base": 22195000,
+      "prix_comparaison": 22195000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
-      "name": "Poele a bois en fonte - INVICTA - mandorin",
-      "prix_base": 10763000,
-      "prix_comparaison": 10763000,
+      "cle": "groupeelectrogene_95226generateurelectriqueportabledeltamax16001612wh4sortieca2000wautotalsurtension4600w4897082665243_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)",
+      "prix_base": 10471000,
+      "prix_comparaison": 10471000,
       "variation": 0,
       "indice_prix": 100.0
     }

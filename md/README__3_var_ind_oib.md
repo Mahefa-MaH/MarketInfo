@@ -2,29 +2,49 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Huile de tournesol 5L**
-   - Prix avant: 54,000 Ar
-   - Prix actuel: 59,000 Ar
-   - Variation: +5,000 Ar
+1. **Café instantané spécial filtre 100g**
+   - Prix avant: 35,055 Ar
+   - Prix actuel: 36,900 Ar
+   - Variation: +1,845 Ar
+
+2. **Lessive en tablettes sensitive douceur coton paquet de 32**
+   - Prix avant: 30,875 Ar
+   - Prix actuel: 32,500 Ar
+   - Variation: +1,625 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Ecran PC Gamer plat - MSI - Optix G2712 - 27 FHD - Dalle IPS - 170Hz - 1ms - Freesync - 2 HDMI + 1 DP**
-   - Prix avant: 1,407,000 Ar
-   - Prix actuel: 1,368,000 Ar
-   - Variation: -39,000 Ar
+1. **Papier film alimentaire 29cmx50m**
+   - Prix avant: 6,555 Ar
+   - Prix actuel: 6,900 Ar
+   - Variation: +345 Ar
+
+2. **Gel lavant mains savon de Marseille et feuilles d'olivier 300ml**
+   - Prix avant: 6,840 Ar
+   - Prix actuel: 7,200 Ar
+   - Variation: +360 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Savon de toilette cerise 75g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,520 Ar
-   - Indice de prix : 153.54
+1. **Fromage râpé 100g**
+   - Prix avant: 14,155 Ar
+   - Prix actuel: 14,900 Ar
+   - Indice de prix : 105.26
+
+2. **Eponges carrées 5 pièces**
+   - Prix avant: 7,125 Ar
+   - Prix actuel: 7,500 Ar
+   - Indice de prix : 105.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Infusion tilleul 25 sachets 40g**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 7,505 Ar
-   - Indice de prix : 79.00
+1. **Lessive en tablettes sensitive douceur coton paquet de 32**
+   - Prix avant: 30,875 Ar
+   - Prix actuel: 32,500 Ar
+   - Indice de prix : 105.26
+
+2. **Papier film alimentaire 29cmx50m**
+   - Prix avant: 6,555 Ar
+   - Prix actuel: 6,900 Ar
+   - Indice de prix : 105.26
 

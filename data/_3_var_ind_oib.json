@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "huiles_10359huiledetournesol5l_html",
-      "name": "Huile de tournesol 5L",
-      "prix_base": 54000,
-      "prix_comparaison": 59000,
-      "variation": 5000
+      "cle": "cafemoulucafeengrainsfiltres_12207cafeinstantanespecialfiltre100gnescafe_html",
+      "name": "Caf\u00e9 instantan\u00e9 sp\u00e9cial filtre 100g",
+      "prix_base": 35055,
+      "prix_comparaison": 36900,
+      "variation": 1845
+    },
+    {
+      "cle": "lessivesetsoindulinge_13266lessivetablettessensitivedouceurcotonpaquetde32apta_html",
+      "name": "Lessive en tablettes sensitive douceur coton paquet de 32",
+      "prix_base": 30875,
+      "prix_comparaison": 32500,
+      "variation": 1625
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ordinateursdebureau_14826ecranpcgamerplatmsioptixg271227fhddalleips170hz1msfreesync2hdmi1dp_html",
-      "name": "Ecran PC Gamer plat - MSI - Optix G2712 - 27 FHD - Dalle IPS - 170Hz - 1ms - Freesync - 2 HDMI + 1 DP",
-      "prix_base": 1407000,
-      "prix_comparaison": 1368000,
-      "variation": -39000
+      "cle": "papiersetfilmsalimentaires_5209papierfilmalimentaire29cmx50m_html",
+      "name": "Papier film alimentaire 29cmx50m",
+      "prix_base": 6555,
+      "prix_comparaison": 6900,
+      "variation": 345
+    },
+    {
+      "cle": "hygienedesmains_12975gellavantmainssavondemarseillefeuillesdolivier300mllabell_html",
+      "name": "Gel lavant mains savon de Marseille et feuilles d'olivier 300ml",
+      "prix_base": 6840,
+      "prix_comparaison": 7200,
+      "variation": 360
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
-      "name": "Savon de toilette cerise 75g",
-      "prix_base": 990,
-      "prix_comparaison": 1520,
-      "indice_prix": 153.53535353535352
+      "cle": "fromagesduresetrapes_5756fromagerape100g_html",
+      "name": "Fromage r\u00e2p\u00e9 100g",
+      "prix_base": 14155,
+      "prix_comparaison": 14900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "epongesbrossesetgants_12783epongescarrees5piecesapta_html",
+      "name": "Eponges carr\u00e9es 5 pi\u00e8ces",
+      "prix_base": 7125,
+      "prix_comparaison": 7500,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "thesetinfusions_12347infusiontilleul25sachets40gcotterley_html",
-      "name": "Infusion tilleul 25 sachets 40g",
-      "prix_base": 9500,
-      "prix_comparaison": 7505,
-      "indice_prix": 79.0
+      "cle": "lessivesetsoindulinge_13266lessivetablettessensitivedouceurcotonpaquetde32apta_html",
+      "name": "Lessive en tablettes sensitive douceur coton paquet de 32",
+      "prix_base": 30875,
+      "prix_comparaison": 32500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "papiersetfilmsalimentaires_5209papierfilmalimentaire29cmx50m_html",
+      "name": "Papier film alimentaire 29cmx50m",
+      "prix_base": 6555,
+      "prix_comparaison": 6900,
+      "indice_prix": 105.26315789473684
     }
   ]
 }
