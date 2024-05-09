@@ -2,89 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Café instantané spécial filtre 100g**
-   - Prix avant: 35,055 Ar
-   - Prix actuel: 36,900 Ar
-   - Variation: +1,845 Ar
+1. **Thermomètre digital résistant aux chocs avec sonde**
+   - Prix avant: 625,005 Ar
+   - Prix actuel: 657,900 Ar
+   - Variation: +32,895 Ar
 
-2. **Lessive en tablettes sensitive douceur coton paquet de 32**
-   - Prix avant: 30,875 Ar
-   - Prix actuel: 32,500 Ar
-   - Variation: +1,625 Ar
+2. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
+   - Prix avant: 569,050 Ar
+   - Prix actuel: 599,000 Ar
+   - Variation: +29,950 Ar
 
-3. **Café soluble Cappuccino 10 sticks 140g**
-   - Prix avant: 22,325 Ar
-   - Prix actuel: 23,500 Ar
-   - Variation: +1,175 Ar
-
-4. **Fromage râpé 100g**
-   - Prix avant: 14,155 Ar
-   - Prix actuel: 14,900 Ar
-   - Variation: +745 Ar
+3. **Faitout rond rouge Slowcook Ø28cm**
+   - Prix avant: 508,250 Ar
+   - Prix actuel: 535,000 Ar
+   - Variation: +26,750 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Papier film alimentaire 29cmx50m**
-   - Prix avant: 6,555 Ar
-   - Prix actuel: 6,900 Ar
-   - Variation: +345 Ar
+1. **Croquettes pour chat viandes 4kg**
+   - Prix avant: 45,125 Ar
+   - Prix actuel: 43,900 Ar
+   - Variation: -1,225 Ar
 
-2. **Gel lavant mains savon de Marseille et feuilles d'olivier 300ml**
-   - Prix avant: 6,840 Ar
-   - Prix actuel: 7,200 Ar
-   - Variation: +360 Ar
+2. **Huile equalio 1L**
+   - Prix avant: 18,900 Ar
+   - Prix actuel: 17,900 Ar
+   - Variation: -1,000 Ar
 
-3. **Eponges carrées 5 pièces**
-   - Prix avant: 7,125 Ar
+3. **Mayonnaise à la moutarde à l'ancienne 235g**
+   - Prix avant: 8,075 Ar
    - Prix actuel: 7,500 Ar
-   - Variation: +375 Ar
-
-4. **Chips saveur chèvre piment d'espelette 125g**
-   - Prix avant: 10,355 Ar
-   - Prix actuel: 10,900 Ar
-   - Variation: +545 Ar
+   - Variation: -575 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Gel lavant mains savon de Marseille et feuilles d'olivier 300ml**
-   - Prix avant: 6,840 Ar
-   - Prix actuel: 7,200 Ar
-   - Indice de prix : 105.26
+1. **21 Etiquettes blanches 38x63mm**
+   - Prix avant: 2,422 Ar
+   - Prix actuel: 2,550 Ar
+   - Indice de prix : 105.28
 
-2. **Café soluble Cappuccino 10 sticks 140g**
-   - Prix avant: 22,325 Ar
-   - Prix actuel: 23,500 Ar
-   - Indice de prix : 105.26
+2. **Talc bébé poudre 75g**
+   - Prix avant: 2,612 Ar
+   - Prix actuel: 2,750 Ar
+   - Indice de prix : 105.28
 
-3. **Café instantané spécial filtre 100g**
-   - Prix avant: 35,055 Ar
-   - Prix actuel: 36,900 Ar
-   - Indice de prix : 105.26
-
-4. **Papier film alimentaire 29cmx50m**
-   - Prix avant: 6,555 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 105.26
+3. **Vaseline 50ml**
+   - Prix avant: 2,612 Ar
+   - Prix actuel: 2,750 Ar
+   - Indice de prix : 105.28
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Eponges carrées 5 pièces**
-   - Prix avant: 7,125 Ar
-   - Prix actuel: 7,500 Ar
-   - Indice de prix : 105.26
+1. **Savon de toilette cerise 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Indice de prix : 65.13
 
-2. **Chips saveur chèvre piment d'espelette 125g**
-   - Prix avant: 10,355 Ar
-   - Prix actuel: 10,900 Ar
-   - Indice de prix : 105.26
+2. **Savon de toilette lait d'amande 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Indice de prix : 65.13
 
-3. **Chips saveur confit d'oignons vinaigre balsamique 125g**
-   - Prix avant: 10,355 Ar
-   - Prix actuel: 10,900 Ar
-   - Indice de prix : 105.26
-
-4. **Chips saveur pesto mozzarella 125g**
-   - Prix avant: 10,355 Ar
-   - Prix actuel: 10,900 Ar
-   - Indice de prix : 105.26
+3. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Indice de prix : 65.13
 

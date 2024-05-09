@@ -1,122 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cafemoulucafeengrainsfiltres_12207cafeinstantanespecialfiltre100gnescafe_html",
-      "name": "Caf\u00e9 instantan\u00e9 sp\u00e9cial filtre 100g",
-      "prix_base": 35055,
-      "prix_comparaison": 36900,
-      "variation": 1845
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 625005,
+      "prix_comparaison": 657900,
+      "variation": 32895
     },
     {
-      "cle": "lessivesetsoindulinge_13266lessivetablettessensitivedouceurcotonpaquetde32apta_html",
-      "name": "Lessive en tablettes sensitive douceur coton paquet de 32",
-      "prix_base": 30875,
-      "prix_comparaison": 32500,
-      "variation": 1625
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 569050,
+      "prix_comparaison": 599000,
+      "variation": 29950
     },
     {
-      "cle": "cafesolublechicoreecappuccino_12203cafesolublecappuccino10sticks140gnescafe_html",
-      "name": "Caf\u00e9 soluble Cappuccino 10 sticks 140g",
-      "prix_base": 22325,
-      "prix_comparaison": 23500,
-      "variation": 1175
-    },
-    {
-      "cle": "fromagesduresetrapes_5756fromagerape100g_html",
-      "name": "Fromage r\u00e2p\u00e9 100g",
-      "prix_base": 14155,
-      "prix_comparaison": 14900,
-      "variation": 745
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 508250,
+      "prix_comparaison": 535000,
+      "variation": 26750
     }
   ],
   "prix_diminues": [
     {
-      "cle": "papiersetfilmsalimentaires_5209papierfilmalimentaire29cmx50m_html",
-      "name": "Papier film alimentaire 29cmx50m",
-      "prix_base": 6555,
-      "prix_comparaison": 6900,
-      "variation": 345
+      "cle": "croquettesetfriandiseschat_7039croquettespourchatviandes4kg_html",
+      "name": "Croquettes pour chat viandes 4kg",
+      "prix_base": 45125,
+      "prix_comparaison": 43900,
+      "variation": -1225
     },
     {
-      "cle": "hygienedesmains_12975gellavantmainssavondemarseillefeuillesdolivier300mllabell_html",
-      "name": "Gel lavant mains savon de Marseille et feuilles d'olivier 300ml",
-      "prix_base": 6840,
-      "prix_comparaison": 7200,
-      "variation": 360
+      "cle": "huiles_15188huileequalio1l_html",
+      "name": "Huile equalio 1L",
+      "prix_base": 18900,
+      "prix_comparaison": 17900,
+      "variation": -1000
     },
     {
-      "cle": "epongesbrossesetgants_12783epongescarrees5piecesapta_html",
-      "name": "Eponges carr\u00e9es 5 pi\u00e8ces",
-      "prix_base": 7125,
+      "cle": "saucesfroidesketchupmayonnaise_12406mayonnaisealamoutardealancienne235gboutondor_html",
+      "name": "Mayonnaise \u00e0 la moutarde \u00e0 l'ancienne 235g",
+      "prix_base": 8075,
       "prix_comparaison": 7500,
-      "variation": 375
-    },
-    {
-      "cle": "chips_361chipssaveurchevrepimentdespelette125g_html",
-      "name": "Chips saveur ch\u00e8vre piment d'espelette 125g",
-      "prix_base": 10355,
-      "prix_comparaison": 10900,
-      "variation": 545
+      "variation": -575
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "hygienedesmains_12975gellavantmainssavondemarseillefeuillesdolivier300mllabell_html",
-      "name": "Gel lavant mains savon de Marseille et feuilles d'olivier 300ml",
-      "prix_base": 6840,
-      "prix_comparaison": 7200,
-      "indice_prix": 105.26315789473684
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2422,
+      "prix_comparaison": 2550,
+      "indice_prix": 105.28488852188273
     },
     {
-      "cle": "cafesolublechicoreecappuccino_12203cafesolublecappuccino10sticks140gnescafe_html",
-      "name": "Caf\u00e9 soluble Cappuccino 10 sticks 140g",
-      "prix_base": 22325,
-      "prix_comparaison": 23500,
-      "indice_prix": 105.26315789473684
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     },
     {
-      "cle": "cafemoulucafeengrainsfiltres_12207cafeinstantanespecialfiltre100gnescafe_html",
-      "name": "Caf\u00e9 instantan\u00e9 sp\u00e9cial filtre 100g",
-      "prix_base": 35055,
-      "prix_comparaison": 36900,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "papiersetfilmsalimentaires_5209papierfilmalimentaire29cmx50m_html",
-      "name": "Papier film alimentaire 29cmx50m",
-      "prix_base": 6555,
-      "prix_comparaison": 6900,
-      "indice_prix": 105.26315789473684
+      "cle": "cremessoinsducorps_2386vaseline50ml_html",
+      "name": "Vaseline 50ml",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "epongesbrossesetgants_12783epongescarrees5piecesapta_html",
-      "name": "Eponges carr\u00e9es 5 pi\u00e8ces",
-      "prix_base": 7125,
-      "prix_comparaison": 7500,
-      "indice_prix": 105.26315789473684
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "chips_361chipssaveurchevrepimentdespelette125g_html",
-      "name": "Chips saveur ch\u00e8vre piment d'espelette 125g",
-      "prix_base": 10355,
-      "prix_comparaison": 10900,
-      "indice_prix": 105.26315789473684
+      "cle": "savonsdetoilettes_2328olissbarsoap75glaitdamande_html",
+      "name": "Savon de toilette lait d'amande 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     },
     {
-      "cle": "chips_354chipssaveurconfitdoignonsvinaigrebalsamique125g_html",
-      "name": "Chips saveur confit d'oignons vinaigre balsamique 125g",
-      "prix_base": 10355,
-      "prix_comparaison": 10900,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "chips_5671chipssaveurpestomozzarella125g_html",
-      "name": "Chips saveur pesto mozzarella 125g",
-      "prix_base": 10355,
-      "prix_comparaison": 10900,
-      "indice_prix": 105.26315789473684
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
     }
   ]
 }
