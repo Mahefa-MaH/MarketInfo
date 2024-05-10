@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13109,
-      "name": "Sucre blanc 1 Kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7900,
+      "prix_comparaison": 7900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9400,
-      "prix_comparaison": 9400,
+      "list_id": 7131,
+      "name": "Riz makalioka rouge 5 kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 12451,
-      "name": "Riz rouge long grain complet 500 g",
-      "prix_base": 12300,
-      "prix_comparaison": 12300,
+      "list_id": 7132,
+      "name": "Riz Makalioka blanc 5 kg",
+      "prix_base": 18600,
+      "prix_comparaison": 18600,
       "variation": 0,
       "indice_prix": 100.0
     }
