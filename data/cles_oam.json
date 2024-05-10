@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
-      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
-      "prix_base": 12676000,
-      "prix_comparaison": 12676000,
+      "cle": "machineacafeexpressobroyeur_49153delonghiecam65075msmachineexpressoautomatiqueavecbroyeurprimadonnaeliteinox8004399331013_html",
+      "name": "Machine expresso automatique avec broyeur DELONGHI PrimaDonna Elite ECAM 650.75.MS - Inox",
+      "prix_base": 10244000,
+      "prix_comparaison": 10244000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
-      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
-      "prix_base": 12772000,
-      "prix_comparaison": 12772000,
+      "cle": "machineacafeexpressobroyeur_49156machineacafeexpressobroyeurdelonghiecam65085msgrisconnecteprimadonnaeliteexperience8004399331648_html",
+      "name": "Machine expresso broyeur - DELONGHI PrimaDonna Elite Experience ECAM650.85.MS - Gris - Connect\u00e9 - Machine a caf\u00e9 grains",
+      "prix_base": 10780000,
+      "prix_comparaison": 10780000,
       "variation": 0,
       "indice_prix": 100.0
     }
