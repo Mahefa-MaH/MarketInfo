@@ -13,6 +13,20 @@
       "prix_base": 569050,
       "prix_comparaison": 599000,
       "variation": 29950
+    },
+    {
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 508250,
+      "prix_comparaison": 535000,
+      "variation": 26750
+    },
+    {
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 494000,
+      "prix_comparaison": 520000,
+      "variation": 26000
     }
   ],
   "prix_diminues": [
@@ -29,6 +43,20 @@
       "prix_base": 18900,
       "prix_comparaison": 17900,
       "variation": -1000
+    },
+    {
+      "cle": "saucesfroidesketchupmayonnaise_12406mayonnaisealamoutardealancienne235gboutondor_html",
+      "name": "Mayonnaise \u00e0 la moutarde \u00e0 l'ancienne 235g",
+      "prix_base": 8075,
+      "prix_comparaison": 7500,
+      "variation": -575
+    },
+    {
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "variation": -530
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +73,20 @@
       "prix_base": 2422,
       "prix_comparaison": 2550,
       "indice_prix": 105.28488852188273
+    },
+    {
+      "cle": "cremessoinsducorps_2386vaseline50ml_html",
+      "name": "Vaseline 50ml",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
+    },
+    {
+      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
+      "name": "2 Recharges porte mines 0,7mm - HB",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +103,20 @@
       "prix_base": 1520,
       "prix_comparaison": 990,
       "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "savonsdetoilettes_2329olissbarsoapmuresauvage75g_html",
+      "name": "Savon de toilette mure sauvage 75g",
+      "prix_base": 1520,
+      "prix_comparaison": 990,
+      "indice_prix": 65.13157894736842
+    },
+    {
+      "cle": "saucesfroidesketchupmayonnaise_12406mayonnaisealamoutardealancienne235gboutondor_html",
+      "name": "Mayonnaise \u00e0 la moutarde \u00e0 l'ancienne 235g",
+      "prix_base": 8075,
+      "prix_comparaison": 7500,
+      "indice_prix": 92.87925696594428
     }
   ]
 }

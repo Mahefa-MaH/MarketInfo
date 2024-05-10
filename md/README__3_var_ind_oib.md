@@ -12,6 +12,16 @@
    - Prix actuel: 599,000 Ar
    - Variation: +29,950 Ar
 
+3. **Faitout rond rouge Slowcook Ø28cm**
+   - Prix avant: 508,250 Ar
+   - Prix actuel: 535,000 Ar
+   - Variation: +26,750 Ar
+
+4. **Thermomètre infrarouge**
+   - Prix avant: 494,000 Ar
+   - Prix actuel: 520,000 Ar
+   - Variation: +26,000 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Croquettes pour chat viandes 4kg**
@@ -23,6 +33,16 @@
    - Prix avant: 18,900 Ar
    - Prix actuel: 17,900 Ar
    - Variation: -1,000 Ar
+
+3. **Mayonnaise à la moutarde à l'ancienne 235g**
+   - Prix avant: 8,075 Ar
+   - Prix actuel: 7,500 Ar
+   - Variation: -575 Ar
+
+4. **Savon de toilette cerise 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Variation: -530 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -36,6 +56,16 @@
    - Prix actuel: 2,550 Ar
    - Indice de prix : 105.28
 
+3. **Vaseline 50ml**
+   - Prix avant: 2,612 Ar
+   - Prix actuel: 2,750 Ar
+   - Indice de prix : 105.28
+
+4. **2 Recharges porte mines 0,7mm - HB**
+   - Prix avant: 2,612 Ar
+   - Prix actuel: 2,750 Ar
+   - Indice de prix : 105.28
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Savon de toilette cerise 75g**
@@ -47,4 +77,14 @@
    - Prix avant: 1,520 Ar
    - Prix actuel: 990 Ar
    - Indice de prix : 65.13
+
+3. **Savon de toilette mure sauvage 75g**
+   - Prix avant: 1,520 Ar
+   - Prix actuel: 990 Ar
+   - Indice de prix : 65.13
+
+4. **Mayonnaise à la moutarde à l'ancienne 235g**
+   - Prix avant: 8,075 Ar
+   - Prix actuel: 7,500 Ar
+   - Indice de prix : 92.88
 
