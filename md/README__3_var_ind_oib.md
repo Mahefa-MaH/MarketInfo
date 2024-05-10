@@ -2,15 +2,10 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD**
-   - Prix avant: 299,000 Ar
-   - Prix actuel: 315,300 Ar
-   - Variation: +16,300 Ar
-
-2. **Jus d'orange Le Fruit 1L**
-   - Prix avant: 4,900 Ar
-   - Prix actuel: 4,150 Ar
-   - Variation: -750 Ar
+1. **iPhone 15 Pro 128GB Natural Titanium**
+   - Prix avant: 5,199,000 Ar
+   - Prix actuel: 5,468,450 Ar
+   - Variation: +269,450 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -19,22 +14,12 @@
    - Prix actuel: 126 Ar
    - Variation: -118,874 Ar
 
-2. **Chips nature ondulée 25g**
-   - Prix avant: 2,800 Ar
-   - Prix actuel: 1,900 Ar
-   - Variation: -900 Ar
-
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD**
-   - Prix avant: 299,000 Ar
-   - Prix actuel: 315,300 Ar
-   - Indice de prix : 105.45
-
-2. **Jus cocktail Le Fruit 1L**
-   - Prix avant: 4,950 Ar
-   - Prix actuel: 4,200 Ar
-   - Indice de prix : 84.85
+1. **Steampod 3.0 - Lisseur Vapeur Professionnel 2-en-1 - L'Oréal Professionnel Paris**
+   - Prix avant: 1,119,000 Ar
+   - Prix actuel: 1,182,500 Ar
+   - Indice de prix : 105.67
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
@@ -42,9 +27,4 @@
    - Prix avant: 119,000 Ar
    - Prix actuel: 126 Ar
    - Indice de prix : 0.11
-
-2. **Chips nature ondulée 25g**
-   - Prix avant: 2,800 Ar
-   - Prix actuel: 1,900 Ar
-   - Indice de prix : 67.86
 

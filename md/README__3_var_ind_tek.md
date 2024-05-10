@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Désodorisant Aero Fleur de cerisier 300 ml**
-   - Prix avant: 9,000 Ar
-   - Prix actuel: 10,600 Ar
-   - Variation: +1,600 Ar
+1. **Fer à souder électrique 60W**
+   - Prix avant: 30,200 Ar
+   - Prix actuel: 30,240 Ar
+   - Variation: +40 Ar
 
-2. **Désodorisant Aero Fruits Rouge 300 ml**
-   - Prix avant: 9,000 Ar
-   - Prix actuel: 10,600 Ar
-   - Variation: +1,600 Ar
+2. **Gommage visage exfoliant bio tube 75 ml**
+   - Prix avant: 53,000 Ar
+   - Prix actuel: 51,000 Ar
+   - Variation: -2,000 Ar
 
-3. **Insecticide anti-volants 400 ml**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 13,100 Ar
-   - Variation: +1,200 Ar
+3. **Crème de jour bio tube 30 ml**
+   - Prix avant: 51,900 Ar
+   - Prix actuel: 48,000 Ar
+   - Variation: -3,900 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Bloc wc javel citron X2**
-   - Prix avant: 10,100 Ar
-   - Prix actuel: 11,100 Ar
-   - Variation: +1,000 Ar
+1. **Masque au Charbon Végétal Pot 75 ml**
+   - Prix avant: 135,000 Ar
+   - Prix actuel: 111,500 Ar
+   - Variation: -23,500 Ar
 
-2. **Insecticide anti-rampants 400 ml**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 13,100 Ar
-   - Variation: +1,200 Ar
+2. **Huile démaquillante bio flacon 100 ml**
+   - Prix avant: 107,000 Ar
+   - Prix actuel: 88,200 Ar
+   - Variation: -18,800 Ar
 
-3. **Insecticide anti-volants 400 ml**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 13,100 Ar
-   - Variation: +1,200 Ar
+3. **Lait pour le Corps à l'Huile d'Argan Tube 100 ml**
+   - Prix avant: 104,800 Ar
+   - Prix actuel: 86,400 Ar
+   - Variation: -18,400 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Désodorisant Aero Fleur de cerisier 300 ml**
-   - Prix avant: 9,000 Ar
-   - Prix actuel: 10,600 Ar
-   - Indice de prix : 117.78
+1. **Fer à souder électrique 60W**
+   - Prix avant: 30,200 Ar
+   - Prix actuel: 30,240 Ar
+   - Indice de prix : 100.13
 
-2. **Désodorisant Aero Fruits Rouge 300 ml**
-   - Prix avant: 9,000 Ar
-   - Prix actuel: 10,600 Ar
-   - Indice de prix : 117.78
+2. **Gommage visage exfoliant bio tube 75 ml**
+   - Prix avant: 53,000 Ar
+   - Prix actuel: 51,000 Ar
+   - Indice de prix : 96.23
 
-3. **Insecticide anti-volants 400 ml**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 13,100 Ar
-   - Indice de prix : 110.08
+3. **Crème anti - âge Argan BIO 50 ml**
+   - Prix avant: 94,000 Ar
+   - Prix actuel: 87,300 Ar
+   - Indice de prix : 92.87
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Bloc wc javel citron X2**
-   - Prix avant: 10,100 Ar
-   - Prix actuel: 11,100 Ar
-   - Indice de prix : 109.90
+1. **Gel Douche Concombre et Melon Tube 200 ml**
+   - Prix avant: 63,800 Ar
+   - Prix actuel: 51,900 Ar
+   - Indice de prix : 81.35
 
-2. **Insecticide anti-rampants 400 ml**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 13,100 Ar
-   - Indice de prix : 110.08
+2. **Crème de jour Argan bio 50 ml**
+   - Prix avant: 88,600 Ar
+   - Prix actuel: 72,500 Ar
+   - Indice de prix : 81.83
 
-3. **Insecticide anti-volants 400 ml**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 13,100 Ar
-   - Indice de prix : 110.08
+3. **Crème de nuit Argan bio 50 ml**
+   - Prix avant: 88,600 Ar
+   - Prix actuel: 72,500 Ar
+   - Indice de prix : 81.83
 
