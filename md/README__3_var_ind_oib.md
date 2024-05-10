@@ -2,89 +2,49 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Thermomètre digital résistant aux chocs avec sonde**
-   - Prix avant: 625,005 Ar
-   - Prix actuel: 657,900 Ar
-   - Variation: +32,895 Ar
+1. **Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD**
+   - Prix avant: 299,000 Ar
+   - Prix actuel: 315,300 Ar
+   - Variation: +16,300 Ar
 
-2. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
-   - Prix avant: 569,050 Ar
-   - Prix actuel: 599,000 Ar
-   - Variation: +29,950 Ar
-
-3. **Faitout rond rouge Slowcook Ø28cm**
-   - Prix avant: 508,250 Ar
-   - Prix actuel: 535,000 Ar
-   - Variation: +26,750 Ar
-
-4. **Thermomètre infrarouge**
-   - Prix avant: 494,000 Ar
-   - Prix actuel: 520,000 Ar
-   - Variation: +26,000 Ar
+2. **Jus d'orange Le Fruit 1L**
+   - Prix avant: 4,900 Ar
+   - Prix actuel: 4,150 Ar
+   - Variation: -750 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Croquettes pour chat viandes 4kg**
-   - Prix avant: 45,125 Ar
-   - Prix actuel: 43,900 Ar
-   - Variation: -1,225 Ar
+1. **ENCEINTE PORTABLE BLUETOOTH BLANC - INOVALLEY - HP202-BTH-W	I**
+   - Prix avant: 119,000 Ar
+   - Prix actuel: 126 Ar
+   - Variation: -118,874 Ar
 
-2. **Huile equalio 1L**
-   - Prix avant: 18,900 Ar
-   - Prix actuel: 17,900 Ar
-   - Variation: -1,000 Ar
-
-3. **Mayonnaise à la moutarde à l'ancienne 235g**
-   - Prix avant: 8,075 Ar
-   - Prix actuel: 7,500 Ar
-   - Variation: -575 Ar
-
-4. **Savon de toilette cerise 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -530 Ar
+2. **Chips nature ondulée 25g**
+   - Prix avant: 2,800 Ar
+   - Prix actuel: 1,900 Ar
+   - Variation: -900 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Gomme plastique**
-   - Prix avant: 1,852 Ar
-   - Prix actuel: 1,950 Ar
-   - Indice de prix : 105.29
+1. **Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD**
+   - Prix avant: 299,000 Ar
+   - Prix actuel: 315,300 Ar
+   - Indice de prix : 105.45
 
-2. **21 Etiquettes blanches 38x63mm**
-   - Prix avant: 2,422 Ar
-   - Prix actuel: 2,550 Ar
-   - Indice de prix : 105.28
-
-3. **Vaseline 50ml**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
-
-4. **2 Recharges porte mines 0,7mm - HB**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
+2. **Jus cocktail Le Fruit 1L**
+   - Prix avant: 4,950 Ar
+   - Prix actuel: 4,200 Ar
+   - Indice de prix : 84.85
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Savon de toilette cerise 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
+1. **ENCEINTE PORTABLE BLUETOOTH BLANC - INOVALLEY - HP202-BTH-W	I**
+   - Prix avant: 119,000 Ar
+   - Prix actuel: 126 Ar
+   - Indice de prix : 0.11
 
-2. **Savon de toilette lait d'amande 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
-
-3. **Savon de toilette mure sauvage 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
-
-4. **Mayonnaise à la moutarde à l'ancienne 235g**
-   - Prix avant: 8,075 Ar
-   - Prix actuel: 7,500 Ar
-   - Indice de prix : 92.88
+2. **Chips nature ondulée 25g**
+   - Prix avant: 2,800 Ar
+   - Prix actuel: 1,900 Ar
+   - Indice de prix : 67.86
 
