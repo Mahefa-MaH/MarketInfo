@@ -1,20 +1,20 @@
 {
   "prix_augmentes": [
     {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5199000,
-      "prix_comparaison": 5468450,
-      "variation": 269450
+      "cle": "coiffure_13997steampod30lisseurvapeurprofessionnel2en1lorealprofessionnelparis_html",
+      "name": "Steampod 3.0 - Lisseur Vapeur Professionnel 2-en-1 - L'Or\u00e9al Professionnel Paris",
+      "prix_base": 1119000,
+      "prix_comparaison": 1182500,
+      "variation": 63500
     }
   ],
   "prix_diminues": [
     {
-      "cle": "enceintesbluetooth_14874enceinteportablebluetoothblancinovalleyhp202bthwi_html",
-      "name": "ENCEINTE PORTABLE BLUETOOTH BLANC - INOVALLEY - HP202-BTH-W\tI",
-      "prix_base": 119000,
-      "prix_comparaison": 126,
-      "variation": -118874
+      "cle": "coiffure_13997steampod30lisseurvapeurprofessionnel2en1lorealprofessionnelparis_html",
+      "name": "Steampod 3.0 - Lisseur Vapeur Professionnel 2-en-1 - L'Or\u00e9al Professionnel Paris",
+      "prix_base": 1119000,
+      "prix_comparaison": 1182500,
+      "variation": 63500
     }
   ],
   "indices_prix_plus_eleves": [
@@ -28,11 +28,11 @@
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "enceintesbluetooth_14874enceinteportablebluetoothblancinovalleyhp202bthwi_html",
-      "name": "ENCEINTE PORTABLE BLUETOOTH BLANC - INOVALLEY - HP202-BTH-W\tI",
-      "prix_base": 119000,
-      "prix_comparaison": 126,
-      "indice_prix": 0.10588235294117647
+      "cle": "coiffure_13997steampod30lisseurvapeurprofessionnel2en1lorealprofessionnelparis_html",
+      "name": "Steampod 3.0 - Lisseur Vapeur Professionnel 2-en-1 - L'Or\u00e9al Professionnel Paris",
+      "prix_base": 1119000,
+      "prix_comparaison": 1182500,
+      "indice_prix": 105.67470956210903
     }
   ]
 }
