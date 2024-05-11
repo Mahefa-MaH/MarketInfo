@@ -2,107 +2,257 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB**
-   - Prix avant: 1,634,000 Ar
-   - Prix actuel: 1,624,000 Ar
-   - Variation: -10,000 Ar
+1. **APPLE iPhone 7
+                                                  - Reconditionné**
+   - Prix avant: 449,100 Ar
+   - Prix actuel: 474,050 Ar
+   - Variation: +24,950 Ar
 
-2. **Yaourt double crème citron méringue 100g**
-   - Prix avant: 1,190 Ar
-   - Prix actuel: 1,290 Ar
-   - Variation: +100 Ar
+2. **APPLE iPhone 8
+                                                  - Reconditionné**
+   - Prix avant: 602,100 Ar
+   - Prix actuel: 635,550 Ar
+   - Variation: +33,450 Ar
 
-3. **Yaourt double crème fraise banane 100g**
-   - Prix avant: 1,190 Ar
-   - Prix actuel: 1,290 Ar
-   - Variation: +100 Ar
+3. **APPLE iPhone SE 2020
+                                                  - Reconditionné**
+   - Prix avant: 683,100 Ar
+   - Prix actuel: 721,050 Ar
+   - Variation: +37,950 Ar
 
-4. **Yaourt double crème pomme cerise 100g**
-   - Prix avant: 1,190 Ar
-   - Prix actuel: 1,290 Ar
-   - Variation: +100 Ar
+4. **APPLE iPhone 8 Plus
+                                                  - Reconditionné**
+   - Prix avant: 899,100 Ar
+   - Prix actuel: 949,050 Ar
+   - Variation: +49,950 Ar
 
-5. **Yaourt double crème vanille 100g**
-   - Prix avant: 1,190 Ar
-   - Prix actuel: 1,290 Ar
-   - Variation: +100 Ar
+5. **APPLE iPhone 6S plus
+                                                  - Reconditionné**
+   - Prix avant: 917,100 Ar
+   - Prix actuel: 968,050 Ar
+   - Variation: +50,950 Ar
 
-6. **Crème de coco 400ml**
-   - Prix avant: 5,500 Ar
-   - Prix actuel: 6,390 Ar
-   - Variation: +890 Ar
+6. **APPLE iPhone XR
+                                                  - Reconditionné**
+   - Prix avant: 989,100 Ar
+   - Prix actuel: 1,044,050 Ar
+   - Variation: +54,950 Ar
 
-7. **SAMSUNG Galaxy A33 5G 128Go Noir**
-   - Prix avant: 1,539,000 Ar
-   - Prix actuel: 1,583,000 Ar
-   - Variation: +44,000 Ar
+7. **APPLE iPhone X
+                                                  - Reconditionné**
+   - Prix avant: 1,025,100 Ar
+   - Prix actuel: 1,082,050 Ar
+   - Variation: +56,950 Ar
 
-8. **SAMSUNG Galaxy S24 128 Go Argent**
-   - Prix avant: 4,225,000 Ar
-   - Prix actuel: 4,289,000 Ar
-   - Variation: +64,000 Ar
+8. **APPLE iPhone XS
+                                                  - Reconditionné**
+   - Prix avant: 1,142,100 Ar
+   - Prix actuel: 1,205,550 Ar
+   - Variation: +63,450 Ar
 
-9. **SAMSUNG Galaxy S24 Plus 256 Go Argent**
-   - Prix avant: 5,450,000 Ar
-   - Prix actuel: 5,524,000 Ar
-   - Variation: +74,000 Ar
+9. **APPLE iPhone SE 2022
+                                                  - Reconditionné**
+   - Prix avant: 1,259,100 Ar
+   - Prix actuel: 1,329,050 Ar
+   - Variation: +69,950 Ar
 
-10. **SAMSUNG Galaxy S24 Plus 512 Go Indigo**
-   - Prix avant: 6,007,000 Ar
-   - Prix actuel: 6,107,000 Ar
-   - Variation: +100,000 Ar
+10. **APPLE iPhone 11
+                                                  - Reconditionné**
+   - Prix avant: 1,349,100 Ar
+   - Prix actuel: 1,424,050 Ar
+   - Variation: +74,950 Ar
+
+11. **APPLE iPhone 12 Mini
+                                                  - Reconditionné**
+   - Prix avant: 1,403,100 Ar
+   - Prix actuel: 1,481,050 Ar
+   - Variation: +77,950 Ar
+
+12. **APPLE iPhone 12
+                                                  - Reconditionné**
+   - Prix avant: 1,619,100 Ar
+   - Prix actuel: 1,709,050 Ar
+   - Variation: +89,950 Ar
+
+13. **APPLE iPhone 11 Pro Max
+                                                  - Reconditionné**
+   - Prix avant: 1,997,100 Ar
+   - Prix actuel: 2,108,050 Ar
+   - Variation: +110,950 Ar
+
+14. **APPLE iPhone 12 Pro
+                                                  - Reconditionné**
+   - Prix avant: 2,195,100 Ar
+   - Prix actuel: 2,317,050 Ar
+   - Variation: +121,950 Ar
+
+15. **APPLE iPhone 13
+                                                  - Reconditionné**
+   - Prix avant: 2,465,100 Ar
+   - Prix actuel: 2,602,050 Ar
+   - Variation: +136,950 Ar
+
+16. **APPLE iPhone 12 Pro Max
+                                                  - Reconditionné**
+   - Prix avant: 2,681,100 Ar
+   - Prix actuel: 2,830,050 Ar
+   - Variation: +148,950 Ar
+
+17. **APPLE iPhone 14
+                                                  - Reconditionné**
+   - Prix avant: 3,005,100 Ar
+   - Prix actuel: 3,172,050 Ar
+   - Variation: +166,950 Ar
+
+18. **APPLE iPhone 13 Pro
+                                                  - Reconditionné**
+   - Prix avant: 3,023,100 Ar
+   - Prix actuel: 3,191,050 Ar
+   - Variation: +167,950 Ar
+
+19. **APPLE iPhone 13 Pro Max
+                                                  - Reconditionné**
+   - Prix avant: 3,113,100 Ar
+   - Prix actuel: 3,286,050 Ar
+   - Variation: +172,950 Ar
+
+20. **APPLE iPhone 14 Plus
+                                                  - Reconditionné**
+   - Prix avant: 3,347,100 Ar
+   - Prix actuel: 3,533,050 Ar
+   - Variation: +185,950 Ar
+
+21. **iPhone 15 Pro 128GB Natural Titanium**
+   - Prix avant: 5,199,000 Ar
+   - Prix actuel: 5,468,450 Ar
+   - Variation: +269,450 Ar
 
 
 
 ## Indice de prix
 
-1. **CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB**
-   - Prix avant: 1,634,000 Ar
-   - Prix actuel: 1,624,000 Ar
-   - Indice de prix : 99.39
+1. **iPhone 15 Pro 128GB Natural Titanium**
+   - Prix avant: 5,199,000 Ar
+   - Prix actuel: 5,468,450 Ar
+   - Indice de prix : 105.18
 
-2. **SAMSUNG Galaxy S24 Plus 256 Go Argent**
-   - Prix avant: 5,450,000 Ar
-   - Prix actuel: 5,524,000 Ar
-   - Indice de prix : 101.36
+2. **APPLE iPhone 11
+                                                  - Reconditionné**
+   - Prix avant: 1,349,100 Ar
+   - Prix actuel: 1,424,050 Ar
+   - Indice de prix : 105.56
 
-3. **SAMSUNG Galaxy S24 128 Go Argent**
-   - Prix avant: 4,225,000 Ar
-   - Prix actuel: 4,289,000 Ar
-   - Indice de prix : 101.51
+3. **APPLE iPhone 11 Pro Max
+                                                  - Reconditionné**
+   - Prix avant: 1,997,100 Ar
+   - Prix actuel: 2,108,050 Ar
+   - Indice de prix : 105.56
 
-4. **SAMSUNG Galaxy S24 Plus 512 Go Indigo**
-   - Prix avant: 6,007,000 Ar
-   - Prix actuel: 6,107,000 Ar
-   - Indice de prix : 101.66
+4. **APPLE iPhone 12
+                                                  - Reconditionné**
+   - Prix avant: 1,619,100 Ar
+   - Prix actuel: 1,709,050 Ar
+   - Indice de prix : 105.56
 
-5. **SAMSUNG Galaxy A33 5G 128Go Noir**
-   - Prix avant: 1,539,000 Ar
-   - Prix actuel: 1,583,000 Ar
-   - Indice de prix : 102.86
+5. **APPLE iPhone 12 Mini
+                                                  - Reconditionné**
+   - Prix avant: 1,403,100 Ar
+   - Prix actuel: 1,481,050 Ar
+   - Indice de prix : 105.56
 
-6. **Yaourt double crème citron méringue 100g**
-   - Prix avant: 1,190 Ar
-   - Prix actuel: 1,290 Ar
-   - Indice de prix : 108.40
+6. **APPLE iPhone 12 Pro
+                                                  - Reconditionné**
+   - Prix avant: 2,195,100 Ar
+   - Prix actuel: 2,317,050 Ar
+   - Indice de prix : 105.56
 
-7. **Yaourt double crème fraise banane 100g**
-   - Prix avant: 1,190 Ar
-   - Prix actuel: 1,290 Ar
-   - Indice de prix : 108.40
+7. **APPLE iPhone 12 Pro Max
+                                                  - Reconditionné**
+   - Prix avant: 2,681,100 Ar
+   - Prix actuel: 2,830,050 Ar
+   - Indice de prix : 105.56
 
-8. **Yaourt double crème pomme cerise 100g**
-   - Prix avant: 1,190 Ar
-   - Prix actuel: 1,290 Ar
-   - Indice de prix : 108.40
+8. **APPLE iPhone 13
+                                                  - Reconditionné**
+   - Prix avant: 2,465,100 Ar
+   - Prix actuel: 2,602,050 Ar
+   - Indice de prix : 105.56
 
-9. **Yaourt double crème vanille 100g**
-   - Prix avant: 1,190 Ar
-   - Prix actuel: 1,290 Ar
-   - Indice de prix : 108.40
+9. **APPLE iPhone 13 Pro
+                                                  - Reconditionné**
+   - Prix avant: 3,023,100 Ar
+   - Prix actuel: 3,191,050 Ar
+   - Indice de prix : 105.56
 
-10. **Crème de coco 400ml**
-   - Prix avant: 5,500 Ar
-   - Prix actuel: 6,390 Ar
-   - Indice de prix : 116.18
+10. **APPLE iPhone 13 Pro Max
+                                                  - Reconditionné**
+   - Prix avant: 3,113,100 Ar
+   - Prix actuel: 3,286,050 Ar
+   - Indice de prix : 105.56
+
+11. **APPLE iPhone 14
+                                                  - Reconditionné**
+   - Prix avant: 3,005,100 Ar
+   - Prix actuel: 3,172,050 Ar
+   - Indice de prix : 105.56
+
+12. **APPLE iPhone 14 Plus
+                                                  - Reconditionné**
+   - Prix avant: 3,347,100 Ar
+   - Prix actuel: 3,533,050 Ar
+   - Indice de prix : 105.56
+
+13. **APPLE iPhone 6S plus
+                                                  - Reconditionné**
+   - Prix avant: 917,100 Ar
+   - Prix actuel: 968,050 Ar
+   - Indice de prix : 105.56
+
+14. **APPLE iPhone 7
+                                                  - Reconditionné**
+   - Prix avant: 449,100 Ar
+   - Prix actuel: 474,050 Ar
+   - Indice de prix : 105.56
+
+15. **APPLE iPhone 8
+                                                  - Reconditionné**
+   - Prix avant: 602,100 Ar
+   - Prix actuel: 635,550 Ar
+   - Indice de prix : 105.56
+
+16. **APPLE iPhone 8 Plus
+                                                  - Reconditionné**
+   - Prix avant: 899,100 Ar
+   - Prix actuel: 949,050 Ar
+   - Indice de prix : 105.56
+
+17. **APPLE iPhone SE 2020
+                                                  - Reconditionné**
+   - Prix avant: 683,100 Ar
+   - Prix actuel: 721,050 Ar
+   - Indice de prix : 105.56
+
+18. **APPLE iPhone SE 2022
+                                                  - Reconditionné**
+   - Prix avant: 1,259,100 Ar
+   - Prix actuel: 1,329,050 Ar
+   - Indice de prix : 105.56
+
+19. **APPLE iPhone X
+                                                  - Reconditionné**
+   - Prix avant: 1,025,100 Ar
+   - Prix actuel: 1,082,050 Ar
+   - Indice de prix : 105.56
+
+20. **APPLE iPhone XR
+                                                  - Reconditionné**
+   - Prix avant: 989,100 Ar
+   - Prix actuel: 1,044,050 Ar
+   - Indice de prix : 105.56
+
+21. **APPLE iPhone XS
+                                                  - Reconditionné**
+   - Prix avant: 1,142,100 Ar
+   - Prix actuel: 1,205,550 Ar
+   - Indice de prix : 105.56
 
