@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "machineacafeexpressobroyeur_49153delonghiecam65075msmachineexpressoautomatiqueavecbroyeurprimadonnaeliteinox8004399331013_html",
-      "name": "Machine expresso automatique avec broyeur DELONGHI PrimaDonna Elite ECAM 650.75.MS - Inox",
-      "prix_base": 10244000,
-      "prix_comparaison": 10244000,
+      "cle": "batteriedalimentationinformatique_138862ecoflowdelta2max4895251604772_html",
+      "name": "EcoFlow Delta 2 Max",
+      "prix_base": 16383000,
+      "prix_comparaison": 16383000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "machineacafeexpressobroyeur_49156machineacafeexpressobroyeurdelonghiecam65085msgrisconnecteprimadonnaeliteexperience8004399331648_html",
-      "name": "Machine expresso broyeur - DELONGHI PrimaDonna Elite Experience ECAM650.85.MS - Gris - Connect\u00e9 - Machine a caf\u00e9 grains",
-      "prix_base": 10780000,
-      "prix_comparaison": 10780000,
+      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
+      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
+      "prix_base": 17500000,
+      "prix_comparaison": 17500000,
       "variation": 0,
       "indice_prix": 100.0
     }
