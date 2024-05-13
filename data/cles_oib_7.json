@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_15213rizdiamante5kg_html",
-      "name": "Riz blanc diamante 5Kg",
-      "prix_base": 19300,
-      "prix_comparaison": 19300,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "riz_7289rizblancdeitasy5kg_html",
       "name": "Riz blanc de l'Itasy 5kg",
       "prix_base": 18400,
       "prix_comparaison": 18400,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "semoulesetcouscous_1460farinederiz1kg_html",
+      "name": "Farine de riz 1kg",
+      "prix_base": 5000,
+      "prix_comparaison": 5000,
       "variation": 0,
       "indice_prix": 100.0
     }
