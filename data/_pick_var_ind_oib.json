@@ -1,299 +1,75 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphones_14693712appleiphone7reconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_44stockage32_go",
-      "name": "APPLE iPhone 7\n                                                  - Reconditionn\u00e9",
-      "prix_base": 449100,
-      "prix_comparaison": 474050,
-      "variation": 24950
+      "cle": "smartphones_146971091appleiphone6sreconditionne_html_36couleuror_rose_39batterie_neuvenon_40etat_du_telephonebon_etat_43stockage16_go",
+      "name": "APPLE iPhone 6S\n                                                  - Reconditionn\u00e9",
+      "prix_base": 422100,
+      "prix_comparaison": 445550,
+      "variation": 23450
     },
     {
-      "cle": "smartphones_146951368appleiphone8reconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 8\n                                                  - Reconditionn\u00e9",
-      "prix_base": 602100,
-      "prix_comparaison": 635550,
-      "variation": 33450
+      "cle": "smartphones_147011717appleiphonexsmaxreconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone XS Max\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1232100,
+      "prix_comparaison": 1300550,
+      "variation": 68450
     },
     {
-      "cle": "smartphones_146981296appleiphonese2020reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone SE 2020\n                                                  - Reconditionn\u00e9",
-      "prix_base": 683100,
-      "prix_comparaison": 721050,
-      "variation": 37950
+      "cle": "tablettestactilesliseuses_14891appleipadair3gradeaversiona2153pucea12bionicram3gossd64goecran105grissideralportsimiosinstalle_html",
+      "name": "APPLE iPad Air 3 Grade A Version A2153 - Puce A12 Bionic RAM 3 Go SSD 64Go - \u00c9cran 10.5\" Gris sid\u00e9ral - Port SIM iOS install\u00e9",
+      "prix_base": 1579000,
+      "prix_comparaison": 1664860,
+      "variation": 85860
     },
     {
-      "cle": "smartphones_146921486appleiphone8plusreconditionne_html_32couleurargent_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 8 Plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 899100,
-      "prix_comparaison": 949050,
-      "variation": 49950
+      "cle": "smartphones_14679476appleiphone11proreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11 Pro\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1710000,
+      "prix_comparaison": 1805000,
+      "variation": 95000
     },
     {
-      "cle": "smartphones_146911334appleiphone6splusreconditionne_html_32couleurargent_39batterie_neuvenon_41etat_du_telephonetres_bon_etat_43stockage16_go",
-      "name": "APPLE iPhone 6S plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 917100,
-      "prix_comparaison": 968050,
-      "variation": 50950
-    },
-    {
-      "cle": "smartphones_14699162appleiphonexrreconditionne_html_11couleurnoir_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone XR\n                                                  - Reconditionn\u00e9",
-      "prix_base": 989100,
-      "prix_comparaison": 1044050,
-      "variation": 54950
-    },
-    {
-      "cle": "smartphones_146941598appleiphonexreconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone X\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1025100,
-      "prix_comparaison": 1082050,
-      "variation": 56950
-    },
-    {
-      "cle": "smartphones_147001639appleiphonexsreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_47stockage256_go",
-      "name": "APPLE iPhone XS\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1142100,
-      "prix_comparaison": 1205550,
-      "variation": 63450
-    },
-    {
-      "cle": "smartphones_146961350appleiphonese2022reconditionne_html_27couleurminuit_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone SE 2022\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1259100,
-      "prix_comparaison": 1329050,
-      "variation": 69950
-    },
-    {
-      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1349100,
-      "prix_comparaison": 1424050,
-      "variation": 74950
-    },
-    {
-      "cle": "smartphones_146821206appleiphone12minireconditionne_html_8couleurblanc_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 12 Mini\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1403100,
-      "prix_comparaison": 1481050,
-      "variation": 77950
-    },
-    {
-      "cle": "smartphones_14681861appleiphone12reconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 12\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1619100,
-      "prix_comparaison": 1709050,
-      "variation": 89950
-    },
-    {
-      "cle": "smartphones_14680641appleiphone11promaxreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1997100,
-      "prix_comparaison": 2108050,
-      "variation": 110950
-    },
-    {
-      "cle": "smartphones_146831430appleiphone12proreconditionne_html_5couleurgris_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 12 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2195100,
-      "prix_comparaison": 2317050,
-      "variation": 121950
-    },
-    {
-      "cle": "smartphones_14685355appleiphone13reconditionne_html_15couleurvert_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2465100,
-      "prix_comparaison": 2602050,
-      "variation": 136950
-    },
-    {
-      "cle": "smartphones_146841046appleiphone12promaxreconditionne_html_32couleurargent_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 12 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2681100,
-      "prix_comparaison": 2830050,
-      "variation": 148950
-    },
-    {
-      "cle": "smartphones_146891006appleiphone14reconditionne_html_27couleurminuit_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 14\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3005100,
-      "prix_comparaison": 3172050,
-      "variation": 166950
-    },
-    {
-      "cle": "smartphones_14687528appleiphone13proreconditionne_html_34couleurgraphite_39batterie_neuvenon_40etat_du_telephonebon_etat_47stockage256_go",
-      "name": "APPLE iPhone 13 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3023100,
-      "prix_comparaison": 3191050,
-      "variation": 167950
-    },
-    {
-      "cle": "smartphones_14688802appleiphone13promaxreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3113100,
-      "prix_comparaison": 3286050,
-      "variation": 172950
-    },
-    {
-      "cle": "smartphones_146901170appleiphone14plusreconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 14 Plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3347100,
-      "prix_comparaison": 3533050,
-      "variation": 185950
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5199000,
-      "prix_comparaison": 5468450,
-      "variation": 269450
+      "cle": "smartphones_14678437appleiphone13minireconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
+      "name": "APPLE iPhone 13 Mini\n                                                  - Reconditionn\u00e9",
+      "prix_base": 2069100,
+      "prix_comparaison": 2184050,
+      "variation": 114950
     }
   ],
   "indice de prix": [
     {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5199000,
-      "prix_comparaison": 5468450,
-      "indice_prix": 105.18272744758607
+      "cle": "tablettestactilesliseuses_14891appleipadair3gradeaversiona2153pucea12bionicram3gossd64goecran105grissideralportsimiosinstalle_html",
+      "name": "APPLE iPad Air 3 Grade A Version A2153 - Puce A12 Bionic RAM 3 Go SSD 64Go - \u00c9cran 10.5\" Gris sid\u00e9ral - Port SIM iOS install\u00e9",
+      "prix_base": 1579000,
+      "prix_comparaison": 1664860,
+      "indice_prix": 105.43761874604179
     },
     {
-      "cle": "smartphones_14686243appleiphone11reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1349100,
-      "prix_comparaison": 1424050,
+      "cle": "smartphones_14679476appleiphone11proreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone 11 Pro\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1710000,
+      "prix_comparaison": 1805000,
       "indice_prix": 105.55555555555556
     },
     {
-      "cle": "smartphones_14680641appleiphone11promaxreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1997100,
-      "prix_comparaison": 2108050,
+      "cle": "smartphones_14678437appleiphone13minireconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
+      "name": "APPLE iPhone 13 Mini\n                                                  - Reconditionn\u00e9",
+      "prix_base": 2069100,
+      "prix_comparaison": 2184050,
       "indice_prix": 105.55555555555556
     },
     {
-      "cle": "smartphones_14681861appleiphone12reconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 12\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1619100,
-      "prix_comparaison": 1709050,
+      "cle": "smartphones_146971091appleiphone6sreconditionne_html_36couleuror_rose_39batterie_neuvenon_40etat_du_telephonebon_etat_43stockage16_go",
+      "name": "APPLE iPhone 6S\n                                                  - Reconditionn\u00e9",
+      "prix_base": 422100,
+      "prix_comparaison": 445550,
       "indice_prix": 105.55555555555556
     },
     {
-      "cle": "smartphones_146821206appleiphone12minireconditionne_html_8couleurblanc_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 12 Mini\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1403100,
-      "prix_comparaison": 1481050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146831430appleiphone12proreconditionne_html_5couleurgris_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 12 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2195100,
-      "prix_comparaison": 2317050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146841046appleiphone12promaxreconditionne_html_32couleurargent_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 12 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2681100,
-      "prix_comparaison": 2830050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_14685355appleiphone13reconditionne_html_15couleurvert_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2465100,
-      "prix_comparaison": 2602050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_14687528appleiphone13proreconditionne_html_34couleurgraphite_39batterie_neuvenon_40etat_du_telephonebon_etat_47stockage256_go",
-      "name": "APPLE iPhone 13 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3023100,
-      "prix_comparaison": 3191050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_14688802appleiphone13promaxreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13 Pro Max\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3113100,
-      "prix_comparaison": 3286050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146891006appleiphone14reconditionne_html_27couleurminuit_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 14\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3005100,
-      "prix_comparaison": 3172050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146901170appleiphone14plusreconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 14 Plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 3347100,
-      "prix_comparaison": 3533050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146911334appleiphone6splusreconditionne_html_32couleurargent_39batterie_neuvenon_41etat_du_telephonetres_bon_etat_43stockage16_go",
-      "name": "APPLE iPhone 6S plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 917100,
-      "prix_comparaison": 968050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_14693712appleiphone7reconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_44stockage32_go",
-      "name": "APPLE iPhone 7\n                                                  - Reconditionn\u00e9",
-      "prix_base": 449100,
-      "prix_comparaison": 474050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146951368appleiphone8reconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 8\n                                                  - Reconditionn\u00e9",
-      "prix_base": 602100,
-      "prix_comparaison": 635550,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146921486appleiphone8plusreconditionne_html_32couleurargent_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 8 Plus\n                                                  - Reconditionn\u00e9",
-      "prix_base": 899100,
-      "prix_comparaison": 949050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146981296appleiphonese2020reconditionne_html_10couleurrouge_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone SE 2020\n                                                  - Reconditionn\u00e9",
-      "prix_base": 683100,
-      "prix_comparaison": 721050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146961350appleiphonese2022reconditionne_html_27couleurminuit_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone SE 2022\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1259100,
-      "prix_comparaison": 1329050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_146941598appleiphonexreconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone X\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1025100,
-      "prix_comparaison": 1082050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_14699162appleiphonexrreconditionne_html_11couleurnoir_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone XR\n                                                  - Reconditionn\u00e9",
-      "prix_base": 989100,
-      "prix_comparaison": 1044050,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "cle": "smartphones_147001639appleiphonexsreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_47stockage256_go",
-      "name": "APPLE iPhone XS\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1142100,
-      "prix_comparaison": 1205550,
+      "cle": "smartphones_147011717appleiphonexsmaxreconditionne_html_30couleurgris_sideral_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
+      "name": "APPLE iPhone XS Max\n                                                  - Reconditionn\u00e9",
+      "prix_base": 1232100,
+      "prix_comparaison": 1300550,
       "indice_prix": 105.55555555555556
     }
   ]

@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_lentille1kapoakaricheenproteine_",
-      "name": "Lentille 1kg | Riche en prot\u00e9ine",
-      "prix_base": 15000,
-      "prix_comparaison": 24000,
-      "variation": 9000
+      "cle": "produit_lecitonejeunenutrisanteboitede60gelulesmemoirefatiguescolaire12ans_",
+      "name": "Lecitone Jeune Nouvelle Formule Nutrisant\u00e9\u2122 Boite de 60 G\u00e9lules | M\u00e9moire et Fatigue Scolaire | D\u00e8s 12 ans",
+      "prix_base": 72110,
+      "prix_comparaison": 90769,
+      "variation": 18659
     },
     {
-      "cle": "produit_citronsverts1kg_",
-      "name": "Citrons verts 1kg",
-      "prix_base": 4000,
-      "prix_comparaison": 5400,
-      "variation": 1400
+      "cle": "produit_maisdouxmaisdor_",
+      "name": "Ma\u00efs Doux \u2013 Ma\u00efs d\u2019or\u2122",
+      "prix_base": 6000,
+      "prix_comparaison": 6800,
+      "variation": 800
+    },
+    {
+      "cle": "produit_seldemerfinlabaleineetui500g_",
+      "name": "Sel Fin La Baleine\u2122 500g | Sel de mer iod\u00e9 et fluor\u00e9",
+      "prix_base": 5200,
+      "prix_comparaison": 5977,
+      "variation": 777
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_citronsverts1kg_",
-      "name": "Citrons verts 1kg",
-      "prix_base": 4000,
-      "prix_comparaison": 5400,
-      "variation": 1400
+      "cle": "produit_seldemerfinlabaleineetui500g_",
+      "name": "Sel Fin La Baleine\u2122 500g | Sel de mer iod\u00e9 et fluor\u00e9",
+      "prix_base": 5200,
+      "prix_comparaison": 5977,
+      "variation": 777
     },
     {
-      "cle": "produit_lentille1kapoakaricheenproteine_",
-      "name": "Lentille 1kg | Riche en prot\u00e9ine",
-      "prix_base": 15000,
-      "prix_comparaison": 24000,
-      "variation": 9000
+      "cle": "produit_maisdouxmaisdor_",
+      "name": "Ma\u00efs Doux \u2013 Ma\u00efs d\u2019or\u2122",
+      "prix_base": 6000,
+      "prix_comparaison": 6800,
+      "variation": 800
+    },
+    {
+      "cle": "produit_lecitonejeunenutrisanteboitede60gelulesmemoirefatiguescolaire12ans_",
+      "name": "Lecitone Jeune Nouvelle Formule Nutrisant\u00e9\u2122 Boite de 60 G\u00e9lules | M\u00e9moire et Fatigue Scolaire | D\u00e8s 12 ans",
+      "prix_base": 72110,
+      "prix_comparaison": 90769,
+      "variation": 18659
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_lentille1kapoakaricheenproteine_",
-      "name": "Lentille 1kg | Riche en prot\u00e9ine",
-      "prix_base": 15000,
-      "prix_comparaison": 24000,
-      "indice_prix": 160.0
+      "cle": "produit_lecitonejeunenutrisanteboitede60gelulesmemoirefatiguescolaire12ans_",
+      "name": "Lecitone Jeune Nouvelle Formule Nutrisant\u00e9\u2122 Boite de 60 G\u00e9lules | M\u00e9moire et Fatigue Scolaire | D\u00e8s 12 ans",
+      "prix_base": 72110,
+      "prix_comparaison": 90769,
+      "indice_prix": 125.87574538898905
     },
     {
-      "cle": "produit_citronsverts1kg_",
-      "name": "Citrons verts 1kg",
-      "prix_base": 4000,
-      "prix_comparaison": 5400,
-      "indice_prix": 135.0
+      "cle": "produit_seldemerfinlabaleineetui500g_",
+      "name": "Sel Fin La Baleine\u2122 500g | Sel de mer iod\u00e9 et fluor\u00e9",
+      "prix_base": 5200,
+      "prix_comparaison": 5977,
+      "indice_prix": 114.9423076923077
+    },
+    {
+      "cle": "produit_maisdouxmaisdor_",
+      "name": "Ma\u00efs Doux \u2013 Ma\u00efs d\u2019or\u2122",
+      "prix_base": 6000,
+      "prix_comparaison": 6800,
+      "indice_prix": 113.33333333333333
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_citronsverts1kg_",
-      "name": "Citrons verts 1kg",
-      "prix_base": 4000,
-      "prix_comparaison": 5400,
-      "indice_prix": 135.0
+      "cle": "produit_maisdouxmaisdor_",
+      "name": "Ma\u00efs Doux \u2013 Ma\u00efs d\u2019or\u2122",
+      "prix_base": 6000,
+      "prix_comparaison": 6800,
+      "indice_prix": 113.33333333333333
     },
     {
-      "cle": "produit_lentille1kapoakaricheenproteine_",
-      "name": "Lentille 1kg | Riche en prot\u00e9ine",
-      "prix_base": 15000,
-      "prix_comparaison": 24000,
-      "indice_prix": 160.0
+      "cle": "produit_seldemerfinlabaleineetui500g_",
+      "name": "Sel Fin La Baleine\u2122 500g | Sel de mer iod\u00e9 et fluor\u00e9",
+      "prix_base": 5200,
+      "prix_comparaison": 5977,
+      "indice_prix": 114.9423076923077
+    },
+    {
+      "cle": "produit_lecitonejeunenutrisanteboitede60gelulesmemoirefatiguescolaire12ans_",
+      "name": "Lecitone Jeune Nouvelle Formule Nutrisant\u00e9\u2122 Boite de 60 G\u00e9lules | M\u00e9moire et Fatigue Scolaire | D\u00e8s 12 ans",
+      "prix_base": 72110,
+      "prix_comparaison": 90769,
+      "indice_prix": 125.87574538898905
     }
   ]
 }
