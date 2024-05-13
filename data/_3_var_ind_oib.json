@@ -6,34 +6,6 @@
       "prix_base": 3679000,
       "prix_comparaison": 3872550,
       "variation": 193550
-    },
-    {
-      "cle": "consoles_14600consoleasusrogally7fhdtactileamdryzenz1extremeram16go512gossdwindows11_html",
-      "name": "Console ASUS ROG Ally | 7 FHD Tactile - AMD Ryzen Z1 Extreme - RAM 16Go - 512Go SSD - Windows 11",
-      "prix_base": 3359000,
-      "prix_comparaison": 3546750,
-      "variation": 187750
-    },
-    {
-      "cle": "smartphones_14678437appleiphone13minireconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
-      "name": "APPLE iPhone 13 Mini\n                                                  - Reconditionn\u00e9",
-      "prix_base": 2069100,
-      "prix_comparaison": 2184050,
-      "variation": 114950
-    },
-    {
-      "cle": "smartphones_14679476appleiphone11proreconditionne_html_31couleuror_39batterie_neuvenon_40etat_du_telephonebon_etat_45stockage64_go",
-      "name": "APPLE iPhone 11 Pro\n                                                  - Reconditionn\u00e9",
-      "prix_base": 1710000,
-      "prix_comparaison": 1805000,
-      "variation": 95000
-    },
-    {
-      "cle": "tablettestactilesliseuses_14891appleipadair3gradeaversiona2153pucea12bionicram3gossd64goecran105grissideralportsimiosinstalle_html",
-      "name": "APPLE iPad Air 3 Grade A Version A2153 - Puce A12 Bionic RAM 3 Go SSD 64Go - \u00c9cran 10.5\" Gris sid\u00e9ral - Port SIM iOS install\u00e9",
-      "prix_base": 1579000,
-      "prix_comparaison": 1664860,
-      "variation": 85860
     }
   ],
   "prix_diminues": [
@@ -43,34 +15,6 @@
       "prix_base": 279000,
       "prix_comparaison": 247000,
       "variation": -32000
-    },
-    {
-      "cle": "coiffure_13986remingtons6308feralisserlisseuradvancedceramicsoineclatbrillanceplaquesflottantescheveuxdouxlissesetsoyeux_html",
-      "name": "Remington S6308 Fer a lisser, lisseur Advanced Ceramic Soin Eclat Brillance, plaques flottantes, cheveux doux, lisses et soyeux",
-      "prix_base": 186000,
-      "prix_comparaison": 174000,
-      "variation": -12000
-    },
-    {
-      "cle": "rasagehomme_14003remingtonbht250tondeuserasoircorpshommedelicatesetanche3sabotslamesanticoupureantiirritation_html",
-      "name": "Remington BHT250 Tondeuse Rasoir Corps Homme Delicates Etanche, 3 Sabots, Lames Anti-Coupure Anti-Irritation",
-      "prix_base": 199000,
-      "prix_comparaison": 198000,
-      "variation": -1000
-    },
-    {
-      "cle": "farinesetchapelures_4941farinedeblemultiusage1kg_html",
-      "name": "Farine de bl\u00e9 multi usage 1kg",
-      "prix_base": 6790,
-      "prix_comparaison": 6590,
-      "variation": -200
-    },
-    {
-      "cle": "jusdefruitsfruitsgoutersdesserts_8885monpremieryaourt100g_html",
-      "name": "Mon premier yaourt 100g",
-      "prix_base": 950,
-      "prix_comparaison": 1200,
-      "variation": 250
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,34 +24,6 @@
       "prix_base": 1900,
       "prix_comparaison": 2800,
       "indice_prix": 147.3684210526316
-    },
-    {
-      "cle": "tablettesdechocolat_2033tablettedechocolatnoir7575grsrobert_html",
-      "name": "Tablette de Chocolat Noir Sp\u00e9cial 75% 75 g",
-      "prix_base": 5900,
-      "prix_comparaison": 8100,
-      "indice_prix": 137.28813559322035
-    },
-    {
-      "cle": "bonbonsgelifiesetacidules_180starchwildstrawberry12x100g_html",
-      "name": "Bonbons wild strawberry 100g",
-      "prix_base": 3400,
-      "prix_comparaison": 4500,
-      "indice_prix": 132.35294117647058
-    },
-    {
-      "cle": "bonbonsgelifiesetacidules_181sourlittlemix12x100g_html",
-      "name": "Bonbons sour little mix 100g",
-      "prix_base": 3400,
-      "prix_comparaison": 4500,
-      "indice_prix": 132.35294117647058
-    },
-    {
-      "cle": "bonbonsgelifiesetacidules_167sugaredcrocodiles12bagsx100g_html",
-      "name": "Bonbons jelly crocodiles 100g",
-      "prix_base": 3400,
-      "prix_comparaison": 4500,
-      "indice_prix": 132.35294117647058
     }
   ],
   "indices_prix_plus_faibles": [
@@ -117,34 +33,6 @@
       "prix_base": 279000,
       "prix_comparaison": 247000,
       "indice_prix": 88.5304659498208
-    },
-    {
-      "cle": "coiffure_13986remingtons6308feralisserlisseuradvancedceramicsoineclatbrillanceplaquesflottantescheveuxdouxlissesetsoyeux_html",
-      "name": "Remington S6308 Fer a lisser, lisseur Advanced Ceramic Soin Eclat Brillance, plaques flottantes, cheveux doux, lisses et soyeux",
-      "prix_base": 186000,
-      "prix_comparaison": 174000,
-      "indice_prix": 93.54838709677419
-    },
-    {
-      "cle": "farinesetchapelures_4941farinedeblemultiusage1kg_html",
-      "name": "Farine de bl\u00e9 multi usage 1kg",
-      "prix_base": 6790,
-      "prix_comparaison": 6590,
-      "indice_prix": 97.05449189985272
-    },
-    {
-      "cle": "rasagehomme_14003remingtonbht250tondeuserasoircorpshommedelicatesetanche3sabotslamesanticoupureantiirritation_html",
-      "name": "Remington BHT250 Tondeuse Rasoir Corps Homme Delicates Etanche, 3 Sabots, Lames Anti-Coupure Anti-Irritation",
-      "prix_base": 199000,
-      "prix_comparaison": 198000,
-      "indice_prix": 99.49748743718592
-    },
-    {
-      "cle": "robotmultifonctions_14023robotmultifonctionboschmultitalent3blanc800w2vitessesetpulsebolmelangeur23lbolmixeur1l2disques_html",
-      "name": "Robot multifonction BOSCH MultiTalent3 - Blanc - 800 W - 2 vitesses et pulse - Bol m\u00e9langeur 2,3 L - Bol mixeur 1 L - 2 disques",
-      "prix_base": 622000,
-      "prix_comparaison": 638000,
-      "indice_prix": 102.57234726688102
     }
   ]
 }

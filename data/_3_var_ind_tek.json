@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 14121,
-      "prix_base": 30200,
-      "name": "Fer \u00e0 souder \u00e9lectrique 60W",
-      "prix_comparaison": 30240,
-      "variation": 40
-    },
-    {
-      "list_id": 6094,
-      "prix_base": 53000,
-      "name": "Gommage visage exfoliant bio tube 75 ml",
-      "prix_comparaison": 51000,
-      "variation": -2000
-    },
-    {
-      "list_id": 6067,
-      "prix_base": 51900,
-      "name": "Cr\u00e8me de jour bio tube 30 ml",
-      "prix_comparaison": 48000,
-      "variation": -3900
+      "list_id": 4866,
+      "prix_base": 33900,
+      "name": "Po\u00eale \u00c0 Frire 410 G",
+      "prix_comparaison": 34200,
+      "variation": 300
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 6098,
-      "prix_base": 135000,
-      "name": "Masque au Charbon V\u00e9g\u00e9tal Pot 75 ml",
-      "prix_comparaison": 111500,
-      "variation": -23500
-    },
-    {
-      "list_id": 6095,
-      "prix_base": 107000,
-      "name": "Huile d\u00e9maquillante bio flacon 100 ml",
-      "prix_comparaison": 88200,
-      "variation": -18800
-    },
-    {
-      "list_id": 6108,
-      "prix_base": 104800,
-      "name": "Lait pour le Corps \u00e0 l'Huile d'Argan Tube 100 ml",
-      "prix_comparaison": 86400,
-      "variation": -18400
+      "list_id": 4866,
+      "prix_base": 33900,
+      "name": "Po\u00eale \u00c0 Frire 410 G",
+      "prix_comparaison": 34200,
+      "variation": 300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 14121,
-      "name": "Fer \u00e0 souder \u00e9lectrique 60W",
-      "prix_base": 30200,
-      "prix_comparaison": 30240,
-      "indice_prix": 100.13245033112582
-    },
-    {
-      "list_id": 6094,
-      "name": "Gommage visage exfoliant bio tube 75 ml",
-      "prix_base": 53000,
-      "prix_comparaison": 51000,
-      "indice_prix": 96.22641509433963
-    },
-    {
-      "list_id": 6061,
-      "name": "Cr\u00e8me anti - \u00e2ge Argan BIO 50 ml",
-      "prix_base": 94000,
-      "prix_comparaison": 87300,
-      "indice_prix": 92.87234042553192
+      "list_id": 4866,
+      "name": "Po\u00eale \u00c0 Frire 410 G",
+      "prix_base": 33900,
+      "prix_comparaison": 34200,
+      "indice_prix": 100.88495575221239
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 6078,
-      "name": "Gel Douche Concombre et Melon Tube 200 ml",
-      "prix_base": 63800,
-      "prix_comparaison": 51900,
-      "indice_prix": 81.34796238244515
-    },
-    {
-      "list_id": 6066,
-      "name": "Cr\u00e8me de jour Argan bio 50 ml",
-      "prix_base": 88600,
-      "prix_comparaison": 72500,
-      "indice_prix": 81.82844243792326
-    },
-    {
-      "list_id": 6068,
-      "name": "Cr\u00e8me de nuit Argan bio 50 ml",
-      "prix_base": 88600,
-      "prix_comparaison": 72500,
-      "indice_prix": 81.82844243792326
+      "list_id": 4866,
+      "name": "Po\u00eale \u00c0 Frire 410 G",
+      "prix_base": 33900,
+      "prix_comparaison": 34200,
+      "indice_prix": 100.88495575221239
     }
   ]
 }

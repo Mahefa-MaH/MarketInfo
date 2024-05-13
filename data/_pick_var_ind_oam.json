@@ -1,76 +1,34 @@
 {
   "Variation de prix": [
     {
-      "cle": "clavierdordinateur_7212clavierblutoothbluestorkcompatiblemacpcettablettekbminimacfr3760162065817_html",
-      "name": "Clavier Blutooth - BLUESTORK - Compatible MAC, MacBook Pro, MacBook Air, iPad, iPhone - KB-MINI-MAC/FR",
-      "prix_base": 152000,
-      "prix_comparaison": 156000,
-      "variation": 4000
+      "cle": "unitecentraleseuleminipc_92654applemacmini2023puceapplem2ram8gostockage512goargent0194253142645_html",
+      "name": "Apple - Mac mini (2023) Puce Apple M2 - RAM 8Go - Stockage 512Go - Argent",
+      "prix_base": 4850000,
+      "prix_comparaison": 4872000,
+      "variation": 22000
     },
     {
-      "cle": "clavierdordinateur_7504claviersansfillogitechmxkeysminigraphiteu00a0compactbluetoothru00e9trou00e9clairu00e9pourmacioswindowsl5099206098862_html",
-      "name": "Clavier sans fil Logitech - MX Keys Mini - GRAPHITE -\u00a0Compact, Bluetooth, r\u00e9tro\u00e9clair\u00e9 pour MAC, iOS, Windows, Linux, Android",
-      "prix_base": 594000,
-      "prix_comparaison": 609000,
-      "variation": 15000
-    },
-    {
-      "cle": "clavierdordinateur_7506claviersansfillogitechmxkeysminiroseu00a0compactbluetoothru00e9trou00e9clairu00e9pourmacioswindowslinux5099206098886_html",
-      "name": "Clavier sans fil Logitech - MX Keys Mini - ROSE -\u00a0Compact, Bluetooth, r\u00e9tro\u00e9clair\u00e9 pour MAC, iOS, Windows, Linux, Android",
-      "prix_base": 580000,
-      "prix_comparaison": 595000,
-      "variation": 15000
-    },
-    {
-      "cle": "clavierdordinateur_7553applemagictrackpadsurfacemultitouchnoir0194252840351_html",
-      "name": "Apple Magic Trackpad - Surface Multi-Touch - Noir",
-      "prix_base": 822000,
-      "prix_comparaison": 843000,
-      "variation": 21000
-    },
-    {
-      "cle": "hotte_86029hottemuraledecorativesamsungnk36m5060ssurl90cminoxevacuationrecyclage713m3hmax71dbmax4vitesses8806088787749_html",
-      "name": "Hotte murale d\u00e9corative SAMSUNG NK36M5060SS/UR L 90 cm - Inox - Evacuation / Recyclage - 713 m3/h max - 71 dB max - 4 vitesses",
-      "prix_base": 2190000,
-      "prix_comparaison": 2247000,
-      "variation": 57000
+      "cle": "unitecentraleseuleminipc_125031applemacstudioapplem2ultra24corecpu60coregpuram64gostockage1tosilver0194253433538_html",
+      "name": "Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver",
+      "prix_base": 21256000,
+      "prix_comparaison": 23105000,
+      "variation": 1849000
     }
   ],
   "indice de prix": [
     {
-      "cle": "clavierdordinateur_7504claviersansfillogitechmxkeysminigraphiteu00a0compactbluetoothru00e9trou00e9clairu00e9pourmacioswindowsl5099206098862_html",
-      "name": "Clavier sans fil Logitech - MX Keys Mini - GRAPHITE -\u00a0Compact, Bluetooth, r\u00e9tro\u00e9clair\u00e9 pour MAC, iOS, Windows, Linux, Android",
-      "prix_base": 594000,
-      "prix_comparaison": 609000,
-      "indice_prix": 102.52525252525253
+      "cle": "unitecentraleseuleminipc_92654applemacmini2023puceapplem2ram8gostockage512goargent0194253142645_html",
+      "name": "Apple - Mac mini (2023) Puce Apple M2 - RAM 8Go - Stockage 512Go - Argent",
+      "prix_base": 4850000,
+      "prix_comparaison": 4872000,
+      "indice_prix": 100.45360824742268
     },
     {
-      "cle": "clavierdordinateur_7553applemagictrackpadsurfacemultitouchnoir0194252840351_html",
-      "name": "Apple Magic Trackpad - Surface Multi-Touch - Noir",
-      "prix_base": 822000,
-      "prix_comparaison": 843000,
-      "indice_prix": 102.55474452554745
-    },
-    {
-      "cle": "clavierdordinateur_7506claviersansfillogitechmxkeysminiroseu00a0compactbluetoothru00e9trou00e9clairu00e9pourmacioswindowslinux5099206098886_html",
-      "name": "Clavier sans fil Logitech - MX Keys Mini - ROSE -\u00a0Compact, Bluetooth, r\u00e9tro\u00e9clair\u00e9 pour MAC, iOS, Windows, Linux, Android",
-      "prix_base": 580000,
-      "prix_comparaison": 595000,
-      "indice_prix": 102.58620689655173
-    },
-    {
-      "cle": "hotte_86029hottemuraledecorativesamsungnk36m5060ssurl90cminoxevacuationrecyclage713m3hmax71dbmax4vitesses8806088787749_html",
-      "name": "Hotte murale d\u00e9corative SAMSUNG NK36M5060SS/UR L 90 cm - Inox - Evacuation / Recyclage - 713 m3/h max - 71 dB max - 4 vitesses",
-      "prix_base": 2190000,
-      "prix_comparaison": 2247000,
-      "indice_prix": 102.6027397260274
-    },
-    {
-      "cle": "clavierdordinateur_7212clavierblutoothbluestorkcompatiblemacpcettablettekbminimacfr3760162065817_html",
-      "name": "Clavier Blutooth - BLUESTORK - Compatible MAC, MacBook Pro, MacBook Air, iPad, iPhone - KB-MINI-MAC/FR",
-      "prix_base": 152000,
-      "prix_comparaison": 156000,
-      "indice_prix": 102.63157894736842
+      "cle": "unitecentraleseuleminipc_125031applemacstudioapplem2ultra24corecpu60coregpuram64gostockage1tosilver0194253433538_html",
+      "name": "Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver",
+      "prix_base": 21256000,
+      "prix_comparaison": 23105000,
+      "indice_prix": 108.69872036130975
     }
   ]
 }
