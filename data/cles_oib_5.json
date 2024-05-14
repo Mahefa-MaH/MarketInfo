@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14900,
+      "prix_comparaison": 14900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_8994huiledesoja1l_html",
-      "name": "Huile de soja 1L",
-      "prix_base": 15500,
-      "prix_comparaison": 15500,
+      "cle": "riz_15213rizdiamante5kg_html",
+      "name": "Riz blanc diamante 5Kg",
+      "prix_base": 19300,
+      "prix_comparaison": 19300,
       "variation": 0,
       "indice_prix": 100.0
     }

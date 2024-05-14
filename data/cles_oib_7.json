@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 18400,
-      "prix_comparaison": 18400,
+      "cle": "sucres_4881sucreblancfana1kg_html",
+      "name": "Sucre blanc Fana 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "semoulesetcouscous_1460farinederiz1kg_html",
-      "name": "Farine de riz 1kg",
-      "prix_base": 5000,
-      "prix_comparaison": 5000,
+      "cle": "sucres_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 8600,
+      "prix_comparaison": 8600,
       "variation": 0,
       "indice_prix": 100.0
     }
