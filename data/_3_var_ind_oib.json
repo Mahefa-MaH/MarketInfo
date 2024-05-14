@@ -6,20 +6,6 @@
       "prix_base": 4263000,
       "prix_comparaison": 4634000,
       "variation": 371000
-    },
-    {
-      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
-      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
-      "prix_base": 4225000,
-      "prix_comparaison": 4593000,
-      "variation": 368000
-    },
-    {
-      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 6717000,
-      "prix_comparaison": 7053000,
-      "variation": 336000
     }
   ],
   "prix_diminues": [
@@ -29,66 +15,24 @@
       "prix_base": 298000,
       "prix_comparaison": 216000,
       "variation": -82000
-    },
-    {
-      "cle": "coiffure_13986remingtons6308feralisserlisseuradvancedceramicsoineclatbrillanceplaquesflottantescheveuxdouxlissesetsoyeux_html",
-      "name": "Remington S6308 Fer a lisser, lisseur Advanced Ceramic Soin Eclat Brillance, plaques flottantes, cheveux doux, lisses et soyeux",
-      "prix_base": 186000,
-      "prix_comparaison": 174000,
-      "variation": -12000
-    },
-    {
-      "cle": "rasagehomme_14003remingtonbht250tondeuserasoircorpshommedelicatesetanche3sabotslamesanticoupureantiirritation_html",
-      "name": "Remington BHT250 Tondeuse Rasoir Corps Homme Delicates Etanche, 3 Sabots, Lames Anti-Coupure Anti-Irritation",
-      "prix_base": 199000,
-      "prix_comparaison": 198000,
-      "variation": -1000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "chips_384chipsnatureondulee25g_html",
-      "name": "Chips nature ondul\u00e9e 25g",
-      "prix_base": 1900,
-      "prix_comparaison": 2800,
-      "indice_prix": 147.3684210526316
-    },
-    {
-      "cle": "tablettesdechocolat_2033tablettedechocolatnoir7575grsrobert_html",
-      "name": "Tablette de Chocolat Noir Sp\u00e9cial 75% 75 g",
-      "prix_base": 5900,
-      "prix_comparaison": 8100,
-      "indice_prix": 137.28813559322035
-    },
-    {
-      "cle": "colas_8295boissongazeusecola50cl_html",
-      "name": "Boisson gazeuse Cola 50cl",
-      "prix_base": 1500,
-      "prix_comparaison": 2000,
-      "indice_prix": 133.33333333333334
+      "cle": "enceintesbluetooth_14874enceinteportablebluetoothblancinovalleyhp202bthwi_html",
+      "name": "ENCEINTE PORTABLE BLUETOOTH BLANC - INOVALLEY - HP202-BTH-W\tI",
+      "prix_base": 126,
+      "prix_comparaison": 127000,
+      "indice_prix": 100793.6507936508
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "jeuxvideo_14670assassinscreedmiragejeups4_html",
-      "name": "Assassin's Creed Mirage Jeu PS4",
-      "prix_base": 298000,
-      "prix_comparaison": 216000,
-      "indice_prix": 72.48322147651007
-    },
-    {
-      "cle": "coiffure_13986remingtons6308feralisserlisseuradvancedceramicsoineclatbrillanceplaquesflottantescheveuxdouxlissesetsoyeux_html",
-      "name": "Remington S6308 Fer a lisser, lisseur Advanced Ceramic Soin Eclat Brillance, plaques flottantes, cheveux doux, lisses et soyeux",
-      "prix_base": 186000,
-      "prix_comparaison": 174000,
-      "indice_prix": 93.54838709677419
-    },
-    {
-      "cle": "farinesetchapelures_4941farinedeblemultiusage1kg_html",
-      "name": "Farine de bl\u00e9 multi usage 1kg",
-      "prix_base": 6790,
-      "prix_comparaison": 6590,
-      "indice_prix": 97.05449189985272
+      "cle": "laitenpoudre_946laitenpoudreolait500g_html",
+      "name": "Lait en poudre O'lait 500g",
+      "prix_base": 25000,
+      "prix_comparaison": 17900,
+      "indice_prix": 71.6
     }
   ]
 }
