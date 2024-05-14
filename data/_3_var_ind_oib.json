@@ -13,6 +13,13 @@
       "prix_base": 4225000,
       "prix_comparaison": 4593000,
       "variation": 368000
+    },
+    {
+      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 6717000,
+      "prix_comparaison": 7053000,
+      "variation": 336000
     }
   ],
   "prix_diminues": [
@@ -29,6 +36,13 @@
       "prix_base": 186000,
       "prix_comparaison": 174000,
       "variation": -12000
+    },
+    {
+      "cle": "rasagehomme_14003remingtonbht250tondeuserasoircorpshommedelicatesetanche3sabotslamesanticoupureantiirritation_html",
+      "name": "Remington BHT250 Tondeuse Rasoir Corps Homme Delicates Etanche, 3 Sabots, Lames Anti-Coupure Anti-Irritation",
+      "prix_base": 199000,
+      "prix_comparaison": 198000,
+      "variation": -1000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +59,13 @@
       "prix_base": 5900,
       "prix_comparaison": 8100,
       "indice_prix": 137.28813559322035
+    },
+    {
+      "cle": "colas_8295boissongazeusecola50cl_html",
+      "name": "Boisson gazeuse Cola 50cl",
+      "prix_base": 1500,
+      "prix_comparaison": 2000,
+      "indice_prix": 133.33333333333334
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +82,13 @@
       "prix_base": 186000,
       "prix_comparaison": 174000,
       "indice_prix": 93.54838709677419
+    },
+    {
+      "cle": "farinesetchapelures_4941farinedeblemultiusage1kg_html",
+      "name": "Farine de bl\u00e9 multi usage 1kg",
+      "prix_base": 6790,
+      "prix_comparaison": 6590,
+      "indice_prix": 97.05449189985272
     }
   ]
 }
