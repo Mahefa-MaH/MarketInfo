@@ -29,11 +29,95 @@
       "variation": 95000
     },
     {
+      "cle": "smartphones_14652xiaomipocom5s128go4gnoirredmibuds4litemipowerredmi_html",
+      "name": "XIAOMI POCO M5S 128Go 4G Noir + Redmi Buds 4 Lite + MI POWER REDMI",
+      "prix_base": 1218000,
+      "prix_comparaison": 1324000,
+      "variation": 106000
+    },
+    {
       "cle": "smartphones_14678437appleiphone13minireconditionne_html_14couleurbleu_39batterie_neuvenon_40etat_du_telephonebon_etat_46stockage128_go",
       "name": "APPLE iPhone 13 Mini\n                                                  - Reconditionn\u00e9",
       "prix_base": 2069100,
       "prix_comparaison": 2184050,
       "variation": 114950
+    },
+    {
+      "cle": "montresbraceletsconnectes_14796applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandml_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1344000,
+      "prix_comparaison": 1461000,
+      "variation": 117000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1353000,
+      "prix_comparaison": 1470000,
+      "variation": 117000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14798applewatchsegps44mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1494000,
+      "prix_comparaison": 1623000,
+      "variation": 129000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
+      "name": "Apple Watch SE GPS +Cellular 40mm - Bracelet Starlight Sport Loop",
+      "prix_base": 1588000,
+      "prix_comparaison": 1726000,
+      "variation": 138000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2141000,
+      "prix_comparaison": 2328000,
+      "variation": 187000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14800applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2151000,
+      "prix_comparaison": 2338000,
+      "variation": 187000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 2151000,
+      "prix_comparaison": 2338000,
+      "variation": 187000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
+      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2151000,
+      "prix_comparaison": 2338000,
+      "variation": 187000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2288000,
+      "prix_comparaison": 2487000,
+      "variation": 199000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4225000,
+      "prix_comparaison": 4593000,
+      "variation": 368000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
+      "prix_base": 4263000,
+      "prix_comparaison": 4634000,
+      "variation": 371000
     }
   ],
   "indice de prix": [
@@ -71,6 +155,90 @@
       "prix_base": 1232100,
       "prix_comparaison": 1300550,
       "indice_prix": 105.55555555555556
+    },
+    {
+      "cle": "montresbraceletsconnectes_14798applewatchsegps44mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1494000,
+      "prix_comparaison": 1623000,
+      "indice_prix": 108.63453815261045
+    },
+    {
+      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1353000,
+      "prix_comparaison": 1470000,
+      "indice_prix": 108.64745011086474
+    },
+    {
+      "cle": "montresbraceletsconnectes_14799applewatchsegpscellular40mmboitierstarlightaluminiumbraceletstarlightsportloop_html",
+      "name": "Apple Watch SE GPS +Cellular 40mm - Bracelet Starlight Sport Loop",
+      "prix_base": 1588000,
+      "prix_comparaison": 1726000,
+      "indice_prix": 108.69017632241814
+    },
+    {
+      "cle": "montresbraceletsconnectes_14800applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2151000,
+      "prix_comparaison": 2338000,
+      "indice_prix": 108.69363086936309
+    },
+    {
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 2151000,
+      "prix_comparaison": 2338000,
+      "indice_prix": 108.69363086936309
+    },
+    {
+      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
+      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2151000,
+      "prix_comparaison": 2338000,
+      "indice_prix": 108.69363086936309
+    },
+    {
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2288000,
+      "prix_comparaison": 2487000,
+      "indice_prix": 108.69755244755245
+    },
+    {
+      "cle": "smartphones_14652xiaomipocom5s128go4gnoirredmibuds4litemipowerredmi_html",
+      "name": "XIAOMI POCO M5S 128Go 4G Noir + Redmi Buds 4 Lite + MI POWER REDMI",
+      "prix_base": 1218000,
+      "prix_comparaison": 1324000,
+      "indice_prix": 108.70279146141215
+    },
+    {
+      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
+      "prix_base": 4263000,
+      "prix_comparaison": 4634000,
+      "indice_prix": 108.70279146141215
+    },
+    {
+      "cle": "montresbraceletsconnectes_14796applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandml_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1344000,
+      "prix_comparaison": 1461000,
+      "indice_prix": 108.70535714285714
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4225000,
+      "prix_comparaison": 4593000,
+      "indice_prix": 108.71005917159763
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2141000,
+      "prix_comparaison": 2328000,
+      "indice_prix": 108.73423633815973
     }
   ]
 }

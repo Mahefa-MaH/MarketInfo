@@ -6,6 +6,13 @@
       "prix_base": 4263000,
       "prix_comparaison": 4634000,
       "variation": 371000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4225000,
+      "prix_comparaison": 4593000,
+      "variation": 368000
     }
   ],
   "prix_diminues": [
@@ -15,15 +22,29 @@
       "prix_base": 298000,
       "prix_comparaison": 216000,
       "variation": -82000
+    },
+    {
+      "cle": "coiffure_13986remingtons6308feralisserlisseuradvancedceramicsoineclatbrillanceplaquesflottantescheveuxdouxlissesetsoyeux_html",
+      "name": "Remington S6308 Fer a lisser, lisseur Advanced Ceramic Soin Eclat Brillance, plaques flottantes, cheveux doux, lisses et soyeux",
+      "prix_base": 186000,
+      "prix_comparaison": 174000,
+      "variation": -12000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "colas_8295boissongazeusecola50cl_html",
-      "name": "Boisson gazeuse Cola 50cl",
-      "prix_base": 1500,
-      "prix_comparaison": 2000,
-      "indice_prix": 133.33333333333334
+      "cle": "chips_384chipsnatureondulee25g_html",
+      "name": "Chips nature ondul\u00e9e 25g",
+      "prix_base": 1900,
+      "prix_comparaison": 2800,
+      "indice_prix": 147.3684210526316
+    },
+    {
+      "cle": "tablettesdechocolat_2033tablettedechocolatnoir7575grsrobert_html",
+      "name": "Tablette de Chocolat Noir Sp\u00e9cial 75% 75 g",
+      "prix_base": 5900,
+      "prix_comparaison": 8100,
+      "indice_prix": 137.28813559322035
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +54,13 @@
       "prix_base": 298000,
       "prix_comparaison": 216000,
       "indice_prix": 72.48322147651007
+    },
+    {
+      "cle": "coiffure_13986remingtons6308feralisserlisseuradvancedceramicsoineclatbrillanceplaquesflottantescheveuxdouxlissesetsoyeux_html",
+      "name": "Remington S6308 Fer a lisser, lisseur Advanced Ceramic Soin Eclat Brillance, plaques flottantes, cheveux doux, lisses et soyeux",
+      "prix_base": 186000,
+      "prix_comparaison": 174000,
+      "indice_prix": 93.54838709677419
     }
   ]
 }
