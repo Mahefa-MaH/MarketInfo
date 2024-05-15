@@ -1,132 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 6095,
-      "name": "Huile d\u00e9maquillante bio flacon 100 ml",
-      "prix_base": 107000,
-      "prix_comparaison": 88200,
-      "variation": -18800
-    },
-    {
-      "list_id": 6108,
-      "name": "Lait pour le Corps \u00e0 l'Huile d'Argan Tube 100 ml",
-      "prix_base": 104800,
-      "prix_comparaison": 86400,
-      "variation": -18400
-    },
-    {
-      "list_id": 6066,
-      "name": "Cr\u00e8me de jour Argan bio 50 ml",
-      "prix_base": 88600,
-      "prix_comparaison": 72500,
-      "variation": -16100
-    },
-    {
-      "list_id": 6068,
-      "name": "Cr\u00e8me de nuit Argan bio 50 ml",
-      "prix_base": 88600,
-      "prix_comparaison": 72500,
-      "variation": -16100
-    },
-    {
-      "list_id": 6063,
-      "name": "Cr\u00e8me Confort Multi-Usages Tube 100 ml",
-      "prix_base": 76700,
-      "prix_comparaison": 63000,
-      "variation": -13700
-    },
-    {
-      "list_id": 6062,
-      "name": "Cr\u00e8me anti-rides BIO tube 30 ml",
-      "prix_base": 53000,
-      "prix_comparaison": 43800,
-      "variation": -9200
-    },
-    {
-      "list_id": 6069,
-      "name": "Cr\u00e8me de nuit bio tube 30 ml",
-      "prix_base": 51900,
-      "prix_comparaison": 42800,
-      "variation": -9100
-    },
-    {
-      "list_id": 6061,
-      "name": "Cr\u00e8me anti - \u00e2ge Argan BIO 50 ml",
-      "prix_base": 94000,
-      "prix_comparaison": 87300,
-      "variation": -6700
-    },
-    {
-      "list_id": 6067,
-      "name": "Cr\u00e8me de jour bio tube 30 ml",
-      "prix_base": 51900,
-      "prix_comparaison": 48000,
-      "variation": -3900
+      "list_id": 11907,
+      "name": "Huile de colza 1 L",
+      "prix_base": 16700,
+      "prix_comparaison": 18500,
+      "variation": 1800
     }
   ],
   "indice de prix": [
     {
-      "list_id": 6066,
-      "name": "Cr\u00e8me de jour Argan bio 50 ml",
-      "prix_base": 88600,
-      "prix_comparaison": 72500,
-      "indice_prix": 81.82844243792326
-    },
-    {
-      "list_id": 6068,
-      "name": "Cr\u00e8me de nuit Argan bio 50 ml",
-      "prix_base": 88600,
-      "prix_comparaison": 72500,
-      "indice_prix": 81.82844243792326
-    },
-    {
-      "list_id": 6063,
-      "name": "Cr\u00e8me Confort Multi-Usages Tube 100 ml",
-      "prix_base": 76700,
-      "prix_comparaison": 63000,
-      "indice_prix": 82.13820078226858
-    },
-    {
-      "list_id": 6095,
-      "name": "Huile d\u00e9maquillante bio flacon 100 ml",
-      "prix_base": 107000,
-      "prix_comparaison": 88200,
-      "indice_prix": 82.42990654205607
-    },
-    {
-      "list_id": 6108,
-      "name": "Lait pour le Corps \u00e0 l'Huile d'Argan Tube 100 ml",
-      "prix_base": 104800,
-      "prix_comparaison": 86400,
-      "indice_prix": 82.44274809160305
-    },
-    {
-      "list_id": 6069,
-      "name": "Cr\u00e8me de nuit bio tube 30 ml",
-      "prix_base": 51900,
-      "prix_comparaison": 42800,
-      "indice_prix": 82.46628131021194
-    },
-    {
-      "list_id": 6062,
-      "name": "Cr\u00e8me anti-rides BIO tube 30 ml",
-      "prix_base": 53000,
-      "prix_comparaison": 43800,
-      "indice_prix": 82.64150943396227
-    },
-    {
-      "list_id": 6067,
-      "name": "Cr\u00e8me de jour bio tube 30 ml",
-      "prix_base": 51900,
-      "prix_comparaison": 48000,
-      "indice_prix": 92.48554913294798
-    },
-    {
-      "list_id": 6061,
-      "name": "Cr\u00e8me anti - \u00e2ge Argan BIO 50 ml",
-      "prix_base": 94000,
-      "prix_comparaison": 87300,
-      "indice_prix": 92.87234042553192
+      "list_id": 11907,
+      "name": "Huile de colza 1 L",
+      "prix_base": 16700,
+      "prix_comparaison": 18500,
+      "indice_prix": 110.77844311377245
     }
   ]
 }
