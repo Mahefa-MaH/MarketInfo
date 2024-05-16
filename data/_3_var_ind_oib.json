@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
-      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
-      "prix_base": 4263000,
-      "prix_comparaison": 4634000,
-      "variation": 371000
+      "cle": "cremessoinsvisage_4230daynightcreamantiagingarganoilcremejournuitantiagehuiledargan_html",
+      "name": "Cr\u00e8me de jour et nuit anti-\u00e2ge huile d'argan 50ml",
+      "prix_base": 31825,
+      "prix_comparaison": 33500,
+      "variation": 1675
+    },
+    {
+      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
+      "prix_base": 19855,
+      "prix_comparaison": 20900,
+      "variation": 1045
+    },
+    {
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14155,
+      "prix_comparaison": 14900,
+      "variation": 745
     }
   ],
   "prix_diminues": [
     {
-      "cle": "jeuxvideo_14670assassinscreedmiragejeups4_html",
-      "name": "Assassin's Creed Mirage Jeu PS4",
-      "prix_base": 298000,
-      "prix_comparaison": 216000,
-      "variation": -82000
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3515,
+      "prix_comparaison": 3700,
+      "variation": 185
+    },
+    {
+      "cle": "gantschiffonsplumeaux_9063gantsspecialevaisselletaillem_html",
+      "name": "Gants sp\u00e9ciale vaisselle taille M",
+      "prix_base": 5225,
+      "prix_comparaison": 5500,
+      "variation": 275
+    },
+    {
+      "cle": "nappesserviettesessuietout_3579essuietoutblanc2plis45feuillesx2rlxx24albanet_html",
+      "name": "Essuie-tout blanc 2 plis 2 rouleaux",
+      "prix_base": 5795,
+      "prix_comparaison": 6100,
+      "variation": 305
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "enceintesbluetooth_14874enceinteportablebluetoothblancinovalleyhp202bthwi_html",
-      "name": "ENCEINTE PORTABLE BLUETOOTH BLANC - INOVALLEY - HP202-BTH-W\tI",
-      "prix_base": 126,
-      "prix_comparaison": 127000,
-      "indice_prix": 100793.6507936508
+      "cle": "chips_12637chipscraquantes150gboutondor_html",
+      "name": "Chips craquantes 150g",
+      "prix_base": 7125,
+      "prix_comparaison": 7500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
+      "prix_base": 19855,
+      "prix_comparaison": 20900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "gantschiffonsplumeaux_9063gantsspecialevaisselletaillem_html",
+      "name": "Gants sp\u00e9ciale vaisselle taille M",
+      "prix_base": 5225,
+      "prix_comparaison": 5500,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "laitenpoudre_946laitenpoudreolait500g_html",
-      "name": "Lait en poudre O'lait 500g",
-      "prix_base": 25000,
-      "prix_comparaison": 17900,
-      "indice_prix": 71.6
+      "cle": "saucesfroidesketchupmayonnaise_1304pimentpilerougeenbocalde70gbongou_html",
+      "name": "Piment Pile rouge en bocal 70g",
+      "prix_base": 5938,
+      "prix_comparaison": 6250,
+      "indice_prix": 105.2542943752105
+    },
+    {
+      "cle": "saucesfroidesketchupmayonnaise_1309pimentpilevertenbocalde70gbongou_html",
+      "name": "Piment Pile vert en bocal 70g",
+      "prix_base": 5938,
+      "prix_comparaison": 6250,
+      "indice_prix": 105.2542943752105
+    },
+    {
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14155,
+      "prix_comparaison": 14900,
+      "indice_prix": 105.26315789473684
     }
   ]
 }
