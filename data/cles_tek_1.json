@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8528,
-      "name": "Riz blanc import de Inde 50 kg",
-      "prix_base": 143000,
-      "prix_comparaison": 143000,
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 321000,
+      "prix_comparaison": 321000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 12923,
-      "name": "Riz blanc parfum\u00e9 5 kg",
-      "prix_base": 40800,
-      "prix_comparaison": 40800,
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 3100,
+      "prix_comparaison": 3100,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 7900,
-      "prix_comparaison": 7900,
+      "list_id": 11107,
+      "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
+      "prix_base": 184000,
+      "prix_comparaison": 184000,
       "variation": 0,
       "indice_prix": 100.0
     }
