@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cremessoinsvisage_4230daynightcreamantiagingarganoilcremejournuitantiagehuiledargan_html",
-      "name": "Cr\u00e8me de jour et nuit anti-\u00e2ge huile d'argan 50ml",
-      "prix_base": 31825,
-      "prix_comparaison": 33500,
-      "variation": 1675
-    },
-    {
-      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
-      "prix_base": 19855,
-      "prix_comparaison": 20900,
-      "variation": 1045
-    },
-    {
-      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
-      "name": "Sucre blanc en morceaux 1kg",
-      "prix_base": 14155,
-      "prix_comparaison": 14900,
-      "variation": 745
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 569050,
+      "prix_comparaison": 599000,
+      "variation": 29950
     }
   ],
   "prix_diminues": [
     {
-      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
-      "prix_base": 3515,
-      "prix_comparaison": 3700,
-      "variation": 185
-    },
-    {
-      "cle": "gantschiffonsplumeaux_9063gantsspecialevaisselletaillem_html",
-      "name": "Gants sp\u00e9ciale vaisselle taille M",
-      "prix_base": 5225,
-      "prix_comparaison": 5500,
-      "variation": 275
-    },
-    {
-      "cle": "nappesserviettesessuietout_3579essuietoutblanc2plis45feuillesx2rlxx24albanet_html",
-      "name": "Essuie-tout blanc 2 plis 2 rouleaux",
-      "prix_base": 5795,
-      "prix_comparaison": 6100,
-      "variation": 305
+      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
+      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
+      "prix_base": 250000,
+      "prix_comparaison": 150000,
+      "variation": -100000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "chips_12637chipscraquantes150gboutondor_html",
-      "name": "Chips craquantes 150g",
-      "prix_base": 7125,
-      "prix_comparaison": 7500,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
-      "prix_base": 19855,
-      "prix_comparaison": 20900,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "gantschiffonsplumeaux_9063gantsspecialevaisselletaillem_html",
-      "name": "Gants sp\u00e9ciale vaisselle taille M",
-      "prix_base": 5225,
-      "prix_comparaison": 5500,
-      "indice_prix": 105.26315789473684
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1852,
+      "prix_comparaison": 1950,
+      "indice_prix": 105.29157667386609
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "saucesfroidesketchupmayonnaise_1304pimentpilerougeenbocalde70gbongou_html",
-      "name": "Piment Pile rouge en bocal 70g",
-      "prix_base": 5938,
-      "prix_comparaison": 6250,
-      "indice_prix": 105.2542943752105
-    },
-    {
-      "cle": "saucesfroidesketchupmayonnaise_1309pimentpilevertenbocalde70gbongou_html",
-      "name": "Piment Pile vert en bocal 70g",
-      "prix_base": 5938,
-      "prix_comparaison": 6250,
-      "indice_prix": 105.2542943752105
-    },
-    {
-      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
-      "name": "Sucre blanc en morceaux 1kg",
-      "prix_base": 14155,
-      "prix_comparaison": 14900,
-      "indice_prix": 105.26315789473684
+      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
+      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
+      "prix_base": 250000,
+      "prix_comparaison": 150000,
+      "indice_prix": 60.0
     }
   ]
 }

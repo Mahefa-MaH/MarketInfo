@@ -1,19 +1,383 @@
 {
   "Variation de prix": [
     {
-      "cle": "cremessoinsvisage_4230daynightcreamantiagingarganoilcremejournuitantiagehuiledargan_html",
-      "name": "Cr\u00e8me de jour et nuit anti-\u00e2ge huile d'argan 50ml",
-      "prix_base": 31825,
-      "prix_comparaison": 33500,
-      "variation": 1675
-    }
-  ],
-  "indice de prix": [
+      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
+      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
+      "prix_base": 250000,
+      "prix_comparaison": 150000,
+      "variation": -100000
+    },
+    {
+      "cle": "cremessoinsvisage_14573serumcremelifting30ml_html",
+      "name": "S\u00e9rum cr\u00e8me Lifting 30ml",
+      "prix_base": 250000,
+      "prix_comparaison": 195000,
+      "variation": -55000
+    },
+    {
+      "cle": "pates_13210spaghetticremefraiche3min500gfiorini_html",
+      "name": "Spaghetti cr\u00e8me fraiche 3min  500g",
+      "prix_base": 7125,
+      "prix_comparaison": 7500,
+      "variation": 375
+    },
+    {
+      "cle": "potages_13371veloute10legumesetcremes2x30clsainteloi_html",
+      "name": "Velout\u00e9 10 l\u00e9gumes et cr\u00e8mes 2x30cl",
+      "prix_base": 9405,
+      "prix_comparaison": 9900,
+      "variation": 495
+    },
+    {
+      "cle": "deodorantsparfums_14969deodorantmencompresse24hattractionantitraces100ml_html",
+      "name": "D\u00e9odorant men compress\u00e9 24h attraction anti-traces 100ml",
+      "prix_base": 9405,
+      "prix_comparaison": 9900,
+      "variation": 495
+    },
+    {
+      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
+      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
+      "prix_base": 9405,
+      "prix_comparaison": 9900,
+      "variation": 495
+    },
+    {
+      "cle": "deodorantsparfums_12914deodorantmenenergymusk200mllabell_html",
+      "name": "D\u00e9odorant men energy musk 200ml",
+      "prix_base": 9405,
+      "prix_comparaison": 9900,
+      "variation": 495
+    },
+    {
+      "cle": "deodorantsparfums_12913deodorantmensporticeeffect200mllabell_html",
+      "name": "D\u00e9odorant men sport ice effect 200ml",
+      "prix_base": 10355,
+      "prix_comparaison": 10900,
+      "variation": 545
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_2131cremeuht35mgbriquette20cleven_html",
+      "name": "Cr\u00e8me liquide UHT 35% Brik 20cl",
+      "prix_base": 10355,
+      "prix_comparaison": 10900,
+      "variation": 545
+    },
+    {
+      "cle": "potages_13189veloute8legumescreme1lsainteloi_html",
+      "name": "Velout\u00e9 8 l\u00e9gumes et cr\u00e8me 1L",
+      "prix_base": 10925,
+      "prix_comparaison": 11500,
+      "variation": 575
+    },
+    {
+      "cle": "potages_12971veloutepotironetcreme2x30clsainteloi_html",
+      "name": "Velout\u00e9 potiron et cr\u00e8me 2x30cl",
+      "prix_base": 10925,
+      "prix_comparaison": 11500,
+      "variation": 575
+    },
+    {
+      "cle": "bonbonscremeuxetguimauves_12722caramelsalacremefraichedenormandie200gelodie_html",
+      "name": "Caramels \u00e0 la cr\u00e8me fra\u00eeche de Normandie 200g",
+      "prix_base": 10925,
+      "prix_comparaison": 11500,
+      "variation": 575
+    },
+    {
+      "cle": "potages_12997veloutepotironalacreme1lsainteloi_html",
+      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
+      "prix_base": 11305,
+      "prix_comparaison": 11900,
+      "variation": 595
+    },
+    {
+      "cle": "shampoings_4208shampoinglaitdouceuramandedoucecremederiz250ml_html",
+      "name": "Shampoing lait douceur amande douce et cr\u00e8me de riz 250ml",
+      "prix_base": 12825,
+      "prix_comparaison": 13500,
+      "variation": 675
+    },
+    {
+      "cle": "sauceschaudessaucestomates_13600cremedecoco400mlitinerairedessaveurs_html",
+      "name": "Cr\u00e8me de coco 400ml",
+      "prix_base": 13110,
+      "prix_comparaison": 13800,
+      "variation": 690
+    },
+    {
+      "cle": "soinsbebe_13706cremehydratantebiocosmos75mlpommette_html",
+      "name": "Cr\u00e8me hydratante bio cosmos 75ml",
+      "prix_base": 13775,
+      "prix_comparaison": 14500,
+      "variation": 725
+    },
+    {
+      "cle": "cremessoinsvisage_6377cremedetox75ml_html",
+      "name": "Cr\u00e8me Detox 75ml",
+      "prix_base": 13965,
+      "prix_comparaison": 14700,
+      "variation": 735
+    },
+    {
+      "cle": "cremessoinsvisage_13632cremevisagealextraitdaloevera50mllabell_html",
+      "name": "Cr\u00e8me visage \u00e0 l'extrait d'aloe vera 50ml",
+      "prix_base": 14440,
+      "prix_comparaison": 15200,
+      "variation": 760
+    },
+    {
+      "cle": "cremessoinsvisage_4222antipollutioncleansingcreamalmondblossomantipollutioncremenettoyantefleur_html",
+      "name": "Anti-pollution cr\u00e8me nettoyante fleur d'amandier 150ml",
+      "prix_base": 15960,
+      "prix_comparaison": 16800,
+      "variation": 840
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_2132cremeliquidevegetalesucree1l_html",
+      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale sucr\u00e9e 1L",
+      "prix_base": 19950,
+      "prix_comparaison": 21000,
+      "variation": 1050
+    },
+    {
+      "cle": "cremessoinsvisage_12804cremedujoursoineclatq10antirides50mllabell_html",
+      "name": "Cr\u00e8me de jour soin \u00e9clat Q10 anti-rides 50ml",
+      "prix_base": 21375,
+      "prix_comparaison": 22500,
+      "variation": 1125
+    },
+    {
+      "cle": "aidesalapatisserie_13547cremedecaramelalafleurdeseldeguerande210g_html",
+      "name": "Cr\u00e8me de caramel \u00e0 la fleur de sel de Gu\u00e9rande 210g",
+      "prix_base": 25175,
+      "prix_comparaison": 26500,
+      "variation": 1325
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_581ccremeuht1lx618mggrrandfermage_html",
+      "name": "Cr\u00e8me UHT Cuisson et liaison 18% 1L",
+      "prix_base": 28405,
+      "prix_comparaison": 29900,
+      "variation": 1495
+    },
+    {
+      "cle": "cremessoinsvisage_4225antipollutiondaygelcreamalmondblossomantipollutiongelcremedejourfleur_html",
+      "name": "Anti-pollution gel cr\u00e8me de jour fleur d'amandier 50ml",
+      "prix_base": 30875,
+      "prix_comparaison": 32500,
+      "variation": 1625
+    },
     {
       "cle": "cremessoinsvisage_4230daynightcreamantiagingarganoilcremejournuitantiagehuiledargan_html",
       "name": "Cr\u00e8me de jour et nuit anti-\u00e2ge huile d'argan 50ml",
       "prix_base": 31825,
       "prix_comparaison": 33500,
+      "variation": 1675
+    },
+    {
+      "cle": "cremessoinsvisage_4228daycreamantiagingarganoilcremedejourantiagehuiledargan_html",
+      "name": "Cr\u00e8me de jour anti-\u00e2ge huile d'argan 50ml",
+      "prix_base": 41800,
+      "prix_comparaison": 44000,
+      "variation": 2200
+    },
+    {
+      "cle": "laitenpoudre_14297cremedessertvanille400g_html",
+      "name": "Lait \u00e9cr\u00e9m\u00e9 en poudre 750g",
+      "prix_base": 41800,
+      "prix_comparaison": 44000,
+      "variation": 2200
+    }
+  ],
+  "indice de prix": [
+    {
+      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
+      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
+      "prix_base": 250000,
+      "prix_comparaison": 150000,
+      "indice_prix": 60.0
+    },
+    {
+      "cle": "cremessoinsvisage_14573serumcremelifting30ml_html",
+      "name": "S\u00e9rum cr\u00e8me Lifting 30ml",
+      "prix_base": 250000,
+      "prix_comparaison": 195000,
+      "indice_prix": 78.0
+    },
+    {
+      "cle": "pates_13210spaghetticremefraiche3min500gfiorini_html",
+      "name": "Spaghetti cr\u00e8me fraiche 3min  500g",
+      "prix_base": 7125,
+      "prix_comparaison": 7500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "potages_13371veloute10legumesetcremes2x30clsainteloi_html",
+      "name": "Velout\u00e9 10 l\u00e9gumes et cr\u00e8mes 2x30cl",
+      "prix_base": 9405,
+      "prix_comparaison": 9900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "potages_13189veloute8legumescreme1lsainteloi_html",
+      "name": "Velout\u00e9 8 l\u00e9gumes et cr\u00e8me 1L",
+      "prix_base": 10925,
+      "prix_comparaison": 11500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "potages_12997veloutepotironalacreme1lsainteloi_html",
+      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
+      "prix_base": 11305,
+      "prix_comparaison": 11900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "potages_12971veloutepotironetcreme2x30clsainteloi_html",
+      "name": "Velout\u00e9 potiron et cr\u00e8me 2x30cl",
+      "prix_base": 10925,
+      "prix_comparaison": 11500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "aidesalapatisserie_13547cremedecaramelalafleurdeseldeguerande210g_html",
+      "name": "Cr\u00e8me de caramel \u00e0 la fleur de sel de Gu\u00e9rande 210g",
+      "prix_base": 25175,
+      "prix_comparaison": 26500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "shampoings_4208shampoinglaitdouceuramandedoucecremederiz250ml_html",
+      "name": "Shampoing lait douceur amande douce et cr\u00e8me de riz 250ml",
+      "prix_base": 12825,
+      "prix_comparaison": 13500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "deodorantsparfums_14969deodorantmencompresse24hattractionantitraces100ml_html",
+      "name": "D\u00e9odorant men compress\u00e9 24h attraction anti-traces 100ml",
+      "prix_base": 9405,
+      "prix_comparaison": 9900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
+      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
+      "prix_base": 9405,
+      "prix_comparaison": 9900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "deodorantsparfums_12914deodorantmenenergymusk200mllabell_html",
+      "name": "D\u00e9odorant men energy musk 200ml",
+      "prix_base": 9405,
+      "prix_comparaison": 9900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "deodorantsparfums_12913deodorantmensporticeeffect200mllabell_html",
+      "name": "D\u00e9odorant men sport ice effect 200ml",
+      "prix_base": 10355,
+      "prix_comparaison": 10900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "sauceschaudessaucestomates_13600cremedecoco400mlitinerairedessaveurs_html",
+      "name": "Cr\u00e8me de coco 400ml",
+      "prix_base": 13110,
+      "prix_comparaison": 13800,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "soinsbebe_13706cremehydratantebiocosmos75mlpommette_html",
+      "name": "Cr\u00e8me hydratante bio cosmos 75ml",
+      "prix_base": 13775,
+      "prix_comparaison": 14500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremessoinsvisage_4222antipollutioncleansingcreamalmondblossomantipollutioncremenettoyantefleur_html",
+      "name": "Anti-pollution cr\u00e8me nettoyante fleur d'amandier 150ml",
+      "prix_base": 15960,
+      "prix_comparaison": 16800,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremessoinsvisage_4225antipollutiondaygelcreamalmondblossomantipollutiongelcremedejourfleur_html",
+      "name": "Anti-pollution gel cr\u00e8me de jour fleur d'amandier 50ml",
+      "prix_base": 30875,
+      "prix_comparaison": 32500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremessoinsvisage_4228daycreamantiagingarganoilcremedejourantiagehuiledargan_html",
+      "name": "Cr\u00e8me de jour anti-\u00e2ge huile d'argan 50ml",
+      "prix_base": 41800,
+      "prix_comparaison": 44000,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremessoinsvisage_4230daynightcreamantiagingarganoilcremejournuitantiagehuiledargan_html",
+      "name": "Cr\u00e8me de jour et nuit anti-\u00e2ge huile d'argan 50ml",
+      "prix_base": 31825,
+      "prix_comparaison": 33500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremessoinsvisage_12804cremedujoursoineclatq10antirides50mllabell_html",
+      "name": "Cr\u00e8me de jour soin \u00e9clat Q10 anti-rides 50ml",
+      "prix_base": 21375,
+      "prix_comparaison": 22500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremessoinsvisage_6377cremedetox75ml_html",
+      "name": "Cr\u00e8me Detox 75ml",
+      "prix_base": 13965,
+      "prix_comparaison": 14700,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremessoinsvisage_13632cremevisagealextraitdaloevera50mllabell_html",
+      "name": "Cr\u00e8me visage \u00e0 l'extrait d'aloe vera 50ml",
+      "prix_base": 14440,
+      "prix_comparaison": 15200,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "laitenpoudre_14297cremedessertvanille400g_html",
+      "name": "Lait \u00e9cr\u00e9m\u00e9 en poudre 750g",
+      "prix_base": 41800,
+      "prix_comparaison": 44000,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "bonbonscremeuxetguimauves_12722caramelsalacremefraichedenormandie200gelodie_html",
+      "name": "Caramels \u00e0 la cr\u00e8me fra\u00eeche de Normandie 200g",
+      "prix_base": 10925,
+      "prix_comparaison": 11500,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_2131cremeuht35mgbriquette20cleven_html",
+      "name": "Cr\u00e8me liquide UHT 35% Brik 20cl",
+      "prix_base": 10355,
+      "prix_comparaison": 10900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_2132cremeliquidevegetalesucree1l_html",
+      "name": "Cr\u00e8me liquide v\u00e9g\u00e9tale sucr\u00e9e 1L",
+      "prix_base": 19950,
+      "prix_comparaison": 21000,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_581ccremeuht1lx618mggrrandfermage_html",
+      "name": "Cr\u00e8me UHT Cuisson et liaison 18% 1L",
+      "prix_base": 28405,
+      "prix_comparaison": 29900,
       "indice_prix": 105.26315789473684
     }
   ]
