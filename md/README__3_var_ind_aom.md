@@ -17,15 +17,15 @@
    - Prix actuel: 2,677,000 Ar
    - Variation: +177,000 Ar
 
-4. **Robotclean UBBINK Accu XS - Nettoyeur de piscine sur batterie**
+4. **Dreame D10s Pro Robot Aspirateur et Serpillere avec Action IA - Navigation LDS - 5000 Pa - 280 Min D'autonomie**
+   - Prix avant: 2,427,000 Ar
+   - Prix actuel: 2,600,000 Ar
+   - Variation: +173,000 Ar
+
+5. **Robotclean UBBINK Accu XS - Nettoyeur de piscine sur batterie**
    - Prix avant: 1,177,000 Ar
    - Prix actuel: 1,327,000 Ar
    - Variation: +150,000 Ar
-
-5. **MTX TX81000D Amplificateur voiture Classe-D 1x1000W RMS @2O Télécommande EBC Filtres variables**
-   - Prix avant: 1,479,000 Ar
-   - Prix actuel: 1,591,000 Ar
-   - Variation: +112,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
