@@ -1,12 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_125031applemacstudioapplem2ultra24corecpu60coregpuram64gostockage1tosilver0194253433538_html",
-      "name": "Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver",
-      "prix_base": 21256000,
-      "prix_comparaison": 23105000,
-      "variation": 1849000,
-      "indice_prix": 108.69872036130975
+      "cle": "ordinateurportable_133947apple16macbookprom3max2023ram48gostockage1toargentazerty0195949185601_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 23266000,
+      "prix_comparaison": 23266000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_133946apple16macbookprom3max2023ram48gostockage1tonoirsideralazerty0195949185151_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 23336000,
+      "prix_comparaison": 23336000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_133172apple16macbookprom3pro2023ram18gostockage512goargentazerty0195949075254_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 14454000,
+      "prix_comparaison": 14454000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "electricitedomotique_120268onduleurapceasyupssrv6000va230vavecbatterieexterne_html",
-      "name": "Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe",
-      "prix_base": 11000000,
-      "prix_comparaison": 11000000,
+      "cle": "ordinateurportable_140306apple14macbookprom32024ram16gostockage1togrissideralazerty0195949640490_html",
+      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sid\u00e9ral - AZERTY",
+      "prix_base": 12855000,
+      "prix_comparaison": 12855000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_92289pcdebureaugamingomenbyhp40lgt211033nfintelcorei713700kram32go1tossdgeforcertx408016gowindows110197192261774_html",
-      "name": "PC Gamer Omen by HP 40L GT21-1033nf- Intel Core i7-13700K - RAM 32Go - 1To SSD - GeForce RTX 4080 16Go - Windows 11",
-      "prix_base": 16437000,
-      "prix_comparaison": 17866000,
-      "variation": 1429000,
-      "indice_prix": 108.69380057188052
+      "cle": "ordinateurportable_140305apple15macbookairm32024ram16gostockage512gominuitazerty0195949638909_html",
+      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Minuit - AZERTY",
+      "prix_base": 10310000,
+      "prix_comparaison": 10310000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_92288pcdebureaugamingomenbyhp40lgt211007nfintelcorei913900kram32go1tossdgeforcertx409024gowindows110197192261767_html",
-      "name": "PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11",
-      "prix_base": 20251000,
-      "prix_comparaison": 22012000,
-      "variation": 1761000,
-      "indice_prix": 108.69586687077181
+      "cle": "ordinateurportable_133928apple16macbookprom3max2023ram36gostockage1toargentazerty0195949076138_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 20363000,
+      "prix_comparaison": 20363000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_124795pcdebureaugamingomenbyhp45lgt221036nfryzen97900xram32goddr51tossdnvidiageforcertx409024gofreedo0197497044461_html",
-      "name": "PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS",
-      "prix_base": 33972000,
-      "prix_comparaison": 33972000,
+      "cle": "ordinateurportable_133945apple14macbookprom32023ram8gostockage1togrissideralazerty0195949099267_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sid\u00e9ral - Azerty",
+      "prix_base": 10757000,
+      "prix_comparaison": 10757000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_124798pcdebureaugamingomenbyhp45lgt221042nfamdryzen77700xram32goddr51tossdgeforcertx408016gofreedos0197497044553_html",
-      "name": "PC Gamer Omen by HP 45L GT22-1042nf - AMD Ryzen 7-7700X - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDOS",
-      "prix_base": 28336000,
-      "prix_comparaison": 28336000,
+      "cle": "ordinateurportable_133933apple14macbookprom3max2023ram36gostockage1toargentazerty0195949078774_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 19143000,
+      "prix_comparaison": 19143000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_95226generateurelectriqueportabledeltamax16001612wh4sortieca2000wautotalsurtension4600w4897082665243_html",
-      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)",
-      "prix_base": 10471000,
-      "prix_comparaison": 10471000,
+      "cle": "ordinateurportable_133931apple14macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949077456_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 19254000,
+      "prix_comparaison": 19254000,
       "variation": 0,
       "indice_prix": 100.0
     }

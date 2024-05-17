@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "groupeelectrogene_140741groupeelectrogenezeuzsilencieux6000wdemarrageelectrique3760040201856_html",
-      "name": "Groupe \u00e9lectrogene ZEUZ - Silencieux - 6000 W - D\u00e9marrage \u00e9lectrique",
-      "prix_base": 10414000,
-      "prix_comparaison": 8683000,
-      "variation": -1731000,
-      "indice_prix": 83.3781448050701
+      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 10757000,
+      "prix_comparaison": 10757000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "baignoirekitbalneo_61032baignoirebalneo185x90x68cmversionpackluxe3700538218232_html",
-      "name": "Baignoire Baln\u00e9o - Pack Luxe - 185x90x68cm - Appuie-tete - Systeme Air Bubble - LED - Cascade d'eau",
-      "prix_base": 10608000,
-      "prix_comparaison": 10444000,
-      "variation": -164000,
-      "indice_prix": 98.45399698340874
+      "cle": "spacompletkitspajacuzzi_88160spagonflablebestwaylayzspamaldives201x201x80cm5a7placescarrecouverturepompecartouchediffuseur6942138975970_html",
+      "name": "Spa gonflable BESTWAY - Lay-Z-Spa Maldives - 201 x 201 x 80 cm - 5 a 7 places - Carr\u00e9 (Couverture, pompe, cartouche, diffuseur,",
+      "prix_base": 10205000,
+      "prix_comparaison": 10205000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
-      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
-      "prix_base": 11581000,
-      "prix_comparaison": 11581000,
+      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
+      "prix_base": 15762000,
+      "prix_comparaison": 15762000,
       "variation": 0,
       "indice_prix": 100.0
     }

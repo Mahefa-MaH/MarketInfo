@@ -12,16 +12,6 @@
    - Prix actuel: 599,000 Ar
    - Variation: +29,950 Ar
 
-3. **Faitout rond rouge Slowcook Ø28cm**
-   - Prix avant: 508,250 Ar
-   - Prix actuel: 535,000 Ar
-   - Variation: +26,750 Ar
-
-4. **Thermomètre infrarouge**
-   - Prix avant: 494,000 Ar
-   - Prix actuel: 520,000 Ar
-   - Variation: +26,000 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Crème rééquilibrante 50 ml**
@@ -33,16 +23,6 @@
    - Prix avant: 195,000 Ar
    - Prix actuel: 120,000 Ar
    - Variation: -75,000 Ar
-
-3. **Soin nuit HELIAGREEN**
-   - Prix avant: 195,000 Ar
-   - Prix actuel: 120,000 Ar
-   - Variation: -75,000 Ar
-
-4. **Sérum crème Lifting 30ml**
-   - Prix avant: 250,000 Ar
-   - Prix actuel: 195,000 Ar
-   - Variation: -55,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -56,16 +36,6 @@
    - Prix actuel: 2,550 Ar
    - Indice de prix : 105.28
 
-3. **Vaseline 50ml**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
-
-4. **2 Recharges porte mines 0,7mm - HB**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Crème rééquilibrante 50 ml**
@@ -77,14 +47,4 @@
    - Prix avant: 195,000 Ar
    - Prix actuel: 120,000 Ar
    - Indice de prix : 61.54
-
-3. **Soin nuit HELIAGREEN**
-   - Prix avant: 195,000 Ar
-   - Prix actuel: 120,000 Ar
-   - Indice de prix : 61.54
-
-4. **Savon de toilette cerise 75g**
-   - Prix avant: 1,520 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 65.13
 

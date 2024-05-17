@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS**
-   - Prix avant: 33,972,000 Ar
-   - Prix actuel: 33,972,000 Ar
+1. **Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sidéral - Azerty**
+   - Prix avant: 10,757,000 Ar
+   - Prix actuel: 10,757,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **PC Gamer Omen by HP 45L GT22-1042nf - AMD Ryzen 7-7700X - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDOS**
-   - Prix avant: 28,336,000 Ar
-   - Prix actuel: 28,336,000 Ar
+2. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 19,143,000 Ar
+   - Prix actuel: 19,143,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **générateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)**
-   - Prix avant: 10,471,000 Ar
-   - Prix actuel: 10,471,000 Ar
+3. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 19,254,000 Ar
+   - Prix actuel: 19,254,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

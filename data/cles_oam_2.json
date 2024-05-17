@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
-      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
-      "prix_base": 13688000,
-      "prix_comparaison": 13688000,
+      "cle": "ordinateurportable_137454pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tohdd1tortx4090azerty4061275228335_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To- RTX 4090 - AZERTY",
+      "prix_base": 18379000,
+      "prix_comparaison": 18379000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
-      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
-      "prix_base": 10560000,
-      "prix_comparaison": 10560000,
+      "cle": "ordinateurportable_137457pcportablegamingerazernberazermajorx2016qhd240hzi714700hx16gossd1tortx4070azerty4061275228656_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i7-14700HX - 16Go - SSD 1To - RTX 4070 - AZERTY",
+      "prix_base": 11573000,
+      "prix_comparaison": 11573000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_124796pcdebureaugamingomenbyhp45lgt221037nfintelcorei713700kram32goddr51tossdgeforcertx409024gofreedo0197497044478_html",
-      "name": "PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS",
-      "prix_base": 33167000,
-      "prix_comparaison": 33167000,
+      "cle": "ordinateurportable_137456pcportablegamingerazernberazermajorx2016qhd240hzi914900hx32gossd1tohdd1tortx4070azerty4061275228540_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY",
+      "prix_base": 12096000,
+      "prix_comparaison": 12096000,
       "variation": 0,
       "indice_prix": 100.0
     }
