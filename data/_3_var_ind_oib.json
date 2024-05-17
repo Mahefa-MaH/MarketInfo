@@ -1,66 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 625005,
-      "prix_comparaison": 657900,
-      "variation": 32895
+      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
+      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
+      "prix_base": 1371000,
+      "prix_comparaison": 1514000,
+      "variation": 143000
     },
     {
-      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
-      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
-      "prix_base": 569050,
-      "prix_comparaison": 599000,
-      "variation": 29950
+      "cle": "televiseursetsupports_14835continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb_html",
+      "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
+      "prix_base": 1624000,
+      "prix_comparaison": 1634000,
+      "variation": 10000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
-      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
-      "prix_base": 250000,
-      "prix_comparaison": 150000,
-      "variation": -100000
+      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
+      "prix_base": 4634000,
+      "prix_comparaison": 4336000,
+      "variation": -298000
     },
     {
-      "cle": "cremessoinsvisage_14546soinjourheliagreen_html",
-      "name": "Soin jour HELIAGREEN",
-      "prix_base": 195000,
-      "prix_comparaison": 120000,
-      "variation": -75000
+      "cle": "montresbraceletsconnectes_14800applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2338000,
+      "prix_comparaison": 2189000,
+      "variation": -149000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "crayonetcoloriage_7565gommeplastique_html",
-      "name": "Gomme plastique",
-      "prix_base": 1852,
-      "prix_comparaison": 1950,
-      "indice_prix": 105.29157667386609
+      "cle": "biscuitsfourres_14751biscuitsaucacaoavecfourragecontinente100g_html",
+      "name": "Biscuits au cacao avec fourrage continente 100g",
+      "prix_base": 5000,
+      "prix_comparaison": 7200,
+      "indice_prix": 144.0
     },
     {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2422,
-      "prix_comparaison": 2550,
-      "indice_prix": 105.28488852188273
+      "cle": "vinaigressaucescrudites_1780vinaigredalcoolcolore1lpetx12milafood_html",
+      "name": "Vinaigre d'alcool color\u00e9 1L",
+      "prix_base": 3890,
+      "prix_comparaison": 5300,
+      "indice_prix": 136.24678663239075
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
-      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
-      "prix_base": 250000,
-      "prix_comparaison": 150000,
-      "indice_prix": 60.0
+      "cle": "saucesfroidesketchupmayonnaise_14054mayonnaiseautournesolenbocal470g_html",
+      "name": "Mayonnaise au tournesol en bocal 470g",
+      "prix_base": 14200,
+      "prix_comparaison": 8900,
+      "indice_prix": 62.67605633802817
     },
     {
-      "cle": "cremessoinsvisage_14546soinjourheliagreen_html",
-      "name": "Soin jour HELIAGREEN",
-      "prix_base": 195000,
-      "prix_comparaison": 120000,
-      "indice_prix": 61.53846153846154
+      "cle": "saucesfroidesketchupmayonnaise_6558ketchup5kg_html",
+      "name": "Ketchup 5kg",
+      "prix_base": 59500,
+      "prix_comparaison": 45000,
+      "indice_prix": 75.63025210084034
     }
   ]
 }

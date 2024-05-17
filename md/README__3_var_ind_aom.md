@@ -2,109 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Congélateur coffre Continental Edison - CECC287WE 287L - Classe E - L109 cm x H85cm - blanc**
-   - Prix avant: 2,791,000 Ar
-   - Prix actuel: 3,030,000 Ar
-   - Variation: +239,000 Ar
+1. **Enceinte Portable - ULTIMATE EARS - HYPERBOOM - Bluetooth - Grandes Basses - Etanche - Portée 45m - Batterie 24h - Blanc**
+   - Prix avant: 2,217,000 Ar
+   - Prix actuel: 2,608,000 Ar
+   - Variation: +391,000 Ar
 
-2. **Yaourtiere 7 pots HKoeNIG**
-   - Prix avant: 374,000 Ar
-   - Prix actuel: 384,000 Ar
-   - Variation: +10,000 Ar
+2. **Aspirateur de fond et parois - ZODIAC - MX6 - Nettoyage du fond et des parois - Pour piscines jusqu'a 10x5m**
+   - Prix avant: 2,268,000 Ar
+   - Prix actuel: 2,467,000 Ar
+   - Variation: +199,000 Ar
 
-3. **2 Serviettes de bain TODAY 50x90 + 2 Draps de bain 70x130 cm 100% Coton - Denim**
-   - Prix avant: 224,000 Ar
-   - Prix actuel: 232,000 Ar
-   - Variation: +8,000 Ar
+3. **SAMSUNG TU43AU7175KXXC - TV LED 43 (109 cm) - 4K UHD 3840x2160 - Gaming Hub - HDR - Smart TV - 3xHDMI**
+   - Prix avant: 2,500,000 Ar
+   - Prix actuel: 2,677,000 Ar
+   - Variation: +177,000 Ar
 
-4. **TODAY Essential - Drap de bain 70x130 cm 100% Coton coloris ocre**
-   - Prix avant: 106,000 Ar
-   - Prix actuel: 109,000 Ar
-   - Variation: +3,000 Ar
+4. **Robotclean UBBINK Accu XS - Nettoyeur de piscine sur batterie**
+   - Prix avant: 1,177,000 Ar
+   - Prix actuel: 1,327,000 Ar
+   - Variation: +150,000 Ar
 
-5. **Tapis solaire chauffant pour piscine Intex - Noir - 1,2x1,2 m - PVC - 28685**
-   - Prix avant: 207,000 Ar
-   - Prix actuel: 209,000 Ar
-   - Variation: +2,000 Ar
+5. **MTX TX81000D Amplificateur voiture Classe-D 1x1000W RMS @2O Télécommande EBC Filtres variables**
+   - Prix avant: 1,479,000 Ar
+   - Prix actuel: 1,591,000 Ar
+   - Variation: +112,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Drone Caméra FPV - DJI Avata Explorer - Vidéo Stabilisée 4K - FOV 155° - Vol Stationnaire**
-   - Prix avant: 5,857,000 Ar
-   - Prix actuel: 4,349,000 Ar
-   - Variation: -1,508,000 Ar
+1. **SAMSUNG - QE65QN700B - TV Neo Qled - 8K - 65 (163 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1**
+   - Prix avant: 13,148,000 Ar
+   - Prix actuel: 9,045,000 Ar
+   - Variation: -4,103,000 Ar
 
-2. **Table de jardin ronde - Acier thermolaqué + nassilium en lamelles - Diametre 110 cm**
-   - Prix avant: 1,682,000 Ar
-   - Prix actuel: 1,300,000 Ar
-   - Variation: -382,000 Ar
+2. **SAMSUNG - QE55QN700B - TV Neo Qled - 8K - 55 (138 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1**
+   - Prix avant: 8,910,000 Ar
+   - Prix actuel: 7,470,000 Ar
+   - Variation: -1,440,000 Ar
 
-3. **Table de jardin - Table de balcon rabattable - Pliante - Gris - En acier - 1 personne - 60 x 75 x 82-92 cm**
-   - Prix avant: 538,000 Ar
-   - Prix actuel: 269,000 Ar
-   - Variation: -269,000 Ar
+3. **Drone DJI Avata Pro-View Combo - Caméra 4K 50ips et 60ips - Casque FPV Google 2 - Noir**
+   - Prix avant: 5,427,000 Ar
+   - Prix actuel: 4,585,000 Ar
+   - Variation: -842,000 Ar
 
-4. **Table a manger de jardin - Acier thermolaqué + Pieds en bois + Trivanite - 162 x 80 x 74 cm**
-   - Prix avant: 1,810,000 Ar
-   - Prix actuel: 1,578,000 Ar
-   - Variation: -232,000 Ar
+4. **Caméra de recul sans fil BC50 - GARMIN - Vision nocturne - Support pour plaque d'immatriculation & support de fixation**
+   - Prix avant: 1,685,000 Ar
+   - Prix actuel: 1,367,000 Ar
+   - Variation: -318,000 Ar
 
-5. **BEKO FDF63110DBR - Cuisiniere table mixte gaz / électrique - 4 zones - Double four électrique - 49 L - 38 L - A - L60 x H 85 c**
-   - Prix avant: 4,784,000 Ar
-   - Prix actuel: 4,630,000 Ar
-   - Variation: -154,000 Ar
+5. **BESTWAY Robot électrique pour nettoyage piscine Thetys HJ1005 - Fond plat - A batterie - 6 x 3 m**
+   - Prix avant: 1,614,000 Ar
+   - Prix actuel: 1,403,000 Ar
+   - Variation: -211,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Congélateur coffre Continental Edison - CECC287WE 287L - Classe E - L109 cm x H85cm - blanc**
-   - Prix avant: 2,791,000 Ar
-   - Prix actuel: 3,030,000 Ar
-   - Indice de prix : 108.56
+1. **Antivol U a clé de Sécurité + Câble pour Vélo et VTT - YALE - YUL2C/13/230/1 - Certifié Sold Secure Silver - 4 clés fourn**
+   - Prix avant: 288,000 Ar
+   - Prix actuel: 399,000 Ar
+   - Indice de prix : 138.54
 
-2. **2 Serviettes de bain TODAY 50x90 + 2 Draps de bain 70x130 cm 100% Coton - Denim**
-   - Prix avant: 224,000 Ar
-   - Prix actuel: 232,000 Ar
-   - Indice de prix : 103.57
+2. **Enceinte Portable - ULTIMATE EARS - HYPERBOOM - Bluetooth - Grandes Basses - Etanche - Portée 45m - Batterie 24h - Blanc**
+   - Prix avant: 2,217,000 Ar
+   - Prix actuel: 2,608,000 Ar
+   - Indice de prix : 117.64
 
-3. **TODAY Essential - Drap de bain 70x130 cm 100% Coton coloris ocre**
-   - Prix avant: 106,000 Ar
-   - Prix actuel: 109,000 Ar
-   - Indice de prix : 102.83
+3. **PIONEER TS-G1330F Haut-parleurs 13 cm 3 Voies 250 W Max**
+   - Prix avant: 225,000 Ar
+   - Prix actuel: 257,000 Ar
+   - Indice de prix : 114.22
 
-4. **Yaourtiere 7 pots HKoeNIG**
-   - Prix avant: 374,000 Ar
-   - Prix actuel: 384,000 Ar
-   - Indice de prix : 102.67
+4. **Intex - UTF00162 - Bâche a bulles diametre 3,44m pour piscine diametre 3,66m**
+   - Prix avant: 239,000 Ar
+   - Prix actuel: 271,000 Ar
+   - Indice de prix : 113.39
 
-5. **Tapis solaire chauffant pour piscine Intex - Noir - 1,2x1,2 m - PVC - 28685**
-   - Prix avant: 207,000 Ar
-   - Prix actuel: 209,000 Ar
-   - Indice de prix : 100.97
+5. **Robotclean UBBINK Accu XS - Nettoyeur de piscine sur batterie**
+   - Prix avant: 1,177,000 Ar
+   - Prix actuel: 1,327,000 Ar
+   - Indice de prix : 112.74
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Table de jardin - Table de balcon rabattable - Pliante - Gris - En acier - 1 personne - 60 x 75 x 82-92 cm**
-   - Prix avant: 538,000 Ar
-   - Prix actuel: 269,000 Ar
-   - Indice de prix : 50.00
+1. **SAMSUNG - QE65QN700B - TV Neo Qled - 8K - 65 (163 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1**
+   - Prix avant: 13,148,000 Ar
+   - Prix actuel: 9,045,000 Ar
+   - Indice de prix : 68.79
 
-2. **Table de jardin ronde - 90 cm - Acier - Gris**
-   - Prix avant: 495,000 Ar
-   - Prix actuel: 356,000 Ar
-   - Indice de prix : 71.92
+2. **TODAY Rideau Isolant Thermique Essential Uni - 140 x 240 cm - Terracotta**
+   - Prix avant: 247,000 Ar
+   - Prix actuel: 173,000 Ar
+   - Indice de prix : 70.04
 
-3. **Drone Caméra FPV - DJI Avata Explorer - Vidéo Stabilisée 4K - FOV 155° - Vol Stationnaire**
-   - Prix avant: 5,857,000 Ar
-   - Prix actuel: 4,349,000 Ar
-   - Indice de prix : 74.25
+3. **BRITA Bouteille filtrante FILL&SERVE 1,3L Graphite + 1 disque de rechange**
+   - Prix avant: 180,000 Ar
+   - Prix actuel: 130,000 Ar
+   - Indice de prix : 72.22
 
-4. **Table de balcon rabattable - Acier - 60 x 75 x 82-92 cm - Vert**
-   - Prix avant: 359,000 Ar
-   - Prix actuel: 269,000 Ar
-   - Indice de prix : 74.93
+4. **Caméra de recul sans fil BC50 - GARMIN - Vision nocturne - Support pour plaque d'immatriculation & support de fixation**
+   - Prix avant: 1,685,000 Ar
+   - Prix actuel: 1,367,000 Ar
+   - Indice de prix : 81.13
 
-5. **Table de balcon rabattable - Acier - 60 x 75 x 82-92 cm - Rose**
-   - Prix avant: 359,000 Ar
-   - Prix actuel: 269,000 Ar
-   - Indice de prix : 74.93
+5. **Barre de son Bluetooth THOMSON SB402BT - Bluetooth 5.0 - USB - Finition bois**
+   - Prix avant: 929,000 Ar
+   - Prix actuel: 758,000 Ar
+   - Indice de prix : 81.59
 

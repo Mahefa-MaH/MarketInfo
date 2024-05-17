@@ -1,20 +1,34 @@
 {
   "Variation de prix": [
     {
-      "list_id": 11907,
-      "name": "Huile de colza 1 L",
-      "prix_base": 16700,
-      "prix_comparaison": 18500,
-      "variation": 1800
+      "list_id": 4769,
+      "name": "Friteuse Sans Huile 1000 W",
+      "prix_base": 192600,
+      "prix_comparaison": 226600,
+      "variation": 34000
+    },
+    {
+      "list_id": 4770,
+      "name": "Friteuse Sans Huile Avec Affichage Led 1000 W",
+      "prix_base": 217500,
+      "prix_comparaison": 255900,
+      "variation": 38400
     }
   ],
   "indice de prix": [
     {
-      "list_id": 11907,
-      "name": "Huile de colza 1 L",
-      "prix_base": 16700,
-      "prix_comparaison": 18500,
-      "indice_prix": 110.77844311377245
+      "list_id": 4769,
+      "name": "Friteuse Sans Huile 1000 W",
+      "prix_base": 192600,
+      "prix_comparaison": 226600,
+      "indice_prix": 117.65316718587746
+    },
+    {
+      "list_id": 4770,
+      "name": "Friteuse Sans Huile Avec Affichage Led 1000 W",
+      "prix_base": 217500,
+      "prix_comparaison": 255900,
+      "indice_prix": 117.65517241379311
     }
   ]
 }
