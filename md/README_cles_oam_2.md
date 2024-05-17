@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Groupe électrogene diesel ZEUZ - Silencieux - 6300 W - Démarrage électrique**
-   - Prix avant: 13,688,000 Ar
-   - Prix actuel: 13,688,000 Ar
+1. **PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3” QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To- RTX 4090 - AZERTY**
+   - Prix avant: 18,379,000 Ar
+   - Prix actuel: 18,379,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Groupe électrogene Essence DEFPRO - 8500 W - Triphasé bi-tension**
-   - Prix avant: 10,560,000 Ar
-   - Prix actuel: 10,560,000 Ar
+2. **PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16” QHD 240Hz - i7-14700HX - 16Go - SSD 1To - RTX 4070 - AZERTY**
+   - Prix avant: 11,573,000 Ar
+   - Prix actuel: 11,573,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS**
-   - Prix avant: 33,167,000 Ar
-   - Prix actuel: 33,167,000 Ar
+3. **PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16” QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY**
+   - Prix avant: 12,096,000 Ar
+   - Prix actuel: 12,096,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
