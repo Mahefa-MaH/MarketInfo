@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3” QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To- RTX 4090 - AZERTY**
-   - Prix avant: 18,379,000 Ar
-   - Prix actuel: 18,379,000 Ar
+1. **TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1**
+   - Prix avant: 10,687,000 Ar
+   - Prix actuel: 10,687,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16” QHD 240Hz - i7-14700HX - 16Go - SSD 1To - RTX 4070 - AZERTY**
-   - Prix avant: 11,573,000 Ar
-   - Prix actuel: 11,573,000 Ar
+2. **TV LED 85 HISENSE 85A6K - Dolby Vision - 4K UHD - Smart TV - 3xHDMI 2.0**
+   - Prix avant: 11,435,000 Ar
+   - Prix actuel: 11,435,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16” QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY**
-   - Prix avant: 12,096,000 Ar
-   - Prix actuel: 12,096,000 Ar
+3. **SAMSUNG 85AU7172 - TV LED 85 (214 cm) - Crystal UHD Processor - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI**
+   - Prix avant: 11,390,000 Ar
+   - Prix actuel: 11,390,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
