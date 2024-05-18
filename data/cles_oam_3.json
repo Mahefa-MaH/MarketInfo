@@ -1,28 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133945apple14macbookprom32023ram8gostockage1togrissideralazerty0195949099267_html",
-      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sid\u00e9ral - Azerty",
-      "prix_base": 10757000,
-      "prix_comparaison": 10757000,
+      "cle": "televiseurled_140495tvqledsamsung50hz75q60d75190cm4kuhd3840x2160hdrsmarttvtizengaminghub3xhdmiwifi8806095414904_html",
+      "name": "TV QLED Samsung - 50 Hz - 75Q60D - 75 (190 cm) - 4K UHD 3840x2160 - HDR - Smart TV Tizen - Gaming Hub - 3xHDMI - WiFi",
+      "prix_base": 10197000,
+      "prix_comparaison": 10197000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133933apple14macbookprom3max2023ram36gostockage1toargentazerty0195949078774_html",
-      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 19143000,
-      "prix_comparaison": 19143000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ordinateurportable_133931apple14macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949077456_html",
-      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 19254000,
-      "prix_comparaison": 19254000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "televiseurled_133093lgoled65c3tvoled65163cm4kultrahd3840x2160100hzsmarttvprocesseura9gen6dolbyatmos4xhdmiw8806091792013_html",
+      "name": "LG 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur 9 Gen6 - Dolby Atmos - 4xHDMI - Wifi",
+      "prix_base": 10327000,
+      "prix_comparaison": 10328000,
+      "variation": 1000,
+      "indice_prix": 100.00968335431394
     }
   ]
 }

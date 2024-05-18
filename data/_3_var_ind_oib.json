@@ -6,27 +6,6 @@
       "prix_base": 2997000,
       "prix_comparaison": 3291000,
       "variation": 294000
-    },
-    {
-      "cle": "ordinateursportables_14675pcportablehp15sfq0024nf156fhdceleronn4120ram4go128gossdwin11microsoft365personnelinclus1anazerty_html",
-      "name": "PC Portable HP 15s-fq0024nf - 15,6 FHD - Celeron N4120 - RAM 4 Go - 128Go SSD - Win 11 - AZERTY",
-      "prix_base": 1466000,
-      "prix_comparaison": 1658000,
-      "variation": 192000
-    },
-    {
-      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
-      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
-      "prix_base": 1371000,
-      "prix_comparaison": 1514000,
-      "variation": 143000
-    },
-    {
-      "cle": "cuiseurvapeurcuiseurariz_14016badabullerobotculinaire4en1beasycuitvapeurmixerechauffeetdecongele_html",
-      "name": "BADABULLE Robot culinaire 4 en 1 B.Easy - Cuit vapeur, Mixe, R\u00e9chauffe et D\u00e9congele",
-      "prix_base": 646000,
-      "prix_comparaison": 682000,
-      "variation": 36000
     }
   ],
   "prix_diminues": [
@@ -36,27 +15,6 @@
       "prix_base": 4634000,
       "prix_comparaison": 4336000,
       "variation": -298000
-    },
-    {
-      "cle": "ordinateursdebureau_14619ecranpcgamerincurvviewsonicvx2718pcmhd27fhddalleva1ms165hzhdmidisplayport_html",
-      "name": "Ecran PC Gamer Incurv\u008e - VIEWSONIC VX2718 - PC - MHD - 27 FHD - Dalle VA - 1 ms - 165Hz - HDMI / DisplayPort -",
-      "prix_base": 1399000,
-      "prix_comparaison": 1238000,
-      "variation": -161000
-    },
-    {
-      "cle": "montresbraceletsconnectes_14800applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm_html",
-      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Light Pink Sport Band - S/M",
-      "prix_base": 2338000,
-      "prix_comparaison": 2189000,
-      "variation": -149000
-    },
-    {
-      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
-      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
-      "prix_base": 2338000,
-      "prix_comparaison": 2189000,
-      "variation": -149000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,27 +24,6 @@
       "prix_base": 5000,
       "prix_comparaison": 7200,
       "indice_prix": 144.0
-    },
-    {
-      "cle": "vinaigressaucescrudites_1780vinaigredalcoolcolore1lpetx12milafood_html",
-      "name": "Vinaigre d'alcool color\u00e9 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 5300,
-      "indice_prix": 136.24678663239075
-    },
-    {
-      "cle": "adoucissantsassouplissants_8655assouplissantdouceur1l_html",
-      "name": "Assouplissant douceur 1L",
-      "prix_base": 7300,
-      "prix_comparaison": 9900,
-      "indice_prix": 135.6164383561644
-    },
-    {
-      "cle": "adoucissantsassouplissants_8654assouplissantairfrais1l_html",
-      "name": "Assouplissant air frais 1L",
-      "prix_base": 7300,
-      "prix_comparaison": 9900,
-      "indice_prix": 135.6164383561644
     }
   ],
   "indices_prix_plus_faibles": [
@@ -96,27 +33,6 @@
       "prix_base": 14200,
       "prix_comparaison": 8900,
       "indice_prix": 62.67605633802817
-    },
-    {
-      "cle": "saucesfroidesketchupmayonnaise_6558ketchup5kg_html",
-      "name": "Ketchup 5kg",
-      "prix_base": 59500,
-      "prix_comparaison": 45000,
-      "indice_prix": 75.63025210084034
-    },
-    {
-      "cle": "chips_382chipssaveurchevrepimentdespelette25g_html",
-      "name": "Chips saveur ch\u00e8vre piment d'Espelette 25g",
-      "prix_base": 3000,
-      "prix_comparaison": 2500,
-      "indice_prix": 83.33333333333333
-    },
-    {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 9990,
-      "prix_comparaison": 8380,
-      "indice_prix": 83.88388388388388
     }
   ]
 }

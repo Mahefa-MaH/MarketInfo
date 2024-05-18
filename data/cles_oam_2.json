@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_137454pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tohdd1tortx4090azerty4061275228335_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To- RTX 4090 - AZERTY",
-      "prix_base": 18379000,
-      "prix_comparaison": 18379000,
+      "cle": "televiseurlcd_133398tcl85c644tv4kqled85216cmhdrhdr10hdr10hdrhlggoogletv3xhdmi215901292520809_html",
+      "name": "TCL 85C644 - TV 4K QLED - 85 (216 cm) - HDR (HDR10, HDR10+, HDR HLG) - Google TV - 3 X HDMI 2.1",
+      "prix_base": 10687000,
+      "prix_comparaison": 10687000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_137457pcportablegamingerazernberazermajorx2016qhd240hzi714700hx16gossd1tortx4070azerty4061275228656_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i7-14700HX - 16Go - SSD 1To - RTX 4070 - AZERTY",
-      "prix_base": 11573000,
-      "prix_comparaison": 11573000,
+      "cle": "televiseurled_139956tvled85hisense85a6kdolbyvision4kuhdsmarttv3xhdmi206942147491812_html",
+      "name": "TV LED 85 HISENSE 85A6K - Dolby Vision - 4K UHD - Smart TV - 3xHDMI 2.0",
+      "prix_base": 11435000,
+      "prix_comparaison": 11435000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_137456pcportablegamingerazernberazermajorx2016qhd240hzi914900hx32gossd1tohdd1tortx4070azerty4061275228540_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY",
-      "prix_base": 12096000,
-      "prix_comparaison": 12096000,
+      "cle": "televiseurled_96219samsung85au7172tvledcrystal4kuhd85214cmsmarttv3portshdmi8806094907964_html",
+      "name": "SAMSUNG 85AU7172 - TV LED 85 (214 cm) - Crystal UHD Processor - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI",
+      "prix_base": 11390000,
+      "prix_comparaison": 11390000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_7474rizrougecomplet5kg_html",
-      "name": "Riz rouge complet 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
+      "cle": "riz_9403rizgasysacde1kg_html",
+      "name": "Riz gasy sac de 1kg",
+      "prix_base": 4490,
+      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_8994huiledesoja1l_html",
-      "name": "Huile de soja 1L",
-      "prix_base": 15500,
-      "prix_comparaison": 15500,
+      "cle": "riz_11443rizmakalioka1kg_html",
+      "name": "Riz makalioka 1kg",
+      "prix_base": 4350,
+      "prix_comparaison": 4350,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8900,
-      "prix_comparaison": 8900,
+      "cle": "riz_14597rizmakalioka5kg_html",
+      "name": "Riz makalioka 5kg",
+      "prix_base": 21750,
+      "prix_comparaison": 21750,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,28 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_9403rizgasysacde1kg_html",
-      "name": "Riz gasy sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "riz_9404rizmakaliokasacde1kg_html",
-      "name": "Riz Makalioka sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "promo2023_1894huiledesoja20lhina_html",
-      "name": "Huile de soja Hina 20L",
-      "prix_base": 179400,
-      "prix_comparaison": 179400,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "huiles_8994huiledesoja1l_html",
+      "name": "Huile de soja 1L",
+      "prix_base": 15500,
+      "prix_comparaison": 15900,
+      "variation": 400,
+      "indice_prix": 102.58064516129032
     }
   ]
 }

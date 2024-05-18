@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
-      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 10757000,
-      "prix_comparaison": 10757000,
+      "cle": "televiseurled_57295samsungqe65qn700btvneoqled8k65163cmhdr10sondolbyatmossmarttv4xhdmi218806094194630_html",
+      "name": "SAMSUNG - QE65QN700B - TV Neo Qled - 8K - 65 (163 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1",
+      "prix_base": 13148000,
+      "prix_comparaison": 9045000,
+      "variation": -4103000,
+      "indice_prix": 68.79373288713113
+    },
+    {
+      "cle": "televiseurled_139018lg77c3tvoled77195cm4kuhd3840x2160smarttvprocesseura9gen6dolbyatmos4xhdmi21wifi8806087071832_html",
+      "name": "LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi",
+      "prix_base": 15270000,
+      "prix_comparaison": 15270000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "spacompletkitspajacuzzi_88160spagonflablebestwaylayzspamaldives201x201x80cm5a7placescarrecouverturepompecartouchediffuseur6942138975970_html",
-      "name": "Spa gonflable BESTWAY - Lay-Z-Spa Maldives - 201 x 201 x 80 cm - 5 a 7 places - Carr\u00e9 (Couverture, pompe, cartouche, diffuseur,",
-      "prix_base": 10205000,
-      "prix_comparaison": 10205000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
-      "prix_base": 15762000,
-      "prix_comparaison": 15762000,
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 12676000,
+      "prix_comparaison": 12676000,
       "variation": 0,
       "indice_prix": 100.0
     }

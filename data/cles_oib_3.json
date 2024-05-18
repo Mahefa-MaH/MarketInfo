@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_9404rizmakaliokasacde1kg_html",
-      "name": "Riz Makalioka sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
+      "cle": "sucres_4881sucreblancfana1kg_html",
+      "name": "Sucre blanc Fana 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_4952rizdeluxemakalioka5kg_html",
-      "name": "Riz de luxe Makalioka 5kg",
-      "prix_base": 19550,
-      "prix_comparaison": 19550,
+      "cle": "sucres_7228sucreblanc1kg_html",
+      "name": "Sucre blanc cristallis\u00e9 1kg",
+      "prix_base": 8600,
+      "prix_comparaison": 8600,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_4951rizdetablemakalioka5kg_html",
-      "name": "Riz de table Makalioka 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
+      "cle": "riz_11442rizgasymena1kg_html",
+      "name": "Riz gasy mena  1kg",
+      "prix_base": 4250,
+      "prix_comparaison": 4250,
       "variation": 0,
       "indice_prix": 100.0
     }
