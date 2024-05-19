@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 4751,
-      "prix_base": 2407500,
-      "name": "Machine \u00c0 Expresso Avec Broyeur 1450 w",
-      "prix_comparaison": 2832300,
-      "variation": 424800
-    },
-    {
-      "list_id": 4740,
-      "prix_base": 2359900,
-      "name": "Batteuse \u00c0 Bol 1200 W",
-      "prix_comparaison": 2776400,
-      "variation": 416500
-    },
-    {
-      "list_id": 4782,
-      "prix_base": 742800,
-      "name": "Barbecue \u00c0 Gaz 2 Br\u00fbleurs 5,5 Kw",
-      "prix_comparaison": 873900,
-      "variation": 131100
+      "list_id": 11789,
+      "prix_base": 23900,
+      "name": "Tampons avec applicateur super compact X20",
+      "prix_comparaison": 30900,
+      "variation": 7000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 12412,
-      "prix_base": 78000,
-      "name": "Lessive liquide vert 2,475 l",
-      "prix_comparaison": 71700,
-      "variation": -6300
-    },
-    {
-      "list_id": 4766,
-      "prix_base": 16200,
-      "name": "Mousseur \u00c0 Lait Sans Fil 1,8 W",
-      "prix_comparaison": 19200,
-      "variation": 3000
-    },
-    {
-      "list_id": 4833,
-      "prix_base": 43400,
-      "name": "Fer \u00c0 Lisser 25 W",
-      "prix_comparaison": 51000,
-      "variation": 7600
+      "list_id": 11789,
+      "prix_base": 23900,
+      "name": "Tampons avec applicateur super compact X20",
+      "prix_comparaison": 30900,
+      "variation": 7000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 4791,
-      "name": "Autocuiseur en aluminium 5,5 L",
-      "prix_base": 144800,
-      "prix_comparaison": 171800,
-      "indice_prix": 118.646408839779
-    },
-    {
-      "list_id": 4811,
-      "name": "Grille Pain 1200-1400W En Plastique",
-      "prix_base": 120800,
-      "prix_comparaison": 143300,
-      "indice_prix": 118.62582781456953
-    },
-    {
-      "list_id": 4766,
-      "name": "Mousseur \u00c0 Lait Sans Fil 1,8 W",
-      "prix_base": 16200,
-      "prix_comparaison": 19200,
-      "indice_prix": 118.51851851851852
+      "list_id": 11789,
+      "name": "Tampons avec applicateur super compact X20",
+      "prix_base": 23900,
+      "prix_comparaison": 30900,
+      "indice_prix": 129.2887029288703
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 12412,
-      "name": "Lessive liquide vert 2,475 l",
-      "prix_base": 78000,
-      "prix_comparaison": 71700,
-      "indice_prix": 91.92307692307692
-    },
-    {
-      "list_id": 4833,
-      "name": "Fer \u00c0 Lisser 25 W",
-      "prix_base": 43400,
-      "prix_comparaison": 51000,
-      "indice_prix": 117.51152073732719
-    },
-    {
-      "list_id": 4853,
-      "name": "Fer \u00c0 Vapeur 1200 W",
-      "prix_base": 78100,
-      "prix_comparaison": 91800,
-      "indice_prix": 117.5416133162612
+      "list_id": 11789,
+      "name": "Tampons avec applicateur super compact X20",
+      "prix_base": 23900,
+      "prix_comparaison": 30900,
+      "indice_prix": 129.2887029288703
     }
   ]
 }
