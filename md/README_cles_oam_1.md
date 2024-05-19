@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **SAMSUNG - QE65QN700B - TV Neo Qled - 8K - 65 (163 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1**
-   - Prix avant: 13,148,000 Ar
-   - Prix actuel: 9,045,000 Ar
-   - Variation: -4,103,000 Ar
-   - Indice de prix : 68.79
-
-2. **LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi**
-   - Prix avant: 15,270,000 Ar
-   - Prix actuel: 15,270,000 Ar
+1. **SAMSUNG 85AU7172 - TV LED 85 (214 cm) - Crystal UHD Processor - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI**
+   - Prix avant: 11,390,000 Ar
+   - Prix actuel: 11,390,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe énergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm**
-   - Prix avant: 12,676,000 Ar
-   - Prix actuel: 12,676,000 Ar
+2. **générateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)**
+   - Prix avant: 22,195,000 Ar
+   - Prix actuel: 22,195,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **générateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)**
+   - Prix avant: 10,471,000 Ar
+   - Prix actuel: 10,471,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
