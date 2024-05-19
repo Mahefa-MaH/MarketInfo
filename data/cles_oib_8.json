@@ -1,12 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "huiles_8994huiledesoja1l_html",
-      "name": "Huile de soja 1L",
-      "prix_base": 15500,
-      "prix_comparaison": 15900,
-      "variation": 400,
-      "indice_prix": 102.58064516129032
+      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
+      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
+      "prix_base": 3890,
+      "prix_comparaison": 3890,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

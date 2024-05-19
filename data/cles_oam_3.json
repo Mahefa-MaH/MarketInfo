@@ -1,20 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "televiseurled_140495tvqledsamsung50hz75q60d75190cm4kuhd3840x2160hdrsmarttvtizengaminghub3xhdmiwifi8806095414904_html",
-      "name": "TV QLED Samsung - 50 Hz - 75Q60D - 75 (190 cm) - 4K UHD 3840x2160 - HDR - Smart TV Tizen - Gaming Hub - 3xHDMI - WiFi",
-      "prix_base": 10197000,
-      "prix_comparaison": 10197000,
+      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
+      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
+      "prix_base": 13688000,
+      "prix_comparaison": 13688000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
+      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
+      "prix_base": 10560000,
+      "prix_comparaison": 10560000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
       "cle": "televiseurled_133093lgoled65c3tvoled65163cm4kultrahd3840x2160100hzsmarttvprocesseura9gen6dolbyatmos4xhdmiw8806091792013_html",
       "name": "LG 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur 9 Gen6 - Dolby Atmos - 4xHDMI - Wifi",
-      "prix_base": 10327000,
+      "prix_base": 10328000,
       "prix_comparaison": 10328000,
-      "variation": 1000,
-      "indice_prix": 100.00968335431394
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

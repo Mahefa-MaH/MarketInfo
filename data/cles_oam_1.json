@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "televiseurled_57295samsungqe65qn700btvneoqled8k65163cmhdr10sondolbyatmossmarttv4xhdmi218806094194630_html",
-      "name": "SAMSUNG - QE65QN700B - TV Neo Qled - 8K - 65 (163 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1",
-      "prix_base": 13148000,
-      "prix_comparaison": 9045000,
-      "variation": -4103000,
-      "indice_prix": 68.79373288713113
-    },
-    {
-      "cle": "televiseurled_139018lg77c3tvoled77195cm4kuhd3840x2160smarttvprocesseura9gen6dolbyatmos4xhdmi21wifi8806087071832_html",
-      "name": "LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi",
-      "prix_base": 15270000,
-      "prix_comparaison": 15270000,
+      "cle": "televiseurled_96219samsung85au7172tvledcrystal4kuhd85214cmsmarttv3portshdmi8806094907964_html",
+      "name": "SAMSUNG 85AU7172 - TV LED 85 (214 cm) - Crystal UHD Processor - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI",
+      "prix_base": 11390000,
+      "prix_comparaison": 11390000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
-      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
-      "prix_base": 12676000,
-      "prix_comparaison": 12676000,
+      "cle": "groupeelectrogene_124579generateurelectriqueportabledeltapro3600wh4sortieca3600wautotalsurtension7200w4897082665335_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)",
+      "prix_base": 22195000,
+      "prix_comparaison": 22195000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "groupeelectrogene_95226generateurelectriqueportabledeltamax16001612wh4sortieca2000wautotalsurtension4600w4897082665243_html",
+      "name": "g\u00e9n\u00e9rateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)",
+      "prix_base": 10471000,
+      "prix_comparaison": 10471000,
       "variation": 0,
       "indice_prix": 100.0
     }
