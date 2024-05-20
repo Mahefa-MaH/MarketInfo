@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
-      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
-      "prix_base": 2997000,
-      "prix_comparaison": 3291000,
-      "variation": 294000
+      "cle": "jusdefruits_1258lefruitjuscocktail1l_html",
+      "name": "Jus cocktail Le Fruit 1L",
+      "prix_base": 4200,
+      "prix_comparaison": 4950,
+      "variation": 750
     }
   ],
   "prix_diminues": [
     {
-      "cle": "montresbraceletsconnectes_14808applewatchultra2gpscellular49mmboitiertitaniumbraceletwhiteoceanband_html",
-      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet White Ocean Band",
-      "prix_base": 4634000,
-      "prix_comparaison": 4336000,
-      "variation": -298000
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3200,
+      "prix_comparaison": 3700,
+      "variation": 500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "biscuitsfourres_14751biscuitsaucacaoavecfourragecontinente100g_html",
-      "name": "Biscuits au cacao avec fourrage continente 100g",
-      "prix_base": 5000,
-      "prix_comparaison": 7200,
-      "indice_prix": 144.0
+      "cle": "jusdefruits_1258lefruitjuscocktail1l_html",
+      "name": "Jus cocktail Le Fruit 1L",
+      "prix_base": 4200,
+      "prix_comparaison": 4950,
+      "indice_prix": 117.85714285714286
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "saucesfroidesketchupmayonnaise_14054mayonnaiseautournesolenbocal470g_html",
-      "name": "Mayonnaise au tournesol en bocal 470g",
-      "prix_base": 14200,
-      "prix_comparaison": 8900,
-      "indice_prix": 62.67605633802817
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3200,
+      "prix_comparaison": 3700,
+      "indice_prix": 115.625
     }
   ]
 }
