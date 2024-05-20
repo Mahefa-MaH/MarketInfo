@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8528,
-      "name": "Riz blanc import de Inde 50 kg",
-      "prix_base": 143000,
-      "prix_comparaison": 143000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 13304,
       "name": "Riz Rouge (Vary mena) 50kg",
       "prix_base": 240000,
