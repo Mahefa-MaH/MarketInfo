@@ -6,6 +6,13 @@
       "prix_base": 8380,
       "prix_comparaison": 9990,
       "variation": 1610
+    },
+    {
+      "cle": "chips_5671chipssaveurpestomozzarella125g_html",
+      "name": "Chips saveur pesto mozzarella 125g",
+      "prix_base": 9500,
+      "prix_comparaison": 10900,
+      "variation": 1400
     }
   ],
   "prix_diminues": [
@@ -15,6 +22,13 @@
       "prix_base": 3200,
       "prix_comparaison": 3700,
       "variation": 500
+    },
+    {
+      "cle": "jusdefruits_1258lefruitjuscocktail1l_html",
+      "name": "Jus cocktail Le Fruit 1L",
+      "prix_base": 4200,
+      "prix_comparaison": 4950,
+      "variation": 750
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,12 +38,26 @@
       "prix_base": 8380,
       "prix_comparaison": 9990,
       "indice_prix": 119.21241050119332
+    },
+    {
+      "cle": "jusdefruits_1261lefruitjusraisin1l_html",
+      "name": "Jus raison Le Fruit 1L",
+      "prix_base": 4150,
+      "prix_comparaison": 4900,
+      "indice_prix": 118.07228915662651
     }
   ],
   "indices_prix_plus_faibles": [
     {
       "cle": "chips_8872chipssaveurpilipili125g_html",
       "name": "Chips saveur pili pili 125g",
+      "prix_base": 9500,
+      "prix_comparaison": 10900,
+      "indice_prix": 114.73684210526316
+    },
+    {
+      "cle": "chips_5671chipssaveurpestomozzarella125g_html",
+      "name": "Chips saveur pesto mozzarella 125g",
       "prix_base": 9500,
       "prix_comparaison": 10900,
       "indice_prix": 114.73684210526316
