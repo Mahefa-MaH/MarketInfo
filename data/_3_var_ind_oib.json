@@ -6,6 +6,13 @@
       "prix_base": 4200,
       "prix_comparaison": 4950,
       "variation": 750
+    },
+    {
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3200,
+      "prix_comparaison": 3700,
+      "variation": 500
     }
   ],
   "prix_diminues": [
@@ -15,6 +22,13 @@
       "prix_base": 3200,
       "prix_comparaison": 3700,
       "variation": 500
+    },
+    {
+      "cle": "jusdefruits_1258lefruitjuscocktail1l_html",
+      "name": "Jus cocktail Le Fruit 1L",
+      "prix_base": 4200,
+      "prix_comparaison": 4950,
+      "variation": 750
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +38,13 @@
       "prix_base": 4200,
       "prix_comparaison": 4950,
       "indice_prix": 117.85714285714286
+    },
+    {
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3200,
+      "prix_comparaison": 3700,
+      "indice_prix": 115.625
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +54,13 @@
       "prix_base": 3200,
       "prix_comparaison": 3700,
       "indice_prix": 115.625
+    },
+    {
+      "cle": "jusdefruits_1258lefruitjuscocktail1l_html",
+      "name": "Jus cocktail Le Fruit 1L",
+      "prix_base": 4200,
+      "prix_comparaison": 4950,
+      "indice_prix": 117.85714285714286
     }
   ]
 }
