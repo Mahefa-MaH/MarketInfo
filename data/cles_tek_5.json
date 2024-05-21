@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 13700,
-      "prix_comparaison": 13700,
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9300,
+      "prix_comparaison": 9300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3826,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 6500,
-      "prix_comparaison": 6500,
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 7200,
+      "prix_comparaison": 7200,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6900,
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9400,
+      "prix_comparaison": 9400,
       "variation": 0,
       "indice_prix": 100.0
     }
