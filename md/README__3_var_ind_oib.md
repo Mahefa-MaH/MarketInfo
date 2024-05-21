@@ -12,6 +12,11 @@
    - Prix actuel: 10,900 Ar
    - Variation: +1,400 Ar
 
+3. **Chips saveur pili pili 125g**
+   - Prix avant: 9,500 Ar
+   - Prix actuel: 10,900 Ar
+   - Variation: +1,400 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Olives vertes dénoyautées sachet 180g**
@@ -24,6 +29,11 @@
    - Prix actuel: 4,950 Ar
    - Variation: +750 Ar
 
+3. **Jus d'orange Le Fruit 1L**
+   - Prix avant: 4,150 Ar
+   - Prix actuel: 4,900 Ar
+   - Variation: +750 Ar
+
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Huile de tournesol Spécial 1L**
@@ -32,6 +42,11 @@
    - Indice de prix : 119.21
 
 2. **Jus raison Le Fruit 1L**
+   - Prix avant: 4,150 Ar
+   - Prix actuel: 4,900 Ar
+   - Indice de prix : 118.07
+
+3. **Jus pomme  Le Fruit 1L**
    - Prix avant: 4,150 Ar
    - Prix actuel: 4,900 Ar
    - Indice de prix : 118.07
@@ -47,4 +62,9 @@
    - Prix avant: 9,500 Ar
    - Prix actuel: 10,900 Ar
    - Indice de prix : 114.74
+
+3. **Olives vertes dénoyautées sachet 180g**
+   - Prix avant: 3,200 Ar
+   - Prix actuel: 3,700 Ar
+   - Indice de prix : 115.62
 

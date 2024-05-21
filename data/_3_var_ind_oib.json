@@ -13,6 +13,13 @@
       "prix_base": 9500,
       "prix_comparaison": 10900,
       "variation": 1400
+    },
+    {
+      "cle": "chips_8872chipssaveurpilipili125g_html",
+      "name": "Chips saveur pili pili 125g",
+      "prix_base": 9500,
+      "prix_comparaison": 10900,
+      "variation": 1400
     }
   ],
   "prix_diminues": [
@@ -29,6 +36,13 @@
       "prix_base": 4200,
       "prix_comparaison": 4950,
       "variation": 750
+    },
+    {
+      "cle": "jusdefruits_15267jusdorangelefruit1l_html",
+      "name": "Jus d'orange Le Fruit 1L",
+      "prix_base": 4150,
+      "prix_comparaison": 4900,
+      "variation": 750
     }
   ],
   "indices_prix_plus_eleves": [
@@ -42,6 +56,13 @@
     {
       "cle": "jusdefruits_1261lefruitjusraisin1l_html",
       "name": "Jus raison Le Fruit 1L",
+      "prix_base": 4150,
+      "prix_comparaison": 4900,
+      "indice_prix": 118.07228915662651
+    },
+    {
+      "cle": "jusdefruits_1260lefruitjuspomme1l_html",
+      "name": "Jus pomme  Le Fruit 1L",
       "prix_base": 4150,
       "prix_comparaison": 4900,
       "indice_prix": 118.07228915662651
@@ -61,6 +82,13 @@
       "prix_base": 9500,
       "prix_comparaison": 10900,
       "indice_prix": 114.73684210526316
+    },
+    {
+      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
+      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
+      "prix_base": 3200,
+      "prix_comparaison": 3700,
+      "indice_prix": 115.625
     }
   ]
 }
