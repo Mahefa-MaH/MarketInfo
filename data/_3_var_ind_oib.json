@@ -1,32 +1,11 @@
 {
   "prix_augmentes": [
     {
-      "cle": "tablettesdechocolat_14387tablettedechocolatblancfamiliale4x100g_html",
-      "name": "Tablette de chocolat blanc familiale 4x100g",
-      "prix_base": 19200,
-      "prix_comparaison": 22000,
-      "variation": 2800
-    },
-    {
-      "cle": "tablettesdechocolat_12832tablettedechocolatnoirauxnoisettesentieres200givoria_html",
-      "name": "Tablette de chocolat noir aux noisettes enti\u00e8res 200g",
-      "prix_base": 13500,
-      "prix_comparaison": 15900,
-      "variation": 2400
-    },
-    {
-      "cle": "tablettesdechocolat_13738tablettedechocolataulaitnoisettesentieres300givoria_html",
-      "name": "Tablette de chocolat au lait noisettes enti\u00e8res 300g",
-      "prix_base": 21900,
-      "prix_comparaison": 24000,
-      "variation": 2100
-    },
-    {
-      "cle": "tablettesdechocolat_12934tablettedechocolatnoirfourrepraline150givoria_html",
-      "name": "Tablette de chocolat noir fourr\u00e9 pralin\u00e9 150g",
-      "prix_base": 11800,
-      "prix_comparaison": 13900,
-      "variation": 2100
+      "cle": "saucesfroidesketchupmayonnaise_6558ketchup5kg_html",
+      "name": "Ketchup 5kg",
+      "prix_base": 45000,
+      "prix_comparaison": 59500,
+      "variation": 14500
     }
   ],
   "prix_diminues": [
@@ -36,57 +15,15 @@
       "prix_base": 11000,
       "prix_comparaison": 9500,
       "variation": -1500
-    },
-    {
-      "cle": "boissonsgazeusesauxfruits_984boissongazeusebonbonanglais150cl_html",
-      "name": "Boisson gazeuse Bonbon anglais 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "variation": -400
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_5504eaugazeusetonic1l_html",
-      "name": "Eau gazeuse Tonic 1L",
-      "prix_base": 3300,
-      "prix_comparaison": 3000,
-      "variation": -300
-    },
-    {
-      "cle": "biscuitschocolatesfruites_13430biscuitsrollcreamychoc154gchabrior_html",
-      "name": "Biscuits roll'creamy choc 154g",
-      "prix_base": 9200,
-      "prix_comparaison": 9500,
-      "variation": 300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "tablettesdechocolat_13349tablettedechocolatnoirlefascinantalafleurdesel100glescreations_html",
-      "name": "Tablette de chocolat noir le fascinant \u00e0 la fleur de sel 100g",
-      "prix_base": 6900,
-      "prix_comparaison": 8500,
-      "indice_prix": 123.18840579710145
-    },
-    {
-      "cle": "chips_382chipssaveurchevrepimentdespelette25g_html",
-      "name": "Chips saveur ch\u00e8vre piment d'Espelette 25g",
-      "prix_base": 2500,
-      "prix_comparaison": 3000,
-      "indice_prix": 120.0
-    },
-    {
-      "cle": "tablettesdechocolat_12934tablettedechocolatnoirfourrepraline150givoria_html",
-      "name": "Tablette de chocolat noir fourr\u00e9 pralin\u00e9 150g",
-      "prix_base": 11800,
-      "prix_comparaison": 13900,
-      "indice_prix": 117.79661016949153
-    },
-    {
-      "cle": "tablettesdechocolat_12832tablettedechocolatnoirauxnoisettesentieres200givoria_html",
-      "name": "Tablette de chocolat noir aux noisettes enti\u00e8res 200g",
-      "prix_base": 13500,
-      "prix_comparaison": 15900,
-      "indice_prix": 117.77777777777777
+      "cle": "saucesfroidesketchupmayonnaise_14054mayonnaiseautournesolenbocal470g_html",
+      "name": "Mayonnaise au tournesol en bocal 470g",
+      "prix_base": 8900,
+      "prix_comparaison": 14200,
+      "indice_prix": 159.5505617977528
     }
   ],
   "indices_prix_plus_faibles": [
@@ -96,27 +33,6 @@
       "prix_base": 11000,
       "prix_comparaison": 9500,
       "indice_prix": 86.36363636363636
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_5504eaugazeusetonic1l_html",
-      "name": "Eau gazeuse Tonic 1L",
-      "prix_base": 3300,
-      "prix_comparaison": 3000,
-      "indice_prix": 90.9090909090909
-    },
-    {
-      "cle": "boissonsgazeusesauxfruits_984boissongazeusebonbonanglais150cl_html",
-      "name": "Boisson gazeuse Bonbon anglais 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "indice_prix": 92.0
-    },
-    {
-      "cle": "biscuitschocolatesfruites_13430biscuitsrollcreamychoc154gchabrior_html",
-      "name": "Biscuits roll'creamy choc 154g",
-      "prix_base": 9200,
-      "prix_comparaison": 9500,
-      "indice_prix": 103.26086956521739
     }
   ]
 }

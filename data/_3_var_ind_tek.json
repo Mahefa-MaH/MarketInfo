@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 11789,
-      "prix_base": 23900,
-      "name": "Tampons avec applicateur super compact X20",
-      "prix_comparaison": 30900,
-      "variation": 7000
+      "list_id": 11110,
+      "prix_base": 172500,
+      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
+      "prix_comparaison": 190000,
+      "variation": 17500
+    },
+    {
+      "list_id": 8528,
+      "prix_base": 143000,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_comparaison": 158400,
+      "variation": 15400
+    },
+    {
+      "list_id": 2997,
+      "prix_base": 9600,
+      "name": "Choco Cr\u00e8me \u00c0 Tartiner 350 G",
+      "prix_comparaison": 13100,
+      "variation": 3500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 11789,
-      "prix_base": 23900,
-      "name": "Tampons avec applicateur super compact X20",
-      "prix_comparaison": 30900,
-      "variation": 7000
+      "list_id": 2075,
+      "prix_base": 15600,
+      "name": "Huile Tournesol 1 L",
+      "prix_comparaison": 14500,
+      "variation": -1100
+    },
+    {
+      "list_id": 2083,
+      "prix_base": 1200,
+      "name": "Vanille 150 Ml",
+      "prix_comparaison": 1300,
+      "variation": 100
+    },
+    {
+      "list_id": 2116,
+      "prix_base": 7700,
+      "name": "Mayonnaise 235 G",
+      "prix_comparaison": 7900,
+      "variation": 200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 11789,
-      "name": "Tampons avec applicateur super compact X20",
-      "prix_base": 23900,
-      "prix_comparaison": 30900,
-      "indice_prix": 129.2887029288703
+      "list_id": 2997,
+      "name": "Choco Cr\u00e8me \u00c0 Tartiner 350 G",
+      "prix_base": 9600,
+      "prix_comparaison": 13100,
+      "indice_prix": 136.45833333333334
+    },
+    {
+      "list_id": 2993,
+      "name": "Choco Lait 90 G",
+      "prix_base": 4000,
+      "prix_comparaison": 4800,
+      "indice_prix": 120.0
+    },
+    {
+      "list_id": 12433,
+      "name": "Attache lettre 53x47 mm Boite de 12",
+      "prix_base": 7400,
+      "prix_comparaison": 8600,
+      "indice_prix": 116.21621621621621
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 11789,
-      "name": "Tampons avec applicateur super compact X20",
-      "prix_base": 23900,
-      "prix_comparaison": 30900,
-      "indice_prix": 129.2887029288703
+      "list_id": 2075,
+      "name": "Huile Tournesol 1 L",
+      "prix_base": 15600,
+      "prix_comparaison": 14500,
+      "indice_prix": 92.94871794871794
+    },
+    {
+      "list_id": 2116,
+      "name": "Mayonnaise 235 G",
+      "prix_base": 7700,
+      "prix_comparaison": 7900,
+      "indice_prix": 102.59740259740259
+    },
+    {
+      "list_id": 2117,
+      "name": "Mayonnaise  475 G",
+      "prix_base": 14200,
+      "prix_comparaison": 14600,
+      "indice_prix": 102.8169014084507
     }
   ]
 }
