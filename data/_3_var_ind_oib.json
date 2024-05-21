@@ -1,94 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8380,
-      "prix_comparaison": 9990,
-      "variation": 1610
+      "cle": "tablettesdechocolat_14387tablettedechocolatblancfamiliale4x100g_html",
+      "name": "Tablette de chocolat blanc familiale 4x100g",
+      "prix_base": 19200,
+      "prix_comparaison": 22000,
+      "variation": 2800
     },
     {
-      "cle": "chips_5671chipssaveurpestomozzarella125g_html",
-      "name": "Chips saveur pesto mozzarella 125g",
-      "prix_base": 9500,
-      "prix_comparaison": 10900,
-      "variation": 1400
+      "cle": "tablettesdechocolat_12832tablettedechocolatnoirauxnoisettesentieres200givoria_html",
+      "name": "Tablette de chocolat noir aux noisettes enti\u00e8res 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 15900,
+      "variation": 2400
     },
     {
-      "cle": "chips_8872chipssaveurpilipili125g_html",
-      "name": "Chips saveur pili pili 125g",
-      "prix_base": 9500,
-      "prix_comparaison": 10900,
-      "variation": 1400
+      "cle": "tablettesdechocolat_13738tablettedechocolataulaitnoisettesentieres300givoria_html",
+      "name": "Tablette de chocolat au lait noisettes enti\u00e8res 300g",
+      "prix_base": 21900,
+      "prix_comparaison": 24000,
+      "variation": 2100
+    },
+    {
+      "cle": "tablettesdechocolat_12934tablettedechocolatnoirfourrepraline150givoria_html",
+      "name": "Tablette de chocolat noir fourr\u00e9 pralin\u00e9 150g",
+      "prix_base": 11800,
+      "prix_comparaison": 13900,
+      "variation": 2100
     }
   ],
   "prix_diminues": [
     {
-      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
-      "prix_base": 3200,
-      "prix_comparaison": 3700,
-      "variation": 500
+      "cle": "cremessoinsducorps_15120bodylotionmenintensivecareexpresshydratation400ml_html",
+      "name": "Body lotion men intensive care express 400ml",
+      "prix_base": 11000,
+      "prix_comparaison": 9500,
+      "variation": -1500
     },
     {
-      "cle": "jusdefruits_1258lefruitjuscocktail1l_html",
-      "name": "Jus cocktail Le Fruit 1L",
-      "prix_base": 4200,
-      "prix_comparaison": 4950,
-      "variation": 750
+      "cle": "boissonsgazeusesauxfruits_984boissongazeusebonbonanglais150cl_html",
+      "name": "Boisson gazeuse Bonbon anglais 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4600,
+      "variation": -400
     },
     {
-      "cle": "jusdefruits_15267jusdorangelefruit1l_html",
-      "name": "Jus d'orange Le Fruit 1L",
-      "prix_base": 4150,
-      "prix_comparaison": 4900,
-      "variation": 750
+      "cle": "eauxgazeusesaromatisees_5504eaugazeusetonic1l_html",
+      "name": "Eau gazeuse Tonic 1L",
+      "prix_base": 3300,
+      "prix_comparaison": 3000,
+      "variation": -300
+    },
+    {
+      "cle": "biscuitschocolatesfruites_13430biscuitsrollcreamychoc154gchabrior_html",
+      "name": "Biscuits roll'creamy choc 154g",
+      "prix_base": 9200,
+      "prix_comparaison": 9500,
+      "variation": 300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8380,
-      "prix_comparaison": 9990,
-      "indice_prix": 119.21241050119332
+      "cle": "tablettesdechocolat_13349tablettedechocolatnoirlefascinantalafleurdesel100glescreations_html",
+      "name": "Tablette de chocolat noir le fascinant \u00e0 la fleur de sel 100g",
+      "prix_base": 6900,
+      "prix_comparaison": 8500,
+      "indice_prix": 123.18840579710145
     },
     {
-      "cle": "jusdefruits_1261lefruitjusraisin1l_html",
-      "name": "Jus raison Le Fruit 1L",
-      "prix_base": 4150,
-      "prix_comparaison": 4900,
-      "indice_prix": 118.07228915662651
+      "cle": "chips_382chipssaveurchevrepimentdespelette25g_html",
+      "name": "Chips saveur ch\u00e8vre piment d'Espelette 25g",
+      "prix_base": 2500,
+      "prix_comparaison": 3000,
+      "indice_prix": 120.0
     },
     {
-      "cle": "jusdefruits_1260lefruitjuspomme1l_html",
-      "name": "Jus pomme  Le Fruit 1L",
-      "prix_base": 4150,
-      "prix_comparaison": 4900,
-      "indice_prix": 118.07228915662651
+      "cle": "tablettesdechocolat_12934tablettedechocolatnoirfourrepraline150givoria_html",
+      "name": "Tablette de chocolat noir fourr\u00e9 pralin\u00e9 150g",
+      "prix_base": 11800,
+      "prix_comparaison": 13900,
+      "indice_prix": 117.79661016949153
+    },
+    {
+      "cle": "tablettesdechocolat_12832tablettedechocolatnoirauxnoisettesentieres200givoria_html",
+      "name": "Tablette de chocolat noir aux noisettes enti\u00e8res 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 15900,
+      "indice_prix": 117.77777777777777
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "chips_8872chipssaveurpilipili125g_html",
-      "name": "Chips saveur pili pili 125g",
-      "prix_base": 9500,
-      "prix_comparaison": 10900,
-      "indice_prix": 114.73684210526316
+      "cle": "cremessoinsducorps_15120bodylotionmenintensivecareexpresshydratation400ml_html",
+      "name": "Body lotion men intensive care express 400ml",
+      "prix_base": 11000,
+      "prix_comparaison": 9500,
+      "indice_prix": 86.36363636363636
     },
     {
-      "cle": "chips_5671chipssaveurpestomozzarella125g_html",
-      "name": "Chips saveur pesto mozzarella 125g",
-      "prix_base": 9500,
-      "prix_comparaison": 10900,
-      "indice_prix": 114.73684210526316
+      "cle": "eauxgazeusesaromatisees_5504eaugazeusetonic1l_html",
+      "name": "Eau gazeuse Tonic 1L",
+      "prix_base": 3300,
+      "prix_comparaison": 3000,
+      "indice_prix": 90.9090909090909
     },
     {
-      "cle": "cornichonsolivescondiments_1149olivesvertesdenoyauteessachet180g_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es sachet 180g",
-      "prix_base": 3200,
-      "prix_comparaison": 3700,
-      "indice_prix": 115.625
+      "cle": "boissonsgazeusesauxfruits_984boissongazeusebonbonanglais150cl_html",
+      "name": "Boisson gazeuse Bonbon anglais 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4600,
+      "indice_prix": 92.0
+    },
+    {
+      "cle": "biscuitschocolatesfruites_13430biscuitsrollcreamychoc154gchabrior_html",
+      "name": "Biscuits roll'creamy choc 154g",
+      "prix_base": 9200,
+      "prix_comparaison": 9500,
+      "indice_prix": 103.26086956521739
     }
   ]
 }

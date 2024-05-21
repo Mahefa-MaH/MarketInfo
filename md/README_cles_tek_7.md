@@ -2,21 +2,15 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Sucre rouge 1 kg**
-   - Prix avant: 5,200 Ar
-   - Prix actuel: 5,200 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-2. **Sucre blanc 1 kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,200 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **Riz blanc import de Inde 50 kg**
+1. **Riz blanc import de Inde 50 kg**
    - Prix avant: 143,000 Ar
-   - Prix actuel: 143,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+   - Prix actuel: 158,400 Ar
+   - Variation: +15,400 Ar
+   - Indice de prix : 110.77
+
+2. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
+   - Prix avant: 172,500 Ar
+   - Prix actuel: 190,000 Ar
+   - Variation: +17,500 Ar
+   - Indice de prix : 110.14
 

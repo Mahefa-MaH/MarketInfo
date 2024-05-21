@@ -1,34 +1,76 @@
 {
   "Variation de prix": [
     {
-      "list_id": 4769,
-      "name": "Friteuse Sans Huile 1000 W",
-      "prix_base": 192600,
-      "prix_comparaison": 226600,
-      "variation": 34000
+      "list_id": 2075,
+      "name": "Huile Tournesol 1 L",
+      "prix_base": 15600,
+      "prix_comparaison": 14500,
+      "variation": -1100
     },
     {
-      "list_id": 4770,
-      "name": "Friteuse Sans Huile Avec Affichage Led 1000 W",
-      "prix_base": 217500,
-      "prix_comparaison": 255900,
-      "variation": 38400
+      "list_id": 2995,
+      "name": "Choco Fourr\u00e9 \u00c0 La Cr\u00e8me Brul\u00e9e 100 G",
+      "prix_base": 4200,
+      "prix_comparaison": 4800,
+      "variation": 600
+    },
+    {
+      "list_id": 2997,
+      "name": "Choco Cr\u00e8me \u00c0 Tartiner 350 G",
+      "prix_base": 9600,
+      "prix_comparaison": 13100,
+      "variation": 3500
+    },
+    {
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 143000,
+      "prix_comparaison": 158400,
+      "variation": 15400
+    },
+    {
+      "list_id": 11110,
+      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
+      "prix_base": 172500,
+      "prix_comparaison": 190000,
+      "variation": 17500
     }
   ],
   "indice de prix": [
     {
-      "list_id": 4769,
-      "name": "Friteuse Sans Huile 1000 W",
-      "prix_base": 192600,
-      "prix_comparaison": 226600,
-      "indice_prix": 117.65316718587746
+      "list_id": 2075,
+      "name": "Huile Tournesol 1 L",
+      "prix_base": 15600,
+      "prix_comparaison": 14500,
+      "indice_prix": 92.94871794871794
     },
     {
-      "list_id": 4770,
-      "name": "Friteuse Sans Huile Avec Affichage Led 1000 W",
-      "prix_base": 217500,
-      "prix_comparaison": 255900,
-      "indice_prix": 117.65517241379311
+      "list_id": 11110,
+      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
+      "prix_base": 172500,
+      "prix_comparaison": 190000,
+      "indice_prix": 110.14492753623189
+    },
+    {
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 143000,
+      "prix_comparaison": 158400,
+      "indice_prix": 110.76923076923077
+    },
+    {
+      "list_id": 2995,
+      "name": "Choco Fourr\u00e9 \u00c0 La Cr\u00e8me Brul\u00e9e 100 G",
+      "prix_base": 4200,
+      "prix_comparaison": 4800,
+      "indice_prix": 114.28571428571429
+    },
+    {
+      "list_id": 2997,
+      "name": "Choco Cr\u00e8me \u00c0 Tartiner 350 G",
+      "prix_base": 9600,
+      "prix_comparaison": 13100,
+      "indice_prix": 136.45833333333334
     }
   ]
 }
