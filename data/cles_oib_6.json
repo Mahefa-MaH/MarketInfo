@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_15213rizdiamante5kg_html",
-      "name": "Riz blanc diamante 5Kg",
-      "prix_base": 19300,
-      "prix_comparaison": 19300,
+      "cle": "riz_11442rizgasymena1kg_html",
+      "name": "Riz gasy mena  1kg",
+      "prix_base": 4250,
+      "prix_comparaison": 4250,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_7290rizblancdelitasy25kg_html",
-      "name": "Riz blanc de l'Itasy 25kg",
-      "prix_base": 92000,
-      "prix_comparaison": 92000,
+      "cle": "riz_9403rizgasysacde1kg_html",
+      "name": "Riz gasy sac de 1kg",
+      "prix_base": 4490,
+      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_7291rizblancdelitasy50kg_html",
-      "name": "Riz blanc de l'Itasy 50kg",
-      "prix_base": 184000,
-      "prix_comparaison": 184000,
+      "cle": "riz_11443rizmakalioka1kg_html",
+      "name": "Riz makalioka 1kg",
+      "prix_base": 4350,
+      "prix_comparaison": 4350,
       "variation": 0,
       "indice_prix": 100.0
     }

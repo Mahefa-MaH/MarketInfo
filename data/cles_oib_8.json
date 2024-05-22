@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8900,
-      "prix_comparaison": 8900,
+      "cle": "farinesetchapelures_13065farinepourpainblanc1kgchabrior_html",
+      "name": "Farine pour  pain blanc 1kg",
+      "prix_base": 8500,
+      "prix_comparaison": 8500,
       "variation": 0,
       "indice_prix": 100.0
     }
