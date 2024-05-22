@@ -1,122 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "saucesfroidesketchupmayonnaise_6558ketchup5kg_html",
-      "name": "Ketchup 5kg",
-      "prix_base": 45000,
-      "prix_comparaison": 59500,
-      "variation": 14500
+      "cle": "pates_9111coquillettesprimo500g_html",
+      "name": "Coquillettes Primo 500g",
+      "prix_base": 3100,
+      "prix_comparaison": 2945,
+      "variation": -155
     },
     {
-      "cle": "saucesfroidesketchupmayonnaise_14054mayonnaiseautournesolenbocal470g_html",
-      "name": "Mayonnaise au tournesol en bocal 470g",
-      "prix_base": 8900,
-      "prix_comparaison": 14200,
-      "variation": 5300
-    },
-    {
-      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 16500,
-      "prix_comparaison": 19900,
-      "variation": 3400
-    },
-    {
-      "cle": "tablettesdechocolat_14387tablettedechocolatblancfamiliale4x100g_html",
-      "name": "Tablette de chocolat blanc familiale 4x100g",
-      "prix_base": 19200,
-      "prix_comparaison": 22000,
-      "variation": 2800
+      "cle": "cornichonsolivescondiments_13176olivesvertesalafarcedanchois120gboutondor_html",
+      "name": "Olives vertes \u00e0 la farce d'anchois 120g",
+      "prix_base": 5500,
+      "prix_comparaison": 5225,
+      "variation": -275
     }
   ],
   "prix_diminues": [
     {
-      "cle": "cremessoinsducorps_15120bodylotionmenintensivecareexpresshydratation400ml_html",
-      "name": "Body lotion men intensive care express 400ml",
-      "prix_base": 11000,
-      "prix_comparaison": 9500,
-      "variation": -1500
+      "cle": "cafesolublechicoreecappuccino_10248cafesolubleselectionnormal200g_html",
+      "name": "Caf\u00e9 soluble s\u00e9lection normal 200g",
+      "prix_base": 59000,
+      "prix_comparaison": 56050,
+      "variation": -2950
     },
     {
-      "cle": "boissonsgazeusesauxfruits_984boissongazeusebonbonanglais150cl_html",
-      "name": "Boisson gazeuse Bonbon anglais 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "variation": -400
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_5504eaugazeusetonic1l_html",
-      "name": "Eau gazeuse Tonic 1L",
-      "prix_base": 3300,
-      "prix_comparaison": 3000,
-      "variation": -300
-    },
-    {
-      "cle": "biscuitschocolatesfruites_13430biscuitsrollcreamychoc154gchabrior_html",
-      "name": "Biscuits roll'creamy choc 154g",
-      "prix_base": 9200,
-      "prix_comparaison": 9500,
-      "variation": 300
+      "cle": "cafesolublechicoreecappuccino_10253cafeviennois18tassesenboite306g_html",
+      "name": "Caf\u00e9 viennois 18 tasses en boite 306g",
+      "prix_base": 44500,
+      "prix_comparaison": 42275,
+      "variation": -2225
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "saucesfroidesketchupmayonnaise_14054mayonnaiseautournesolenbocal470g_html",
-      "name": "Mayonnaise au tournesol en bocal 470g",
-      "prix_base": 8900,
-      "prix_comparaison": 14200,
-      "indice_prix": 159.5505617977528
+      "cle": "pates_9111coquillettesprimo500g_html",
+      "name": "Coquillettes Primo 500g",
+      "prix_base": 3100,
+      "prix_comparaison": 2945,
+      "indice_prix": 95.0
     },
     {
-      "cle": "saucesfroidesketchupmayonnaise_6558ketchup5kg_html",
-      "name": "Ketchup 5kg",
-      "prix_base": 45000,
-      "prix_comparaison": 59500,
-      "indice_prix": 132.22222222222223
-    },
-    {
-      "cle": "tablettesdechocolat_13349tablettedechocolatnoirlefascinantalafleurdesel100glescreations_html",
-      "name": "Tablette de chocolat noir le fascinant \u00e0 la fleur de sel 100g",
-      "prix_base": 6900,
-      "prix_comparaison": 8500,
-      "indice_prix": 123.18840579710145
-    },
-    {
-      "cle": "huiles_13798huiledetournesol1ltopbudget_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 16500,
-      "prix_comparaison": 19900,
-      "indice_prix": 120.60606060606061
+      "cle": "biscottespainsgrilles_6046biscottes750g_html",
+      "name": "Biscottes 750g",
+      "prix_base": 23900,
+      "prix_comparaison": 22705,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "cremessoinsducorps_15120bodylotionmenintensivecareexpresshydratation400ml_html",
-      "name": "Body lotion men intensive care express 400ml",
-      "prix_base": 11000,
-      "prix_comparaison": 9500,
-      "indice_prix": 86.36363636363636
+      "cle": "biscuitschocolatesfruites_13813tartelettesgoutfraise200gtopbudget_html",
+      "name": "Tartelettes go\u00fbt fraise 200g",
+      "prix_base": 7900,
+      "prix_comparaison": 5900,
+      "indice_prix": 74.68354430379746
     },
     {
-      "cle": "eauxgazeusesaromatisees_5504eaugazeusetonic1l_html",
-      "name": "Eau gazeuse Tonic 1L",
-      "prix_base": 3300,
-      "prix_comparaison": 3000,
-      "indice_prix": 90.9090909090909
-    },
-    {
-      "cle": "boissonsgazeusesauxfruits_984boissongazeusebonbonanglais150cl_html",
-      "name": "Boisson gazeuse Bonbon anglais 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "indice_prix": 92.0
-    },
-    {
-      "cle": "biscuitschocolatesfruites_13430biscuitsrollcreamychoc154gchabrior_html",
-      "name": "Biscuits roll'creamy choc 154g",
-      "prix_base": 9200,
-      "prix_comparaison": 9500,
-      "indice_prix": 103.26086956521739
+      "cle": "gaufresetcrepes_1480rollbreakcremedefraise80g_html",
+      "name": "Rouleaux de gaufrettes cr\u00e8me de fraise 80g",
+      "prix_base": 8990,
+      "prix_comparaison": 8540,
+      "indice_prix": 94.9944382647386
     }
   ]
 }
