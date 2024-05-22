@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
-   - Prix avant: 172,500 Ar
-   - Prix actuel: 190,000 Ar
-   - Variation: +17,500 Ar
+1. **Réfrigérateur 539L INOX**
+   - Prix avant: 5,632,000 Ar
+   - Prix actuel: 6,144,000 Ar
+   - Variation: +512,000 Ar
 
-2. **Riz blanc import de Inde 50 kg**
-   - Prix avant: 143,000 Ar
-   - Prix actuel: 158,400 Ar
-   - Variation: +15,400 Ar
+2. **Réfrigérateur 432L Side by Side**
+   - Prix avant: 5,386,200 Ar
+   - Prix actuel: 5,875,900 Ar
+   - Variation: +489,700 Ar
 
-3. **Choco Crème À Tartiner 350 G**
-   - Prix avant: 9,600 Ar
-   - Prix actuel: 13,100 Ar
-   - Variation: +3,500 Ar
+3. **Gazinière 5 feux GE15120DX**
+   - Prix avant: 3,386,900 Ar
+   - Prix actuel: 3,694,800 Ar
+   - Variation: +307,900 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Huile Tournesol 1 L**
-   - Prix avant: 15,600 Ar
-   - Prix actuel: 14,500 Ar
-   - Variation: -1,100 Ar
+1. **riz jasmin Parfumé 5 kg**
+   - Prix avant: 34,500 Ar
+   - Prix actuel: 31,500 Ar
+   - Variation: -3,000 Ar
 
-2. **Vanille 150 Ml**
-   - Prix avant: 1,200 Ar
-   - Prix actuel: 1,300 Ar
+2. **Moutarde 260 G**
+   - Prix avant: 10,700 Ar
+   - Prix actuel: 10,500 Ar
+   - Variation: -200 Ar
+
+3. **Super glue 3g**
+   - Prix avant: 1,300 Ar
+   - Prix actuel: 1,400 Ar
    - Variation: +100 Ar
-
-3. **Mayonnaise 235 G**
-   - Prix avant: 7,700 Ar
-   - Prix actuel: 7,900 Ar
-   - Variation: +200 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Choco Crème À Tartiner 350 G**
-   - Prix avant: 9,600 Ar
-   - Prix actuel: 13,100 Ar
-   - Indice de prix : 136.46
+1. **Biscuits Choco Pochon 60 G**
+   - Prix avant: 1,300 Ar
+   - Prix actuel: 1,600 Ar
+   - Indice de prix : 123.08
 
-2. **Choco Lait 90 G**
-   - Prix avant: 4,000 Ar
-   - Prix actuel: 4,800 Ar
+2. **Coffre fort numérique noir 250*350*250 mm**
+   - Prix avant: 340,000 Ar
+   - Prix actuel: 408,000 Ar
    - Indice de prix : 120.00
 
-3. **Attache lettre 53x47 mm Boite de 12**
-   - Prix avant: 7,400 Ar
-   - Prix actuel: 8,600 Ar
-   - Indice de prix : 116.22
+3. **Règle 20 cm plastique**
+   - Prix avant: 800 Ar
+   - Prix actuel: 900 Ar
+   - Indice de prix : 112.50
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Huile Tournesol 1 L**
-   - Prix avant: 15,600 Ar
-   - Prix actuel: 14,500 Ar
-   - Indice de prix : 92.95
+1. **riz jasmin Parfumé 5 kg**
+   - Prix avant: 34,500 Ar
+   - Prix actuel: 31,500 Ar
+   - Indice de prix : 91.30
 
-2. **Mayonnaise 235 G**
-   - Prix avant: 7,700 Ar
-   - Prix actuel: 7,900 Ar
-   - Indice de prix : 102.60
+2. **Moutarde 260 G**
+   - Prix avant: 10,700 Ar
+   - Prix actuel: 10,500 Ar
+   - Indice de prix : 98.13
 
-3. **Mayonnaise  475 G**
-   - Prix avant: 14,200 Ar
-   - Prix actuel: 14,600 Ar
-   - Indice de prix : 102.82
+3. **Friteuse sans huile HD9650/91 2225 W**
+   - Prix avant: 1,979,000 Ar
+   - Prix actuel: 1,979,100 Ar
+   - Indice de prix : 100.01
 

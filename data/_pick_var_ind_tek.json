@@ -8,6 +8,13 @@
       "variation": -3000
     },
     {
+      "list_id": 7175,
+      "name": "Crayon cire 12 couleur \u00e0 l'huile",
+      "prix_base": 4300,
+      "prix_comparaison": 4400,
+      "variation": 100
+    },
+    {
       "list_id": 8259,
       "name": "Friteuse sans huile HD9650/91 2225 W",
       "prix_base": 1979000,
@@ -29,6 +36,13 @@
       "prix_base": 1979000,
       "prix_comparaison": 1979100,
       "indice_prix": 100.00505305709954
+    },
+    {
+      "list_id": 7175,
+      "name": "Crayon cire 12 couleur \u00e0 l'huile",
+      "prix_base": 4300,
+      "prix_comparaison": 4400,
+      "indice_prix": 102.32558139534883
     }
   ]
 }
