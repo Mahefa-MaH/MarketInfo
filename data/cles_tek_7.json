@@ -1,20 +1,28 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8528,
-      "name": "Riz blanc import de Inde 50 kg",
-      "prix_base": 143000,
-      "prix_comparaison": 158400,
-      "variation": 15400,
-      "indice_prix": 110.76923076923077
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7900,
+      "prix_comparaison": 7900,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "list_id": 11110,
-      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
-      "prix_base": 172500,
-      "prix_comparaison": 190000,
-      "variation": 17500,
-      "indice_prix": 110.14492753623189
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 3100,
+      "prix_comparaison": 3100,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 6300,
+      "prix_comparaison": 6300,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
