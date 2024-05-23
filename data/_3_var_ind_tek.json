@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 9637,
-      "prix_base": 5632000,
-      "name": "R\u00e9frig\u00e9rateur 539L INOX",
-      "prix_comparaison": 6144000,
-      "variation": 512000
+      "list_id": 7212,
+      "prix_base": 3800,
+      "name": "Pile Alkaline Battery AAA LR03 2",
+      "prix_comparaison": 3900,
+      "variation": 100
     },
     {
-      "list_id": 9664,
-      "prix_base": 5386200,
-      "name": "R\u00e9frig\u00e9rateur 432L Side by Side",
-      "prix_comparaison": 5875900,
-      "variation": 489700
+      "list_id": 7165,
+      "prix_base": 3800,
+      "name": "Alkaline Battery AA LR6 2",
+      "prix_comparaison": 3900,
+      "variation": 100
     },
     {
-      "list_id": 9681,
-      "prix_base": 3386900,
-      "name": "Gazini\u00e8re 5 feux GE15120DX",
-      "prix_comparaison": 3694800,
-      "variation": 307900
+      "list_id": 7317,
+      "prix_base": 5000,
+      "name": "M\u00e8tre ruban",
+      "prix_comparaison": 5100,
+      "variation": 100
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 5075,
-      "prix_base": 34500,
-      "name": "riz jasmin Parfum\u00e9 5 kg",
-      "prix_comparaison": 31500,
-      "variation": -3000
+      "list_id": 4669,
+      "prix_base": 4400,
+      "name": "Marqueur permanent biseaut\u00e9 350",
+      "prix_comparaison": 4500,
+      "variation": 100
     },
     {
-      "list_id": 3096,
-      "prix_base": 10700,
-      "name": "Moutarde 260 G",
-      "prix_comparaison": 10500,
-      "variation": -200
+      "list_id": 7317,
+      "prix_base": 5000,
+      "name": "M\u00e8tre ruban",
+      "prix_comparaison": 5100,
+      "variation": 100
     },
     {
-      "list_id": 7471,
-      "prix_base": 1300,
-      "name": "Super glue 3g",
-      "prix_comparaison": 1400,
+      "list_id": 7165,
+      "prix_base": 3800,
+      "name": "Alkaline Battery AA LR6 2",
+      "prix_comparaison": 3900,
       "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3016,
-      "name": "Biscuits Choco Pochon 60 G",
-      "prix_base": 1300,
-      "prix_comparaison": 1600,
-      "indice_prix": 123.07692307692308
+      "list_id": 7212,
+      "name": "Pile Alkaline Battery AAA LR03 2",
+      "prix_base": 3800,
+      "prix_comparaison": 3900,
+      "indice_prix": 102.63157894736842
     },
     {
-      "list_id": 7590,
-      "name": "Coffre fort num\u00e9rique noir 250*350*250 mm",
-      "prix_base": 340000,
-      "prix_comparaison": 408000,
-      "indice_prix": 120.0
+      "list_id": 7165,
+      "name": "Alkaline Battery AA LR6 2",
+      "prix_base": 3800,
+      "prix_comparaison": 3900,
+      "indice_prix": 102.63157894736842
     },
     {
-      "list_id": 7444,
-      "name": "R\u00e8gle 20 cm plastique",
-      "prix_base": 800,
-      "prix_comparaison": 900,
-      "indice_prix": 112.5
+      "list_id": 4669,
+      "name": "Marqueur permanent biseaut\u00e9 350",
+      "prix_base": 4400,
+      "prix_comparaison": 4500,
+      "indice_prix": 102.27272727272727
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 5075,
-      "name": "riz jasmin Parfum\u00e9 5 kg",
-      "prix_base": 34500,
-      "prix_comparaison": 31500,
-      "indice_prix": 91.30434782608695
+      "list_id": 7317,
+      "name": "M\u00e8tre ruban",
+      "prix_base": 5000,
+      "prix_comparaison": 5100,
+      "indice_prix": 102.0
     },
     {
-      "list_id": 3096,
-      "name": "Moutarde 260 G",
-      "prix_base": 10700,
-      "prix_comparaison": 10500,
-      "indice_prix": 98.13084112149532
+      "list_id": 4669,
+      "name": "Marqueur permanent biseaut\u00e9 350",
+      "prix_base": 4400,
+      "prix_comparaison": 4500,
+      "indice_prix": 102.27272727272727
     },
     {
-      "list_id": 8259,
-      "name": "Friteuse sans huile HD9650/91 2225 W",
-      "prix_base": 1979000,
-      "prix_comparaison": 1979100,
-      "indice_prix": 100.00505305709954
+      "list_id": 7165,
+      "name": "Alkaline Battery AA LR6 2",
+      "prix_base": 3800,
+      "prix_comparaison": 3900,
+      "indice_prix": 102.63157894736842
     }
   ]
 }
