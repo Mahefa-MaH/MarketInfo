@@ -1,48 +1,34 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5075,
-      "name": "riz jasmin Parfum\u00e9 5 kg",
-      "prix_base": 34500,
-      "prix_comparaison": 31500,
-      "variation": -3000
+      "list_id": 11391,
+      "name": "D\u00e9odorant \u00e0 bille au Tiar\u00e9 & Mono\u00ef 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 9800,
+      "variation": 1500
     },
     {
-      "list_id": 7175,
-      "name": "Crayon cire 12 couleur \u00e0 l'huile",
-      "prix_base": 4300,
-      "prix_comparaison": 4400,
-      "variation": 100
-    },
-    {
-      "list_id": 8259,
-      "name": "Friteuse sans huile HD9650/91 2225 W",
-      "prix_base": 1979000,
-      "prix_comparaison": 1979100,
-      "variation": 100
+      "list_id": 11446,
+      "name": "D\u00e9odorant au Tiar\u00e9 & Mono\u00ef 200 ml",
+      "prix_base": 11000,
+      "prix_comparaison": 14200,
+      "variation": 3200
     }
   ],
   "indice de prix": [
     {
-      "list_id": 5075,
-      "name": "riz jasmin Parfum\u00e9 5 kg",
-      "prix_base": 34500,
-      "prix_comparaison": 31500,
-      "indice_prix": 91.30434782608695
+      "list_id": 11391,
+      "name": "D\u00e9odorant \u00e0 bille au Tiar\u00e9 & Mono\u00ef 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 9800,
+      "indice_prix": 118.07228915662651
     },
     {
-      "list_id": 8259,
-      "name": "Friteuse sans huile HD9650/91 2225 W",
-      "prix_base": 1979000,
-      "prix_comparaison": 1979100,
-      "indice_prix": 100.00505305709954
-    },
-    {
-      "list_id": 7175,
-      "name": "Crayon cire 12 couleur \u00e0 l'huile",
-      "prix_base": 4300,
-      "prix_comparaison": 4400,
-      "indice_prix": 102.32558139534883
+      "list_id": 11446,
+      "name": "D\u00e9odorant au Tiar\u00e9 & Mono\u00ef 200 ml",
+      "prix_base": 11000,
+      "prix_comparaison": 14200,
+      "indice_prix": 129.0909090909091
     }
   ]
 }
