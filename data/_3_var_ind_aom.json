@@ -29,14 +29,28 @@
       "variation": 13000
     },
     {
-      "cle": "planchadetableplanchaelectrique_25897brandtplanchapla1322n2200w3660767953154_html",
-      "name": "BRANDT Plancha \u00e9lectrique 2200 watts thermostat r\u00e9glable PLA1322N bandeau noir",
-      "prix_base": 479000,
-      "prix_comparaison": 469000,
-      "variation": -10000
+      "cle": "lisseurpinceferalisser_93573babylissst089elisseurbabyliss2reglagesdetemperaturejusqua230cplaquesenceramiquetapisthermoresistant3030050153606_html",
+      "name": "Lisseur Babyliss ST089E - 2 r\u00e9glages de temp\u00e9rature - Jusqu'a 230\u00b0C - Plaques en c\u00e9ramique - Tapis thermor\u00e9sistant",
+      "prix_base": 181000,
+      "prix_comparaison": 191000,
+      "variation": 10000
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "cadeauxpourelle_126947lisseurvapeurlorealprofessionnelsteampod30avectroussethermoresistante3665831058803_html",
+      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u00e9sistante",
+      "prix_base": 1514000,
+      "prix_comparaison": 1370000,
+      "variation": -144000
+    },
+    {
+      "cle": "electromenager_133102steampod40editionlimiteemooncapsulelisseurboucleurvapeurplaqueenceramiquehauteresistancelorealprofess3474637188221_html",
+      "name": "Steampod 4.0 Edition Limit\u00e9e Moon Capsule - Lisseur-Boucleur Vapeur - Plaque en c\u00e9ramique haute r\u00e9sistance - L'Or\u00e9al Profess",
+      "prix_base": 1956000,
+      "prix_comparaison": 1945000,
+      "variation": -11000
+    },
     {
       "cle": "planchadetableplanchaelectrique_125412arthurmartinampl20planchaelectrique2000w47cmx37cmthermostatreglable5niveaux3701332810189_html",
       "name": "ARTHUR MARTIN - AMPL20 - Plancha \u00e9lectrique - 2000W - 47cm x 37cm - Thermostat r\u00e9glable 5 niveaux",
@@ -52,25 +66,11 @@
       "variation": -10000
     },
     {
-      "cle": "planchadetableplanchaelectrique_126183weasysto52planchaelectrique2000wplaqueeffetpierre52x27cmtemperaturereglablerevetementantiadhesifbac3760124954777_html",
-      "name": "WEASY STO52 Plancha \u00e9l\u00e9ctrique 2000W - Plaque effet pierre - 52x27cm - Temp\u00e9rature r\u00e9glable - Revetement anti-adh\u00e9sif - Bac",
-      "prix_base": 380000,
-      "prix_comparaison": 393000,
-      "variation": 13000
-    },
-    {
-      "cle": "planchadetableplanchaelectrique_124784hkoeniggrx330planchadoublezones50x25cm1800wrevetementantiadhesiffonctionturbozonegrillthermostatajus3760124954784_html",
-      "name": "HKoeNIG GRX330 - Plancha double zones - 50x25cm - 1800W - Revetement anti-adh\u00e9sif - Fonction turbo zone grill - Thermostat ajus",
-      "prix_base": 700000,
-      "prix_comparaison": 718000,
-      "variation": 18000
-    },
-    {
-      "cle": "planchadetableplanchaelectrique_92124fagorfg823planchainoxextralarge2200w3508510089012_html",
-      "name": "FAGOR - FG823 - Plancha Inox Extra Large - 2200 W",
-      "prix_base": 527000,
-      "prix_comparaison": 553000,
-      "variation": 26000
+      "cle": "lisseurpinceferalisser_50054revlonrvst2175elisseursalonstraightcoppersmothstyler0761318621751_html",
+      "name": "REVLON RVST2175E - Lisseur Salon Straight Copper Smoth Styler",
+      "prix_base": 239000,
+      "prix_comparaison": 233000,
+      "variation": -6000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,6 +80,13 @@
       "prix_base": 459000,
       "prix_comparaison": 631000,
       "indice_prix": 137.47276688453158
+    },
+    {
+      "cle": "lisseurpinceferalisser_93573babylissst089elisseurbabyliss2reglagesdetemperaturejusqua230cplaquesenceramiquetapisthermoresistant3030050153606_html",
+      "name": "Lisseur Babyliss ST089E - 2 r\u00e9glages de temp\u00e9rature - Jusqu'a 230\u00b0C - Plaques en c\u00e9ramique - Tapis thermor\u00e9sistant",
+      "prix_base": 181000,
+      "prix_comparaison": 191000,
+      "indice_prix": 105.52486187845304
     },
     {
       "cle": "planchadetableplanchaelectrique_92124fagorfg823planchainoxextralarge2200w3508510089012_html",
@@ -101,16 +108,23 @@
       "prix_base": 700000,
       "prix_comparaison": 718000,
       "indice_prix": 102.57142857142857
-    },
-    {
-      "cle": "planchadetableplanchaelectrique_25897brandtplanchapla1322n2200w3660767953154_html",
-      "name": "BRANDT Plancha \u00e9lectrique 2200 watts thermostat r\u00e9glable PLA1322N bandeau noir",
-      "prix_base": 479000,
-      "prix_comparaison": 469000,
-      "indice_prix": 97.91231732776617
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "cadeauxpourelle_126947lisseurvapeurlorealprofessionnelsteampod30avectroussethermoresistante3665831058803_html",
+      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u00e9sistante",
+      "prix_base": 1514000,
+      "prix_comparaison": 1370000,
+      "indice_prix": 90.4887714663144
+    },
+    {
+      "cle": "lisseurpinceferalisser_50054revlonrvst2175elisseursalonstraightcoppersmothstyler0761318621751_html",
+      "name": "REVLON RVST2175E - Lisseur Salon Straight Copper Smoth Styler",
+      "prix_base": 239000,
+      "prix_comparaison": 233000,
+      "indice_prix": 97.48953974895397
+    },
     {
       "cle": "planchadetableplanchaelectrique_125412arthurmartinampl20planchaelectrique2000w47cmx37cmthermostatreglable5niveaux3701332810189_html",
       "name": "ARTHUR MARTIN - AMPL20 - Plancha \u00e9lectrique - 2000W - 47cm x 37cm - Thermostat r\u00e9glable 5 niveaux",
@@ -126,25 +140,11 @@
       "indice_prix": 97.91231732776617
     },
     {
-      "cle": "planchadetableplanchaelectrique_124784hkoeniggrx330planchadoublezones50x25cm1800wrevetementantiadhesiffonctionturbozonegrillthermostatajus3760124954784_html",
-      "name": "HKoeNIG GRX330 - Plancha double zones - 50x25cm - 1800W - Revetement anti-adh\u00e9sif - Fonction turbo zone grill - Thermostat ajus",
-      "prix_base": 700000,
-      "prix_comparaison": 718000,
-      "indice_prix": 102.57142857142857
-    },
-    {
-      "cle": "planchadetableplanchaelectrique_126183weasysto52planchaelectrique2000wplaqueeffetpierre52x27cmtemperaturereglablerevetementantiadhesifbac3760124954777_html",
-      "name": "WEASY STO52 Plancha \u00e9l\u00e9ctrique 2000W - Plaque effet pierre - 52x27cm - Temp\u00e9rature r\u00e9glable - Revetement anti-adh\u00e9sif - Bac",
-      "prix_base": 380000,
-      "prix_comparaison": 393000,
-      "indice_prix": 103.42105263157895
-    },
-    {
-      "cle": "planchadetableplanchaelectrique_92124fagorfg823planchainoxextralarge2200w3508510089012_html",
-      "name": "FAGOR - FG823 - Plancha Inox Extra Large - 2200 W",
-      "prix_base": 527000,
-      "prix_comparaison": 553000,
-      "indice_prix": 104.93358633776091
+      "cle": "electromenager_133102steampod40editionlimiteemooncapsulelisseurboucleurvapeurplaqueenceramiquehauteresistancelorealprofess3474637188221_html",
+      "name": "Steampod 4.0 Edition Limit\u00e9e Moon Capsule - Lisseur-Boucleur Vapeur - Plaque en c\u00e9ramique haute r\u00e9sistance - L'Or\u00e9al Profess",
+      "prix_base": 1956000,
+      "prix_comparaison": 1945000,
+      "indice_prix": 99.43762781186093
     }
   ]
 }

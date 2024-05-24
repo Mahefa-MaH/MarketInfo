@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Frigidaire Multiportes (French Door) Inox**
-   - Prix avant: 6,448,700 Ar
-   - Prix actuel: 6,729,100 Ar
-   - Variation: +280,400 Ar
+1. **Climatiseur TAC-24CHSA/XAA1I airconditionneur 24000 Btu/h**
+   - Prix avant: 3,611,900 Ar
+   - Prix actuel: 3,940,200 Ar
+   - Variation: +328,300 Ar
 
-2. **Frigidaire 320 l Duf282 Uprght Trzer F6O312Ne Eco**
-   - Prix avant: 4,410,100 Ar
-   - Prix actuel: 4,601,900 Ar
-   - Variation: +191,800 Ar
+2. **Réfrigérateur série RT53K6510SL/EF 530 L**
+   - Prix avant: 5,140,500 Ar
+   - Prix actuel: 5,364,000 Ar
+   - Variation: +223,500 Ar
 
-3. **Frigidaire Dac632 Frdge C380 Wd M**
-   - Prix avant: 2,560,700 Ar
-   - Prix actuel: 2,672,100 Ar
-   - Variation: +111,400 Ar
+3. **Réfrigérateur série RT46K6600S9/EF 460 L**
+   - Prix avant: 5,047,400 Ar
+   - Prix actuel: 5,266,800 Ar
+   - Variation: +219,400 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Marqueur permanent biseauté 350**
-   - Prix avant: 4,400 Ar
-   - Prix actuel: 4,500 Ar
-   - Variation: +100 Ar
+1. **Jus De Fruit Guava 1L**
+   - Prix avant: 11,700 Ar
+   - Prix actuel: 10,500 Ar
+   - Variation: -1,200 Ar
 
-2. **Mètre ruban**
-   - Prix avant: 5,000 Ar
-   - Prix actuel: 5,100 Ar
-   - Variation: +100 Ar
+2. **Jus De Fruit Pomme 1 L**
+   - Prix avant: 11,700 Ar
+   - Prix actuel: 10,500 Ar
+   - Variation: -1,200 Ar
 
-3. **Alkaline Battery AA LR6 2**
-   - Prix avant: 3,800 Ar
-   - Prix actuel: 3,900 Ar
-   - Variation: +100 Ar
+3. **Pâtes Farfalle 500 g**
+   - Prix avant: 11,700 Ar
+   - Prix actuel: 10,800 Ar
+   - Variation: -900 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Déodorant au Tiaré & Monoï 200 ml**
-   - Prix avant: 11,000 Ar
-   - Prix actuel: 14,200 Ar
-   - Indice de prix : 129.09
+1. **Brocoli 500 g**
+   - Prix avant: 5,900 Ar
+   - Prix actuel: 7,500 Ar
+   - Indice de prix : 127.12
 
-2. **Echalote 30 g**
-   - Prix avant: 5,500 Ar
-   - Prix actuel: 6,800 Ar
-   - Indice de prix : 123.64
+2. **Poudre de cacao 32% 800 g**
+   - Prix avant: 37,900 Ar
+   - Prix actuel: 45,800 Ar
+   - Indice de prix : 120.84
 
-3. **10 Rasoirs jetables Technic 2 lames**
-   - Prix avant: 10,600 Ar
-   - Prix actuel: 13,100 Ar
-   - Indice de prix : 123.58
+3. **Chou-fleur 1 pièce**
+   - Prix avant: 5,900 Ar
+   - Prix actuel: 7,100 Ar
+   - Indice de prix : 120.34
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Mètre ruban**
-   - Prix avant: 5,000 Ar
-   - Prix actuel: 5,100 Ar
-   - Indice de prix : 102.00
+1. **Jus De Fruit Mango 200 Ml**
+   - Prix avant: 3,200 Ar
+   - Prix actuel: 2,800 Ar
+   - Indice de prix : 87.50
 
-2. **Marqueur permanent biseauté 350**
-   - Prix avant: 4,400 Ar
-   - Prix actuel: 4,500 Ar
-   - Indice de prix : 102.27
+2. **Jus De Fruit Red Grape 200 Ml**
+   - Prix avant: 3,200 Ar
+   - Prix actuel: 2,800 Ar
+   - Indice de prix : 87.50
 
-3. **Alkaline Battery AA LR6 2**
-   - Prix avant: 3,800 Ar
-   - Prix actuel: 3,900 Ar
-   - Indice de prix : 102.63
+3. **Jus Medley 200 Ml**
+   - Prix avant: 3,200 Ar
+   - Prix actuel: 2,800 Ar
+   - Indice de prix : 87.50
 

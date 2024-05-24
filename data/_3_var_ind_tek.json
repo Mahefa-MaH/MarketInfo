@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 1458,
-      "prix_base": 6448700,
-      "name": "Frigidaire Multiportes (French Door) Inox",
-      "prix_comparaison": 6729100,
-      "variation": 280400
+      "list_id": 8261,
+      "prix_base": 3611900,
+      "name": "Climatiseur TAC-24CHSA/XAA1I airconditionneur 24000 Btu/h",
+      "prix_comparaison": 3940200,
+      "variation": 328300
     },
     {
-      "list_id": 1455,
-      "prix_base": 4410100,
-      "name": "Frigidaire 320 l Duf282 Uprght Trzer F6O312Ne Eco",
-      "prix_comparaison": 4601900,
-      "variation": 191800
+      "list_id": 8207,
+      "prix_base": 5140500,
+      "name": "R\u00e9frig\u00e9rateur s\u00e9rie RT53K6510SL/EF 530 L",
+      "prix_comparaison": 5364000,
+      "variation": 223500
     },
     {
-      "list_id": 1453,
-      "prix_base": 2560700,
-      "name": "Frigidaire Dac632 Frdge C380 Wd M",
-      "prix_comparaison": 2672100,
-      "variation": 111400
+      "list_id": 8205,
+      "prix_base": 5047400,
+      "name": "R\u00e9frig\u00e9rateur s\u00e9rie RT46K6600S9/EF 460 L",
+      "prix_comparaison": 5266800,
+      "variation": 219400
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4669,
-      "prix_base": 4400,
-      "name": "Marqueur permanent biseaut\u00e9 350",
-      "prix_comparaison": 4500,
-      "variation": 100
+      "list_id": 1999,
+      "prix_base": 11700,
+      "name": "Jus De Fruit Guava 1L",
+      "prix_comparaison": 10500,
+      "variation": -1200
     },
     {
-      "list_id": 7317,
-      "prix_base": 5000,
-      "name": "M\u00e8tre ruban",
-      "prix_comparaison": 5100,
-      "variation": 100
+      "list_id": 1996,
+      "prix_base": 11700,
+      "name": "Jus De Fruit Pomme 1 L",
+      "prix_comparaison": 10500,
+      "variation": -1200
     },
     {
-      "list_id": 7165,
-      "prix_base": 3800,
-      "name": "Alkaline Battery AA LR6 2",
-      "prix_comparaison": 3900,
-      "variation": 100
+      "list_id": 8672,
+      "prix_base": 11700,
+      "name": "P\u00e2tes Farfalle 500 g",
+      "prix_comparaison": 10800,
+      "variation": -900
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 11446,
-      "name": "D\u00e9odorant au Tiar\u00e9 & Mono\u00ef 200 ml",
-      "prix_base": 11000,
-      "prix_comparaison": 14200,
-      "indice_prix": 129.0909090909091
+      "list_id": 10673,
+      "name": "Brocoli 500 g",
+      "prix_base": 5900,
+      "prix_comparaison": 7500,
+      "indice_prix": 127.11864406779661
     },
     {
-      "list_id": 11898,
-      "name": "Echalote 30 g",
-      "prix_base": 5500,
-      "prix_comparaison": 6800,
-      "indice_prix": 123.63636363636364
+      "list_id": 13009,
+      "name": "Poudre de cacao 32% 800 g",
+      "prix_base": 37900,
+      "prix_comparaison": 45800,
+      "indice_prix": 120.84432717678101
     },
     {
-      "list_id": 11094,
-      "name": "10 Rasoirs jetables Technic 2 lames",
-      "prix_base": 10600,
-      "prix_comparaison": 13100,
-      "indice_prix": 123.58490566037736
+      "list_id": 10674,
+      "name": "Chou-fleur 1 pi\u00e8ce",
+      "prix_base": 5900,
+      "prix_comparaison": 7100,
+      "indice_prix": 120.33898305084746
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 7317,
-      "name": "M\u00e8tre ruban",
-      "prix_base": 5000,
-      "prix_comparaison": 5100,
-      "indice_prix": 102.0
+      "list_id": 3044,
+      "name": "Jus De Fruit Mango 200 Ml",
+      "prix_base": 3200,
+      "prix_comparaison": 2800,
+      "indice_prix": 87.5
     },
     {
-      "list_id": 4669,
-      "name": "Marqueur permanent biseaut\u00e9 350",
-      "prix_base": 4400,
-      "prix_comparaison": 4500,
-      "indice_prix": 102.27272727272727
+      "list_id": 3048,
+      "name": "Jus De Fruit Red Grape 200 Ml",
+      "prix_base": 3200,
+      "prix_comparaison": 2800,
+      "indice_prix": 87.5
     },
     {
-      "list_id": 7165,
-      "name": "Alkaline Battery AA LR6 2",
-      "prix_base": 3800,
-      "prix_comparaison": 3900,
-      "indice_prix": 102.63157894736842
+      "list_id": 3045,
+      "name": "Jus Medley 200 Ml",
+      "prix_base": 3200,
+      "prix_comparaison": 2800,
+      "indice_prix": 87.5
     }
   ]
 }
