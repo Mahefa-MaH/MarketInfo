@@ -1,66 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "pates_9111coquillettesprimo500g_html",
-      "name": "Coquillettes Primo 500g",
-      "prix_base": 3100,
-      "prix_comparaison": 2945,
-      "variation": -155
+      "cle": "coiffure_13988remingtons5525feralisserlisseurplaquesflottantesxladvancedceramictemperaturemodulablelissagefacile_html",
+      "name": "Remington S5525 Fer a Lisser, Lisseur Plaques Flottantes XL Advanced Ceramic, Temp\u00e9rature Modulable, Lissage Facile",
+      "prix_base": 248000,
+      "prix_comparaison": 251000,
+      "variation": 3000
     },
     {
-      "cle": "cornichonsolivescondiments_13176olivesvertesalafarcedanchois120gboutondor_html",
-      "name": "Olives vertes \u00e0 la farce d'anchois 120g",
-      "prix_base": 5500,
-      "prix_comparaison": 5225,
-      "variation": -275
+      "cle": "coiffure_13989remingtons8540feralisserlisseurkeratinprotectplaquesflottantesadvancedceramicsoinkeratinehuiledamande_html",
+      "name": "Remington S8540 Fer a lisser, Lisseur Keratin Protect, Plaques Flottantes Advanced Ceramic, Soin K\u00e9ratine Huile d'Amande",
+      "prix_base": 208000,
+      "prix_comparaison": 210000,
+      "variation": 2000
+    },
+    {
+      "cle": "coiffure_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
+      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
+      "prix_base": 384000,
+      "prix_comparaison": 385000,
+      "variation": 1000
+    },
+    {
+      "cle": "rasagehomme_14002babylisstondeusecheveuxe695ebleu_html",
+      "name": "BABYLISS Tondeuse cheveux E695E - Bleu",
+      "prix_base": 162000,
+      "prix_comparaison": 161000,
+      "variation": -1000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "cafesolublechicoreecappuccino_10248cafesolubleselectionnormal200g_html",
-      "name": "Caf\u00e9 soluble s\u00e9lection normal 200g",
-      "prix_base": 59000,
-      "prix_comparaison": 56050,
-      "variation": -2950
+      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
+      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
+      "prix_base": 1514000,
+      "prix_comparaison": 1370000,
+      "variation": -144000
     },
     {
-      "cle": "cafesolublechicoreecappuccino_10253cafeviennois18tassesenboite306g_html",
-      "name": "Caf\u00e9 viennois 18 tasses en boite 306g",
-      "prix_base": 44500,
-      "prix_comparaison": 42275,
-      "variation": -2225
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2253000,
+      "prix_comparaison": 2246000,
+      "variation": -7000
+    },
+    {
+      "cle": "rasagehomme_14002babylisstondeusecheveuxe695ebleu_html",
+      "name": "BABYLISS Tondeuse cheveux E695E - Bleu",
+      "prix_base": 162000,
+      "prix_comparaison": 161000,
+      "variation": -1000
+    },
+    {
+      "cle": "coiffure_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
+      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
+      "prix_base": 384000,
+      "prix_comparaison": 385000,
+      "variation": 1000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "pates_9111coquillettesprimo500g_html",
-      "name": "Coquillettes Primo 500g",
-      "prix_base": 3100,
-      "prix_comparaison": 2945,
-      "indice_prix": 95.0
+      "cle": "coiffure_13988remingtons5525feralisserlisseurplaquesflottantesxladvancedceramictemperaturemodulablelissagefacile_html",
+      "name": "Remington S5525 Fer a Lisser, Lisseur Plaques Flottantes XL Advanced Ceramic, Temp\u00e9rature Modulable, Lissage Facile",
+      "prix_base": 248000,
+      "prix_comparaison": 251000,
+      "indice_prix": 101.20967741935483
     },
     {
-      "cle": "biscottespainsgrilles_6046biscottes750g_html",
-      "name": "Biscottes 750g",
-      "prix_base": 23900,
-      "prix_comparaison": 22705,
-      "indice_prix": 95.0
+      "cle": "coiffure_13989remingtons8540feralisserlisseurkeratinprotectplaquesflottantesadvancedceramicsoinkeratinehuiledamande_html",
+      "name": "Remington S8540 Fer a lisser, Lisseur Keratin Protect, Plaques Flottantes Advanced Ceramic, Soin K\u00e9ratine Huile d'Amande",
+      "prix_base": 208000,
+      "prix_comparaison": 210000,
+      "indice_prix": 100.96153846153847
+    },
+    {
+      "cle": "coiffure_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
+      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
+      "prix_base": 384000,
+      "prix_comparaison": 385000,
+      "indice_prix": 100.26041666666667
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2253000,
+      "prix_comparaison": 2246000,
+      "indice_prix": 99.68930315135376
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "biscuitschocolatesfruites_13813tartelettesgoutfraise200gtopbudget_html",
-      "name": "Tartelettes go\u00fbt fraise 200g",
-      "prix_base": 7900,
-      "prix_comparaison": 5900,
-      "indice_prix": 74.68354430379746
+      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
+      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
+      "prix_base": 1514000,
+      "prix_comparaison": 1370000,
+      "indice_prix": 90.4887714663144
     },
     {
-      "cle": "gaufresetcrepes_1480rollbreakcremedefraise80g_html",
-      "name": "Rouleaux de gaufrettes cr\u00e8me de fraise 80g",
-      "prix_base": 8990,
-      "prix_comparaison": 8540,
-      "indice_prix": 94.9944382647386
+      "cle": "rasagehomme_14002babylisstondeusecheveuxe695ebleu_html",
+      "name": "BABYLISS Tondeuse cheveux E695E - Bleu",
+      "prix_base": 162000,
+      "prix_comparaison": 161000,
+      "indice_prix": 99.38271604938272
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2253000,
+      "prix_comparaison": 2246000,
+      "indice_prix": 99.68930315135376
+    },
+    {
+      "cle": "coiffure_14335lisseurvapeursaintalguedemelisstitaniumtechnologievapeurultrapuissanteavecreservoirintegre_html",
+      "name": "Lisseur vapeur - SAINT ALGUE - Demeliss TITANIUM - Technologie vapeur ultra puissante avec r\u00e9servoir int\u00e9gr\u00e9",
+      "prix_base": 384000,
+      "prix_comparaison": 385000,
+      "indice_prix": 100.26041666666667
     }
   ]
 }

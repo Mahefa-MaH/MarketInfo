@@ -1,34 +1,160 @@
 {
   "Variation de prix": [
     {
-      "list_id": 11391,
-      "name": "D\u00e9odorant \u00e0 bille au Tiar\u00e9 & Mono\u00ef 50 ml",
-      "prix_base": 8300,
-      "prix_comparaison": 9800,
-      "variation": 1500
+      "list_id": 9995,
+      "name": "Biscuit Sucr\u00e9 Saveur Lait 350 g",
+      "prix_base": 8000,
+      "prix_comparaison": 7200,
+      "variation": -800
     },
     {
-      "list_id": 11446,
-      "name": "D\u00e9odorant au Tiar\u00e9 & Mono\u00ef 200 ml",
-      "prix_base": 11000,
-      "prix_comparaison": 14200,
-      "variation": 3200
+      "list_id": 10002,
+      "name": "Biscuit Sucr\u00e9 Vanilla Sandwich Cookie 37 g",
+      "prix_base": 700,
+      "prix_comparaison": 800,
+      "variation": 100
+    },
+    {
+      "list_id": 8267,
+      "name": "Sucre rouge 1 kg",
+      "prix_base": 5200,
+      "prix_comparaison": 5682,
+      "variation": 482
+    },
+    {
+      "list_id": 8675,
+      "name": "Ketchup All\u00e9g\u00e9e 50% de sucre en moins 540 g",
+      "prix_base": 13100,
+      "prix_comparaison": 13700,
+      "variation": 600
+    },
+    {
+      "list_id": 8678,
+      "name": "C\u00e9r\u00e9ales Corn Flakes Equilibrio 0% Sucre 375 g",
+      "prix_base": 16600,
+      "prix_comparaison": 17300,
+      "variation": 700
+    },
+    {
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9300,
+      "prix_comparaison": 10200,
+      "variation": 900
+    },
+    {
+      "list_id": 8108,
+      "name": "D\u00e9odorant figue bio 50 ml",
+      "prix_base": 27500,
+      "prix_comparaison": 30100,
+      "variation": 2600
+    },
+    {
+      "list_id": 12004,
+      "name": "Tablette de chocolat avec Cr\u00e8me Caramel 87 g x36",
+      "prix_base": 175200,
+      "prix_comparaison": 182900,
+      "variation": 7700
+    },
+    {
+      "list_id": 8258,
+      "name": "Cuiseur \u00e0 riz HD3038/56 500 W",
+      "prix_base": 564100,
+      "prix_comparaison": 588600,
+      "variation": 24500
+    },
+    {
+      "list_id": 8304,
+      "name": "Friteuse sans huile HD9252/90 1400 W",
+      "prix_base": 905600,
+      "prix_comparaison": 945000,
+      "variation": 39400
+    },
+    {
+      "list_id": 8260,
+      "name": "Friteuse sans huile XL W HD9270/90 2000 W",
+      "prix_base": 960500,
+      "prix_comparaison": 1002300,
+      "variation": 41800
     }
   ],
   "indice de prix": [
     {
-      "list_id": 11391,
-      "name": "D\u00e9odorant \u00e0 bille au Tiar\u00e9 & Mono\u00ef 50 ml",
-      "prix_base": 8300,
-      "prix_comparaison": 9800,
-      "indice_prix": 118.07228915662651
+      "list_id": 9995,
+      "name": "Biscuit Sucr\u00e9 Saveur Lait 350 g",
+      "prix_base": 8000,
+      "prix_comparaison": 7200,
+      "indice_prix": 90.0
     },
     {
-      "list_id": 11446,
-      "name": "D\u00e9odorant au Tiar\u00e9 & Mono\u00ef 200 ml",
-      "prix_base": 11000,
-      "prix_comparaison": 14200,
-      "indice_prix": 129.0909090909091
+      "list_id": 8678,
+      "name": "C\u00e9r\u00e9ales Corn Flakes Equilibrio 0% Sucre 375 g",
+      "prix_base": 16600,
+      "prix_comparaison": 17300,
+      "indice_prix": 104.21686746987952
+    },
+    {
+      "list_id": 8258,
+      "name": "Cuiseur \u00e0 riz HD3038/56 500 W",
+      "prix_base": 564100,
+      "prix_comparaison": 588600,
+      "indice_prix": 104.34320156000709
+    },
+    {
+      "list_id": 8304,
+      "name": "Friteuse sans huile HD9252/90 1400 W",
+      "prix_base": 905600,
+      "prix_comparaison": 945000,
+      "indice_prix": 104.35070671378092
+    },
+    {
+      "list_id": 8260,
+      "name": "Friteuse sans huile XL W HD9270/90 2000 W",
+      "prix_base": 960500,
+      "prix_comparaison": 1002300,
+      "indice_prix": 104.35190005205622
+    },
+    {
+      "list_id": 12004,
+      "name": "Tablette de chocolat avec Cr\u00e8me Caramel 87 g x36",
+      "prix_base": 175200,
+      "prix_comparaison": 182900,
+      "indice_prix": 104.39497716894977
+    },
+    {
+      "list_id": 8675,
+      "name": "Ketchup All\u00e9g\u00e9e 50% de sucre en moins 540 g",
+      "prix_base": 13100,
+      "prix_comparaison": 13700,
+      "indice_prix": 104.58015267175573
+    },
+    {
+      "list_id": 8267,
+      "name": "Sucre rouge 1 kg",
+      "prix_base": 5200,
+      "prix_comparaison": 5682,
+      "indice_prix": 109.26923076923077
+    },
+    {
+      "list_id": 8108,
+      "name": "D\u00e9odorant figue bio 50 ml",
+      "prix_base": 27500,
+      "prix_comparaison": 30100,
+      "indice_prix": 109.45454545454545
+    },
+    {
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9300,
+      "prix_comparaison": 10200,
+      "indice_prix": 109.6774193548387
+    },
+    {
+      "list_id": 10002,
+      "name": "Biscuit Sucr\u00e9 Vanilla Sandwich Cookie 37 g",
+      "prix_base": 700,
+      "prix_comparaison": 800,
+      "indice_prix": 114.28571428571429
     }
   ]
 }

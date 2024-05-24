@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
+      "list_id": 13304,
+      "name": "Riz Rouge (Vary mena) 50kg",
+      "prix_base": 240000,
+      "prix_comparaison": 240000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 8267,
       "name": "Sucre rouge 1 kg",
       "prix_base": 5200,
-      "prix_comparaison": 5200,
-      "variation": 0,
-      "indice_prix": 100.0
+      "prix_comparaison": 5682,
+      "variation": 482,
+      "indice_prix": 109.26923076923077
     },
     {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 11107,
-      "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
-      "prix_base": 184000,
-      "prix_comparaison": 184000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9300,
+      "prix_comparaison": 10200,
+      "variation": 900,
+      "indice_prix": 109.6774193548387
     }
   ]
 }
