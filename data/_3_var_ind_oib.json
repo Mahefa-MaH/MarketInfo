@@ -6,27 +6,6 @@
       "prix_base": 3291000,
       "prix_comparaison": 3654000,
       "variation": 363000
-    },
-    {
-      "cle": "robotmultifonctions_14024robotmultifonctionkenwoodmultiprocompactfdm301ssinox_html",
-      "name": "Robot multifonction KENWOOD MultiPro Compact FDM301SS - Inox",
-      "prix_base": 771000,
-      "prix_comparaison": 837000,
-      "variation": 66000
-    },
-    {
-      "cle": "centralevapeurdefroisseur_14031arthurmartinamp467centralevapeur55bars2200wcuve14ldebitvapeur140gmin_html",
-      "name": "ARTHUR MARTIN AMP467 - Centrale Vapeur - 5.5 BARS - 2200W - Cuve 1,4 L - D\u00e9bit vapeur 140 g/min",
-      "prix_base": 609000,
-      "prix_comparaison": 641000,
-      "variation": 32000
-    },
-    {
-      "cle": "tablettestactilesliseuses_14628tablettetactiletcltab10gen2104ram4gostockage64gowifigrisfonc_html",
-      "name": "Tablette Tactile - TCL - TAB 10 GEN 2 - 10,4 - RAM 4 Go - Stockage 64 Go - Wifi - Gris fonc",
-      "prix_base": 950000,
-      "prix_comparaison": 959000,
-      "variation": 9000
     }
   ],
   "prix_diminues": [
@@ -36,27 +15,6 @@
       "prix_base": 1514000,
       "prix_comparaison": 1370000,
       "variation": -144000
-    },
-    {
-      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
-      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
-      "prix_base": 2253000,
-      "prix_comparaison": 2246000,
-      "variation": -7000
-    },
-    {
-      "cle": "robotmultifonctions_14020robotboschmcm3100wblancmultifonction_html",
-      "name": "Robot BOSCH MCM3100W - Blanc - Multifonction",
-      "prix_base": 518000,
-      "prix_comparaison": 511000,
-      "variation": -7000
-    },
-    {
-      "cle": "rasagehomme_14002babylisstondeusecheveuxe695ebleu_html",
-      "name": "BABYLISS Tondeuse cheveux E695E - Bleu",
-      "prix_base": 162000,
-      "prix_comparaison": 161000,
-      "variation": -1000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,27 +24,6 @@
       "prix_base": 3291000,
       "prix_comparaison": 3654000,
       "indice_prix": 111.03008204193254
-    },
-    {
-      "cle": "robotmultifonctions_14024robotmultifonctionkenwoodmultiprocompactfdm301ssinox_html",
-      "name": "Robot multifonction KENWOOD MultiPro Compact FDM301SS - Inox",
-      "prix_base": 771000,
-      "prix_comparaison": 837000,
-      "indice_prix": 108.56031128404669
-    },
-    {
-      "cle": "centralevapeurdefroisseur_14031arthurmartinamp467centralevapeur55bars2200wcuve14ldebitvapeur140gmin_html",
-      "name": "ARTHUR MARTIN AMP467 - Centrale Vapeur - 5.5 BARS - 2200W - Cuve 1,4 L - D\u00e9bit vapeur 140 g/min",
-      "prix_base": 609000,
-      "prix_comparaison": 641000,
-      "indice_prix": 105.25451559934318
-    },
-    {
-      "cle": "jeuxvideo_14603godofwarplaystationhitsjeups4_html",
-      "name": "God Of War PlayStation Hits Jeu PS4",
-      "prix_base": 140000,
-      "prix_comparaison": 144000,
-      "indice_prix": 102.85714285714286
     }
   ],
   "indices_prix_plus_faibles": [
@@ -96,27 +33,6 @@
       "prix_base": 3200,
       "prix_comparaison": 2490,
       "indice_prix": 77.8125
-    },
-    {
-      "cle": "protectionshygienefeminine_15318serviettehygieniquenormalx10_html",
-      "name": "Serviette hygi\u00e9nique normal x10",
-      "prix_base": 3200,
-      "prix_comparaison": 2490,
-      "indice_prix": 77.8125
-    },
-    {
-      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
-      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
-      "prix_base": 1514000,
-      "prix_comparaison": 1370000,
-      "indice_prix": 90.4887714663144
-    },
-    {
-      "cle": "robotmultifonctions_14020robotboschmcm3100wblancmultifonction_html",
-      "name": "Robot BOSCH MCM3100W - Blanc - Multifonction",
-      "prix_base": 518000,
-      "prix_comparaison": 511000,
-      "indice_prix": 98.64864864864865
     }
   ]
 }
