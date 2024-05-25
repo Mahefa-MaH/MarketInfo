@@ -1,25 +1,25 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 8356,
-      "prix_base": 18200,
-      "name": "Lait concentr\u00e9 sucr\u00e9 gourmand 1kg",
-      "prix_comparaison": 19800,
-      "variation": 1600
+      "list_id": 8404,
+      "prix_base": 3156800,
+      "name": "Billard SZX P02 8 Pieds",
+      "prix_comparaison": 3294000,
+      "variation": 137200
     },
     {
-      "list_id": 8351,
-      "prix_base": 11100,
-      "name": "Savon barre Citron maxi 780 g",
-      "prix_comparaison": 11600,
-      "variation": 500
+      "list_id": 8403,
+      "prix_base": 2846300,
+      "name": "Billard SZX P02 7 pieds",
+      "prix_comparaison": 2970000,
+      "variation": 123700
     },
     {
-      "list_id": 8346,
-      "prix_base": 3500,
-      "name": "Bonbons Mini Super Frites PIK 40 g",
-      "prix_comparaison": 3600,
-      "variation": 100
+      "list_id": 8414,
+      "prix_base": 797500,
+      "name": "Chaise 1937HBK Assise tissu et dossier",
+      "prix_comparaison": 870000,
+      "variation": 72500
     }
   ],
   "prix_diminues": [
@@ -31,11 +31,11 @@
       "variation": 100
     },
     {
-      "list_id": 8351,
-      "prix_base": 11100,
-      "name": "Savon barre Citron maxi 780 g",
-      "prix_comparaison": 11600,
-      "variation": 500
+      "list_id": 8436,
+      "prix_base": 19500,
+      "name": "Inhalateur 19 HE Respiratoire 1 ml",
+      "prix_comparaison": 20400,
+      "variation": 900
     },
     {
       "list_id": 8356,
@@ -47,25 +47,25 @@
   ],
   "indices_prix_plus_eleves": [
     {
+      "list_id": 8414,
+      "name": "Chaise 1937HBK Assise tissu et dossier",
+      "prix_base": 797500,
+      "prix_comparaison": 870000,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 8413,
+      "name": "Chaise 1001B Tissu",
+      "prix_base": 550000,
+      "prix_comparaison": 600000,
+      "indice_prix": 109.0909090909091
+    },
+    {
       "list_id": 8356,
       "name": "Lait concentr\u00e9 sucr\u00e9 gourmand 1kg",
       "prix_base": 18200,
       "prix_comparaison": 19800,
       "indice_prix": 108.79120879120879
-    },
-    {
-      "list_id": 8351,
-      "name": "Savon barre Citron maxi 780 g",
-      "prix_base": 11100,
-      "prix_comparaison": 11600,
-      "indice_prix": 104.50450450450451
-    },
-    {
-      "list_id": 8346,
-      "name": "Bonbons Mini Super Frites PIK 40 g",
-      "prix_base": 3500,
-      "prix_comparaison": 3600,
-      "indice_prix": 102.85714285714286
     }
   ],
   "indices_prix_plus_faibles": [
@@ -77,18 +77,18 @@
       "indice_prix": 102.85714285714286
     },
     {
-      "list_id": 8351,
-      "name": "Savon barre Citron maxi 780 g",
-      "prix_base": 11100,
-      "prix_comparaison": 11600,
-      "indice_prix": 104.50450450450451
+      "list_id": 8449,
+      "name": "Chaise 5033 Assise tissu",
+      "prix_base": 905100,
+      "prix_comparaison": 944400,
+      "indice_prix": 104.34206165064634
     },
     {
-      "list_id": 8356,
-      "name": "Lait concentr\u00e9 sucr\u00e9 gourmand 1kg",
-      "prix_base": 18200,
-      "prix_comparaison": 19800,
-      "indice_prix": 108.79120879120879
+      "list_id": 8450,
+      "name": "Chaise 5033 Assise tissu",
+      "prix_base": 905100,
+      "prix_comparaison": 944400,
+      "indice_prix": 104.34206165064634
     }
   ]
 }
