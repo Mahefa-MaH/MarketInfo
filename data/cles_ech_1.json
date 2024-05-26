@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_huilesoja1l_",
-      "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
-      "prix_base": 10210,
-      "prix_comparaison": 10210,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "produit_rizblancmakaliokakapoakavrac_",
       "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
       "prix_base": 4170,
@@ -21,6 +13,14 @@
       "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
       "prix_base": 21750,
       "prix_comparaison": 21750,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 106250,
+      "prix_comparaison": 106250,
       "variation": 0,
       "indice_prix": 100.0
     }
