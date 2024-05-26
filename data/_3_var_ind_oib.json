@@ -1,11 +1,11 @@
 {
   "prix_augmentes": [
     {
-      "cle": "lessiveliquide_3171lessiveliquidemaxxlingesblancsetcoloresbleu1l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 1L",
-      "prix_base": 6990,
-      "prix_comparaison": 7900,
-      "variation": 910
+      "cle": "huiles_6226huiledetournesol1l_html",
+      "name": "Huile de tournesol 1L",
+      "prix_base": 10900,
+      "prix_comparaison": 12500,
+      "variation": 1600
     }
   ],
   "prix_diminues": [
@@ -19,11 +19,11 @@
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "lessiveliquide_3171lessiveliquidemaxxlingesblancsetcoloresbleu1l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 1L",
-      "prix_base": 6990,
-      "prix_comparaison": 7900,
-      "indice_prix": 113.01859799713877
+      "cle": "cremessoinsducorps_15126cremehydratantevisageetcorpsauconcombre300ml_html",
+      "name": "Gommage visage et corps au concombre 300ml",
+      "prix_base": 7900,
+      "prix_comparaison": 9500,
+      "indice_prix": 120.25316455696202
     }
   ],
   "indices_prix_plus_faibles": [

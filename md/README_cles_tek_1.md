@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucrettes blanches  50 g**
-   - Prix avant: 6,300 Ar
-   - Prix actuel: 6,300 Ar
+3. **Sucre Blanc Cristallisé 1 Kg**
+   - Prix avant: 7,900 Ar
+   - Prix actuel: 7,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
