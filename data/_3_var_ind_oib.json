@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
-      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
-      "prix_base": 3291000,
-      "prix_comparaison": 3654000,
-      "variation": 363000
+      "cle": "lessiveliquide_3171lessiveliquidemaxxlingesblancsetcoloresbleu1l_html",
+      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 1L",
+      "prix_base": 6990,
+      "prix_comparaison": 7900,
+      "variation": 910
     }
   ],
   "prix_diminues": [
     {
-      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
-      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
-      "prix_base": 1514000,
-      "prix_comparaison": 1370000,
-      "variation": -144000
+      "cle": "lessiveliquide_3171lessiveliquidemaxxlingesblancsetcoloresbleu1l_html",
+      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 1L",
+      "prix_base": 6990,
+      "prix_comparaison": 7900,
+      "variation": 910
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
-      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
-      "prix_base": 3291000,
-      "prix_comparaison": 3654000,
-      "indice_prix": 111.03008204193254
+      "cle": "lessiveliquide_3171lessiveliquidemaxxlingesblancsetcoloresbleu1l_html",
+      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 1L",
+      "prix_base": 6990,
+      "prix_comparaison": 7900,
+      "indice_prix": 113.01859799713877
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "protectionshygienefeminine_15319serviettehygieniqueclassiquex8_html",
-      "name": "Serviette hygi\u00e9nique classique x8",
-      "prix_base": 3200,
-      "prix_comparaison": 2490,
-      "indice_prix": 77.8125
+      "cle": "lessiveliquide_3171lessiveliquidemaxxlingesblancsetcoloresbleu1l_html",
+      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 1L",
+      "prix_base": 6990,
+      "prix_comparaison": 7900,
+      "indice_prix": 113.01859799713877
     }
   ]
 }

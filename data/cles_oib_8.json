@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "sucres_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 8600,
-      "prix_comparaison": 8600,
+      "cle": "riz_7289rizblancdeitasy5kg_html",
+      "name": "Riz blanc de l'Itasy 5kg",
+      "prix_base": 18400,
+      "prix_comparaison": 18400,
       "variation": 0,
       "indice_prix": 100.0
     }

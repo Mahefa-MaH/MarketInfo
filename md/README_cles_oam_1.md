@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **SAMSUNG 85AU7172 - TV LED 85 (214 cm) - Crystal UHD Processor - 4K UHD 3840 x 2160 - Smart TV - 3 x HDMI**
-   - Prix avant: 11,390,000 Ar
-   - Prix actuel: 11,390,000 Ar
+1. **Ensemble relaxation électrique PHYSIOMAX - matelas + sommiers 2x90x200 cm - Ressorts ensachés - DEKO DREAM ERGO 6**
+   - Prix avant: 11,560,000 Ar
+   - Prix actuel: 11,560,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **générateur electrique portable DELTA Pro, 3600Wh , 4 sortie CA - 3600 W au total (surtension 7200 W)**
-   - Prix avant: 22,195,000 Ar
-   - Prix actuel: 22,195,000 Ar
+2. **Ensemble relaxation électrique PHYSIOMAX - matelas + sommiers 2x80x200 cm - Ressorts ensachés - DEKO DREAM ERGO 6**
+   - Prix avant: 10,603,000 Ar
+   - Prix actuel: 10,603,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **générateur electrique portable DELTA Max (1600), 1612Wh, 4 sortie CA - 2000 W au total (surtension 4600 W)**
-   - Prix avant: 10,471,000 Ar
-   - Prix actuel: 10,471,000 Ar
+3. **Ensemble matelas + sommiers relaxation électrique - 2x90x200 cm - Matelas ressorts ensachés - ERGO 9 Dreamzone - DEKO DREAM**
+   - Prix avant: 11,247,000 Ar
+   - Prix actuel: 11,247,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
