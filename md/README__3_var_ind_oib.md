@@ -17,16 +17,6 @@
    - Prix actuel: 11,000 Ar
    - Variation: +1,500 Ar
 
-4. **Body lotion doux pur aloe vera 400ml**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 11,000 Ar
-   - Variation: +1,500 Ar
-
-5. **Body lotion au miel et aux amandes 400ml**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 11,000 Ar
-   - Variation: +1,500 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Lessive liquide maxx linges blancs et colorés bleu 1L**
@@ -40,16 +30,6 @@
    - Variation: +1,500 Ar
 
 3. **Body lotion au miel et aux amandes 400ml**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 11,000 Ar
-   - Variation: +1,500 Ar
-
-4. **Body lotion doux pur aloe vera 400ml**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 11,000 Ar
-   - Variation: +1,500 Ar
-
-5. **Body lotion men intensive care express 400ml**
    - Prix avant: 9,500 Ar
    - Prix actuel: 11,000 Ar
    - Variation: +1,500 Ar
@@ -71,16 +51,6 @@
    - Prix actuel: 11,000 Ar
    - Indice de prix : 115.79
 
-4. **Body lotion au miel et aux amandes 400ml**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 11,000 Ar
-   - Indice de prix : 115.79
-
-5. **Body lotion au beurre de karité 400ml**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 11,000 Ar
-   - Indice de prix : 115.79
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Lessive liquide maxx linges blancs et colorés bleu 1L**
@@ -94,16 +64,6 @@
    - Indice de prix : 114.68
 
 3. **Body lotion au beurre de karité 400ml**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 11,000 Ar
-   - Indice de prix : 115.79
-
-4. **Body lotion au miel et aux amandes 400ml**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 11,000 Ar
-   - Indice de prix : 115.79
-
-5. **Body lotion doux pur aloe vera 400ml**
    - Prix avant: 9,500 Ar
    - Prix actuel: 11,000 Ar
    - Indice de prix : 115.79

@@ -20,20 +20,6 @@
       "prix_base": 9500,
       "prix_comparaison": 11000,
       "variation": 1500
-    },
-    {
-      "cle": "cremessoinsducorps_15122bodylotiondouxpuraloevera400ml_html",
-      "name": "Body lotion doux pur aloe vera 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "variation": 1500
-    },
-    {
-      "cle": "cremessoinsducorps_15121bodylotionaumieletauxamandes400ml_html",
-      "name": "Body lotion au miel et aux amandes 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "variation": 1500
     }
   ],
   "prix_diminues": [
@@ -54,20 +40,6 @@
     {
       "cle": "cremessoinsducorps_15121bodylotionaumieletauxamandes400ml_html",
       "name": "Body lotion au miel et aux amandes 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "variation": 1500
-    },
-    {
-      "cle": "cremessoinsducorps_15122bodylotiondouxpuraloevera400ml_html",
-      "name": "Body lotion doux pur aloe vera 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "variation": 1500
-    },
-    {
-      "cle": "cremessoinsducorps_15120bodylotionmenintensivecareexpresshydratation400ml_html",
-      "name": "Body lotion men intensive care express 400ml",
       "prix_base": 9500,
       "prix_comparaison": 11000,
       "variation": 1500
@@ -94,20 +66,6 @@
       "prix_base": 9500,
       "prix_comparaison": 11000,
       "indice_prix": 115.78947368421052
-    },
-    {
-      "cle": "cremessoinsducorps_15121bodylotionaumieletauxamandes400ml_html",
-      "name": "Body lotion au miel et aux amandes 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "indice_prix": 115.78947368421052
-    },
-    {
-      "cle": "cremessoinsducorps_15125bodylotionaubeurredekarite400ml_html",
-      "name": "Body lotion au beurre de karit\u00e9 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "indice_prix": 115.78947368421052
     }
   ],
   "indices_prix_plus_faibles": [
@@ -128,20 +86,6 @@
     {
       "cle": "cremessoinsducorps_15125bodylotionaubeurredekarite400ml_html",
       "name": "Body lotion au beurre de karit\u00e9 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "indice_prix": 115.78947368421052
-    },
-    {
-      "cle": "cremessoinsducorps_15121bodylotionaumieletauxamandes400ml_html",
-      "name": "Body lotion au miel et aux amandes 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "indice_prix": 115.78947368421052
-    },
-    {
-      "cle": "cremessoinsducorps_15122bodylotiondouxpuraloevera400ml_html",
-      "name": "Body lotion doux pur aloe vera 400ml",
       "prix_base": 9500,
       "prix_comparaison": 11000,
       "indice_prix": 115.78947368421052
