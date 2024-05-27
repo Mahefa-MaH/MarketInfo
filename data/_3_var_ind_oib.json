@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "huiles_6226huiledetournesol1l_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 10900,
-      "prix_comparaison": 12500,
-      "variation": 1600
+      "cle": "huiles_6227huiledetournesol5l_html",
+      "name": "Huile de tournesol 5L",
+      "prix_base": 54000,
+      "prix_comparaison": 82000,
+      "variation": 28000
     },
     {
-      "cle": "cremessoinsducorps_15126cremehydratantevisageetcorpsauconcombre300ml_html",
-      "name": "Gommage visage et corps au concombre 300ml",
-      "prix_base": 7900,
-      "prix_comparaison": 9500,
-      "variation": 1600
-    },
-    {
-      "cle": "cremessoinsducorps_15120bodylotionmenintensivecareexpresshydratation400ml_html",
-      "name": "Body lotion men intensive care express 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "variation": 1500
+      "cle": "lessiveenpoudreettablette_3541lessiveenpoudreensacblancetcouleur10kg_html",
+      "name": "Lessive en poudre en sac blanc et couleur 10kg",
+      "prix_base": 69000,
+      "prix_comparaison": 77900,
+      "variation": 8900
     }
   ],
   "prix_diminues": [
     {
-      "cle": "lessiveliquide_3171lessiveliquidemaxxlingesblancsetcoloresbleu1l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 1L",
-      "prix_base": 6990,
-      "prix_comparaison": 7900,
-      "variation": 910
+      "cle": "savonsdetoilettes_15338savondetoilettecamaieufloral70g_html",
+      "name": "Savon de toilette cama\u00efeu floral vao lux 70g",
+      "prix_base": 890,
+      "prix_comparaison": 1090,
+      "variation": 200
     },
     {
-      "cle": "cremessoinsducorps_15125bodylotionaubeurredekarite400ml_html",
-      "name": "Body lotion au beurre de karit\u00e9 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "variation": 1500
-    },
-    {
-      "cle": "cremessoinsducorps_15121bodylotionaumieletauxamandes400ml_html",
-      "name": "Body lotion au miel et aux amandes 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "variation": 1500
+      "cle": "savonsdetoilettes_15340savondetoilettecitronvertvaolux70g_html",
+      "name": "Savon de toilette citron vert vao lux 70g",
+      "prix_base": 890,
+      "prix_comparaison": 1090,
+      "variation": 200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cremessoinsducorps_15126cremehydratantevisageetcorpsauconcombre300ml_html",
-      "name": "Gommage visage et corps au concombre 300ml",
-      "prix_base": 7900,
-      "prix_comparaison": 9500,
-      "indice_prix": 120.25316455696202
+      "cle": "huiles_6227huiledetournesol5l_html",
+      "name": "Huile de tournesol 5L",
+      "prix_base": 54000,
+      "prix_comparaison": 82000,
+      "indice_prix": 151.85185185185185
     },
     {
-      "cle": "cremessoinsducorps_15120bodylotionmenintensivecareexpresshydratation400ml_html",
-      "name": "Body lotion men intensive care express 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "indice_prix": 115.78947368421052
-    },
-    {
-      "cle": "cremessoinsducorps_15122bodylotiondouxpuraloevera400ml_html",
-      "name": "Body lotion doux pur aloe vera 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "indice_prix": 115.78947368421052
+      "cle": "deodorants_15316deodorantspraysoftandcontrolfreshjasmin200ml_html",
+      "name": "D\u00e9odorant spray soft and control fresh jasmin 200ml",
+      "prix_base": 12500,
+      "prix_comparaison": 18500,
+      "indice_prix": 148.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "lessiveliquide_3171lessiveliquidemaxxlingesblancsetcoloresbleu1l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 1L",
+      "cle": "lessiveenpoudreettablette_3541lessiveenpoudreensacblancetcouleur10kg_html",
+      "name": "Lessive en poudre en sac blanc et couleur 10kg",
+      "prix_base": 69000,
+      "prix_comparaison": 77900,
+      "indice_prix": 112.89855072463769
+    },
+    {
+      "cle": "lessiveliquide_3172lessiveliquidemaxxlingesblancsetcoloresvert1l_html",
+      "name": "Lessive liquide maxx linges blancs et color\u00e9s vert 1L",
       "prix_base": 6990,
       "prix_comparaison": 7900,
       "indice_prix": 113.01859799713877
-    },
-    {
-      "cle": "huiles_6226huiledetournesol1l_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 10900,
-      "prix_comparaison": 12500,
-      "indice_prix": 114.6788990825688
-    },
-    {
-      "cle": "cremessoinsducorps_15125bodylotionaubeurredekarite400ml_html",
-      "name": "Body lotion au beurre de karit\u00e9 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "indice_prix": 115.78947368421052
     }
   ]
 }

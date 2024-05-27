@@ -1,20 +1,76 @@
 {
   "Variation de prix": [
     {
-      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
-      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
-      "prix_base": 2253000,
-      "prix_comparaison": 2246000,
-      "variation": -7000
+      "cle": "hygienedesmains_9306cremelavanteamandedouce300ml_html",
+      "name": "Cr\u00e8me lavante amande douce 300ml",
+      "prix_base": 2900,
+      "prix_comparaison": 3850,
+      "variation": 950
+    },
+    {
+      "cle": "produitskibomoinsde5000ar_9305cremelavantemainsylangetvanille300ml_html",
+      "name": "Cr\u00e8me lavante mains Ylang et vanille 300ml",
+      "prix_base": 2900,
+      "prix_comparaison": 3850,
+      "variation": 950
+    },
+    {
+      "cle": "deodorants_15317deodorantspraygrapefruitandlychee200ml_html",
+      "name": "D\u00e9odorant spray grapefruit and lychee 200ml",
+      "prix_base": 12500,
+      "prix_comparaison": 18500,
+      "variation": 6000
+    },
+    {
+      "cle": "deodorants_5669deodorantcucumberetmelon200ml_html",
+      "name": "D\u00e9odorant Cucumber et Melon 200ml",
+      "prix_base": 12500,
+      "prix_comparaison": 18500,
+      "variation": 6000
+    },
+    {
+      "cle": "deodorants_15316deodorantspraysoftandcontrolfreshjasmin200ml_html",
+      "name": "D\u00e9odorant spray soft and control fresh jasmin 200ml",
+      "prix_base": 12500,
+      "prix_comparaison": 18500,
+      "variation": 6000
     }
   ],
   "indice de prix": [
     {
-      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
-      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
-      "prix_base": 2253000,
-      "prix_comparaison": 2246000,
-      "indice_prix": 99.68930315135376
+      "cle": "hygienedesmains_9306cremelavanteamandedouce300ml_html",
+      "name": "Cr\u00e8me lavante amande douce 300ml",
+      "prix_base": 2900,
+      "prix_comparaison": 3850,
+      "indice_prix": 132.75862068965517
+    },
+    {
+      "cle": "produitskibomoinsde5000ar_9305cremelavantemainsylangetvanille300ml_html",
+      "name": "Cr\u00e8me lavante mains Ylang et vanille 300ml",
+      "prix_base": 2900,
+      "prix_comparaison": 3850,
+      "indice_prix": 132.75862068965517
+    },
+    {
+      "cle": "deodorants_15317deodorantspraygrapefruitandlychee200ml_html",
+      "name": "D\u00e9odorant spray grapefruit and lychee 200ml",
+      "prix_base": 12500,
+      "prix_comparaison": 18500,
+      "indice_prix": 148.0
+    },
+    {
+      "cle": "deodorants_5669deodorantcucumberetmelon200ml_html",
+      "name": "D\u00e9odorant Cucumber et Melon 200ml",
+      "prix_base": 12500,
+      "prix_comparaison": 18500,
+      "indice_prix": 148.0
+    },
+    {
+      "cle": "deodorants_15316deodorantspraysoftandcontrolfreshjasmin200ml_html",
+      "name": "D\u00e9odorant spray soft and control fresh jasmin 200ml",
+      "prix_base": 12500,
+      "prix_comparaison": 18500,
+      "indice_prix": 148.0
     }
   ]
 }
