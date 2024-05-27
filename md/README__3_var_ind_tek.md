@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Billard SZX P02 8 Pieds**
-   - Prix avant: 3,156,800 Ar
-   - Prix actuel: 3,294,000 Ar
-   - Variation: +137,200 Ar
+1. **Table de réunion 420 cm**
+   - Prix avant: 8,690,000 Ar
+   - Prix actuel: 9,480,000 Ar
+   - Variation: +790,000 Ar
 
-2. **Billard SZX P02 7 pieds**
-   - Prix avant: 2,846,300 Ar
-   - Prix actuel: 2,970,000 Ar
-   - Variation: +123,700 Ar
+2. **Coffre fort 345 litres 2 portes**
+   - Prix avant: 5,016,000 Ar
+   - Prix actuel: 5,472,000 Ar
+   - Variation: +456,000 Ar
 
-3. **Chaise 1937HBK Assise tissu et dossier**
-   - Prix avant: 797,500 Ar
-   - Prix actuel: 870,000 Ar
-   - Variation: +72,500 Ar
+3. **Coffre fort 374 litres**
+   - Prix avant: 4,906,000 Ar
+   - Prix actuel: 5,352,000 Ar
+   - Variation: +446,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Bonbons Mini Super Frites PIK 40 g**
-   - Prix avant: 3,500 Ar
-   - Prix actuel: 3,600 Ar
-   - Variation: +100 Ar
+1. **jouet Mon premier microscope**
+   - Prix avant: 142,900 Ar
+   - Prix actuel: 138,100 Ar
+   - Variation: -4,800 Ar
 
-2. **Inhalateur 19 HE Respiratoire 1 ml**
-   - Prix avant: 19,500 Ar
-   - Prix actuel: 20,400 Ar
-   - Variation: +900 Ar
+2. **Nutella Biscuits 304 G**
+   - Prix avant: 43,200 Ar
+   - Prix actuel: 39,900 Ar
+   - Variation: -3,300 Ar
 
-3. **Lait concentré sucré gourmand 1kg**
-   - Prix avant: 18,200 Ar
-   - Prix actuel: 19,800 Ar
-   - Variation: +1,600 Ar
+3. **Raffaello 15 Pièces**
+   - Prix avant: 31,600 Ar
+   - Prix actuel: 29,200 Ar
+   - Variation: -2,400 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Chaise 1937HBK Assise tissu et dossier**
-   - Prix avant: 797,500 Ar
-   - Prix actuel: 870,000 Ar
-   - Indice de prix : 109.09
+1. **Couverture de chocolat blanc 34 % 1kg**
+   - Prix avant: 76,200 Ar
+   - Prix actuel: 141,900 Ar
+   - Indice de prix : 186.22
 
-2. **Chaise 1001B Tissu**
-   - Prix avant: 550,000 Ar
-   - Prix actuel: 600,000 Ar
-   - Indice de prix : 109.09
+2. **Couverture de chocolat au lait 38% 1kg**
+   - Prix avant: 72,000 Ar
+   - Prix actuel: 128,900 Ar
+   - Indice de prix : 179.03
 
-3. **Lait concentré sucré gourmand 1kg**
-   - Prix avant: 18,200 Ar
-   - Prix actuel: 19,800 Ar
-   - Indice de prix : 108.79
+3. **Couverture de chocolat noir 70% 1kg**
+   - Prix avant: 67,800 Ar
+   - Prix actuel: 119,800 Ar
+   - Indice de prix : 176.70
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Bonbons Mini Super Frites PIK 40 g**
-   - Prix avant: 3,500 Ar
-   - Prix actuel: 3,600 Ar
-   - Indice de prix : 102.86
+1. **Agrafe 24/6 bte de 1000**
+   - Prix avant: 2,100 Ar
+   - Prix actuel: 1,600 Ar
+   - Indice de prix : 76.19
 
-2. **Chaise 5033 Assise tissu**
-   - Prix avant: 905,100 Ar
-   - Prix actuel: 944,400 Ar
-   - Indice de prix : 104.34
+2. **Boîte archive Dos 10**
+   - Prix avant: 4,400 Ar
+   - Prix actuel: 3,800 Ar
+   - Indice de prix : 86.36
 
-3. **Chaise 5033 Assise tissu**
-   - Prix avant: 905,100 Ar
-   - Prix actuel: 944,400 Ar
-   - Indice de prix : 104.34
+3. **Bonbons Fruits en Sachet de 50 Pièces 100 G**
+   - Prix avant: 3,000 Ar
+   - Prix actuel: 2,600 Ar
+   - Indice de prix : 86.67
 

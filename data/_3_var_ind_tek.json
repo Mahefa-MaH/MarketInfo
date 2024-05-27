@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 8404,
-      "prix_base": 3156800,
-      "name": "Billard SZX P02 8 Pieds",
-      "prix_comparaison": 3294000,
-      "variation": 137200
+      "list_id": 8664,
+      "prix_base": 8690000,
+      "name": "Table de r\u00e9union 420 cm",
+      "prix_comparaison": 9480000,
+      "variation": 790000
     },
     {
-      "list_id": 8403,
-      "prix_base": 2846300,
-      "name": "Billard SZX P02 7 pieds",
-      "prix_comparaison": 2970000,
-      "variation": 123700
+      "list_id": 8824,
+      "prix_base": 5016000,
+      "name": "Coffre fort 345 litres 2 portes",
+      "prix_comparaison": 5472000,
+      "variation": 456000
     },
     {
-      "list_id": 8414,
-      "prix_base": 797500,
-      "name": "Chaise 1937HBK Assise tissu et dossier",
-      "prix_comparaison": 870000,
-      "variation": 72500
+      "list_id": 8825,
+      "prix_base": 4906000,
+      "name": "Coffre fort 374 litres",
+      "prix_comparaison": 5352000,
+      "variation": 446000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 8346,
-      "prix_base": 3500,
-      "name": "Bonbons Mini Super Frites PIK 40 g",
-      "prix_comparaison": 3600,
-      "variation": 100
+      "list_id": 11052,
+      "prix_base": 142900,
+      "name": "jouet Mon premier microscope",
+      "prix_comparaison": 138100,
+      "variation": -4800
     },
     {
-      "list_id": 8436,
-      "prix_base": 19500,
-      "name": "Inhalateur 19 HE Respiratoire 1 ml",
-      "prix_comparaison": 20400,
-      "variation": 900
+      "list_id": 2268,
+      "prix_base": 43200,
+      "name": "Nutella Biscuits 304 G",
+      "prix_comparaison": 39900,
+      "variation": -3300
     },
     {
-      "list_id": 8356,
-      "prix_base": 18200,
-      "name": "Lait concentr\u00e9 sucr\u00e9 gourmand 1kg",
-      "prix_comparaison": 19800,
-      "variation": 1600
+      "list_id": 2278,
+      "prix_base": 31600,
+      "name": "Raffaello 15 Pi\u00e8ces",
+      "prix_comparaison": 29200,
+      "variation": -2400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 8414,
-      "name": "Chaise 1937HBK Assise tissu et dossier",
-      "prix_base": 797500,
-      "prix_comparaison": 870000,
-      "indice_prix": 109.0909090909091
+      "list_id": 12265,
+      "name": "Couverture de chocolat blanc 34 % 1kg",
+      "prix_base": 76200,
+      "prix_comparaison": 141900,
+      "indice_prix": 186.2204724409449
     },
     {
-      "list_id": 8413,
-      "name": "Chaise 1001B Tissu",
-      "prix_base": 550000,
-      "prix_comparaison": 600000,
-      "indice_prix": 109.0909090909091
+      "list_id": 12264,
+      "name": "Couverture de chocolat au lait 38% 1kg",
+      "prix_base": 72000,
+      "prix_comparaison": 128900,
+      "indice_prix": 179.02777777777777
     },
     {
-      "list_id": 8356,
-      "name": "Lait concentr\u00e9 sucr\u00e9 gourmand 1kg",
-      "prix_base": 18200,
-      "prix_comparaison": 19800,
-      "indice_prix": 108.79120879120879
+      "list_id": 12263,
+      "name": "Couverture de chocolat noir 70% 1kg",
+      "prix_base": 67800,
+      "prix_comparaison": 119800,
+      "indice_prix": 176.69616519174042
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 8346,
-      "name": "Bonbons Mini Super Frites PIK 40 g",
-      "prix_base": 3500,
-      "prix_comparaison": 3600,
-      "indice_prix": 102.85714285714286
+      "list_id": 4366,
+      "name": "Agrafe 24/6 bte de 1000",
+      "prix_base": 2100,
+      "prix_comparaison": 1600,
+      "indice_prix": 76.19047619047619
     },
     {
-      "list_id": 8449,
-      "name": "Chaise 5033 Assise tissu",
-      "prix_base": 905100,
-      "prix_comparaison": 944400,
-      "indice_prix": 104.34206165064634
+      "list_id": 4392,
+      "name": "Bo\u00eete archive Dos 10",
+      "prix_base": 4400,
+      "prix_comparaison": 3800,
+      "indice_prix": 86.36363636363636
     },
     {
-      "list_id": 8450,
-      "name": "Chaise 5033 Assise tissu",
-      "prix_base": 905100,
-      "prix_comparaison": 944400,
-      "indice_prix": 104.34206165064634
+      "list_id": 8778,
+      "name": "Bonbons Fruits en Sachet de 50 Pi\u00e8ces 100 G",
+      "prix_base": 3000,
+      "prix_comparaison": 2600,
+      "indice_prix": 86.66666666666667
     }
   ]
 }

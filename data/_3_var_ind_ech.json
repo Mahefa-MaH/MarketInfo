@@ -1,30 +1,87 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 32000,
+      "prix_comparaison": 35000,
+      "variation": 3000
+    },
+    {
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 8000,
+      "prix_comparaison": 9000,
+      "variation": 1000
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_tamponsabrasifsalbapaquetde5_",
-      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
-      "prix_base": 5430,
-      "prix_comparaison": 4920,
-      "variation": -510
+      "cle": "produit_persil1botte2_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 500 g",
+      "prix_base": 29400,
+      "prix_comparaison": 20000,
+      "variation": -9400
+    },
+    {
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 8000,
+      "prix_comparaison": 9000,
+      "variation": 1000
+    },
+    {
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 32000,
+      "prix_comparaison": 35000,
+      "variation": 3000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_tamponsabrasifsalbapaquetde5_",
-      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
-      "prix_base": 5430,
-      "prix_comparaison": 4920,
-      "indice_prix": 90.60773480662984
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 8000,
+      "prix_comparaison": 9000,
+      "indice_prix": 112.5
+    },
+    {
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 32000,
+      "prix_comparaison": 35000,
+      "indice_prix": 109.375
+    },
+    {
+      "cle": "produit_persil1botte2_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 500 g",
+      "prix_base": 29400,
+      "prix_comparaison": 20000,
+      "indice_prix": 68.02721088435374
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_tamponsabrasifsalbapaquetde5_",
-      "name": "Tampons abrasifs Alba\u2122 paquets de 5 | Sp\u00e9cial r\u00e9curage | Ultra efficace",
-      "prix_base": 5430,
-      "prix_comparaison": 4920,
-      "indice_prix": 90.60773480662984
+      "cle": "produit_persil1botte2_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 500 g",
+      "prix_base": 29400,
+      "prix_comparaison": 20000,
+      "indice_prix": 68.02721088435374
+    },
+    {
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 32000,
+      "prix_comparaison": 35000,
+      "indice_prix": 109.375
+    },
+    {
+      "cle": "produit_ailfraisepluche100gr_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
+      "prix_base": 8000,
+      "prix_comparaison": 9000,
+      "indice_prix": 112.5
     }
   ]
 }
