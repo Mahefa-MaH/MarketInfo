@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 8664,
-      "prix_base": 8690000,
-      "name": "Table de r\u00e9union 420 cm",
-      "prix_comparaison": 9480000,
-      "variation": 790000
+      "list_id": 9122,
+      "prix_base": 792000,
+      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec groupe Shimano",
+      "prix_comparaison": 864000,
+      "variation": 72000
     },
     {
-      "list_id": 8824,
-      "prix_base": 5016000,
-      "name": "Coffre fort 345 litres 2 portes",
-      "prix_comparaison": 5472000,
-      "variation": 456000
+      "list_id": 9119,
+      "prix_base": 489500,
+      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec amortisseur",
+      "prix_comparaison": 534000,
+      "variation": 44500
     },
     {
-      "list_id": 8825,
-      "prix_base": 4906000,
-      "name": "Coffre fort 374 litres",
-      "prix_comparaison": 5352000,
-      "variation": 446000
+      "list_id": 9062,
+      "prix_base": 59800,
+      "name": "Caf\u00e9 grain arabica 1 kg",
+      "prix_comparaison": 62400,
+      "variation": 2600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 11052,
-      "prix_base": 142900,
-      "name": "jouet Mon premier microscope",
-      "prix_comparaison": 138100,
-      "variation": -4800
+      "list_id": 3588,
+      "prix_base": 10800,
+      "name": "D\u00e9sodorisant Lavande 300 Ml",
+      "prix_comparaison": 9700,
+      "variation": -1100
     },
     {
-      "list_id": 2268,
-      "prix_base": 43200,
-      "name": "Nutella Biscuits 304 G",
-      "prix_comparaison": 39900,
-      "variation": -3300
+      "list_id": 3643,
+      "prix_base": 7000,
+      "name": "Eponges Grattantes 5 Pi\u00e8ces",
+      "prix_comparaison": 6000,
+      "variation": -1000
     },
     {
-      "list_id": 2278,
-      "prix_base": 31600,
-      "name": "Raffaello 15 Pi\u00e8ces",
-      "prix_comparaison": 29200,
-      "variation": -2400
+      "list_id": 3649,
+      "prix_base": 5000,
+      "name": "Paires De Gants De M\u00e9nage Alba Taille L Et Xl 1 Paire",
+      "prix_comparaison": 5100,
+      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 12265,
-      "name": "Couverture de chocolat blanc 34 % 1kg",
-      "prix_base": 76200,
-      "prix_comparaison": 141900,
-      "indice_prix": 186.2204724409449
+      "list_id": 969,
+      "name": "Gaufrette Classic Double Choco 90 g",
+      "prix_base": 9500,
+      "prix_comparaison": 10500,
+      "indice_prix": 110.52631578947368
     },
     {
-      "list_id": 12264,
-      "name": "Couverture de chocolat au lait 38% 1kg",
-      "prix_base": 72000,
-      "prix_comparaison": 128900,
-      "indice_prix": 179.02777777777777
+      "list_id": 9122,
+      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec groupe Shimano",
+      "prix_base": 792000,
+      "prix_comparaison": 864000,
+      "indice_prix": 109.0909090909091
     },
     {
-      "list_id": 12263,
-      "name": "Couverture de chocolat noir 70% 1kg",
-      "prix_base": 67800,
-      "prix_comparaison": 119800,
-      "indice_prix": 176.69616519174042
+      "list_id": 9119,
+      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec amortisseur",
+      "prix_base": 489500,
+      "prix_comparaison": 534000,
+      "indice_prix": 109.0909090909091
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 4366,
-      "name": "Agrafe 24/6 bte de 1000",
-      "prix_base": 2100,
-      "prix_comparaison": 1600,
-      "indice_prix": 76.19047619047619
+      "list_id": 3643,
+      "name": "Eponges Grattantes 5 Pi\u00e8ces",
+      "prix_base": 7000,
+      "prix_comparaison": 6000,
+      "indice_prix": 85.71428571428571
     },
     {
-      "list_id": 4392,
-      "name": "Bo\u00eete archive Dos 10",
-      "prix_base": 4400,
-      "prix_comparaison": 3800,
-      "indice_prix": 86.36363636363636
+      "list_id": 3588,
+      "name": "D\u00e9sodorisant Lavande 300 Ml",
+      "prix_base": 10800,
+      "prix_comparaison": 9700,
+      "indice_prix": 89.81481481481481
     },
     {
-      "list_id": 8778,
-      "name": "Bonbons Fruits en Sachet de 50 Pi\u00e8ces 100 G",
-      "prix_base": 3000,
-      "prix_comparaison": 2600,
-      "indice_prix": 86.66666666666667
+      "list_id": 3693,
+      "name": "Papier Cuisson 10 M",
+      "prix_base": 8600,
+      "prix_comparaison": 8700,
+      "indice_prix": 101.16279069767442
     }
   ]
 }
