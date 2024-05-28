@@ -6,34 +6,6 @@
       "prix_base": 54000,
       "prix_comparaison": 82000,
       "variation": 28000
-    },
-    {
-      "cle": "lessiveenpoudreettablette_3541lessiveenpoudreensacblancetcouleur10kg_html",
-      "name": "Lessive en poudre en sac blanc et couleur 10kg",
-      "prix_base": 69000,
-      "prix_comparaison": 77900,
-      "variation": 8900
-    },
-    {
-      "cle": "lessiveenpoudreettablette_3540lessiveenpoudrelingeblancetcouleur5kg_html",
-      "name": "Lessive en poudre linge blanc et couleur 5kg",
-      "prix_base": 39000,
-      "prix_comparaison": 47500,
-      "variation": 8500
-    },
-    {
-      "cle": "pizzas_115833pizzasmargherita900gtopbudget_html",
-      "name": "3 Pizzas margherita 900g",
-      "prix_base": 26900,
-      "prix_comparaison": 33000,
-      "variation": 6100
-    },
-    {
-      "cle": "deodorants_15316deodorantspraysoftandcontrolfreshjasmin200ml_html",
-      "name": "D\u00e9odorant spray soft and control fresh jasmin 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "variation": 6000
     }
   ],
   "prix_diminues": [
@@ -43,34 +15,6 @@
       "prix_base": 890,
       "prix_comparaison": 1090,
       "variation": 200
-    },
-    {
-      "cle": "savonsdetoilettes_15340savondetoilettecitronvertvaolux70g_html",
-      "name": "Savon de toilette citron vert vao lux 70g",
-      "prix_base": 890,
-      "prix_comparaison": 1090,
-      "variation": 200
-    },
-    {
-      "cle": "savonsdetoilettes_15339savondetoiletterosevaolux70g_html",
-      "name": "Savon de toilette rose vao lux 70g",
-      "prix_base": 890,
-      "prix_comparaison": 1090,
-      "variation": 200
-    },
-    {
-      "cle": "produitskibomoinsde5000ar_5238savonliquidelavemainsaloevera300ml_html",
-      "name": "Savon liquide lave-mains Aloe Vera 300ml",
-      "prix_base": 2300,
-      "prix_comparaison": 3000,
-      "variation": 700
-    },
-    {
-      "cle": "produitskibomoinsde5000ar_9278savonliquidelavemainsfruitsdelapassion300ml_html",
-      "name": "Savon liquide lave-mains fruits de la passion 300ml",
-      "prix_base": 2300,
-      "prix_comparaison": 3000,
-      "variation": 700
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,34 +24,6 @@
       "prix_base": 54000,
       "prix_comparaison": 82000,
       "indice_prix": 151.85185185185185
-    },
-    {
-      "cle": "deodorants_15316deodorantspraysoftandcontrolfreshjasmin200ml_html",
-      "name": "D\u00e9odorant spray soft and control fresh jasmin 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "indice_prix": 148.0
-    },
-    {
-      "cle": "deodorants_5669deodorantcucumberetmelon200ml_html",
-      "name": "D\u00e9odorant Cucumber et Melon 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "indice_prix": 148.0
-    },
-    {
-      "cle": "deodorants_15317deodorantspraygrapefruitandlychee200ml_html",
-      "name": "D\u00e9odorant spray grapefruit and lychee 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "indice_prix": 148.0
-    },
-    {
-      "cle": "lessiveliquide_3890lrtotalmaxbs12x1lverdelessive_html",
-      "name": "Lessive liquide 12 lavages vert 1L",
-      "prix_base": 6990,
-      "prix_comparaison": 9900,
-      "indice_prix": 141.63090128755366
     }
   ],
   "indices_prix_plus_faibles": [
@@ -117,34 +33,6 @@
       "prix_base": 69000,
       "prix_comparaison": 77900,
       "indice_prix": 112.89855072463769
-    },
-    {
-      "cle": "lessiveliquide_3172lessiveliquidemaxxlingesblancsetcoloresvert1l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s vert 1L",
-      "prix_base": 6990,
-      "prix_comparaison": 7900,
-      "indice_prix": 113.01859799713877
-    },
-    {
-      "cle": "boissonsinstantanees_13869petitdejeunerinstantaneaucacaomaigreenpoudre800gtopbudget_html",
-      "name": "Petit d\u00e9jeuner instantan\u00e9 au cacao maigre en poudre 800g",
-      "prix_base": 22900,
-      "prix_comparaison": 25900,
-      "indice_prix": 113.1004366812227
-    },
-    {
-      "cle": "cremessoinsducorps_15123bodylotionaubeurredecacao400ml_html",
-      "name": "Body lotion au beurre de cacao 400ml",
-      "prix_base": 9500,
-      "prix_comparaison": 11000,
-      "indice_prix": 115.78947368421052
-    },
-    {
-      "cle": "cremessoinsvisage_15127gommagevisageetcorpsgoldenperfecetglow300ml_html",
-      "name": "Gommage visage et corps golden perfect glow 300ml",
-      "prix_base": 7900,
-      "prix_comparaison": 9500,
-      "indice_prix": 120.25316455696202
     }
   ]
 }
