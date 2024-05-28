@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz blanc import de Inde 50 kg**
-   - Prix avant: 158,400 Ar
-   - Prix actuel: 158,400 Ar
+2. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
+   - Prix avant: 184,000 Ar
+   - Prix actuel: 184,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc 1 Kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,200 Ar
+3. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
+   - Prix avant: 190,000 Ar
+   - Prix actuel: 190,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
