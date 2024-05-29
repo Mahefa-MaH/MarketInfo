@@ -7,6 +7,22 @@
       "prix_comparaison": 3100,
       "variation": 0,
       "indice_prix": 100.0
+    },
+    {
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7900,
+      "prix_comparaison": 7900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 13775,
+      "name": "Riz de Luxe Makalioka 5kg",
+      "prix_base": 23000,
+      "prix_comparaison": 23000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
