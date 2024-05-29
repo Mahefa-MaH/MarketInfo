@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 14900,
+      "prix_comparaison": 14900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "sucres_13804sucreenpoudre1kg_html",
       "name": "Sucre blanc en poudre 1kg",
       "prix_base": 11500,
@@ -13,14 +21,6 @@
       "name": "Sucre blanc Fana 1kg",
       "prix_base": 6900,
       "prix_comparaison": 6900,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "sucres_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 8600,
-      "prix_comparaison": 8600,
       "variation": 0,
       "indice_prix": 100.0
     }
