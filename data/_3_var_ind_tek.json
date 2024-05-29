@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 9122,
-      "prix_base": 792000,
-      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec groupe Shimano",
-      "prix_comparaison": 864000,
-      "variation": 72000
-    },
-    {
-      "list_id": 9119,
-      "prix_base": 489500,
-      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec amortisseur",
-      "prix_comparaison": 534000,
-      "variation": 44500
-    },
-    {
-      "list_id": 9062,
-      "prix_base": 59800,
-      "name": "Caf\u00e9 grain arabica 1 kg",
-      "prix_comparaison": 62400,
-      "variation": 2600
+      "list_id": 3821,
+      "prix_base": 9500,
+      "name": "Farine De Bl\u00e9 Multi Usage 1 Kg",
+      "prix_comparaison": 8100,
+      "variation": -1400
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 3588,
-      "prix_base": 10800,
-      "name": "D\u00e9sodorisant Lavande 300 Ml",
-      "prix_comparaison": 9700,
-      "variation": -1100
-    },
-    {
-      "list_id": 3643,
-      "prix_base": 7000,
-      "name": "Eponges Grattantes 5 Pi\u00e8ces",
-      "prix_comparaison": 6000,
-      "variation": -1000
-    },
-    {
-      "list_id": 3649,
-      "prix_base": 5000,
-      "name": "Paires De Gants De M\u00e9nage Alba Taille L Et Xl 1 Paire",
-      "prix_comparaison": 5100,
-      "variation": 100
+      "list_id": 3821,
+      "prix_base": 9500,
+      "name": "Farine De Bl\u00e9 Multi Usage 1 Kg",
+      "prix_comparaison": 8100,
+      "variation": -1400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 969,
-      "name": "Gaufrette Classic Double Choco 90 g",
+      "list_id": 3821,
+      "name": "Farine De Bl\u00e9 Multi Usage 1 Kg",
       "prix_base": 9500,
-      "prix_comparaison": 10500,
-      "indice_prix": 110.52631578947368
-    },
-    {
-      "list_id": 9122,
-      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec groupe Shimano",
-      "prix_base": 792000,
-      "prix_comparaison": 864000,
-      "indice_prix": 109.0909090909091
-    },
-    {
-      "list_id": 9119,
-      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec amortisseur",
-      "prix_base": 489500,
-      "prix_comparaison": 534000,
-      "indice_prix": 109.0909090909091
+      "prix_comparaison": 8100,
+      "indice_prix": 85.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 3643,
-      "name": "Eponges Grattantes 5 Pi\u00e8ces",
-      "prix_base": 7000,
-      "prix_comparaison": 6000,
-      "indice_prix": 85.71428571428571
-    },
-    {
-      "list_id": 3588,
-      "name": "D\u00e9sodorisant Lavande 300 Ml",
-      "prix_base": 10800,
-      "prix_comparaison": 9700,
-      "indice_prix": 89.81481481481481
-    },
-    {
-      "list_id": 3693,
-      "name": "Papier Cuisson 10 M",
-      "prix_base": 8600,
-      "prix_comparaison": 8700,
-      "indice_prix": 101.16279069767442
+      "list_id": 3821,
+      "name": "Farine De Bl\u00e9 Multi Usage 1 Kg",
+      "prix_base": 9500,
+      "prix_comparaison": 8100,
+      "indice_prix": 85.26315789473684
     }
   ]
 }

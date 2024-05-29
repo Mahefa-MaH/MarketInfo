@@ -1,6 +1,27 @@
 {
   "prix_augmentes": [
     {
+      "cle": "cafemoulucafeengrainsfiltres_1367122capsulescafeespressoalto114gplanteurdestropiques_html",
+      "name": "22 capsules caf\u00e9 espresso alto 114g",
+      "prix_base": 37400,
+      "prix_comparaison": 39900,
+      "variation": 2500
+    },
+    {
+      "cle": "cafemoulucafeengrainsfiltres_1295036dosettesdecaferegalforceettradition250gplanteurdestropiques_html",
+      "name": "36 dosettes de caf\u00e9 r\u00e9gal force et tradition 250g",
+      "prix_base": 16900,
+      "prix_comparaison": 18900,
+      "variation": 2000
+    },
+    {
+      "cle": "conservesautreslegumes_12365lentillesprepareesenconserve12265gsainteloi_html",
+      "name": "Lentilles pr\u00e9par\u00e9es en conserve 1/2 265g",
+      "prix_base": 4990,
+      "prix_comparaison": 6365,
+      "variation": 1375
+    },
+    {
       "cle": "desodorisantetparfummaison_11989bougieparfumeemurevioletteenverredroitdomedia_html",
       "name": "Bougie parfum\u00e9e mure violette  en verre droit",
       "prix_base": 11900,
@@ -29,15 +50,57 @@
       "prix_base": 599000,
       "prix_comparaison": 569050,
       "variation": -29950
+    },
+    {
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 535000,
+      "prix_comparaison": 508250,
+      "variation": -26750
+    },
+    {
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 520000,
+      "prix_comparaison": 494000,
+      "variation": -26000
+    },
+    {
+      "cle": "accessoiresdecoupe_7014coupelegumes_html",
+      "name": "Coupe-l\u00e9gumes",
+      "prix_base": 475900,
+      "prix_comparaison": 452105,
+      "variation": -23795
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "conservesautreslegumes_12365lentillesprepareesenconserve12265gsainteloi_html",
+      "name": "Lentilles pr\u00e9par\u00e9es en conserve 1/2 265g",
+      "prix_base": 4990,
+      "prix_comparaison": 6365,
+      "indice_prix": 127.55511022044088
+    },
     {
       "cle": "gelsetbainsdouche_13518geldouche3en1men250mllabell_html",
       "name": "Gel douche 3en1 men 250ml",
       "prix_base": 6900,
       "prix_comparaison": 8075,
       "indice_prix": 117.02898550724638
+    },
+    {
+      "cle": "biscottespainsgrilles_13663petitspainsgrillessanssel225gchabrior_html",
+      "name": "Petits pains grill\u00e9s sans sel 225g",
+      "prix_base": 7900,
+      "prix_comparaison": 8900,
+      "indice_prix": 112.65822784810126
+    },
+    {
+      "cle": "cafemoulucafeengrainsfiltres_1295036dosettesdecaferegalforceettradition250gplanteurdestropiques_html",
+      "name": "36 dosettes de caf\u00e9 r\u00e9gal force et tradition 250g",
+      "prix_base": 16900,
+      "prix_comparaison": 18900,
+      "indice_prix": 111.83431952662721
     },
     {
       "cle": "desodorisantetparfummaison_11989bougieparfumeemurevioletteenverredroitdomedia_html",
@@ -56,11 +119,32 @@
       "indice_prix": 72.88793103448276
     },
     {
+      "cle": "selsepicesherbes_12298thym15gcigalou_html",
+      "name": "Thym 15g",
+      "prix_base": 5500,
+      "prix_comparaison": 4085,
+      "indice_prix": 74.27272727272727
+    },
+    {
+      "cle": "piles_12181pilealcalinepowerlr03x4domedia_html",
+      "name": "Pile alcaline Power+ LR03x4",
+      "prix_base": 5600,
+      "prix_comparaison": 4180,
+      "indice_prix": 74.64285714285714
+    },
+    {
       "cle": "shampoings_13402shampoingantipelliculairepourcheuveuxnormaux300mllabell_html",
       "name": "Shampoing antipelliculaire pour cheveux normaux 300ml",
       "prix_base": 11200,
       "prix_comparaison": 8455,
       "indice_prix": 75.49107142857143
+    },
+    {
+      "cle": "selsepicesherbes_12299persil8gcigalou_html",
+      "name": "Persil 8g",
+      "prix_base": 4900,
+      "prix_comparaison": 3705,
+      "indice_prix": 75.61224489795919
     }
   ]
 }
