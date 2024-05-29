@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "huiles_6227huiledetournesol5l_html",
-      "name": "Huile de tournesol 5L",
-      "prix_base": 54000,
-      "prix_comparaison": 82000,
-      "variation": 28000
+      "cle": "desodorisantetparfummaison_11989bougieparfumeemurevioletteenverredroitdomedia_html",
+      "name": "Bougie parfum\u00e9e mure violette  en verre droit",
+      "prix_base": 11900,
+      "prix_comparaison": 13205,
+      "variation": 1305
+    },
+    {
+      "cle": "gelsetbainsdouche_13518geldouche3en1men250mllabell_html",
+      "name": "Gel douche 3en1 men 250ml",
+      "prix_base": 6900,
+      "prix_comparaison": 8075,
+      "variation": 1175
     }
   ],
   "prix_diminues": [
     {
-      "cle": "savonsdetoilettes_15338savondetoilettecamaieufloral70g_html",
-      "name": "Savon de toilette cama\u00efeu floral vao lux 70g",
-      "prix_base": 890,
-      "prix_comparaison": 1090,
-      "variation": 200
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 657900,
+      "prix_comparaison": 625005,
+      "variation": -32895
+    },
+    {
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 599000,
+      "prix_comparaison": 569050,
+      "variation": -29950
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "huiles_6227huiledetournesol5l_html",
-      "name": "Huile de tournesol 5L",
-      "prix_base": 54000,
-      "prix_comparaison": 82000,
-      "indice_prix": 151.85185185185185
+      "cle": "gelsetbainsdouche_13518geldouche3en1men250mllabell_html",
+      "name": "Gel douche 3en1 men 250ml",
+      "prix_base": 6900,
+      "prix_comparaison": 8075,
+      "indice_prix": 117.02898550724638
+    },
+    {
+      "cle": "desodorisantetparfummaison_11989bougieparfumeemurevioletteenverredroitdomedia_html",
+      "name": "Bougie parfum\u00e9e mure violette  en verre droit",
+      "prix_base": 11900,
+      "prix_comparaison": 13205,
+      "indice_prix": 110.96638655462185
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "lessiveenpoudreettablette_3541lessiveenpoudreensacblancetcouleur10kg_html",
-      "name": "Lessive en poudre en sac blanc et couleur 10kg",
-      "prix_base": 69000,
-      "prix_comparaison": 77900,
-      "indice_prix": 112.89855072463769
+      "cle": "shampoings_13134shampooingantipelliculaire300mllabell_html",
+      "name": "Shampoing antipelliculaire 300ml",
+      "prix_base": 11600,
+      "prix_comparaison": 8455,
+      "indice_prix": 72.88793103448276
+    },
+    {
+      "cle": "shampoings_13402shampoingantipelliculairepourcheuveuxnormaux300mllabell_html",
+      "name": "Shampoing antipelliculaire pour cheveux normaux 300ml",
+      "prix_base": 11200,
+      "prix_comparaison": 8455,
+      "indice_prix": 75.49107142857143
     }
   ]
 }

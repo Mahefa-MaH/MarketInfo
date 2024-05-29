@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12451,
-      "name": "Riz rouge long grain complet 500 g",
-      "prix_base": 12300,
-      "prix_comparaison": 12300,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 3827,
       "name": "Huile De Soja 1 L",
       "prix_base": 9400,

@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre Blanc Cristallisé 1 Kg**
-   - Prix avant: 7,900 Ar
-   - Prix actuel: 7,900 Ar
+2. **Riz de Luxe Makalioka 5kg**
+   - Prix avant: 23,000 Ar
+   - Prix actuel: 23,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz de Luxe Makalioka 5kg**
-   - Prix avant: 23,000 Ar
-   - Prix actuel: 23,000 Ar
+3. **Riz Blanchi Makalioka 5kg**
+   - Prix avant: 21,000 Ar
+   - Prix actuel: 21,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
