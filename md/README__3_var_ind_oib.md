@@ -22,11 +22,6 @@
    - Prix actuel: 17,900 Ar
    - Variation: +1,845 Ar
 
-5. **Café soluble qualité filtre 200g**
-   - Prix avant: 34,675 Ar
-   - Prix actuel: 36,500 Ar
-   - Variation: +1,825 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Chips nature ondulée 25g**
@@ -45,11 +40,6 @@
    - Variation: +225 Ar
 
 4. **Sel fin iodé La baleine 600g**
-   - Prix avant: 4,655 Ar
-   - Prix actuel: 4,900 Ar
-   - Variation: +245 Ar
-
-5. **Boulettes en sauce au bœuf pour chat 400g**
    - Prix avant: 4,655 Ar
    - Prix actuel: 4,900 Ar
    - Variation: +245 Ar
@@ -76,11 +66,6 @@
    - Prix actuel: 8,300 Ar
    - Indice de prix : 105.26
 
-5. **Housse de repassage aluminium mousse 130x46cm**
-   - Prix avant: 41,705 Ar
-   - Prix actuel: 43,900 Ar
-   - Indice de prix : 105.26
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Crème de soin visage et corps  tous types de peaux 250ml**
@@ -101,10 +86,5 @@
 4. **Biscuits fourrés tout chocolat blé complet Prince 300g**
    - Prix avant: 12,255 Ar
    - Prix actuel: 12,900 Ar
-   - Indice de prix : 105.26
-
-5. **Chips nature ondulée 25g**
-   - Prix avant: 2,660 Ar
-   - Prix actuel: 2,800 Ar
    - Indice de prix : 105.26
 

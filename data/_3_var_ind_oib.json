@@ -27,13 +27,6 @@
       "prix_base": 16055,
       "prix_comparaison": 17900,
       "variation": 1845
-    },
-    {
-      "cle": "cafesolublechicoreecappuccino_12366cafesolublequalitefiltre200gplanteurdestropiques_html",
-      "name": "Caf\u00e9 soluble qualit\u00e9 filtre 200g",
-      "prix_base": 34675,
-      "prix_comparaison": 36500,
-      "variation": 1825
     }
   ],
   "prix_diminues": [
@@ -61,13 +54,6 @@
     {
       "cle": "selsepicesherbes_1607selfiniodelabaleinebt600g_html",
       "name": "Sel fin iod\u00e9 La baleine 600g",
-      "prix_base": 4655,
-      "prix_comparaison": 4900,
-      "variation": 245
-    },
-    {
-      "cle": "boitespatessachetschat_13937boulettesensauceaubufpourchien400gtopbudget_html",
-      "name": "Boulettes en sauce au b\u0153uf pour chat 400g",
       "prix_base": 4655,
       "prix_comparaison": 4900,
       "variation": 245
@@ -101,13 +87,6 @@
       "prix_base": 7885,
       "prix_comparaison": 8300,
       "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "accessoirespourlentretiendulinge_11606houssederepassagealuminiummousse130x46cmdomedia_html",
-      "name": "Housse de repassage aluminium mousse 130x46cm",
-      "prix_base": 41705,
-      "prix_comparaison": 43900,
-      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
@@ -137,13 +116,6 @@
       "name": "Biscuits fourr\u00e9s tout chocolat bl\u00e9 complet Prince 300g",
       "prix_base": 12255,
       "prix_comparaison": 12900,
-      "indice_prix": 105.26315789473684
-    },
-    {
-      "cle": "chips_384chipsnatureondulee25g_html",
-      "name": "Chips nature ondul\u00e9e 25g",
-      "prix_base": 2660,
-      "prix_comparaison": 2800,
       "indice_prix": 105.26315789473684
     }
   ]
