@@ -7,25 +7,15 @@
    - Prix actuel: 657,900 Ar
    - Variation: +32,895 Ar
 
-2. **Faitout rond rouge Slowcook Ø28cm**
+2. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
+   - Prix avant: 569,050 Ar
+   - Prix actuel: 599,000 Ar
+   - Variation: +29,950 Ar
+
+3. **Faitout rond rouge Slowcook Ø28cm**
    - Prix avant: 508,250 Ar
    - Prix actuel: 535,000 Ar
    - Variation: +26,750 Ar
-
-3. **Thermomètre infrarouge**
-   - Prix avant: 494,000 Ar
-   - Prix actuel: 520,000 Ar
-   - Variation: +26,000 Ar
-
-4. **Thermomètre digital**
-   - Prix avant: 452,105 Ar
-   - Prix actuel: 475,900 Ar
-   - Variation: +23,795 Ar
-
-5. **Coupe-légumes**
-   - Prix avant: 452,105 Ar
-   - Prix actuel: 475,900 Ar
-   - Variation: +23,795 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -44,16 +34,6 @@
    - Prix actuel: 7,500 Ar
    - Variation: -3,805 Ar
 
-4. **Spray anti-bactérien 100ml**
-   - Prix avant: 16,055 Ar
-   - Prix actuel: 12,900 Ar
-   - Variation: -3,155 Ar
-
-5. **Café soluble sélection normal 200g**
-   - Prix avant: 56,050 Ar
-   - Prix actuel: 52,900 Ar
-   - Variation: -3,150 Ar
-
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Twinuts cacahuètes enrobées goût salés 150g**
@@ -71,16 +51,6 @@
    - Prix actuel: 7,900 Ar
    - Indice de prix : 120.52
 
-4. **Bouchées en sauce au bœuf et poulet pour petits chiens 4 sachets de 100g**
-   - Prix avant: 8,075 Ar
-   - Prix actuel: 9,400 Ar
-   - Indice de prix : 116.41
-
-5. **Eau de javel lavande 2L**
-   - Prix avant: 6,555 Ar
-   - Prix actuel: 7,600 Ar
-   - Indice de prix : 115.94
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Serviettes hygièniques ultra super avec ailettes 12 pièces**
@@ -97,14 +67,4 @@
    - Prix avant: 31,255 Ar
    - Prix actuel: 23,900 Ar
    - Indice de prix : 76.47
-
-4. **Protège slip teeny pocket boite de 30**
-   - Prix avant: 11,305 Ar
-   - Prix actuel: 8,900 Ar
-   - Indice de prix : 78.73
-
-5. **Lingettes bébé 72 pièces**
-   - Prix avant: 6,460 Ar
-   - Prix actuel: 5,100 Ar
-   - Indice de prix : 78.95
 

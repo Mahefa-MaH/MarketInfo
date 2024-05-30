@@ -1,87 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
-      "prix_base": 32000,
-      "prix_comparaison": 35000,
-      "variation": 3000
+      "cle": "produit_fromagevachequirit336g24portions_",
+      "name": "Fromage Vache qui rit 336g | 24 portions",
+      "prix_base": 16620,
+      "prix_comparaison": 21720,
+      "variation": 5100
     },
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
-      "prix_base": 8000,
-      "prix_comparaison": 9000,
-      "variation": 1000
+      "cle": "produit_piedsdeporcenviron500g_",
+      "name": "Pieds de Porc Environ 500g LeaderPrice\u2122",
+      "prix_base": 10050,
+      "prix_comparaison": 13960,
+      "variation": 3910
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_persil1botte2_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 500 g",
-      "prix_base": 29400,
-      "prix_comparaison": 20000,
-      "variation": -9400
+      "cle": "produit_piedsdeporcenviron500g_",
+      "name": "Pieds de Porc Environ 500g LeaderPrice\u2122",
+      "prix_base": 10050,
+      "prix_comparaison": 13960,
+      "variation": 3910
     },
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
-      "prix_base": 8000,
-      "prix_comparaison": 9000,
-      "variation": 1000
-    },
-    {
-      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
-      "prix_base": 32000,
-      "prix_comparaison": 35000,
-      "variation": 3000
+      "cle": "produit_fromagevachequirit336g24portions_",
+      "name": "Fromage Vache qui rit 336g | 24 portions",
+      "prix_base": 16620,
+      "prix_comparaison": 21720,
+      "variation": 5100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
-      "prix_base": 8000,
-      "prix_comparaison": 9000,
-      "indice_prix": 112.5
+      "cle": "produit_piedsdeporcenviron500g_",
+      "name": "Pieds de Porc Environ 500g LeaderPrice\u2122",
+      "prix_base": 10050,
+      "prix_comparaison": 13960,
+      "indice_prix": 138.90547263681592
     },
     {
-      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
-      "prix_base": 32000,
-      "prix_comparaison": 35000,
-      "indice_prix": 109.375
-    },
-    {
-      "cle": "produit_persil1botte2_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 500 g",
-      "prix_base": 29400,
-      "prix_comparaison": 20000,
-      "indice_prix": 68.02721088435374
+      "cle": "produit_fromagevachequirit336g24portions_",
+      "name": "Fromage Vache qui rit 336g | 24 portions",
+      "prix_base": 16620,
+      "prix_comparaison": 21720,
+      "indice_prix": 130.68592057761734
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_persil1botte2_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 500 g",
-      "prix_base": 29400,
-      "prix_comparaison": 20000,
-      "indice_prix": 68.02721088435374
+      "cle": "produit_fromagevachequirit336g24portions_",
+      "name": "Fromage Vache qui rit 336g | 24 portions",
+      "prix_base": 16620,
+      "prix_comparaison": 21720,
+      "indice_prix": 130.68592057761734
     },
     {
-      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
-      "prix_base": 32000,
-      "prix_comparaison": 35000,
-      "indice_prix": 109.375
-    },
-    {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
-      "prix_base": 8000,
-      "prix_comparaison": 9000,
-      "indice_prix": 112.5
+      "cle": "produit_piedsdeporcenviron500g_",
+      "name": "Pieds de Porc Environ 500g LeaderPrice\u2122",
+      "prix_base": 10050,
+      "prix_comparaison": 13960,
+      "indice_prix": 138.90547263681592
     }
   ]
 }

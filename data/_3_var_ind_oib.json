@@ -8,32 +8,18 @@
       "variation": 32895
     },
     {
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 569050,
+      "prix_comparaison": 599000,
+      "variation": 29950
+    },
+    {
       "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
       "name": "Faitout rond rouge Slowcook \u00d828cm",
       "prix_base": 508250,
       "prix_comparaison": 535000,
       "variation": 26750
-    },
-    {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 494000,
-      "prix_comparaison": 520000,
-      "variation": 26000
-    },
-    {
-      "cle": "ustensilesdecuisine_6943thermometredigital_html",
-      "name": "Thermom\u00e8tre digital",
-      "prix_base": 452105,
-      "prix_comparaison": 475900,
-      "variation": 23795
-    },
-    {
-      "cle": "accessoiresdecoupe_7014coupelegumes_html",
-      "name": "Coupe-l\u00e9gumes",
-      "prix_base": 452105,
-      "prix_comparaison": 475900,
-      "variation": 23795
     }
   ],
   "prix_diminues": [
@@ -57,20 +43,6 @@
       "prix_base": 11305,
       "prix_comparaison": 7500,
       "variation": -3805
-    },
-    {
-      "cle": "pansementcomplements_13169sprayantibacterien100mllabell_html",
-      "name": "Spray anti-bact\u00e9rien 100ml",
-      "prix_base": 16055,
-      "prix_comparaison": 12900,
-      "variation": -3155
-    },
-    {
-      "cle": "cafesolublechicoreecappuccino_10248cafesolubleselectionnormal200g_html",
-      "name": "Caf\u00e9 soluble s\u00e9lection normal 200g",
-      "prix_base": 56050,
-      "prix_comparaison": 52900,
-      "variation": -3150
     }
   ],
   "indices_prix_plus_eleves": [
@@ -94,20 +66,6 @@
       "prix_base": 6555,
       "prix_comparaison": 7900,
       "indice_prix": 120.51868802440885
-    },
-    {
-      "cle": "boitespatessachetschat_13578boucheesensauceaubufetpouletpourpetitschiens4sachetsde100gcanaillou_html",
-      "name": "Bouch\u00e9es en sauce au b\u0153uf et poulet pour petits chiens 4 sachets de 100g",
-      "prix_base": 8075,
-      "prix_comparaison": 9400,
-      "indice_prix": 116.40866873065015
-    },
-    {
-      "cle": "nettoyantsmultiusages_12808eaudejavellavande2lapta_html",
-      "name": "Eau de javel lavande 2L",
-      "prix_base": 6555,
-      "prix_comparaison": 7600,
-      "indice_prix": 115.94202898550725
     }
   ],
   "indices_prix_plus_faibles": [
@@ -131,20 +89,6 @@
       "prix_base": 31255,
       "prix_comparaison": 23900,
       "indice_prix": 76.46776515757479
-    },
-    {
-      "cle": "protectionshygienefeminine_13453protegeslipteenypocketboitede30labell_html",
-      "name": "Prot\u00e8ge slip teeny pocket boite de 30",
-      "prix_base": 11305,
-      "prix_comparaison": 8900,
-      "indice_prix": 78.72622733303848
-    },
-    {
-      "cle": "cotonsetlingettes_13868lingettesbebex72piecestopbudget_html",
-      "name": "Lingettes b\u00e9b\u00e9 72 pi\u00e8ces",
-      "prix_base": 6460,
-      "prix_comparaison": 5100,
-      "indice_prix": 78.94736842105263
     }
   ]
 }

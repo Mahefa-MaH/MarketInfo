@@ -2,64 +2,49 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Ail frais épluché Prêt à cuisiner | 1kg**
-   - Prix avant: 32,000 Ar
-   - Prix actuel: 35,000 Ar
-   - Variation: +3,000 Ar
+1. **Fromage Vache qui rit 336g | 24 portions**
+   - Prix avant: 16,620 Ar
+   - Prix actuel: 21,720 Ar
+   - Variation: +5,100 Ar
 
-2. **Ail frais épluché Prêt à cuisiner | 200 g**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 9,000 Ar
-   - Variation: +1,000 Ar
+2. **Pieds de Porc Environ 500g LeaderPrice™**
+   - Prix avant: 10,050 Ar
+   - Prix actuel: 13,960 Ar
+   - Variation: +3,910 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Ail frais épluché Prêt à cuisiner | 500 g**
-   - Prix avant: 29,400 Ar
-   - Prix actuel: 20,000 Ar
-   - Variation: -9,400 Ar
+1. **Pieds de Porc Environ 500g LeaderPrice™**
+   - Prix avant: 10,050 Ar
+   - Prix actuel: 13,960 Ar
+   - Variation: +3,910 Ar
 
-2. **Ail frais épluché Prêt à cuisiner | 200 g**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 9,000 Ar
-   - Variation: +1,000 Ar
-
-3. **Ail frais épluché Prêt à cuisiner | 1kg**
-   - Prix avant: 32,000 Ar
-   - Prix actuel: 35,000 Ar
-   - Variation: +3,000 Ar
+2. **Fromage Vache qui rit 336g | 24 portions**
+   - Prix avant: 16,620 Ar
+   - Prix actuel: 21,720 Ar
+   - Variation: +5,100 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Ail frais épluché Prêt à cuisiner | 200 g**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 9,000 Ar
-   - Indice de prix : 112.50
+1. **Pieds de Porc Environ 500g LeaderPrice™**
+   - Prix avant: 10,050 Ar
+   - Prix actuel: 13,960 Ar
+   - Indice de prix : 138.91
 
-2. **Ail frais épluché Prêt à cuisiner | 1kg**
-   - Prix avant: 32,000 Ar
-   - Prix actuel: 35,000 Ar
-   - Indice de prix : 109.38
-
-3. **Ail frais épluché Prêt à cuisiner | 500 g**
-   - Prix avant: 29,400 Ar
-   - Prix actuel: 20,000 Ar
-   - Indice de prix : 68.03
+2. **Fromage Vache qui rit 336g | 24 portions**
+   - Prix avant: 16,620 Ar
+   - Prix actuel: 21,720 Ar
+   - Indice de prix : 130.69
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Ail frais épluché Prêt à cuisiner | 500 g**
-   - Prix avant: 29,400 Ar
-   - Prix actuel: 20,000 Ar
-   - Indice de prix : 68.03
+1. **Fromage Vache qui rit 336g | 24 portions**
+   - Prix avant: 16,620 Ar
+   - Prix actuel: 21,720 Ar
+   - Indice de prix : 130.69
 
-2. **Ail frais épluché Prêt à cuisiner | 1kg**
-   - Prix avant: 32,000 Ar
-   - Prix actuel: 35,000 Ar
-   - Indice de prix : 109.38
-
-3. **Ail frais épluché Prêt à cuisiner | 200 g**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 9,000 Ar
-   - Indice de prix : 112.50
+2. **Pieds de Porc Environ 500g LeaderPrice™**
+   - Prix avant: 10,050 Ar
+   - Prix actuel: 13,960 Ar
+   - Indice de prix : 138.91
 
