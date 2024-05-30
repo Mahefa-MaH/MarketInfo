@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cafemoulucafeengrainsfiltres_1367122capsulescafeespressoalto114gplanteurdestropiques_html",
-      "name": "22 capsules caf\u00e9 espresso alto 114g",
-      "prix_base": 37400,
-      "prix_comparaison": 39900,
-      "variation": 2500
+      "cle": "accessoirespourlentretiendulinge_11606houssederepassagealuminiummousse130x46cmdomedia_html",
+      "name": "Housse de repassage aluminium mousse 130x46cm",
+      "prix_base": 41705,
+      "prix_comparaison": 43900,
+      "variation": 2195
     },
     {
-      "cle": "cafemoulucafeengrainsfiltres_1295036dosettesdecaferegalforceettradition250gplanteurdestropiques_html",
-      "name": "36 dosettes de caf\u00e9 r\u00e9gal force et tradition 250g",
-      "prix_base": 16900,
-      "prix_comparaison": 18900,
-      "variation": 2000
+      "cle": "croquettesetfriandiseschien_12887croquettesproenergymixviandespourchien4kgcanaillou_html",
+      "name": "Croquettes pro energy mix viandes pour chien 4 kg",
+      "prix_base": 40850,
+      "prix_comparaison": 43000,
+      "variation": 2150
+    },
+    {
+      "cle": "cerealesetbarres_13553biscuitspetitdejmulticereales400gchabrior_html",
+      "name": "Biscuits petit d\u00e9j multi c\u00e9r\u00e9ales 400g",
+      "prix_base": 16055,
+      "prix_comparaison": 17900,
+      "variation": 1845
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 657900,
-      "prix_comparaison": 625005,
-      "variation": -32895
+      "cle": "chips_384chipsnatureondulee25g_html",
+      "name": "Chips nature ondul\u00e9e 25g",
+      "prix_base": 2660,
+      "prix_comparaison": 2800,
+      "variation": 140
     },
     {
-      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
-      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
-      "prix_base": 599000,
-      "prix_comparaison": 569050,
-      "variation": -29950
+      "cle": "bonbonsgelifiesetacidules_171clearsharks12bagsx100g_html",
+      "name": "Bonbons jelly sharks 100g",
+      "prix_base": 4275,
+      "prix_comparaison": 4500,
+      "variation": 225
+    },
+    {
+      "cle": "accessoiresrepas_11877goupillonbasiquepommette_html",
+      "name": "Goupillon basique",
+      "prix_base": 4275,
+      "prix_comparaison": 4500,
+      "variation": 225
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "conservesautreslegumes_12365lentillesprepareesenconserve12265gsainteloi_html",
-      "name": "Lentilles pr\u00e9par\u00e9es en conserve 1/2 265g",
-      "prix_base": 4990,
-      "prix_comparaison": 6365,
-      "indice_prix": 127.55511022044088
+      "cle": "cerealesetbarres_13553biscuitspetitdejmulticereales400gchabrior_html",
+      "name": "Biscuits petit d\u00e9j multi c\u00e9r\u00e9ales 400g",
+      "prix_base": 16055,
+      "prix_comparaison": 17900,
+      "indice_prix": 111.49174711927748
     },
     {
-      "cle": "gelsetbainsdouche_13518geldouche3en1men250mllabell_html",
-      "name": "Gel douche 3en1 men 250ml",
-      "prix_base": 6900,
-      "prix_comparaison": 8075,
-      "indice_prix": 117.02898550724638
+      "cle": "saucesfroidesketchupmayonnaise_12479saucetartare235gboutondor_html",
+      "name": "Sauce tartare 235g",
+      "prix_base": 7885,
+      "prix_comparaison": 8300,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "accessoirespourlentretiendulinge_11606houssederepassagealuminiummousse130x46cmdomedia_html",
+      "name": "Housse de repassage aluminium mousse 130x46cm",
+      "prix_base": 41705,
+      "prix_comparaison": 43900,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "shampoings_13134shampooingantipelliculaire300mllabell_html",
-      "name": "Shampoing antipelliculaire 300ml",
-      "prix_base": 11600,
-      "prix_comparaison": 8455,
-      "indice_prix": 72.88793103448276
+      "cle": "cremessoinsducorps_13239cremedesoinvisageetcorpstoustypesdepeaux250mllabell_html",
+      "name": "Cr\u00e8me de soin visage et corps  tous types de peaux 250ml",
+      "prix_base": 11590,
+      "prix_comparaison": 11900,
+      "indice_prix": 102.67471958584987
     },
     {
-      "cle": "selsepicesherbes_12298thym15gcigalou_html",
-      "name": "Thym 15g",
-      "prix_base": 5500,
-      "prix_comparaison": 4085,
-      "indice_prix": 74.27272727272727
+      "cle": "selsepicesherbes_1607selfiniodelabaleinebt600g_html",
+      "name": "Sel fin iod\u00e9 La baleine 600g",
+      "prix_base": 4655,
+      "prix_comparaison": 4900,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "chips_384chipsnatureondulee25g_html",
+      "name": "Chips nature ondul\u00e9e 25g",
+      "prix_base": 2660,
+      "prix_comparaison": 2800,
+      "indice_prix": 105.26315789473684
     }
   ]
 }
