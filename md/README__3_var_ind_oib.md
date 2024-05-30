@@ -2,89 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Housse de repassage aluminium mousse 130x46cm**
-   - Prix avant: 41,705 Ar
-   - Prix actuel: 43,900 Ar
-   - Variation: +2,195 Ar
+1. **Thermomètre digital résistant aux chocs avec sonde**
+   - Prix avant: 625,005 Ar
+   - Prix actuel: 657,900 Ar
+   - Variation: +32,895 Ar
 
-2. **Croquettes pro energy mix viandes pour chien 4 kg**
-   - Prix avant: 40,850 Ar
-   - Prix actuel: 43,000 Ar
-   - Variation: +2,150 Ar
+2. **Faitout rond rouge Slowcook Ø28cm**
+   - Prix avant: 508,250 Ar
+   - Prix actuel: 535,000 Ar
+   - Variation: +26,750 Ar
 
-3. **Produit sol citron 5L**
-   - Prix avant: 35,055 Ar
-   - Prix actuel: 36,900 Ar
-   - Variation: +1,845 Ar
+3. **Thermomètre infrarouge**
+   - Prix avant: 494,000 Ar
+   - Prix actuel: 520,000 Ar
+   - Variation: +26,000 Ar
 
-4. **Biscuits petit déj multi céréales 400g**
-   - Prix avant: 16,055 Ar
-   - Prix actuel: 17,900 Ar
-   - Variation: +1,845 Ar
+4. **Thermomètre digital**
+   - Prix avant: 452,105 Ar
+   - Prix actuel: 475,900 Ar
+   - Variation: +23,795 Ar
+
+5. **Coupe-légumes**
+   - Prix avant: 452,105 Ar
+   - Prix actuel: 475,900 Ar
+   - Variation: +23,795 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Chips nature ondulée 25g**
-   - Prix avant: 2,660 Ar
-   - Prix actuel: 2,800 Ar
-   - Variation: +140 Ar
+1. **Rasoir système 3 lames pour femme+2recharges**
+   - Prix avant: 31,255 Ar
+   - Prix actuel: 23,900 Ar
+   - Variation: -7,355 Ar
 
-2. **Bonbons jelly sharks 100g**
-   - Prix avant: 4,275 Ar
-   - Prix actuel: 4,500 Ar
-   - Variation: +225 Ar
+2. **Cire orientale à l'huile d'argan et au sucre 250ml**
+   - Prix avant: 23,560 Ar
+   - Prix actuel: 19,500 Ar
+   - Variation: -4,060 Ar
 
-3. **Goupillon basique**
-   - Prix avant: 4,275 Ar
-   - Prix actuel: 4,500 Ar
-   - Variation: +225 Ar
+3. **Serviettes hygièniques ultra super avec ailettes 12 pièces**
+   - Prix avant: 11,305 Ar
+   - Prix actuel: 7,500 Ar
+   - Variation: -3,805 Ar
 
-4. **Sel fin iodé La baleine 600g**
-   - Prix avant: 4,655 Ar
-   - Prix actuel: 4,900 Ar
-   - Variation: +245 Ar
+4. **Spray anti-bactérien 100ml**
+   - Prix avant: 16,055 Ar
+   - Prix actuel: 12,900 Ar
+   - Variation: -3,155 Ar
+
+5. **Café soluble sélection normal 200g**
+   - Prix avant: 56,050 Ar
+   - Prix actuel: 52,900 Ar
+   - Variation: -3,150 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Biscuits petit déj multi céréales 400g**
-   - Prix avant: 16,055 Ar
-   - Prix actuel: 17,900 Ar
-   - Indice de prix : 111.49
+1. **Twinuts cacahuètes enrobées goût salés 150g**
+   - Prix avant: 8,700 Ar
+   - Prix actuel: 11,900 Ar
+   - Indice de prix : 136.78
 
-2. **Beurre marquis doux 200g**
-   - Prix avant: 8,312 Ar
-   - Prix actuel: 8,750 Ar
-   - Indice de prix : 105.27
+2. **Crème douche pêche et aloe Vera 250ml**
+   - Prix avant: 6,555 Ar
+   - Prix actuel: 7,900 Ar
+   - Indice de prix : 120.52
 
-3. **Graines de Pavot 100g**
-   - Prix avant: 7,125 Ar
-   - Prix actuel: 7,500 Ar
-   - Indice de prix : 105.26
+3. **Boisson gazeuse Fun orange 1,5L**
+   - Prix avant: 6,555 Ar
+   - Prix actuel: 7,900 Ar
+   - Indice de prix : 120.52
 
-4. **Sauce tartare 235g**
-   - Prix avant: 7,885 Ar
-   - Prix actuel: 8,300 Ar
-   - Indice de prix : 105.26
+4. **Bouchées en sauce au bœuf et poulet pour petits chiens 4 sachets de 100g**
+   - Prix avant: 8,075 Ar
+   - Prix actuel: 9,400 Ar
+   - Indice de prix : 116.41
+
+5. **Eau de javel lavande 2L**
+   - Prix avant: 6,555 Ar
+   - Prix actuel: 7,600 Ar
+   - Indice de prix : 115.94
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Crème de soin visage et corps  tous types de peaux 250ml**
-   - Prix avant: 11,590 Ar
-   - Prix actuel: 11,900 Ar
-   - Indice de prix : 102.67
+1. **Serviettes hygièniques ultra super avec ailettes 12 pièces**
+   - Prix avant: 11,305 Ar
+   - Prix actuel: 7,500 Ar
+   - Indice de prix : 66.34
 
-2. **Lessive liquide maxx linges blancs et colorés vert 5L**
-   - Prix avant: 28,405 Ar
-   - Prix actuel: 29,900 Ar
-   - Indice de prix : 105.26
+2. **Soda fun avec jus de citron pet 1,5L**
+   - Prix avant: 8,500 Ar
+   - Prix actuel: 6,200 Ar
+   - Indice de prix : 72.94
 
-3. **Sel fin iodé La baleine 600g**
-   - Prix avant: 4,655 Ar
-   - Prix actuel: 4,900 Ar
-   - Indice de prix : 105.26
+3. **Rasoir système 3 lames pour femme+2recharges**
+   - Prix avant: 31,255 Ar
+   - Prix actuel: 23,900 Ar
+   - Indice de prix : 76.47
 
-4. **Biscuits fourrés tout chocolat blé complet Prince 300g**
-   - Prix avant: 12,255 Ar
-   - Prix actuel: 12,900 Ar
-   - Indice de prix : 105.26
+4. **Protège slip teeny pocket boite de 30**
+   - Prix avant: 11,305 Ar
+   - Prix actuel: 8,900 Ar
+   - Indice de prix : 78.73
+
+5. **Lingettes bébé 72 pièces**
+   - Prix avant: 6,460 Ar
+   - Prix actuel: 5,100 Ar
+   - Indice de prix : 78.95
 

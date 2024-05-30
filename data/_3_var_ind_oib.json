@@ -1,122 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "accessoirespourlentretiendulinge_11606houssederepassagealuminiummousse130x46cmdomedia_html",
-      "name": "Housse de repassage aluminium mousse 130x46cm",
-      "prix_base": 41705,
-      "prix_comparaison": 43900,
-      "variation": 2195
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 625005,
+      "prix_comparaison": 657900,
+      "variation": 32895
     },
     {
-      "cle": "croquettesetfriandiseschien_12887croquettesproenergymixviandespourchien4kgcanaillou_html",
-      "name": "Croquettes pro energy mix viandes pour chien 4 kg",
-      "prix_base": 40850,
-      "prix_comparaison": 43000,
-      "variation": 2150
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 508250,
+      "prix_comparaison": 535000,
+      "variation": 26750
     },
     {
-      "cle": "nettoyantssolsetmeubles_3346produitsolcitron5lx3albanet_html",
-      "name": "Produit sol citron 5L",
-      "prix_base": 35055,
-      "prix_comparaison": 36900,
-      "variation": 1845
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 494000,
+      "prix_comparaison": 520000,
+      "variation": 26000
     },
     {
-      "cle": "cerealesetbarres_13553biscuitspetitdejmulticereales400gchabrior_html",
-      "name": "Biscuits petit d\u00e9j multi c\u00e9r\u00e9ales 400g",
-      "prix_base": 16055,
-      "prix_comparaison": 17900,
-      "variation": 1845
+      "cle": "ustensilesdecuisine_6943thermometredigital_html",
+      "name": "Thermom\u00e8tre digital",
+      "prix_base": 452105,
+      "prix_comparaison": 475900,
+      "variation": 23795
+    },
+    {
+      "cle": "accessoiresdecoupe_7014coupelegumes_html",
+      "name": "Coupe-l\u00e9gumes",
+      "prix_base": 452105,
+      "prix_comparaison": 475900,
+      "variation": 23795
     }
   ],
   "prix_diminues": [
     {
-      "cle": "chips_384chipsnatureondulee25g_html",
-      "name": "Chips nature ondul\u00e9e 25g",
-      "prix_base": 2660,
-      "prix_comparaison": 2800,
-      "variation": 140
+      "cle": "epilationetrasage_13113rasoirsysteme3lamespourfemme2rechargeslabell_html",
+      "name": "Rasoir syst\u00e8me 3 lames pour femme+2recharges",
+      "prix_base": 31255,
+      "prix_comparaison": 23900,
+      "variation": -7355
     },
     {
-      "cle": "bonbonsgelifiesetacidules_171clearsharks12bagsx100g_html",
-      "name": "Bonbons jelly sharks 100g",
-      "prix_base": 4275,
-      "prix_comparaison": 4500,
-      "variation": 225
+      "cle": "epilationetrasage_12847cireorientalealhuiledarganausucre250mllabell_html",
+      "name": "Cire orientale \u00e0 l'huile d'argan et au sucre 250ml",
+      "prix_base": 23560,
+      "prix_comparaison": 19500,
+      "variation": -4060
     },
     {
-      "cle": "accessoiresrepas_11877goupillonbasiquepommette_html",
-      "name": "Goupillon basique",
-      "prix_base": 4275,
-      "prix_comparaison": 4500,
-      "variation": 225
+      "cle": "protectionshygienefeminine_12412servietteshygieniquesultrasuperavecailettes12pieceslabell_html",
+      "name": "Serviettes hygi\u00e8niques ultra super avec ailettes 12 pi\u00e8ces",
+      "prix_base": 11305,
+      "prix_comparaison": 7500,
+      "variation": -3805
     },
     {
-      "cle": "selsepicesherbes_1607selfiniodelabaleinebt600g_html",
-      "name": "Sel fin iod\u00e9 La baleine 600g",
-      "prix_base": 4655,
-      "prix_comparaison": 4900,
-      "variation": 245
+      "cle": "pansementcomplements_13169sprayantibacterien100mllabell_html",
+      "name": "Spray anti-bact\u00e9rien 100ml",
+      "prix_base": 16055,
+      "prix_comparaison": 12900,
+      "variation": -3155
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_10248cafesolubleselectionnormal200g_html",
+      "name": "Caf\u00e9 soluble s\u00e9lection normal 200g",
+      "prix_base": 56050,
+      "prix_comparaison": 52900,
+      "variation": -3150
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cerealesetbarres_13553biscuitspetitdejmulticereales400gchabrior_html",
-      "name": "Biscuits petit d\u00e9j multi c\u00e9r\u00e9ales 400g",
-      "prix_base": 16055,
-      "prix_comparaison": 17900,
-      "indice_prix": 111.49174711927748
+      "cle": "autresproduitsaperitifs_15114twinutscacahuetesenrobeesgoutsales_html",
+      "name": "Twinuts cacahu\u00e8tes enrob\u00e9es go\u00fbt sal\u00e9s 150g",
+      "prix_base": 8700,
+      "prix_comparaison": 11900,
+      "indice_prix": 136.7816091954023
     },
     {
-      "cle": "beurres_14124beurremarquisdoux200g_html",
-      "name": "Beurre marquis doux 200g",
-      "prix_base": 8312,
-      "prix_comparaison": 8750,
-      "indice_prix": 105.26948989412897
+      "cle": "gelsetbainsdouche_13244geldouchepecheetaloevera250mllabell_html",
+      "name": "Cr\u00e8me douche p\u00eache et aloe Vera 250ml",
+      "prix_base": 6555,
+      "prix_comparaison": 7900,
+      "indice_prix": 120.51868802440885
     },
     {
-      "cle": "selsepicesherbes_5984grainesdepavot100g_html",
-      "name": "Graines de Pavot 100g",
-      "prix_base": 7125,
-      "prix_comparaison": 7500,
-      "indice_prix": 105.26315789473684
+      "cle": "boissonsgazeusesauxfruits_12695boissongazeusefunorange15llook_html",
+      "name": "Boisson gazeuse Fun orange 1,5L",
+      "prix_base": 6555,
+      "prix_comparaison": 7900,
+      "indice_prix": 120.51868802440885
     },
     {
-      "cle": "saucesfroidesketchupmayonnaise_12479saucetartare235gboutondor_html",
-      "name": "Sauce tartare 235g",
-      "prix_base": 7885,
-      "prix_comparaison": 8300,
-      "indice_prix": 105.26315789473684
+      "cle": "boitespatessachetschat_13578boucheesensauceaubufetpouletpourpetitschiens4sachetsde100gcanaillou_html",
+      "name": "Bouch\u00e9es en sauce au b\u0153uf et poulet pour petits chiens 4 sachets de 100g",
+      "prix_base": 8075,
+      "prix_comparaison": 9400,
+      "indice_prix": 116.40866873065015
+    },
+    {
+      "cle": "nettoyantsmultiusages_12808eaudejavellavande2lapta_html",
+      "name": "Eau de javel lavande 2L",
+      "prix_base": 6555,
+      "prix_comparaison": 7600,
+      "indice_prix": 115.94202898550725
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "cremessoinsducorps_13239cremedesoinvisageetcorpstoustypesdepeaux250mllabell_html",
-      "name": "Cr\u00e8me de soin visage et corps  tous types de peaux 250ml",
-      "prix_base": 11590,
-      "prix_comparaison": 11900,
-      "indice_prix": 102.67471958584987
+      "cle": "protectionshygienefeminine_12412servietteshygieniquesultrasuperavecailettes12pieceslabell_html",
+      "name": "Serviettes hygi\u00e8niques ultra super avec ailettes 12 pi\u00e8ces",
+      "prix_base": 11305,
+      "prix_comparaison": 7500,
+      "indice_prix": 66.34232640424591
     },
     {
-      "cle": "lessiveliquide_3176lessiveliquidemaxxlingesblancsetcoloresvert5l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s vert 5L",
-      "prix_base": 28405,
-      "prix_comparaison": 29900,
-      "indice_prix": 105.26315789473684
+      "cle": "boissonsgazeusesauxfruits_12953sodafunavecjusdecitronpet15llook_html",
+      "name": "Soda fun avec jus de citron pet 1,5L",
+      "prix_base": 8500,
+      "prix_comparaison": 6200,
+      "indice_prix": 72.94117647058823
     },
     {
-      "cle": "selsepicesherbes_1607selfiniodelabaleinebt600g_html",
-      "name": "Sel fin iod\u00e9 La baleine 600g",
-      "prix_base": 4655,
-      "prix_comparaison": 4900,
-      "indice_prix": 105.26315789473684
+      "cle": "epilationetrasage_13113rasoirsysteme3lamespourfemme2rechargeslabell_html",
+      "name": "Rasoir syst\u00e8me 3 lames pour femme+2recharges",
+      "prix_base": 31255,
+      "prix_comparaison": 23900,
+      "indice_prix": 76.46776515757479
     },
     {
-      "cle": "biscuitsfourres_6770biscuitsfourrestoutchocolatblecompletprince300g_html",
-      "name": "Biscuits fourr\u00e9s tout chocolat bl\u00e9 complet Prince 300g",
-      "prix_base": 12255,
-      "prix_comparaison": 12900,
-      "indice_prix": 105.26315789473684
+      "cle": "protectionshygienefeminine_13453protegeslipteenypocketboitede30labell_html",
+      "name": "Prot\u00e8ge slip teeny pocket boite de 30",
+      "prix_base": 11305,
+      "prix_comparaison": 8900,
+      "indice_prix": 78.72622733303848
+    },
+    {
+      "cle": "cotonsetlingettes_13868lingettesbebex72piecestopbudget_html",
+      "name": "Lingettes b\u00e9b\u00e9 72 pi\u00e8ces",
+      "prix_base": 6460,
+      "prix_comparaison": 5100,
+      "indice_prix": 78.94736842105263
     }
   ]
 }

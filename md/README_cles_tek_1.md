@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucrettes blanches  50 g**
-   - Prix avant: 6,300 Ar
-   - Prix actuel: 6,300 Ar
+3. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
+   - Prix avant: 184,000 Ar
+   - Prix actuel: 184,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

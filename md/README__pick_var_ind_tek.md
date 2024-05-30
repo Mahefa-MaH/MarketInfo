@@ -2,17 +2,17 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Chewing-Gums Style Sans Sucres Cocktails De Fruits 12 Pièces**
-   - Prix avant: 6,800 Ar
-   - Prix actuel: 6,900 Ar
-   - Variation: +100 Ar
+1. **Thon sous huile de tournesol 1,7Kg**
+   - Prix avant: 163,000 Ar
+   - Prix actuel: 152,700 Ar
+   - Variation: -10,300 Ar
 
 
 
 ## Indice de prix
 
-1. **Chewing-Gums Style Sans Sucres Cocktails De Fruits 12 Pièces**
-   - Prix avant: 6,800 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 101.47
+1. **Thon sous huile de tournesol 1,7Kg**
+   - Prix avant: 163,000 Ar
+   - Prix actuel: 152,700 Ar
+   - Indice de prix : 93.68
 
