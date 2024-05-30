@@ -12,10 +12,20 @@
    - Prix actuel: 43,000 Ar
    - Variation: +2,150 Ar
 
-3. **Biscuits petit déj multi céréales 400g**
+3. **Produit sol citron 5L**
+   - Prix avant: 35,055 Ar
+   - Prix actuel: 36,900 Ar
+   - Variation: +1,845 Ar
+
+4. **Biscuits petit déj multi céréales 400g**
    - Prix avant: 16,055 Ar
    - Prix actuel: 17,900 Ar
    - Variation: +1,845 Ar
+
+5. **Café soluble qualité filtre 200g**
+   - Prix avant: 34,675 Ar
+   - Prix actuel: 36,500 Ar
+   - Variation: +1,825 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -34,6 +44,16 @@
    - Prix actuel: 4,500 Ar
    - Variation: +225 Ar
 
+4. **Sel fin iodé La baleine 600g**
+   - Prix avant: 4,655 Ar
+   - Prix actuel: 4,900 Ar
+   - Variation: +245 Ar
+
+5. **Boulettes en sauce au bœuf pour chat 400g**
+   - Prix avant: 4,655 Ar
+   - Prix actuel: 4,900 Ar
+   - Variation: +245 Ar
+
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Biscuits petit déj multi céréales 400g**
@@ -41,12 +61,22 @@
    - Prix actuel: 17,900 Ar
    - Indice de prix : 111.49
 
-2. **Sauce tartare 235g**
+2. **Beurre marquis doux 200g**
+   - Prix avant: 8,312 Ar
+   - Prix actuel: 8,750 Ar
+   - Indice de prix : 105.27
+
+3. **Graines de Pavot 100g**
+   - Prix avant: 7,125 Ar
+   - Prix actuel: 7,500 Ar
+   - Indice de prix : 105.26
+
+4. **Sauce tartare 235g**
    - Prix avant: 7,885 Ar
    - Prix actuel: 8,300 Ar
    - Indice de prix : 105.26
 
-3. **Housse de repassage aluminium mousse 130x46cm**
+5. **Housse de repassage aluminium mousse 130x46cm**
    - Prix avant: 41,705 Ar
    - Prix actuel: 43,900 Ar
    - Indice de prix : 105.26
@@ -58,12 +88,22 @@
    - Prix actuel: 11,900 Ar
    - Indice de prix : 102.67
 
-2. **Sel fin iodé La baleine 600g**
+2. **Lessive liquide maxx linges blancs et colorés vert 5L**
+   - Prix avant: 28,405 Ar
+   - Prix actuel: 29,900 Ar
+   - Indice de prix : 105.26
+
+3. **Sel fin iodé La baleine 600g**
    - Prix avant: 4,655 Ar
    - Prix actuel: 4,900 Ar
    - Indice de prix : 105.26
 
-3. **Chips nature ondulée 25g**
+4. **Biscuits fourrés tout chocolat blé complet Prince 300g**
+   - Prix avant: 12,255 Ar
+   - Prix actuel: 12,900 Ar
+   - Indice de prix : 105.26
+
+5. **Chips nature ondulée 25g**
    - Prix avant: 2,660 Ar
    - Prix actuel: 2,800 Ar
    - Indice de prix : 105.26
