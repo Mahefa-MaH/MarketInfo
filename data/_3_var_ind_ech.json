@@ -1,66 +1,59 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_fromagevachequirit336g24portions_",
-      "name": "Fromage Vache qui rit 336g | 24 portions",
-      "prix_base": 16620,
-      "prix_comparaison": 21720,
-      "variation": 5100
-    },
-    {
-      "cle": "produit_piedsdeporcenviron500g_",
-      "name": "Pieds de Porc Environ 500g LeaderPrice\u2122",
-      "prix_base": 10050,
-      "prix_comparaison": 13960,
-      "variation": 3910
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 20000,
+      "prix_comparaison": 25000,
+      "variation": 5000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_piedsdeporcenviron500g_",
-      "name": "Pieds de Porc Environ 500g LeaderPrice\u2122",
-      "prix_base": 10050,
-      "prix_comparaison": 13960,
-      "variation": 3910
+      "cle": "produit_betteraverouge_",
+      "name": "Betterave rouge 1 kg",
+      "prix_base": 6667,
+      "prix_comparaison": 6250,
+      "variation": -417
     },
     {
-      "cle": "produit_fromagevachequirit336g24portions_",
-      "name": "Fromage Vache qui rit 336g | 24 portions",
-      "prix_base": 16620,
-      "prix_comparaison": 21720,
-      "variation": 5100
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 20000,
+      "prix_comparaison": 25000,
+      "variation": 5000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_piedsdeporcenviron500g_",
-      "name": "Pieds de Porc Environ 500g LeaderPrice\u2122",
-      "prix_base": 10050,
-      "prix_comparaison": 13960,
-      "indice_prix": 138.90547263681592
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 20000,
+      "prix_comparaison": 25000,
+      "indice_prix": 125.0
     },
     {
-      "cle": "produit_fromagevachequirit336g24portions_",
-      "name": "Fromage Vache qui rit 336g | 24 portions",
-      "prix_base": 16620,
-      "prix_comparaison": 21720,
-      "indice_prix": 130.68592057761734
+      "cle": "produit_betteraverouge_",
+      "name": "Betterave rouge 1 kg",
+      "prix_base": 6667,
+      "prix_comparaison": 6250,
+      "indice_prix": 93.74531273436328
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_fromagevachequirit336g24portions_",
-      "name": "Fromage Vache qui rit 336g | 24 portions",
-      "prix_base": 16620,
-      "prix_comparaison": 21720,
-      "indice_prix": 130.68592057761734
+      "cle": "produit_betteraverouge_",
+      "name": "Betterave rouge 1 kg",
+      "prix_base": 6667,
+      "prix_comparaison": 6250,
+      "indice_prix": 93.74531273436328
     },
     {
-      "cle": "produit_piedsdeporcenviron500g_",
-      "name": "Pieds de Porc Environ 500g LeaderPrice\u2122",
-      "prix_base": 10050,
-      "prix_comparaison": 13960,
-      "indice_prix": 138.90547263681592
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 20000,
+      "prix_comparaison": 25000,
+      "indice_prix": 125.0
     }
   ]
 }

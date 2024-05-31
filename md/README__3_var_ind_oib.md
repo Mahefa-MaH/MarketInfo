@@ -12,6 +12,16 @@
    - Prix actuel: 399,000 Ar
    - Variation: +37,000 Ar
 
+3. **BaByliss - D572DE - Sèche-cheveux Turbo Smooth 2200 avec Technologie Ionique et Céramique**
+   - Prix avant: 234,000 Ar
+   - Prix actuel: 251,000 Ar
+   - Variation: +17,000 Ar
+
+4. **Ecran PC Gamer Incurvé - AOC - CQ27G2S/BK - 27 VA QHD 1ms 144Hz HDMI DisplayPort USB HP Pivot Réglable en hauteur Freesync Pre**
+   - Prix avant: 1,701,000 Ar
+   - Prix actuel: 1,710,000 Ar
+   - Variation: +9,000 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzenâ¢ 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -**
@@ -24,6 +34,16 @@
    - Prix actuel: 5,810,000 Ar
    - Variation: -90,000 Ar
 
+3. **Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L**
+   - Prix avant: 2,338,000 Ar
+   - Prix actuel: 2,274,000 Ar
+   - Variation: -64,000 Ar
+
+4. **Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-rsistante**
+   - Prix avant: 1,370,000 Ar
+   - Prix actuel: 1,312,000 Ar
+   - Variation: -58,000 Ar
+
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Coriandre entière 250g**
@@ -31,7 +51,17 @@
    - Prix actuel: 8,900 Ar
    - Indice de prix : 123.61
 
-2. **THE G-LAB COMBO ARGON Clavier FR Rétroéclairé Performance + Souris Revetement Soft-Touch + Casque KORP 100 + Tapis Antidérapant**
+2. **Insecticide parfumé pour insectes volants 400ml**
+   - Prix avant: 8,300 Ar
+   - Prix actuel: 9,900 Ar
+   - Indice de prix : 119.28
+
+3. **Insecticide parfumé pour insectes rampants 400ml**
+   - Prix avant: 8,300 Ar
+   - Prix actuel: 9,900 Ar
+   - Indice de prix : 119.28
+
+4. **THE G-LAB COMBO ARGON Clavier FR Rétroéclairé Performance + Souris Revetement Soft-Touch + Casque KORP 100 + Tapis Antidérapant**
    - Prix avant: 362,000 Ar
    - Prix actuel: 399,000 Ar
    - Indice de prix : 110.22
@@ -43,7 +73,17 @@
    - Prix actuel: 49,000 Ar
    - Indice de prix : 59.76
 
-2. **Huile de tournesol 1L**
+2. **Eponges mousse grattantes 2 pièces**
+   - Prix avant: 2,500 Ar
+   - Prix actuel: 1,900 Ar
+   - Indice de prix : 76.00
+
+3. **Liquide vaisselle citron 1L**
+   - Prix avant: 4,500 Ar
+   - Prix actuel: 3,500 Ar
+   - Indice de prix : 77.78
+
+4. **Huile de tournesol 1L**
    - Prix avant: 12,500 Ar
    - Prix actuel: 9,900 Ar
    - Indice de prix : 79.20

@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 3493,
-      "prix_base": 10000,
-      "name": "Olives Noires Entiers 370 Cl",
-      "prix_comparaison": 13100,
-      "variation": 3100
+      "list_id": 2403,
+      "prix_base": 18300,
+      "name": "Lait Corps Beurre De Cacao 250 Ml",
+      "prix_comparaison": 23800,
+      "variation": 5500
     },
     {
-      "list_id": 3479,
-      "prix_base": 8100,
-      "name": "Double Concentre De Tomates 400 G",
-      "prix_comparaison": 8200,
-      "variation": 100
+      "list_id": 2398,
+      "prix_base": 18300,
+      "name": "Lait Corps Shea Smooth 250 Ml",
+      "prix_comparaison": 23800,
+      "variation": 5500
     },
     {
-      "list_id": 4029,
-      "prix_base": 11500,
-      "name": "Gnocchi De Patate 500  G",
-      "prix_comparaison": 11100,
-      "variation": -400
+      "list_id": 10062,
+      "prix_base": 77300,
+      "name": "S\u00e9rum visage anti-imperfections 30 ml",
+      "prix_comparaison": 80700,
+      "variation": 3400
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4064,
-      "prix_base": 163000,
-      "name": "Thon sous huile de tournesol 1,7Kg",
-      "prix_comparaison": 152700,
-      "variation": -10300
+      "list_id": 13335,
+      "prix_base": 154800,
+      "name": "Brosse \u00e0 dents \u00e9lectrique rechargeable",
+      "prix_comparaison": 108000,
+      "variation": -46800
     },
     {
-      "list_id": 4092,
-      "prix_base": 135000,
-      "name": "Artichauts Coup\u00e9s Naturel 2,5 Kg",
-      "prix_comparaison": 128200,
-      "variation": -6800
+      "list_id": 13332,
+      "prix_base": 276000,
+      "name": "Fer \u00e0 vapeur 2000 W GC1751/80 EasySpeed",
+      "prix_comparaison": 238600,
+      "variation": -37400
     },
     {
-      "list_id": 4004,
-      "prix_base": 58000,
-      "name": "Sauce Pesto 530 G",
-      "prix_comparaison": 55500,
-      "variation": -2500
+      "list_id": 2791,
+      "prix_base": 249600,
+      "name": "Croquette pour chien Energy 20 Kg",
+      "prix_comparaison": 234000,
+      "variation": -15600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3493,
-      "name": "Olives Noires Entiers 370 Cl",
-      "prix_base": 10000,
-      "prix_comparaison": 13100,
-      "indice_prix": 131.0
+      "list_id": 2403,
+      "name": "Lait Corps Beurre De Cacao 250 Ml",
+      "prix_base": 18300,
+      "prix_comparaison": 23800,
+      "indice_prix": 130.05464480874318
     },
     {
-      "list_id": 3479,
-      "name": "Double Concentre De Tomates 400 G",
-      "prix_base": 8100,
-      "prix_comparaison": 8200,
-      "indice_prix": 101.23456790123457
+      "list_id": 2398,
+      "name": "Lait Corps Shea Smooth 250 Ml",
+      "prix_base": 18300,
+      "prix_comparaison": 23800,
+      "indice_prix": 130.05464480874318
     },
     {
-      "list_id": 4165,
-      "name": "C\u00e8pes S\u00e9ch\u00e9s 30 G",
-      "prix_base": 35400,
-      "prix_comparaison": 34600,
-      "indice_prix": 97.74011299435028
+      "list_id": 11449,
+      "name": "C\u00e9r\u00e9ales formes chocolat noir 300 g",
+      "prix_base": 11900,
+      "prix_comparaison": 13600,
+      "indice_prix": 114.28571428571429
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 8290,
-      "name": "Bonbons en sachet de 50 pi\u00e8ces 100 g",
+      "list_id": 10868,
+      "name": "Ruban adh\u00e9sif de masquage Masking Tape",
+      "prix_base": 3480,
+      "prix_comparaison": 2400,
+      "indice_prix": 68.96551724137932
+    },
+    {
+      "list_id": 13335,
+      "name": "Brosse \u00e0 dents \u00e9lectrique rechargeable",
+      "prix_base": 154800,
+      "prix_comparaison": 108000,
+      "indice_prix": 69.76744186046511
+    },
+    {
+      "list_id": 7937,
+      "name": "Classeur 4 anneaux PVC",
       "prix_base": 7800,
       "prix_comparaison": 6000,
       "indice_prix": 76.92307692307692
-    },
-    {
-      "list_id": 3491,
-      "name": "Olives Vertes Entieres 370 Cl",
-      "prix_base": 10200,
-      "prix_comparaison": 8100,
-      "indice_prix": 79.41176470588235
-    },
-    {
-      "list_id": 4064,
-      "name": "Thon sous huile de tournesol 1,7Kg",
-      "prix_base": 163000,
-      "prix_comparaison": 152700,
-      "indice_prix": 93.68098159509202
     }
   ]
 }
