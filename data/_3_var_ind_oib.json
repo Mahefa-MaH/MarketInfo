@@ -20,6 +20,13 @@
       "prix_base": 508250,
       "prix_comparaison": 535000,
       "variation": 26750
+    },
+    {
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 494000,
+      "prix_comparaison": 520000,
+      "variation": 26000
     }
   ],
   "prix_diminues": [
@@ -43,6 +50,13 @@
       "prix_base": 11305,
       "prix_comparaison": 7500,
       "variation": -3805
+    },
+    {
+      "cle": "pansementcomplements_13169sprayantibacterien100mllabell_html",
+      "name": "Spray anti-bact\u00e9rien 100ml",
+      "prix_base": 16055,
+      "prix_comparaison": 12900,
+      "variation": -3155
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,6 +80,13 @@
       "prix_base": 6555,
       "prix_comparaison": 7900,
       "indice_prix": 120.51868802440885
+    },
+    {
+      "cle": "boitespatessachetschat_13578boucheesensauceaubufetpouletpourpetitschiens4sachetsde100gcanaillou_html",
+      "name": "Bouch\u00e9es en sauce au b\u0153uf et poulet pour petits chiens 4 sachets de 100g",
+      "prix_base": 8075,
+      "prix_comparaison": 9400,
+      "indice_prix": 116.40866873065015
     }
   ],
   "indices_prix_plus_faibles": [
@@ -89,6 +110,13 @@
       "prix_base": 31255,
       "prix_comparaison": 23900,
       "indice_prix": 76.46776515757479
+    },
+    {
+      "cle": "protectionshygienefeminine_13453protegeslipteenypocketboitede30labell_html",
+      "name": "Prot\u00e8ge slip teeny pocket boite de 30",
+      "prix_base": 11305,
+      "prix_comparaison": 8900,
+      "indice_prix": 78.72622733303848
     }
   ]
 }

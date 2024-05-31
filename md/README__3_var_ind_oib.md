@@ -17,6 +17,11 @@
    - Prix actuel: 535,000 Ar
    - Variation: +26,750 Ar
 
+4. **Thermomètre infrarouge**
+   - Prix avant: 494,000 Ar
+   - Prix actuel: 520,000 Ar
+   - Variation: +26,000 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Rasoir système 3 lames pour femme+2recharges**
@@ -33,6 +38,11 @@
    - Prix avant: 11,305 Ar
    - Prix actuel: 7,500 Ar
    - Variation: -3,805 Ar
+
+4. **Spray anti-bactérien 100ml**
+   - Prix avant: 16,055 Ar
+   - Prix actuel: 12,900 Ar
+   - Variation: -3,155 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -51,6 +61,11 @@
    - Prix actuel: 7,900 Ar
    - Indice de prix : 120.52
 
+4. **Bouchées en sauce au bœuf et poulet pour petits chiens 4 sachets de 100g**
+   - Prix avant: 8,075 Ar
+   - Prix actuel: 9,400 Ar
+   - Indice de prix : 116.41
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Serviettes hygièniques ultra super avec ailettes 12 pièces**
@@ -67,4 +82,9 @@
    - Prix avant: 31,255 Ar
    - Prix actuel: 23,900 Ar
    - Indice de prix : 76.47
+
+4. **Protège slip teeny pocket boite de 30**
+   - Prix avant: 11,305 Ar
+   - Prix actuel: 8,900 Ar
+   - Indice de prix : 78.73
 
