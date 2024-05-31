@@ -1,76 +1,90 @@
 {
   "Variation de prix": [
     {
-      "cle": "hygienedesmains_9306cremelavanteamandedouce300ml_html",
-      "name": "Cr\u00e8me lavante amande douce 300ml",
-      "prix_base": 2900,
-      "prix_comparaison": 3850,
-      "variation": 950
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 5900000,
+      "prix_comparaison": 5810000,
+      "variation": -90000
     },
     {
-      "cle": "produitskibomoinsde5000ar_9305cremelavantemainsylangetvanille300ml_html",
-      "name": "Cr\u00e8me lavante mains Ylang et vanille 300ml",
-      "prix_base": 2900,
-      "prix_comparaison": 3850,
-      "variation": 950
+      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
+      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2338000,
+      "prix_comparaison": 2274000,
+      "variation": -64000
     },
     {
-      "cle": "deodorants_15317deodorantspraygrapefruitandlychee200ml_html",
-      "name": "D\u00e9odorant spray grapefruit and lychee 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "variation": 6000
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1614000,
+      "prix_comparaison": 1604000,
+      "variation": -10000
     },
     {
-      "cle": "deodorants_5669deodorantcucumberetmelon200ml_html",
-      "name": "D\u00e9odorant Cucumber et Melon 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "variation": 6000
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2246000,
+      "prix_comparaison": 2237000,
+      "variation": -9000
     },
     {
-      "cle": "deodorants_15316deodorantspraysoftandcontrolfreshjasmin200ml_html",
-      "name": "D\u00e9odorant spray soft and control fresh jasmin 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "variation": 6000
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4152000,
+      "prix_comparaison": 4151000,
+      "variation": -1000
+    },
+    {
+      "cle": "produitsnettoyantscuisines_14735cremearecurersuperactif950g_html",
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer super actif 950g",
+      "prix_base": 6200,
+      "prix_comparaison": 5500,
+      "variation": -700
     }
   ],
   "indice de prix": [
     {
-      "cle": "hygienedesmains_9306cremelavanteamandedouce300ml_html",
-      "name": "Cr\u00e8me lavante amande douce 300ml",
-      "prix_base": 2900,
-      "prix_comparaison": 3850,
-      "indice_prix": 132.75862068965517
+      "cle": "produitsnettoyantscuisines_14735cremearecurersuperactif950g_html",
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer super actif 950g",
+      "prix_base": 6200,
+      "prix_comparaison": 5500,
+      "indice_prix": 88.70967741935483
     },
     {
-      "cle": "produitskibomoinsde5000ar_9305cremelavantemainsylangetvanille300ml_html",
-      "name": "Cr\u00e8me lavante mains Ylang et vanille 300ml",
-      "prix_base": 2900,
-      "prix_comparaison": 3850,
-      "indice_prix": 132.75862068965517
+      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
+      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2338000,
+      "prix_comparaison": 2274000,
+      "indice_prix": 97.26261762189905
     },
     {
-      "cle": "deodorants_15317deodorantspraygrapefruitandlychee200ml_html",
-      "name": "D\u00e9odorant spray grapefruit and lychee 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "indice_prix": 148.0
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 5900000,
+      "prix_comparaison": 5810000,
+      "indice_prix": 98.47457627118644
     },
     {
-      "cle": "deodorants_5669deodorantcucumberetmelon200ml_html",
-      "name": "D\u00e9odorant Cucumber et Melon 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "indice_prix": 148.0
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1614000,
+      "prix_comparaison": 1604000,
+      "indice_prix": 99.38042131350682
     },
     {
-      "cle": "deodorants_15316deodorantspraysoftandcontrolfreshjasmin200ml_html",
-      "name": "D\u00e9odorant spray soft and control fresh jasmin 200ml",
-      "prix_base": 12500,
-      "prix_comparaison": 18500,
-      "indice_prix": 148.0
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2246000,
+      "prix_comparaison": 2237000,
+      "indice_prix": 99.59928762243989
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4152000,
+      "prix_comparaison": 4151000,
+      "indice_prix": 99.97591522157997
     }
   ]
 }

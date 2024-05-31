@@ -1,122 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 625005,
-      "prix_comparaison": 657900,
-      "variation": 32895
+      "cle": "ordinateursportables_14815pcportablehp15sfq5028nf156fhdcorei31215uram8gostockage256gossdwindows11azerty_html",
+      "name": "PC Portable HP 15s-fq5028nf - 15.6 FHD - Core i3-1215U - RAM 8Go - Stockage 256Go SSD - Windows 11 - AZERTY",
+      "prix_base": 2241000,
+      "prix_comparaison": 2358000,
+      "variation": 117000
     },
     {
-      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
-      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
-      "prix_base": 569050,
-      "prix_comparaison": 599000,
-      "variation": 29950
-    },
-    {
-      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
-      "name": "Faitout rond rouge Slowcook \u00d828cm",
-      "prix_base": 508250,
-      "prix_comparaison": 535000,
-      "variation": 26750
-    },
-    {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 494000,
-      "prix_comparaison": 520000,
-      "variation": 26000
+      "cle": "sourisetclaviers_14822theglabcomboargonclavierfrretroeclaireperformancesourisrevetementsofttouchcasquekorp100tapisantiderapant_html",
+      "name": "THE G-LAB COMBO ARGON Clavier FR R\u00e9tro\u00e9clair\u00e9 Performance + Souris Revetement Soft-Touch + Casque KORP 100 + Tapis Antid\u00e9rapant",
+      "prix_base": 362000,
+      "prix_comparaison": 399000,
+      "variation": 37000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "epilationetrasage_13113rasoirsysteme3lamespourfemme2rechargeslabell_html",
-      "name": "Rasoir syst\u00e8me 3 lames pour femme+2recharges",
-      "prix_base": 31255,
-      "prix_comparaison": 23900,
-      "variation": -7355
+      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
+      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
+      "prix_base": 3654000,
+      "prix_comparaison": 3291000,
+      "variation": -363000
     },
     {
-      "cle": "epilationetrasage_12847cireorientalealhuiledarganausucre250mllabell_html",
-      "name": "Cire orientale \u00e0 l'huile d'argan et au sucre 250ml",
-      "prix_base": 23560,
-      "prix_comparaison": 19500,
-      "variation": -4060
-    },
-    {
-      "cle": "protectionshygienefeminine_12412servietteshygieniquesultrasuperavecailettes12pieceslabell_html",
-      "name": "Serviettes hygi\u00e8niques ultra super avec ailettes 12 pi\u00e8ces",
-      "prix_base": 11305,
-      "prix_comparaison": 7500,
-      "variation": -3805
-    },
-    {
-      "cle": "pansementcomplements_13169sprayantibacterien100mllabell_html",
-      "name": "Spray anti-bact\u00e9rien 100ml",
-      "prix_base": 16055,
-      "prix_comparaison": 12900,
-      "variation": -3155
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 5900000,
+      "prix_comparaison": 5810000,
+      "variation": -90000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "autresproduitsaperitifs_15114twinutscacahuetesenrobeesgoutsales_html",
-      "name": "Twinuts cacahu\u00e8tes enrob\u00e9es go\u00fbt sal\u00e9s 150g",
-      "prix_base": 8700,
-      "prix_comparaison": 11900,
-      "indice_prix": 136.7816091954023
+      "cle": "selsepicesherbes_6019coriandreentiere250g_html",
+      "name": "Coriandre enti\u00e8re 250g",
+      "prix_base": 7200,
+      "prix_comparaison": 8900,
+      "indice_prix": 123.61111111111111
     },
     {
-      "cle": "gelsetbainsdouche_13244geldouchepecheetaloevera250mllabell_html",
-      "name": "Cr\u00e8me douche p\u00eache et aloe Vera 250ml",
-      "prix_base": 6555,
-      "prix_comparaison": 7900,
-      "indice_prix": 120.51868802440885
-    },
-    {
-      "cle": "boissonsgazeusesauxfruits_12695boissongazeusefunorange15llook_html",
-      "name": "Boisson gazeuse Fun orange 1,5L",
-      "prix_base": 6555,
-      "prix_comparaison": 7900,
-      "indice_prix": 120.51868802440885
-    },
-    {
-      "cle": "boitespatessachetschat_13578boucheesensauceaubufetpouletpourpetitschiens4sachetsde100gcanaillou_html",
-      "name": "Bouch\u00e9es en sauce au b\u0153uf et poulet pour petits chiens 4 sachets de 100g",
-      "prix_base": 8075,
-      "prix_comparaison": 9400,
-      "indice_prix": 116.40866873065015
+      "cle": "sourisetclaviers_14822theglabcomboargonclavierfrretroeclaireperformancesourisrevetementsofttouchcasquekorp100tapisantiderapant_html",
+      "name": "THE G-LAB COMBO ARGON Clavier FR R\u00e9tro\u00e9clair\u00e9 Performance + Souris Revetement Soft-Touch + Casque KORP 100 + Tapis Antid\u00e9rapant",
+      "prix_base": 362000,
+      "prix_comparaison": 399000,
+      "indice_prix": 110.22099447513813
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "protectionshygienefeminine_12412servietteshygieniquesultrasuperavecailettes12pieceslabell_html",
-      "name": "Serviettes hygi\u00e8niques ultra super avec ailettes 12 pi\u00e8ces",
-      "prix_base": 11305,
-      "prix_comparaison": 7500,
-      "indice_prix": 66.34232640424591
+      "cle": "huiles_6227huiledetournesol5l_html",
+      "name": "Huile de tournesol 5L",
+      "prix_base": 82000,
+      "prix_comparaison": 49000,
+      "indice_prix": 59.75609756097561
     },
     {
-      "cle": "boissonsgazeusesauxfruits_12953sodafunavecjusdecitronpet15llook_html",
-      "name": "Soda fun avec jus de citron pet 1,5L",
-      "prix_base": 8500,
-      "prix_comparaison": 6200,
-      "indice_prix": 72.94117647058823
-    },
-    {
-      "cle": "epilationetrasage_13113rasoirsysteme3lamespourfemme2rechargeslabell_html",
-      "name": "Rasoir syst\u00e8me 3 lames pour femme+2recharges",
-      "prix_base": 31255,
-      "prix_comparaison": 23900,
-      "indice_prix": 76.46776515757479
-    },
-    {
-      "cle": "protectionshygienefeminine_13453protegeslipteenypocketboitede30labell_html",
-      "name": "Prot\u00e8ge slip teeny pocket boite de 30",
-      "prix_base": 11305,
-      "prix_comparaison": 8900,
-      "indice_prix": 78.72622733303848
+      "cle": "huiles_6226huiledetournesol1l_html",
+      "name": "Huile de tournesol 1L",
+      "prix_base": 12500,
+      "prix_comparaison": 9900,
+      "indice_prix": 79.2
     }
   ]
 }

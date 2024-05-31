@@ -1,20 +1,146 @@
 {
   "Variation de prix": [
     {
-      "list_id": 4064,
-      "name": "Thon sous huile de tournesol 1,7Kg",
-      "prix_base": 163000,
-      "prix_comparaison": 152700,
-      "variation": -10300
+      "list_id": 2482,
+      "name": "Cr\u00e8me Boite 60 Ml",
+      "prix_base": 8100,
+      "prix_comparaison": 8400,
+      "variation": 300
+    },
+    {
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 7200,
+      "prix_comparaison": 8000,
+      "variation": 800
+    },
+    {
+      "list_id": 2483,
+      "name": "Cr\u00e8me Boite 150 Ml",
+      "prix_base": 15900,
+      "prix_comparaison": 16700,
+      "variation": 800
+    },
+    {
+      "list_id": 7256,
+      "name": "Sucre Demi-morceaux pure canne 750 g",
+      "prix_base": 18700,
+      "prix_comparaison": 19600,
+      "variation": 900
+    },
+    {
+      "list_id": 2375,
+      "name": "Cr\u00e8me de soin hydratante Soft 75 Ml",
+      "prix_base": 15800,
+      "prix_comparaison": 16900,
+      "variation": 1100
+    },
+    {
+      "list_id": 2591,
+      "name": "Cr\u00e8me Soft 200 Ml",
+      "prix_base": 26700,
+      "prix_comparaison": 28000,
+      "variation": 1300
+    },
+    {
+      "list_id": 2492,
+      "name": "Cr\u00e8me Douche Soft H Amande 250 Ml",
+      "prix_base": 23100,
+      "prix_comparaison": 24500,
+      "variation": 1400
+    },
+    {
+      "list_id": 2498,
+      "name": "Cr\u00e8me Douche Nourrissante 250 Ml",
+      "prix_base": 23100,
+      "prix_comparaison": 24500,
+      "variation": 1400
+    },
+    {
+      "list_id": 2388,
+      "name": "Lait Cr\u00e8me Nourrissant 250 Ml",
+      "prix_base": 22100,
+      "prix_comparaison": 23800,
+      "variation": 1700
+    },
+    {
+      "list_id": 9561,
+      "name": "Huile d' olive vierge extra 1 L",
+      "prix_base": 65500,
+      "prix_comparaison": 68300,
+      "variation": 2800
     }
   ],
   "indice de prix": [
     {
-      "list_id": 4064,
-      "name": "Thon sous huile de tournesol 1,7Kg",
-      "prix_base": 163000,
-      "prix_comparaison": 152700,
-      "indice_prix": 93.68098159509202
+      "list_id": 2482,
+      "name": "Cr\u00e8me Boite 60 Ml",
+      "prix_base": 8100,
+      "prix_comparaison": 8400,
+      "indice_prix": 103.70370370370371
+    },
+    {
+      "list_id": 9561,
+      "name": "Huile d' olive vierge extra 1 L",
+      "prix_base": 65500,
+      "prix_comparaison": 68300,
+      "indice_prix": 104.27480916030534
+    },
+    {
+      "list_id": 7256,
+      "name": "Sucre Demi-morceaux pure canne 750 g",
+      "prix_base": 18700,
+      "prix_comparaison": 19600,
+      "indice_prix": 104.81283422459893
+    },
+    {
+      "list_id": 2591,
+      "name": "Cr\u00e8me Soft 200 Ml",
+      "prix_base": 26700,
+      "prix_comparaison": 28000,
+      "indice_prix": 104.8689138576779
+    },
+    {
+      "list_id": 2483,
+      "name": "Cr\u00e8me Boite 150 Ml",
+      "prix_base": 15900,
+      "prix_comparaison": 16700,
+      "indice_prix": 105.03144654088051
+    },
+    {
+      "list_id": 2492,
+      "name": "Cr\u00e8me Douche Soft H Amande 250 Ml",
+      "prix_base": 23100,
+      "prix_comparaison": 24500,
+      "indice_prix": 106.06060606060606
+    },
+    {
+      "list_id": 2498,
+      "name": "Cr\u00e8me Douche Nourrissante 250 Ml",
+      "prix_base": 23100,
+      "prix_comparaison": 24500,
+      "indice_prix": 106.06060606060606
+    },
+    {
+      "list_id": 2375,
+      "name": "Cr\u00e8me de soin hydratante Soft 75 Ml",
+      "prix_base": 15800,
+      "prix_comparaison": 16900,
+      "indice_prix": 106.9620253164557
+    },
+    {
+      "list_id": 2388,
+      "name": "Lait Cr\u00e8me Nourrissant 250 Ml",
+      "prix_base": 22100,
+      "prix_comparaison": 23800,
+      "indice_prix": 107.6923076923077
+    },
+    {
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 7200,
+      "prix_comparaison": 8000,
+      "indice_prix": 111.11111111111111
     }
   ]
 }

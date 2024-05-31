@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 3100,
-      "prix_comparaison": 3100,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 12451,
-      "name": "Riz rouge long grain complet 500 g",
-      "prix_base": 12300,
-      "prix_comparaison": 12300,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 9679,
       "name": "Sucrettes blanches  50 g",
       "prix_base": 6300,
       "prix_comparaison": 6300,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 11800,
+      "prix_comparaison": 11800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10200,
+      "prix_comparaison": 10200,
       "variation": 0,
       "indice_prix": 100.0
     }
