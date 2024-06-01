@@ -2,44 +2,59 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Tomate Cerise 1kg**
-   - Prix avant: 20,000 Ar
-   - Prix actuel: 25,000 Ar
-   - Variation: +5,000 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Betterave rouge 1 kg**
-   - Prix avant: 6,667 Ar
-   - Prix actuel: 6,250 Ar
-   - Variation: -417 Ar
+1. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 210,500 Ar
+   - Prix actuel: 187,900 Ar
+   - Variation: -22,600 Ar
 
-2. **Tomate Cerise 1kg**
-   - Prix avant: 20,000 Ar
-   - Prix actuel: 25,000 Ar
-   - Variation: +5,000 Ar
+2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 106,250 Ar
+   - Prix actuel: 94,950 Ar
+   - Variation: -11,300 Ar
+
+3. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
+   - Prix avant: 21,750 Ar
+   - Prix actuel: 19,490 Ar
+   - Variation: -2,260 Ar
+
+4. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 4,170 Ar
+   - Prix actuel: 3,718 Ar
+   - Variation: -452 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Tomate Cerise 1kg**
-   - Prix avant: 20,000 Ar
-   - Prix actuel: 25,000 Ar
-   - Indice de prix : 125.00
+1. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
+   - Prix avant: 21,750 Ar
+   - Prix actuel: 19,490 Ar
+   - Indice de prix : 89.61
 
-2. **Betterave rouge 1 kg**
-   - Prix avant: 6,667 Ar
-   - Prix actuel: 6,250 Ar
-   - Indice de prix : 93.75
+2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 106,250 Ar
+   - Prix actuel: 94,950 Ar
+   - Indice de prix : 89.36
+
+3. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 210,500 Ar
+   - Prix actuel: 187,900 Ar
+   - Indice de prix : 89.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Betterave rouge 1 kg**
-   - Prix avant: 6,667 Ar
-   - Prix actuel: 6,250 Ar
-   - Indice de prix : 93.75
+1. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 4,170 Ar
+   - Prix actuel: 3,718 Ar
+   - Indice de prix : 89.16
 
-2. **Tomate Cerise 1kg**
-   - Prix avant: 20,000 Ar
-   - Prix actuel: 25,000 Ar
-   - Indice de prix : 125.00
+2. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 210,500 Ar
+   - Prix actuel: 187,900 Ar
+   - Indice de prix : 89.26
+
+3. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 106,250 Ar
+   - Prix actuel: 94,950 Ar
+   - Indice de prix : 89.36
 
