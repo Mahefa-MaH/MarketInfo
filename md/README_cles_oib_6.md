@@ -3,8 +3,8 @@
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre blanc en morceaux 1kg**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 14,900 Ar
+   - Prix avant: 13,900 Ar
+   - Prix actuel: 13,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc Fana 1kg**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 6,900 Ar
+3. **Sucre blanc cristallisé 1kg**
+   - Prix avant: 8,600 Ar
+   - Prix actuel: 8,600 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
