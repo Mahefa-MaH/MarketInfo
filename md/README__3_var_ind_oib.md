@@ -17,11 +17,6 @@
    - Prix actuel: 251,000 Ar
    - Variation: +17,000 Ar
 
-4. **Ecran PC Gamer Incurvé - AOC - CQ27G2S/BK - 27 VA QHD 1ms 144Hz HDMI DisplayPort USB HP Pivot Réglable en hauteur Freesync Pre**
-   - Prix avant: 1,701,000 Ar
-   - Prix actuel: 1,710,000 Ar
-   - Variation: +9,000 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzenâ¢ 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -**
@@ -38,11 +33,6 @@
    - Prix avant: 2,338,000 Ar
    - Prix actuel: 2,274,000 Ar
    - Variation: -64,000 Ar
-
-4. **Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-rsistante**
-   - Prix avant: 1,370,000 Ar
-   - Prix actuel: 1,312,000 Ar
-   - Variation: -58,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -61,11 +51,6 @@
    - Prix actuel: 9,900 Ar
    - Indice de prix : 119.28
 
-4. **THE G-LAB COMBO ARGON Clavier FR Rétroéclairé Performance + Souris Revetement Soft-Touch + Casque KORP 100 + Tapis Antidérapant**
-   - Prix avant: 362,000 Ar
-   - Prix actuel: 399,000 Ar
-   - Indice de prix : 110.22
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Huile de tournesol 5L**
@@ -82,9 +67,4 @@
    - Prix avant: 4,500 Ar
    - Prix actuel: 3,500 Ar
    - Indice de prix : 77.78
-
-4. **Huile de tournesol 1L**
-   - Prix avant: 12,500 Ar
-   - Prix actuel: 9,900 Ar
-   - Indice de prix : 79.20
 

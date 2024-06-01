@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "ensemblesommiermatelas_52218dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x90x200cmmatelasressortsensaches5412618134476_html",
+      "name": "Ensemble matelas + sommiers relaxation \u00e9lectrique - 2x90x200 cm - Matelas ressorts ensach\u00e9s - ERGO 9 Dreamzone - DEKO DREAM",
+      "prix_base": 11247000,
+      "prix_comparaison": 11247000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "ensemblesommiermatelas_139434ensemblerelaxationelectriquephysiomaxmatelassommiers2x90x200cmressortsensachesdekodreamergo65412618139396_html",
       "name": "Ensemble relaxation \u00e9lectrique PHYSIOMAX - matelas + sommiers 2x90x200 cm - Ressorts ensach\u00e9s - DEKO DREAM ERGO 6",
       "prix_base": 11560000,
@@ -9,18 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "ensemblesommiermatelas_139433ensemblerelaxationelectriquephysiomaxmatelassommiers2x80x200cmressortsensachesdekodreamergo65412618139389_html",
-      "name": "Ensemble relaxation \u00e9lectrique PHYSIOMAX - matelas + sommiers 2x80x200 cm - Ressorts ensach\u00e9s - DEKO DREAM ERGO 6",
-      "prix_base": 10603000,
-      "prix_comparaison": 10603000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ensemblesommiermatelas_52218dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x90x200cmmatelasressortsensaches5412618134476_html",
-      "name": "Ensemble matelas + sommiers relaxation \u00e9lectrique - 2x90x200 cm - Matelas ressorts ensach\u00e9s - ERGO 9 Dreamzone - DEKO DREAM",
-      "prix_base": 11247000,
-      "prix_comparaison": 11247000,
+      "cle": "ensemblesommiermatelas_52217dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x80x200cmmatelasressortsensaches5412618134469_html",
+      "name": "Ensemble relaxation \u00e9lectrique matelas + sommier - 2x80x200 cm - Matelas ressorts ensach\u00e9s DEKO DREAM ERGO 9 Dreamzone",
+      "prix_base": 10785000,
+      "prix_comparaison": 10785000,
       "variation": 0,
       "indice_prix": 100.0
     }

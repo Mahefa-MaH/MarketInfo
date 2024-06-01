@@ -20,13 +20,6 @@
       "prix_base": 234000,
       "prix_comparaison": 251000,
       "variation": 17000
-    },
-    {
-      "cle": "ordinateursdebureau_14828ecranpcgamerincurveaoccq27g2sbk27vaqhd1ms144hzhdmidisplayportusbhppivotreglableenhauteurfreesyncpre_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - AOC - CQ27G2S/BK - 27 VA QHD 1ms 144Hz HDMI DisplayPort USB HP Pivot R\u00e9glable en hauteur Freesync Pre",
-      "prix_base": 1701000,
-      "prix_comparaison": 1710000,
-      "variation": 9000
     }
   ],
   "prix_diminues": [
@@ -50,13 +43,6 @@
       "prix_base": 2338000,
       "prix_comparaison": 2274000,
       "variation": -64000
-    },
-    {
-      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
-      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
-      "prix_base": 1370000,
-      "prix_comparaison": 1312000,
-      "variation": -58000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,13 +66,6 @@
       "prix_base": 8300,
       "prix_comparaison": 9900,
       "indice_prix": 119.27710843373494
-    },
-    {
-      "cle": "sourisetclaviers_14822theglabcomboargonclavierfrretroeclaireperformancesourisrevetementsofttouchcasquekorp100tapisantiderapant_html",
-      "name": "THE G-LAB COMBO ARGON Clavier FR R\u00e9tro\u00e9clair\u00e9 Performance + Souris Revetement Soft-Touch + Casque KORP 100 + Tapis Antid\u00e9rapant",
-      "prix_base": 362000,
-      "prix_comparaison": 399000,
-      "indice_prix": 110.22099447513813
     }
   ],
   "indices_prix_plus_faibles": [
@@ -110,13 +89,6 @@
       "prix_base": 4500,
       "prix_comparaison": 3500,
       "indice_prix": 77.77777777777777
-    },
-    {
-      "cle": "huiles_6226huiledetournesol1l_html",
-      "name": "Huile de tournesol 1L",
-      "prix_base": 12500,
-      "prix_comparaison": 9900,
-      "indice_prix": 79.2
     }
   ]
 }
