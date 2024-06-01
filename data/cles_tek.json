@@ -7,22 +7,6 @@
       "prix_comparaison": 9400,
       "variation": 0,
       "indice_prix": 100.0
-    },
-    {
-      "list_id": 12923,
-      "name": "Riz blanc parfum\u00e9 5 kg",
-      "prix_base": 40800,
-      "prix_comparaison": 40800,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 13304,
-      "name": "Riz Rouge (Vary mena) 50kg",
-      "prix_base": 240000,
-      "prix_comparaison": 240000,
-      "variation": 0,
-      "indice_prix": 100.0
     }
   ]
 }
