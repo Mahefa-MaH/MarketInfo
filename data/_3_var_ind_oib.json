@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ordinateursportables_14815pcportablehp15sfq5028nf156fhdcorei31215uram8gostockage256gossdwindows11azerty_html",
-      "name": "PC Portable HP 15s-fq5028nf - 15.6 FHD - Core i3-1215U - RAM 8Go - Stockage 256Go SSD - Windows 11 - AZERTY",
-      "prix_base": 2241000,
-      "prix_comparaison": 2358000,
-      "variation": 117000
-    },
-    {
-      "cle": "sourisetclaviers_14822theglabcomboargonclavierfrretroeclaireperformancesourisrevetementsofttouchcasquekorp100tapisantiderapant_html",
-      "name": "THE G-LAB COMBO ARGON Clavier FR R\u00e9tro\u00e9clair\u00e9 Performance + Souris Revetement Soft-Touch + Casque KORP 100 + Tapis Antid\u00e9rapant",
-      "prix_base": 362000,
-      "prix_comparaison": 399000,
-      "variation": 37000
-    },
-    {
-      "cle": "coiffure_14218babylissd572desechecheveuxturbosmooth2200avectechnologieioniqueetceramique_html",
-      "name": "BaByliss - D572DE - S\u00e8che-cheveux Turbo Smooth 2200 avec Technologie Ionique et C\u00e9ramique",
-      "prix_base": 234000,
-      "prix_comparaison": 251000,
-      "variation": 17000
+      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
+      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
+      "prix_base": 316000,
+      "prix_comparaison": 343000,
+      "variation": 27000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ordinateursportables_14817pcportableaceraspire3a31544pr4sv156fhdamdryzena75700uram16gostockage512gossdwindows11_html",
-      "name": "PC Portable - ACER - ASPIRE 3 A315-44P-R4SV - 15,6 FHD - AMD Ryzen\u00e2\u0084\u00a2 7 5700U - RAM 16 Go - Stockage 512 Go SSD - Windows 11 -",
-      "prix_base": 3654000,
-      "prix_comparaison": 3291000,
-      "variation": -363000
-    },
-    {
-      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 5900000,
-      "prix_comparaison": 5810000,
-      "variation": -90000
-    },
-    {
-      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
-      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
-      "prix_base": 2338000,
-      "prix_comparaison": 2274000,
-      "variation": -64000
+      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
+      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
+      "prix_base": 316000,
+      "prix_comparaison": 343000,
+      "variation": 27000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "selsepicesherbes_6019coriandreentiere250g_html",
-      "name": "Coriandre enti\u00e8re 250g",
-      "prix_base": 7200,
-      "prix_comparaison": 8900,
-      "indice_prix": 123.61111111111111
-    },
-    {
-      "cle": "insecticides_3520insecticideparfumepourinsectesvolants400ml_html",
-      "name": "Insecticide parfum\u00e9 pour insectes volants 400ml",
-      "prix_base": 8300,
-      "prix_comparaison": 9900,
-      "indice_prix": 119.27710843373494
-    },
-    {
-      "cle": "insecticides_3519insecticideparfumepourinsectesrampants400ml_html",
-      "name": "Insecticide parfum\u00e9 pour insectes rampants 400ml",
-      "prix_base": 8300,
-      "prix_comparaison": 9900,
-      "indice_prix": 119.27710843373494
+      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
+      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
+      "prix_base": 316000,
+      "prix_comparaison": 343000,
+      "indice_prix": 108.54430379746836
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "huiles_6227huiledetournesol5l_html",
-      "name": "Huile de tournesol 5L",
-      "prix_base": 82000,
-      "prix_comparaison": 49000,
-      "indice_prix": 59.75609756097561
-    },
-    {
-      "cle": "produitskibomoinsde5000ar_6302epongesmoussegrattantes2pieces_html",
-      "name": "Eponges mousse grattantes 2 pi\u00e8ces",
-      "prix_base": 2500,
-      "prix_comparaison": 1900,
-      "indice_prix": 76.0
-    },
-    {
-      "cle": "detergentvaisselle_13843liquidevaissellecitron1ltopbudget_html",
-      "name": "Liquide vaisselle citron 1L",
-      "prix_base": 4500,
-      "prix_comparaison": 3500,
-      "indice_prix": 77.77777777777777
+      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
+      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
+      "prix_base": 316000,
+      "prix_comparaison": 343000,
+      "indice_prix": 108.54430379746836
     }
   ]
 }

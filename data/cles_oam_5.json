@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_140306apple14macbookprom32024ram16gostockage1togrissideralazerty0195949640490_html",
-      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sid\u00e9ral - AZERTY",
-      "prix_base": 12855000,
-      "prix_comparaison": 12855000,
+      "cle": "tondeuseautoporteesansfil_136387tondeuseautoporteethermique98cmdecoupealpinaat398hatransmissionhydrostatique8008984851559_html",
+      "name": "Tondeuse autoport\u00e9e thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique",
+      "prix_base": 14739000,
+      "prix_comparaison": 14739000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_140305apple15macbookairm32024ram16gostockage512gominuitazerty0195949638909_html",
-      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Minuit - AZERTY",
-      "prix_base": 10310000,
-      "prix_comparaison": 10310000,
+      "cle": "tondeuseautoporteesansfil_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
+      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
+      "prix_base": 12349000,
+      "prix_comparaison": 12349000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133928apple16macbookprom3max2023ram36gostockage1toargentazerty0195949076138_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 20363000,
-      "prix_comparaison": 20363000,
+      "cle": "unitecentraleseuleminipc_124797pcdebureaugamingomenbyhp45lgt221038nfintelcorei913900kram32goddr51tossdgeforcertx408016gofreedo0197497044515_html",
+      "name": "PC de bureau Gaming Omen by HP 45L GT22-1038nf - Intel Core i9-13900K - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDO",
+      "prix_base": 31557000,
+      "prix_comparaison": 31557000,
       "variation": 0,
       "indice_prix": 100.0
     }

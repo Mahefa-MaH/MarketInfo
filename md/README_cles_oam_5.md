@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sidéral - AZERTY**
-   - Prix avant: 12,855,000 Ar
-   - Prix actuel: 12,855,000 Ar
+1. **Tondeuse autoportée thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique**
+   - Prix avant: 14,739,000 Ar
+   - Prix actuel: 14,739,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Minuit - AZERTY**
-   - Prix avant: 10,310,000 Ar
-   - Prix actuel: 10,310,000 Ar
+2. **Tondeuse autoportée thermique ALPINA AT2 66 QA - 66cm de coupe - éjection bac 150L**
+   - Prix avant: 12,349,000 Ar
+   - Prix actuel: 12,349,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty**
-   - Prix avant: 20,363,000 Ar
-   - Prix actuel: 20,363,000 Ar
+3. **PC de bureau Gaming Omen by HP 45L GT22-1038nf - Intel Core i9-13900K - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDO**
+   - Prix avant: 31,557,000 Ar
+   - Prix actuel: 31,557,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

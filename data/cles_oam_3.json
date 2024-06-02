@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
-      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
-      "prix_base": 13688000,
-      "prix_comparaison": 13688000,
+      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
+      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
+      "prix_base": 11581000,
+      "prix_comparaison": 11581000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
-      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
-      "prix_base": 10560000,
-      "prix_comparaison": 10560000,
+      "cle": "unitecentraleseuleminipc_92288pcdebureaugamingomenbyhp40lgt211007nfintelcorei913900kram32go1tossdgeforcertx409024gowindows110197192261767_html",
+      "name": "PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11",
+      "prix_base": 22012000,
+      "prix_comparaison": 22012000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "televiseurled_133093lgoled65c3tvoled65163cm4kultrahd3840x2160100hzsmarttvprocesseura9gen6dolbyatmos4xhdmiw8806091792013_html",
-      "name": "LG 65C3 - TV OLED 65'' (163 cm) - 4K Ultra HD 3840x2160 - 100 Hz - Smart TV - Processeur 9 Gen6 - Dolby Atmos - 4xHDMI - Wifi",
-      "prix_base": 10328000,
-      "prix_comparaison": 10328000,
+      "cle": "unitecentraleseuleminipc_124796pcdebureaugamingomenbyhp45lgt221037nfintelcorei713700kram32goddr51tossdgeforcertx409024gofreedo0197497044478_html",
+      "name": "PC Gamer Omen by HP 45L GT22-1036nf - Ryzen 9-7900X - RAM 32Go DDR5 - 1To SSD - NVIDIA GeForce RTX 4090 24Go - FreeDOS",
+      "prix_base": 33167000,
+      "prix_comparaison": 33167000,
       "variation": 0,
       "indice_prix": 100.0
     }
