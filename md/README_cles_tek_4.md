@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Huile De Soja 1 L**
-   - Prix avant: 11,800 Ar
-   - Prix actuel: 11,800 Ar
+2. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
+   - Prix avant: 190,000 Ar
+   - Prix actuel: 190,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Huile De Soja 1 L**
-   - Prix avant: 10,200 Ar
-   - Prix actuel: 10,200 Ar
+3. **Sucre Blanc 250 g**
+   - Prix avant: 3,100 Ar
+   - Prix actuel: 3,100 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
