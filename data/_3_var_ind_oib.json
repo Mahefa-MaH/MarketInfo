@@ -1,38 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
-      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
-      "prix_base": 316000,
-      "prix_comparaison": 343000,
-      "variation": 27000
+      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
+      "prix_base": 16900,
+      "prix_comparaison": 20900,
+      "variation": 4000
+    },
+    {
+      "cle": "margarines_10329margarinebread40fatspread500g_html",
+      "name": "Margarine Bread 40% fat spread 500g",
+      "prix_base": 5500,
+      "prix_comparaison": 6300,
+      "variation": 800
+    },
+    {
+      "cle": "pates_1977spaghettipanzani500g_html",
+      "name": "Spaghetti Panzani 500g",
+      "prix_base": 2590,
+      "prix_comparaison": 3200,
+      "variation": 610
+    },
+    {
+      "cle": "farinesetchapelures_4941farinedeblemultiusage1kg_html",
+      "name": "Farine de bl\u00e9 multi usage 1kg",
+      "prix_base": 5990,
+      "prix_comparaison": 6590,
+      "variation": 600
+    },
+    {
+      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
+      "name": "Eau de source Cristaline 150cl",
+      "prix_base": 1590,
+      "prix_comparaison": 1890,
+      "variation": 300
     }
   ],
   "prix_diminues": [
     {
-      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
-      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
-      "prix_base": 316000,
-      "prix_comparaison": 343000,
-      "variation": 27000
+      "cle": "lessiveenpoudreettablette_4133dexelcitron30g_html",
+      "name": "Lessive en poudre citron 30g",
+      "prix_base": 290,
+      "prix_comparaison": 350,
+      "variation": 60
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
+      "name": "Yaourt Yoplait nature sucre 90g",
+      "prix_base": 890,
+      "prix_comparaison": 990,
+      "variation": 100
+    },
+    {
+      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
+      "name": "Eau de source Cristaline 150cl",
+      "prix_base": 1590,
+      "prix_comparaison": 1890,
+      "variation": 300
+    },
+    {
+      "cle": "farinesetchapelures_4941farinedeblemultiusage1kg_html",
+      "name": "Farine de bl\u00e9 multi usage 1kg",
+      "prix_base": 5990,
+      "prix_comparaison": 6590,
+      "variation": 600
+    },
+    {
+      "cle": "pates_1977spaghettipanzani500g_html",
+      "name": "Spaghetti Panzani 500g",
+      "prix_base": 2590,
+      "prix_comparaison": 3200,
+      "variation": 610
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
-      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
-      "prix_base": 316000,
-      "prix_comparaison": 343000,
-      "indice_prix": 108.54430379746836
+      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
+      "prix_base": 16900,
+      "prix_comparaison": 20900,
+      "indice_prix": 123.66863905325444
+    },
+    {
+      "cle": "pates_1977spaghettipanzani500g_html",
+      "name": "Spaghetti Panzani 500g",
+      "prix_base": 2590,
+      "prix_comparaison": 3200,
+      "indice_prix": 123.55212355212355
+    },
+    {
+      "cle": "lessiveenpoudreettablette_4133dexelcitron30g_html",
+      "name": "Lessive en poudre citron 30g",
+      "prix_base": 290,
+      "prix_comparaison": 350,
+      "indice_prix": 120.6896551724138
+    },
+    {
+      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
+      "name": "Eau de source Cristaline 150cl",
+      "prix_base": 1590,
+      "prix_comparaison": 1890,
+      "indice_prix": 118.86792452830188
+    },
+    {
+      "cle": "margarines_10329margarinebread40fatspread500g_html",
+      "name": "Margarine Bread 40% fat spread 500g",
+      "prix_base": 5500,
+      "prix_comparaison": 6300,
+      "indice_prix": 114.54545454545455
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
-      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
-      "prix_base": 316000,
-      "prix_comparaison": 343000,
-      "indice_prix": 108.54430379746836
+      "cle": "farinesetchapelures_4941farinedeblemultiusage1kg_html",
+      "name": "Farine de bl\u00e9 multi usage 1kg",
+      "prix_base": 5990,
+      "prix_comparaison": 6590,
+      "indice_prix": 110.01669449081803
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
+      "name": "Yaourt Yoplait nature sucre 90g",
+      "prix_base": 890,
+      "prix_comparaison": 990,
+      "indice_prix": 111.23595505617978
+    },
+    {
+      "cle": "margarines_10329margarinebread40fatspread500g_html",
+      "name": "Margarine Bread 40% fat spread 500g",
+      "prix_base": 5500,
+      "prix_comparaison": 6300,
+      "indice_prix": 114.54545454545455
+    },
+    {
+      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
+      "name": "Eau de source Cristaline 150cl",
+      "prix_base": 1590,
+      "prix_comparaison": 1890,
+      "indice_prix": 118.86792452830188
+    },
+    {
+      "cle": "lessiveenpoudreettablette_4133dexelcitron30g_html",
+      "name": "Lessive en poudre citron 30g",
+      "prix_base": 290,
+      "prix_comparaison": 350,
+      "indice_prix": 120.6896551724138
     }
   ]
 }

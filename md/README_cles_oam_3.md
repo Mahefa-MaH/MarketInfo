@@ -8,9 +8,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11**
-   - Prix avant: 22,012,000 Ar
-   - Prix actuel: 22,012,000 Ar
+2. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Bleu**
+   - Prix avant: 10,801,000 Ar
+   - Prix actuel: 10,801,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
