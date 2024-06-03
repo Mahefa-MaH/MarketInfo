@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 10799,
-      "prix_base": 3960,
-      "name": "Bonbons Soda Cola sachet de 50 pi\u00e8ces 100 g",
-      "prix_comparaison": 4000,
-      "variation": 40
+      "list_id": 9198,
+      "prix_base": 3215500,
+      "name": "Tapis de course courbe UFIT BG-CT250",
+      "prix_comparaison": 3540000,
+      "variation": 324500
+    },
+    {
+      "list_id": 9230,
+      "prix_base": 2885900,
+      "name": "Tapis de course JDM EST2704 140 kg",
+      "prix_comparaison": 3148200,
+      "variation": 262300
+    },
+    {
+      "list_id": 9229,
+      "prix_base": 2135700,
+      "name": "Tapis de course JDM EST2709 120 kg",
+      "prix_comparaison": 2329800,
+      "variation": 194100
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 10799,
-      "prix_base": 3960,
-      "name": "Bonbons Soda Cola sachet de 50 pi\u00e8ces 100 g",
-      "prix_comparaison": 4000,
-      "variation": 40
+      "list_id": 14300,
+      "prix_base": 251300,
+      "name": "Tire-Lait Manuel",
+      "prix_comparaison": 199000,
+      "variation": -52300
+    },
+    {
+      "list_id": 9120,
+      "prix_base": 416000,
+      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec amortisseur",
+      "prix_comparaison": 384000,
+      "variation": -32000
+    },
+    {
+      "list_id": 9465,
+      "prix_base": 60000,
+      "name": "Lait Apr\u00e8s Soleil 200 ml",
+      "prix_comparaison": 55400,
+      "variation": -4600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 10799,
-      "name": "Bonbons Soda Cola sachet de 50 pi\u00e8ces 100 g",
-      "prix_base": 3960,
-      "prix_comparaison": 4000,
-      "indice_prix": 101.01010101010101
+      "list_id": 1275,
+      "name": "Bonbons sucettes 16 pi\u00e8ces Best Of Sachet 192 G",
+      "prix_base": 21600,
+      "prix_comparaison": 26000,
+      "indice_prix": 120.37037037037037
+    },
+    {
+      "list_id": 9198,
+      "name": "Tapis de course courbe UFIT BG-CT250",
+      "prix_base": 3215500,
+      "prix_comparaison": 3540000,
+      "indice_prix": 110.09174311926606
+    },
+    {
+      "list_id": 9100,
+      "name": "Rallonge multiprise 3 voies EEST313U01 3 m",
+      "prix_base": 65900,
+      "prix_comparaison": 71900,
+      "indice_prix": 109.10470409711684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 10799,
-      "name": "Bonbons Soda Cola sachet de 50 pi\u00e8ces 100 g",
-      "prix_base": 3960,
-      "prix_comparaison": 4000,
-      "indice_prix": 101.01010101010101
+      "list_id": 14300,
+      "name": "Tire-Lait Manuel",
+      "prix_base": 251300,
+      "prix_comparaison": 199000,
+      "indice_prix": 79.18822124950259
+    },
+    {
+      "list_id": 9524,
+      "name": "Eau min\u00e9rale gazeuse naturelle fines bulles pet 1L",
+      "prix_base": 9600,
+      "prix_comparaison": 7700,
+      "indice_prix": 80.20833333333333
+    },
+    {
+      "list_id": 2047,
+      "name": "Papier Toilette Blanc 2 Plis Le Classique 12 Pi\u00e8ces",
+      "prix_base": 31000,
+      "prix_comparaison": 26700,
+      "indice_prix": 86.12903225806451
     }
   ]
 }
