@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz de Luxe Makalioka 5kg**
-   - Prix avant: 23,000 Ar
-   - Prix actuel: 23,000 Ar
+3. **Riz blanc parfumé 5 kg**
+   - Prix avant: 40,800 Ar
+   - Prix actuel: 40,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

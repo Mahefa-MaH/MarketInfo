@@ -1,122 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
-      "prix_base": 16900,
-      "prix_comparaison": 20900,
-      "variation": 4000
+      "cle": "consoles_14600consoleasusrogally7fhdtactileamdryzenz1extremeram16go512gossdwindows11_html",
+      "name": "Console ASUS ROG Ally | 7 FHD Tactile - AMD Ryzen Z1 Extreme - RAM 16Go - 512Go SSD - Windows 11",
+      "prix_base": 3547000,
+      "prix_comparaison": 3943000,
+      "variation": 396000
     },
     {
-      "cle": "margarines_10329margarinebread40fatspread500g_html",
-      "name": "Margarine Bread 40% fat spread 500g",
-      "prix_base": 5500,
-      "prix_comparaison": 6300,
-      "variation": 800
+      "cle": "ordinateursportables_14819pcportablegamerlenovogaming315fhd250ntrtx2050ryzen55500hram16gossd512gosanswindowsazerty_html",
+      "name": "PC Portable Gamer LENOVO Gaming 3 | 15'' FHD 250Nt - RTX 2050 - Ryzen 5-5500H - RAM 16Go - SSD 512Go - Sans Windows - AZERTY",
+      "prix_base": 3266000,
+      "prix_comparaison": 3494000,
+      "variation": 228000
     },
     {
-      "cle": "pates_1977spaghettipanzani500g_html",
-      "name": "Spaghetti Panzani 500g",
-      "prix_base": 2590,
-      "prix_comparaison": 3200,
-      "variation": 610
+      "cle": "machineacoudre_14224brotherj17smachineacoudremecaniquedesignattractifsimpledutilisationeclairagepuissantparled_html",
+      "name": "BROTHER J17s Machine \u00e0 coudre m\u00e9canique - Design attractif - Simple d'utilisation - Eclairage puissant par LED",
+      "prix_base": 997000,
+      "prix_comparaison": 1204000,
+      "variation": 207000
     },
     {
-      "cle": "farinesetchapelures_4941farinedeblemultiusage1kg_html",
-      "name": "Farine de bl\u00e9 multi usage 1kg",
-      "prix_base": 5990,
-      "prix_comparaison": 6590,
-      "variation": 600
+      "cle": "consoles_15131consolexboxseriess1tonoir_html",
+      "name": "Console Xbox Series S 1To Noir",
+      "prix_base": 1952000,
+      "prix_comparaison": 2158000,
+      "variation": 206000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "lessiveenpoudreettablette_4133dexelcitron30g_html",
-      "name": "Lessive en poudre citron 30g",
-      "prix_base": 290,
-      "prix_comparaison": 350,
-      "variation": 60
+      "cle": "fromagesduresetrapes_10470fromagenytsiroedam1kg_html",
+      "name": "Fromage Ny Tsiro Edam 1kg",
+      "prix_base": 68000,
+      "prix_comparaison": 61000,
+      "variation": -7000
     },
     {
-      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
-      "name": "Yaourt Yoplait nature sucre 90g",
-      "prix_base": 890,
-      "prix_comparaison": 990,
-      "variation": 100
+      "cle": "fromagesduresetrapes_10403fromagesaintpaulinboule1kg_html",
+      "name": "Fromage Saint Paulin boule 1kg",
+      "prix_base": 68000,
+      "prix_comparaison": 61000,
+      "variation": -7000
     },
     {
-      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
-      "name": "Eau de source Cristaline 150cl",
-      "prix_base": 1590,
-      "prix_comparaison": 1890,
-      "variation": 300
+      "cle": "fromagesduresetrapes_10404fromagesaintpaulinboule250g_html",
+      "name": "Fromage Saint Paulin boule 250g",
+      "prix_base": 21000,
+      "prix_comparaison": 17900,
+      "variation": -3100
     },
     {
-      "cle": "sucres_1672sucrerouxambilobe1kg_html",
-      "name": "Sucre roux Ambilobe 1kg",
-      "prix_base": 5500,
-      "prix_comparaison": 5900,
-      "variation": 400
+      "cle": "fromagesduresetrapes_734fromagenytsiroedam250g_html",
+      "name": "Fromage Ny Tsiro Edam 250g",
+      "prix_base": 21000,
+      "prix_comparaison": 17900,
+      "variation": -3100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
-      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
-      "prix_base": 16900,
-      "prix_comparaison": 20900,
-      "indice_prix": 123.66863905325444
+      "cle": "huiles_6227huiledetournesol5l_html",
+      "name": "Huile de tournesol 5L",
+      "prix_base": 49000,
+      "prix_comparaison": 82000,
+      "indice_prix": 167.3469387755102
     },
     {
-      "cle": "pates_1977spaghettipanzani500g_html",
-      "name": "Spaghetti Panzani 500g",
-      "prix_base": 2590,
-      "prix_comparaison": 3200,
-      "indice_prix": 123.55212355212355
+      "cle": "laitenpoudre_945laitenpoudreolait250g_html",
+      "name": "Lait en poudre O'lait 250g",
+      "prix_base": 8900,
+      "prix_comparaison": 13000,
+      "indice_prix": 146.06741573033707
     },
     {
-      "cle": "lessiveenpoudreettablette_4133dexelcitron30g_html",
-      "name": "Lessive en poudre citron 30g",
-      "prix_base": 290,
-      "prix_comparaison": 350,
-      "indice_prix": 120.6896551724138
+      "cle": "poeleetcasserole_12169poeleenaluminiumtousfeuxsaufinductiono28cmtopbudget_html",
+      "name": "Po\u00eale en aluminium tous feux sauf induction \u00d828cm",
+      "prix_base": 40000,
+      "prix_comparaison": 53000,
+      "indice_prix": 132.5
     },
     {
-      "cle": "eauxdesource_3143eauscecristaline6x150cl_html",
-      "name": "Eau de source Cristaline 150cl",
-      "prix_base": 1590,
-      "prix_comparaison": 1890,
-      "indice_prix": 118.86792452830188
+      "cle": "produitskibomoinsde5000ar_6302epongesmoussegrattantes2pieces_html",
+      "name": "Eponges mousse grattantes 2 pi\u00e8ces",
+      "prix_base": 1900,
+      "prix_comparaison": 2500,
+      "indice_prix": 131.57894736842104
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "sucres_1672sucrerouxambilobe1kg_html",
-      "name": "Sucre roux Ambilobe 1kg",
-      "prix_base": 5500,
-      "prix_comparaison": 5900,
-      "indice_prix": 107.27272727272727
+      "cle": "fromagesduresetrapes_10404fromagesaintpaulinboule250g_html",
+      "name": "Fromage Saint Paulin boule 250g",
+      "prix_base": 21000,
+      "prix_comparaison": 17900,
+      "indice_prix": 85.23809523809524
     },
     {
-      "cle": "farinesetchapelures_4941farinedeblemultiusage1kg_html",
-      "name": "Farine de bl\u00e9 multi usage 1kg",
-      "prix_base": 5990,
-      "prix_comparaison": 6590,
-      "indice_prix": 110.01669449081803
+      "cle": "fromagesduresetrapes_734fromagenytsiroedam250g_html",
+      "name": "Fromage Ny Tsiro Edam 250g",
+      "prix_base": 21000,
+      "prix_comparaison": 17900,
+      "indice_prix": 85.23809523809524
     },
     {
-      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
-      "name": "Yaourt Yoplait nature sucre 90g",
-      "prix_base": 890,
-      "prix_comparaison": 990,
-      "indice_prix": 111.23595505617978
+      "cle": "yaourtsnaturesetaromatises_1831yaourtactibionature100ml_html",
+      "name": "Yaourt actibio nature 100ml",
+      "prix_base": 1590,
+      "prix_comparaison": 1390,
+      "indice_prix": 87.42138364779875
     },
     {
-      "cle": "margarines_10329margarinebread40fatspread500g_html",
-      "name": "Margarine Bread 40% fat spread 500g",
-      "prix_base": 5500,
-      "prix_comparaison": 6300,
-      "indice_prix": 114.54545454545455
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 11900,
+      "indice_prix": 88.14814814814815
     }
   ]
 }
