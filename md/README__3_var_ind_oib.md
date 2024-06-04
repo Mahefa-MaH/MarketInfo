@@ -12,6 +12,11 @@
    - Prix actuel: 3,494,000 Ar
    - Variation: +228,000 Ar
 
+3. **BROTHER J17s Machine à coudre mécanique - Design attractif - Simple d'utilisation - Eclairage puissant par LED**
+   - Prix avant: 997,000 Ar
+   - Prix actuel: 1,204,000 Ar
+   - Variation: +207,000 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Fromage Ny Tsiro Edam 1kg**
@@ -23,6 +28,11 @@
    - Prix avant: 68,000 Ar
    - Prix actuel: 61,000 Ar
    - Variation: -7,000 Ar
+
+3. **Fromage Saint Paulin boule 250g**
+   - Prix avant: 21,000 Ar
+   - Prix actuel: 17,900 Ar
+   - Variation: -3,100 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -36,6 +46,11 @@
    - Prix actuel: 13,000 Ar
    - Indice de prix : 146.07
 
+3. **Poêle en aluminium tous feux sauf induction Ø28cm**
+   - Prix avant: 40,000 Ar
+   - Prix actuel: 53,000 Ar
+   - Indice de prix : 132.50
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Fromage Saint Paulin boule 250g**
@@ -47,4 +62,9 @@
    - Prix avant: 21,000 Ar
    - Prix actuel: 17,900 Ar
    - Indice de prix : 85.24
+
+3. **Yaourt actibio nature 100ml**
+   - Prix avant: 1,590 Ar
+   - Prix actuel: 1,390 Ar
+   - Indice de prix : 87.42
 
