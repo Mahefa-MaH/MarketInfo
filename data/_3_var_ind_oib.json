@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "consoles_14600consoleasusrogally7fhdtactileamdryzenz1extremeram16go512gossdwindows11_html",
-      "name": "Console ASUS ROG Ally | 7 FHD Tactile - AMD Ryzen Z1 Extreme - RAM 16Go - 512Go SSD - Windows 11",
-      "prix_base": 3547000,
-      "prix_comparaison": 3943000,
-      "variation": 396000
+      "cle": "eauxgazeusesaromatisees_5503eaugazeusetonic30cl_html",
+      "name": "Eau gazeuse Tonic 30cl",
+      "prix_base": 1200,
+      "prix_comparaison": 1100,
+      "variation": -100
     },
     {
-      "cle": "ordinateursportables_14819pcportablegamerlenovogaming315fhd250ntrtx2050ryzen55500hram16gossd512gosanswindowsazerty_html",
-      "name": "PC Portable Gamer LENOVO Gaming 3 | 15'' FHD 250Nt - RTX 2050 - Ryzen 5-5500H - RAM 16Go - SSD 512Go - Sans Windows - AZERTY",
-      "prix_base": 3266000,
-      "prix_comparaison": 3494000,
-      "variation": 228000
-    },
-    {
-      "cle": "machineacoudre_14224brotherj17smachineacoudremecaniquedesignattractifsimpledutilisationeclairagepuissantparled_html",
-      "name": "BROTHER J17s Machine \u00e0 coudre m\u00e9canique - Design attractif - Simple d'utilisation - Eclairage puissant par LED",
-      "prix_base": 997000,
-      "prix_comparaison": 1204000,
-      "variation": 207000
+      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
+      "name": "Boisson gazeuse cristal 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4600,
+      "variation": -400
     }
   ],
   "prix_diminues": [
     {
-      "cle": "fromagesduresetrapes_10470fromagenytsiroedam1kg_html",
-      "name": "Fromage Ny Tsiro Edam 1kg",
-      "prix_base": 68000,
-      "prix_comparaison": 61000,
-      "variation": -7000
+      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
+      "name": "Boisson gazeuse cristal 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4600,
+      "variation": -400
     },
     {
-      "cle": "fromagesduresetrapes_10403fromagesaintpaulinboule1kg_html",
-      "name": "Fromage Saint Paulin boule 1kg",
-      "prix_base": 68000,
-      "prix_comparaison": 61000,
-      "variation": -7000
-    },
-    {
-      "cle": "fromagesduresetrapes_10404fromagesaintpaulinboule250g_html",
-      "name": "Fromage Saint Paulin boule 250g",
-      "prix_base": 21000,
-      "prix_comparaison": 17900,
-      "variation": -3100
+      "cle": "eauxgazeusesaromatisees_5503eaugazeusetonic30cl_html",
+      "name": "Eau gazeuse Tonic 30cl",
+      "prix_base": 1200,
+      "prix_comparaison": 1100,
+      "variation": -100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "huiles_6227huiledetournesol5l_html",
-      "name": "Huile de tournesol 5L",
-      "prix_base": 49000,
-      "prix_comparaison": 82000,
-      "indice_prix": 167.3469387755102
+      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
+      "name": "Boisson gazeuse cristal 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4600,
+      "indice_prix": 92.0
     },
     {
-      "cle": "laitenpoudre_945laitenpoudreolait250g_html",
-      "name": "Lait en poudre O'lait 250g",
-      "prix_base": 8900,
-      "prix_comparaison": 13000,
-      "indice_prix": 146.06741573033707
-    },
-    {
-      "cle": "poeleetcasserole_12169poeleenaluminiumtousfeuxsaufinductiono28cmtopbudget_html",
-      "name": "Po\u00eale en aluminium tous feux sauf induction \u00d828cm",
-      "prix_base": 40000,
-      "prix_comparaison": 53000,
-      "indice_prix": 132.5
+      "cle": "eauxgazeusesaromatisees_5503eaugazeusetonic30cl_html",
+      "name": "Eau gazeuse Tonic 30cl",
+      "prix_base": 1200,
+      "prix_comparaison": 1100,
+      "indice_prix": 91.66666666666667
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "fromagesduresetrapes_10404fromagesaintpaulinboule250g_html",
-      "name": "Fromage Saint Paulin boule 250g",
-      "prix_base": 21000,
-      "prix_comparaison": 17900,
-      "indice_prix": 85.23809523809524
+      "cle": "eauxgazeusesaromatisees_5503eaugazeusetonic30cl_html",
+      "name": "Eau gazeuse Tonic 30cl",
+      "prix_base": 1200,
+      "prix_comparaison": 1100,
+      "indice_prix": 91.66666666666667
     },
     {
-      "cle": "fromagesduresetrapes_734fromagenytsiroedam250g_html",
-      "name": "Fromage Ny Tsiro Edam 250g",
-      "prix_base": 21000,
-      "prix_comparaison": 17900,
-      "indice_prix": 85.23809523809524
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_1831yaourtactibionature100ml_html",
-      "name": "Yaourt actibio nature 100ml",
-      "prix_base": 1590,
-      "prix_comparaison": 1390,
-      "indice_prix": 87.42138364779875
+      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
+      "name": "Boisson gazeuse cristal 150cl",
+      "prix_base": 5000,
+      "prix_comparaison": 4600,
+      "indice_prix": 92.0
     }
   ]
 }

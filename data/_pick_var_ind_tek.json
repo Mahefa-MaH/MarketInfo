@@ -1,174 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 9356,
-      "name": "Maquillage BB Cr\u00e8me Claire Certifi\u00e9e bio 30 ml",
-      "prix_base": 54000,
-      "prix_comparaison": 49800,
-      "variation": -4200
-    },
-    {
-      "list_id": 9358,
-      "name": "Maquillage BB Cr\u00e8me Medium Certifi\u00e9e bio 30 ml",
-      "prix_base": 54000,
-      "prix_comparaison": 49800,
-      "variation": -4200
-    },
-    {
-      "list_id": 9462,
-      "name": "Cr\u00e8me Visage et Corps 200 ml",
-      "prix_base": 48000,
-      "prix_comparaison": 44300,
-      "variation": -3700
-    },
-    {
-      "list_id": 9470,
-      "name": "Cr\u00e8me de Rasage Homme 150 ml",
-      "prix_base": 48000,
-      "prix_comparaison": 44300,
-      "variation": -3700
-    },
-    {
-      "list_id": 9437,
-      "name": "Cr\u00e8me de Jour et Nuit 50 ml",
-      "prix_base": 48000,
-      "prix_comparaison": 44300,
-      "variation": -3700
-    },
-    {
-      "list_id": 9439,
-      "name": "Cr\u00e8me Anti-\u00e2ge 50 ml",
-      "prix_base": 48000,
-      "prix_comparaison": 44300,
-      "variation": -3700
-    },
-    {
-      "list_id": 9433,
-      "name": "Cr\u00e8me Nuit Peaux S\u00e8ches & Sensibles 50 ml",
-      "prix_base": 42600,
-      "prix_comparaison": 39300,
-      "variation": -3300
-    },
-    {
-      "list_id": 9431,
-      "name": "Cr\u00e8me Jour Peaux S\u00e8ches & Sensibles 50 ml",
-      "prix_base": 39400,
-      "prix_comparaison": 36300,
-      "variation": -3100
-    },
-    {
-      "list_id": 9432,
-      "name": "Cr\u00e8me Jour Peaux Normales & Mixtes 50 ml",
-      "prix_base": 39400,
-      "prix_comparaison": 36300,
-      "variation": -3100
-    },
-    {
-      "list_id": 9464,
-      "name": "Cr\u00e8me pour les Mains 100 ml",
-      "prix_base": 36000,
-      "prix_comparaison": 33200,
-      "variation": -2800
-    },
-    {
-      "list_id": 9474,
-      "name": "Cr\u00e8me Nettoyante 2 en 1 pour b\u00e9b\u00e9 200 ml",
-      "prix_base": 36000,
-      "prix_comparaison": 33200,
-      "variation": -2800
-    },
-    {
-      "list_id": 9473,
-      "name": "Cr\u00e8me Visage et Corps pour B\u00e9b\u00e9 100 ml",
-      "prix_base": 30000,
-      "prix_comparaison": 27700,
-      "variation": -2300
+      "list_id": 9686,
+      "name": "Sucrettes brunes 3 g",
+      "prix_base": 11300,
+      "prix_comparaison": 11900,
+      "variation": 600
     }
   ],
   "indice de prix": [
     {
-      "list_id": 9431,
-      "name": "Cr\u00e8me Jour Peaux S\u00e8ches & Sensibles 50 ml",
-      "prix_base": 39400,
-      "prix_comparaison": 36300,
-      "indice_prix": 92.13197969543147
-    },
-    {
-      "list_id": 9432,
-      "name": "Cr\u00e8me Jour Peaux Normales & Mixtes 50 ml",
-      "prix_base": 39400,
-      "prix_comparaison": 36300,
-      "indice_prix": 92.13197969543147
-    },
-    {
-      "list_id": 9464,
-      "name": "Cr\u00e8me pour les Mains 100 ml",
-      "prix_base": 36000,
-      "prix_comparaison": 33200,
-      "indice_prix": 92.22222222222223
-    },
-    {
-      "list_id": 9474,
-      "name": "Cr\u00e8me Nettoyante 2 en 1 pour b\u00e9b\u00e9 200 ml",
-      "prix_base": 36000,
-      "prix_comparaison": 33200,
-      "indice_prix": 92.22222222222223
-    },
-    {
-      "list_id": 9356,
-      "name": "Maquillage BB Cr\u00e8me Claire Certifi\u00e9e bio 30 ml",
-      "prix_base": 54000,
-      "prix_comparaison": 49800,
-      "indice_prix": 92.22222222222223
-    },
-    {
-      "list_id": 9358,
-      "name": "Maquillage BB Cr\u00e8me Medium Certifi\u00e9e bio 30 ml",
-      "prix_base": 54000,
-      "prix_comparaison": 49800,
-      "indice_prix": 92.22222222222223
-    },
-    {
-      "list_id": 9433,
-      "name": "Cr\u00e8me Nuit Peaux S\u00e8ches & Sensibles 50 ml",
-      "prix_base": 42600,
-      "prix_comparaison": 39300,
-      "indice_prix": 92.25352112676056
-    },
-    {
-      "list_id": 9462,
-      "name": "Cr\u00e8me Visage et Corps 200 ml",
-      "prix_base": 48000,
-      "prix_comparaison": 44300,
-      "indice_prix": 92.29166666666667
-    },
-    {
-      "list_id": 9470,
-      "name": "Cr\u00e8me de Rasage Homme 150 ml",
-      "prix_base": 48000,
-      "prix_comparaison": 44300,
-      "indice_prix": 92.29166666666667
-    },
-    {
-      "list_id": 9437,
-      "name": "Cr\u00e8me de Jour et Nuit 50 ml",
-      "prix_base": 48000,
-      "prix_comparaison": 44300,
-      "indice_prix": 92.29166666666667
-    },
-    {
-      "list_id": 9439,
-      "name": "Cr\u00e8me Anti-\u00e2ge 50 ml",
-      "prix_base": 48000,
-      "prix_comparaison": 44300,
-      "indice_prix": 92.29166666666667
-    },
-    {
-      "list_id": 9473,
-      "name": "Cr\u00e8me Visage et Corps pour B\u00e9b\u00e9 100 ml",
-      "prix_base": 30000,
-      "prix_comparaison": 27700,
-      "indice_prix": 92.33333333333333
+      "list_id": 9686,
+      "name": "Sucrettes brunes 3 g",
+      "prix_base": 11300,
+      "prix_comparaison": 11900,
+      "indice_prix": 105.30973451327434
     }
   ]
 }
