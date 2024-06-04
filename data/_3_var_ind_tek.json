@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 9198,
-      "prix_base": 3215500,
-      "name": "Tapis de course courbe UFIT BG-CT250",
-      "prix_comparaison": 3540000,
-      "variation": 324500
+      "list_id": 9564,
+      "prix_base": 106000,
+      "name": "Chocolat B\u00e2tons Boulanger Noir 8 cm 1,6 Kg",
+      "prix_comparaison": 97900,
+      "variation": -8100
     },
     {
-      "list_id": 9230,
-      "prix_base": 2885900,
-      "name": "Tapis de course JDM EST2704 140 kg",
-      "prix_comparaison": 3148200,
-      "variation": 262300
+      "list_id": 9563,
+      "prix_base": 149100,
+      "name": "Chocolat au lait Finest Belgian Milk Recipe n\u00b0823 2,5 kg",
+      "prix_comparaison": 137700,
+      "variation": -11400
     },
     {
-      "list_id": 9229,
-      "prix_base": 2135700,
-      "name": "Tapis de course JDM EST2709 120 kg",
-      "prix_comparaison": 2329800,
-      "variation": 194100
+      "list_id": 9562,
+      "prix_base": 180200,
+      "name": "Chocolat Noir Finest Belgian Dark Recipe n\u00b0811 2,5 kg",
+      "prix_comparaison": 166400,
+      "variation": -13800
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 14300,
-      "prix_base": 251300,
-      "name": "Tire-Lait Manuel",
-      "prix_comparaison": 199000,
-      "variation": -52300
+      "list_id": 9567,
+      "prix_base": 625300,
+      "name": "Chocolat Noir P\u00e9pite de cuisson M 10 Kg",
+      "prix_comparaison": 577200,
+      "variation": -48100
     },
     {
-      "list_id": 9120,
-      "prix_base": 416000,
-      "name": "V\u00e9lo tout terrain 26 pouces 21 vitesses avec amortisseur",
-      "prix_comparaison": 384000,
-      "variation": -32000
+      "list_id": 9566,
+      "prix_base": 340300,
+      "name": "Chocolat Blanc Z\u00e9phyr 35 % Caramel 2,5 Kg",
+      "prix_comparaison": 314100,
+      "variation": -26200
     },
     {
-      "list_id": 9465,
-      "prix_base": 60000,
-      "name": "Lait Apr\u00e8s Soleil 200 ml",
-      "prix_comparaison": 55400,
-      "variation": -4600
+      "list_id": 9565,
+      "prix_base": 296400,
+      "name": "Poudre de Cacao 5 Kg",
+      "prix_comparaison": 273600,
+      "variation": -22800
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 1275,
-      "name": "Bonbons sucettes 16 pi\u00e8ces Best Of Sachet 192 G",
-      "prix_base": 21600,
-      "prix_comparaison": 26000,
-      "indice_prix": 120.37037037037037
+      "list_id": 9564,
+      "name": "Chocolat B\u00e2tons Boulanger Noir 8 cm 1,6 Kg",
+      "prix_base": 106000,
+      "prix_comparaison": 97900,
+      "indice_prix": 92.35849056603773
     },
     {
-      "list_id": 9198,
-      "name": "Tapis de course courbe UFIT BG-CT250",
-      "prix_base": 3215500,
-      "prix_comparaison": 3540000,
-      "indice_prix": 110.09174311926606
+      "list_id": 9563,
+      "name": "Chocolat au lait Finest Belgian Milk Recipe n\u00b0823 2,5 kg",
+      "prix_base": 149100,
+      "prix_comparaison": 137700,
+      "indice_prix": 92.35412474849095
     },
     {
-      "list_id": 9100,
-      "name": "Rallonge multiprise 3 voies EEST313U01 3 m",
-      "prix_base": 65900,
-      "prix_comparaison": 71900,
-      "indice_prix": 109.10470409711684
+      "list_id": 9562,
+      "name": "Chocolat Noir Finest Belgian Dark Recipe n\u00b0811 2,5 kg",
+      "prix_base": 180200,
+      "prix_comparaison": 166400,
+      "indice_prix": 92.3418423973363
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 14300,
-      "name": "Tire-Lait Manuel",
-      "prix_base": 251300,
-      "prix_comparaison": 199000,
-      "indice_prix": 79.18822124950259
+      "list_id": 9566,
+      "name": "Chocolat Blanc Z\u00e9phyr 35 % Caramel 2,5 Kg",
+      "prix_base": 340300,
+      "prix_comparaison": 314100,
+      "indice_prix": 92.30091096091684
     },
     {
-      "list_id": 9524,
-      "name": "Eau min\u00e9rale gazeuse naturelle fines bulles pet 1L",
-      "prix_base": 9600,
-      "prix_comparaison": 7700,
-      "indice_prix": 80.20833333333333
+      "list_id": 9565,
+      "name": "Poudre de Cacao 5 Kg",
+      "prix_base": 296400,
+      "prix_comparaison": 273600,
+      "indice_prix": 92.3076923076923
     },
     {
-      "list_id": 2047,
-      "name": "Papier Toilette Blanc 2 Plis Le Classique 12 Pi\u00e8ces",
-      "prix_base": 31000,
-      "prix_comparaison": 26700,
-      "indice_prix": 86.12903225806451
+      "list_id": 9567,
+      "name": "Chocolat Noir P\u00e9pite de cuisson M 10 Kg",
+      "prix_base": 625300,
+      "prix_comparaison": 577200,
+      "indice_prix": 92.3076923076923
     }
   ]
 }
