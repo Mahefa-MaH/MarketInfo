@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Chocolat Bâtons Boulanger Noir 8 cm 1,6 Kg**
-   - Prix avant: 106,000 Ar
-   - Prix actuel: 97,900 Ar
-   - Variation: -8,100 Ar
+1. **Turbine à glace "Live Show" GLS2-LX 1500 w**
+   - Prix avant: 56,244,000 Ar
+   - Prix actuel: 61,920,000 Ar
+   - Variation: +5,676,000 Ar
 
-2. **Chocolat au lait Finest Belgian Milk Recipe n°823 2,5 kg**
-   - Prix avant: 149,100 Ar
-   - Prix actuel: 137,700 Ar
-   - Variation: -11,400 Ar
+2. **Pasteurisateur  P400 A 4000 w**
+   - Prix avant: 47,480,400 Ar
+   - Prix actuel: 52,272,000 Ar
+   - Variation: +4,791,600 Ar
 
-3. **Chocolat Noir Finest Belgian Dark Recipe n°811 2,5 kg**
-   - Prix avant: 180,200 Ar
-   - Prix actuel: 166,400 Ar
-   - Variation: -13,800 Ar
+3. **Pétrin 80kg à spirale SP80 à 2 vitesses 3,7 kw**
+   - Prix avant: 45,780,000 Ar
+   - Prix actuel: 50,400,000 Ar
+   - Variation: +4,620,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Chocolat Noir Pépite de cuisson M 10 Kg**
-   - Prix avant: 625,300 Ar
-   - Prix actuel: 577,200 Ar
-   - Variation: -48,100 Ar
+1. **Turbine à glace écologique**
+   - Prix avant: 982,800 Ar
+   - Prix actuel: 907,200 Ar
+   - Variation: -75,600 Ar
 
-2. **Chocolat Blanc Zéphyr 35 % Caramel 2,5 Kg**
-   - Prix avant: 340,300 Ar
-   - Prix actuel: 314,100 Ar
-   - Variation: -26,200 Ar
+2. **Capsule à café compostable Emilia**
+   - Prix avant: 52,000 Ar
+   - Prix actuel: 48,000 Ar
+   - Variation: -4,000 Ar
 
-3. **Poudre de Cacao 5 Kg**
-   - Prix avant: 296,400 Ar
-   - Prix actuel: 273,600 Ar
-   - Variation: -22,800 Ar
+3. **Shampoing ultra doux délicatesse d'avoine 300 ml**
+   - Prix avant: 18,400 Ar
+   - Prix actuel: 17,000 Ar
+   - Variation: -1,400 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Chocolat Bâtons Boulanger Noir 8 cm 1,6 Kg**
-   - Prix avant: 106,000 Ar
-   - Prix actuel: 97,900 Ar
-   - Indice de prix : 92.36
+1. **Fourneau gaz 4 feu avec four à gaz**
+   - Prix avant: 11,974,700 Ar
+   - Prix actuel: 13,183,200 Ar
+   - Indice de prix : 110.09
 
-2. **Chocolat au lait Finest Belgian Milk Recipe n°823 2,5 kg**
-   - Prix avant: 149,100 Ar
-   - Prix actuel: 137,700 Ar
-   - Indice de prix : 92.35
+2. **Fourneau gaz 4 feu avec four à gaz**
+   - Prix avant: 11,974,700 Ar
+   - Prix actuel: 13,183,200 Ar
+   - Indice de prix : 110.09
 
-3. **Chocolat Noir Finest Belgian Dark Recipe n°811 2,5 kg**
-   - Prix avant: 180,200 Ar
-   - Prix actuel: 166,400 Ar
-   - Indice de prix : 92.34
+3. **Pasteurisateur  P400 A 4000 w**
+   - Prix avant: 47,480,400 Ar
+   - Prix actuel: 52,272,000 Ar
+   - Indice de prix : 110.09
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Chocolat Blanc Zéphyr 35 % Caramel 2,5 Kg**
-   - Prix avant: 340,300 Ar
-   - Prix actuel: 314,100 Ar
-   - Indice de prix : 92.30
-
-2. **Poudre de Cacao 5 Kg**
-   - Prix avant: 296,400 Ar
-   - Prix actuel: 273,600 Ar
+1. **Turbine à glace écologique**
+   - Prix avant: 982,800 Ar
+   - Prix actuel: 907,200 Ar
    - Indice de prix : 92.31
 
-3. **Chocolat Noir Pépite de cuisson M 10 Kg**
-   - Prix avant: 625,300 Ar
-   - Prix actuel: 577,200 Ar
+2. **Capsule à café compostable Emilia**
+   - Prix avant: 52,000 Ar
+   - Prix actuel: 48,000 Ar
    - Indice de prix : 92.31
+
+3. **Shampoing ultra doux délicatesse d'avoine 300 ml**
+   - Prix avant: 18,400 Ar
+   - Prix actuel: 17,000 Ar
+   - Indice de prix : 92.39
 
