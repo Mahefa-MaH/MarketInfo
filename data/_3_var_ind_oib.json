@@ -13,6 +13,13 @@
       "prix_base": 3000,
       "prix_comparaison": 2850,
       "variation": -150
+    },
+    {
+      "cle": "biscuitssecssables_13880biscuitsgalettes125gtopbudget_html",
+      "name": "Biscuits galettes 125g",
+      "prix_base": 5900,
+      "prix_comparaison": 5605,
+      "variation": -295
     }
   ],
   "prix_diminues": [
@@ -29,6 +36,13 @@
       "prix_base": 33000,
       "prix_comparaison": 31350,
       "variation": -1650
+    },
+    {
+      "cle": "compotes_13142gourdescompotedepommesallegeeensucres12x90gpaquito_html",
+      "name": "Gourdes compote de pommes all\u00e9g\u00e9e en sucres 12x90g",
+      "prix_base": 26400,
+      "prix_comparaison": 25080,
+      "variation": -1320
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +59,13 @@
       "prix_base": 6500,
       "prix_comparaison": 6175,
       "indice_prix": 95.0
+    },
+    {
+      "cle": "tablettesdechocolat_13841tablettedechocolatmenageaurizsouffle400gtopbudget_html",
+      "name": "Tablette de chocolat  m\u00e9nage au riz souffl\u00e9 400g",
+      "prix_base": 18900,
+      "prix_comparaison": 17955,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
@@ -60,6 +81,13 @@
       "name": "Chips saveur cheddar oignons de roscoff 125g",
       "prix_base": 10900,
       "prix_comparaison": 10355,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "chips_382chipssaveurchevrepimentdespelette25g_html",
+      "name": "Chips saveur ch\u00e8vre piment d'Espelette 25g",
+      "prix_base": 3000,
+      "prix_comparaison": 2850,
       "indice_prix": 95.0
     }
   ]
