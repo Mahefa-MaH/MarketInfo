@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 9815,
-      "prix_base": 56244000,
-      "name": "Turbine \u00e0 glace \"Live Show\" GLS2-LX 1500 w",
-      "prix_comparaison": 61920000,
-      "variation": 5676000
+      "list_id": 10371,
+      "prix_base": 766600,
+      "name": "jouet Bateau pirates",
+      "prix_comparaison": 836300,
+      "variation": 69700
     },
     {
-      "list_id": 9933,
-      "prix_base": 47480400,
-      "name": "Pasteurisateur  P400 A 4000 w",
-      "prix_comparaison": 52272000,
-      "variation": 4791600
+      "list_id": 10453,
+      "prix_base": 598400,
+      "name": "jouet D.O.C. Ambulance",
+      "prix_comparaison": 652800,
+      "variation": 54400
     },
     {
-      "list_id": 9777,
-      "prix_base": 45780000,
-      "name": "P\u00e9trin 80kg \u00e0 spirale SP80 \u00e0 2 vitesses 3,7 kw",
-      "prix_comparaison": 50400000,
-      "variation": 4620000
+      "list_id": 10492,
+      "prix_base": 598400,
+      "name": "jouet Knight Rider K.I.T.T.",
+      "prix_comparaison": 652800,
+      "variation": 54400
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 9828,
-      "prix_base": 982800,
-      "name": "Turbine \u00e0 glace \u00e9cologique",
-      "prix_comparaison": 907200,
-      "variation": -75600
+      "list_id": 10548,
+      "prix_base": 1270400,
+      "name": "Machine \u00e0 laver TWM60-1016P FL 6 kg",
+      "prix_comparaison": 1129200,
+      "variation": -141200
     },
     {
-      "list_id": 9974,
-      "prix_base": 52000,
-      "name": "Capsule \u00e0 caf\u00e9 compostable Emilia",
-      "prix_comparaison": 48000,
-      "variation": -4000
+      "list_id": 10365,
+      "prix_base": 77600,
+      "name": "jouet Cal\u00e8che avec licorne et f\u00e9e",
+      "prix_comparaison": 74700,
+      "variation": -2900
     },
     {
-      "list_id": 9981,
-      "prix_base": 18400,
-      "name": "Shampoing ultra doux d\u00e9licatesse d'avoine 300 ml",
-      "prix_comparaison": 17000,
-      "variation": -1400
+      "list_id": 10497,
+      "prix_base": 36900,
+      "name": "jouet Artiste de rue",
+      "prix_comparaison": 35400,
+      "variation": -1500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 9724,
-      "name": "Fourneau gaz 4 feu avec four \u00e0 gaz",
-      "prix_base": 11974700,
-      "prix_comparaison": 13183200,
-      "indice_prix": 110.09211086707809
+      "list_id": 10328,
+      "name": "jouet Policier avec r\u00e9acteur dorsal et cano\u00eb",
+      "prix_base": 557100,
+      "prix_comparaison": 607800,
+      "indice_prix": 109.10070005385029
     },
     {
-      "list_id": 9723,
-      "name": "Fourneau gaz 4 feu avec four \u00e0 gaz",
-      "prix_base": 11974700,
-      "prix_comparaison": 13183200,
-      "indice_prix": 110.09211086707809
+      "list_id": 10491,
+      "name": "jouet Mini Cooper",
+      "prix_base": 558400,
+      "prix_comparaison": 609200,
+      "indice_prix": 109.0974212034384
     },
     {
-      "list_id": 9933,
-      "name": "Pasteurisateur  P400 A 4000 w",
-      "prix_base": 47480400,
-      "prix_comparaison": 52272000,
-      "indice_prix": 110.09174311926606
+      "list_id": 10490,
+      "name": "jouet Mercedes-Benz 300 SL",
+      "prix_base": 558400,
+      "prix_comparaison": 609200,
+      "indice_prix": 109.0974212034384
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 9828,
-      "name": "Turbine \u00e0 glace \u00e9cologique",
-      "prix_base": 982800,
-      "prix_comparaison": 907200,
-      "indice_prix": 92.3076923076923
+      "list_id": 10301,
+      "name": "Pois de Bambara ( Voanjobory blanc ) 1 kg",
+      "prix_base": 3900,
+      "prix_comparaison": 3000,
+      "indice_prix": 76.92307692307692
     },
     {
-      "list_id": 9974,
-      "name": "Capsule \u00e0 caf\u00e9 compostable Emilia",
-      "prix_base": 52000,
-      "prix_comparaison": 48000,
-      "indice_prix": 92.3076923076923
+      "list_id": 10570,
+      "name": "Lot de 2 Pinces clip cheveux 156135",
+      "prix_base": 7400,
+      "prix_comparaison": 6500,
+      "indice_prix": 87.83783783783784
     },
     {
-      "list_id": 9981,
-      "name": "Shampoing ultra doux d\u00e9licatesse d'avoine 300 ml",
-      "prix_base": 18400,
-      "prix_comparaison": 17000,
-      "indice_prix": 92.3913043478261
+      "list_id": 10548,
+      "name": "Machine \u00e0 laver TWM60-1016P FL 6 kg",
+      "prix_base": 1270400,
+      "prix_comparaison": 1129200,
+      "indice_prix": 88.8853904282116
     }
   ]
 }

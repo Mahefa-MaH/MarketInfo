@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Turbine à glace "Live Show" GLS2-LX 1500 w**
-   - Prix avant: 56,244,000 Ar
-   - Prix actuel: 61,920,000 Ar
-   - Variation: +5,676,000 Ar
+1. **jouet Bateau pirates**
+   - Prix avant: 766,600 Ar
+   - Prix actuel: 836,300 Ar
+   - Variation: +69,700 Ar
 
-2. **Pasteurisateur  P400 A 4000 w**
-   - Prix avant: 47,480,400 Ar
-   - Prix actuel: 52,272,000 Ar
-   - Variation: +4,791,600 Ar
+2. **jouet D.O.C. Ambulance**
+   - Prix avant: 598,400 Ar
+   - Prix actuel: 652,800 Ar
+   - Variation: +54,400 Ar
 
-3. **Pétrin 80kg à spirale SP80 à 2 vitesses 3,7 kw**
-   - Prix avant: 45,780,000 Ar
-   - Prix actuel: 50,400,000 Ar
-   - Variation: +4,620,000 Ar
+3. **jouet Knight Rider K.I.T.T.**
+   - Prix avant: 598,400 Ar
+   - Prix actuel: 652,800 Ar
+   - Variation: +54,400 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Turbine à glace écologique**
-   - Prix avant: 982,800 Ar
-   - Prix actuel: 907,200 Ar
-   - Variation: -75,600 Ar
+1. **Machine à laver TWM60-1016P FL 6 kg**
+   - Prix avant: 1,270,400 Ar
+   - Prix actuel: 1,129,200 Ar
+   - Variation: -141,200 Ar
 
-2. **Capsule à café compostable Emilia**
-   - Prix avant: 52,000 Ar
-   - Prix actuel: 48,000 Ar
-   - Variation: -4,000 Ar
+2. **jouet Calèche avec licorne et fée**
+   - Prix avant: 77,600 Ar
+   - Prix actuel: 74,700 Ar
+   - Variation: -2,900 Ar
 
-3. **Shampoing ultra doux délicatesse d'avoine 300 ml**
-   - Prix avant: 18,400 Ar
-   - Prix actuel: 17,000 Ar
-   - Variation: -1,400 Ar
+3. **jouet Artiste de rue**
+   - Prix avant: 36,900 Ar
+   - Prix actuel: 35,400 Ar
+   - Variation: -1,500 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Fourneau gaz 4 feu avec four à gaz**
-   - Prix avant: 11,974,700 Ar
-   - Prix actuel: 13,183,200 Ar
-   - Indice de prix : 110.09
+1. **jouet Policier avec réacteur dorsal et canoë**
+   - Prix avant: 557,100 Ar
+   - Prix actuel: 607,800 Ar
+   - Indice de prix : 109.10
 
-2. **Fourneau gaz 4 feu avec four à gaz**
-   - Prix avant: 11,974,700 Ar
-   - Prix actuel: 13,183,200 Ar
-   - Indice de prix : 110.09
+2. **jouet Mini Cooper**
+   - Prix avant: 558,400 Ar
+   - Prix actuel: 609,200 Ar
+   - Indice de prix : 109.10
 
-3. **Pasteurisateur  P400 A 4000 w**
-   - Prix avant: 47,480,400 Ar
-   - Prix actuel: 52,272,000 Ar
-   - Indice de prix : 110.09
+3. **jouet Mercedes-Benz 300 SL**
+   - Prix avant: 558,400 Ar
+   - Prix actuel: 609,200 Ar
+   - Indice de prix : 109.10
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Turbine à glace écologique**
-   - Prix avant: 982,800 Ar
-   - Prix actuel: 907,200 Ar
-   - Indice de prix : 92.31
+1. **Pois de Bambara ( Voanjobory blanc ) 1 kg**
+   - Prix avant: 3,900 Ar
+   - Prix actuel: 3,000 Ar
+   - Indice de prix : 76.92
 
-2. **Capsule à café compostable Emilia**
-   - Prix avant: 52,000 Ar
-   - Prix actuel: 48,000 Ar
-   - Indice de prix : 92.31
+2. **Lot de 2 Pinces clip cheveux 156135**
+   - Prix avant: 7,400 Ar
+   - Prix actuel: 6,500 Ar
+   - Indice de prix : 87.84
 
-3. **Shampoing ultra doux délicatesse d'avoine 300 ml**
-   - Prix avant: 18,400 Ar
-   - Prix actuel: 17,000 Ar
-   - Indice de prix : 92.39
+3. **Machine à laver TWM60-1016P FL 6 kg**
+   - Prix avant: 1,270,400 Ar
+   - Prix actuel: 1,129,200 Ar
+   - Indice de prix : 88.89
 
