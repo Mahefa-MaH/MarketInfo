@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "eauxgazeusesaromatisees_5503eaugazeusetonic30cl_html",
-      "name": "Eau gazeuse Tonic 30cl",
-      "prix_base": 1200,
-      "prix_comparaison": 1100,
-      "variation": -100
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
-      "name": "Boisson gazeuse cristal 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "variation": -400
+      "cle": "chips_381chipssaveursaucebarbecue25g_html",
+      "name": "Chips saveur sauce barbecue 25g",
+      "prix_base": 3000,
+      "prix_comparaison": 2850,
+      "variation": -150
     }
   ],
   "prix_diminues": [
     {
-      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
-      "name": "Boisson gazeuse cristal 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "variation": -400
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_5503eaugazeusetonic30cl_html",
-      "name": "Eau gazeuse Tonic 30cl",
-      "prix_base": 1200,
-      "prix_comparaison": 1100,
-      "variation": -100
+      "cle": "fromagesduresetrapes_4550mozzamaestrella45rape2500grs_html",
+      "name": "Fromage Mozzarella 45% r\u00e2p\u00e9e 2500g",
+      "prix_base": 150000,
+      "prix_comparaison": 142500,
+      "variation": -7500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
-      "name": "Boisson gazeuse cristal 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "indice_prix": 92.0
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_5503eaugazeusetonic30cl_html",
-      "name": "Eau gazeuse Tonic 30cl",
-      "prix_base": 1200,
-      "prix_comparaison": 1100,
-      "indice_prix": 91.66666666666667
+      "cle": "biscuitsfourres_13927biscuitgoutersfourresparfumchocolat500gtopbudget_html",
+      "name": "Biscuit go\u00fbters fourr\u00e9s parfum chocolat 500g",
+      "prix_base": 13500,
+      "prix_comparaison": 12825,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "eauxgazeusesaromatisees_5503eaugazeusetonic30cl_html",
-      "name": "Eau gazeuse Tonic 30cl",
-      "prix_base": 1200,
-      "prix_comparaison": 1100,
-      "indice_prix": 91.66666666666667
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_4663boissongazeusecristal150cl_html",
-      "name": "Boisson gazeuse cristal 150cl",
-      "prix_base": 5000,
-      "prix_comparaison": 4600,
-      "indice_prix": 92.0
+      "cle": "chips_376chipsnaturepaysanne125g_html",
+      "name": "Chips nature paysanne 125g",
+      "prix_base": 8900,
+      "prix_comparaison": 8455,
+      "indice_prix": 95.0
     }
   ]
 }
