@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8900,
-      "prix_comparaison": 8900,
+      "cle": "riz_7290rizblancdelitasy25kg_html",
+      "name": "Riz blanc de l'Itasy 25kg",
+      "prix_base": 92000,
+      "prix_comparaison": 92000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "semoulesetcouscous_1460farinederiz1kg_html",
-      "name": "Farine de riz 1kg",
-      "prix_base": 5000,
-      "prix_comparaison": 5000,
+      "cle": "riz_7291rizblancdelitasy50kg_html",
+      "name": "Riz blanc de l'Itasy 50kg",
+      "prix_base": 184000,
+      "prix_comparaison": 184000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
       "cle": "riz_7289rizblancdeitasy5kg_html",
       "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 16900,
+      "prix_base": 18400,
       "prix_comparaison": 18400,
-      "variation": 1500,
-      "indice_prix": 108.87573964497041
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
