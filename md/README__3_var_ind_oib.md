@@ -7,6 +7,11 @@
    - Prix actuel: 2,850 Ar
    - Variation: -150 Ar
 
+2. **Chips saveur chèvre piment d'Espelette 25g**
+   - Prix avant: 3,000 Ar
+   - Prix actuel: 2,850 Ar
+   - Variation: -150 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Fromage Mozzarella 45% râpée 2500g**
@@ -14,11 +19,21 @@
    - Prix actuel: 142,500 Ar
    - Variation: -7,500 Ar
 
+2. **3 Pizzas margherita 900g**
+   - Prix avant: 33,000 Ar
+   - Prix actuel: 31,350 Ar
+   - Variation: -1,650 Ar
+
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Biscuit goûters fourrés parfum chocolat 500g**
-   - Prix avant: 13,500 Ar
-   - Prix actuel: 12,825 Ar
+1. **Tablette de chocolat blanc noix de coco caramélisée 200g**
+   - Prix avant: 14,900 Ar
+   - Prix actuel: 14,155 Ar
+   - Indice de prix : 95.00
+
+2. **Gel douche monoï 250ml**
+   - Prix avant: 6,500 Ar
+   - Prix actuel: 6,175 Ar
    - Indice de prix : 95.00
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
@@ -26,5 +41,10 @@
 1. **Chips nature paysanne 125g**
    - Prix avant: 8,900 Ar
    - Prix actuel: 8,455 Ar
+   - Indice de prix : 95.00
+
+2. **Chips saveur cheddar oignons de roscoff 125g**
+   - Prix avant: 10,900 Ar
+   - Prix actuel: 10,355 Ar
    - Indice de prix : 95.00
 

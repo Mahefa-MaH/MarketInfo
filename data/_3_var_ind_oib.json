@@ -6,6 +6,13 @@
       "prix_base": 3000,
       "prix_comparaison": 2850,
       "variation": -150
+    },
+    {
+      "cle": "chips_382chipssaveurchevrepimentdespelette25g_html",
+      "name": "Chips saveur ch\u00e8vre piment d'Espelette 25g",
+      "prix_base": 3000,
+      "prix_comparaison": 2850,
+      "variation": -150
     }
   ],
   "prix_diminues": [
@@ -15,14 +22,28 @@
       "prix_base": 150000,
       "prix_comparaison": 142500,
       "variation": -7500
+    },
+    {
+      "cle": "pizzas_115833pizzasmargherita900gtopbudget_html",
+      "name": "3 Pizzas margherita 900g",
+      "prix_base": 33000,
+      "prix_comparaison": 31350,
+      "variation": -1650
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "biscuitsfourres_13927biscuitgoutersfourresparfumchocolat500gtopbudget_html",
-      "name": "Biscuit go\u00fbters fourr\u00e9s parfum chocolat 500g",
-      "prix_base": 13500,
-      "prix_comparaison": 12825,
+      "cle": "tablettesdechocolat_12715tablettedechocolatblancnoixdecococaramelisee200givoria_html",
+      "name": "Tablette de chocolat blanc noix de coco caram\u00e9lis\u00e9e 200g",
+      "prix_base": 14900,
+      "prix_comparaison": 14155,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "gelsetbainsdouche_13222geldouchemonoi250mllabell_html",
+      "name": "Gel douche mono\u00ef 250ml",
+      "prix_base": 6500,
+      "prix_comparaison": 6175,
       "indice_prix": 95.0
     }
   ],
@@ -32,6 +53,13 @@
       "name": "Chips nature paysanne 125g",
       "prix_base": 8900,
       "prix_comparaison": 8455,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "chips_363chipssaveurcheddaroignonsderoscoff125g_html",
+      "name": "Chips saveur cheddar oignons de roscoff 125g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
       "indice_prix": 95.0
     }
   ]
