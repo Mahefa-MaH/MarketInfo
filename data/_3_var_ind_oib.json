@@ -20,6 +20,20 @@
       "prix_base": 5900,
       "prix_comparaison": 5605,
       "variation": -295
+    },
+    {
+      "cle": "chips_12871snackscraquillesgoutfromage90gboutondor_html",
+      "name": "Snacks craquilles go\u00fbt fromage 90g",
+      "prix_base": 5900,
+      "prix_comparaison": 5605,
+      "variation": -295
+    },
+    {
+      "cle": "selsepicesherbes_5990paprikadoux100g_html",
+      "name": "Paprika doux 100g",
+      "prix_base": 5900,
+      "prix_comparaison": 5605,
+      "variation": -295
     }
   ],
   "prix_diminues": [
@@ -43,6 +57,20 @@
       "prix_base": 26400,
       "prix_comparaison": 25080,
       "variation": -1320
+    },
+    {
+      "cle": "viennoiserie_1913briochetrancheeauxoeufsfrais_html",
+      "name": "Brioche tranch\u00e9e aux Oeufs frais",
+      "prix_base": 22000,
+      "prix_comparaison": 20900,
+      "variation": -1100
+    },
+    {
+      "cle": "papiertoilette_12375papierhygieniqueroseleclassique12rouleauxlabell_html",
+      "name": "Papier hygi\u00e9nique rose Le Classique 12 rouleaux",
+      "prix_base": 20900,
+      "prix_comparaison": 19855,
+      "variation": -1045
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,6 +94,20 @@
       "prix_base": 18900,
       "prix_comparaison": 17955,
       "indice_prix": 95.0
+    },
+    {
+      "cle": "biscuitssecssables_13880biscuitsgalettes125gtopbudget_html",
+      "name": "Biscuits galettes 125g",
+      "prix_base": 5900,
+      "prix_comparaison": 5605,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "fromagesduresetrapes_4550mozzamaestrella45rape2500grs_html",
+      "name": "Fromage Mozzarella 45% r\u00e2p\u00e9e 2500g",
+      "prix_base": 150000,
+      "prix_comparaison": 142500,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
@@ -88,6 +130,20 @@
       "name": "Chips saveur ch\u00e8vre piment d'Espelette 25g",
       "prix_base": 3000,
       "prix_comparaison": 2850,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "chips_371chipssaveurindiancurry125g_html",
+      "name": "Chips saveur indian curry 125g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "chips_5671chipssaveurpestomozzarella125g_html",
+      "name": "Chips saveur pesto mozzarella 125g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
       "indice_prix": 95.0
     }
   ]

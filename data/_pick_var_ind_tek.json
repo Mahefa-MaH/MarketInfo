@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 9686,
-      "name": "Sucrettes brunes 3 g",
-      "prix_base": 11300,
-      "prix_comparaison": 11900,
-      "variation": 600
+      "list_id": 10106,
+      "name": "Sucre roux 1 Kg",
+      "prix_base": 11400,
+      "prix_comparaison": 11200,
+      "variation": -200
     }
   ],
   "indice de prix": [
     {
-      "list_id": 9686,
-      "name": "Sucrettes brunes 3 g",
-      "prix_base": 11300,
-      "prix_comparaison": 11900,
-      "indice_prix": 105.30973451327434
+      "list_id": 10106,
+      "name": "Sucre roux 1 Kg",
+      "prix_base": 11400,
+      "prix_comparaison": 11200,
+      "indice_prix": 98.24561403508773
     }
   ]
 }
