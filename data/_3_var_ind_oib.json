@@ -8,6 +8,13 @@
       "variation": 8482
     },
     {
+      "cle": "fromagesduresetrapes_4550mozzamaestrella45rape2500grs_html",
+      "name": "Fromage Mozzarella 45% r\u00e2p\u00e9e 2500g",
+      "prix_base": 142500,
+      "prix_comparaison": 150000,
+      "variation": 7500
+    },
+    {
       "cle": "cahiersetprotegescahiers_6432cahierspiraleformata424x32cmpetitscarreaux100pages_html",
       "name": "Cahier spirale format A4 24x32cm petits carreaux100 pages",
       "prix_base": 6500,
@@ -20,13 +27,6 @@
       "prix_base": 6000,
       "prix_comparaison": 11020,
       "variation": 5020
-    },
-    {
-      "cle": "gelslavantsetshampoings_5555laitdetoilettebebebio250ml_html",
-      "name": "Lait de toilette B\u00e9b\u00e9 BIO 250ml",
-      "prix_base": 8000,
-      "prix_comparaison": 10972,
-      "variation": 2972
     }
   ],
   "prix_diminues": [
@@ -91,6 +91,13 @@
   ],
   "indices_prix_plus_faibles": [
     {
+      "cle": "conservesdemaissalades_10484maisdoux390g_html",
+      "name": "Ma\u00efs doux 390g",
+      "prix_base": 4690,
+      "prix_comparaison": 3900,
+      "indice_prix": 83.15565031982942
+    },
+    {
       "cle": "crayonetcoloriage_7565gommeplastique_html",
       "name": "Gomme plastique",
       "prix_base": 1950,
@@ -107,13 +114,6 @@
     {
       "cle": "cremessoinsducorps_2386vaseline50ml_html",
       "name": "Vaseline 50ml",
-      "prix_base": 2750,
-      "prix_comparaison": 2612,
-      "indice_prix": 94.98181818181818
-    },
-    {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
       "prix_base": 2750,
       "prix_comparaison": 2612,
       "indice_prix": 94.98181818181818

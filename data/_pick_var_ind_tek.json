@@ -1,20 +1,580 @@
 {
   "Variation de prix": [
     {
-      "list_id": 10106,
-      "name": "Sucre roux 1 Kg",
-      "prix_base": 11400,
-      "prix_comparaison": 11200,
+      "list_id": 10929,
+      "name": "Lait concentr\u00e9 sucr\u00e9 1 Kg",
+      "prix_base": 16200,
+      "prix_comparaison": 14400,
+      "variation": -1800
+    },
+    {
+      "list_id": 10982,
+      "name": "Huile s\u00e8che corps argan amande douce 150 ml",
+      "prix_base": 47900,
+      "prix_comparaison": 46500,
+      "variation": -1400
+    },
+    {
+      "list_id": 11024,
+      "name": "Cr\u00e8me de jour anti-rides 30 ml",
+      "prix_base": 46300,
+      "prix_comparaison": 45000,
+      "variation": -1300
+    },
+    {
+      "list_id": 10836,
+      "name": "Huile de massage \u00e0 l'argan 150 ml",
+      "prix_base": 34700,
+      "prix_comparaison": 33700,
+      "variation": -1000
+    },
+    {
+      "list_id": 11023,
+      "name": "Cr\u00e8me contour des yeux 15 ml",
+      "prix_base": 35400,
+      "prix_comparaison": 34400,
+      "variation": -1000
+    },
+    {
+      "list_id": 10865,
+      "name": "Cr\u00e8me de jour anti-rides Q10 50 ml",
+      "prix_base": 26300,
+      "prix_comparaison": 25500,
+      "variation": -800
+    },
+    {
+      "list_id": 11391,
+      "name": "D\u00e9odorant \u00e0 bille au Tiar\u00e9 & Mono\u00ef 50 ml",
+      "prix_base": 9800,
+      "prix_comparaison": 9200,
+      "variation": -600
+    },
+    {
+      "list_id": 11384,
+      "name": "D\u00e9odorant \u00e0 bille dermo protection 50 ml",
+      "prix_base": 9800,
+      "prix_comparaison": 9200,
+      "variation": -600
+    },
+    {
+      "list_id": 11379,
+      "name": "Cr\u00e8me d\u00e9pilatoire pour Homme 200 ml",
+      "prix_base": 19900,
+      "prix_comparaison": 19300,
+      "variation": -600
+    },
+    {
+      "list_id": 11322,
+      "name": "Cr\u00e8me douche surgras 750 ml",
+      "prix_base": 18800,
+      "prix_comparaison": 18200,
+      "variation": -600
+    },
+    {
+      "list_id": 11346,
+      "name": "Cr\u00e8me de douche extrait de cotton 750 ml",
+      "prix_base": 20400,
+      "prix_comparaison": 19800,
+      "variation": -600
+    },
+    {
+      "list_id": 11235,
+      "name": "Savons 1/4 de cr\u00e8me hydratante extra doux 4 x 100 g",
+      "prix_base": 20300,
+      "prix_comparaison": 19700,
+      "variation": -600
+    },
+    {
+      "list_id": 10775,
+      "name": "Spray k\u00e9ratine liquide et huile d'argan 200 ml",
+      "prix_base": 18600,
+      "prix_comparaison": 18100,
+      "variation": -500
+    },
+    {
+      "list_id": 11323,
+      "name": "D\u00e9odorant anti-transpirant femme invisible 200 ml",
+      "prix_base": 13200,
+      "prix_comparaison": 12700,
+      "variation": -500
+    },
+    {
+      "list_id": 11337,
+      "name": "Cr\u00e8me de jour hydratante Souplesse et \u00e9clat 50 ml",
+      "prix_base": 17900,
+      "prix_comparaison": 17400,
+      "variation": -500
+    },
+    {
+      "list_id": 11304,
+      "name": "Cr\u00e8me mains Pure 50 ml",
+      "prix_base": 13200,
+      "prix_comparaison": 12700,
+      "variation": -500
+    },
+    {
+      "list_id": 11226,
+      "name": "Cr\u00e8me mains au beurre de Karit\u00e9 75 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "variation": -500
+    },
+    {
+      "list_id": 11347,
+      "name": "Cr\u00e8me de douche nutrition 500 ml",
+      "prix_base": 17400,
+      "prix_comparaison": 16900,
+      "variation": -500
+    },
+    {
+      "list_id": 10946,
+      "name": "Cr\u00e8me soin karit\u00e9 300 ml",
+      "prix_base": 18600,
+      "prix_comparaison": 18200,
+      "variation": -400
+    },
+    {
+      "list_id": 11385,
+      "name": "D\u00e9odorant \u00e0 bille bio \u00e0 l'hibiscus 50 ml",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "variation": -400
+    },
+    {
+      "list_id": 11273,
+      "name": "Cr\u00e8me mains Nutrition \u00e0 l'huile d'abricot 100 ml",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "variation": -400
+    },
+    {
+      "list_id": 11364,
+      "name": "Gressins \u00e0 l'huile d'olive vierge 125 g",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "variation": -400
+    },
+    {
+      "list_id": 11098,
+      "name": "D\u00e9odorant compresse vanille 100 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "variation": -300
+    },
+    {
+      "list_id": 11161,
+      "name": "Cr\u00e8me douche lait de coton 250 ml",
+      "prix_base": 10800,
+      "prix_comparaison": 10500,
+      "variation": -300
+    },
+    {
+      "list_id": 11099,
+      "name": "D\u00e9odorant Musk 150 ml",
+      "prix_base": 9900,
+      "prix_comparaison": 9600,
+      "variation": -300
+    },
+    {
+      "list_id": 11100,
+      "name": "D\u00e9odorant \u00e0 bille Invisible 50 ml",
+      "prix_base": 9500,
+      "prix_comparaison": 9200,
+      "variation": -300
+    },
+    {
+      "list_id": 11315,
+      "name": "Cr\u00e8me mains hydratante 100 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "variation": -300
+    },
+    {
+      "list_id": 11298,
+      "name": "Gel douche \u00e0 l'huile d'argan 250 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "variation": -300
+    },
+    {
+      "list_id": 11299,
+      "name": "Cr\u00e8me lavante hydratante \u00e0 l'extrait d'argan 300 ml",
+      "prix_base": 12600,
+      "prix_comparaison": 12300,
+      "variation": -300
+    },
+    {
+      "list_id": 11222,
+      "name": "Cr\u00e8me main Coco 75 ml",
+      "prix_base": 8700,
+      "prix_comparaison": 8400,
+      "variation": -300
+    },
+    {
+      "list_id": 11102,
+      "name": "D\u00e9odorant \u00e0 bille 24 h \u00e0 la Pierre d'Alun 50 ml",
+      "prix_base": 7100,
+      "prix_comparaison": 6900,
       "variation": -200
+    },
+    {
+      "list_id": 11392,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'alcool pure 50 ml",
+      "prix_base": 9000,
+      "prix_comparaison": 8800,
+      "variation": -200
+    },
+    {
+      "list_id": 11101,
+      "name": "D\u00e9odorant \u00e0 bille Oc\u00e9an 50 ml",
+      "prix_base": 7100,
+      "prix_comparaison": 6900,
+      "variation": -200
+    },
+    {
+      "list_id": 11028,
+      "name": "D\u00e9odorant cologne 200 ml",
+      "prix_base": 11000,
+      "prix_comparaison": 10800,
+      "variation": -200
+    },
+    {
+      "list_id": 11103,
+      "name": "D\u00e9odorant \u00e0 bille Invisible 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 8100,
+      "variation": -200
+    },
+    {
+      "list_id": 11104,
+      "name": "D\u00e9odorant \u00e0 bille vanille 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 8100,
+      "variation": -200
+    },
+    {
+      "list_id": 11223,
+      "name": "Cr\u00e8me pied menthe poivr\u00e9e 100 ml",
+      "prix_base": 10700,
+      "prix_comparaison": 10500,
+      "variation": -200
+    },
+    {
+      "list_id": 691,
+      "name": "D\u00e9odorant Arome By Arthes 150 Ml",
+      "prix_base": 15500,
+      "prix_comparaison": 19600,
+      "variation": 4100
+    },
+    {
+      "list_id": 11108,
+      "name": "Riz Long Grain \u00e0 \u00c9tuv\u00e9 (Madrigal) 50 kg",
+      "prix_base": 161000,
+      "prix_comparaison": 168000,
+      "variation": 7000
+    },
+    {
+      "list_id": 11107,
+      "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
+      "prix_base": 184000,
+      "prix_comparaison": 192000,
+      "variation": 8000
+    },
+    {
+      "list_id": 11110,
+      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
+      "prix_base": 190000,
+      "prix_comparaison": 198000,
+      "variation": 8000
     }
   ],
   "indice de prix": [
     {
-      "list_id": 10106,
-      "name": "Sucre roux 1 Kg",
-      "prix_base": 11400,
-      "prix_comparaison": 11200,
-      "indice_prix": 98.24561403508773
+      "list_id": 10929,
+      "name": "Lait concentr\u00e9 sucr\u00e9 1 Kg",
+      "prix_base": 16200,
+      "prix_comparaison": 14400,
+      "indice_prix": 88.88888888888889
+    },
+    {
+      "list_id": 11391,
+      "name": "D\u00e9odorant \u00e0 bille au Tiar\u00e9 & Mono\u00ef 50 ml",
+      "prix_base": 9800,
+      "prix_comparaison": 9200,
+      "indice_prix": 93.87755102040816
+    },
+    {
+      "list_id": 11384,
+      "name": "D\u00e9odorant \u00e0 bille dermo protection 50 ml",
+      "prix_base": 9800,
+      "prix_comparaison": 9200,
+      "indice_prix": 93.87755102040816
+    },
+    {
+      "list_id": 11323,
+      "name": "D\u00e9odorant anti-transpirant femme invisible 200 ml",
+      "prix_base": 13200,
+      "prix_comparaison": 12700,
+      "indice_prix": 96.21212121212122
+    },
+    {
+      "list_id": 11304,
+      "name": "Cr\u00e8me mains Pure 50 ml",
+      "prix_base": 13200,
+      "prix_comparaison": 12700,
+      "indice_prix": 96.21212121212122
+    },
+    {
+      "list_id": 11222,
+      "name": "Cr\u00e8me main Coco 75 ml",
+      "prix_base": 8700,
+      "prix_comparaison": 8400,
+      "indice_prix": 96.55172413793103
+    },
+    {
+      "list_id": 11322,
+      "name": "Cr\u00e8me douche surgras 750 ml",
+      "prix_base": 18800,
+      "prix_comparaison": 18200,
+      "indice_prix": 96.80851063829788
+    },
+    {
+      "list_id": 11100,
+      "name": "D\u00e9odorant \u00e0 bille Invisible 50 ml",
+      "prix_base": 9500,
+      "prix_comparaison": 9200,
+      "indice_prix": 96.84210526315789
+    },
+    {
+      "list_id": 10865,
+      "name": "Cr\u00e8me de jour anti-rides Q10 50 ml",
+      "prix_base": 26300,
+      "prix_comparaison": 25500,
+      "indice_prix": 96.95817490494296
+    },
+    {
+      "list_id": 11099,
+      "name": "D\u00e9odorant Musk 150 ml",
+      "prix_base": 9900,
+      "prix_comparaison": 9600,
+      "indice_prix": 96.96969696969697
+    },
+    {
+      "list_id": 11379,
+      "name": "Cr\u00e8me d\u00e9pilatoire pour Homme 200 ml",
+      "prix_base": 19900,
+      "prix_comparaison": 19300,
+      "indice_prix": 96.98492462311557
+    },
+    {
+      "list_id": 11235,
+      "name": "Savons 1/4 de cr\u00e8me hydratante extra doux 4 x 100 g",
+      "prix_base": 20300,
+      "prix_comparaison": 19700,
+      "indice_prix": 97.04433497536945
+    },
+    {
+      "list_id": 11346,
+      "name": "Cr\u00e8me de douche extrait de cotton 750 ml",
+      "prix_base": 20400,
+      "prix_comparaison": 19800,
+      "indice_prix": 97.05882352941177
+    },
+    {
+      "list_id": 10982,
+      "name": "Huile s\u00e8che corps argan amande douce 150 ml",
+      "prix_base": 47900,
+      "prix_comparaison": 46500,
+      "indice_prix": 97.07724425887265
+    },
+    {
+      "list_id": 10836,
+      "name": "Huile de massage \u00e0 l'argan 150 ml",
+      "prix_base": 34700,
+      "prix_comparaison": 33700,
+      "indice_prix": 97.11815561959654
+    },
+    {
+      "list_id": 11347,
+      "name": "Cr\u00e8me de douche nutrition 500 ml",
+      "prix_base": 17400,
+      "prix_comparaison": 16900,
+      "indice_prix": 97.1264367816092
+    },
+    {
+      "list_id": 11023,
+      "name": "Cr\u00e8me contour des yeux 15 ml",
+      "prix_base": 35400,
+      "prix_comparaison": 34400,
+      "indice_prix": 97.17514124293785
+    },
+    {
+      "list_id": 11102,
+      "name": "D\u00e9odorant \u00e0 bille 24 h \u00e0 la Pierre d'Alun 50 ml",
+      "prix_base": 7100,
+      "prix_comparaison": 6900,
+      "indice_prix": 97.1830985915493
+    },
+    {
+      "list_id": 11101,
+      "name": "D\u00e9odorant \u00e0 bille Oc\u00e9an 50 ml",
+      "prix_base": 7100,
+      "prix_comparaison": 6900,
+      "indice_prix": 97.1830985915493
+    },
+    {
+      "list_id": 11024,
+      "name": "Cr\u00e8me de jour anti-rides 30 ml",
+      "prix_base": 46300,
+      "prix_comparaison": 45000,
+      "indice_prix": 97.19222462203024
+    },
+    {
+      "list_id": 11337,
+      "name": "Cr\u00e8me de jour hydratante Souplesse et \u00e9clat 50 ml",
+      "prix_base": 17900,
+      "prix_comparaison": 17400,
+      "indice_prix": 97.20670391061452
+    },
+    {
+      "list_id": 11161,
+      "name": "Cr\u00e8me douche lait de coton 250 ml",
+      "prix_base": 10800,
+      "prix_comparaison": 10500,
+      "indice_prix": 97.22222222222223
+    },
+    {
+      "list_id": 10775,
+      "name": "Spray k\u00e9ratine liquide et huile d'argan 200 ml",
+      "prix_base": 18600,
+      "prix_comparaison": 18100,
+      "indice_prix": 97.31182795698925
+    },
+    {
+      "list_id": 11385,
+      "name": "D\u00e9odorant \u00e0 bille bio \u00e0 l'hibiscus 50 ml",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "indice_prix": 97.33333333333333
+    },
+    {
+      "list_id": 11273,
+      "name": "Cr\u00e8me mains Nutrition \u00e0 l'huile d'abricot 100 ml",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "indice_prix": 97.33333333333333
+    },
+    {
+      "list_id": 11364,
+      "name": "Gressins \u00e0 l'huile d'olive vierge 125 g",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "indice_prix": 97.33333333333333
+    },
+    {
+      "list_id": 11226,
+      "name": "Cr\u00e8me mains au beurre de Karit\u00e9 75 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "indice_prix": 97.38219895287958
+    },
+    {
+      "list_id": 11098,
+      "name": "D\u00e9odorant compresse vanille 100 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "indice_prix": 97.47899159663865
+    },
+    {
+      "list_id": 11315,
+      "name": "Cr\u00e8me mains hydratante 100 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "indice_prix": 97.47899159663865
+    },
+    {
+      "list_id": 11298,
+      "name": "Gel douche \u00e0 l'huile d'argan 250 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "indice_prix": 97.47899159663865
+    },
+    {
+      "list_id": 11103,
+      "name": "D\u00e9odorant \u00e0 bille Invisible 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 8100,
+      "indice_prix": 97.59036144578313
+    },
+    {
+      "list_id": 11104,
+      "name": "D\u00e9odorant \u00e0 bille vanille 50 ml",
+      "prix_base": 8300,
+      "prix_comparaison": 8100,
+      "indice_prix": 97.59036144578313
+    },
+    {
+      "list_id": 11299,
+      "name": "Cr\u00e8me lavante hydratante \u00e0 l'extrait d'argan 300 ml",
+      "prix_base": 12600,
+      "prix_comparaison": 12300,
+      "indice_prix": 97.61904761904762
+    },
+    {
+      "list_id": 11392,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'alcool pure 50 ml",
+      "prix_base": 9000,
+      "prix_comparaison": 8800,
+      "indice_prix": 97.77777777777777
+    },
+    {
+      "list_id": 10946,
+      "name": "Cr\u00e8me soin karit\u00e9 300 ml",
+      "prix_base": 18600,
+      "prix_comparaison": 18200,
+      "indice_prix": 97.84946236559139
+    },
+    {
+      "list_id": 11223,
+      "name": "Cr\u00e8me pied menthe poivr\u00e9e 100 ml",
+      "prix_base": 10700,
+      "prix_comparaison": 10500,
+      "indice_prix": 98.13084112149532
+    },
+    {
+      "list_id": 11028,
+      "name": "D\u00e9odorant cologne 200 ml",
+      "prix_base": 11000,
+      "prix_comparaison": 10800,
+      "indice_prix": 98.18181818181819
+    },
+    {
+      "list_id": 11110,
+      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
+      "prix_base": 190000,
+      "prix_comparaison": 198000,
+      "indice_prix": 104.21052631578948
+    },
+    {
+      "list_id": 11107,
+      "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
+      "prix_base": 184000,
+      "prix_comparaison": 192000,
+      "indice_prix": 104.34782608695652
+    },
+    {
+      "list_id": 11108,
+      "name": "Riz Long Grain \u00e0 \u00c9tuv\u00e9 (Madrigal) 50 kg",
+      "prix_base": 161000,
+      "prix_comparaison": 168000,
+      "indice_prix": 104.34782608695652
+    },
+    {
+      "list_id": 691,
+      "name": "D\u00e9odorant Arome By Arthes 150 Ml",
+      "prix_base": 15500,
+      "prix_comparaison": 19600,
+      "indice_prix": 126.45161290322581
     }
   ]
 }

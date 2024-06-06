@@ -1,18 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "chambrecompletebebe_140524chambrebebetriooslolit120x60commodealangerarmoire3portessauthon3500760100233_html",
-      "name": "Chambre b\u00e9b\u00e9 trio OSLO - Lit 120x60 + Commode a langer + Armoire 3 portes - SAUTHON",
-      "prix_base": 10763000,
-      "prix_comparaison": 10763000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "chambrecompletebebe_140525chambrebebetriooslolit120x60commodealanger2tiroirsetoilesarmoire3portessauthon3500760100240_html",
-      "name": "Chambre b\u00e9b\u00e9 trio OSLO - Lit 120x60 + Commode a langer 2 tiroirs \u00e9toiles + Armoire 3 portes - SAUTHON",
-      "prix_base": 10763000,
-      "prix_comparaison": 10763000,
+      "cle": "tableplaquedecuissoninduction_85500tabledecuissonaspiranteinductionbosch4foyersl80xp52cmpvq811f15e4242005218851_html",
+      "name": "Table de cuisson aspirante induction - BOSCH - 4 foyers - L80 x P52 cm - PVQ811F15E",
+      "prix_base": 13429000,
+      "prix_comparaison": 13429000,
       "variation": 0,
       "indice_prix": 100.0
     }

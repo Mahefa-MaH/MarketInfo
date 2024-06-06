@@ -7,20 +7,20 @@
    - Prix actuel: 18,382 Ar
    - Variation: +8,482 Ar
 
-2. **Cahier spirale format A4 24x32cm petits carreaux100 pages**
+2. **Fromage Mozzarella 45% râpée 2500g**
+   - Prix avant: 142,500 Ar
+   - Prix actuel: 150,000 Ar
+   - Variation: +7,500 Ar
+
+3. **Cahier spirale format A4 24x32cm petits carreaux100 pages**
    - Prix avant: 6,500 Ar
    - Prix actuel: 12,065 Ar
    - Variation: +5,565 Ar
 
-3. **Cahier format A3 seyès 140 pages**
+4. **Cahier format A3 seyès 140 pages**
    - Prix avant: 6,000 Ar
    - Prix actuel: 11,020 Ar
    - Variation: +5,020 Ar
-
-4. **Lait de toilette Bébé BIO 250ml**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 10,972 Ar
-   - Variation: +2,972 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -68,22 +68,22 @@
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Gomme plastique**
+1. **Maïs doux 390g**
+   - Prix avant: 4,690 Ar
+   - Prix actuel: 3,900 Ar
+   - Indice de prix : 83.16
+
+2. **Gomme plastique**
    - Prix avant: 1,950 Ar
    - Prix actuel: 1,852 Ar
    - Indice de prix : 94.97
 
-2. **21 Etiquettes blanches 38x63mm**
+3. **21 Etiquettes blanches 38x63mm**
    - Prix avant: 2,550 Ar
    - Prix actuel: 2,422 Ar
    - Indice de prix : 94.98
 
-3. **Vaseline 50ml**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,612 Ar
-   - Indice de prix : 94.98
-
-4. **Talc bébé poudre 75g**
+4. **Vaseline 50ml**
    - Prix avant: 2,750 Ar
    - Prix actuel: 2,612 Ar
    - Indice de prix : 94.98
