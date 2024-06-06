@@ -83,7 +83,7 @@
    - Prix actuel: 2,422 Ar
    - Indice de prix : 94.98
 
-4. **Vaseline 50ml**
+4. **Talc bébé poudre 75g**
    - Prix avant: 2,750 Ar
    - Prix actuel: 2,612 Ar
    - Indice de prix : 94.98

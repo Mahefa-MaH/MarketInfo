@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 10371,
-      "prix_base": 766600,
-      "name": "jouet Bateau pirates",
-      "prix_comparaison": 836300,
-      "variation": 69700
+      "list_id": 10898,
+      "prix_base": 617300,
+      "name": "jouet Zo\u00e9, ma licorne pr\u00e9f\u00e9r\u00e9e",
+      "prix_comparaison": 673500,
+      "variation": 56200
     },
     {
-      "list_id": 10453,
-      "prix_base": 598400,
-      "name": "jouet D.O.C. Ambulance",
-      "prix_comparaison": 652800,
-      "variation": 54400
+      "list_id": 10961,
+      "prix_base": 420500,
+      "name": "jouet Tour de potier 2 en 1",
+      "prix_comparaison": 458800,
+      "variation": 38300
     },
     {
-      "list_id": 10492,
-      "prix_base": 598400,
-      "name": "jouet Knight Rider K.I.T.T.",
-      "prix_comparaison": 652800,
-      "variation": 54400
+      "list_id": 11059,
+      "prix_base": 386200,
+      "name": "jouet Dragon M\u00e9canique",
+      "prix_comparaison": 421400,
+      "variation": 35200
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 10548,
-      "prix_base": 1270400,
-      "name": "Machine \u00e0 laver TWM60-1016P FL 6 kg",
-      "prix_comparaison": 1129200,
-      "variation": -141200
+      "list_id": 10981,
+      "prix_base": 118000,
+      "name": "jouet Balle sensorielle Clemmy",
+      "prix_comparaison": 112000,
+      "variation": -6000
     },
     {
-      "list_id": 10365,
-      "prix_base": 77600,
-      "name": "jouet Cal\u00e8che avec licorne et f\u00e9e",
-      "prix_comparaison": 74700,
-      "variation": -2900
+      "list_id": 11275,
+      "prix_base": 154900,
+      "name": "Brosse \u00e0 dents \u00e9lectrique Total Clean",
+      "prix_comparaison": 150200,
+      "variation": -4700
     },
     {
-      "list_id": 10497,
-      "prix_base": 36900,
-      "name": "jouet Artiste de rue",
-      "prix_comparaison": 35400,
-      "variation": -1500
+      "list_id": 3596,
+      "prix_base": 22300,
+      "name": "Insecticide Vol - Ramp 750 Ml",
+      "prix_comparaison": 18600,
+      "variation": -3700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 10328,
-      "name": "jouet Policier avec r\u00e9acteur dorsal et cano\u00eb",
-      "prix_base": 557100,
-      "prix_comparaison": 607800,
-      "indice_prix": 109.10070005385029
+      "list_id": 636,
+      "name": "Eau de parfum Cassandra Rose Intense 100 Ml",
+      "prix_base": 40100,
+      "prix_comparaison": 54500,
+      "indice_prix": 135.91022443890273
     },
     {
-      "list_id": 10491,
-      "name": "jouet Mini Cooper",
-      "prix_base": 558400,
-      "prix_comparaison": 609200,
-      "indice_prix": 109.0974212034384
+      "list_id": 3602,
+      "name": "D\u00e9boucheur Liquide 1000 Ml",
+      "prix_base": 14300,
+      "prix_comparaison": 18500,
+      "indice_prix": 129.37062937062936
     },
     {
-      "list_id": 10490,
-      "name": "jouet Mercedes-Benz 300 SL",
-      "prix_base": 558400,
-      "prix_comparaison": 609200,
-      "indice_prix": 109.0974212034384
+      "list_id": 691,
+      "name": "D\u00e9odorant Arome By Arthes 150 Ml",
+      "prix_base": 15500,
+      "prix_comparaison": 19600,
+      "indice_prix": 126.45161290322581
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 10301,
-      "name": "Pois de Bambara ( Voanjobory blanc ) 1 kg",
-      "prix_base": 3900,
-      "prix_comparaison": 3000,
-      "indice_prix": 76.92307692307692
+      "list_id": 3594,
+      "name": "Insecticide Vol - Ramp 400 Ml",
+      "prix_base": 12500,
+      "prix_comparaison": 10400,
+      "indice_prix": 83.2
     },
     {
-      "list_id": 10570,
-      "name": "Lot de 2 Pinces clip cheveux 156135",
-      "prix_base": 7400,
-      "prix_comparaison": 6500,
-      "indice_prix": 87.83783783783784
+      "list_id": 3596,
+      "name": "Insecticide Vol - Ramp 750 Ml",
+      "prix_base": 22300,
+      "prix_comparaison": 18600,
+      "indice_prix": 83.40807174887892
     },
     {
-      "list_id": 10548,
-      "name": "Machine \u00e0 laver TWM60-1016P FL 6 kg",
-      "prix_base": 1270400,
-      "prix_comparaison": 1129200,
-      "indice_prix": 88.8853904282116
+      "list_id": 3593,
+      "name": "Insecticide Vol - Ramp 200 Ml",
+      "prix_base": 8700,
+      "prix_comparaison": 7300,
+      "indice_prix": 83.9080459770115
     }
   ]
 }
