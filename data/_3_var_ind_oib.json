@@ -6,6 +6,20 @@
       "prix_base": 9900,
       "prix_comparaison": 18382,
       "variation": 8482
+    },
+    {
+      "cle": "cahiersetprotegescahiers_6432cahierspiraleformata424x32cmpetitscarreaux100pages_html",
+      "name": "Cahier spirale format A4 24x32cm petits carreaux100 pages",
+      "prix_base": 6500,
+      "prix_comparaison": 12065,
+      "variation": 5565
+    },
+    {
+      "cle": "cahiersetprotegescahiers_6178cahierformata3seyes140pages_html",
+      "name": "Cahier format A3 sey\u00e8s 140 pages",
+      "prix_base": 6000,
+      "prix_comparaison": 11020,
+      "variation": 5020
     }
   ],
   "prix_diminues": [
@@ -15,6 +29,20 @@
       "prix_base": 657900,
       "prix_comparaison": 625005,
       "variation": -32895
+    },
+    {
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 599000,
+      "prix_comparaison": 569050,
+      "variation": -29950
+    },
+    {
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 520000,
+      "prix_comparaison": 494000,
+      "variation": -26000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +52,20 @@
       "prix_base": 3000,
       "prix_comparaison": 5605,
       "indice_prix": 186.83333333333334
+    },
+    {
+      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
+      "name": "Cahier spirale polycours petits carreaux 180 pages",
+      "prix_base": 9900,
+      "prix_comparaison": 18382,
+      "indice_prix": 185.67676767676767
+    },
+    {
+      "cle": "cahiersetprotegescahiers_6432cahierspiraleformata424x32cmpetitscarreaux100pages_html",
+      "name": "Cahier spirale format A4 24x32cm petits carreaux100 pages",
+      "prix_base": 6500,
+      "prix_comparaison": 12065,
+      "indice_prix": 185.6153846153846
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +75,20 @@
       "prix_base": 1950,
       "prix_comparaison": 1852,
       "indice_prix": 94.97435897435898
+    },
+    {
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2550,
+      "prix_comparaison": 2422,
+      "indice_prix": 94.98039215686275
+    },
+    {
+      "cle": "cremessoinsducorps_2386vaseline50ml_html",
+      "name": "Vaseline 50ml",
+      "prix_base": 2750,
+      "prix_comparaison": 2612,
+      "indice_prix": 94.98181818181818
     }
   ]
 }

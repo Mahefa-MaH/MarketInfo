@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Sucre blanc 1 kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,200 Ar
+1. **Sucre blanc 1 Kg**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 8,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucrettes blanches  50 g**
-   - Prix avant: 7,000 Ar
-   - Prix actuel: 7,000 Ar
+2. **Riz rouge long grain complet 500 g**
+   - Prix avant: 12,300 Ar
+   - Prix actuel: 12,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Huile De Soja 1 L**
-   - Prix avant: 11,800 Ar
-   - Prix actuel: 11,800 Ar
+3. **Sucre Blanc Brésilien En Sac De 50 Kg**
+   - Prix avant: 321,000 Ar
+   - Prix actuel: 321,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

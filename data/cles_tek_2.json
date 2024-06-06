@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3826,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 6500,
-      "prix_comparaison": 6500,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6900,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 8267,
       "name": "Sucre rouge 1 kg",
       "prix_base": 5682,
       "prix_comparaison": 5682,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 9687,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 7200,
+      "prix_comparaison": 7200,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 12923,
+      "name": "Riz blanc parfum\u00e9 5 kg",
+      "prix_base": 40800,
+      "prix_comparaison": 40800,
       "variation": 0,
       "indice_prix": 100.0
     }
