@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Détartrant ménager rouge 1L**
-   - Prix avant: 3,890 Ar
-   - Prix actuel: 3,890 Ar
+1. **Riz gasy mena  1kg**
+   - Prix avant: 4,250 Ar
+   - Prix actuel: 4,250 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre blanc en morceaux 1kg**
-   - Prix avant: 13,900 Ar
-   - Prix actuel: 13,900 Ar
+2. **Riz gasy sac de 1kg**
+   - Prix avant: 4,490 Ar
+   - Prix actuel: 4,490 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc en poudre 1kg**
-   - Prix avant: 11,500 Ar
-   - Prix actuel: 11,500 Ar
+3. **Riz makalioka 1kg**
+   - Prix avant: 4,350 Ar
+   - Prix actuel: 4,350 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

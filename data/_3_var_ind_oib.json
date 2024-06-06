@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "chips_381chipssaveursaucebarbecue25g_html",
-      "name": "Chips saveur sauce barbecue 25g",
-      "prix_base": 3000,
-      "prix_comparaison": 2850,
-      "variation": -150
+      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
+      "name": "Cahier spirale polycours petits carreaux 180 pages",
+      "prix_base": 9900,
+      "prix_comparaison": 18382,
+      "variation": 8482
     }
   ],
   "prix_diminues": [
     {
-      "cle": "fromagesduresetrapes_4550mozzamaestrella45rape2500grs_html",
-      "name": "Fromage Mozzarella 45% r\u00e2p\u00e9e 2500g",
-      "prix_base": 150000,
-      "prix_comparaison": 142500,
-      "variation": -7500
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 657900,
+      "prix_comparaison": 625005,
+      "variation": -32895
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "tablettesdechocolat_12715tablettedechocolatblancnoixdecococaramelisee200givoria_html",
-      "name": "Tablette de chocolat blanc noix de coco caram\u00e9lis\u00e9e 200g",
-      "prix_base": 14900,
-      "prix_comparaison": 14155,
-      "indice_prix": 95.0
+      "cle": "cahiersetprotegescahiers_5862cahierformata3petitscarreaux96pages_html",
+      "name": "Cahier format A3 petits carreaux 96 pages",
+      "prix_base": 3000,
+      "prix_comparaison": 5605,
+      "indice_prix": 186.83333333333334
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "chips_376chipsnaturepaysanne125g_html",
-      "name": "Chips nature paysanne 125g",
-      "prix_base": 8900,
-      "prix_comparaison": 8455,
-      "indice_prix": 95.0
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1950,
+      "prix_comparaison": 1852,
+      "indice_prix": 94.97435897435898
     }
   ]
 }

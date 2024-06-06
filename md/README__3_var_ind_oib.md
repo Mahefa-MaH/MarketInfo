@@ -2,29 +2,29 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Chips saveur sauce barbecue 25g**
-   - Prix avant: 3,000 Ar
-   - Prix actuel: 2,850 Ar
-   - Variation: -150 Ar
+1. **Cahier spirale polycours petits carreaux 180 pages**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 18,382 Ar
+   - Variation: +8,482 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Fromage Mozzarella 45% râpée 2500g**
-   - Prix avant: 150,000 Ar
-   - Prix actuel: 142,500 Ar
-   - Variation: -7,500 Ar
+1. **Thermomètre digital résistant aux chocs avec sonde**
+   - Prix avant: 657,900 Ar
+   - Prix actuel: 625,005 Ar
+   - Variation: -32,895 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Tablette de chocolat blanc noix de coco caramélisée 200g**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 14,155 Ar
-   - Indice de prix : 95.00
+1. **Cahier format A3 petits carreaux 96 pages**
+   - Prix avant: 3,000 Ar
+   - Prix actuel: 5,605 Ar
+   - Indice de prix : 186.83
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Chips nature paysanne 125g**
-   - Prix avant: 8,900 Ar
-   - Prix actuel: 8,455 Ar
-   - Indice de prix : 95.00
+1. **Gomme plastique**
+   - Prix avant: 1,950 Ar
+   - Prix actuel: 1,852 Ar
+   - Indice de prix : 94.97
 
