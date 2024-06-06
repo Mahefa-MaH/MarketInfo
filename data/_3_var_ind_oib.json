@@ -20,6 +20,13 @@
       "prix_base": 6000,
       "prix_comparaison": 11020,
       "variation": 5020
+    },
+    {
+      "cle": "gelslavantsetshampoings_5555laitdetoilettebebebio250ml_html",
+      "name": "Lait de toilette B\u00e9b\u00e9 BIO 250ml",
+      "prix_base": 8000,
+      "prix_comparaison": 10972,
+      "variation": 2972
     }
   ],
   "prix_diminues": [
@@ -43,6 +50,13 @@
       "prix_base": 520000,
       "prix_comparaison": 494000,
       "variation": -26000
+    },
+    {
+      "cle": "marmiteetfaitout_10067faitoutrondrougeslowcooko24cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d824cm",
+      "prix_base": 420000,
+      "prix_comparaison": 399000,
+      "variation": -21000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,6 +80,13 @@
       "prix_base": 6500,
       "prix_comparaison": 12065,
       "indice_prix": 185.6153846153846
+    },
+    {
+      "cle": "cahiersetprotegescahiers_5867cahierformata321x297cmseyes96pages_html",
+      "name": "Cahier format A3 21x29,7cm Sey\u00e8s 96 pages",
+      "prix_base": 3000,
+      "prix_comparaison": 5558,
+      "indice_prix": 185.26666666666668
     }
   ],
   "indices_prix_plus_faibles": [
@@ -86,6 +107,13 @@
     {
       "cle": "cremessoinsducorps_2386vaseline50ml_html",
       "name": "Vaseline 50ml",
+      "prix_base": 2750,
+      "prix_comparaison": 2612,
+      "indice_prix": 94.98181818181818
+    },
+    {
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
       "prix_base": 2750,
       "prix_comparaison": 2612,
       "indice_prix": 94.98181818181818

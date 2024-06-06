@@ -17,6 +17,11 @@
    - Prix actuel: 11,020 Ar
    - Variation: +5,020 Ar
 
+4. **Lait de toilette Bébé BIO 250ml**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 10,972 Ar
+   - Variation: +2,972 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Thermomètre digital résistant aux chocs avec sonde**
@@ -33,6 +38,11 @@
    - Prix avant: 520,000 Ar
    - Prix actuel: 494,000 Ar
    - Variation: -26,000 Ar
+
+4. **Faitout rond rouge Slowcook Ø24cm**
+   - Prix avant: 420,000 Ar
+   - Prix actuel: 399,000 Ar
+   - Variation: -21,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -51,6 +61,11 @@
    - Prix actuel: 12,065 Ar
    - Indice de prix : 185.62
 
+4. **Cahier format A3 21x29,7cm Seyès 96 pages**
+   - Prix avant: 3,000 Ar
+   - Prix actuel: 5,558 Ar
+   - Indice de prix : 185.27
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Gomme plastique**
@@ -64,6 +79,11 @@
    - Indice de prix : 94.98
 
 3. **Vaseline 50ml**
+   - Prix avant: 2,750 Ar
+   - Prix actuel: 2,612 Ar
+   - Indice de prix : 94.98
+
+4. **Talc bébé poudre 75g**
    - Prix avant: 2,750 Ar
    - Prix actuel: 2,612 Ar
    - Indice de prix : 94.98
