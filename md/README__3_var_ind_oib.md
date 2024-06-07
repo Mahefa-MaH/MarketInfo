@@ -12,6 +12,11 @@
    - Prix actuel: 599,000 Ar
    - Variation: +29,950 Ar
 
+3. **Thermomètre infrarouge**
+   - Prix avant: 494,000 Ar
+   - Prix actuel: 520,000 Ar
+   - Variation: +26,000 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Cahier spirale polycours petits carreaux 180 pages**
@@ -23,6 +28,11 @@
    - Prix avant: 12,065 Ar
    - Prix actuel: 6,500 Ar
    - Variation: -5,565 Ar
+
+3. **Cahier format A3 seyès 140 pages**
+   - Prix avant: 11,020 Ar
+   - Prix actuel: 6,000 Ar
+   - Variation: -5,020 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -36,6 +46,11 @@
    - Prix actuel: 2,550 Ar
    - Indice de prix : 105.28
 
+3. **Talc bébé poudre 75g**
+   - Prix avant: 2,612 Ar
+   - Prix actuel: 2,750 Ar
+   - Indice de prix : 105.28
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Cahier format A3 petits carreaux 96 pages**
@@ -47,4 +62,9 @@
    - Prix avant: 18,382 Ar
    - Prix actuel: 9,900 Ar
    - Indice de prix : 53.86
+
+3. **Cahier spirale format A4 24x32cm petits carreaux100 pages**
+   - Prix avant: 12,065 Ar
+   - Prix actuel: 6,500 Ar
+   - Indice de prix : 53.87
 

@@ -13,6 +13,13 @@
       "prix_base": 569050,
       "prix_comparaison": 599000,
       "variation": 29950
+    },
+    {
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 494000,
+      "prix_comparaison": 520000,
+      "variation": 26000
     }
   ],
   "prix_diminues": [
@@ -29,6 +36,13 @@
       "prix_base": 12065,
       "prix_comparaison": 6500,
       "variation": -5565
+    },
+    {
+      "cle": "cahiersetprotegescahiers_6178cahierformata3seyes140pages_html",
+      "name": "Cahier format A3 sey\u00e8s 140 pages",
+      "prix_base": 11020,
+      "prix_comparaison": 6000,
+      "variation": -5020
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +59,13 @@
       "prix_base": 2422,
       "prix_comparaison": 2550,
       "indice_prix": 105.28488852188273
+    },
+    {
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +82,13 @@
       "prix_base": 18382,
       "prix_comparaison": 9900,
       "indice_prix": 53.85703405505386
+    },
+    {
+      "cle": "cahiersetprotegescahiers_6432cahierspiraleformata424x32cmpetitscarreaux100pages_html",
+      "name": "Cahier spirale format A4 24x32cm petits carreaux100 pages",
+      "prix_base": 12065,
+      "prix_comparaison": 6500,
+      "indice_prix": 53.87484459179445
     }
   ]
 }
