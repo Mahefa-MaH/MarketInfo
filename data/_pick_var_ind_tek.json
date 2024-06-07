@@ -1,34 +1,930 @@
 {
   "Variation de prix": [
     {
-      "list_id": 11394,
-      "name": "D\u00e9odorant Cream care anti-transpirant 200 ml",
+      "list_id": 11667,
+      "name": "Huile M\u00e9lange de colza & d'olive 1L",
+      "prix_base": 46700,
+      "prix_comparaison": 42500,
+      "variation": -4200
+    },
+    {
+      "list_id": 11626,
+      "name": "P\u00e2te \u00e0 tartiner bio sans huile de palme 700 g",
+      "prix_base": 66000,
+      "prix_comparaison": 64100,
+      "variation": -1900
+    },
+    {
+      "list_id": 11648,
+      "name": "Lotion cr\u00e8me solaire SPF50 250 ml",
+      "prix_base": 66600,
+      "prix_comparaison": 64700,
+      "variation": -1900
+    },
+    {
+      "list_id": 11650,
+      "name": "Protection cr\u00e8me solaire pour enfant SPF50 250 ml",
+      "prix_base": 66600,
+      "prix_comparaison": 64700,
+      "variation": -1900
+    },
+    {
+      "list_id": 11618,
+      "name": "M\u00e9lange de 4 Huiles V\u00e9g\u00e9tales 75 cl",
+      "prix_base": 46900,
+      "prix_comparaison": 45400,
+      "variation": -1500
+    },
+    {
+      "list_id": 11616,
+      "name": "Huile de coco vierge 460 ml",
+      "prix_base": 50300,
+      "prix_comparaison": 48800,
+      "variation": -1500
+    },
+    {
+      "list_id": 11597,
+      "name": "Soin Huile s\u00e8che pour corps au Romarin & verveine 150 ml",
+      "prix_base": 47900,
+      "prix_comparaison": 46500,
+      "variation": -1400
+    },
+    {
+      "list_id": 11651,
+      "name": "Protection cr\u00e8me solaire SPF30 200 ml",
+      "prix_base": 46700,
+      "prix_comparaison": 45300,
+      "variation": -1400
+    },
+    {
+      "list_id": 11646,
+      "name": "Spray cr\u00e8me solaire SPF50 200 ml",
+      "prix_base": 47900,
+      "prix_comparaison": 46500,
+      "variation": -1400
+    },
+    {
+      "list_id": 11649,
+      "name": "Lotion cr\u00e8me solaire SPF30 250 ml",
+      "prix_base": 49100,
+      "prix_comparaison": 47700,
+      "variation": -1400
+    },
+    {
+      "list_id": 11617,
+      "name": "Huile d'olive vierge extra 50 cl",
+      "prix_base": 45600,
+      "prix_comparaison": 44200,
+      "variation": -1400
+    },
+    {
+      "list_id": 11781,
+      "name": "Huile d'olive vierge extra douce 75 cl",
+      "prix_base": 45500,
+      "prix_comparaison": 44200,
+      "variation": -1300
+    },
+    {
+      "list_id": 11647,
+      "name": "Spray cr\u00e8me solaire SPF30 200 ml",
+      "prix_base": 40200,
+      "prix_comparaison": 39000,
+      "variation": -1200
+    },
+    {
+      "list_id": 11780,
+      "name": "Huile d'olive basilic 50 cl",
+      "prix_base": 37900,
+      "prix_comparaison": 36700,
+      "variation": -1200
+    },
+    {
+      "list_id": 11456,
+      "name": "Pot Cr\u00e8me karit\u00e9 au commet galam 200 ml",
+      "prix_base": 34700,
+      "prix_comparaison": 33700,
+      "variation": -1000
+    },
+    {
+      "list_id": 11655,
+      "name": "Riz Basmati du Penjab 1 Kg",
+      "prix_base": 26300,
+      "prix_comparaison": 25400,
+      "variation": -900
+    },
+    {
+      "list_id": 11446,
+      "name": "D\u00e9odorant au Tiar\u00e9 & Mono\u00ef 200 ml",
+      "prix_base": 14200,
+      "prix_comparaison": 13400,
+      "variation": -800
+    },
+    {
+      "list_id": 11828,
+      "name": "Nouilles de riz 250 g",
+      "prix_base": 28200,
+      "prix_comparaison": 27400,
+      "variation": -800
+    },
+    {
+      "list_id": 11474,
+      "name": "Cr\u00e8me d\u00e9colorante pour visage & corps 2x75 ml",
+      "prix_base": 27500,
+      "prix_comparaison": 26700,
+      "variation": -800
+    },
+    {
+      "list_id": 11447,
+      "name": "D\u00e9odorant sensitive \u00e0 l'huile d'avo\u00efn 200 ml",
+      "prix_base": 14200,
+      "prix_comparaison": 13400,
+      "variation": -800
+    },
+    {
+      "list_id": 11826,
+      "name": "Pur\u00e9e de tomates cr\u00e8me muscade 500 g",
+      "prix_base": 25200,
+      "prix_comparaison": 24500,
+      "variation": -700
+    },
+    {
+      "list_id": 11659,
+      "name": "Cr\u00e8me de jour hydratante - vitamine C 50 ml",
+      "prix_base": 22700,
+      "prix_comparaison": 22000,
+      "variation": -700
+    },
+    {
+      "list_id": 11660,
+      "name": "Cr\u00e8me soin visage de jour sensitive 50 ml",
+      "prix_base": 22700,
+      "prix_comparaison": 22000,
+      "variation": -700
+    },
+    {
+      "list_id": 11444,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
+      "prix_base": 9800,
+      "prix_comparaison": 9200,
+      "variation": -600
+    },
+    {
+      "list_id": 11472,
+      "name": "Compote bio pomme pruneau sans sucres ajout\u00e9s 4 pots de 100 g",
+      "prix_base": 20300,
+      "prix_comparaison": 19700,
+      "variation": -600
+    },
+    {
+      "list_id": 11729,
+      "name": "Cr\u00e8me de douche au lait de coton 750 ml",
+      "prix_base": 20400,
+      "prix_comparaison": 19800,
+      "variation": -600
+    },
+    {
+      "list_id": 11661,
+      "name": "Lotion apr\u00e8s-cr\u00e8me solaire \u00e0 l'alo\u00e9 V\u00e9ra 200 ml",
+      "prix_base": 21500,
+      "prix_comparaison": 20900,
+      "variation": -600
+    },
+    {
+      "list_id": 11523,
+      "name": "Eau de coco bio sans sucres ajout\u00e9s 1 L",
+      "prix_base": 21500,
+      "prix_comparaison": 20900,
+      "variation": -600
+    },
+    {
+      "list_id": 11461,
+      "name": "Cr\u00e8me nuit hydratante bio \u00e0 l' alo\u00e9 v\u00e9ra et \u00e0 l'huile d'argan 50 ml",
+      "prix_base": 21500,
+      "prix_comparaison": 20900,
+      "variation": -600
+    },
+    {
+      "list_id": 11463,
+      "name": "Savon \u00e0 l'huile d'amande douce 4x100g",
+      "prix_base": 20300,
+      "prix_comparaison": 19700,
+      "variation": -600
+    },
+    {
+      "list_id": 11654,
+      "name": "Cr\u00e8me de nuit Q10 tous type de peau 50 ml",
+      "prix_base": 19900,
+      "prix_comparaison": 19300,
+      "variation": -600
+    },
+    {
+      "list_id": 11678,
+      "name": "Cr\u00e8me de jour pour visage Q10 50 ml",
+      "prix_base": 19900,
+      "prix_comparaison": 19300,
+      "variation": -600
+    },
+    {
+      "list_id": 11621,
+      "name": "Riz tha\u00ef 500 g",
+      "prix_base": 17900,
+      "prix_comparaison": 17400,
+      "variation": -500
+    },
+    {
+      "list_id": 11656,
+      "name": "Duo Riz de Camargue 400 g",
+      "prix_base": 13900,
+      "prix_comparaison": 13400,
+      "variation": -500
+    },
+    {
+      "list_id": 11726,
+      "name": "Apr\u00e8s-shampoing sublimant \u00e0 l'huile argan & macadamia 200 ml",
+      "prix_base": 13200,
+      "prix_comparaison": 12700,
+      "variation": -500
+    },
+    {
+      "list_id": 11469,
+      "name": "Masque cheveux sublimant \u00e0 l'huiles d'argan & macadamia 300 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "variation": -500
+    },
+    {
+      "list_id": 11471,
+      "name": "Compote bio pomme fraise sans sucres ajout\u00e9s 4 x 100 g",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "variation": -500
+    },
+    {
+      "list_id": 11724,
+      "name": "Apr\u00e8s-shampoing aux grenade & huile de jojoba 200 ml",
+      "prix_base": 13200,
+      "prix_comparaison": 12700,
+      "variation": -500
+    },
+    {
+      "list_id": 11719,
+      "name": "Shampoing Sec invisible \u00e0 l'extrait de riz & de lotus 150 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "variation": -500
+    },
+    {
+      "list_id": 11671,
+      "name": "Cr\u00e8me d\u00e9pilatoire sensitive pour peau sensible 150 ml",
+      "prix_base": 18600,
+      "prix_comparaison": 18100,
+      "variation": -500
+    },
+    {
+      "list_id": 11574,
+      "name": "Shampoing \u00e0 l'huile d'argan 400 ml",
+      "prix_base": 18600,
+      "prix_comparaison": 18100,
+      "variation": -500
+    },
+    {
+      "list_id": 11524,
+      "name": "Jus de Riz et noisette 1 L",
+      "prix_base": 18600,
+      "prix_comparaison": 18100,
+      "variation": -500
+    },
+    {
+      "list_id": 11401,
+      "name": "Cr\u00e8me visage soin du jour fraicheur 50 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "variation": -500
+    },
+    {
+      "list_id": 11607,
+      "name": "Duo de Riz aux l\u00e9gumes Lentilles corail 250 g",
+      "prix_base": 13900,
+      "prix_comparaison": 13400,
+      "variation": -500
+    },
+    {
+      "list_id": 11768,
+      "name": "Miettes de thon \u00e0 l'huile de tournesol p\u00e9ch\u00e9 \u00e0 la canne 1/5",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "variation": -400
+    },
+    {
+      "list_id": 11500,
+      "name": "Cr\u00e8me talons pour peaux abim\u00e9s 125 ml",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "variation": -400
+    },
+    {
+      "list_id": 11653,
+      "name": "Lotion apr\u00e8s-cr\u00e8me solaire 200 ml",
+      "prix_base": 16200,
+      "prix_comparaison": 15800,
+      "variation": -400
+    },
+    {
+      "list_id": 11481,
+      "name": "Pot de cr\u00e8me de soin hydratante \u00e0 l'huile de jojoba & \u00e0 la vitamine E 250 ml",
+      "prix_base": 15500,
+      "prix_comparaison": 15100,
+      "variation": -400
+    },
+    {
+      "list_id": 11450,
+      "name": "D\u00e9odorant Cotton \u00e0 l'extrait de coton 200 ml",
       "prix_base": 13800,
       "prix_comparaison": 13400,
       "variation": -400
     },
     {
-      "list_id": 11393,
-      "name": "D\u00e9odorant \u00e0 l'extrait de grenade 75 ml",
+      "list_id": 11451,
+      "name": "D\u00e9odorant dermo protection anti-transpirant 200 ml",
+      "prix_base": 13800,
+      "prix_comparaison": 13400,
+      "variation": -400
+    },
+    {
+      "list_id": 11467,
+      "name": "D\u00e9odorant compress\u00e9 cotton \u00e0 l'extrait de coton 100 ml",
+      "prix_base": 12700,
+      "prix_comparaison": 12300,
+      "variation": -400
+    },
+    {
+      "list_id": 11468,
+      "name": "D\u00e9odorant compress\u00e9 cream care anti-transpirant 100 ml",
+      "prix_base": 10900,
+      "prix_comparaison": 10500,
+      "variation": -400
+    },
+    {
+      "list_id": 11637,
+      "name": "Boisson riz v\u00e9g\u00e9tal source de calcium 1 L",
+      "prix_base": 14300,
+      "prix_comparaison": 13900,
+      "variation": -400
+    },
+    {
+      "list_id": 11445,
+      "name": "D\u00e9odorant \u00e0 l'extrait de vanille 75 ml",
       "prix_base": 10200,
       "prix_comparaison": 9900,
       "variation": -300
+    },
+    {
+      "list_id": 11465,
+      "name": "D\u00e9odorant compress\u00e9 au fleur de vanille 100 ml",
+      "prix_base": 10700,
+      "prix_comparaison": 10400,
+      "variation": -300
+    },
+    {
+      "list_id": 11734,
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer au javel 750 ml",
+      "prix_base": 12600,
+      "prix_comparaison": 12300,
+      "variation": -300
+    },
+    {
+      "list_id": 11414,
+      "name": "Cr\u00e8me lavante au lait et miel pour main 500 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "variation": -300
+    },
+    {
+      "list_id": 11576,
+      "name": "Shampoing \u00e0 l'huile d'abricot 250 ml",
+      "prix_base": 8800,
+      "prix_comparaison": 8500,
+      "variation": -300
+    },
+    {
+      "list_id": 11550,
+      "name": "Riz de Camargue IGP 400 g",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "variation": -300
+    },
+    {
+      "list_id": 11829,
+      "name": "Galettes de riz 100 g",
+      "prix_base": 11200,
+      "prix_comparaison": 10900,
+      "variation": -300
+    },
+    {
+      "list_id": 11442,
+      "name": "D\u00e9odorant \u00e0 bille sensitive \u00e0 l'extrait d'avoine 50 ml",
+      "prix_base": 9500,
+      "prix_comparaison": 9200,
+      "variation": -300
+    },
+    {
+      "list_id": 11443,
+      "name": "D\u00e9odorant \u00e0 bille cream care anti-transpirant 50 ml",
+      "prix_base": 9500,
+      "prix_comparaison": 9200,
+      "variation": -300
+    },
+    {
+      "list_id": 11735,
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer fraicheur 750 ml",
+      "prix_base": 11400,
+      "prix_comparaison": 11200,
+      "variation": -200
+    },
+    {
+      "list_id": 11737,
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer citron 750 ml",
+      "prix_base": 9000,
+      "prix_comparaison": 8800,
+      "variation": -200
+    },
+    {
+      "list_id": 11455,
+      "name": "Lingettes d\u00e9maquillantes douceur \u00e0 l'huile d'amande douce et extrait de fleur de coton x25",
+      "prix_base": 8200,
+      "prix_comparaison": 8000,
+      "variation": -200
+    },
+    {
+      "list_id": 11431,
+      "name": "Savon au cr\u00e8me hydratante 100 g",
+      "prix_base": 3900,
+      "prix_comparaison": 3800,
+      "variation": -100
     }
   ],
   "indice de prix": [
     {
-      "list_id": 11393,
-      "name": "D\u00e9odorant \u00e0 l'extrait de grenade 75 ml",
+      "list_id": 11667,
+      "name": "Huile M\u00e9lange de colza & d'olive 1L",
+      "prix_base": 46700,
+      "prix_comparaison": 42500,
+      "indice_prix": 91.00642398286938
+    },
+    {
+      "list_id": 11444,
+      "name": "D\u00e9odorant \u00e0 bille \u00e0 l'extrait de cotton 50 ml",
+      "prix_base": 9800,
+      "prix_comparaison": 9200,
+      "indice_prix": 93.87755102040816
+    },
+    {
+      "list_id": 11446,
+      "name": "D\u00e9odorant au Tiar\u00e9 & Mono\u00ef 200 ml",
+      "prix_base": 14200,
+      "prix_comparaison": 13400,
+      "indice_prix": 94.36619718309859
+    },
+    {
+      "list_id": 11447,
+      "name": "D\u00e9odorant sensitive \u00e0 l'huile d'avo\u00efn 200 ml",
+      "prix_base": 14200,
+      "prix_comparaison": 13400,
+      "indice_prix": 94.36619718309859
+    },
+    {
+      "list_id": 11726,
+      "name": "Apr\u00e8s-shampoing sublimant \u00e0 l'huile argan & macadamia 200 ml",
+      "prix_base": 13200,
+      "prix_comparaison": 12700,
+      "indice_prix": 96.21212121212122
+    },
+    {
+      "list_id": 11724,
+      "name": "Apr\u00e8s-shampoing aux grenade & huile de jojoba 200 ml",
+      "prix_base": 13200,
+      "prix_comparaison": 12700,
+      "indice_prix": 96.21212121212122
+    },
+    {
+      "list_id": 11468,
+      "name": "D\u00e9odorant compress\u00e9 cream care anti-transpirant 100 ml",
+      "prix_base": 10900,
+      "prix_comparaison": 10500,
+      "indice_prix": 96.3302752293578
+    },
+    {
+      "list_id": 11656,
+      "name": "Duo Riz de Camargue 400 g",
+      "prix_base": 13900,
+      "prix_comparaison": 13400,
+      "indice_prix": 96.40287769784173
+    },
+    {
+      "list_id": 11607,
+      "name": "Duo de Riz aux l\u00e9gumes Lentilles corail 250 g",
+      "prix_base": 13900,
+      "prix_comparaison": 13400,
+      "indice_prix": 96.40287769784173
+    },
+    {
+      "list_id": 11655,
+      "name": "Riz Basmati du Penjab 1 Kg",
+      "prix_base": 26300,
+      "prix_comparaison": 25400,
+      "indice_prix": 96.57794676806084
+    },
+    {
+      "list_id": 11576,
+      "name": "Shampoing \u00e0 l'huile d'abricot 250 ml",
+      "prix_base": 8800,
+      "prix_comparaison": 8500,
+      "indice_prix": 96.5909090909091
+    },
+    {
+      "list_id": 11618,
+      "name": "M\u00e9lange de 4 Huiles V\u00e9g\u00e9tales 75 cl",
+      "prix_base": 46900,
+      "prix_comparaison": 45400,
+      "indice_prix": 96.80170575692964
+    },
+    {
+      "list_id": 11780,
+      "name": "Huile d'olive basilic 50 cl",
+      "prix_base": 37900,
+      "prix_comparaison": 36700,
+      "indice_prix": 96.83377308707124
+    },
+    {
+      "list_id": 11442,
+      "name": "D\u00e9odorant \u00e0 bille sensitive \u00e0 l'extrait d'avoine 50 ml",
+      "prix_base": 9500,
+      "prix_comparaison": 9200,
+      "indice_prix": 96.84210526315789
+    },
+    {
+      "list_id": 11443,
+      "name": "D\u00e9odorant \u00e0 bille cream care anti-transpirant 50 ml",
+      "prix_base": 9500,
+      "prix_comparaison": 9200,
+      "indice_prix": 96.84210526315789
+    },
+    {
+      "list_id": 11467,
+      "name": "D\u00e9odorant compress\u00e9 cotton \u00e0 l'extrait de coton 100 ml",
+      "prix_base": 12700,
+      "prix_comparaison": 12300,
+      "indice_prix": 96.85039370078741
+    },
+    {
+      "list_id": 11659,
+      "name": "Cr\u00e8me de jour hydratante - vitamine C 50 ml",
+      "prix_base": 22700,
+      "prix_comparaison": 22000,
+      "indice_prix": 96.91629955947137
+    },
+    {
+      "list_id": 11660,
+      "name": "Cr\u00e8me soin visage de jour sensitive 50 ml",
+      "prix_base": 22700,
+      "prix_comparaison": 22000,
+      "indice_prix": 96.91629955947137
+    },
+    {
+      "list_id": 11617,
+      "name": "Huile d'olive vierge extra 50 cl",
+      "prix_base": 45600,
+      "prix_comparaison": 44200,
+      "indice_prix": 96.9298245614035
+    },
+    {
+      "list_id": 11654,
+      "name": "Cr\u00e8me de nuit Q10 tous type de peau 50 ml",
+      "prix_base": 19900,
+      "prix_comparaison": 19300,
+      "indice_prix": 96.98492462311557
+    },
+    {
+      "list_id": 11678,
+      "name": "Cr\u00e8me de jour pour visage Q10 50 ml",
+      "prix_base": 19900,
+      "prix_comparaison": 19300,
+      "indice_prix": 96.98492462311557
+    },
+    {
+      "list_id": 11651,
+      "name": "Protection cr\u00e8me solaire SPF30 200 ml",
+      "prix_base": 46700,
+      "prix_comparaison": 45300,
+      "indice_prix": 97.00214132762312
+    },
+    {
+      "list_id": 11647,
+      "name": "Spray cr\u00e8me solaire SPF30 200 ml",
+      "prix_base": 40200,
+      "prix_comparaison": 39000,
+      "indice_prix": 97.01492537313433
+    },
+    {
+      "list_id": 11616,
+      "name": "Huile de coco vierge 460 ml",
+      "prix_base": 50300,
+      "prix_comparaison": 48800,
+      "indice_prix": 97.01789264413519
+    },
+    {
+      "list_id": 11472,
+      "name": "Compote bio pomme pruneau sans sucres ajout\u00e9s 4 pots de 100 g",
+      "prix_base": 20300,
+      "prix_comparaison": 19700,
+      "indice_prix": 97.04433497536945
+    },
+    {
+      "list_id": 11463,
+      "name": "Savon \u00e0 l'huile d'amande douce 4x100g",
+      "prix_base": 20300,
+      "prix_comparaison": 19700,
+      "indice_prix": 97.04433497536945
+    },
+    {
+      "list_id": 11445,
+      "name": "D\u00e9odorant \u00e0 l'extrait de vanille 75 ml",
       "prix_base": 10200,
       "prix_comparaison": 9900,
       "indice_prix": 97.05882352941177
     },
     {
-      "list_id": 11394,
-      "name": "D\u00e9odorant Cream care anti-transpirant 200 ml",
+      "list_id": 11729,
+      "name": "Cr\u00e8me de douche au lait de coton 750 ml",
+      "prix_base": 20400,
+      "prix_comparaison": 19800,
+      "indice_prix": 97.05882352941177
+    },
+    {
+      "list_id": 11597,
+      "name": "Soin Huile s\u00e8che pour corps au Romarin & verveine 150 ml",
+      "prix_base": 47900,
+      "prix_comparaison": 46500,
+      "indice_prix": 97.07724425887265
+    },
+    {
+      "list_id": 11646,
+      "name": "Spray cr\u00e8me solaire SPF50 200 ml",
+      "prix_base": 47900,
+      "prix_comparaison": 46500,
+      "indice_prix": 97.07724425887265
+    },
+    {
+      "list_id": 11474,
+      "name": "Cr\u00e8me d\u00e9colorante pour visage & corps 2x75 ml",
+      "prix_base": 27500,
+      "prix_comparaison": 26700,
+      "indice_prix": 97.0909090909091
+    },
+    {
+      "list_id": 11450,
+      "name": "D\u00e9odorant Cotton \u00e0 l'extrait de coton 200 ml",
       "prix_base": 13800,
       "prix_comparaison": 13400,
       "indice_prix": 97.10144927536231
+    },
+    {
+      "list_id": 11451,
+      "name": "D\u00e9odorant dermo protection anti-transpirant 200 ml",
+      "prix_base": 13800,
+      "prix_comparaison": 13400,
+      "indice_prix": 97.10144927536231
+    },
+    {
+      "list_id": 11456,
+      "name": "Pot Cr\u00e8me karit\u00e9 au commet galam 200 ml",
+      "prix_base": 34700,
+      "prix_comparaison": 33700,
+      "indice_prix": 97.11815561959654
+    },
+    {
+      "list_id": 11626,
+      "name": "P\u00e2te \u00e0 tartiner bio sans huile de palme 700 g",
+      "prix_base": 66000,
+      "prix_comparaison": 64100,
+      "indice_prix": 97.12121212121212
+    },
+    {
+      "list_id": 11781,
+      "name": "Huile d'olive vierge extra douce 75 cl",
+      "prix_base": 45500,
+      "prix_comparaison": 44200,
+      "indice_prix": 97.14285714285714
+    },
+    {
+      "list_id": 11648,
+      "name": "Lotion cr\u00e8me solaire SPF50 250 ml",
+      "prix_base": 66600,
+      "prix_comparaison": 64700,
+      "indice_prix": 97.14714714714715
+    },
+    {
+      "list_id": 11650,
+      "name": "Protection cr\u00e8me solaire pour enfant SPF50 250 ml",
+      "prix_base": 66600,
+      "prix_comparaison": 64700,
+      "indice_prix": 97.14714714714715
+    },
+    {
+      "list_id": 11649,
+      "name": "Lotion cr\u00e8me solaire SPF30 250 ml",
+      "prix_base": 49100,
+      "prix_comparaison": 47700,
+      "indice_prix": 97.14867617107943
+    },
+    {
+      "list_id": 11828,
+      "name": "Nouilles de riz 250 g",
+      "prix_base": 28200,
+      "prix_comparaison": 27400,
+      "indice_prix": 97.16312056737588
+    },
+    {
+      "list_id": 11465,
+      "name": "D\u00e9odorant compress\u00e9 au fleur de vanille 100 ml",
+      "prix_base": 10700,
+      "prix_comparaison": 10400,
+      "indice_prix": 97.19626168224299
+    },
+    {
+      "list_id": 11637,
+      "name": "Boisson riz v\u00e9g\u00e9tal source de calcium 1 L",
+      "prix_base": 14300,
+      "prix_comparaison": 13900,
+      "indice_prix": 97.2027972027972
+    },
+    {
+      "list_id": 11621,
+      "name": "Riz tha\u00ef 500 g",
+      "prix_base": 17900,
+      "prix_comparaison": 17400,
+      "indice_prix": 97.20670391061452
+    },
+    {
+      "list_id": 11661,
+      "name": "Lotion apr\u00e8s-cr\u00e8me solaire \u00e0 l'alo\u00e9 V\u00e9ra 200 ml",
+      "prix_base": 21500,
+      "prix_comparaison": 20900,
+      "indice_prix": 97.20930232558139
+    },
+    {
+      "list_id": 11523,
+      "name": "Eau de coco bio sans sucres ajout\u00e9s 1 L",
+      "prix_base": 21500,
+      "prix_comparaison": 20900,
+      "indice_prix": 97.20930232558139
+    },
+    {
+      "list_id": 11461,
+      "name": "Cr\u00e8me nuit hydratante bio \u00e0 l' alo\u00e9 v\u00e9ra et \u00e0 l'huile d'argan 50 ml",
+      "prix_base": 21500,
+      "prix_comparaison": 20900,
+      "indice_prix": 97.20930232558139
+    },
+    {
+      "list_id": 11826,
+      "name": "Pur\u00e9e de tomates cr\u00e8me muscade 500 g",
+      "prix_base": 25200,
+      "prix_comparaison": 24500,
+      "indice_prix": 97.22222222222223
+    },
+    {
+      "list_id": 11671,
+      "name": "Cr\u00e8me d\u00e9pilatoire sensitive pour peau sensible 150 ml",
+      "prix_base": 18600,
+      "prix_comparaison": 18100,
+      "indice_prix": 97.31182795698925
+    },
+    {
+      "list_id": 11574,
+      "name": "Shampoing \u00e0 l'huile d'argan 400 ml",
+      "prix_base": 18600,
+      "prix_comparaison": 18100,
+      "indice_prix": 97.31182795698925
+    },
+    {
+      "list_id": 11524,
+      "name": "Jus de Riz et noisette 1 L",
+      "prix_base": 18600,
+      "prix_comparaison": 18100,
+      "indice_prix": 97.31182795698925
+    },
+    {
+      "list_id": 11829,
+      "name": "Galettes de riz 100 g",
+      "prix_base": 11200,
+      "prix_comparaison": 10900,
+      "indice_prix": 97.32142857142857
+    },
+    {
+      "list_id": 11768,
+      "name": "Miettes de thon \u00e0 l'huile de tournesol p\u00e9ch\u00e9 \u00e0 la canne 1/5",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "indice_prix": 97.33333333333333
+    },
+    {
+      "list_id": 11500,
+      "name": "Cr\u00e8me talons pour peaux abim\u00e9s 125 ml",
+      "prix_base": 15000,
+      "prix_comparaison": 14600,
+      "indice_prix": 97.33333333333333
+    },
+    {
+      "list_id": 11469,
+      "name": "Masque cheveux sublimant \u00e0 l'huiles d'argan & macadamia 300 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "indice_prix": 97.38219895287958
+    },
+    {
+      "list_id": 11471,
+      "name": "Compote bio pomme fraise sans sucres ajout\u00e9s 4 x 100 g",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "indice_prix": 97.38219895287958
+    },
+    {
+      "list_id": 11719,
+      "name": "Shampoing Sec invisible \u00e0 l'extrait de riz & de lotus 150 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "indice_prix": 97.38219895287958
+    },
+    {
+      "list_id": 11401,
+      "name": "Cr\u00e8me visage soin du jour fraicheur 50 ml",
+      "prix_base": 19100,
+      "prix_comparaison": 18600,
+      "indice_prix": 97.38219895287958
+    },
+    {
+      "list_id": 11481,
+      "name": "Pot de cr\u00e8me de soin hydratante \u00e0 l'huile de jojoba & \u00e0 la vitamine E 250 ml",
+      "prix_base": 15500,
+      "prix_comparaison": 15100,
+      "indice_prix": 97.41935483870968
+    },
+    {
+      "list_id": 11431,
+      "name": "Savon au cr\u00e8me hydratante 100 g",
+      "prix_base": 3900,
+      "prix_comparaison": 3800,
+      "indice_prix": 97.43589743589743
+    },
+    {
+      "list_id": 11414,
+      "name": "Cr\u00e8me lavante au lait et miel pour main 500 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "indice_prix": 97.47899159663865
+    },
+    {
+      "list_id": 11550,
+      "name": "Riz de Camargue IGP 400 g",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "indice_prix": 97.47899159663865
+    },
+    {
+      "list_id": 11653,
+      "name": "Lotion apr\u00e8s-cr\u00e8me solaire 200 ml",
+      "prix_base": 16200,
+      "prix_comparaison": 15800,
+      "indice_prix": 97.53086419753086
+    },
+    {
+      "list_id": 11455,
+      "name": "Lingettes d\u00e9maquillantes douceur \u00e0 l'huile d'amande douce et extrait de fleur de coton x25",
+      "prix_base": 8200,
+      "prix_comparaison": 8000,
+      "indice_prix": 97.5609756097561
+    },
+    {
+      "list_id": 11734,
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer au javel 750 ml",
+      "prix_base": 12600,
+      "prix_comparaison": 12300,
+      "indice_prix": 97.61904761904762
+    },
+    {
+      "list_id": 11737,
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer citron 750 ml",
+      "prix_base": 9000,
+      "prix_comparaison": 8800,
+      "indice_prix": 97.77777777777777
+    },
+    {
+      "list_id": 11735,
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer fraicheur 750 ml",
+      "prix_base": 11400,
+      "prix_comparaison": 11200,
+      "indice_prix": 98.24561403508773
     }
   ]
 }

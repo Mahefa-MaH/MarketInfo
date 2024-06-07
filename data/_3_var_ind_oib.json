@@ -24,25 +24,25 @@
   ],
   "prix_diminues": [
     {
-      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
-      "name": "Cahier spirale polycours petits carreaux 180 pages",
-      "prix_base": 18382,
-      "prix_comparaison": 9900,
-      "variation": -8482
+      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 7053000,
+      "prix_comparaison": 6494000,
+      "variation": -559000
     },
     {
-      "cle": "cahiersetprotegescahiers_6432cahierspiraleformata424x32cmpetitscarreaux100pages_html",
-      "name": "Cahier spirale format A4 24x32cm petits carreaux100 pages",
-      "prix_base": 12065,
-      "prix_comparaison": 6500,
-      "variation": -5565
+      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 4410000,
+      "prix_comparaison": 4042000,
+      "variation": -368000
     },
     {
-      "cle": "cahiersetprotegescahiers_6178cahierformata3seyes140pages_html",
-      "name": "Cahier format A3 sey\u00e8s 140 pages",
-      "prix_base": 11020,
-      "prix_comparaison": 6000,
-      "variation": -5020
+      "cle": "smartphones_14641xiaomiredmi124128goargent_html",
+      "name": "XIAOMI - REDMI 12 4 - 128Go - ARGENT",
+      "prix_base": 965000,
+      "prix_comparaison": 668000,
+      "variation": -297000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -70,25 +70,25 @@
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "cahiersetprotegescahiers_5862cahierformata3petitscarreaux96pages_html",
-      "name": "Cahier format A3 petits carreaux 96 pages",
-      "prix_base": 5605,
-      "prix_comparaison": 3000,
-      "indice_prix": 53.52363960749331
+      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
+      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
+      "prix_base": 9600,
+      "prix_comparaison": 4800,
+      "indice_prix": 50.0
     },
     {
-      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
-      "name": "Cahier spirale polycours petits carreaux 180 pages",
-      "prix_base": 18382,
-      "prix_comparaison": 9900,
-      "indice_prix": 53.85703405505386
+      "cle": "pates_5830spaghettiblecomplet500g_html",
+      "name": "Spaghetti bl\u00e9 complet 500g",
+      "prix_base": 13500,
+      "prix_comparaison": 6750,
+      "indice_prix": 50.0
     },
     {
-      "cle": "cahiersetprotegescahiers_6432cahierspiraleformata424x32cmpetitscarreaux100pages_html",
-      "name": "Cahier spirale format A4 24x32cm petits carreaux100 pages",
-      "prix_base": 12065,
-      "prix_comparaison": 6500,
-      "indice_prix": 53.87484459179445
+      "cle": "coiffure_14657remingtons1510feralisserlisseurplaquesflottantestourmalineioniquecramiqueantistatiqueglissefacilelger_html",
+      "name": "Remington S1510 Fer a Lisser Lisseur Plaques Flottantes, Tourmaline Ionique, C\u00e9ramique, Antistatique, Glisse Facile, L\u008eger",
+      "prix_base": 289000,
+      "prix_comparaison": 154000,
+      "indice_prix": 53.28719723183391
     }
   ]
 }

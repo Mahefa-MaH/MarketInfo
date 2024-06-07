@@ -19,20 +19,20 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Cahier spirale polycours petits carreaux 180 pages**
-   - Prix avant: 18,382 Ar
-   - Prix actuel: 9,900 Ar
-   - Variation: -8,482 Ar
+1. **PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows**
+   - Prix avant: 7,053,000 Ar
+   - Prix actuel: 6,494,000 Ar
+   - Variation: -559,000 Ar
 
-2. **Cahier spirale format A4 24x32cm petits carreaux100 pages**
-   - Prix avant: 12,065 Ar
-   - Prix actuel: 6,500 Ar
-   - Variation: -5,565 Ar
+2. **Iphone 15 128GB Rose**
+   - Prix avant: 4,410,000 Ar
+   - Prix actuel: 4,042,000 Ar
+   - Variation: -368,000 Ar
 
-3. **Cahier format A3 seyès 140 pages**
-   - Prix avant: 11,020 Ar
-   - Prix actuel: 6,000 Ar
-   - Variation: -5,020 Ar
+3. **XIAOMI - REDMI 12 4 - 128Go - ARGENT**
+   - Prix avant: 965,000 Ar
+   - Prix actuel: 668,000 Ar
+   - Variation: -297,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -53,18 +53,18 @@
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Cahier format A3 petits carreaux 96 pages**
-   - Prix avant: 5,605 Ar
-   - Prix actuel: 3,000 Ar
-   - Indice de prix : 53.52
+1. **Thé noir earl grey 25 sachets x45g**
+   - Prix avant: 9,600 Ar
+   - Prix actuel: 4,800 Ar
+   - Indice de prix : 50.00
 
-2. **Cahier spirale polycours petits carreaux 180 pages**
-   - Prix avant: 18,382 Ar
-   - Prix actuel: 9,900 Ar
-   - Indice de prix : 53.86
+2. **Spaghetti blé complet 500g**
+   - Prix avant: 13,500 Ar
+   - Prix actuel: 6,750 Ar
+   - Indice de prix : 50.00
 
-3. **Cahier spirale format A4 24x32cm petits carreaux100 pages**
-   - Prix avant: 12,065 Ar
-   - Prix actuel: 6,500 Ar
-   - Indice de prix : 53.87
+3. **Remington S1510 Fer a Lisser Lisseur Plaques Flottantes, Tourmaline Ionique, Céramique, Antistatique, Glisse Facile, Lger**
+   - Prix avant: 289,000 Ar
+   - Prix actuel: 154,000 Ar
+   - Indice de prix : 53.29
 

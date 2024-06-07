@@ -2,109 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Filet anti-oiseaux Primo 10x2m en maille tricotée polyéthylene 12gr/m² noir**
-   - Prix avant: 105,000 Ar
-   - Prix actuel: 101,000 Ar
-   - Variation: -4,000 Ar
+1. **ENDURO- Déplace caravane - EM203 - 1600 kg max - 2 moteurs - 12V**
+   - Prix avant: 6,212,000 Ar
+   - Prix actuel: 7,568,000 Ar
+   - Variation: +1,356,000 Ar
 
-2. **Filet anti-oiseaux Primo 5x2m en maille tricotée polyéthylene 12gr/m² noir**
-   - Prix avant: 78,000 Ar
-   - Prix actuel: 74,000 Ar
-   - Variation: -4,000 Ar
+2. **Etiqueteuse Brother PTE300VP**
+   - Prix avant: 760,000 Ar
+   - Prix actuel: 759,000 Ar
+   - Variation: -1,000 Ar
 
-3. **HOUSSE D'HIVERNAGE 1,60 m x 1,60 m- PP - 30 g/m² - Décor Renne VILMORIN**
-   - Prix avant: 96,000 Ar
-   - Prix actuel: 91,000 Ar
+3. **CANON Papier photo 9x9cm PP-201 Glacé 265gr 20 feuilles**
+   - Prix avant: 100,000 Ar
+   - Prix actuel: 95,000 Ar
    - Variation: -5,000 Ar
 
-4. **Nature Bâche de sol de contrôle des mauvaises herbes 4,2x5 m Noir**
-   - Prix avant: 334,000 Ar
-   - Prix actuel: 321,000 Ar
-   - Variation: -13,000 Ar
+4. **CANON Papier Photo magnétique 10x15cm MG-101 670gr 5 feuilles**
+   - Prix avant: 95,000 Ar
+   - Prix actuel: 90,000 Ar
+   - Variation: -5,000 Ar
 
-5. **Filet anti-oiseaux NATURE Primo 10 x 10 m Noir - Mailles 28mm - Polyéthylene 12gr/m²**
-   - Prix avant: 340,000 Ar
-   - Prix actuel: 326,000 Ar
-   - Variation: -14,000 Ar
+5. **Brother Etiqueteuse portable PT-D210 - Transfert thermique - Monochrome**
+   - Prix avant: 277,000 Ar
+   - Prix actuel: 270,000 Ar
+   - Variation: -7,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **OPLITE TRIPLE MONITOR STAND EX**
-   - Prix avant: 2,910,000 Ar
-   - Prix actuel: 2,834,000 Ar
-   - Variation: -76,000 Ar
+1. **Imprimante d'étiquettes grand format avec de nombreuses connectivités (USB, Ethernet, Wi-Fi, Bluetooth, Airprint)**
+   - Prix avant: 1,599,000 Ar
+   - Prix actuel: 1,525,000 Ar
+   - Variation: -74,000 Ar
 
-2. **Bras articulés double équipé de LED RGB - OPLITE - MT20 - Blanc**
-   - Prix avant: 1,460,000 Ar
-   - Prix actuel: 1,422,000 Ar
-   - Variation: -38,000 Ar
+2. **Imprimante d'étiquettes professionnelle avec Wi-Fi, réseau Ethernet et Bluetooth**
+   - Prix avant: 1,109,000 Ar
+   - Prix actuel: 1,058,000 Ar
+   - Variation: -51,000 Ar
 
-3. **Bras articulé - OPLITE - MT49 - Blanc**
-   - Prix avant: 1,112,000 Ar
-   - Prix actuel: 1,081,000 Ar
+3. **Imprimante d'étiquettes professionnelle avec Wi-Fi**
+   - Prix avant: 938,000 Ar
+   - Prix actuel: 895,000 Ar
+   - Variation: -43,000 Ar
+
+4. **CASIO Calculatrice Graph 35+E II Python integré**
+   - Prix avant: 471,000 Ar
+   - Prix actuel: 440,000 Ar
    - Variation: -31,000 Ar
 
-4. **Bras articulés double - OPLITE - MT10 - Noir**
-   - Prix avant: 616,000 Ar
-   - Prix actuel: 600,000 Ar
-   - Variation: -16,000 Ar
-
-5. **Filet anti-oiseaux NATURE Primo 10 x 10 m Noir - Mailles 28mm - Polyéthylene 12gr/m²**
-   - Prix avant: 340,000 Ar
-   - Prix actuel: 326,000 Ar
-   - Variation: -14,000 Ar
+5. **Métier a tisser Disney Princesses - Création mode - 00023540 - Des 5 ans**
+   - Prix avant: 214,000 Ar
+   - Prix actuel: 204,000 Ar
+   - Variation: -10,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Bras articulés double - OPLITE - MT10 - Noir**
-   - Prix avant: 616,000 Ar
-   - Prix actuel: 600,000 Ar
-   - Indice de prix : 97.40
+1. **ENDURO- Déplace caravane - EM203 - 1600 kg max - 2 moteurs - 12V**
+   - Prix avant: 6,212,000 Ar
+   - Prix actuel: 7,568,000 Ar
+   - Indice de prix : 121.83
 
-2. **Bras articulés double équipé de LED RGB - OPLITE - MT20 - Blanc**
-   - Prix avant: 1,460,000 Ar
-   - Prix actuel: 1,422,000 Ar
-   - Indice de prix : 97.40
+2. **Etiqueteuse Brother PTE300VP**
+   - Prix avant: 760,000 Ar
+   - Prix actuel: 759,000 Ar
+   - Indice de prix : 99.87
 
-3. **OPLITE TRIPLE MONITOR STAND EX**
-   - Prix avant: 2,910,000 Ar
-   - Prix actuel: 2,834,000 Ar
-   - Indice de prix : 97.39
+3. **BROTHER QL-600 Imprimante d'étiquettes professionnelle bleue - Idéale petite entreprise et travail a domicile**
+   - Prix avant: 521,000 Ar
+   - Prix actuel: 511,000 Ar
+   - Indice de prix : 98.08
 
-4. **Bras articulé - OPLITE - MT49 - Blanc**
-   - Prix avant: 1,112,000 Ar
-   - Prix actuel: 1,081,000 Ar
-   - Indice de prix : 97.21
+4. **Brother Etiqueteuse portable PT-D210 - Transfert thermique - Monochrome**
+   - Prix avant: 277,000 Ar
+   - Prix actuel: 270,000 Ar
+   - Indice de prix : 97.47
 
-5. **Filet anti-oiseaux Primo 10x2m en maille tricotée polyéthylene 12gr/m² noir**
-   - Prix avant: 105,000 Ar
-   - Prix actuel: 101,000 Ar
-   - Indice de prix : 96.19
+5. **Imprimante d'étiquettes professionnelle avec Wi-Fi**
+   - Prix avant: 938,000 Ar
+   - Prix actuel: 895,000 Ar
+   - Indice de prix : 95.42
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **HOUSSE D'HIVERNAGE 1,60 m x 1,60 m- PP - 30 g/m² - Décor Renne VILMORIN**
-   - Prix avant: 96,000 Ar
-   - Prix actuel: 91,000 Ar
-   - Indice de prix : 94.79
+1. **CASIO Calculatrice Graph 35+E II Python integré**
+   - Prix avant: 471,000 Ar
+   - Prix actuel: 440,000 Ar
+   - Indice de prix : 93.42
 
-2. **Filet anti-oiseaux Primo 5x2m en maille tricotée polyéthylene 12gr/m² noir**
-   - Prix avant: 78,000 Ar
-   - Prix actuel: 74,000 Ar
-   - Indice de prix : 94.87
+2. **CANON Papier Photo magnétique 10x15cm MG-101 670gr 5 feuilles**
+   - Prix avant: 95,000 Ar
+   - Prix actuel: 90,000 Ar
+   - Indice de prix : 94.74
 
-3. **Filet anti-oiseaux NATURE Primo 10 x 10 m Noir - Mailles 28mm - Polyéthylene 12gr/m²**
-   - Prix avant: 340,000 Ar
-   - Prix actuel: 326,000 Ar
-   - Indice de prix : 95.88
+3. **CANON Papier photo 9x9cm PP-201 Glacé 265gr 20 feuilles**
+   - Prix avant: 100,000 Ar
+   - Prix actuel: 95,000 Ar
+   - Indice de prix : 95.00
 
-4. **Nature Bâche de sol de contrôle des mauvaises herbes 4,2x5 m Noir**
-   - Prix avant: 334,000 Ar
-   - Prix actuel: 321,000 Ar
-   - Indice de prix : 96.11
+4. **HARRY POTTER Coffret cachet cire**
+   - Prix avant: 184,000 Ar
+   - Prix actuel: 175,000 Ar
+   - Indice de prix : 95.11
 
-5. **Filet anti-oiseaux Primo 10x2m en maille tricotée polyéthylene 12gr/m² noir**
-   - Prix avant: 105,000 Ar
-   - Prix actuel: 101,000 Ar
-   - Indice de prix : 96.19
+5. **CreArt 30x40 cm - Cozy Cabana - Série B Numéro d'art - 00020276 - Des 12 ans**
+   - Prix avant: 190,000 Ar
+   - Prix actuel: 181,000 Ar
+   - Indice de prix : 95.26
 
