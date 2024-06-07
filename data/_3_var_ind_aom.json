@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "cle": "coussingrossessecoussinallaitement_140591chaisedallaitementmaxicosi3en13032162402351_html",
+      "name": "Chaise d'allaitement Maxi Cosi 3 en 1",
+      "prix_base": 518000,
+      "prix_comparaison": 5018000,
+      "variation": 4500000
+    },
+    {
       "cle": "deplacecaravane_47127endurodeplacecaravaneem2031600kgmax2moteurs12v3700628227182_html",
       "name": "ENDURO- D\u00e9place caravane - EM203 - 1600 kg max - 2 moteurs - 12V",
       "prix_base": 6212000,
@@ -8,72 +15,72 @@
       "variation": 1356000
     },
     {
-      "cle": "etiqueteusetitreuseprofessionnelle_51737etiqueteusebrotherpte300vp4977766724852_html",
-      "name": "Etiqueteuse Brother PTE300VP",
-      "prix_base": 760000,
-      "prix_comparaison": 759000,
-      "variation": -1000
+      "cle": "coffredexterieurrangementdexterieur_82496ketercoffrederangementexterieurenresine2000litresnoiretgrisabridestockagedejardin7290106923973_html",
+      "name": "KETER - Coffre de rangement ext\u00e9rieur en r\u00e9sine 2000 litres Noir et gris - Abri de stockage de jardin",
+      "prix_base": 3899000,
+      "prix_comparaison": 3980000,
+      "variation": 81000
     },
     {
-      "cle": "papierimprimanterametterouleau_20549canonpapierphoto9x9cmpp201glacu00e9265gr20feuilles4549292136135_html",
-      "name": "CANON Papier photo 9x9cm PP-201 Glac\u00e9 265gr 20 feuilles",
-      "prix_base": 100000,
-      "prix_comparaison": 95000,
-      "variation": -5000
+      "cle": "coffredexterieurrangementdexterieur_31239ketercoffrederangementextu00e9rieurenru00e9sine1200lmultifonctionstoitplat7290106922600_html",
+      "name": "KETER - Coffre de rangement ext\u00e9rieur en r\u00e9sine 1200 litres Noir et gris - Range Poubelles ou v\u00e9lo",
+      "prix_base": 1914000,
+      "prix_comparaison": 1954000,
+      "variation": 40000
     },
     {
-      "cle": "papierimprimanterametterouleau_20550canonpapierphotomagnu00e9tique10x15cmmg101670gr5feuilles4549292137583_html",
-      "name": "CANON Papier Photo magn\u00e9tique 10x15cm MG-101 670gr 5 feuilles",
-      "prix_base": 95000,
-      "prix_comparaison": 90000,
-      "variation": -5000
-    },
-    {
-      "cle": "etiqueteusetitreuseprofessionnelle_16281brotheretiqueteuseportableptd210transfertthermiquemonochrome4977766747615_html",
-      "name": "Brother Etiqueteuse portable PT-D210 - Transfert thermique - Monochrome",
-      "prix_base": 277000,
-      "prix_comparaison": 270000,
-      "variation": -7000
+      "cle": "devidoirenrouleur_91564gardenadevidoirautomatiquemuralrolluplliseretblanclongueur30mo13mmkitcompletgarantie5ans186274078500052054_html",
+      "name": "D\u00e9vidoir automatique mural GARDENA RollUp L \u2013 Longueur 30m \u2013 \u00d813mm \u2013 Kit complet \u2013 Garantie 5 ans (18627-20)",
+      "prix_base": 1316000,
+      "prix_comparaison": 1343000,
+      "variation": 27000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "calculatrice_94996imprimantedetiquettesgrandformatavecdenombreusesconnectivitesusbethernetwifibluetoothairprint4977766826822_html",
-      "name": "Imprimante d'\u00e9tiquettes grand format avec de nombreuses connectivit\u00e9s (USB, Ethernet, Wi-Fi, Bluetooth, Airprint)",
-      "prix_base": 1599000,
-      "prix_comparaison": 1525000,
-      "variation": -74000
+      "cle": "devidoirenrouleur_138932devidoirmuralgardenapowerrollxlp4ablanclongueur35mtuyau13mm4066407002302_html",
+      "name": "D\u00e9vidoir mural - GARDENA - PowerRoll XL - P4A - Blanc - Longueur 35 m - Tuyau 13 mm",
+      "prix_base": 2432000,
+      "prix_comparaison": 2122000,
+      "variation": -310000
     },
     {
-      "cle": "calculatrice_94997imprimantedetiquettesprofessionnelleavecwifireseauethernetetbluetooth4977766826945_html",
-      "name": "Imprimante d'\u00e9tiquettes professionnelle avec Wi-Fi, r\u00e9seau Ethernet et Bluetooth",
-      "prix_base": 1109000,
-      "prix_comparaison": 1058000,
-      "variation": -51000
+      "cle": "coffredexterieurrangementdexterieur_90955ketercoffrederangementexterieurenresine2000litresbeigeetmarronabridestockagedejardin7290106922471_html",
+      "name": "KETER - Coffre de rangement ext\u00e9rieur en r\u00e9sine 2000 litres Beige et Marron - Abri de stockage de jardin",
+      "prix_base": 4107000,
+      "prix_comparaison": 3916000,
+      "variation": -191000
     },
     {
-      "cle": "calculatrice_94998imprimantedetiquettesprofessionnelleavecwifi4977766827072_html",
-      "name": "Imprimante d'\u00e9tiquettes professionnelle avec Wi-Fi",
-      "prix_base": 938000,
-      "prix_comparaison": 895000,
-      "variation": -43000
+      "cle": "coffredexterieurrangementdexterieur_82856ketercoffrederangementexterieurenresine416litresgrismalledejardin7290103665449_html",
+      "name": "KETER - Coffre de rangement ext\u00e9rieur en r\u00e9sine 416 litres Gris - Malle de jardin",
+      "prix_base": 1821000,
+      "prix_comparaison": 1687000,
+      "variation": -134000
     },
     {
-      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
-      "name": "CASIO Calculatrice Graph 35+E II Python integr\u00e9",
-      "prix_base": 471000,
-      "prix_comparaison": 440000,
-      "variation": -31000
+      "cle": "devidoirenrouleur_138931devidoirmuralgardenapowerrollxlp4ableu18vlongueur35mtuyau13mm4066407002364_html",
+      "name": "D\u00e9vidoir mural - GARDENA - PowerRoll - XL - P4A - Bleu - 18 V - Longueur 35 m - Tuyau 13 mm",
+      "prix_base": 2813000,
+      "prix_comparaison": 2699000,
+      "variation": -114000
     },
     {
-      "cle": "metieratisserlesperlesmachineaenfiler_128624metieratisserdisneyprincessescreationmode00023540des5ans4005556235407_html",
-      "name": "M\u00e9tier a tisser Disney Princesses - Cr\u00e9ation mode - 00023540 - Des 5 ans",
-      "prix_base": 214000,
-      "prix_comparaison": 204000,
-      "variation": -10000
+      "cle": "coffredexterieurrangementdexterieur_59425ketercoffremultifonctionstoitplat1200lenresine7290106922655_html",
+      "name": "KETER - Coffre de rangement ext\u00e9rieur en r\u00e9sine 1200 litres Beige et marron - Range Poubelles ou v\u00e9lo",
+      "prix_base": 2058000,
+      "prix_comparaison": 1962000,
+      "variation": -96000
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "coussingrossessecoussinallaitement_140591chaisedallaitementmaxicosi3en13032162402351_html",
+      "name": "Chaise d'allaitement Maxi Cosi 3 en 1",
+      "prix_base": 518000,
+      "prix_comparaison": 5018000,
+      "indice_prix": 968.7258687258687
+    },
     {
       "cle": "deplacecaravane_47127endurodeplacecaravaneem2031600kgmax2moteurs12v3700628227182_html",
       "name": "ENDURO- D\u00e9place caravane - EM203 - 1600 kg max - 2 moteurs - 12V",
@@ -82,69 +89,62 @@
       "indice_prix": 121.82871860914359
     },
     {
-      "cle": "etiqueteusetitreuseprofessionnelle_51737etiqueteusebrotherpte300vp4977766724852_html",
-      "name": "Etiqueteuse Brother PTE300VP",
-      "prix_base": 760000,
-      "prix_comparaison": 759000,
-      "indice_prix": 99.86842105263158
+      "cle": "coffredexterieurrangementdexterieur_31239ketercoffrederangementextu00e9rieurenru00e9sine1200lmultifonctionstoitplat7290106922600_html",
+      "name": "KETER - Coffre de rangement ext\u00e9rieur en r\u00e9sine 1200 litres Noir et gris - Range Poubelles ou v\u00e9lo",
+      "prix_base": 1914000,
+      "prix_comparaison": 1954000,
+      "indice_prix": 102.08986415882967
     },
     {
-      "cle": "calculatrice_16282brotherql600imprimantedu00e9tiquettesprofessionnellebleueidu00e9alepetiteentrepriseettravailadomicile4977766798471_html",
-      "name": "BROTHER QL-600 Imprimante d'\u00e9tiquettes professionnelle bleue - Id\u00e9ale petite entreprise et travail a domicile",
-      "prix_base": 521000,
-      "prix_comparaison": 511000,
-      "indice_prix": 98.0806142034549
+      "cle": "coffredexterieurrangementdexterieur_82496ketercoffrederangementexterieurenresine2000litresnoiretgrisabridestockagedejardin7290106923973_html",
+      "name": "KETER - Coffre de rangement ext\u00e9rieur en r\u00e9sine 2000 litres Noir et gris - Abri de stockage de jardin",
+      "prix_base": 3899000,
+      "prix_comparaison": 3980000,
+      "indice_prix": 102.07745575788664
     },
     {
-      "cle": "etiqueteusetitreuseprofessionnelle_16281brotheretiqueteuseportableptd210transfertthermiquemonochrome4977766747615_html",
-      "name": "Brother Etiqueteuse portable PT-D210 - Transfert thermique - Monochrome",
-      "prix_base": 277000,
-      "prix_comparaison": 270000,
-      "indice_prix": 97.47292418772564
-    },
-    {
-      "cle": "calculatrice_94998imprimantedetiquettesprofessionnelleavecwifi4977766827072_html",
-      "name": "Imprimante d'\u00e9tiquettes professionnelle avec Wi-Fi",
-      "prix_base": 938000,
-      "prix_comparaison": 895000,
-      "indice_prix": 95.41577825159915
+      "cle": "devidoirenrouleur_91564gardenadevidoirautomatiquemuralrolluplliseretblanclongueur30mo13mmkitcompletgarantie5ans186274078500052054_html",
+      "name": "D\u00e9vidoir automatique mural GARDENA RollUp L \u2013 Longueur 30m \u2013 \u00d813mm \u2013 Kit complet \u2013 Garantie 5 ans (18627-20)",
+      "prix_base": 1316000,
+      "prix_comparaison": 1343000,
+      "indice_prix": 102.05167173252279
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
-      "name": "CASIO Calculatrice Graph 35+E II Python integr\u00e9",
-      "prix_base": 471000,
-      "prix_comparaison": 440000,
-      "indice_prix": 93.41825902335457
+      "cle": "devidoirenrouleur_138932devidoirmuralgardenapowerrollxlp4ablanclongueur35mtuyau13mm4066407002302_html",
+      "name": "D\u00e9vidoir mural - GARDENA - PowerRoll XL - P4A - Blanc - Longueur 35 m - Tuyau 13 mm",
+      "prix_base": 2432000,
+      "prix_comparaison": 2122000,
+      "indice_prix": 87.2532894736842
     },
     {
-      "cle": "papierimprimanterametterouleau_20550canonpapierphotomagnu00e9tique10x15cmmg101670gr5feuilles4549292137583_html",
-      "name": "CANON Papier Photo magn\u00e9tique 10x15cm MG-101 670gr 5 feuilles",
-      "prix_base": 95000,
-      "prix_comparaison": 90000,
-      "indice_prix": 94.73684210526316
+      "cle": "hydropulseur_5454waterpikwp100jetdentairehydropulseurultrablanc0073950290760_html",
+      "name": "Hydropulseur Waterpik WP-100 Ultra Blanc - 10 niveaux de pression - 6 embouts inclus",
+      "prix_base": 598000,
+      "prix_comparaison": 545000,
+      "indice_prix": 91.1371237458194
     },
     {
-      "cle": "papierimprimanterametterouleau_20549canonpapierphoto9x9cmpp201glacu00e9265gr20feuilles4549292136135_html",
-      "name": "CANON Papier photo 9x9cm PP-201 Glac\u00e9 265gr 20 feuilles",
-      "prix_base": 100000,
-      "prix_comparaison": 95000,
-      "indice_prix": 95.0
+      "cle": "autocuiseur_2716sebp4624871clipsominutecorespectcocotteminute75lautocuiseurinduction90recyclablecuissonrapidefabriquu00e9e3045380018563_html",
+      "name": "SEB P4624871 Clipso Minut Eco Respect Cocotte-minute 7,5L, Autocuiseur induction, 90% recyclable, Cuisson rapide, Fabriqu\u00e9 en Fr",
+      "prix_base": 969000,
+      "prix_comparaison": 887000,
+      "indice_prix": 91.53766769865841
     },
     {
-      "cle": "boitecadeau_95070harrypottercoffretcachetcire3517130009249_html",
-      "name": "HARRY POTTER Coffret cachet cire",
-      "prix_base": 184000,
-      "prix_comparaison": 175000,
-      "indice_prix": 95.1086956521739
+      "cle": "coffredexterieurrangementdexterieur_82856ketercoffrederangementexterieurenresine416litresgrismalledejardin7290103665449_html",
+      "name": "KETER - Coffre de rangement ext\u00e9rieur en r\u00e9sine 416 litres Gris - Malle de jardin",
+      "prix_base": 1821000,
+      "prix_comparaison": 1687000,
+      "indice_prix": 92.64140582097748
     },
     {
-      "cle": "peintureaunumerodart_127657creart30x40cmcozycabanaseriebnumerodart00020276des12ans4005556202768_html",
-      "name": "CreArt 30x40 cm - Cozy Cabana - S\u00e9rie B Num\u00e9ro d'art - 00020276 - Des 12 ans",
-      "prix_base": 190000,
-      "prix_comparaison": 181000,
-      "indice_prix": 95.26315789473684
+      "cle": "devidoirenrouleur_138941devidoirmetalsurrouescleverrollleasygardenalongueurmax100mpourgrandjardingarantie5ans4078500045087_html",
+      "name": "D\u00e9vidoir m\u00e9tal sur roues CleverRoll L Easy GARDENA - Longueur max 100m - Pour grand jardin - Garantie 5 ans",
+      "prix_base": 1179000,
+      "prix_comparaison": 1099000,
+      "indice_prix": 93.21458863443597
     }
   ]
 }

@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 11397,
-      "prix_base": 11900,
-      "name": "Mousse \u00e0 raser sensitive 250 ml",
-      "prix_comparaison": 11600,
-      "variation": -300
+      "list_id": 11556,
+      "prix_base": 5300,
+      "name": "Origan 12 g",
+      "prix_comparaison": 5200,
+      "variation": -100
     },
     {
-      "list_id": 11396,
-      "prix_base": 11900,
-      "name": "Mousse \u00e0 raser fresh 250 ml",
-      "prix_comparaison": 11600,
-      "variation": -300
+      "list_id": 11520,
+      "prix_base": 4200,
+      "name": "Serre t\u00eate plastique 156247 2 mm",
+      "prix_comparaison": 4100,
+      "variation": -100
     },
     {
-      "list_id": 11393,
-      "prix_base": 10200,
-      "name": "D\u00e9odorant \u00e0 l'extrait de grenade 75 ml",
-      "prix_comparaison": 9900,
-      "variation": -300
+      "list_id": 11742,
+      "prix_base": 5000,
+      "name": "Sacs de cong\u00e9lation x75",
+      "prix_comparaison": 4900,
+      "variation": -100
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 11395,
-      "prix_base": 71900,
-      "name": "Brosse \u00e0 dent \u00e9lectrique pour enfant avec gobelet",
-      "prix_comparaison": 69800,
-      "variation": -2100
+      "list_id": 11537,
+      "prix_base": 72000,
+      "name": "Tapis en caoutchouc 50x80 cm",
+      "prix_comparaison": 58800,
+      "variation": -13200
     },
     {
-      "list_id": 11394,
-      "prix_base": 13800,
-      "name": "D\u00e9odorant Cream care anti-transpirant 200 ml",
-      "prix_comparaison": 13400,
-      "variation": -400
+      "list_id": 11843,
+      "prix_base": 201500,
+      "name": "bouilloire thermos 5,8 L",
+      "prix_comparaison": 192000,
+      "variation": -9500
     },
     {
-      "list_id": 11398,
-      "prix_base": 15500,
-      "name": "Gel \u00e0 raser fresh 200 ml",
-      "prix_comparaison": 15100,
-      "variation": -400
+      "list_id": 11667,
+      "prix_base": 46700,
+      "name": "Huile M\u00e9lange de colza & d'olive 1L",
+      "prix_comparaison": 42500,
+      "variation": -4200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 11400,
-      "name": "Gel \u00e0 raser au beurre de karit\u00e9 parfum abricot 200 ml",
-      "prix_base": 16200,
-      "prix_comparaison": 15800,
-      "indice_prix": 97.53086419753086
+      "list_id": 11564,
+      "name": "Champignon de Paris entiers 1er choix 400 g",
+      "prix_base": 7400,
+      "prix_comparaison": 7300,
+      "indice_prix": 98.64864864864865
     },
     {
-      "list_id": 11397,
-      "name": "Mousse \u00e0 raser sensitive 250 ml",
-      "prix_base": 11900,
-      "prix_comparaison": 11600,
-      "indice_prix": 97.47899159663865
+      "list_id": 11691,
+      "name": "Savon au Patchouli 100 g",
+      "prix_base": 7400,
+      "prix_comparaison": 7300,
+      "indice_prix": 98.64864864864865
     },
     {
-      "list_id": 11396,
-      "name": "Mousse \u00e0 raser fresh 250 ml",
-      "prix_base": 11900,
-      "prix_comparaison": 11600,
-      "indice_prix": 97.47899159663865
+      "list_id": 11690,
+      "name": "Savon au Cannelle et Orange 100 g",
+      "prix_base": 7400,
+      "prix_comparaison": 7300,
+      "indice_prix": 98.64864864864865
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 11393,
-      "name": "D\u00e9odorant \u00e0 l'extrait de grenade 75 ml",
-      "prix_base": 10200,
-      "prix_comparaison": 9900,
-      "indice_prix": 97.05882352941177
+      "list_id": 11859,
+      "name": "Liquide vaisselle d\u00e9sincrustant au bicarbonate 500 ml",
+      "prix_base": 14300,
+      "prix_comparaison": 11600,
+      "indice_prix": 81.11888111888112
     },
     {
-      "list_id": 11395,
-      "name": "Brosse \u00e0 dent \u00e9lectrique pour enfant avec gobelet",
-      "prix_base": 71900,
-      "prix_comparaison": 69800,
-      "indice_prix": 97.07927677329624
+      "list_id": 11537,
+      "name": "Tapis en caoutchouc 50x80 cm",
+      "prix_base": 72000,
+      "prix_comparaison": 58800,
+      "indice_prix": 81.66666666666667
     },
     {
-      "list_id": 11394,
-      "name": "D\u00e9odorant Cream care anti-transpirant 200 ml",
-      "prix_base": 13800,
-      "prix_comparaison": 13400,
-      "indice_prix": 97.10144927536231
+      "list_id": 11667,
+      "name": "Huile M\u00e9lange de colza & d'olive 1L",
+      "prix_base": 46700,
+      "prix_comparaison": 42500,
+      "indice_prix": 91.00642398286938
     }
   ]
 }

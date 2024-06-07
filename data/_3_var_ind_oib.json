@@ -6,20 +6,6 @@
       "prix_base": 625005,
       "prix_comparaison": 657900,
       "variation": 32895
-    },
-    {
-      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
-      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
-      "prix_base": 569050,
-      "prix_comparaison": 599000,
-      "variation": 29950
-    },
-    {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 494000,
-      "prix_comparaison": 520000,
-      "variation": 26000
     }
   ],
   "prix_diminues": [
@@ -29,20 +15,6 @@
       "prix_base": 7053000,
       "prix_comparaison": 6494000,
       "variation": -559000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
-      "name": "Iphone 15 128GB Rose",
-      "prix_base": 4410000,
-      "prix_comparaison": 4042000,
-      "variation": -368000
-    },
-    {
-      "cle": "smartphones_14641xiaomiredmi124128goargent_html",
-      "name": "XIAOMI - REDMI 12 4 - 128Go - ARGENT",
-      "prix_base": 965000,
-      "prix_comparaison": 668000,
-      "variation": -297000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -52,20 +24,6 @@
       "prix_base": 1852,
       "prix_comparaison": 1950,
       "indice_prix": 105.29157667386609
-    },
-    {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2422,
-      "prix_comparaison": 2550,
-      "indice_prix": 105.28488852188273
-    },
-    {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
     }
   ],
   "indices_prix_plus_faibles": [
@@ -75,20 +33,6 @@
       "prix_base": 9600,
       "prix_comparaison": 4800,
       "indice_prix": 50.0
-    },
-    {
-      "cle": "pates_5830spaghettiblecomplet500g_html",
-      "name": "Spaghetti bl\u00e9 complet 500g",
-      "prix_base": 13500,
-      "prix_comparaison": 6750,
-      "indice_prix": 50.0
-    },
-    {
-      "cle": "coiffure_14657remingtons1510feralisserlisseurplaquesflottantestourmalineioniquecramiqueantistatiqueglissefacilelger_html",
-      "name": "Remington S1510 Fer a Lisser Lisseur Plaques Flottantes, Tourmaline Ionique, C\u00e9ramique, Antistatique, Glisse Facile, L\u008eger",
-      "prix_base": 289000,
-      "prix_comparaison": 154000,
-      "indice_prix": 53.28719723183391
     }
   ]
 }
