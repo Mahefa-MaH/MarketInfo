@@ -2,21 +2,21 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz makalioka 5kg**
-   - Prix avant: 21,750 Ar
-   - Prix actuel: 21,750 Ar
+1. **Huile de soja Hina 20L**
+   - Prix avant: 179,400 Ar
+   - Prix actuel: 179,400 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz Makalioka sac de 1kg**
-   - Prix avant: 4,490 Ar
-   - Prix actuel: 4,490 Ar
+2. **Détartrant ménager rouge 1L**
+   - Prix avant: 3,890 Ar
+   - Prix actuel: 3,890 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz de luxe Makalioka 5kg**
-   - Prix avant: 19,550 Ar
-   - Prix actuel: 19,550 Ar
+3. **Riz blanc diamante 5Kg**
+   - Prix avant: 19,300 Ar
+   - Prix actuel: 19,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

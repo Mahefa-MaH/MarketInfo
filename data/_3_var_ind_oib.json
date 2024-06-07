@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
-      "name": "Cahier spirale polycours petits carreaux 180 pages",
-      "prix_base": 9900,
-      "prix_comparaison": 18382,
-      "variation": 8482
+      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
+      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
+      "prix_base": 625005,
+      "prix_comparaison": 657900,
+      "variation": 32895
+    },
+    {
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 569050,
+      "prix_comparaison": 599000,
+      "variation": 29950
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 657900,
-      "prix_comparaison": 625005,
-      "variation": -32895
+      "cle": "lessiveenpoudreettablette_5231lessivepoudreblancetcouleur30g_html",
+      "name": "Lessive poudre blanc et couleur 30g",
+      "prix_base": 656,
+      "prix_comparaison": 690,
+      "variation": 34
+    },
+    {
+      "cle": "epongesbrossesetgants_3353spiraleinox20gx1x100albanet_html",
+      "name": "Spirale inox 20g",
+      "prix_base": 1615,
+      "prix_comparaison": 1700,
+      "variation": 85
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cahiersetprotegescahiers_5862cahierformata3petitscarreaux96pages_html",
-      "name": "Cahier format A3 petits carreaux 96 pages",
-      "prix_base": 3000,
-      "prix_comparaison": 5605,
-      "indice_prix": 186.83333333333334
+      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
+      "name": "2 Recharges porte mines 0,7mm - HB",
+      "prix_base": 2612,
+      "prix_comparaison": 2750,
+      "indice_prix": 105.2833078101072
+    },
+    {
+      "cle": "thesglaces_1735boissonthepeche33cl_html",
+      "name": "Boisson Th\u00e9 P\u00eache 33cl",
+      "prix_base": 2840,
+      "prix_comparaison": 2990,
+      "indice_prix": 105.28169014084507
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "conservesdemaissalades_10484maisdoux390g_html",
-      "name": "Ma\u00efs doux 390g",
-      "prix_base": 4690,
-      "prix_comparaison": 3900,
-      "indice_prix": 83.15565031982942
+      "cle": "lessiveenpoudreettablette_5231lessivepoudreblancetcouleur30g_html",
+      "name": "Lessive poudre blanc et couleur 30g",
+      "prix_base": 656,
+      "prix_comparaison": 690,
+      "indice_prix": 105.1829268292683
+    },
+    {
+      "cle": "marquageetfeutre_6383feutresdecoloriagex10_html",
+      "name": "Feutres de coloriage x10",
+      "prix_base": 3278,
+      "prix_comparaison": 3450,
+      "indice_prix": 105.2471018913972
     }
   ]
 }

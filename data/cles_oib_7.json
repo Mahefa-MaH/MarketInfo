@@ -1,18 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_7291rizblancdelitasy50kg_html",
-      "name": "Riz blanc de l'Itasy 50kg",
-      "prix_base": 184000,
-      "prix_comparaison": 184000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 18400,
-      "prix_comparaison": 18400,
+      "cle": "sucres_4881sucreblancfana1kg_html",
+      "name": "Sucre blanc Fana 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     }
