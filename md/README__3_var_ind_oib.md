@@ -14,37 +14,37 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Lessive poudre blanc et couleur 30g**
-   - Prix avant: 656 Ar
-   - Prix actuel: 690 Ar
-   - Variation: +34 Ar
+1. **Cahier spirale polycours petits carreaux 180 pages**
+   - Prix avant: 18,382 Ar
+   - Prix actuel: 9,900 Ar
+   - Variation: -8,482 Ar
 
-2. **Spirale inox 20g**
-   - Prix avant: 1,615 Ar
-   - Prix actuel: 1,700 Ar
-   - Variation: +85 Ar
+2. **Cahier spirale format A4 24x32cm petits carreaux100 pages**
+   - Prix avant: 12,065 Ar
+   - Prix actuel: 6,500 Ar
+   - Variation: -5,565 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **2 Recharges porte mines 0,7mm - HB**
-   - Prix avant: 2,612 Ar
-   - Prix actuel: 2,750 Ar
-   - Indice de prix : 105.28
+1. **Gomme plastique**
+   - Prix avant: 1,852 Ar
+   - Prix actuel: 1,950 Ar
+   - Indice de prix : 105.29
 
-2. **Boisson Thé Pêche 33cl**
-   - Prix avant: 2,840 Ar
-   - Prix actuel: 2,990 Ar
+2. **21 Etiquettes blanches 38x63mm**
+   - Prix avant: 2,422 Ar
+   - Prix actuel: 2,550 Ar
    - Indice de prix : 105.28
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Lessive poudre blanc et couleur 30g**
-   - Prix avant: 656 Ar
-   - Prix actuel: 690 Ar
-   - Indice de prix : 105.18
+1. **Cahier format A3 petits carreaux 96 pages**
+   - Prix avant: 5,605 Ar
+   - Prix actuel: 3,000 Ar
+   - Indice de prix : 53.52
 
-2. **Feutres de coloriage x10**
-   - Prix avant: 3,278 Ar
-   - Prix actuel: 3,450 Ar
-   - Indice de prix : 105.25
+2. **Cahier spirale polycours petits carreaux 180 pages**
+   - Prix avant: 18,382 Ar
+   - Prix actuel: 9,900 Ar
+   - Indice de prix : 53.86
 

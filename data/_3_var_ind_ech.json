@@ -1,51 +1,66 @@
 {
-  "prix_augmentes": [],
-  "prix_diminues": [
+  "prix_augmentes": [
     {
-      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
-      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
-      "prix_base": 15000,
-      "prix_comparaison": 7500,
-      "variation": -7500
+      "cle": "produit_saucedesojalightredriverbridge500ml_",
+      "name": "Sauce de soja light red river bridge 500ml",
+      "prix_base": 8850,
+      "prix_comparaison": 12930,
+      "variation": 4080
     },
     {
-      "cle": "produit_papayefrais_",
-      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
-      "prix_base": 11000,
-      "prix_comparaison": 7500,
-      "variation": -3500
+      "cle": "produit_saucedhuitres710grs_",
+      "name": "Sauce d\u2019hu\u00eetres 710 grs",
+      "prix_base": 12180,
+      "prix_comparaison": 14670,
+      "variation": 2490
+    }
+  ],
+  "prix_diminues": [
+    {
+      "cle": "produit_saucedhuitres710grs_",
+      "name": "Sauce d\u2019hu\u00eetres 710 grs",
+      "prix_base": 12180,
+      "prix_comparaison": 14670,
+      "variation": 2490
+    },
+    {
+      "cle": "produit_saucedesojalightredriverbridge500ml_",
+      "name": "Sauce de soja light red river bridge 500ml",
+      "prix_base": 8850,
+      "prix_comparaison": 12930,
+      "variation": 4080
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_papayefrais_",
-      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
-      "prix_base": 11000,
-      "prix_comparaison": 7500,
-      "indice_prix": 68.18181818181819
+      "cle": "produit_saucedesojalightredriverbridge500ml_",
+      "name": "Sauce de soja light red river bridge 500ml",
+      "prix_base": 8850,
+      "prix_comparaison": 12930,
+      "indice_prix": 146.10169491525423
     },
     {
-      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
-      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
-      "prix_base": 15000,
-      "prix_comparaison": 7500,
-      "indice_prix": 50.0
+      "cle": "produit_saucedhuitres710grs_",
+      "name": "Sauce d\u2019hu\u00eetres 710 grs",
+      "prix_base": 12180,
+      "prix_comparaison": 14670,
+      "indice_prix": 120.44334975369458
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
-      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
-      "prix_base": 15000,
-      "prix_comparaison": 7500,
-      "indice_prix": 50.0
+      "cle": "produit_saucedhuitres710grs_",
+      "name": "Sauce d\u2019hu\u00eetres 710 grs",
+      "prix_base": 12180,
+      "prix_comparaison": 14670,
+      "indice_prix": 120.44334975369458
     },
     {
-      "cle": "produit_papayefrais_",
-      "name": "Papaye fra\u00eeche ferme 1 pi\u00e8ce | A consommer le lendemain",
-      "prix_base": 11000,
-      "prix_comparaison": 7500,
-      "indice_prix": 68.18181818181819
+      "cle": "produit_saucedesojalightredriverbridge500ml_",
+      "name": "Sauce de soja light red river bridge 500ml",
+      "prix_base": 8850,
+      "prix_comparaison": 12930,
+      "indice_prix": 146.10169491525423
     }
   ]
 }

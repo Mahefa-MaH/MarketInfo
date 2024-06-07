@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 10898,
-      "prix_base": 617300,
-      "name": "jouet Zo\u00e9, ma licorne pr\u00e9f\u00e9r\u00e9e",
-      "prix_comparaison": 673500,
-      "variation": 56200
+      "list_id": 11397,
+      "prix_base": 11900,
+      "name": "Mousse \u00e0 raser sensitive 250 ml",
+      "prix_comparaison": 11600,
+      "variation": -300
     },
     {
-      "list_id": 10961,
-      "prix_base": 420500,
-      "name": "jouet Tour de potier 2 en 1",
-      "prix_comparaison": 458800,
-      "variation": 38300
+      "list_id": 11396,
+      "prix_base": 11900,
+      "name": "Mousse \u00e0 raser fresh 250 ml",
+      "prix_comparaison": 11600,
+      "variation": -300
     },
     {
-      "list_id": 11059,
-      "prix_base": 386200,
-      "name": "jouet Dragon M\u00e9canique",
-      "prix_comparaison": 421400,
-      "variation": 35200
+      "list_id": 11393,
+      "prix_base": 10200,
+      "name": "D\u00e9odorant \u00e0 l'extrait de grenade 75 ml",
+      "prix_comparaison": 9900,
+      "variation": -300
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 10981,
-      "prix_base": 118000,
-      "name": "jouet Balle sensorielle Clemmy",
-      "prix_comparaison": 112000,
-      "variation": -6000
+      "list_id": 11395,
+      "prix_base": 71900,
+      "name": "Brosse \u00e0 dent \u00e9lectrique pour enfant avec gobelet",
+      "prix_comparaison": 69800,
+      "variation": -2100
     },
     {
-      "list_id": 11275,
-      "prix_base": 154900,
-      "name": "Brosse \u00e0 dents \u00e9lectrique Total Clean",
-      "prix_comparaison": 150200,
-      "variation": -4700
+      "list_id": 11394,
+      "prix_base": 13800,
+      "name": "D\u00e9odorant Cream care anti-transpirant 200 ml",
+      "prix_comparaison": 13400,
+      "variation": -400
     },
     {
-      "list_id": 3596,
-      "prix_base": 22300,
-      "name": "Insecticide Vol - Ramp 750 Ml",
-      "prix_comparaison": 18600,
-      "variation": -3700
+      "list_id": 11398,
+      "prix_base": 15500,
+      "name": "Gel \u00e0 raser fresh 200 ml",
+      "prix_comparaison": 15100,
+      "variation": -400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 636,
-      "name": "Eau de parfum Cassandra Rose Intense 100 Ml",
-      "prix_base": 40100,
-      "prix_comparaison": 54500,
-      "indice_prix": 135.91022443890273
+      "list_id": 11400,
+      "name": "Gel \u00e0 raser au beurre de karit\u00e9 parfum abricot 200 ml",
+      "prix_base": 16200,
+      "prix_comparaison": 15800,
+      "indice_prix": 97.53086419753086
     },
     {
-      "list_id": 3602,
-      "name": "D\u00e9boucheur Liquide 1000 Ml",
-      "prix_base": 14300,
-      "prix_comparaison": 18500,
-      "indice_prix": 129.37062937062936
+      "list_id": 11397,
+      "name": "Mousse \u00e0 raser sensitive 250 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "indice_prix": 97.47899159663865
     },
     {
-      "list_id": 691,
-      "name": "D\u00e9odorant Arome By Arthes 150 Ml",
-      "prix_base": 15500,
-      "prix_comparaison": 19600,
-      "indice_prix": 126.45161290322581
+      "list_id": 11396,
+      "name": "Mousse \u00e0 raser fresh 250 ml",
+      "prix_base": 11900,
+      "prix_comparaison": 11600,
+      "indice_prix": 97.47899159663865
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 3594,
-      "name": "Insecticide Vol - Ramp 400 Ml",
-      "prix_base": 12500,
-      "prix_comparaison": 10400,
-      "indice_prix": 83.2
+      "list_id": 11393,
+      "name": "D\u00e9odorant \u00e0 l'extrait de grenade 75 ml",
+      "prix_base": 10200,
+      "prix_comparaison": 9900,
+      "indice_prix": 97.05882352941177
     },
     {
-      "list_id": 3596,
-      "name": "Insecticide Vol - Ramp 750 Ml",
-      "prix_base": 22300,
-      "prix_comparaison": 18600,
-      "indice_prix": 83.40807174887892
+      "list_id": 11395,
+      "name": "Brosse \u00e0 dent \u00e9lectrique pour enfant avec gobelet",
+      "prix_base": 71900,
+      "prix_comparaison": 69800,
+      "indice_prix": 97.07927677329624
     },
     {
-      "list_id": 3593,
-      "name": "Insecticide Vol - Ramp 200 Ml",
-      "prix_base": 8700,
-      "prix_comparaison": 7300,
-      "indice_prix": 83.9080459770115
+      "list_id": 11394,
+      "name": "D\u00e9odorant Cream care anti-transpirant 200 ml",
+      "prix_base": 13800,
+      "prix_comparaison": 13400,
+      "indice_prix": 97.10144927536231
     }
   ]
 }

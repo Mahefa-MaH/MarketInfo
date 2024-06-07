@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13777,
-      "name": "Riz Complet Rouge Vary Gasy 5kg",
-      "prix_base": 21000,
-      "prix_comparaison": 21000,
+      "list_id": 3826,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 6500,
+      "prix_comparaison": 6500,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13304,
-      "name": "Riz Rouge (Vary mena) 50kg",
-      "prix_base": 240000,
-      "prix_comparaison": 240000,
+      "list_id": 5218,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 3100,
-      "prix_comparaison": 3100,
+      "list_id": 8267,
+      "name": "Sucre rouge 1 kg",
+      "prix_base": 5682,
+      "prix_comparaison": 5682,
       "variation": 0,
       "indice_prix": 100.0
     }

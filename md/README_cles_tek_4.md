@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre Blanc Cristallisé 1 Kg**
-   - Prix avant: 7,900 Ar
-   - Prix actuel: 7,900 Ar
+3. **Huile De Soja 1 L**
+   - Prix avant: 10,200 Ar
+   - Prix actuel: 10,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
