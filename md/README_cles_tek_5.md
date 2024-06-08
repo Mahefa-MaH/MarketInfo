@@ -2,15 +2,21 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Sucre blanc 1 kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,200 Ar
+1. **Riz Blanchi Makalioka 5kg**
+   - Prix avant: 21,000 Ar
+   - Prix actuel: 21,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Huile De Soja 1 L**
-   - Prix avant: 9,400 Ar
-   - Prix actuel: 9,400 Ar
+2. **Riz Complet Rouge Vary Gasy 5kg**
+   - Prix avant: 21,000 Ar
+   - Prix actuel: 21,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **Sucre blanc 1 Kg**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 8,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
