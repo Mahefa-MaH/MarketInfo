@@ -1,101 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_saucedesojalightredriverbridge500ml_",
-      "name": "Sauce de soja light red river bridge 500ml",
-      "prix_base": 8850,
-      "prix_comparaison": 12930,
-      "variation": 4080
-    },
-    {
-      "cle": "produit_saucedhuitres710grs_",
-      "name": "Sauce d\u2019hu\u00eetres 710 grs",
-      "prix_base": 12180,
-      "prix_comparaison": 14670,
-      "variation": 2490
-    },
-    {
-      "cle": "produit_champignonnoir_",
-      "name": "Champignon noir s\u00e9ch\u00e9 50g",
-      "prix_base": 2000,
-      "prix_comparaison": 3000,
-      "variation": 1000
+      "cle": "produit_chocolatacuisiniernoirintensetsara200g70_",
+      "name": "Chocolat \u00e0 cuisiner noir intense Tsara\u2122 200g | 70%",
+      "prix_base": 11987,
+      "prix_comparaison": 12900,
+      "variation": 913
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
-      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
-      "prix_base": 7500,
-      "prix_comparaison": 6250,
-      "variation": -1250
-    },
-    {
-      "cle": "produit_champignonnoir_",
-      "name": "Champignon noir s\u00e9ch\u00e9 50g",
-      "prix_base": 2000,
-      "prix_comparaison": 3000,
-      "variation": 1000
-    },
-    {
-      "cle": "produit_saucedhuitres710grs_",
-      "name": "Sauce d\u2019hu\u00eetres 710 grs",
-      "prix_base": 12180,
-      "prix_comparaison": 14670,
-      "variation": 2490
-    },
-    {
-      "cle": "produit_saucedesojalightredriverbridge500ml_",
-      "name": "Sauce de soja light red river bridge 500ml",
-      "prix_base": 8850,
-      "prix_comparaison": 12930,
-      "variation": 4080
+      "cle": "produit_chocolatacuisiniernoirintensetsara200g70_",
+      "name": "Chocolat \u00e0 cuisiner noir intense Tsara\u2122 200g | 70%",
+      "prix_base": 11987,
+      "prix_comparaison": 12900,
+      "variation": 913
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_champignonnoir_",
-      "name": "Champignon noir s\u00e9ch\u00e9 50g",
-      "prix_base": 2000,
-      "prix_comparaison": 3000,
-      "indice_prix": 150.0
-    },
-    {
-      "cle": "produit_saucedesojalightredriverbridge500ml_",
-      "name": "Sauce de soja light red river bridge 500ml",
-      "prix_base": 8850,
-      "prix_comparaison": 12930,
-      "indice_prix": 146.10169491525423
-    },
-    {
-      "cle": "produit_saucedhuitres710grs_",
-      "name": "Sauce d\u2019hu\u00eetres 710 grs",
-      "prix_base": 12180,
-      "prix_comparaison": 14670,
-      "indice_prix": 120.44334975369458
+      "cle": "produit_chocolatacuisiniernoirintensetsara200g70_",
+      "name": "Chocolat \u00e0 cuisiner noir intense Tsara\u2122 200g | 70%",
+      "prix_base": 11987,
+      "prix_comparaison": 12900,
+      "indice_prix": 107.6165846333528
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
-      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
-      "prix_base": 7500,
-      "prix_comparaison": 6250,
-      "indice_prix": 83.33333333333333
-    },
-    {
-      "cle": "produit_saucedhuitres710grs_",
-      "name": "Sauce d\u2019hu\u00eetres 710 grs",
-      "prix_base": 12180,
-      "prix_comparaison": 14670,
-      "indice_prix": 120.44334975369458
-    },
-    {
-      "cle": "produit_saucedesojalightredriverbridge500ml_",
-      "name": "Sauce de soja light red river bridge 500ml",
-      "prix_base": 8850,
-      "prix_comparaison": 12930,
-      "indice_prix": 146.10169491525423
+      "cle": "produit_chocolatacuisiniernoirintensetsara200g70_",
+      "name": "Chocolat \u00e0 cuisiner noir intense Tsara\u2122 200g | 70%",
+      "prix_base": 11987,
+      "prix_comparaison": 12900,
+      "indice_prix": 107.6165846333528
     }
   ]
 }
