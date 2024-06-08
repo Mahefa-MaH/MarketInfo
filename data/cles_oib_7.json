@@ -1,12 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "sucres_4881sucreblancfana1kg_html",
-      "name": "Sucre blanc Fana 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6900,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
+      "name": "Sucre blanc en morceaux 1kg",
+      "prix_base": 13205,
+      "prix_comparaison": 13900,
+      "variation": 695,
+      "indice_prix": 105.26315789473684
     }
   ]
 }

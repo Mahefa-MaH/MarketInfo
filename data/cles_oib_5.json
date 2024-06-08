@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_4952rizdeluxemakalioka5kg_html",
-      "name": "Riz de luxe Makalioka 5kg",
-      "prix_base": 19550,
-      "prix_comparaison": 19550,
+      "cle": "riz_7474rizrougecomplet5kg_html",
+      "name": "Riz rouge complet 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_4951rizdetablemakalioka5kg_html",
-      "name": "Riz de table Makalioka 5kg",
-      "prix_base": 18990,
-      "prix_comparaison": 18990,
+      "cle": "huiles_8994huiledesoja1l_html",
+      "name": "Huile de soja 1L",
+      "prix_base": 15900,
+      "prix_comparaison": 15900,
       "variation": 0,
       "indice_prix": 100.0
     }
