@@ -1,12 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
-      "name": "Sucre blanc en morceaux 1kg",
-      "prix_base": 13205,
-      "prix_comparaison": 13900,
-      "variation": 695,
-      "indice_prix": 105.26315789473684
+      "cle": "riz_7291rizblancdelitasy50kg_html",
+      "name": "Riz blanc de l'Itasy 50kg",
+      "prix_base": 184000,
+      "prix_comparaison": 184000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
