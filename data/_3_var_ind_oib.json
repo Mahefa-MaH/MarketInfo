@@ -13,6 +13,13 @@
       "prix_base": 3950,
       "prix_comparaison": 7900,
       "variation": 3950
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1855yaourtbrassesucre100gfraise_html",
+      "name": "Yaourt brasse sucre fraise 100g",
+      "prix_base": 890,
+      "prix_comparaison": 1050,
+      "variation": 160
     }
   ],
   "prix_diminues": [
@@ -29,6 +36,13 @@
       "prix_base": 3950,
       "prix_comparaison": 7900,
       "variation": 3950
+    },
+    {
+      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
+      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
+      "prix_base": 4800,
+      "prix_comparaison": 9600,
+      "variation": 4800
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +59,13 @@
       "prix_base": 4800,
       "prix_comparaison": 9600,
       "indice_prix": 200.0
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1855yaourtbrassesucre100gfraise_html",
+      "name": "Yaourt brasse sucre fraise 100g",
+      "prix_base": 890,
+      "prix_comparaison": 1050,
+      "indice_prix": 117.97752808988764
     }
   ],
   "indices_prix_plus_faibles": [
@@ -60,6 +81,13 @@
       "name": "Th\u00e9 noir earl grey 25 sachets x45g",
       "prix_base": 4800,
       "prix_comparaison": 9600,
+      "indice_prix": 200.0
+    },
+    {
+      "cle": "conservesdelegumesverts_2786poiscassesdefrance500g_html",
+      "name": "Pois cass\u00e9s de France 500g",
+      "prix_base": 3950,
+      "prix_comparaison": 7900,
       "indice_prix": 200.0
     }
   ]
