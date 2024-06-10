@@ -6,20 +6,6 @@
       "prix_base": 59000,
       "prix_comparaison": 67600,
       "variation": 8600
-    },
-    {
-      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
-      "name": "Eau de cologne lavande 500ml",
-      "prix_base": 12500,
-      "prix_comparaison": 17900,
-      "variation": 5400
-    },
-    {
-      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
-      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
-      "prix_base": 4800,
-      "prix_comparaison": 9600,
-      "variation": 4800
     }
   ],
   "prix_diminues": [
@@ -29,20 +15,6 @@
       "prix_base": 420000,
       "prix_comparaison": 395000,
       "variation": -25000
-    },
-    {
-      "cle": "fromagesduresetrapes_8977fromagecheddar1kg_html",
-      "name": "Fromage cheddar 1kg",
-      "prix_base": 42500,
-      "prix_comparaison": 36900,
-      "variation": -5600
-    },
-    {
-      "cle": "ustensilesdecuisine_11976gantanticoupuredomedia_html",
-      "name": "Gant anti-coupure",
-      "prix_base": 47900,
-      "prix_comparaison": 42900,
-      "variation": -5000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -52,43 +24,15 @@
       "prix_base": 3950,
       "prix_comparaison": 7900,
       "indice_prix": 200.0
-    },
-    {
-      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
-      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
-      "prix_base": 4800,
-      "prix_comparaison": 9600,
-      "indice_prix": 200.0
-    },
-    {
-      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
-      "name": "Eau de cologne lavande 500ml",
-      "prix_base": 12500,
-      "prix_comparaison": 17900,
-      "indice_prix": 143.2
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "savonmenager_3149savondemenagedemibarrecitron380g_html",
-      "name": "Savon de m\u00e9nage demi barre citron 380g",
-      "prix_base": 7200,
-      "prix_comparaison": 5250,
-      "indice_prix": 72.91666666666667
-    },
-    {
-      "cle": "yaourtsaboire_1823yopbanane250g_html",
-      "name": "Yop banane 250g",
-      "prix_base": 2500,
-      "prix_comparaison": 1950,
-      "indice_prix": 78.0
-    },
-    {
-      "cle": "yaourtsaboire_11263yopcitron250g_html",
-      "name": "Yop citron 250g",
-      "prix_base": 2500,
-      "prix_comparaison": 1950,
-      "indice_prix": 78.0
+      "cle": "sacsetemballagesalimentaires_11970sacaglaconpourbouteilledomedia_html",
+      "name": "Sac \u00e0 gla\u00e7on pour bouteille",
+      "prix_base": 9900,
+      "prix_comparaison": 5900,
+      "indice_prix": 59.5959595959596
     }
   ]
 }
