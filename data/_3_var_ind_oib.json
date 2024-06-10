@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ustensilesdecuisine_6962thermometredigitalresistantauxchocsavecsonde_html",
-      "name": "Thermom\u00e8tre digital r\u00e9sistant aux chocs avec sonde",
-      "prix_base": 625005,
-      "prix_comparaison": 657900,
-      "variation": 32895
-    },
-    {
-      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
-      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
-      "prix_base": 569050,
-      "prix_comparaison": 599000,
-      "variation": 29950
-    },
-    {
-      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
-      "name": "Thermom\u00e8tre infrarouge",
-      "prix_base": 494000,
-      "prix_comparaison": 520000,
-      "variation": 26000
-    }
-  ],
-  "prix_diminues": [
-    {
-      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 7053000,
-      "prix_comparaison": 6494000,
-      "variation": -559000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
-      "name": "Iphone 15 128GB Rose",
-      "prix_base": 4410000,
-      "prix_comparaison": 4042000,
-      "variation": -368000
-    },
-    {
-      "cle": "smartphones_14641xiaomiredmi124128goargent_html",
-      "name": "XIAOMI - REDMI 12 4 - 128Go - ARGENT",
-      "prix_base": 965000,
-      "prix_comparaison": 668000,
-      "variation": -297000
-    }
-  ],
-  "indices_prix_plus_eleves": [
-    {
-      "cle": "crayonetcoloriage_7565gommeplastique_html",
-      "name": "Gomme plastique",
-      "prix_base": 1852,
-      "prix_comparaison": 1950,
-      "indice_prix": 105.29157667386609
-    },
-    {
-      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
-      "name": "21 Etiquettes blanches 38x63mm",
-      "prix_base": 2422,
-      "prix_comparaison": 2550,
-      "indice_prix": 105.28488852188273
-    },
-    {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2612,
-      "prix_comparaison": 2750,
-      "indice_prix": 105.2833078101072
-    }
-  ],
-  "indices_prix_plus_faibles": [
-    {
       "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
       "name": "Th\u00e9 noir earl grey 25 sachets x45g",
-      "prix_base": 9600,
-      "prix_comparaison": 4800,
-      "indice_prix": 50.0
-    },
-    {
-      "cle": "pates_5830spaghettiblecomplet500g_html",
-      "name": "Spaghetti bl\u00e9 complet 500g",
-      "prix_base": 13500,
-      "prix_comparaison": 6750,
-      "indice_prix": 50.0
+      "prix_base": 4800,
+      "prix_comparaison": 9600,
+      "variation": 4800
     },
     {
       "cle": "conservesdelegumesverts_2786poiscassesdefrance500g_html",
       "name": "Pois cass\u00e9s de France 500g",
-      "prix_base": 7505,
-      "prix_comparaison": 3950,
-      "indice_prix": 52.63157894736842
+      "prix_base": 3950,
+      "prix_comparaison": 7900,
+      "variation": 3950
+    }
+  ],
+  "prix_diminues": [
+    {
+      "cle": "yaourtsnaturesetaromatises_1855yaourtbrassesucre100gfraise_html",
+      "name": "Yaourt brasse sucre fraise 100g",
+      "prix_base": 890,
+      "prix_comparaison": 1050,
+      "variation": 160
+    },
+    {
+      "cle": "conservesdelegumesverts_2786poiscassesdefrance500g_html",
+      "name": "Pois cass\u00e9s de France 500g",
+      "prix_base": 3950,
+      "prix_comparaison": 7900,
+      "variation": 3950
+    }
+  ],
+  "indices_prix_plus_eleves": [
+    {
+      "cle": "conservesdelegumesverts_2786poiscassesdefrance500g_html",
+      "name": "Pois cass\u00e9s de France 500g",
+      "prix_base": 3950,
+      "prix_comparaison": 7900,
+      "indice_prix": 200.0
+    },
+    {
+      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
+      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
+      "prix_base": 4800,
+      "prix_comparaison": 9600,
+      "indice_prix": 200.0
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "cle": "yaourtsnaturesetaromatises_1855yaourtbrassesucre100gfraise_html",
+      "name": "Yaourt brasse sucre fraise 100g",
+      "prix_base": 890,
+      "prix_comparaison": 1050,
+      "indice_prix": 117.97752808988764
+    },
+    {
+      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
+      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
+      "prix_base": 4800,
+      "prix_comparaison": 9600,
+      "indice_prix": 200.0
     }
   ]
 }
