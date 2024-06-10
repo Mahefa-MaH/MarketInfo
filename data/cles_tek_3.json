@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 11107,
-      "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
-      "prix_base": 192000,
-      "prix_comparaison": 192000,
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 158400,
+      "prix_comparaison": 158400,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 11110,
-      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
-      "prix_base": 198000,
-      "prix_comparaison": 198000,
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9400,
+      "prix_comparaison": 9400,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
+      "list_id": 13775,
+      "name": "Riz de Luxe Makalioka 5kg",
+      "prix_base": 23000,
+      "prix_comparaison": 23000,
       "variation": 0,
       "indice_prix": 100.0
     }
