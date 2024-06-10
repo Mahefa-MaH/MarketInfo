@@ -7,32 +7,12 @@
    - Prix actuel: 9,600 Ar
    - Variation: +4,800 Ar
 
-2. **Pois cassés de France 500g**
-   - Prix avant: 3,950 Ar
-   - Prix actuel: 7,900 Ar
-   - Variation: +3,950 Ar
-
-3. **Yaourt brasse sucre fraise 100g**
-   - Prix avant: 890 Ar
-   - Prix actuel: 1,050 Ar
-   - Variation: +160 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Yaourt brasse sucre fraise 100g**
    - Prix avant: 890 Ar
    - Prix actuel: 1,050 Ar
    - Variation: +160 Ar
-
-2. **Pois cassés de France 500g**
-   - Prix avant: 3,950 Ar
-   - Prix actuel: 7,900 Ar
-   - Variation: +3,950 Ar
-
-3. **Thé noir earl grey 25 sachets x45g**
-   - Prix avant: 4,800 Ar
-   - Prix actuel: 9,600 Ar
-   - Variation: +4,800 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -41,30 +21,10 @@
    - Prix actuel: 7,900 Ar
    - Indice de prix : 200.00
 
-2. **Thé noir earl grey 25 sachets x45g**
-   - Prix avant: 4,800 Ar
-   - Prix actuel: 9,600 Ar
-   - Indice de prix : 200.00
-
-3. **Yaourt brasse sucre fraise 100g**
-   - Prix avant: 890 Ar
-   - Prix actuel: 1,050 Ar
-   - Indice de prix : 117.98
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Yaourt brasse sucre fraise 100g**
    - Prix avant: 890 Ar
    - Prix actuel: 1,050 Ar
    - Indice de prix : 117.98
-
-2. **Thé noir earl grey 25 sachets x45g**
-   - Prix avant: 4,800 Ar
-   - Prix actuel: 9,600 Ar
-   - Indice de prix : 200.00
-
-3. **Pois cassés de France 500g**
-   - Prix avant: 3,950 Ar
-   - Prix actuel: 7,900 Ar
-   - Indice de prix : 200.00
 
