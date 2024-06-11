@@ -1,39 +1,32 @@
 {
   "prix_augmentes": [
     {
-      "cle": "nettoyantsmultiusages_7234eaudejavel101l_html",
-      "name": "Eau de javel 10\u00b0 1L",
-      "prix_base": 2600,
-      "prix_comparaison": 2500,
-      "variation": -100
+      "cle": "yaourtsnaturesetaromatises_6829yaourtyoplaitvanille90g_html",
+      "name": "Yaourt Yoplait vanille 90g",
+      "prix_base": 990,
+      "prix_comparaison": 1090,
+      "variation": 100
     },
     {
-      "cle": "nouilles_9294nouilleinstantaneehakaviande80g_html",
-      "name": "Nouille instantan\u00e9e Haka viande 80g",
-      "prix_base": 1100,
-      "prix_comparaison": 990,
-      "variation": -110
+      "cle": "yaourtsnaturesetaromatises_7305yaourtyoplaitpassion90g_html",
+      "name": "Yaourt Yoplait passion 90g",
+      "prix_base": 990,
+      "prix_comparaison": 1090,
+      "variation": 100
     },
     {
-      "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
-      "name": "Nouille instantan\u00e9e Haka poulet 80g",
-      "prix_base": 1100,
-      "prix_comparaison": 990,
-      "variation": -110
+      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
+      "name": "Yaourt Yoplait nature sucre 90g",
+      "prix_base": 990,
+      "prix_comparaison": 1090,
+      "variation": 100
     },
     {
-      "cle": "nouilles_9293nouilleinstantaneehakalegume80g_html",
-      "name": "Nouille instantan\u00e9e Haka l\u00e9gume 80g",
-      "prix_base": 1100,
-      "prix_comparaison": 990,
-      "variation": -110
-    },
-    {
-      "cle": "nouilles_9291nouilleinstantaneehakacurry80g_html",
-      "name": "Nouille instantan\u00e9e Haka curry 80g",
-      "prix_base": 1100,
-      "prix_comparaison": 990,
-      "variation": -110
+      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
+      "name": "Yaourt Yoplait fraise 90g",
+      "prix_base": 990,
+      "prix_comparaison": 1090,
+      "variation": 100
     }
   ],
   "prix_diminues": [
@@ -64,50 +57,36 @@
       "prix_base": 9700,
       "prix_comparaison": 6900,
       "variation": -2800
-    },
-    {
-      "cle": "jusdefruits_231aloedrinkpeche50cl_html",
-      "name": "Boisson Saveur P\u00eache 50cl",
-      "prix_base": 9700,
-      "prix_comparaison": 6900,
-      "variation": -2800
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "nettoyantsmultiusages_7234eaudejavel101l_html",
-      "name": "Eau de javel 10\u00b0 1L",
-      "prix_base": 2600,
-      "prix_comparaison": 2500,
-      "indice_prix": 96.15384615384616
+      "cle": "yaourtsnaturesetaromatises_6829yaourtyoplaitvanille90g_html",
+      "name": "Yaourt Yoplait vanille 90g",
+      "prix_base": 990,
+      "prix_comparaison": 1090,
+      "indice_prix": 110.1010101010101
     },
     {
-      "cle": "fromagesfondusetatartiner_727fromagenature180g_html",
-      "name": "Fromage nature 180g",
-      "prix_base": 17000,
-      "prix_comparaison": 15900,
-      "indice_prix": 93.52941176470588
+      "cle": "yaourtsnaturesetaromatises_7305yaourtyoplaitpassion90g_html",
+      "name": "Yaourt Yoplait passion 90g",
+      "prix_base": 990,
+      "prix_comparaison": 1090,
+      "indice_prix": 110.1010101010101
     },
     {
-      "cle": "sauceschaudessaucestomates_4957saucesojaclaire500ml_html",
-      "name": "Sauce soja claire 500ml",
-      "prix_base": 8300,
-      "prix_comparaison": 7500,
-      "indice_prix": 90.36144578313252
+      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
+      "name": "Yaourt Yoplait nature sucre 90g",
+      "prix_base": 990,
+      "prix_comparaison": 1090,
+      "indice_prix": 110.1010101010101
     },
     {
-      "cle": "nouilles_9294nouilleinstantaneehakaviande80g_html",
-      "name": "Nouille instantan\u00e9e Haka viande 80g",
-      "prix_base": 1100,
-      "prix_comparaison": 990,
-      "indice_prix": 90.0
-    },
-    {
-      "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
-      "name": "Nouille instantan\u00e9e Haka poulet 80g",
-      "prix_base": 1100,
-      "prix_comparaison": 990,
-      "indice_prix": 90.0
+      "cle": "yaourtsnaturesetaromatises_6830yaourtyoplaitfraise90g_html",
+      "name": "Yaourt Yoplait fraise 90g",
+      "prix_base": 990,
+      "prix_comparaison": 1090,
+      "indice_prix": 110.1010101010101
     }
   ],
   "indices_prix_plus_faibles": [
@@ -135,13 +114,6 @@
     {
       "cle": "jusdefruits_225aloedrinklitchi50cl_html",
       "name": "Boisson Saveur Litchi 50cl",
-      "prix_base": 9700,
-      "prix_comparaison": 6900,
-      "indice_prix": 71.1340206185567
-    },
-    {
-      "cle": "jusdefruits_230aloedrinkmangue50cl_html",
-      "name": "Boisson Saveur Mangue 50cl",
       "prix_base": 9700,
       "prix_comparaison": 6900,
       "indice_prix": 71.1340206185567

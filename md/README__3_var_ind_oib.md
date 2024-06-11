@@ -2,30 +2,25 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Eau de javel 10° 1L**
-   - Prix avant: 2,600 Ar
-   - Prix actuel: 2,500 Ar
-   - Variation: -100 Ar
+1. **Yaourt Yoplait vanille 90g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,090 Ar
+   - Variation: +100 Ar
 
-2. **Nouille instantanée Haka viande 80g**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -110 Ar
+2. **Yaourt Yoplait passion 90g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,090 Ar
+   - Variation: +100 Ar
 
-3. **Nouille instantanée Haka poulet 80g**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -110 Ar
+3. **Yaourt Yoplait nature sucre 90g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,090 Ar
+   - Variation: +100 Ar
 
-4. **Nouille instantanée Haka légume 80g**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -110 Ar
-
-5. **Nouille instantanée Haka curry 80g**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 990 Ar
-   - Variation: -110 Ar
+4. **Yaourt Yoplait fraise 90g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,090 Ar
+   - Variation: +100 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
@@ -49,37 +44,27 @@
    - Prix actuel: 6,900 Ar
    - Variation: -2,800 Ar
 
-5. **Boisson Saveur Pêche 50cl**
-   - Prix avant: 9,700 Ar
-   - Prix actuel: 6,900 Ar
-   - Variation: -2,800 Ar
-
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Eau de javel 10° 1L**
-   - Prix avant: 2,600 Ar
-   - Prix actuel: 2,500 Ar
-   - Indice de prix : 96.15
+1. **Yaourt Yoplait vanille 90g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,090 Ar
+   - Indice de prix : 110.10
 
-2. **Fromage nature 180g**
-   - Prix avant: 17,000 Ar
-   - Prix actuel: 15,900 Ar
-   - Indice de prix : 93.53
+2. **Yaourt Yoplait passion 90g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,090 Ar
+   - Indice de prix : 110.10
 
-3. **Sauce soja claire 500ml**
-   - Prix avant: 8,300 Ar
-   - Prix actuel: 7,500 Ar
-   - Indice de prix : 90.36
+3. **Yaourt Yoplait nature sucre 90g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,090 Ar
+   - Indice de prix : 110.10
 
-4. **Nouille instantanée Haka viande 80g**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 90.00
-
-5. **Nouille instantanée Haka poulet 80g**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 90.00
+4. **Yaourt Yoplait fraise 90g**
+   - Prix avant: 990 Ar
+   - Prix actuel: 1,090 Ar
+   - Indice de prix : 110.10
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
@@ -99,11 +84,6 @@
    - Indice de prix : 71.13
 
 4. **Boisson Saveur Litchi 50cl**
-   - Prix avant: 9,700 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 71.13
-
-5. **Boisson Saveur Mangue 50cl**
    - Prix avant: 9,700 Ar
    - Prix actuel: 6,900 Ar
    - Indice de prix : 71.13

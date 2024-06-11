@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 11910,
-      "prix_base": 1680,
-      "name": "Salade Verte 1 pi\u00e8ce",
-      "prix_comparaison": 1700,
-      "variation": 20
+      "list_id": 8377,
+      "prix_base": 25400,
+      "name": "S\u00e9rum Physiologique pour b\u00e9b\u00e9 0,9 % 40 Unidoses",
+      "prix_comparaison": 26200,
+      "variation": 800
     },
     {
-      "list_id": 11901,
-      "prix_base": 5400,
-      "name": "Thym 18 g",
-      "prix_comparaison": 5300,
-      "variation": -100
+      "list_id": 12228,
+      "prix_base": 8300,
+      "name": "Ma\u00efs doux croquant sans sucres ajout\u00e9s 1/2",
+      "prix_comparaison": 8100,
+      "variation": -200
     },
     {
-      "list_id": 12021,
-      "prix_base": 4900,
-      "name": "Soupe d\u00e9shydrat\u00e9e \u00e0 l'oignon 48 g",
-      "prix_comparaison": 4800,
-      "variation": -100
+      "list_id": 12273,
+      "prix_base": 8300,
+      "name": "Pois chiches 1/2",
+      "prix_comparaison": 8100,
+      "variation": -200
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 11998,
-      "prix_base": 244700,
-      "name": "Croquettes pour chien adulte Gd 18 Kg",
-      "prix_comparaison": 237400,
-      "variation": -7300
+      "list_id": 2791,
+      "prix_base": 234000,
+      "name": "Croquette pour chien Energy 20 Kg",
+      "prix_comparaison": 180000,
+      "variation": -54000
     },
     {
-      "list_id": 12154,
-      "prix_base": 51100,
-      "name": "Lessive Liquide Fleurs Tropicales 2,2 L",
-      "prix_comparaison": 46500,
-      "variation": -4600
+      "list_id": 2793,
+      "prix_base": 50400,
+      "name": "RED CAN Croquette pour chien Adult 4 Kg",
+      "prix_comparaison": 42000,
+      "variation": -8400
     },
     {
-      "list_id": 12064,
-      "prix_base": 127200,
-      "name": "Croquettes pour chien au boeuf et aux l\u00e9gumes 10 Kg",
-      "prix_comparaison": 123400,
-      "variation": -3800
+      "list_id": 8358,
+      "prix_base": 69700,
+      "name": "Moustiquaire Sp\u00e9ciale Lit Adulte (non impr\u00e9gn\u00e9e)",
+      "prix_comparaison": 63300,
+      "variation": -6400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 11910,
-      "name": "Salade Verte 1 pi\u00e8ce",
-      "prix_base": 1680,
-      "prix_comparaison": 1700,
-      "indice_prix": 101.19047619047619
+      "list_id": 8377,
+      "name": "S\u00e9rum Physiologique pour b\u00e9b\u00e9 0,9 % 40 Unidoses",
+      "prix_base": 25400,
+      "prix_comparaison": 26200,
+      "indice_prix": 103.14960629921259
     },
     {
-      "list_id": 12123,
-      "name": "Feuille PH Humide Sensitive X42",
-      "prix_base": 6600,
-      "prix_comparaison": 6500,
-      "indice_prix": 98.48484848484848
+      "list_id": 12287,
+      "name": "D\u00e9sodorisant Gel Fleur de Cerisier 150 g",
+      "prix_base": 9900,
+      "prix_comparaison": 9700,
+      "indice_prix": 97.97979797979798
     },
     {
-      "list_id": 12151,
-      "name": "Rubans Attrape Mouches X4",
-      "prix_base": 6600,
-      "prix_comparaison": 6500,
-      "indice_prix": 98.48484848484848
+      "list_id": 12269,
+      "name": "Epinards en branches 37 cl",
+      "prix_base": 9000,
+      "prix_comparaison": 8800,
+      "indice_prix": 97.77777777777777
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 12012,
-      "name": "Barquette sucr\u00e9 abricot 120 g",
-      "prix_base": 8500,
-      "prix_comparaison": 5900,
-      "indice_prix": 69.41176470588235
+      "list_id": 2791,
+      "name": "Croquette pour chien Energy 20 Kg",
+      "prix_base": 234000,
+      "prix_comparaison": 180000,
+      "indice_prix": 76.92307692307692
     },
     {
-      "list_id": 12046,
-      "name": "Eau de repassage parfum\u00e9e 1 L",
-      "prix_base": 9400,
-      "prix_comparaison": 7600,
-      "indice_prix": 80.85106382978724
+      "list_id": 2793,
+      "name": "RED CAN Croquette pour chien Adult 4 Kg",
+      "prix_base": 50400,
+      "prix_comparaison": 42000,
+      "indice_prix": 83.33333333333333
     },
     {
-      "list_id": 12057,
-      "name": "cuill\u00e8res \u00e0 caf\u00e9 (paquet de 6)",
-      "prix_base": 13200,
-      "prix_comparaison": 10800,
-      "indice_prix": 81.81818181818181
+      "list_id": 8106,
+      "name": "Eau oxyg\u00e9n\u00e9e 10 volumes 120 ml",
+      "prix_base": 13700,
+      "prix_comparaison": 12000,
+      "indice_prix": 87.5912408759124
     }
   ]
 }
