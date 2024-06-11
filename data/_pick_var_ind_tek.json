@@ -1,92 +1,15 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12012,
-      "name": "Barquette sucr\u00e9 abricot 120 g",
-      "prix_base": 8500,
-      "prix_comparaison": 5900,
-      "variation": -2600
-    },
-    {
-      "list_id": 11895,
-      "name": "Huile de tournesol 1 L",
-      "prix_base": 21000,
-      "prix_comparaison": 19700,
-      "variation": -1300
-    },
-    {
-      "list_id": 11907,
-      "name": "Huile de colza 1 L",
-      "prix_base": 18500,
-      "prix_comparaison": 17400,
-      "variation": -1100
-    },
-    {
-      "list_id": 11892,
-      "name": "M\u00e9lange de 4 huiles 1 L",
-      "prix_base": 27000,
-      "prix_comparaison": 26200,
-      "variation": -800
-    },
-    {
-      "list_id": 11894,
-      "name": "Huile de friture 1 L",
-      "prix_base": 23900,
-      "prix_comparaison": 23200,
-      "variation": -700
-    },
-    {
-      "list_id": 12013,
-      "name": "Ma\u00efs doux sans sucres ajout\u00e9s 1/2",
-      "prix_base": 22700,
-      "prix_comparaison": 22000,
-      "variation": -700
-    },
-    {
-      "list_id": 12163,
-      "name": "Huile Lavante 250 ml",
+      "list_id": 12281,
+      "name": "Gourde Compote de pomme sans sucres ajout\u00e9s 90 g x4",
       "prix_base": 20300,
       "prix_comparaison": 19700,
       "variation": -600
     },
     {
-      "list_id": 12164,
-      "name": "Cr\u00e8me Hydratante 75 ml",
-      "prix_base": 17500,
-      "prix_comparaison": 17000,
-      "variation": -500
-    },
-    {
-      "list_id": 12165,
-      "name": "Cr\u00e8me pour le Change 100 ml",
-      "prix_base": 16700,
-      "prix_comparaison": 16200,
-      "variation": -500
-    },
-    {
-      "list_id": 11935,
-      "name": "Nettoyant sols carrel\u00e9s \u00e0 l'huile de Lin 1 L",
-      "prix_base": 16200,
-      "prix_comparaison": 15800,
-      "variation": -400
-    },
-    {
-      "list_id": 11915,
-      "name": "Boisson Riz saveur Amande 1 L",
-      "prix_base": 15500,
-      "prix_comparaison": 15100,
-      "variation": -400
-    },
-    {
-      "list_id": 12157,
-      "name": "Cr\u00e8me Vitroc\u00e9ramique & Induction 300 ml",
-      "prix_base": 11400,
-      "prix_comparaison": 11100,
-      "variation": -300
-    },
-    {
-      "list_id": 11918,
-      "name": "Cr\u00e8me \u00e0 r\u00e9curer citron 750 ml",
+      "list_id": 12228,
+      "name": "Ma\u00efs doux croquant sans sucres ajout\u00e9s 1/2",
       "prix_base": 8300,
       "prix_comparaison": 8100,
       "variation": -200
@@ -94,92 +17,15 @@
   ],
   "indice de prix": [
     {
-      "list_id": 12012,
-      "name": "Barquette sucr\u00e9 abricot 120 g",
-      "prix_base": 8500,
-      "prix_comparaison": 5900,
-      "indice_prix": 69.41176470588235
-    },
-    {
-      "list_id": 11895,
-      "name": "Huile de tournesol 1 L",
-      "prix_base": 21000,
-      "prix_comparaison": 19700,
-      "indice_prix": 93.80952380952381
-    },
-    {
-      "list_id": 11907,
-      "name": "Huile de colza 1 L",
-      "prix_base": 18500,
-      "prix_comparaison": 17400,
-      "indice_prix": 94.05405405405405
-    },
-    {
-      "list_id": 12013,
-      "name": "Ma\u00efs doux sans sucres ajout\u00e9s 1/2",
-      "prix_base": 22700,
-      "prix_comparaison": 22000,
-      "indice_prix": 96.91629955947137
-    },
-    {
-      "list_id": 12165,
-      "name": "Cr\u00e8me pour le Change 100 ml",
-      "prix_base": 16700,
-      "prix_comparaison": 16200,
-      "indice_prix": 97.0059880239521
-    },
-    {
-      "list_id": 11892,
-      "name": "M\u00e9lange de 4 huiles 1 L",
-      "prix_base": 27000,
-      "prix_comparaison": 26200,
-      "indice_prix": 97.03703703703704
-    },
-    {
-      "list_id": 12163,
-      "name": "Huile Lavante 250 ml",
+      "list_id": 12281,
+      "name": "Gourde Compote de pomme sans sucres ajout\u00e9s 90 g x4",
       "prix_base": 20300,
       "prix_comparaison": 19700,
       "indice_prix": 97.04433497536945
     },
     {
-      "list_id": 11894,
-      "name": "Huile de friture 1 L",
-      "prix_base": 23900,
-      "prix_comparaison": 23200,
-      "indice_prix": 97.07112970711297
-    },
-    {
-      "list_id": 12164,
-      "name": "Cr\u00e8me Hydratante 75 ml",
-      "prix_base": 17500,
-      "prix_comparaison": 17000,
-      "indice_prix": 97.14285714285714
-    },
-    {
-      "list_id": 12157,
-      "name": "Cr\u00e8me Vitroc\u00e9ramique & Induction 300 ml",
-      "prix_base": 11400,
-      "prix_comparaison": 11100,
-      "indice_prix": 97.36842105263158
-    },
-    {
-      "list_id": 11915,
-      "name": "Boisson Riz saveur Amande 1 L",
-      "prix_base": 15500,
-      "prix_comparaison": 15100,
-      "indice_prix": 97.41935483870968
-    },
-    {
-      "list_id": 11935,
-      "name": "Nettoyant sols carrel\u00e9s \u00e0 l'huile de Lin 1 L",
-      "prix_base": 16200,
-      "prix_comparaison": 15800,
-      "indice_prix": 97.53086419753086
-    },
-    {
-      "list_id": 11918,
-      "name": "Cr\u00e8me \u00e0 r\u00e9curer citron 750 ml",
+      "list_id": 12228,
+      "name": "Ma\u00efs doux croquant sans sucres ajout\u00e9s 1/2",
       "prix_base": 8300,
       "prix_comparaison": 8100,
       "indice_prix": 97.59036144578313

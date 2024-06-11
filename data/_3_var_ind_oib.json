@@ -1,150 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "couches_13874coucheschangejumbo1125kgx52piecestopbudget_html",
-      "name": "Couches change jumbo 11-25kg x52 pi\u00e8ces",
-      "prix_base": 59000,
-      "prix_comparaison": 67600,
-      "variation": 8600
+      "cle": "nettoyantsmultiusages_7234eaudejavel101l_html",
+      "name": "Eau de javel 10\u00b0 1L",
+      "prix_base": 2600,
+      "prix_comparaison": 2500,
+      "variation": -100
     },
     {
-      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
-      "name": "Eau de cologne lavande 500ml",
-      "prix_base": 12500,
-      "prix_comparaison": 17900,
-      "variation": 5400
+      "cle": "nouilles_9294nouilleinstantaneehakaviande80g_html",
+      "name": "Nouille instantan\u00e9e Haka viande 80g",
+      "prix_base": 1100,
+      "prix_comparaison": 990,
+      "variation": -110
     },
     {
-      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
-      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
-      "prix_base": 4800,
-      "prix_comparaison": 9600,
-      "variation": 4800
+      "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
+      "name": "Nouille instantan\u00e9e Haka poulet 80g",
+      "prix_base": 1100,
+      "prix_comparaison": 990,
+      "variation": -110
     },
     {
-      "cle": "conservesdelegumesverts_2786poiscassesdefrance500g_html",
-      "name": "Pois cass\u00e9s de France 500g",
-      "prix_base": 3950,
-      "prix_comparaison": 7900,
-      "variation": 3950
+      "cle": "nouilles_9293nouilleinstantaneehakalegume80g_html",
+      "name": "Nouille instantan\u00e9e Haka l\u00e9gume 80g",
+      "prix_base": 1100,
+      "prix_comparaison": 990,
+      "variation": -110
     },
     {
-      "cle": "fruitsauxsirops_13835cocktail4fruitsausiropleger500gtopbudget_html",
-      "name": "Cocktail 4 fruits au sirop l\u00e9ger 500g",
-      "prix_base": 11500,
-      "prix_comparaison": 14900,
-      "variation": 3400
+      "cle": "nouilles_9291nouilleinstantaneehakacurry80g_html",
+      "name": "Nouille instantan\u00e9e Haka curry 80g",
+      "prix_base": 1100,
+      "prix_comparaison": 990,
+      "variation": -110
     }
   ],
   "prix_diminues": [
     {
-      "cle": "accessoirespourlentretiendulinge_11689tablearepassertechnic130x44cmdomedia_html",
-      "name": "Table \u00e0 repasser Technic 130x44cm",
-      "prix_base": 420000,
-      "prix_comparaison": 395000,
-      "variation": -25000
+      "cle": "vaissellesjetables_9069assiettesgmo22cm50pieces_html",
+      "name": "Assiettes GM \u00d822cm 50 pi\u00e8ces",
+      "prix_base": 21500,
+      "prix_comparaison": 16900,
+      "variation": -4600
     },
     {
-      "cle": "fromagesduresetrapes_8977fromagecheddar1kg_html",
-      "name": "Fromage cheddar 1kg",
-      "prix_base": 42500,
-      "prix_comparaison": 36900,
-      "variation": -5600
-    },
-    {
-      "cle": "ustensilesdecuisine_11976gantanticoupuredomedia_html",
-      "name": "Gant anti-coupure",
-      "prix_base": 47900,
-      "prix_comparaison": 42900,
-      "variation": -5000
-    },
-    {
-      "cle": "fromagesduresetrapes_8978fromagegouda1kg_html",
-      "name": "Fromage gouda 1kg",
-      "prix_base": 33000,
-      "prix_comparaison": 28500,
+      "cle": "poissonsnatures_7522filetdecapitaine500g_html",
+      "name": "Filet de capitaine 500g",
+      "prix_base": 23000,
+      "prix_comparaison": 18500,
       "variation": -4500
     },
     {
-      "cle": "sacsetemballagesalimentaires_11970sacaglaconpourbouteilledomedia_html",
-      "name": "Sac \u00e0 gla\u00e7on pour bouteille",
-      "prix_base": 9900,
-      "prix_comparaison": 5900,
-      "variation": -4000
+      "cle": "fromagesduresetrapes_732fromageminibabybelfilet5pieces_html",
+      "name": "Fromage mini babybel filet 5 pi\u00e8ces",
+      "prix_base": 17990,
+      "prix_comparaison": 15000,
+      "variation": -2990
+    },
+    {
+      "cle": "jusdefruits_224aloedrinknature50cl_html",
+      "name": "Boisson Saveur Original 50cl",
+      "prix_base": 9700,
+      "prix_comparaison": 6900,
+      "variation": -2800
+    },
+    {
+      "cle": "jusdefruits_231aloedrinkpeche50cl_html",
+      "name": "Boisson Saveur P\u00eache 50cl",
+      "prix_base": 9700,
+      "prix_comparaison": 6900,
+      "variation": -2800
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "conservesdelegumesverts_2786poiscassesdefrance500g_html",
-      "name": "Pois cass\u00e9s de France 500g",
-      "prix_base": 3950,
-      "prix_comparaison": 7900,
-      "indice_prix": 200.0
+      "cle": "nettoyantsmultiusages_7234eaudejavel101l_html",
+      "name": "Eau de javel 10\u00b0 1L",
+      "prix_base": 2600,
+      "prix_comparaison": 2500,
+      "indice_prix": 96.15384615384616
     },
     {
-      "cle": "thesetinfusions_2655theearlgrey25s45gco_html",
-      "name": "Th\u00e9 noir earl grey 25 sachets x45g",
-      "prix_base": 4800,
-      "prix_comparaison": 9600,
-      "indice_prix": 200.0
+      "cle": "fromagesfondusetatartiner_727fromagenature180g_html",
+      "name": "Fromage nature 180g",
+      "prix_base": 17000,
+      "prix_comparaison": 15900,
+      "indice_prix": 93.52941176470588
     },
     {
-      "cle": "biscuitschocolatesfruites_13813tartelettesgoutfraise200gtopbudget_html",
-      "name": "Tartelettes go\u00fbt fraise 200g",
-      "prix_base": 4900,
-      "prix_comparaison": 7900,
-      "indice_prix": 161.22448979591837
+      "cle": "sauceschaudessaucestomates_4957saucesojaclaire500ml_html",
+      "name": "Sauce soja claire 500ml",
+      "prix_base": 8300,
+      "prix_comparaison": 7500,
+      "indice_prix": 90.36144578313252
     },
     {
-      "cle": "biscuitschocolatesfruites_13814tartelettesalabricot200gtopbudget_html",
-      "name": "Tartelettes \u00e0 l'abricot 200g",
-      "prix_base": 4900,
-      "prix_comparaison": 7900,
-      "indice_prix": 161.22448979591837
+      "cle": "nouilles_9294nouilleinstantaneehakaviande80g_html",
+      "name": "Nouille instantan\u00e9e Haka viande 80g",
+      "prix_base": 1100,
+      "prix_comparaison": 990,
+      "indice_prix": 90.0
     },
     {
-      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
-      "name": "Eau de cologne lavande 500ml",
-      "prix_base": 12500,
-      "prix_comparaison": 17900,
-      "indice_prix": 143.2
+      "cle": "nouilles_9290nouilleinstantaneehakapoulet80g_html",
+      "name": "Nouille instantan\u00e9e Haka poulet 80g",
+      "prix_base": 1100,
+      "prix_comparaison": 990,
+      "indice_prix": 90.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "sacsetemballagesalimentaires_11970sacaglaconpourbouteilledomedia_html",
-      "name": "Sac \u00e0 gla\u00e7on pour bouteille",
-      "prix_base": 9900,
-      "prix_comparaison": 5900,
-      "indice_prix": 59.5959595959596
+      "cle": "jusdefruits_224aloedrinknature50cl_html",
+      "name": "Boisson Saveur Original 50cl",
+      "prix_base": 9700,
+      "prix_comparaison": 6900,
+      "indice_prix": 71.1340206185567
     },
     {
-      "cle": "savonmenager_3149savondemenagedemibarrecitron380g_html",
-      "name": "Savon de m\u00e9nage demi barre citron 380g",
-      "prix_base": 7200,
-      "prix_comparaison": 5250,
-      "indice_prix": 72.91666666666667
+      "cle": "jusdefruits_231aloedrinkpeche50cl_html",
+      "name": "Boisson Saveur P\u00eache 50cl",
+      "prix_base": 9700,
+      "prix_comparaison": 6900,
+      "indice_prix": 71.1340206185567
     },
     {
-      "cle": "yaourtsaboire_1823yopbanane250g_html",
-      "name": "Yop banane 250g",
-      "prix_base": 2500,
-      "prix_comparaison": 1950,
-      "indice_prix": 78.0
+      "cle": "jusdefruits_228aloedrinkfrtdelapassion50cl_html",
+      "name": "Boisson Saveur Fruit de la Passion  50cl",
+      "prix_base": 9700,
+      "prix_comparaison": 6900,
+      "indice_prix": 71.1340206185567
     },
     {
-      "cle": "yaourtsaboire_11263yopcitron250g_html",
-      "name": "Yop citron 250g",
-      "prix_base": 2500,
-      "prix_comparaison": 1950,
-      "indice_prix": 78.0
+      "cle": "jusdefruits_225aloedrinklitchi50cl_html",
+      "name": "Boisson Saveur Litchi 50cl",
+      "prix_base": 9700,
+      "prix_comparaison": 6900,
+      "indice_prix": 71.1340206185567
     },
     {
-      "cle": "yaourtsaboire_1824yopcoco250g_html",
-      "name": "Yop coco 250g",
-      "prix_base": 2500,
-      "prix_comparaison": 1950,
-      "indice_prix": 78.0
+      "cle": "jusdefruits_230aloedrinkmangue50cl_html",
+      "name": "Boisson Saveur Mangue 50cl",
+      "prix_base": 9700,
+      "prix_comparaison": 6900,
+      "indice_prix": 71.1340206185567
     }
   ]
 }
