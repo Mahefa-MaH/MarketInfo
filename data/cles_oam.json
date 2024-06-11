@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
-      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
-      "prix_base": 11223000,
-      "prix_comparaison": 11223000,
+      "cle": "tondeuseautoporteesansfil_136387tondeuseautoporteethermique98cmdecoupealpinaat398hatransmissionhydrostatique8008984851559_html",
+      "name": "Tondeuse autoport\u00e9e thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique",
+      "prix_base": 14149000,
+      "prix_comparaison": 14149000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "chambrecompletebebe_140524chambrebebetriooslolit120x60commodealangerarmoire3portessauthon3500760100233_html",
-      "name": "Chambre b\u00e9b\u00e9 trio OSLO - Lit 120x60 + Commode a langer + Armoire 3 portes - SAUTHON",
-      "prix_base": 10325000,
-      "prix_comparaison": 10325000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "chambrecompletebebe_140525chambrebebetriooslolit120x60commodealanger2tiroirsetoilesarmoire3portessauthon3500760100240_html",
-      "name": "Chambre b\u00e9b\u00e9 trio OSLO - Lit 120x60 + Commode a langer 2 tiroirs \u00e9toiles + Armoire 3 portes - SAUTHON",
-      "prix_base": 10325000,
-      "prix_comparaison": 10325000,
+      "cle": "tondeuseautoporteesansfil_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
+      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
+      "prix_base": 11847000,
+      "prix_comparaison": 11847000,
       "variation": 0,
       "indice_prix": 100.0
     }
