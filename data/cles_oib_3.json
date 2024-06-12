@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "huiles_8994huiledesoja1l_html",
-      "name": "Huile de soja 1L",
-      "prix_base": 15900,
-      "prix_comparaison": 15900,
+      "cle": "sucres_4881sucreblancfana1kg_html",
+      "name": "Sucre blanc Fana 1kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_1896huiledesojahina1l_html",
-      "name": "Huile de soja Hina 1L",
-      "prix_base": 8900,
-      "prix_comparaison": 8900,
+      "cle": "riz_15213rizdiamante5kg_html",
+      "name": "Riz blanc diamante 5Kg",
+      "prix_base": 19300,
+      "prix_comparaison": 19300,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "huiles_1894huiledesoja20lhina_html",
-      "name": "Huile de soja Hina 20L",
-      "prix_base": 179400,
-      "prix_comparaison": 179400,
+      "cle": "riz_7291rizblancdelitasy50kg_html",
+      "name": "Riz blanc de l'Itasy 50kg",
+      "prix_base": 184000,
+      "prix_comparaison": 184000,
       "variation": 0,
       "indice_prix": 100.0
     }

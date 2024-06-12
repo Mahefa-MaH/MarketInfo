@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz makalioka 1kg**
-   - Prix avant: 4,350 Ar
-   - Prix actuel: 4,350 Ar
+3. **Riz de luxe Makalioka 5kg**
+   - Prix avant: 19,550 Ar
+   - Prix actuel: 19,550 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
