@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "cle": "compotes_13833compotedepommeallegeeensucre100gtopbudget_html",
+      "name": "Compote de pomme all\u00e9g\u00e9e en sucre 100g",
+      "prix_base": 6400,
+      "prix_comparaison": 6080,
+      "variation": -320
+    },
+    {
       "cle": "sauceschaudessaucestomates_13854saucebolognaise420gtopbudget_html",
       "name": "Sauce bolognaise 420g",
       "prix_base": 10900,
@@ -8,18 +15,11 @@
       "variation": -545
     },
     {
-      "cle": "sucres_13716sucreenpoudre750gchabrior_html",
-      "name": "Sucre en poudre 750g",
-      "prix_base": 13800,
-      "prix_comparaison": 13110,
-      "variation": -690
-    },
-    {
-      "cle": "croquettesetfriandiseschien_7042croquettespourchienviandes15kg_html",
-      "name": "Croquettes pour chien viandes 15kg",
-      "prix_base": 139000,
-      "prix_comparaison": 132050,
-      "variation": -6950
+      "cle": "conservesdepoissons_2861thonenmorceauaunaturel130g_html",
+      "name": "Thon en morceau au naturel 130g",
+      "prix_base": 12500,
+      "prix_comparaison": 11875,
+      "variation": -625
     }
   ],
   "prix_diminues": [
@@ -38,49 +38,49 @@
       "variation": -690
     },
     {
-      "cle": "sauceschaudessaucestomates_13854saucebolognaise420gtopbudget_html",
-      "name": "Sauce bolognaise 420g",
-      "prix_base": 10900,
-      "prix_comparaison": 10355,
-      "variation": -545
+      "cle": "pates_12236macaroni1kgfiorini_html",
+      "name": "Macaroni 1kg",
+      "prix_base": 12900,
+      "prix_comparaison": 12255,
+      "variation": -645
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "sucres_13716sucreenpoudre750gchabrior_html",
-      "name": "Sucre en poudre 750g",
-      "prix_base": 13800,
-      "prix_comparaison": 13110,
+      "cle": "compotes_13833compotedepommeallegeeensucre100gtopbudget_html",
+      "name": "Compote de pomme all\u00e9g\u00e9e en sucre 100g",
+      "prix_base": 6400,
+      "prix_comparaison": 6080,
       "indice_prix": 95.0
     },
     {
-      "cle": "sauceschaudessaucestomates_13854saucebolognaise420gtopbudget_html",
-      "name": "Sauce bolognaise 420g",
-      "prix_base": 10900,
-      "prix_comparaison": 10355,
+      "cle": "conservesdepoissons_2861thonenmorceauaunaturel130g_html",
+      "name": "Thon en morceau au naturel 130g",
+      "prix_base": 12500,
+      "prix_comparaison": 11875,
       "indice_prix": 95.0
     },
     {
-      "cle": "croquettesetfriandiseschien_7042croquettespourchienviandes15kg_html",
-      "name": "Croquettes pour chien viandes 15kg",
-      "prix_base": 139000,
-      "prix_comparaison": 132050,
+      "cle": "pates_12236macaroni1kgfiorini_html",
+      "name": "Macaroni 1kg",
+      "prix_base": 12900,
+      "prix_comparaison": 12255,
       "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "croquettesetfriandiseschien_7042croquettespourchienviandes15kg_html",
-      "name": "Croquettes pour chien viandes 15kg",
-      "prix_base": 139000,
-      "prix_comparaison": 132050,
-      "indice_prix": 95.0
-    },
-    {
       "cle": "sauceschaudessaucestomates_13854saucebolognaise420gtopbudget_html",
       "name": "Sauce bolognaise 420g",
       "prix_base": 10900,
       "prix_comparaison": 10355,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "croquettesetfriandiseschien_7042croquettespourchienviandes15kg_html",
+      "name": "Croquettes pour chien viandes 15kg",
+      "prix_base": 139000,
+      "prix_comparaison": 132050,
       "indice_prix": 95.0
     },
     {
