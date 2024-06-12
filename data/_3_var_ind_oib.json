@@ -6,6 +6,27 @@
       "prix_base": 6400,
       "prix_comparaison": 6080,
       "variation": -320
+    },
+    {
+      "cle": "volailleetvolaillepanee_1991franksdepouletoriginalchickenfranksoriginal340g_html",
+      "name": "Saucisse de poulet originale 340g",
+      "prix_base": 7500,
+      "prix_comparaison": 7125,
+      "variation": -375
+    },
+    {
+      "cle": "confituresetgelees_512confiturepommecannelle380gx12milafood_html",
+      "name": "Confiture pomme cannelle 380g",
+      "prix_base": 7800,
+      "prix_comparaison": 7410,
+      "variation": -390
+    },
+    {
+      "cle": "volailleetvolaillepanee_1992franksdepouletfumechckenfrankssmoked340g_html",
+      "name": "Saucisse de poulet fum\u00e9e 340g",
+      "prix_base": 7900,
+      "prix_comparaison": 7505,
+      "variation": -395
     }
   ],
   "prix_diminues": [
@@ -15,23 +36,86 @@
       "prix_base": 139000,
       "prix_comparaison": 132050,
       "variation": -6950
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_10248cafesolubleselectionnormal200g_html",
+      "name": "Caf\u00e9 soluble s\u00e9lection normal 200g",
+      "prix_base": 52900,
+      "prix_comparaison": 50255,
+      "variation": -2645
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_278cafesolublequalitefiltremaxwellhousenormalbocal200grsx6unites_html",
+      "name": "Caf\u00e9 Soluble Qualit\u00e9 Filtre 200g",
+      "prix_base": 52000,
+      "prix_comparaison": 49400,
+      "variation": -2600
+    },
+    {
+      "cle": "confituresetgelees_13838confituredabricots1kgtopbudget_html",
+      "name": "Confiture d'abricots 1kg",
+      "prix_base": 19900,
+      "prix_comparaison": 17500,
+      "variation": -2400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "compotes_13833compotedepommeallegeeensucre100gtopbudget_html",
-      "name": "Compote de pomme all\u00e9g\u00e9e en sucre 100g",
-      "prix_base": 6400,
-      "prix_comparaison": 6080,
+      "cle": "patisserieetviennoiseriefrais_13516fondantauchocolat500gchabrior_html",
+      "name": "Fondant au chocolat 500g",
+      "prix_base": 25300,
+      "prix_comparaison": 24035,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_12600chicoreecafeenboite100gplanteurdestropiques_html",
+      "name": "Chicor\u00e9e caf\u00e9 en boite 100g",
+      "prix_base": 13700,
+      "prix_comparaison": 13015,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_10246cappuccinovanille18tassesenboite310g_html",
+      "name": "Cappuccino vanille 18 tasses en boite 310g",
+      "prix_base": 41500,
+      "prix_comparaison": 39425,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "cafesolublechicoreecappuccino_13959cappuccinonoisetteenboite270gnescafe_html",
+      "name": "Cappuccino noisette en bo\u00eete 270g",
+      "prix_base": 41500,
+      "prix_comparaison": 39425,
       "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
+      "cle": "confituresetgelees_13838confituredabricots1kgtopbudget_html",
+      "name": "Confiture d'abricots 1kg",
+      "prix_base": 19900,
+      "prix_comparaison": 17500,
+      "indice_prix": 87.93969849246231
+    },
+    {
+      "cle": "volailleetvolaillepanee_1978nuggetsdepouletchickennuggets500g_html",
+      "name": "Nuggets de poulet  500g",
+      "prix_base": 20950,
+      "prix_comparaison": 19902,
+      "indice_prix": 94.99761336515513
+    },
+    {
       "cle": "sauceschaudessaucestomates_13854saucebolognaise420gtopbudget_html",
       "name": "Sauce bolognaise 420g",
       "prix_base": 10900,
       "prix_comparaison": 10355,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "confituresetgelees_12247confitureabricot1kgpaquito_html",
+      "name": "Confiture abricot 1kg",
+      "prix_base": 25200,
+      "prix_comparaison": 23940,
       "indice_prix": 95.0
     }
   ]

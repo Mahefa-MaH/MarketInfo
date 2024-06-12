@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 8377,
-      "prix_base": 25400,
-      "name": "S\u00e9rum Physiologique pour b\u00e9b\u00e9 0,9 % 40 Unidoses",
-      "prix_comparaison": 26200,
-      "variation": 800
-    },
-    {
-      "list_id": 12228,
-      "prix_base": 8300,
-      "name": "Ma\u00efs doux croquant sans sucres ajout\u00e9s 1/2",
-      "prix_comparaison": 8100,
-      "variation": -200
-    },
-    {
-      "list_id": 12273,
-      "prix_base": 8300,
-      "name": "Pois chiches 1/2",
-      "prix_comparaison": 8100,
-      "variation": -200
+      "list_id": 3566,
+      "prix_base": 4300,
+      "name": "Bonbons Wild Berry 45 G",
+      "prix_comparaison": 3600,
+      "variation": -700
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 2791,
-      "prix_base": 234000,
-      "name": "Croquette pour chien Energy 20 Kg",
-      "prix_comparaison": 180000,
-      "variation": -54000
-    },
-    {
-      "list_id": 2793,
-      "prix_base": 50400,
-      "name": "RED CAN Croquette pour chien Adult 4 Kg",
-      "prix_comparaison": 42000,
-      "variation": -8400
-    },
-    {
-      "list_id": 8358,
-      "prix_base": 69700,
-      "name": "Moustiquaire Sp\u00e9ciale Lit Adulte (non impr\u00e9gn\u00e9e)",
-      "prix_comparaison": 63300,
-      "variation": -6400
+      "list_id": 3566,
+      "prix_base": 4300,
+      "name": "Bonbons Wild Berry 45 G",
+      "prix_comparaison": 3600,
+      "variation": -700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 8377,
-      "name": "S\u00e9rum Physiologique pour b\u00e9b\u00e9 0,9 % 40 Unidoses",
-      "prix_base": 25400,
-      "prix_comparaison": 26200,
-      "indice_prix": 103.14960629921259
-    },
-    {
-      "list_id": 12287,
-      "name": "D\u00e9sodorisant Gel Fleur de Cerisier 150 g",
-      "prix_base": 9900,
-      "prix_comparaison": 9700,
-      "indice_prix": 97.97979797979798
-    },
-    {
-      "list_id": 12269,
-      "name": "Epinards en branches 37 cl",
-      "prix_base": 9000,
-      "prix_comparaison": 8800,
-      "indice_prix": 97.77777777777777
+      "list_id": 3566,
+      "name": "Bonbons Wild Berry 45 G",
+      "prix_base": 4300,
+      "prix_comparaison": 3600,
+      "indice_prix": 83.72093023255815
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 2791,
-      "name": "Croquette pour chien Energy 20 Kg",
-      "prix_base": 234000,
-      "prix_comparaison": 180000,
-      "indice_prix": 76.92307692307692
-    },
-    {
-      "list_id": 2793,
-      "name": "RED CAN Croquette pour chien Adult 4 Kg",
-      "prix_base": 50400,
-      "prix_comparaison": 42000,
-      "indice_prix": 83.33333333333333
-    },
-    {
-      "list_id": 8106,
-      "name": "Eau oxyg\u00e9n\u00e9e 10 volumes 120 ml",
-      "prix_base": 13700,
-      "prix_comparaison": 12000,
-      "indice_prix": 87.5912408759124
+      "list_id": 3566,
+      "name": "Bonbons Wild Berry 45 G",
+      "prix_base": 4300,
+      "prix_comparaison": 3600,
+      "indice_prix": 83.72093023255815
     }
   ]
 }
