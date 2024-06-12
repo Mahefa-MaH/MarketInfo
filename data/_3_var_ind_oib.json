@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "yaourtsnaturesetaromatises_6829yaourtyoplaitvanille90g_html",
-      "name": "Yaourt Yoplait vanille 90g",
-      "prix_base": 990,
-      "prix_comparaison": 1090,
-      "variation": 100
+      "cle": "sauceschaudessaucestomates_13854saucebolognaise420gtopbudget_html",
+      "name": "Sauce bolognaise 420g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
+      "variation": -545
     },
     {
-      "cle": "yaourtsnaturesetaromatises_7305yaourtyoplaitpassion90g_html",
-      "name": "Yaourt Yoplait passion 90g",
-      "prix_base": 990,
-      "prix_comparaison": 1090,
-      "variation": 100
+      "cle": "sucres_13716sucreenpoudre750gchabrior_html",
+      "name": "Sucre en poudre 750g",
+      "prix_base": 13800,
+      "prix_comparaison": 13110,
+      "variation": -690
     },
     {
-      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
-      "name": "Yaourt Yoplait nature sucre 90g",
-      "prix_base": 990,
-      "prix_comparaison": 1090,
-      "variation": 100
+      "cle": "croquettesetfriandiseschien_7042croquettespourchienviandes15kg_html",
+      "name": "Croquettes pour chien viandes 15kg",
+      "prix_base": 139000,
+      "prix_comparaison": 132050,
+      "variation": -6950
     }
   ],
   "prix_diminues": [
     {
-      "cle": "vaissellesjetables_9069assiettesgmo22cm50pieces_html",
-      "name": "Assiettes GM \u00d822cm 50 pi\u00e8ces",
-      "prix_base": 21500,
-      "prix_comparaison": 16900,
-      "variation": -4600
+      "cle": "croquettesetfriandiseschien_7042croquettespourchienviandes15kg_html",
+      "name": "Croquettes pour chien viandes 15kg",
+      "prix_base": 139000,
+      "prix_comparaison": 132050,
+      "variation": -6950
     },
     {
-      "cle": "poissonsnatures_7522filetdecapitaine500g_html",
-      "name": "Filet de capitaine 500g",
-      "prix_base": 23000,
-      "prix_comparaison": 18500,
-      "variation": -4500
+      "cle": "sucres_13716sucreenpoudre750gchabrior_html",
+      "name": "Sucre en poudre 750g",
+      "prix_base": 13800,
+      "prix_comparaison": 13110,
+      "variation": -690
     },
     {
-      "cle": "fromagesduresetrapes_732fromageminibabybelfilet5pieces_html",
-      "name": "Fromage mini babybel filet 5 pi\u00e8ces",
-      "prix_base": 17990,
-      "prix_comparaison": 15000,
-      "variation": -2990
+      "cle": "sauceschaudessaucestomates_13854saucebolognaise420gtopbudget_html",
+      "name": "Sauce bolognaise 420g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
+      "variation": -545
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "yaourtsnaturesetaromatises_6829yaourtyoplaitvanille90g_html",
-      "name": "Yaourt Yoplait vanille 90g",
-      "prix_base": 990,
-      "prix_comparaison": 1090,
-      "indice_prix": 110.1010101010101
+      "cle": "sucres_13716sucreenpoudre750gchabrior_html",
+      "name": "Sucre en poudre 750g",
+      "prix_base": 13800,
+      "prix_comparaison": 13110,
+      "indice_prix": 95.0
     },
     {
-      "cle": "yaourtsnaturesetaromatises_7305yaourtyoplaitpassion90g_html",
-      "name": "Yaourt Yoplait passion 90g",
-      "prix_base": 990,
-      "prix_comparaison": 1090,
-      "indice_prix": 110.1010101010101
+      "cle": "sauceschaudessaucestomates_13854saucebolognaise420gtopbudget_html",
+      "name": "Sauce bolognaise 420g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
+      "indice_prix": 95.0
     },
     {
-      "cle": "yaourtsnaturesetaromatises_5455yaourtyoplaitnaturesucre90g_html",
-      "name": "Yaourt Yoplait nature sucre 90g",
-      "prix_base": 990,
-      "prix_comparaison": 1090,
-      "indice_prix": 110.1010101010101
+      "cle": "croquettesetfriandiseschien_7042croquettespourchienviandes15kg_html",
+      "name": "Croquettes pour chien viandes 15kg",
+      "prix_base": 139000,
+      "prix_comparaison": 132050,
+      "indice_prix": 95.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "jusdefruits_224aloedrinknature50cl_html",
-      "name": "Boisson Saveur Original 50cl",
-      "prix_base": 9700,
-      "prix_comparaison": 6900,
-      "indice_prix": 71.1340206185567
+      "cle": "croquettesetfriandiseschien_7042croquettespourchienviandes15kg_html",
+      "name": "Croquettes pour chien viandes 15kg",
+      "prix_base": 139000,
+      "prix_comparaison": 132050,
+      "indice_prix": 95.0
     },
     {
-      "cle": "jusdefruits_231aloedrinkpeche50cl_html",
-      "name": "Boisson Saveur P\u00eache 50cl",
-      "prix_base": 9700,
-      "prix_comparaison": 6900,
-      "indice_prix": 71.1340206185567
+      "cle": "sauceschaudessaucestomates_13854saucebolognaise420gtopbudget_html",
+      "name": "Sauce bolognaise 420g",
+      "prix_base": 10900,
+      "prix_comparaison": 10355,
+      "indice_prix": 95.0
     },
     {
-      "cle": "jusdefruits_228aloedrinkfrtdelapassion50cl_html",
-      "name": "Boisson Saveur Fruit de la Passion  50cl",
-      "prix_base": 9700,
-      "prix_comparaison": 6900,
-      "indice_prix": 71.1340206185567
+      "cle": "sucres_13716sucreenpoudre750gchabrior_html",
+      "name": "Sucre en poudre 750g",
+      "prix_base": 13800,
+      "prix_comparaison": 13110,
+      "indice_prix": 95.0
     }
   ]
 }

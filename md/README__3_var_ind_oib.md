@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Yaourt Yoplait vanille 90g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,090 Ar
-   - Variation: +100 Ar
+1. **Sauce bolognaise 420g**
+   - Prix avant: 10,900 Ar
+   - Prix actuel: 10,355 Ar
+   - Variation: -545 Ar
 
-2. **Yaourt Yoplait passion 90g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,090 Ar
-   - Variation: +100 Ar
+2. **Sucre en poudre 750g**
+   - Prix avant: 13,800 Ar
+   - Prix actuel: 13,110 Ar
+   - Variation: -690 Ar
 
-3. **Yaourt Yoplait nature sucre 90g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,090 Ar
-   - Variation: +100 Ar
+3. **Croquettes pour chien viandes 15kg**
+   - Prix avant: 139,000 Ar
+   - Prix actuel: 132,050 Ar
+   - Variation: -6,950 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Assiettes GM Ø22cm 50 pièces**
-   - Prix avant: 21,500 Ar
-   - Prix actuel: 16,900 Ar
-   - Variation: -4,600 Ar
+1. **Croquettes pour chien viandes 15kg**
+   - Prix avant: 139,000 Ar
+   - Prix actuel: 132,050 Ar
+   - Variation: -6,950 Ar
 
-2. **Filet de capitaine 500g**
-   - Prix avant: 23,000 Ar
-   - Prix actuel: 18,500 Ar
-   - Variation: -4,500 Ar
+2. **Sucre en poudre 750g**
+   - Prix avant: 13,800 Ar
+   - Prix actuel: 13,110 Ar
+   - Variation: -690 Ar
 
-3. **Fromage mini babybel filet 5 pièces**
-   - Prix avant: 17,990 Ar
-   - Prix actuel: 15,000 Ar
-   - Variation: -2,990 Ar
+3. **Sauce bolognaise 420g**
+   - Prix avant: 10,900 Ar
+   - Prix actuel: 10,355 Ar
+   - Variation: -545 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Yaourt Yoplait vanille 90g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,090 Ar
-   - Indice de prix : 110.10
+1. **Sucre en poudre 750g**
+   - Prix avant: 13,800 Ar
+   - Prix actuel: 13,110 Ar
+   - Indice de prix : 95.00
 
-2. **Yaourt Yoplait passion 90g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,090 Ar
-   - Indice de prix : 110.10
+2. **Sauce bolognaise 420g**
+   - Prix avant: 10,900 Ar
+   - Prix actuel: 10,355 Ar
+   - Indice de prix : 95.00
 
-3. **Yaourt Yoplait nature sucre 90g**
-   - Prix avant: 990 Ar
-   - Prix actuel: 1,090 Ar
-   - Indice de prix : 110.10
+3. **Croquettes pour chien viandes 15kg**
+   - Prix avant: 139,000 Ar
+   - Prix actuel: 132,050 Ar
+   - Indice de prix : 95.00
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Boisson Saveur Original 50cl**
-   - Prix avant: 9,700 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 71.13
+1. **Croquettes pour chien viandes 15kg**
+   - Prix avant: 139,000 Ar
+   - Prix actuel: 132,050 Ar
+   - Indice de prix : 95.00
 
-2. **Boisson Saveur Pêche 50cl**
-   - Prix avant: 9,700 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 71.13
+2. **Sauce bolognaise 420g**
+   - Prix avant: 10,900 Ar
+   - Prix actuel: 10,355 Ar
+   - Indice de prix : 95.00
 
-3. **Boisson Saveur Fruit de la Passion  50cl**
-   - Prix avant: 9,700 Ar
-   - Prix actuel: 6,900 Ar
-   - Indice de prix : 71.13
+3. **Sucre en poudre 750g**
+   - Prix avant: 13,800 Ar
+   - Prix actuel: 13,110 Ar
+   - Indice de prix : 95.00
 
