@@ -156,64 +156,64 @@
    - Prix actuel: 13,205 Ar
    - Indice de prix : 95.00
 
-9. **Crème glacée vanille de Madagascar 478g**
-   - Prix avant: 18,500 Ar
-   - Prix actuel: 17,575 Ar
-   - Indice de prix : 95.00
-
-10. **Crème adhésive hypoallergénique pour appareil dentaire 50ml**
+9. **Crème adhésive hypoallergénique pour appareil dentaire 50ml**
    - Prix avant: 18,900 Ar
    - Prix actuel: 17,955 Ar
    - Indice de prix : 95.00
 
-11. **Crème glacée caramel salé 460ml**
-   - Prix avant: 29,900 Ar
-   - Prix actuel: 28,405 Ar
-   - Indice de prix : 95.00
-
-12. **Crème glacée chocolat Belge 460ml**
-   - Prix avant: 29,900 Ar
-   - Prix actuel: 28,405 Ar
-   - Indice de prix : 95.00
-
-13. **Crème glacée noix de macadamia 460ml**
-   - Prix avant: 36,900 Ar
-   - Prix actuel: 35,055 Ar
-   - Indice de prix : 95.00
-
-14. **Crème glacée vanille 460ml**
-   - Prix avant: 36,900 Ar
-   - Prix actuel: 35,055 Ar
-   - Indice de prix : 95.00
-
-15. **Crème chantilly 250g**
-   - Prix avant: 24,500 Ar
-   - Prix actuel: 23,275 Ar
-   - Indice de prix : 95.00
-
-16. **Crème douche extra douce lait de karité 750ml**
+10. **Crème douche extra douce lait de karité 750ml**
    - Prix avant: 26,500 Ar
    - Prix actuel: 25,175 Ar
    - Indice de prix : 95.00
 
-17. **Crème douche pêche abricot 250ml**
+11. **Crème douche pêche abricot 250ml**
    - Prix avant: 12,500 Ar
    - Prix actuel: 11,875 Ar
    - Indice de prix : 95.00
 
-18. **Crème douche pêche et aloe Vera 250ml**
+12. **Crème douche pêche et aloe Vera 250ml**
    - Prix avant: 6,900 Ar
    - Prix actuel: 6,555 Ar
    - Indice de prix : 95.00
 
-19. **Crème Detox 75ml**
+13. **Crème Detox 75ml**
    - Prix avant: 14,700 Ar
    - Prix actuel: 13,965 Ar
    - Indice de prix : 95.00
 
-20. **Gaufrettes fourrées crème de cacao 200g**
+14. **Gaufrettes fourrées crème de cacao 200g**
    - Prix avant: 6,900 Ar
    - Prix actuel: 6,555 Ar
+   - Indice de prix : 95.00
+
+15. **Crème glacée caramel salé 460ml**
+   - Prix avant: 29,900 Ar
+   - Prix actuel: 28,405 Ar
+   - Indice de prix : 95.00
+
+16. **Crème glacée chocolat Belge 460ml**
+   - Prix avant: 29,900 Ar
+   - Prix actuel: 28,405 Ar
+   - Indice de prix : 95.00
+
+17. **Crème glacée noix de macadamia 460ml**
+   - Prix avant: 36,900 Ar
+   - Prix actuel: 35,055 Ar
+   - Indice de prix : 95.00
+
+18. **Crème glacée vanille 460ml**
+   - Prix avant: 36,900 Ar
+   - Prix actuel: 35,055 Ar
+   - Indice de prix : 95.00
+
+19. **Crème glacée vanille de Madagascar 478g**
+   - Prix avant: 18,500 Ar
+   - Prix actuel: 17,575 Ar
+   - Indice de prix : 95.00
+
+20. **Déodorant spray cologne 200ml**
+   - Prix avant: 22,500 Ar
+   - Prix actuel: 21,375 Ar
    - Indice de prix : 95.00
 
 21. **Anti-pollution gel crème de jour fleur d'amandier 50ml**
@@ -221,8 +221,8 @@
    - Prix actuel: 30,875 Ar
    - Indice de prix : 95.00
 
-22. **Déodorant spray cologne 200ml**
-   - Prix avant: 22,500 Ar
-   - Prix actuel: 21,375 Ar
+22. **Crème chantilly 250g**
+   - Prix avant: 24,500 Ar
+   - Prix actuel: 23,275 Ar
    - Indice de prix : 95.00
 

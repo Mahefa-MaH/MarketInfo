@@ -213,52 +213,10 @@
       "indice_prix": 95.0
     },
     {
-      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
-      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
-      "prix_base": 18500,
-      "prix_comparaison": 17575,
-      "indice_prix": 95.0
-    },
-    {
       "cle": "dentifrice_13741cremeadhesivehypoallergeniquepourappareildentaire50mllabell_html",
       "name": "Cr\u00e8me adh\u00e9sive hypoallerg\u00e9nique pour appareil dentaire 50ml",
       "prix_base": 18900,
       "prix_comparaison": 17955,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "glacesenpots_1871cremeglaceecaramelsale460ml_html",
-      "name": "Cr\u00e8me glac\u00e9e caramel sal\u00e9 460ml",
-      "prix_base": 29900,
-      "prix_comparaison": 28405,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "glacesenpots_1870cremeglaceechocolatbelge460ml_html",
-      "name": "Cr\u00e8me glac\u00e9e chocolat Belge 460ml",
-      "prix_base": 29900,
-      "prix_comparaison": 28405,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "glacesenpots_1872cremeglaceenoixdemacadamia460ml_html",
-      "name": "Cr\u00e8me glac\u00e9e noix de macadamia 460ml",
-      "prix_base": 36900,
-      "prix_comparaison": 35055,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "glacesenpots_1868cremeglaceevanille460ml_html",
-      "name": "Cr\u00e8me glac\u00e9e vanille 460ml",
-      "prix_base": 36900,
-      "prix_comparaison": 35055,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "cremeschantillyaidesculinaires_2137chantilly250gpaysanbreton_html",
-      "name": "Cr\u00e8me chantilly 250g",
-      "prix_base": 24500,
-      "prix_comparaison": 23275,
       "indice_prix": 95.0
     },
     {
@@ -297,10 +255,38 @@
       "indice_prix": 95.0
     },
     {
-      "cle": "cremessoinsvisage_4225antipollutiondaygelcreamalmondblossomantipollutiongelcremedejourfleur_html",
-      "name": "Anti-pollution gel cr\u00e8me de jour fleur d'amandier 50ml",
-      "prix_base": 32500,
-      "prix_comparaison": 30875,
+      "cle": "glacesenpots_1871cremeglaceecaramelsale460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e caramel sal\u00e9 460ml",
+      "prix_base": 29900,
+      "prix_comparaison": 28405,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "glacesenpots_1870cremeglaceechocolatbelge460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e chocolat Belge 460ml",
+      "prix_base": 29900,
+      "prix_comparaison": 28405,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "glacesenpots_1872cremeglaceenoixdemacadamia460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e noix de macadamia 460ml",
+      "prix_base": 36900,
+      "prix_comparaison": 35055,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "glacesenpots_1868cremeglaceevanille460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille 460ml",
+      "prix_base": 36900,
+      "prix_comparaison": 35055,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
+      "prix_base": 18500,
+      "prix_comparaison": 17575,
       "indice_prix": 95.0
     },
     {
@@ -308,6 +294,20 @@
       "name": "D\u00e9odorant spray cologne 200ml",
       "prix_base": 22500,
       "prix_comparaison": 21375,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "cremessoinsvisage_4225antipollutiondaygelcreamalmondblossomantipollutiongelcremedejourfleur_html",
+      "name": "Anti-pollution gel cr\u00e8me de jour fleur d'amandier 50ml",
+      "prix_base": 32500,
+      "prix_comparaison": 30875,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_2137chantilly250gpaysanbreton_html",
+      "name": "Cr\u00e8me chantilly 250g",
+      "prix_base": 24500,
+      "prix_comparaison": 23275,
       "indice_prix": 95.0
     }
   ]

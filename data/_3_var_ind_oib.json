@@ -6,6 +6,13 @@
       "prix_base": 9900,
       "prix_comparaison": 18382,
       "variation": 8482
+    },
+    {
+      "cle": "croquettesetfriandiseschien_7042croquettespourchienviandes15kg_html",
+      "name": "Croquettes pour chien viandes 15kg",
+      "prix_base": 132050,
+      "prix_comparaison": 139000,
+      "variation": 6950
     }
   ],
   "prix_diminues": [
@@ -15,6 +22,13 @@
       "prix_base": 475900,
       "prix_comparaison": 452105,
       "variation": -23795
+    },
+    {
+      "cle": "accessoiresdecoupe_6959mandolineavecdoublelame_html",
+      "name": "Mandoline avec double lame",
+      "prix_base": 415000,
+      "prix_comparaison": 394250,
+      "variation": -20750
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,12 +38,26 @@
       "prix_base": 9900,
       "prix_comparaison": 18382,
       "indice_prix": 185.67676767676767
+    },
+    {
+      "cle": "savonsdetoilettes_2332olissbarsoapcerise75g_html",
+      "name": "Savon de toilette cerise 75g",
+      "prix_base": 990,
+      "prix_comparaison": 1520,
+      "indice_prix": 153.53535353535352
     }
   ],
   "indices_prix_plus_faibles": [
     {
       "cle": "nettoyantsmultiusages_3279multiusourcalavandaazul12x500ml_html",
       "name": "D\u00e9tergent multi-usage lavande 500ml",
+      "prix_base": 4500,
+      "prix_comparaison": 2500,
+      "indice_prix": 55.55555555555556
+    },
+    {
+      "cle": "nettoyantsmultiusages_3280multiusourcahortelaverde12x500ml_html",
+      "name": "D\u00e9tergent multi-usage menthe verte 500ml",
       "prix_base": 4500,
       "prix_comparaison": 2500,
       "indice_prix": 55.55555555555556
