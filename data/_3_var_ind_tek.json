@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 3566,
-      "prix_base": 4300,
-      "name": "Bonbons Wild Berry 45 G",
-      "prix_comparaison": 3600,
-      "variation": -700
+      "list_id": 7055,
+      "prix_base": 18800,
+      "name": "Cahier spiral 96 pages seyes 17x22 paquet de 10",
+      "prix_comparaison": 20400,
+      "variation": 1600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 3566,
-      "prix_base": 4300,
-      "name": "Bonbons Wild Berry 45 G",
-      "prix_comparaison": 3600,
-      "variation": -700
+      "list_id": 7055,
+      "prix_base": 18800,
+      "name": "Cahier spiral 96 pages seyes 17x22 paquet de 10",
+      "prix_comparaison": 20400,
+      "variation": 1600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3566,
-      "name": "Bonbons Wild Berry 45 G",
-      "prix_base": 4300,
-      "prix_comparaison": 3600,
-      "indice_prix": 83.72093023255815
+      "list_id": 7055,
+      "name": "Cahier spiral 96 pages seyes 17x22 paquet de 10",
+      "prix_base": 18800,
+      "prix_comparaison": 20400,
+      "indice_prix": 108.51063829787235
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 3566,
-      "name": "Bonbons Wild Berry 45 G",
-      "prix_base": 4300,
-      "prix_comparaison": 3600,
-      "indice_prix": 83.72093023255815
+      "list_id": 7055,
+      "name": "Cahier spiral 96 pages seyes 17x22 paquet de 10",
+      "prix_base": 18800,
+      "prix_comparaison": 20400,
+      "indice_prix": 108.51063829787235
     }
   ]
 }

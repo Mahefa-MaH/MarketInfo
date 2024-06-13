@@ -1,20 +1,314 @@
 {
   "Variation de prix": [
     {
+      "cle": "glacesenpots_1872cremeglaceenoixdemacadamia460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e noix de macadamia 460ml",
+      "prix_base": 36900,
+      "prix_comparaison": 35055,
+      "variation": -1845
+    },
+    {
+      "cle": "glacesenpots_1868cremeglaceevanille460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille 460ml",
+      "prix_base": 36900,
+      "prix_comparaison": 35055,
+      "variation": -1845
+    },
+    {
+      "cle": "deodorants_13870deodorantcologne200mltopbudget_html",
+      "name": "D\u00e9odorant fra\u00eecheur cologne 200ml",
+      "prix_base": 9200,
+      "prix_comparaison": 7500,
+      "variation": -1700
+    },
+    {
+      "cle": "cremessoinsvisage_4225antipollutiondaygelcreamalmondblossomantipollutiongelcremedejourfleur_html",
+      "name": "Anti-pollution gel cr\u00e8me de jour fleur d'amandier 50ml",
+      "prix_base": 32500,
+      "prix_comparaison": 30875,
+      "variation": -1625
+    },
+    {
+      "cle": "glacesenpots_1871cremeglaceecaramelsale460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e caramel sal\u00e9 460ml",
+      "prix_base": 29900,
+      "prix_comparaison": 28405,
+      "variation": -1495
+    },
+    {
+      "cle": "glacesenpots_1870cremeglaceechocolatbelge460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e chocolat Belge 460ml",
+      "prix_base": 29900,
+      "prix_comparaison": 28405,
+      "variation": -1495
+    },
+    {
+      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
+      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "variation": -1325
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_2137chantilly250gpaysanbreton_html",
+      "name": "Cr\u00e8me chantilly 250g",
+      "prix_base": 24500,
+      "prix_comparaison": 23275,
+      "variation": -1225
+    },
+    {
+      "cle": "deodorants_2339nartadeospray200mlfrcologne_html",
+      "name": "D\u00e9odorant spray cologne 200ml",
+      "prix_base": 22500,
+      "prix_comparaison": 21375,
+      "variation": -1125
+    },
+    {
+      "cle": "dentifrice_13741cremeadhesivehypoallergeniquepourappareildentaire50mllabell_html",
+      "name": "Cr\u00e8me adh\u00e9sive hypoallerg\u00e9nique pour appareil dentaire 50ml",
+      "prix_base": 18900,
+      "prix_comparaison": 17955,
+      "variation": -945
+    },
+    {
+      "cle": "gelsetbainsdouche_4205showercreamvanillacremedouchevanille_html",
+      "name": "Cr\u00e8me douche vanille 500ml",
+      "prix_base": 18500,
+      "prix_comparaison": 17575,
+      "variation": -925
+    },
+    {
+      "cle": "gelsetbainsdouche_4371cremedoucheverveinecitron500ml_html",
+      "name": "Cr\u00e8me douche verveine citron 500ml",
+      "prix_base": 18500,
+      "prix_comparaison": 17575,
+      "variation": -925
+    },
+    {
+      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
+      "prix_base": 18500,
+      "prix_comparaison": 17575,
+      "variation": -925
+    },
+    {
+      "cle": "conesetcornets_140686glacesencornetfaconcremebrulee426g_html",
+      "name": "6 Glaces en cornet fa\u00e7on cr\u00e8me br\u00fbl\u00e9e 426g",
+      "prix_base": 17900,
+      "prix_comparaison": 17005,
+      "variation": -895
+    },
+    {
+      "cle": "cremessoinsvisage_6377cremedetox75ml_html",
+      "name": "Cr\u00e8me Detox 75ml",
+      "prix_base": 14700,
+      "prix_comparaison": 13965,
+      "variation": -735
+    },
+    {
+      "cle": "soinsbebe_13706cremehydratantebiocosmos75mlpommette_html",
+      "name": "Cr\u00e8me hydratante bio cosmos 75ml",
+      "prix_base": 13900,
+      "prix_comparaison": 13205,
+      "variation": -695
+    },
+    {
+      "cle": "epilationetrasage_13203cremedepilatoirepeauxnormales200mllabell_html",
+      "name": "Cr\u00e8me d\u00e9pilatoire peaux normales 200ml",
+      "prix_base": 12900,
+      "prix_comparaison": 12255,
+      "variation": -645
+    },
+    {
+      "cle": "gelsetbainsdouche_4202showercreamverbenalemoncremedoucheverveinecitron_html",
+      "name": "Cr\u00e8me douche verveine citron 250ml",
+      "prix_base": 12500,
+      "prix_comparaison": 11875,
+      "variation": -625
+    },
+    {
+      "cle": "gelsetbainsdouche_4197cremedouchepecheabricot250ml_html",
+      "name": "Cr\u00e8me douche p\u00eache abricot 250ml",
+      "prix_base": 12500,
+      "prix_comparaison": 11875,
+      "variation": -625
+    },
+    {
+      "cle": "potages_13371veloute10legumesetcremes2x30clsainteloi_html",
+      "name": "Velout\u00e9 10 l\u00e9gumes et cr\u00e8mes 2x30cl",
+      "prix_base": 9900,
+      "prix_comparaison": 9405,
+      "variation": -495
+    },
+    {
       "cle": "gelsetbainsdouche_13244geldouchepecheetaloevera250mllabell_html",
       "name": "Cr\u00e8me douche p\u00eache et aloe Vera 250ml",
-      "prix_base": 7900,
-      "prix_comparaison": 6900,
-      "variation": -1000
+      "prix_base": 6900,
+      "prix_comparaison": 6555,
+      "variation": -345
+    },
+    {
+      "cle": "biscuitsfourres_13891gaufrettefourreecremedecacao200gtopbudget_html",
+      "name": "Gaufrettes fourr\u00e9es cr\u00e8me de cacao 200g",
+      "prix_base": 6900,
+      "prix_comparaison": 6555,
+      "variation": -345
     }
   ],
   "indice de prix": [
     {
+      "cle": "deodorants_13870deodorantcologne200mltopbudget_html",
+      "name": "D\u00e9odorant fra\u00eecheur cologne 200ml",
+      "prix_base": 9200,
+      "prix_comparaison": 7500,
+      "indice_prix": 81.52173913043478
+    },
+    {
+      "cle": "gelsetbainsdouche_4205showercreamvanillacremedouchevanille_html",
+      "name": "Cr\u00e8me douche vanille 500ml",
+      "prix_base": 18500,
+      "prix_comparaison": 17575,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4202showercreamverbenalemoncremedoucheverveinecitron_html",
+      "name": "Cr\u00e8me douche verveine citron 250ml",
+      "prix_base": 12500,
+      "prix_comparaison": 11875,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4371cremedoucheverveinecitron500ml_html",
+      "name": "Cr\u00e8me douche verveine citron 500ml",
+      "prix_base": 18500,
+      "prix_comparaison": 17575,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "potages_13371veloute10legumesetcremes2x30clsainteloi_html",
+      "name": "Velout\u00e9 10 l\u00e9gumes et cr\u00e8mes 2x30cl",
+      "prix_base": 9900,
+      "prix_comparaison": 9405,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "conesetcornets_140686glacesencornetfaconcremebrulee426g_html",
+      "name": "6 Glaces en cornet fa\u00e7on cr\u00e8me br\u00fbl\u00e9e 426g",
+      "prix_base": 17900,
+      "prix_comparaison": 17005,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "epilationetrasage_13203cremedepilatoirepeauxnormales200mllabell_html",
+      "name": "Cr\u00e8me d\u00e9pilatoire peaux normales 200ml",
+      "prix_base": 12900,
+      "prix_comparaison": 12255,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "soinsbebe_13706cremehydratantebiocosmos75mlpommette_html",
+      "name": "Cr\u00e8me hydratante bio cosmos 75ml",
+      "prix_base": 13900,
+      "prix_comparaison": 13205,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
+      "prix_base": 18500,
+      "prix_comparaison": 17575,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "dentifrice_13741cremeadhesivehypoallergeniquepourappareildentaire50mllabell_html",
+      "name": "Cr\u00e8me adh\u00e9sive hypoallerg\u00e9nique pour appareil dentaire 50ml",
+      "prix_base": 18900,
+      "prix_comparaison": 17955,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "glacesenpots_1871cremeglaceecaramelsale460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e caramel sal\u00e9 460ml",
+      "prix_base": 29900,
+      "prix_comparaison": 28405,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "glacesenpots_1870cremeglaceechocolatbelge460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e chocolat Belge 460ml",
+      "prix_base": 29900,
+      "prix_comparaison": 28405,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "glacesenpots_1872cremeglaceenoixdemacadamia460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e noix de macadamia 460ml",
+      "prix_base": 36900,
+      "prix_comparaison": 35055,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "glacesenpots_1868cremeglaceevanille460ml_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille 460ml",
+      "prix_base": 36900,
+      "prix_comparaison": 35055,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "cremeschantillyaidesculinaires_2137chantilly250gpaysanbreton_html",
+      "name": "Cr\u00e8me chantilly 250g",
+      "prix_base": 24500,
+      "prix_comparaison": 23275,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4460cremedoucheextradoucelaitdekarite_html",
+      "name": "Cr\u00e8me douche extra douce lait de karit\u00e9 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 25175,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "gelsetbainsdouche_4197cremedouchepecheabricot250ml_html",
+      "name": "Cr\u00e8me douche p\u00eache abricot 250ml",
+      "prix_base": 12500,
+      "prix_comparaison": 11875,
+      "indice_prix": 95.0
+    },
+    {
       "cle": "gelsetbainsdouche_13244geldouchepecheetaloevera250mllabell_html",
       "name": "Cr\u00e8me douche p\u00eache et aloe Vera 250ml",
-      "prix_base": 7900,
-      "prix_comparaison": 6900,
-      "indice_prix": 87.34177215189874
+      "prix_base": 6900,
+      "prix_comparaison": 6555,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "cremessoinsvisage_6377cremedetox75ml_html",
+      "name": "Cr\u00e8me Detox 75ml",
+      "prix_base": 14700,
+      "prix_comparaison": 13965,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "biscuitsfourres_13891gaufrettefourreecremedecacao200gtopbudget_html",
+      "name": "Gaufrettes fourr\u00e9es cr\u00e8me de cacao 200g",
+      "prix_base": 6900,
+      "prix_comparaison": 6555,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "cremessoinsvisage_4225antipollutiondaygelcreamalmondblossomantipollutiongelcremedejourfleur_html",
+      "name": "Anti-pollution gel cr\u00e8me de jour fleur d'amandier 50ml",
+      "prix_base": 32500,
+      "prix_comparaison": 30875,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "deodorants_2339nartadeospray200mlfrcologne_html",
+      "name": "D\u00e9odorant spray cologne 200ml",
+      "prix_base": 22500,
+      "prix_comparaison": 21375,
+      "indice_prix": 95.0
     }
   ]
 }

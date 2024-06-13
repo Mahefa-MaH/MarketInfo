@@ -1,38 +1,30 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_chocolatacuisiniernoirintensetsara200g70_",
-      "name": "Chocolat \u00e0 cuisiner noir intense Tsara\u2122 200g | 70%",
-      "prix_base": 11987,
-      "prix_comparaison": 12900,
-      "variation": 913
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_chocolatacuisiniernoirintensetsara200g70_",
-      "name": "Chocolat \u00e0 cuisiner noir intense Tsara\u2122 200g | 70%",
-      "prix_base": 11987,
-      "prix_comparaison": 12900,
-      "variation": 913
+      "cle": "produit_spiralemacaronirossini500gpates_",
+      "name": "Spirale Macaroni  Rossini\u2122 500g | P\u00e2tes",
+      "prix_base": 4420,
+      "prix_comparaison": 2558,
+      "variation": -1862
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_chocolatacuisiniernoirintensetsara200g70_",
-      "name": "Chocolat \u00e0 cuisiner noir intense Tsara\u2122 200g | 70%",
-      "prix_base": 11987,
-      "prix_comparaison": 12900,
-      "indice_prix": 107.6165846333528
+      "cle": "produit_spiralemacaronirossini500gpates_",
+      "name": "Spirale Macaroni  Rossini\u2122 500g | P\u00e2tes",
+      "prix_base": 4420,
+      "prix_comparaison": 2558,
+      "indice_prix": 57.873303167420815
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_chocolatacuisiniernoirintensetsara200g70_",
-      "name": "Chocolat \u00e0 cuisiner noir intense Tsara\u2122 200g | 70%",
-      "prix_base": 11987,
-      "prix_comparaison": 12900,
-      "indice_prix": 107.6165846333528
+      "cle": "produit_spiralemacaronirossini500gpates_",
+      "name": "Spirale Macaroni  Rossini\u2122 500g | P\u00e2tes",
+      "prix_base": 4420,
+      "prix_comparaison": 2558,
+      "indice_prix": 57.873303167420815
     }
   ]
 }

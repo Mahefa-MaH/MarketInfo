@@ -2,29 +2,24 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Chocolat à cuisiner noir intense Tsara™ 200g | 70%**
-   - Prix avant: 11,987 Ar
-   - Prix actuel: 12,900 Ar
-   - Variation: +913 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Chocolat à cuisiner noir intense Tsara™ 200g | 70%**
-   - Prix avant: 11,987 Ar
-   - Prix actuel: 12,900 Ar
-   - Variation: +913 Ar
+1. **Spirale Macaroni  Rossini™ 500g | Pâtes**
+   - Prix avant: 4,420 Ar
+   - Prix actuel: 2,558 Ar
+   - Variation: -1,862 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Chocolat à cuisiner noir intense Tsara™ 200g | 70%**
-   - Prix avant: 11,987 Ar
-   - Prix actuel: 12,900 Ar
-   - Indice de prix : 107.62
+1. **Spirale Macaroni  Rossini™ 500g | Pâtes**
+   - Prix avant: 4,420 Ar
+   - Prix actuel: 2,558 Ar
+   - Indice de prix : 57.87
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Chocolat à cuisiner noir intense Tsara™ 200g | 70%**
-   - Prix avant: 11,987 Ar
-   - Prix actuel: 12,900 Ar
-   - Indice de prix : 107.62
+1. **Spirale Macaroni  Rossini™ 500g | Pâtes**
+   - Prix avant: 4,420 Ar
+   - Prix actuel: 2,558 Ar
+   - Indice de prix : 57.87
 
