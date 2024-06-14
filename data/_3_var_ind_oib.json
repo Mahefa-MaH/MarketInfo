@@ -6,13 +6,6 @@
       "prix_base": 132050,
       "prix_comparaison": 139000,
       "variation": 6950
-    },
-    {
-      "cle": "cafesolublechicoreecappuccino_10248cafesolubleselectionnormal200g_html",
-      "name": "Caf\u00e9 soluble s\u00e9lection normal 200g",
-      "prix_base": 50255,
-      "prix_comparaison": 52900,
-      "variation": 2645
     }
   ],
   "prix_diminues": [
@@ -22,13 +15,6 @@
       "prix_base": 59000,
       "prix_comparaison": 47500,
       "variation": -11500
-    },
-    {
-      "cle": "boitespatessachetschat_13884terrinesalavolaillepourchat4x400gtopbudget_html",
-      "name": "Terrines \u00e0 la volaille pour chat 4x400g",
-      "prix_base": 24900,
-      "prix_comparaison": 19900,
-      "variation": -5000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -38,26 +24,12 @@
       "prix_base": 19902,
       "prix_comparaison": 20950,
       "indice_prix": 105.26580243191638
-    },
-    {
-      "cle": "patisserieetviennoiseriefrais_13516fondantauchocolat500gchabrior_html",
-      "name": "Fondant au chocolat 500g",
-      "prix_base": 24035,
-      "prix_comparaison": 25300,
-      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
       "cle": "nettoyantsmultiusages_3279multiusourcalavandaazul12x500ml_html",
       "name": "D\u00e9tergent multi-usage lavande 500ml",
-      "prix_base": 4500,
-      "prix_comparaison": 2500,
-      "indice_prix": 55.55555555555556
-    },
-    {
-      "cle": "nettoyantsmultiusages_3280multiusourcahortelaverde12x500ml_html",
-      "name": "D\u00e9tergent multi-usage menthe verte 500ml",
       "prix_base": 4500,
       "prix_comparaison": 2500,
       "indice_prix": 55.55555555555556
