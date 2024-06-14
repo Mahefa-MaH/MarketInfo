@@ -1,34 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12281,
-      "name": "Gourde Compote de pomme sans sucres ajout\u00e9s 90 g x4",
-      "prix_base": 20300,
-      "prix_comparaison": 19700,
-      "variation": -600
-    },
-    {
-      "list_id": 12228,
-      "name": "Ma\u00efs doux croquant sans sucres ajout\u00e9s 1/2",
-      "prix_base": 8300,
-      "prix_comparaison": 8100,
-      "variation": -200
+      "list_id": 3831,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 16000,
+      "prix_comparaison": 11500,
+      "variation": -4500
     }
   ],
   "indice de prix": [
     {
-      "list_id": 12281,
-      "name": "Gourde Compote de pomme sans sucres ajout\u00e9s 90 g x4",
-      "prix_base": 20300,
-      "prix_comparaison": 19700,
-      "indice_prix": 97.04433497536945
-    },
-    {
-      "list_id": 12228,
-      "name": "Ma\u00efs doux croquant sans sucres ajout\u00e9s 1/2",
-      "prix_base": 8300,
-      "prix_comparaison": 8100,
-      "indice_prix": 97.59036144578313
+      "list_id": 3831,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 16000,
+      "prix_comparaison": 11500,
+      "indice_prix": 71.875
     }
   ]
 }

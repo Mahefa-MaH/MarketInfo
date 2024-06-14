@@ -2,109 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Chaise d'allaitement Maxi Cosi 3 en 1**
-   - Prix avant: 518,000 Ar
-   - Prix actuel: 5,018,000 Ar
-   - Variation: +4,500,000 Ar
+1. **BOSCH MFQ36470 ERGOMIXX Batteur - Blanc/Gris**
+   - Prix avant: 324,000 Ar
+   - Prix actuel: 322,000 Ar
+   - Variation: -2,000 Ar
 
-2. **ENDURO- Déplace caravane - EM203 - 1600 kg max - 2 moteurs - 12V**
-   - Prix avant: 6,212,000 Ar
-   - Prix actuel: 7,568,000 Ar
-   - Variation: +1,356,000 Ar
+2. **BOSCH MFQ4020 STYLINE Batteur - Blanc/Gris anthracite**
+   - Prix avant: 338,000 Ar
+   - Prix actuel: 330,000 Ar
+   - Variation: -8,000 Ar
 
-3. **KETER - Coffre de rangement extérieur en résine 2000 litres Noir et gris - Abri de stockage de jardin**
-   - Prix avant: 3,899,000 Ar
-   - Prix actuel: 3,980,000 Ar
-   - Variation: +81,000 Ar
+3. **Russell Hobbs 25891-56 Batteur Mixeur Swirl, 5 Vitesses, Fonction Turbo, 1 Paire de Batteurs Hélice, Pétrin, Fouets - Turquois**
+   - Prix avant: 310,000 Ar
+   - Prix actuel: 299,000 Ar
+   - Variation: -11,000 Ar
 
-4. **KETER - Coffre de rangement extérieur en résine 1200 litres Noir et gris - Range Poubelles ou vélo**
-   - Prix avant: 1,914,000 Ar
-   - Prix actuel: 1,954,000 Ar
-   - Variation: +40,000 Ar
+4. **Batteur électrique SEVERIN HM3830 - 5 vitesses + fonction turbo, 1 600 tours/min, 2 fouets et crochets inox**
+   - Prix avant: 233,000 Ar
+   - Prix actuel: 209,000 Ar
+   - Variation: -24,000 Ar
 
-5. **Dévidoir automatique mural GARDENA RollUp L – Longueur 30m – Ø13mm – Kit complet – Garantie 5 ans (18627-20)**
-   - Prix avant: 1,316,000 Ar
-   - Prix actuel: 1,343,000 Ar
-   - Variation: +27,000 Ar
+5. **BOSCH MFQ3540 Batteur et mixeur plongeant - blanc**
+   - Prix avant: 282,000 Ar
+   - Prix actuel: 254,000 Ar
+   - Variation: -28,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Dévidoir mural - GARDENA - PowerRoll XL - P4A - Blanc - Longueur 35 m - Tuyau 13 mm**
-   - Prix avant: 2,432,000 Ar
-   - Prix actuel: 2,122,000 Ar
-   - Variation: -310,000 Ar
+1. **Batteur ErgoMixx 450 W - BOSCH MFQ36400 blanc/gris - 5 vitesses+turbo - 2 fouets inox - 2 crochets pétrisseurs inox -**
+   - Prix avant: 297,000 Ar
+   - Prix actuel: 265,000 Ar
+   - Variation: -32,000 Ar
 
-2. **KETER - Coffre de rangement extérieur en résine 2000 litres Beige et Marron - Abri de stockage de jardin**
-   - Prix avant: 4,107,000 Ar
-   - Prix actuel: 3,916,000 Ar
-   - Variation: -191,000 Ar
+2. **BOSCH MFQ24200 CLEVERMIXX Batteur - Blanc/Inox**
+   - Prix avant: 272,000 Ar
+   - Prix actuel: 243,000 Ar
+   - Variation: -29,000 Ar
 
-3. **KETER - Coffre de rangement extérieur en résine 416 litres Gris - Malle de jardin**
-   - Prix avant: 1,821,000 Ar
-   - Prix actuel: 1,687,000 Ar
-   - Variation: -134,000 Ar
+3. **BOSCH MFQ3540 Batteur et mixeur plongeant - blanc**
+   - Prix avant: 282,000 Ar
+   - Prix actuel: 254,000 Ar
+   - Variation: -28,000 Ar
 
-4. **Dévidoir mural - GARDENA - PowerRoll - XL - P4A - Bleu - 18 V - Longueur 35 m - Tuyau 13 mm**
-   - Prix avant: 2,813,000 Ar
-   - Prix actuel: 2,699,000 Ar
-   - Variation: -114,000 Ar
+4. **Batteur électrique SEVERIN HM3830 - 5 vitesses + fonction turbo, 1 600 tours/min, 2 fouets et crochets inox**
+   - Prix avant: 233,000 Ar
+   - Prix actuel: 209,000 Ar
+   - Variation: -24,000 Ar
 
-5. **KETER - Coffre de rangement extérieur en résine 1200 litres Beige et marron - Range Poubelles ou vélo**
-   - Prix avant: 2,058,000 Ar
-   - Prix actuel: 1,962,000 Ar
-   - Variation: -96,000 Ar
+5. **Russell Hobbs 25891-56 Batteur Mixeur Swirl, 5 Vitesses, Fonction Turbo, 1 Paire de Batteurs Hélice, Pétrin, Fouets - Turquois**
+   - Prix avant: 310,000 Ar
+   - Prix actuel: 299,000 Ar
+   - Variation: -11,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Chaise d'allaitement Maxi Cosi 3 en 1**
-   - Prix avant: 518,000 Ar
-   - Prix actuel: 5,018,000 Ar
-   - Indice de prix : 968.73
+1. **BOSCH MFQ36470 ERGOMIXX Batteur - Blanc/Gris**
+   - Prix avant: 324,000 Ar
+   - Prix actuel: 322,000 Ar
+   - Indice de prix : 99.38
 
-2. **ENDURO- Déplace caravane - EM203 - 1600 kg max - 2 moteurs - 12V**
-   - Prix avant: 6,212,000 Ar
-   - Prix actuel: 7,568,000 Ar
-   - Indice de prix : 121.83
+2. **BOSCH MFQ4020 STYLINE Batteur - Blanc/Gris anthracite**
+   - Prix avant: 338,000 Ar
+   - Prix actuel: 330,000 Ar
+   - Indice de prix : 97.63
 
-3. **KETER - Coffre de rangement extérieur en résine 1200 litres Noir et gris - Range Poubelles ou vélo**
-   - Prix avant: 1,914,000 Ar
-   - Prix actuel: 1,954,000 Ar
-   - Indice de prix : 102.09
+3. **Russell Hobbs 25891-56 Batteur Mixeur Swirl, 5 Vitesses, Fonction Turbo, 1 Paire de Batteurs Hélice, Pétrin, Fouets - Turquois**
+   - Prix avant: 310,000 Ar
+   - Prix actuel: 299,000 Ar
+   - Indice de prix : 96.45
 
-4. **KETER - Coffre de rangement extérieur en résine 2000 litres Noir et gris - Abri de stockage de jardin**
-   - Prix avant: 3,899,000 Ar
-   - Prix actuel: 3,980,000 Ar
-   - Indice de prix : 102.08
+4. **BOSCH MFQ3540 Batteur et mixeur plongeant - blanc**
+   - Prix avant: 282,000 Ar
+   - Prix actuel: 254,000 Ar
+   - Indice de prix : 90.07
 
-5. **Dévidoir automatique mural GARDENA RollUp L – Longueur 30m – Ø13mm – Kit complet – Garantie 5 ans (18627-20)**
-   - Prix avant: 1,316,000 Ar
-   - Prix actuel: 1,343,000 Ar
-   - Indice de prix : 102.05
+5. **Batteur électrique SEVERIN HM3830 - 5 vitesses + fonction turbo, 1 600 tours/min, 2 fouets et crochets inox**
+   - Prix avant: 233,000 Ar
+   - Prix actuel: 209,000 Ar
+   - Indice de prix : 89.70
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Dévidoir mural - GARDENA - PowerRoll XL - P4A - Blanc - Longueur 35 m - Tuyau 13 mm**
-   - Prix avant: 2,432,000 Ar
-   - Prix actuel: 2,122,000 Ar
-   - Indice de prix : 87.25
+1. **Batteur ErgoMixx 450 W - BOSCH MFQ36400 blanc/gris - 5 vitesses+turbo - 2 fouets inox - 2 crochets pétrisseurs inox -**
+   - Prix avant: 297,000 Ar
+   - Prix actuel: 265,000 Ar
+   - Indice de prix : 89.23
 
-2. **Hydropulseur Waterpik WP-100 Ultra Blanc - 10 niveaux de pression - 6 embouts inclus**
-   - Prix avant: 598,000 Ar
-   - Prix actuel: 545,000 Ar
-   - Indice de prix : 91.14
+2. **BOSCH MFQ24200 CLEVERMIXX Batteur - Blanc/Inox**
+   - Prix avant: 272,000 Ar
+   - Prix actuel: 243,000 Ar
+   - Indice de prix : 89.34
 
-3. **SEB P4624871 Clipso Minut Eco Respect Cocotte-minute 7,5L, Autocuiseur induction, 90% recyclable, Cuisson rapide, Fabriqué en Fr**
-   - Prix avant: 969,000 Ar
-   - Prix actuel: 887,000 Ar
-   - Indice de prix : 91.54
+3. **Batteur électrique SEVERIN HM3830 - 5 vitesses + fonction turbo, 1 600 tours/min, 2 fouets et crochets inox**
+   - Prix avant: 233,000 Ar
+   - Prix actuel: 209,000 Ar
+   - Indice de prix : 89.70
 
-4. **KETER - Coffre de rangement extérieur en résine 416 litres Gris - Malle de jardin**
-   - Prix avant: 1,821,000 Ar
-   - Prix actuel: 1,687,000 Ar
-   - Indice de prix : 92.64
+4. **BOSCH MFQ3540 Batteur et mixeur plongeant - blanc**
+   - Prix avant: 282,000 Ar
+   - Prix actuel: 254,000 Ar
+   - Indice de prix : 90.07
 
-5. **Dévidoir métal sur roues CleverRoll L Easy GARDENA - Longueur max 100m - Pour grand jardin - Garantie 5 ans**
-   - Prix avant: 1,179,000 Ar
-   - Prix actuel: 1,099,000 Ar
-   - Indice de prix : 93.21
+5. **Russell Hobbs 25891-56 Batteur Mixeur Swirl, 5 Vitesses, Fonction Turbo, 1 Paire de Batteurs Hélice, Pétrin, Fouets - Turquois**
+   - Prix avant: 310,000 Ar
+   - Prix actuel: 299,000 Ar
+   - Indice de prix : 96.45
 

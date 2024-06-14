@@ -1,20 +1,62 @@
 {
   "Variation de prix": [
     {
-      "cle": "deodorants_13870deodorantcologne200mltopbudget_html",
-      "name": "D\u00e9odorant fra\u00eecheur cologne 200ml",
-      "prix_base": 9200,
-      "prix_comparaison": 7500,
-      "variation": -1700
+      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
+      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
+      "prix_base": 394000,
+      "prix_comparaison": 368000,
+      "variation": -26000
+    },
+    {
+      "cle": "soufflesextrudes_5725chipscremeoignon_html",
+      "name": "Tchin Chips cr\u00e8me oignon 100g",
+      "prix_base": 590,
+      "prix_comparaison": 550,
+      "variation": -40
+    },
+    {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 5687000,
+      "prix_comparaison": 6165000,
+      "variation": 478000
+    },
+    {
+      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 7462000,
+      "prix_comparaison": 8089000,
+      "variation": 627000
     }
   ],
   "indice de prix": [
     {
-      "cle": "deodorants_13870deodorantcologne200mltopbudget_html",
-      "name": "D\u00e9odorant fra\u00eecheur cologne 200ml",
-      "prix_base": 9200,
-      "prix_comparaison": 7500,
-      "indice_prix": 81.52173913043478
+      "cle": "soufflesextrudes_5725chipscremeoignon_html",
+      "name": "Tchin Chips cr\u00e8me oignon 100g",
+      "prix_base": 590,
+      "prix_comparaison": 550,
+      "indice_prix": 93.22033898305085
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
+      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
+      "prix_base": 394000,
+      "prix_comparaison": 368000,
+      "indice_prix": 93.4010152284264
+    },
+    {
+      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 7462000,
+      "prix_comparaison": 8089000,
+      "indice_prix": 108.40257303671937
+    },
+    {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 5687000,
+      "prix_comparaison": 6165000,
+      "indice_prix": 108.4051345173202
     }
   ]
 }
