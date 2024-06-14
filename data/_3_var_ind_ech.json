@@ -1,30 +1,94 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge625ml_",
+      "name": "Sauce de soja dark aux champignons red river bridge 625ml",
+      "prix_base": 10260,
+      "prix_comparaison": 13900,
+      "variation": 3640
+    },
+    {
+      "cle": "produit_oeufsvolaille65g_",
+      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
+      "prix_base": 11740,
+      "prix_comparaison": 13440,
+      "variation": 1700
+    },
+    {
+      "cle": "produit_bouquetdeciboulettefraiche_",
+      "name": "Ciboulette Fraiche 20g",
+      "prix_base": 267,
+      "prix_comparaison": 400,
+      "variation": 133
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_spiralemacaronirossini500gpates_",
-      "name": "Spirale Macaroni  Rossini\u2122 500g | P\u00e2tes",
-      "prix_base": 4420,
-      "prix_comparaison": 2558,
-      "variation": -1862
+      "cle": "produit_bouquetdeciboulettefraiche_",
+      "name": "Ciboulette Fraiche 20g",
+      "prix_base": 267,
+      "prix_comparaison": 400,
+      "variation": 133
+    },
+    {
+      "cle": "produit_oeufsvolaille65g_",
+      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
+      "prix_base": 11740,
+      "prix_comparaison": 13440,
+      "variation": 1700
+    },
+    {
+      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge625ml_",
+      "name": "Sauce de soja dark aux champignons red river bridge 625ml",
+      "prix_base": 10260,
+      "prix_comparaison": 13900,
+      "variation": 3640
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_spiralemacaronirossini500gpates_",
-      "name": "Spirale Macaroni  Rossini\u2122 500g | P\u00e2tes",
-      "prix_base": 4420,
-      "prix_comparaison": 2558,
-      "indice_prix": 57.873303167420815
+      "cle": "produit_bouquetdeciboulettefraiche_",
+      "name": "Ciboulette Fraiche 20g",
+      "prix_base": 267,
+      "prix_comparaison": 400,
+      "indice_prix": 149.81273408239701
+    },
+    {
+      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge625ml_",
+      "name": "Sauce de soja dark aux champignons red river bridge 625ml",
+      "prix_base": 10260,
+      "prix_comparaison": 13900,
+      "indice_prix": 135.4775828460039
+    },
+    {
+      "cle": "produit_oeufsvolaille65g_",
+      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
+      "prix_base": 11740,
+      "prix_comparaison": 13440,
+      "indice_prix": 114.48040885860307
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_spiralemacaronirossini500gpates_",
-      "name": "Spirale Macaroni  Rossini\u2122 500g | P\u00e2tes",
-      "prix_base": 4420,
-      "prix_comparaison": 2558,
-      "indice_prix": 57.873303167420815
+      "cle": "produit_oeufsvolaille65g_",
+      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
+      "prix_base": 11740,
+      "prix_comparaison": 13440,
+      "indice_prix": 114.48040885860307
+    },
+    {
+      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge625ml_",
+      "name": "Sauce de soja dark aux champignons red river bridge 625ml",
+      "prix_base": 10260,
+      "prix_comparaison": 13900,
+      "indice_prix": 135.4775828460039
+    },
+    {
+      "cle": "produit_bouquetdeciboulettefraiche_",
+      "name": "Ciboulette Fraiche 20g",
+      "prix_base": 267,
+      "prix_comparaison": 400,
+      "indice_prix": 149.81273408239701
     }
   ]
 }

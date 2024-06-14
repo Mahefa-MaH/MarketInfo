@@ -6,66 +6,24 @@
       "prix_base": 7462000,
       "prix_comparaison": 8089000,
       "variation": 627000
-    },
-    {
-      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 6494000,
-      "prix_comparaison": 7046000,
-      "variation": 552000
-    },
-    {
-      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 5687000,
-      "prix_comparaison": 6165000,
-      "variation": 478000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ordinateursportables_14649pcportablehp15fc0071nf156fhdryzen57520uram16gostockage512gossdwindows11azerty_html",
-      "name": "PC Portable HP 15-fc0071nf - 15,6 FHD - Ryzen 5-7520U - RAM 16Go - Stockage 512Go SSD - Windows 11 - AZERTY",
-      "prix_base": 3141000,
-      "prix_comparaison": 2918000,
-      "variation": -223000
-    },
-    {
-      "cle": "televiseursetsupports_14839tcl40sf540tvled40101cmfullhd1980x1080tvconnectefiretvhdr2xhdmi_html",
-      "name": "TCL 40SF540 - TV LED 40 (101 cm) - Full HD 1980 x 1080 - TV connect\u00e9 FIRE TV - HDR - 2 x HDMI",
-      "prix_base": 1894000,
-      "prix_comparaison": 1692000,
-      "variation": -202000
-    },
-    {
-      "cle": "televiseursetsupports_14605tvqledtcl43c64143109cm4k3xhdmi21_html",
-      "name": "TV QLED TCL 43C641 - 43'' (109 cm) - 4K - 3 x HDMI 2.1",
-      "prix_base": 2535000,
-      "prix_comparaison": 2367000,
-      "variation": -168000
+      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 5322000,
+      "prix_comparaison": 4598000,
+      "variation": -724000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "rasagehomme_14001remingtonhc5810coffretcheveuxtondeusecheveuxhommelamesautoaffuteesadvancedceramicmoteurpropuissant_html",
-      "name": "Remington HC5810 Coffret Cheveux, Tondeuse Cheveux Homme,Lames Auto-Aff\u00fbt\u00e9es Advanced Ceramic, Moteur Pro Puissant",
-      "prix_base": 315000,
-      "prix_comparaison": 346000,
-      "indice_prix": 109.84126984126983
-    },
-    {
-      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 6494000,
-      "prix_comparaison": 7046000,
-      "indice_prix": 108.50015398829689
-    },
-    {
-      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 5687000,
-      "prix_comparaison": 6165000,
-      "indice_prix": 108.4051345173202
+      "cle": "balanceelectronique_14187continentaledisonbalanceculinairekt5b3avecboleninox_html",
+      "name": "Balance culinaire KT5B3 avec bol en Inox",
+      "prix_base": 107000,
+      "prix_comparaison": 119000,
+      "indice_prix": 111.21495327102804
     }
   ],
   "indices_prix_plus_faibles": [
@@ -75,20 +33,6 @@
       "prix_base": 148000,
       "prix_comparaison": 111000,
       "indice_prix": 75.0
-    },
-    {
-      "cle": "aidesalapatisserie_11165levurechimiquep20_html",
-      "name": "Levure chimique p20",
-      "prix_base": 350,
-      "prix_comparaison": 290,
-      "indice_prix": 82.85714285714286
-    },
-    {
-      "cle": "barbecueplancha_14015planchaxxlcontinentaledisoncegpl872_html",
-      "name": "Plancha XXL CONTINENTAL EDISON CEGPL872",
-      "prix_base": 425000,
-      "prix_comparaison": 355000,
-      "indice_prix": 83.52941176470588
     }
   ]
 }
