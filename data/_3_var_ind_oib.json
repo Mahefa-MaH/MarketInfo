@@ -6,6 +6,13 @@
       "prix_base": 7462000,
       "prix_comparaison": 8089000,
       "variation": 627000
+    },
+    {
+      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 6494000,
+      "prix_comparaison": 7046000,
+      "variation": 552000
     }
   ],
   "prix_diminues": [
@@ -15,6 +22,13 @@
       "prix_base": 5322000,
       "prix_comparaison": 4598000,
       "variation": -724000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5436000,
+      "prix_comparaison": 5212000,
+      "variation": -224000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +38,13 @@
       "prix_base": 107000,
       "prix_comparaison": 119000,
       "indice_prix": 111.21495327102804
+    },
+    {
+      "cle": "rasagehomme_14001remingtonhc5810coffretcheveuxtondeusecheveuxhommelamesautoaffuteesadvancedceramicmoteurpropuissant_html",
+      "name": "Remington HC5810 Coffret Cheveux, Tondeuse Cheveux Homme,Lames Auto-Aff\u00fbt\u00e9es Advanced Ceramic, Moteur Pro Puissant",
+      "prix_base": 315000,
+      "prix_comparaison": 346000,
+      "indice_prix": 109.84126984126983
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +54,13 @@
       "prix_base": 148000,
       "prix_comparaison": 111000,
       "indice_prix": 75.0
+    },
+    {
+      "cle": "aidesalapatisserie_11165levurechimiquep20_html",
+      "name": "Levure chimique p20",
+      "prix_base": 350,
+      "prix_comparaison": 290,
+      "indice_prix": 82.85714285714286
     }
   ]
 }

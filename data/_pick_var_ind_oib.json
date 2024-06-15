@@ -1,6 +1,48 @@
 {
   "Variation de prix": [
     {
+      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 5322000,
+      "prix_comparaison": 4598000,
+      "variation": -724000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5436000,
+      "prix_comparaison": 5212000,
+      "variation": -224000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4380000,
+      "prix_comparaison": 4243000,
+      "variation": -137000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2122000,
+      "prix_comparaison": 2087000,
+      "variation": -35000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2122000,
+      "prix_comparaison": 2087000,
+      "variation": -35000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
+      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2158000,
+      "prix_comparaison": 2123000,
+      "variation": -35000
+    },
+    {
       "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
       "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
       "prix_base": 394000,
@@ -13,6 +55,13 @@
       "prix_base": 590,
       "prix_comparaison": 550,
       "variation": -40
+    },
+    {
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 4357000,
+      "prix_comparaison": 4474000,
+      "variation": 117000
     },
     {
       "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
@@ -31,6 +80,13 @@
   ],
   "indice de prix": [
     {
+      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 5322000,
+      "prix_comparaison": 4598000,
+      "indice_prix": 86.39609169485156
+    },
+    {
       "cle": "soufflesextrudes_5725chipscremeoignon_html",
       "name": "Tchin Chips cr\u00e8me oignon 100g",
       "prix_base": 590,
@@ -43,6 +99,48 @@
       "prix_base": 394000,
       "prix_comparaison": 368000,
       "indice_prix": 93.4010152284264
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5436000,
+      "prix_comparaison": 5212000,
+      "indice_prix": 95.87932303164091
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4380000,
+      "prix_comparaison": 4243000,
+      "indice_prix": 96.87214611872146
+    },
+    {
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2122000,
+      "prix_comparaison": 2087000,
+      "indice_prix": 98.35061262959472
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2122000,
+      "prix_comparaison": 2087000,
+      "indice_prix": 98.35061262959472
+    },
+    {
+      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
+      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
+      "prix_base": 2158000,
+      "prix_comparaison": 2123000,
+      "indice_prix": 98.37812789620018
+    },
+    {
+      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
+      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
+      "prix_base": 4357000,
+      "prix_comparaison": 4474000,
+      "indice_prix": 102.68533394537526
     },
     {
       "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
