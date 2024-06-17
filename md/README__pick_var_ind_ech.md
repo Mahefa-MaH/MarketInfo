@@ -2,47 +2,67 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
-   - Prix avant: 210,500 Ar
-   - Prix actuel: 187,900 Ar
-   - Variation: -22,600 Ar
+1. **Gaufrette Frego Chocolat Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
+   - Prix avant: 1,040 Ar
+   - Prix actuel: 1,282 Ar
+   - Variation: +242 Ar
 
-2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
-   - Prix avant: 106,250 Ar
-   - Prix actuel: 94,950 Ar
-   - Variation: -11,300 Ar
+2. **Gaufrette Frego Fraise Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
+   - Prix avant: 1,040 Ar
+   - Prix actuel: 1,282 Ar
+   - Variation: +242 Ar
 
-3. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
-   - Prix avant: 21,750 Ar
-   - Prix actuel: 19,490 Ar
-   - Variation: -2,260 Ar
+3. **Galettess de riz 300grs 16cm 60% riz**
+   - Prix avant: 10,260 Ar
+   - Prix actuel: 11,025 Ar
+   - Variation: +765 Ar
 
-4. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
-   - Prix avant: 4,170 Ar
-   - Prix actuel: 3,718 Ar
-   - Variation: -452 Ar
+4. **Pack de 6 Gaufrette Frego assorti Gouty™ | Gaufrettes à la crème onctueuse**
+   - Prix avant: 6,240 Ar
+   - Prix actuel: 7,208 Ar
+   - Variation: +968 Ar
+
+5. **Lait concentré sucré Socolait™ 390g | Riche en vitamines**
+   - Prix avant: 6,000 Ar
+   - Prix actuel: 7,051 Ar
+   - Variation: +1,051 Ar
+
+6. **Mini Chorizo Apéro environ 500g LeaderPrice™**
+   - Prix avant: 53,430 Ar
+   - Prix actuel: 54,890 Ar
+   - Variation: +1,460 Ar
 
 
 
 ## Indice de prix
 
-1. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
-   - Prix avant: 4,170 Ar
-   - Prix actuel: 3,718 Ar
-   - Indice de prix : 89.16
+1. **Mini Chorizo Apéro environ 500g LeaderPrice™**
+   - Prix avant: 53,430 Ar
+   - Prix actuel: 54,890 Ar
+   - Indice de prix : 102.73
 
-2. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
-   - Prix avant: 210,500 Ar
-   - Prix actuel: 187,900 Ar
-   - Indice de prix : 89.26
+2. **Galettess de riz 300grs 16cm 60% riz**
+   - Prix avant: 10,260 Ar
+   - Prix actuel: 11,025 Ar
+   - Indice de prix : 107.46
 
-3. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
-   - Prix avant: 106,250 Ar
-   - Prix actuel: 94,950 Ar
-   - Indice de prix : 89.36
+3. **Pack de 6 Gaufrette Frego assorti Gouty™ | Gaufrettes à la crème onctueuse**
+   - Prix avant: 6,240 Ar
+   - Prix actuel: 7,208 Ar
+   - Indice de prix : 115.51
 
-4. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
-   - Prix avant: 21,750 Ar
-   - Prix actuel: 19,490 Ar
-   - Indice de prix : 89.61
+4. **Lait concentré sucré Socolait™ 390g | Riche en vitamines**
+   - Prix avant: 6,000 Ar
+   - Prix actuel: 7,051 Ar
+   - Indice de prix : 117.52
+
+5. **Gaufrette Frego Chocolat Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
+   - Prix avant: 1,040 Ar
+   - Prix actuel: 1,282 Ar
+   - Indice de prix : 123.27
+
+6. **Gaufrette Frego Fraise Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
+   - Prix avant: 1,040 Ar
+   - Prix actuel: 1,282 Ar
+   - Indice de prix : 123.27
 

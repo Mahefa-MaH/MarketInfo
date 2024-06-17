@@ -1,62 +1,90 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 210500,
-      "prix_comparaison": 187900,
-      "variation": -22600
+      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 1040,
+      "prix_comparaison": 1282,
+      "variation": 242
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 106250,
-      "prix_comparaison": 94950,
-      "variation": -11300
+      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 1040,
+      "prix_comparaison": 1282,
+      "variation": 242
     },
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 21750,
-      "prix_comparaison": 19490,
-      "variation": -2260
+      "cle": "produit_galettessderiz300grs16cm60riz_",
+      "name": "Galettess de riz 300grs 16cm 60% riz",
+      "prix_base": 10260,
+      "prix_comparaison": 11025,
+      "variation": 765
     },
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 4170,
-      "prix_comparaison": 3718,
-      "variation": -452
+      "cle": "produit_6gaufrettefregoassort_",
+      "name": "Pack de 6 Gaufrette Frego assorti Gouty\u2122 | Gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 6240,
+      "prix_comparaison": 7208,
+      "variation": 968
+    },
+    {
+      "cle": "produit_laitconcentresucresocolait390g_",
+      "name": "Lait concentr\u00e9 sucr\u00e9 Socolait\u2122 390g | Riche en vitamines",
+      "prix_base": 6000,
+      "prix_comparaison": 7051,
+      "variation": 1051
+    },
+    {
+      "cle": "produit_minichorizoaperoenvironenviron500g_",
+      "name": "Mini Chorizo Ap\u00e9ro environ 500g LeaderPrice\u2122",
+      "prix_base": 53430,
+      "prix_comparaison": 54890,
+      "variation": 1460
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 4170,
-      "prix_comparaison": 3718,
-      "indice_prix": 89.16067146282974
+      "cle": "produit_minichorizoaperoenvironenviron500g_",
+      "name": "Mini Chorizo Ap\u00e9ro environ 500g LeaderPrice\u2122",
+      "prix_base": 53430,
+      "prix_comparaison": 54890,
+      "indice_prix": 102.7325472580947
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 210500,
-      "prix_comparaison": 187900,
-      "indice_prix": 89.26365795724466
+      "cle": "produit_galettessderiz300grs16cm60riz_",
+      "name": "Galettess de riz 300grs 16cm 60% riz",
+      "prix_base": 10260,
+      "prix_comparaison": 11025,
+      "indice_prix": 107.45614035087719
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 106250,
-      "prix_comparaison": 94950,
-      "indice_prix": 89.36470588235294
+      "cle": "produit_6gaufrettefregoassort_",
+      "name": "Pack de 6 Gaufrette Frego assorti Gouty\u2122 | Gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 6240,
+      "prix_comparaison": 7208,
+      "indice_prix": 115.51282051282051
     },
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 21750,
-      "prix_comparaison": 19490,
-      "indice_prix": 89.60919540229885
+      "cle": "produit_laitconcentresucresocolait390g_",
+      "name": "Lait concentr\u00e9 sucr\u00e9 Socolait\u2122 390g | Riche en vitamines",
+      "prix_base": 6000,
+      "prix_comparaison": 7051,
+      "indice_prix": 117.51666666666667
+    },
+    {
+      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 1040,
+      "prix_comparaison": 1282,
+      "indice_prix": 123.26923076923077
+    },
+    {
+      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 1040,
+      "prix_comparaison": 1282,
+      "indice_prix": 123.26923076923077
     }
   ]
 }
