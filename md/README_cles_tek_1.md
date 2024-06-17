@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre Blanc 1 Kg**
-   - Prix avant: 13,700 Ar
-   - Prix actuel: 13,700 Ar
+3. **Sucrettes blanches  50 g**
+   - Prix avant: 7,000 Ar
+   - Prix actuel: 7,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

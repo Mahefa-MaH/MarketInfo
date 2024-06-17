@@ -1,94 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge625ml_",
-      "name": "Sauce de soja dark aux champignons red river bridge 625ml",
-      "prix_base": 10260,
-      "prix_comparaison": 13900,
-      "variation": 3640
+      "cle": "produit_tsatsiouenviron500g_",
+      "name": "Tsa Tsiou environ 500g LeaderPrice\u2122",
+      "prix_base": 41300,
+      "prix_comparaison": 49290,
+      "variation": 7990
     },
     {
-      "cle": "produit_oeufsvolaille65g_",
-      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
-      "prix_base": 11740,
-      "prix_comparaison": 13440,
-      "variation": 1700
+      "cle": "produit_biscuitsgouterfvanillex16bn295g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9sVanille x16 BN 295g",
+      "prix_base": 17540,
+      "prix_comparaison": 22038,
+      "variation": 4498
     },
     {
-      "cle": "produit_bouquetdeciboulettefraiche_",
-      "name": "Ciboulette Fraiche 20g",
-      "prix_base": 267,
-      "prix_comparaison": 400,
-      "variation": 133
+      "cle": "produit_chocolatlait45menakao75g_",
+      "name": "Chocolat Lait 45% Menakao\u2122 75g",
+      "prix_base": 11200,
+      "prix_comparaison": 14590,
+      "variation": 3390
+    },
+    {
+      "cle": "produit_patesbarilla500grn65farfalle_",
+      "name": "P\u00e2tes Barilla 500gr. n\u00b065 Farfalle",
+      "prix_base": 16330,
+      "prix_comparaison": 19487,
+      "variation": 3157
+    },
+    {
+      "cle": "produit_chipolatas1kg_",
+      "name": "Saucisse Chipolatas | 500g \u2013 viandes de Porc et de Boeuf",
+      "prix_base": 16667,
+      "prix_comparaison": 19121,
+      "variation": 2454
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_bouquetdeciboulettefraiche_",
-      "name": "Ciboulette Fraiche 20g",
-      "prix_base": 267,
-      "prix_comparaison": 400,
+      "cle": "produit_mortadellepurporc200g_",
+      "name": "Mortadelle pur Porc 200g |  Lewis\u2122",
+      "prix_base": 7840,
+      "prix_comparaison": 7973,
       "variation": 133
     },
     {
-      "cle": "produit_oeufsvolaille65g_",
-      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
-      "prix_base": 11740,
-      "prix_comparaison": 13440,
-      "variation": 1700
+      "cle": "produit_yao250ml_",
+      "name": "YAO 250ml",
+      "prix_base": 2820,
+      "prix_comparaison": 3000,
+      "variation": 180
     },
     {
-      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge625ml_",
-      "name": "Sauce de soja dark aux champignons red river bridge 625ml",
-      "prix_base": 10260,
-      "prix_comparaison": 13900,
-      "variation": 3640
+      "cle": "produit_biscuitsgoutycookiesauxjbpepitesdechocolatsaveur22g_",
+      "name": "Biscuits Gouty Cookies Aux  P\u00e9pites de Chocolat  Jb\u2122 22g",
+      "prix_base": 1040,
+      "prix_comparaison": 1280,
+      "variation": 240
+    },
+    {
+      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 1040,
+      "prix_comparaison": 1282,
+      "variation": 242
+    },
+    {
+      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 1040,
+      "prix_comparaison": 1282,
+      "variation": 242
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_bouquetdeciboulettefraiche_",
-      "name": "Ciboulette Fraiche 20g",
-      "prix_base": 267,
-      "prix_comparaison": 400,
-      "indice_prix": 149.81273408239701
+      "cle": "produit_chocolatlait45menakao75g_",
+      "name": "Chocolat Lait 45% Menakao\u2122 75g",
+      "prix_base": 11200,
+      "prix_comparaison": 14590,
+      "indice_prix": 130.26785714285714
     },
     {
-      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge625ml_",
-      "name": "Sauce de soja dark aux champignons red river bridge 625ml",
-      "prix_base": 10260,
-      "prix_comparaison": 13900,
-      "indice_prix": 135.4775828460039
+      "cle": "produit_biscuitsgouterfvanillex16bn295g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9sVanille x16 BN 295g",
+      "prix_base": 17540,
+      "prix_comparaison": 22038,
+      "indice_prix": 125.6442417331813
     },
     {
-      "cle": "produit_oeufsvolaille65g_",
-      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
-      "prix_base": 11740,
-      "prix_comparaison": 13440,
-      "indice_prix": 114.48040885860307
+      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 1040,
+      "prix_comparaison": 1282,
+      "indice_prix": 123.26923076923077
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_oeufsvolaille65g_",
-      "name": "Oeuf de volaille Vonjy\u2122 Pack de 12",
-      "prix_base": 11740,
-      "prix_comparaison": 13440,
-      "indice_prix": 114.48040885860307
+      "cle": "produit_mortadellepurporc200g_",
+      "name": "Mortadelle pur Porc 200g |  Lewis\u2122",
+      "prix_base": 7840,
+      "prix_comparaison": 7973,
+      "indice_prix": 101.69642857142857
     },
     {
-      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge625ml_",
-      "name": "Sauce de soja dark aux champignons red river bridge 625ml",
-      "prix_base": 10260,
-      "prix_comparaison": 13900,
-      "indice_prix": 135.4775828460039
+      "cle": "produit_minichorizoaperoenvironenviron500g_",
+      "name": "Mini Chorizo Ap\u00e9ro environ 500g LeaderPrice\u2122",
+      "prix_base": 53430,
+      "prix_comparaison": 54890,
+      "indice_prix": 102.7325472580947
     },
     {
-      "cle": "produit_bouquetdeciboulettefraiche_",
-      "name": "Ciboulette Fraiche 20g",
-      "prix_base": 267,
-      "prix_comparaison": 400,
-      "indice_prix": 149.81273408239701
+      "cle": "produit_cookiesfortenchocolatpaq200g_",
+      "name": "Cookies Fort En Chocolat Paq 200g",
+      "prix_base": 15330,
+      "prix_comparaison": 15990,
+      "indice_prix": 104.30528375733856
     }
   ]
 }
