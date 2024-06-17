@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "sucres_13875sucreblancenmorceaux1kgtopbudget_html",
-      "name": "Sucre blanc en morceaux 1kg",
-      "prix_base": 13900,
-      "prix_comparaison": 13900,
+      "cle": "riz_7474rizrougecomplet5kg_html",
+      "name": "Riz rouge complet 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "sucres_13804sucreenpoudre1kg_html",
-      "name": "Sucre blanc en poudre 1kg",
-      "prix_base": 11500,
-      "prix_comparaison": 11500,
+      "cle": "huiles_8994huiledesoja1l_html",
+      "name": "Huile de soja 1L",
+      "prix_base": 15900,
+      "prix_comparaison": 15900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "sucres_7228sucreblanc1kg_html",
-      "name": "Sucre blanc cristallis\u00e9 1kg",
-      "prix_base": 8600,
-      "prix_comparaison": 8600,
+      "cle": "huiles_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 8900,
       "variation": 0,
       "indice_prix": 100.0
     }

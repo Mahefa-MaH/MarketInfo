@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "farinecerealepetitdejeuner_919kobaainanature35g_html",
-      "name": "Koba aina nature 35g",
-      "prix_base": 590,
-      "prix_comparaison": 550,
-      "variation": -40
+      "cle": "beurres_2113beurredouxsocolait200g_html",
+      "name": "Beurre doux Socolait 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 13500,
+      "variation": 1600
+    },
+    {
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 13500,
+      "variation": 1600
     }
   ],
   "prix_diminues": [
     {
-      "cle": "farinecerealepetitdejeuner_919kobaainanature35g_html",
-      "name": "Koba aina nature 35g",
-      "prix_base": 590,
-      "prix_comparaison": 550,
-      "variation": -40
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 13500,
+      "variation": 1600
+    },
+    {
+      "cle": "beurres_2113beurredouxsocolait200g_html",
+      "name": "Beurre doux Socolait 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 13500,
+      "variation": 1600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "farinecerealepetitdejeuner_919kobaainanature35g_html",
-      "name": "Koba aina nature 35g",
-      "prix_base": 590,
-      "prix_comparaison": 550,
-      "indice_prix": 93.22033898305085
+      "cle": "beurres_2113beurredouxsocolait200g_html",
+      "name": "Beurre doux Socolait 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 13500,
+      "indice_prix": 113.4453781512605
+    },
+    {
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 13500,
+      "indice_prix": 113.4453781512605
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "farinecerealepetitdejeuner_919kobaainanature35g_html",
-      "name": "Koba aina nature 35g",
-      "prix_base": 590,
-      "prix_comparaison": 550,
-      "indice_prix": 93.22033898305085
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 13500,
+      "indice_prix": 113.4453781512605
+    },
+    {
+      "cle": "beurres_2113beurredouxsocolait200g_html",
+      "name": "Beurre doux Socolait 200g",
+      "prix_base": 11900,
+      "prix_comparaison": 13500,
+      "indice_prix": 113.4453781512605
     }
   ]
 }
