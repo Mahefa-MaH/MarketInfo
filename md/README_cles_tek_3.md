@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
-   - Prix avant: 192,000 Ar
-   - Prix actuel: 192,000 Ar
+2. **Sucre Blanc 250 g**
+   - Prix avant: 3,100 Ar
+   - Prix actuel: 3,100 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
-   - Prix avant: 198,000 Ar
-   - Prix actuel: 198,000 Ar
+3. **Riz blanc parfumé 5 kg**
+   - Prix avant: 40,800 Ar
+   - Prix actuel: 40,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

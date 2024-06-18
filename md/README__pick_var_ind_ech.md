@@ -12,56 +12,16 @@
    - Prix actuel: 1,282 Ar
    - Variation: +242 Ar
 
-3. **Galettess de riz 300grs 16cm 60% riz**
-   - Prix avant: 10,260 Ar
-   - Prix actuel: 11,025 Ar
-   - Variation: +765 Ar
-
-4. **Pack de 6 Gaufrette Frego assorti Gouty™ | Gaufrettes à la crème onctueuse**
-   - Prix avant: 6,240 Ar
-   - Prix actuel: 7,208 Ar
-   - Variation: +968 Ar
-
-5. **Lait concentré sucré Socolait™ 390g | Riche en vitamines**
-   - Prix avant: 6,000 Ar
-   - Prix actuel: 7,051 Ar
-   - Variation: +1,051 Ar
-
-6. **Mini Chorizo Apéro environ 500g LeaderPrice™**
-   - Prix avant: 53,430 Ar
-   - Prix actuel: 54,890 Ar
-   - Variation: +1,460 Ar
-
 
 
 ## Indice de prix
 
-1. **Mini Chorizo Apéro environ 500g LeaderPrice™**
-   - Prix avant: 53,430 Ar
-   - Prix actuel: 54,890 Ar
-   - Indice de prix : 102.73
-
-2. **Galettess de riz 300grs 16cm 60% riz**
-   - Prix avant: 10,260 Ar
-   - Prix actuel: 11,025 Ar
-   - Indice de prix : 107.46
-
-3. **Pack de 6 Gaufrette Frego assorti Gouty™ | Gaufrettes à la crème onctueuse**
-   - Prix avant: 6,240 Ar
-   - Prix actuel: 7,208 Ar
-   - Indice de prix : 115.51
-
-4. **Lait concentré sucré Socolait™ 390g | Riche en vitamines**
-   - Prix avant: 6,000 Ar
-   - Prix actuel: 7,051 Ar
-   - Indice de prix : 117.52
-
-5. **Gaufrette Frego Chocolat Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
+1. **Gaufrette Frego Chocolat Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
    - Prix avant: 1,040 Ar
    - Prix actuel: 1,282 Ar
    - Indice de prix : 123.27
 
-6. **Gaufrette Frego Fraise Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
+2. **Gaufrette Frego Fraise Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
    - Prix avant: 1,040 Ar
    - Prix actuel: 1,282 Ar
    - Indice de prix : 123.27

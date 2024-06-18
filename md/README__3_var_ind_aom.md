@@ -2,109 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **BOSCH MFQ36470 ERGOMIXX Batteur - Blanc/Gris**
-   - Prix avant: 324,000 Ar
-   - Prix actuel: 322,000 Ar
-   - Variation: -2,000 Ar
+1. **Chaise de jardin FLORA ARETA - Blanc - Lot de 4 - 52 x 46 x H 86 cm - Utilisation domestique et collective**
+   - Prix avant: 1,052,000 Ar
+   - Prix actuel: 1,201,000 Ar
+   - Variation: +149,000 Ar
 
-2. **BOSCH MFQ4020 STYLINE Batteur - Blanc/Gris anthracite**
-   - Prix avant: 338,000 Ar
-   - Prix actuel: 330,000 Ar
-   - Variation: -8,000 Ar
+2. **Table 5 foyers CONTINENTAL EDISON - Gaz dont 1 triple couronne inox**
+   - Prix avant: 1,038,000 Ar
+   - Prix actuel: 1,110,000 Ar
+   - Variation: +72,000 Ar
 
-3. **Russell Hobbs 25891-56 Batteur Mixeur Swirl, 5 Vitesses, Fonction Turbo, 1 Paire de Batteurs Hélice, Pétrin, Fouets - Turquois**
-   - Prix avant: 310,000 Ar
-   - Prix actuel: 299,000 Ar
-   - Variation: -11,000 Ar
+3. **Hotte décorative noire CONTINENTAL EDISON CEHD6065B - L60 cm**
+   - Prix avant: 1,110,000 Ar
+   - Prix actuel: 1,181,000 Ar
+   - Variation: +71,000 Ar
 
-4. **Batteur électrique SEVERIN HM3830 - 5 vitesses + fonction turbo, 1 600 tours/min, 2 fouets et crochets inox**
-   - Prix avant: 233,000 Ar
-   - Prix actuel: 209,000 Ar
-   - Variation: -24,000 Ar
+4. **BESTWAY Piscine hors sol Power Steel™ 412 x 201 x 122 cm, filtre a cartouche, échelle, diffuseur Chemconnect™**
+   - Prix avant: 2,630,000 Ar
+   - Prix actuel: 2,690,000 Ar
+   - Variation: +60,000 Ar
 
-5. **BOSCH MFQ3540 Batteur et mixeur plongeant - blanc**
-   - Prix avant: 282,000 Ar
-   - Prix actuel: 254,000 Ar
-   - Variation: -28,000 Ar
+5. **Balayeuse mécanique S 4 Twin KARCHER - Jaune et noir - Bac de 20 L**
+   - Prix avant: 892,000 Ar
+   - Prix actuel: 941,000 Ar
+   - Variation: +49,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Batteur ErgoMixx 450 W - BOSCH MFQ36400 blanc/gris - 5 vitesses+turbo - 2 fouets inox - 2 crochets pétrisseurs inox -**
-   - Prix avant: 297,000 Ar
-   - Prix actuel: 265,000 Ar
-   - Variation: -32,000 Ar
+1. **BESTWAY Spa gonflable Lay-Z-Spa St Moritz, 5 / 7 places, diametre 216 x 71 cm, 180 jets d'air**
+   - Prix avant: 5,085,000 Ar
+   - Prix actuel: 4,773,000 Ar
+   - Variation: -312,000 Ar
 
-2. **BOSCH MFQ24200 CLEVERMIXX Batteur - Blanc/Inox**
-   - Prix avant: 272,000 Ar
-   - Prix actuel: 243,000 Ar
-   - Variation: -29,000 Ar
+2. **Micro-ondes encastrable monofonction NEFF HLAGD53N0 4242004222804 - Noir - 25 L - 900 W**
+   - Prix avant: 2,808,000 Ar
+   - Prix actuel: 2,541,000 Ar
+   - Variation: -267,000 Ar
 
-3. **BOSCH MFQ3540 Batteur et mixeur plongeant - blanc**
-   - Prix avant: 282,000 Ar
-   - Prix actuel: 254,000 Ar
-   - Variation: -28,000 Ar
+3. **Barbecue a charbon LANDMANN - Black Taurus 660 - Grille en acier émaillé - Surface de cuisson : 66 x 36 cm - Noir**
+   - Prix avant: 1,687,000 Ar
+   - Prix actuel: 1,474,000 Ar
+   - Variation: -213,000 Ar
 
-4. **Batteur électrique SEVERIN HM3830 - 5 vitesses + fonction turbo, 1 600 tours/min, 2 fouets et crochets inox**
-   - Prix avant: 233,000 Ar
-   - Prix actuel: 209,000 Ar
-   - Variation: -24,000 Ar
+4. **Barbecue a charbon WEBER Original Kettle E-4710 - Acier émailé - Diametre 47cm - Thermometre intégré au couvercle - Systeme**
+   - Prix avant: 1,317,000 Ar
+   - Prix actuel: 1,157,000 Ar
+   - Variation: -160,000 Ar
 
-5. **Russell Hobbs 25891-56 Batteur Mixeur Swirl, 5 Vitesses, Fonction Turbo, 1 Paire de Batteurs Hélice, Pétrin, Fouets - Turquois**
-   - Prix avant: 310,000 Ar
-   - Prix actuel: 299,000 Ar
-   - Variation: -11,000 Ar
+5. **BLACK+DECKER Tronçonneuse 40 cm 1800 W CS1840-QS - Tendeur De Chaîne Avec Clé**
+   - Prix avant: 1,170,000 Ar
+   - Prix actuel: 1,029,000 Ar
+   - Variation: -141,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **BOSCH MFQ36470 ERGOMIXX Batteur - Blanc/Gris**
-   - Prix avant: 324,000 Ar
-   - Prix actuel: 322,000 Ar
-   - Indice de prix : 99.38
+1. **Chaise de jardin FLORA ARETA - Blanc - Lot de 4 - 52 x 46 x H 86 cm - Utilisation domestique et collective**
+   - Prix avant: 1,052,000 Ar
+   - Prix actuel: 1,201,000 Ar
+   - Indice de prix : 114.16
 
-2. **BOSCH MFQ4020 STYLINE Batteur - Blanc/Gris anthracite**
-   - Prix avant: 338,000 Ar
-   - Prix actuel: 330,000 Ar
-   - Indice de prix : 97.63
+2. **Coupe-bordures - GARDENA - EasyCut 23 P4A - 18 V sans batterie - Largeur de coupe 23 cm**
+   - Prix avant: 569,000 Ar
+   - Prix actuel: 614,000 Ar
+   - Indice de prix : 107.91
 
-3. **Russell Hobbs 25891-56 Batteur Mixeur Swirl, 5 Vitesses, Fonction Turbo, 1 Paire de Batteurs Hélice, Pétrin, Fouets - Turquois**
-   - Prix avant: 310,000 Ar
-   - Prix actuel: 299,000 Ar
-   - Indice de prix : 96.45
+3. **Table 5 foyers CONTINENTAL EDISON - Gaz dont 1 triple couronne inox**
+   - Prix avant: 1,038,000 Ar
+   - Prix actuel: 1,110,000 Ar
+   - Indice de prix : 106.94
 
-4. **BOSCH MFQ3540 Batteur et mixeur plongeant - blanc**
-   - Prix avant: 282,000 Ar
-   - Prix actuel: 254,000 Ar
-   - Indice de prix : 90.07
+4. **Table 4 foyers CONTINENTAL EDISON - Gaz verre blanc**
+   - Prix avant: 693,000 Ar
+   - Prix actuel: 741,000 Ar
+   - Indice de prix : 106.93
 
-5. **Batteur électrique SEVERIN HM3830 - 5 vitesses + fonction turbo, 1 600 tours/min, 2 fouets et crochets inox**
-   - Prix avant: 233,000 Ar
-   - Prix actuel: 209,000 Ar
-   - Indice de prix : 89.70
+5. **Table 4 foyers OCEANIC - Gaz inox**
+   - Prix avant: 639,000 Ar
+   - Prix actuel: 680,000 Ar
+   - Indice de prix : 106.42
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Batteur ErgoMixx 450 W - BOSCH MFQ36400 blanc/gris - 5 vitesses+turbo - 2 fouets inox - 2 crochets pétrisseurs inox -**
-   - Prix avant: 297,000 Ar
-   - Prix actuel: 265,000 Ar
-   - Indice de prix : 89.23
+1. **Brosse spéciale jantes Karcher - Brosse de qualité supérieure pour nettoyeur haute pression**
+   - Prix avant: 219,000 Ar
+   - Prix actuel: 165,000 Ar
+   - Indice de prix : 75.34
 
-2. **BOSCH MFQ24200 CLEVERMIXX Batteur - Blanc/Inox**
-   - Prix avant: 272,000 Ar
-   - Prix actuel: 243,000 Ar
-   - Indice de prix : 89.34
+2. **Barbecue a charbon LANDMANN - Black Taurus 660 - Grille en acier émaillé - Surface de cuisson : 66 x 36 cm - Noir**
+   - Prix avant: 1,687,000 Ar
+   - Prix actuel: 1,474,000 Ar
+   - Indice de prix : 87.37
 
-3. **Batteur électrique SEVERIN HM3830 - 5 vitesses + fonction turbo, 1 600 tours/min, 2 fouets et crochets inox**
-   - Prix avant: 233,000 Ar
-   - Prix actuel: 209,000 Ar
-   - Indice de prix : 89.70
+3. **ALGOFLASH - Gazon regarnissant express 5 jours 1kg**
+   - Prix avant: 196,000 Ar
+   - Prix actuel: 172,000 Ar
+   - Indice de prix : 87.76
 
-4. **BOSCH MFQ3540 Batteur et mixeur plongeant - blanc**
-   - Prix avant: 282,000 Ar
-   - Prix actuel: 254,000 Ar
-   - Indice de prix : 90.07
+4. **BESTWAY Robot aspirateur Frisbee - Pour piscine a fond plat - 5 x 3 m**
+   - Prix avant: 928,000 Ar
+   - Prix actuel: 815,000 Ar
+   - Indice de prix : 87.82
 
-5. **Russell Hobbs 25891-56 Batteur Mixeur Swirl, 5 Vitesses, Fonction Turbo, 1 Paire de Batteurs Hélice, Pétrin, Fouets - Turquois**
-   - Prix avant: 310,000 Ar
-   - Prix actuel: 299,000 Ar
-   - Indice de prix : 96.45
+5. **Barbecue a charbon WEBER Original Kettle E-4710 - Acier émailé - Diametre 47cm - Thermometre intégré au couvercle - Systeme**
+   - Prix avant: 1,317,000 Ar
+   - Prix actuel: 1,157,000 Ar
+   - Indice de prix : 87.85
 
