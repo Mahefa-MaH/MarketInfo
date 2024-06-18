@@ -15,18 +15,18 @@
       "variation": 4498
     },
     {
-      "cle": "produit_chocolatlait45menakao75g_",
-      "name": "Chocolat Lait 45% Menakao\u2122 75g",
-      "prix_base": 11200,
-      "prix_comparaison": 14590,
-      "variation": 3390
+      "cle": "produit_margarinemultiusageromi500g_",
+      "name": "Margarine Multi-usage Romi 500g",
+      "prix_base": 7690,
+      "prix_comparaison": 10897,
+      "variation": 3207
     },
     {
-      "cle": "produit_patesbarilla500grn65farfalle_",
-      "name": "P\u00e2tes Barilla 500gr. n\u00b065 Farfalle",
-      "prix_base": 16330,
-      "prix_comparaison": 19487,
-      "variation": 3157
+      "cle": "produit_liptonmangue500ml_",
+      "name": "Ice Tea Mangue 500ml Lipton\u2122",
+      "prix_base": 4360,
+      "prix_comparaison": 7564,
+      "variation": 3204
     },
     {
       "cle": "produit_chipolatas1kg_",
@@ -38,10 +38,24 @@
   ],
   "prix_diminues": [
     {
-      "cle": "produit_mortadellepurporc200g_",
-      "name": "Mortadelle pur Porc 200g |  Lewis\u2122",
-      "prix_base": 7840,
-      "prix_comparaison": 7973,
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3700,
+      "prix_comparaison": 3011,
+      "variation": -689
+    },
+    {
+      "cle": "produit_liquidevaissellementhecitronimpec1l_",
+      "name": "Liquide vaisselle Menthe Citron Impec\u2122 1L",
+      "prix_base": 4670,
+      "prix_comparaison": 4786,
+      "variation": 116
+    },
+    {
+      "cle": "produit_yaourtaboireyamafraise125ml_",
+      "name": "Yaourt \u00e0 Boire Yama Fraise\u2122 125ml",
+      "prix_base": 1067,
+      "prix_comparaison": 1200,
       "variation": 133
     },
     {
@@ -57,52 +71,45 @@
       "prix_base": 1040,
       "prix_comparaison": 1280,
       "variation": 240
-    },
-    {
-      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 1040,
-      "prix_comparaison": 1282,
-      "variation": 242
-    },
-    {
-      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 1040,
-      "prix_comparaison": 1282,
-      "variation": 242
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_chocolatlait45menakao75g_",
-      "name": "Chocolat Lait 45% Menakao\u2122 75g",
-      "prix_base": 11200,
-      "prix_comparaison": 14590,
-      "indice_prix": 130.26785714285714
+      "cle": "produit_liptonmangue500ml_",
+      "name": "Ice Tea Mangue 500ml Lipton\u2122",
+      "prix_base": 4360,
+      "prix_comparaison": 7564,
+      "indice_prix": 173.4862385321101
     },
     {
-      "cle": "produit_biscuitsgouterfvanillex16bn295g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9sVanille x16 BN 295g",
-      "prix_base": 17540,
-      "prix_comparaison": 22038,
-      "indice_prix": 125.6442417331813
+      "cle": "produit_margarinemultiusageromi500g_",
+      "name": "Margarine Multi-usage Romi 500g",
+      "prix_base": 7690,
+      "prix_comparaison": 10897,
+      "indice_prix": 141.703511053316
     },
     {
-      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 1040,
-      "prix_comparaison": 1282,
-      "indice_prix": 123.26923076923077
+      "cle": "produit_liquidevaissellementhecitronimpec750ml_",
+      "name": "Liquide vaisselle Menthe Citron Impec\u2122 750ml",
+      "prix_base": 4000,
+      "prix_comparaison": 5190,
+      "indice_prix": 129.75
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_mortadellepurporc200g_",
-      "name": "Mortadelle pur Porc 200g |  Lewis\u2122",
-      "prix_base": 7840,
-      "prix_comparaison": 7973,
-      "indice_prix": 101.69642857142857
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3700,
+      "prix_comparaison": 3011,
+      "indice_prix": 81.37837837837837
+    },
+    {
+      "cle": "produit_liquidevaissellementhecitronimpec1l_",
+      "name": "Liquide vaisselle Menthe Citron Impec\u2122 1L",
+      "prix_base": 4670,
+      "prix_comparaison": 4786,
+      "indice_prix": 102.48394004282655
     },
     {
       "cle": "produit_minichorizoaperoenvironenviron500g_",
@@ -110,13 +117,6 @@
       "prix_base": 53430,
       "prix_comparaison": 54890,
       "indice_prix": 102.7325472580947
-    },
-    {
-      "cle": "produit_cookiesfortenchocolatpaq200g_",
-      "name": "Cookies Fort En Chocolat Paq 200g",
-      "prix_base": 15330,
-      "prix_comparaison": 15990,
-      "indice_prix": 104.30528375733856
     }
   ]
 }
