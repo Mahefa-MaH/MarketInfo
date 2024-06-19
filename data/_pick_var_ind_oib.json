@@ -8,6 +8,34 @@
       "variation": -36000
     },
     {
+      "cle": "yaourtsnaturesetaromatises_1863yaourtdoublecreme100gcitronmeringue_html",
+      "name": "Yaourt double cr\u00e8me citron m\u00e9ringue 100g",
+      "prix_base": 1150,
+      "prix_comparaison": 1290,
+      "variation": 140
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1864yaourtdoublecreme100gfraisebanane_html",
+      "name": "Yaourt double cr\u00e8me fraise banane 100g",
+      "prix_base": 1150,
+      "prix_comparaison": 1290,
+      "variation": 140
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_7477yaourtdoublecremepommecerise100g_html",
+      "name": "Yaourt double cr\u00e8me pomme cerise 100g",
+      "prix_base": 1150,
+      "prix_comparaison": 1290,
+      "variation": 140
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1866yaourtdoublecreme100gvanille_html",
+      "name": "Yaourt double cr\u00e8me vanille 100g",
+      "prix_base": 1150,
+      "prix_comparaison": 1290,
+      "variation": 140
+    },
+    {
       "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
       "name": "iPhone 15 256GB Vert",
       "prix_base": 4598000,
@@ -29,6 +57,34 @@
       "prix_base": 4598000,
       "prix_comparaison": 4643000,
       "indice_prix": 100.97868638538495
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1863yaourtdoublecreme100gcitronmeringue_html",
+      "name": "Yaourt double cr\u00e8me citron m\u00e9ringue 100g",
+      "prix_base": 1150,
+      "prix_comparaison": 1290,
+      "indice_prix": 112.17391304347827
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1864yaourtdoublecreme100gfraisebanane_html",
+      "name": "Yaourt double cr\u00e8me fraise banane 100g",
+      "prix_base": 1150,
+      "prix_comparaison": 1290,
+      "indice_prix": 112.17391304347827
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_7477yaourtdoublecremepommecerise100g_html",
+      "name": "Yaourt double cr\u00e8me pomme cerise 100g",
+      "prix_base": 1150,
+      "prix_comparaison": 1290,
+      "indice_prix": 112.17391304347827
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_1866yaourtdoublecreme100gvanille_html",
+      "name": "Yaourt double cr\u00e8me vanille 100g",
+      "prix_base": 1150,
+      "prix_comparaison": 1290,
+      "indice_prix": 112.17391304347827
     }
   ]
 }

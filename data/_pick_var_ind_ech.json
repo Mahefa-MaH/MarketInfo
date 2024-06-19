@@ -1,6 +1,13 @@
 {
   "Variation de prix": [
     {
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3700,
+      "prix_comparaison": 3011,
+      "variation": -689
+    },
+    {
       "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
       "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
       "prix_base": 1040,
@@ -13,9 +20,58 @@
       "prix_base": 1040,
       "prix_comparaison": 1282,
       "variation": 242
+    },
+    {
+      "cle": "produit_galettessderiz300grs16cm60riz_",
+      "name": "Galettess de riz 300grs 16cm 60% riz",
+      "prix_base": 10260,
+      "prix_comparaison": 11025,
+      "variation": 765
+    },
+    {
+      "cle": "produit_laitconcentresucresocolait390g_",
+      "name": "Lait concentr\u00e9 sucr\u00e9 Socolait\u2122 390g | Riche en vitamines",
+      "prix_base": 6000,
+      "prix_comparaison": 7051,
+      "variation": 1051
+    },
+    {
+      "cle": "produit_minichorizoaperoenvironenviron500g_",
+      "name": "Mini Chorizo Ap\u00e9ro environ 500g LeaderPrice\u2122",
+      "prix_base": 53430,
+      "prix_comparaison": 54890,
+      "variation": 1460
     }
   ],
   "indice de prix": [
+    {
+      "cle": "produit_sucreblanc500genvrac_",
+      "name": "Sucre blanc 500g | En vrac",
+      "prix_base": 3700,
+      "prix_comparaison": 3011,
+      "indice_prix": 81.37837837837837
+    },
+    {
+      "cle": "produit_minichorizoaperoenvironenviron500g_",
+      "name": "Mini Chorizo Ap\u00e9ro environ 500g LeaderPrice\u2122",
+      "prix_base": 53430,
+      "prix_comparaison": 54890,
+      "indice_prix": 102.7325472580947
+    },
+    {
+      "cle": "produit_galettessderiz300grs16cm60riz_",
+      "name": "Galettess de riz 300grs 16cm 60% riz",
+      "prix_base": 10260,
+      "prix_comparaison": 11025,
+      "indice_prix": 107.45614035087719
+    },
+    {
+      "cle": "produit_laitconcentresucresocolait390g_",
+      "name": "Lait concentr\u00e9 sucr\u00e9 Socolait\u2122 390g | Riche en vitamines",
+      "prix_base": 6000,
+      "prix_comparaison": 7051,
+      "indice_prix": 117.51666666666667
+    },
     {
       "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
       "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
