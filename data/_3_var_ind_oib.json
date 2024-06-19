@@ -96,6 +96,29 @@
       "indice_prix": 95.0
     },
     {
+      "cle": "lessiveliquide_3894lessiveliquide36lavagesbleu3l_html",
+      "name": "Lessive liquide 36 lavages bleu 3L",
+      "prix_base": 27500,
+      "prix_comparaison": 26125,
+      "indice_prix": 95.0
+    },
+    {
+      "cle": "conservesautreslegumes_79lentillesprepareesjeannicola400g_html",
+      "name": "Lentilles pr\u00e9par\u00e9es 400g",
+      "prix_base": 5700,
+      "prix_comparaison": 5415,
+      "indice_prix": 95.0
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "cle": "volailleetvolaillepanee_1993franksdepouletcheesechickenfrankscheese340g_html",
+      "name": "Saucisse de poulet au fromage 340g",
+      "prix_base": 7900,
+      "prix_comparaison": 7505,
+      "indice_prix": 95.0
+    },
+    {
       "cle": "dentifrice_12822dentifriceantitratre75mllabell_html",
       "name": "Dentifrice anti-tartre 75ml",
       "prix_base": 6200,
@@ -107,15 +130,6 @@
       "name": "Cookies triple chocolats 150g",
       "prix_base": 8500,
       "prix_comparaison": 8075,
-      "indice_prix": 95.0
-    }
-  ],
-  "indices_prix_plus_faibles": [
-    {
-      "cle": "volailleetvolaillepanee_1993franksdepouletcheesechickenfrankscheese340g_html",
-      "name": "Saucisse de poulet au fromage 340g",
-      "prix_base": 7900,
-      "prix_comparaison": 7505,
       "indice_prix": 95.0
     },
     {
@@ -130,20 +144,6 @@
       "name": "Moule 20 mini muffins silicone",
       "prix_base": 59000,
       "prix_comparaison": 56050,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "cotonsetlingettes_3022lingettespapiertoilettehumide60pieces_html",
-      "name": "Lingettes papier toilette humide 60 pi\u00e8ces",
-      "prix_base": 6900,
-      "prix_comparaison": 6555,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "ampoules_11993ampouleledflammedepolie25we14domedia_html",
-      "name": "Ampoule Led flamme d\u00e9polie 25W E14",
-      "prix_base": 9900,
-      "prix_comparaison": 9405,
       "indice_prix": 95.0
     }
   ]

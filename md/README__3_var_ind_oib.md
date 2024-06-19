@@ -71,14 +71,14 @@
    - Prix actuel: 18,905 Ar
    - Indice de prix : 95.00
 
-4. **Dentifrice anti-tartre 75ml**
-   - Prix avant: 6,200 Ar
-   - Prix actuel: 5,890 Ar
+4. **Lessive liquide 36 lavages bleu 3L**
+   - Prix avant: 27,500 Ar
+   - Prix actuel: 26,125 Ar
    - Indice de prix : 95.00
 
-5. **Cookies triple chocolats 150g**
-   - Prix avant: 8,500 Ar
-   - Prix actuel: 8,075 Ar
+5. **Lentilles préparées 400g**
+   - Prix avant: 5,700 Ar
+   - Prix actuel: 5,415 Ar
    - Indice de prix : 95.00
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
@@ -88,23 +88,23 @@
    - Prix actuel: 7,505 Ar
    - Indice de prix : 95.00
 
-2. **10 Tranches de fromage hamburger cheddar 200g**
+2. **Dentifrice anti-tartre 75ml**
+   - Prix avant: 6,200 Ar
+   - Prix actuel: 5,890 Ar
+   - Indice de prix : 95.00
+
+3. **Cookies triple chocolats 150g**
+   - Prix avant: 8,500 Ar
+   - Prix actuel: 8,075 Ar
+   - Indice de prix : 95.00
+
+4. **10 Tranches de fromage hamburger cheddar 200g**
    - Prix avant: 11,900 Ar
    - Prix actuel: 11,305 Ar
    - Indice de prix : 95.00
 
-3. **Moule 20 mini muffins silicone**
+5. **Moule 20 mini muffins silicone**
    - Prix avant: 59,000 Ar
    - Prix actuel: 56,050 Ar
-   - Indice de prix : 95.00
-
-4. **Lingettes papier toilette humide 60 pièces**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 6,555 Ar
-   - Indice de prix : 95.00
-
-5. **Ampoule Led flamme dépolie 25W E14**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,405 Ar
    - Indice de prix : 95.00
 
