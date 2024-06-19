@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurtoutenun_133162apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursargent0194253778868_html",
-      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Argent",
-      "prix_base": 10801000,
-      "prix_comparaison": 10801000,
+      "cle": "tondeuserobotsansfil_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
+      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
+      "prix_base": 19362000,
+      "prix_comparaison": 19362000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_125031applemacstudioapplem2ultra24corecpu60coregpuram64gostockage1tosilver0194253433538_html",
-      "name": "Apple - Mac Studio Apple M2 Ultra 24-core CPU - 60-core GPU - RAM 64Go - Stockage 1To - Silver",
-      "prix_base": 23105000,
-      "prix_comparaison": 23105000,
+      "cle": "tondeuserobotsansfil_137380tondeuserobotautonomestigaa1000fonctionneavecbatterie8008984864672_html",
+      "name": "Tondeuse robot autonome STIGA A 1000 - Fonctionne avec batterie",
+      "prix_base": 15783000,
+      "prix_comparaison": 15783000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurtoutenun_30293apple24imacretina45k2021puceapplem1ram8gostockage512gogpu8coeursrose0194252126370_html",
-      "name": "Apple - 24 iMac Retina 4,5K (2021) - Puce Apple M1 - RAM 8Go - Stockage 512Go - GPU 8 coeurs - Rose",
-      "prix_base": 10455000,
-      "prix_comparaison": 10455000,
+      "cle": "tableplaquedecuissoninduction_141174tableinductionaspiranteboschser6pvq811h26enoir4foyershomeconnectl802xp522mm4242005433612_html",
+      "name": "Table induction Aspirante - BOSCH SER6 - PVQ811H26E Noir - 4-foyers - Home Connect - L802xP522 mm",
+      "prix_base": 12203000,
+      "prix_comparaison": 12203000,
       "variation": 0,
       "indice_prix": 100.0
     }
