@@ -1,150 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "conservesautreslegumes_79lentillesprepareesjeannicola400g_html",
-      "name": "Lentilles pr\u00e9par\u00e9es 400g",
-      "prix_base": 5700,
-      "prix_comparaison": 5415,
-      "variation": -285
+      "cle": "cafemoulucafeengrainsfiltres_1365336dosettesdecafeespresso250gplanteurdestropiques_html",
+      "name": "36 dosettes de caf\u00e9 espresso 250g",
+      "prix_base": 19900,
+      "prix_comparaison": 37905,
+      "variation": 18005
     },
     {
-      "cle": "dentifrice_12822dentifriceantitratre75mllabell_html",
-      "name": "Dentifrice anti-tartre 75ml",
-      "prix_base": 6200,
-      "prix_comparaison": 5890,
-      "variation": -310
-    },
-    {
-      "cle": "cotonsetlingettes_3022lingettespapiertoilettehumide60pieces_html",
-      "name": "Lingettes papier toilette humide 60 pi\u00e8ces",
-      "prix_base": 6900,
-      "prix_comparaison": 6555,
-      "variation": -345
-    },
-    {
-      "cle": "volailleetvolaillepanee_1993franksdepouletcheesechickenfrankscheese340g_html",
-      "name": "Saucisse de poulet au fromage 340g",
-      "prix_base": 7900,
-      "prix_comparaison": 7505,
-      "variation": -395
-    },
-    {
-      "cle": "cookiesetbrownies_5152cookiestriplechocolat150g_html",
-      "name": "Cookies triple chocolats 150g",
-      "prix_base": 8500,
-      "prix_comparaison": 8075,
-      "variation": -425
+      "cle": "cafemoulucafeengrainsfiltres_1376216capsulescafeespressointensecompatinledolcegusto112gplanteurdestropiques_html",
+      "name": "16 capsules caf\u00e9 espresso intense compatible Dolce Gusto 112g",
+      "prix_base": 22500,
+      "prix_comparaison": 37905,
+      "variation": 15405
     }
   ],
   "prix_diminues": [
     {
-      "cle": "moulesetplatsafour_5294moule20minimuffinssilicone_html",
-      "name": "Moule 20 mini muffins silicone",
-      "prix_base": 59000,
-      "prix_comparaison": 56050,
-      "variation": -2950
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 599000,
+      "prix_comparaison": 569050,
+      "variation": -29950
     },
     {
-      "cle": "tassestheieresetcafetieres_5390tasselystransparent22cl6pieces_html",
-      "name": "Tasse Lys transparent 22cl 6 pi\u00e8ces",
-      "prix_base": 33000,
-      "prix_comparaison": 31350,
-      "variation": -1650
-    },
-    {
-      "cle": "lessiveliquide_3894lessiveliquide36lavagesbleu3l_html",
-      "name": "Lessive liquide 36 lavages bleu 3L",
-      "prix_base": 27500,
-      "prix_comparaison": 26125,
-      "variation": -1375
-    },
-    {
-      "cle": "moulesetplatsafour_5263mouleatartefondperfore_html",
-      "name": "Moule \u00e0 tarte fond perfor\u00e9 \u00d828cm",
-      "prix_base": 22050,
-      "prix_comparaison": 20948,
-      "variation": -1102
-    },
-    {
-      "cle": "lessiveliquide_3173lessiveliquidemaxxlingesblancsetcoloresbleu3l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 3L",
-      "prix_base": 19900,
-      "prix_comparaison": 18905,
-      "variation": -995
+      "cle": "barquettespotsetbolsjetables_7424potasaucecristalaveccouvercle250pieces_html",
+      "name": "Pot \u00e0 sauce cristal avec couvercle 250 pi\u00e8ces",
+      "prix_base": 400000,
+      "prix_comparaison": 380000,
+      "variation": -20000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "moulesetplatsafour_5263mouleatartefondperfore_html",
-      "name": "Moule \u00e0 tarte fond perfor\u00e9 \u00d828cm",
-      "prix_base": 22050,
-      "prix_comparaison": 20948,
-      "indice_prix": 95.00226757369614
-    },
-    {
-      "cle": "tassestheieresetcafetieres_5390tasselystransparent22cl6pieces_html",
-      "name": "Tasse Lys transparent 22cl 6 pi\u00e8ces",
-      "prix_base": 33000,
-      "prix_comparaison": 31350,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "lessiveliquide_3173lessiveliquidemaxxlingesblancsetcoloresbleu3l_html",
-      "name": "Lessive liquide maxx linges blancs et color\u00e9s bleu 3L",
+      "cle": "cafemoulucafeengrainsfiltres_1365336dosettesdecafeespresso250gplanteurdestropiques_html",
+      "name": "36 dosettes de caf\u00e9 espresso 250g",
       "prix_base": 19900,
-      "prix_comparaison": 18905,
-      "indice_prix": 95.0
+      "prix_comparaison": 37905,
+      "indice_prix": 190.47738693467338
     },
     {
-      "cle": "lessiveliquide_3894lessiveliquide36lavagesbleu3l_html",
-      "name": "Lessive liquide 36 lavages bleu 3L",
-      "prix_base": 27500,
-      "prix_comparaison": 26125,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "conservesautreslegumes_79lentillesprepareesjeannicola400g_html",
-      "name": "Lentilles pr\u00e9par\u00e9es 400g",
-      "prix_base": 5700,
-      "prix_comparaison": 5415,
-      "indice_prix": 95.0
+      "cle": "cafemoulucafeengrainsfiltres_1376216capsulescafeespressointensecompatinledolcegusto112gplanteurdestropiques_html",
+      "name": "16 capsules caf\u00e9 espresso intense compatible Dolce Gusto 112g",
+      "prix_base": 22500,
+      "prix_comparaison": 37905,
+      "indice_prix": 168.46666666666667
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "volailleetvolaillepanee_1993franksdepouletcheesechickenfrankscheese340g_html",
-      "name": "Saucisse de poulet au fromage 340g",
-      "prix_base": 7900,
-      "prix_comparaison": 7505,
-      "indice_prix": 95.0
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "prix_base": 2750,
+      "prix_comparaison": 2612,
+      "indice_prix": 94.98181818181818
     },
     {
-      "cle": "dentifrice_12822dentifriceantitratre75mllabell_html",
-      "name": "Dentifrice anti-tartre 75ml",
-      "prix_base": 6200,
-      "prix_comparaison": 5890,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "cookiesetbrownies_5152cookiestriplechocolat150g_html",
-      "name": "Cookies triple chocolats 150g",
-      "prix_base": 8500,
-      "prix_comparaison": 8075,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "fromagesentranches_1275810tranchesdefromagehamburgercheddar200gpaturages_html",
-      "name": "10 Tranches de fromage hamburger cheddar 200g",
-      "prix_base": 11900,
-      "prix_comparaison": 11305,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "moulesetplatsafour_5294moule20minimuffinssilicone_html",
-      "name": "Moule 20 mini muffins silicone",
-      "prix_base": 59000,
-      "prix_comparaison": 56050,
-      "indice_prix": 95.0
+      "cle": "thesetinfusions_5214thenoirenglishbreakfast25sachets_html",
+      "name": "Th\u00e9 noir english breakfast 25 sachets",
+      "prix_base": 7190,
+      "prix_comparaison": 6830,
+      "indice_prix": 94.99304589707927
     }
   ]
 }

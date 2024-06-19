@@ -1,62 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 2310,
-      "name": "Mon T\u00e9l\u00e9phone \u00c9moti'Fun Noir & Blanc",
-      "prix_base": 173400,
-      "prix_comparaison": 150900,
-      "variation": -22500
-    },
-    {
-      "list_id": 6369,
-      "name": "jouet Baby t\u00e9l\u00e9phone son lumi\u00e8re",
-      "prix_base": 49700,
-      "prix_comparaison": 43300,
-      "variation": -6400
-    },
-    {
-      "list_id": 10285,
-      "name": "jouet Mon t\u00e9l\u00e9phone selfie",
-      "prix_base": 46400,
-      "prix_comparaison": 40500,
-      "variation": -5900
-    },
-    {
-      "list_id": 6532,
-      "name": "jouet t\u00e9l\u00e9phone musical",
-      "prix_base": 21300,
-      "prix_comparaison": 18500,
-      "variation": -2800
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7900,
+      "prix_comparaison": 9400,
+      "variation": 1500
     }
   ],
   "indice de prix": [
     {
-      "list_id": 6532,
-      "name": "jouet t\u00e9l\u00e9phone musical",
-      "prix_base": 21300,
-      "prix_comparaison": 18500,
-      "indice_prix": 86.85446009389672
-    },
-    {
-      "list_id": 2310,
-      "name": "Mon T\u00e9l\u00e9phone \u00c9moti'Fun Noir & Blanc",
-      "prix_base": 173400,
-      "prix_comparaison": 150900,
-      "indice_prix": 87.0242214532872
-    },
-    {
-      "list_id": 6369,
-      "name": "jouet Baby t\u00e9l\u00e9phone son lumi\u00e8re",
-      "prix_base": 49700,
-      "prix_comparaison": 43300,
-      "indice_prix": 87.12273641851107
-    },
-    {
-      "list_id": 10285,
-      "name": "jouet Mon t\u00e9l\u00e9phone selfie",
-      "prix_base": 46400,
-      "prix_comparaison": 40500,
-      "indice_prix": 87.28448275862068
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7900,
+      "prix_comparaison": 9400,
+      "indice_prix": 118.9873417721519
     }
   ]
 }

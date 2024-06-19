@@ -1,90 +1,48 @@
 {
   "Variation de prix": [
     {
-      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
-      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
-      "prix_base": 2123000,
-      "prix_comparaison": 2087000,
-      "variation": -36000
+      "cle": "soinsbebe_13706cremehydratantebiocosmos75mlpommette_html",
+      "name": "Cr\u00e8me hydratante bio cosmos 75ml",
+      "prix_base": 13900,
+      "prix_comparaison": 13205,
+      "variation": -695
     },
     {
-      "cle": "yaourtsnaturesetaromatises_1863yaourtdoublecreme100gcitronmeringue_html",
-      "name": "Yaourt double cr\u00e8me citron m\u00e9ringue 100g",
-      "prix_base": 1150,
-      "prix_comparaison": 1290,
-      "variation": 140
+      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
+      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
+      "prix_base": 9900,
+      "prix_comparaison": 9405,
+      "variation": -495
     },
     {
-      "cle": "yaourtsnaturesetaromatises_1864yaourtdoublecreme100gfraisebanane_html",
-      "name": "Yaourt double cr\u00e8me fraise banane 100g",
-      "prix_base": 1150,
-      "prix_comparaison": 1290,
-      "variation": 140
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_7477yaourtdoublecremepommecerise100g_html",
-      "name": "Yaourt double cr\u00e8me pomme cerise 100g",
-      "prix_base": 1150,
-      "prix_comparaison": 1290,
-      "variation": 140
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_1866yaourtdoublecreme100gvanille_html",
-      "name": "Yaourt double cr\u00e8me vanille 100g",
-      "prix_base": 1150,
-      "prix_comparaison": 1290,
-      "variation": 140
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
-      "name": "iPhone 15 256GB Vert",
-      "prix_base": 4598000,
-      "prix_comparaison": 4643000,
-      "variation": 45000
+      "cle": "deodorantsparfums_12914deodorantmenenergymusk200mllabell_html",
+      "name": "D\u00e9odorant men energy musk 200ml",
+      "prix_base": 9900,
+      "prix_comparaison": 9405,
+      "variation": -495
     }
   ],
   "indice de prix": [
     {
-      "cle": "montresbraceletsconnectes_14802applewatchseries9gps41mmboitierstarlightaluminiumbraceletstarlightsportbandml_html",
-      "name": "Apple Watch Series 9 GPS - 41mm- Bracelet Starlight Sport Band - M/L",
-      "prix_base": 2123000,
-      "prix_comparaison": 2087000,
-      "indice_prix": 98.30428638718794
+      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
+      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
+      "prix_base": 9900,
+      "prix_comparaison": 9405,
+      "indice_prix": 95.0
     },
     {
-      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
-      "name": "iPhone 15 256GB Vert",
-      "prix_base": 4598000,
-      "prix_comparaison": 4643000,
-      "indice_prix": 100.97868638538495
+      "cle": "deodorantsparfums_12914deodorantmenenergymusk200mllabell_html",
+      "name": "D\u00e9odorant men energy musk 200ml",
+      "prix_base": 9900,
+      "prix_comparaison": 9405,
+      "indice_prix": 95.0
     },
     {
-      "cle": "yaourtsnaturesetaromatises_1863yaourtdoublecreme100gcitronmeringue_html",
-      "name": "Yaourt double cr\u00e8me citron m\u00e9ringue 100g",
-      "prix_base": 1150,
-      "prix_comparaison": 1290,
-      "indice_prix": 112.17391304347827
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_1864yaourtdoublecreme100gfraisebanane_html",
-      "name": "Yaourt double cr\u00e8me fraise banane 100g",
-      "prix_base": 1150,
-      "prix_comparaison": 1290,
-      "indice_prix": 112.17391304347827
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_7477yaourtdoublecremepommecerise100g_html",
-      "name": "Yaourt double cr\u00e8me pomme cerise 100g",
-      "prix_base": 1150,
-      "prix_comparaison": 1290,
-      "indice_prix": 112.17391304347827
-    },
-    {
-      "cle": "yaourtsnaturesetaromatises_1866yaourtdoublecreme100gvanille_html",
-      "name": "Yaourt double cr\u00e8me vanille 100g",
-      "prix_base": 1150,
-      "prix_comparaison": 1290,
-      "indice_prix": 112.17391304347827
+      "cle": "soinsbebe_13706cremehydratantebiocosmos75mlpommette_html",
+      "name": "Cr\u00e8me hydratante bio cosmos 75ml",
+      "prix_base": 13900,
+      "prix_comparaison": 13205,
+      "indice_prix": 95.0
     }
   ]
 }
