@@ -13,6 +13,20 @@
       "prix_base": 22500,
       "prix_comparaison": 37905,
       "variation": 15405
+    },
+    {
+      "cle": "gelslavantsetshampoings_5553gellavant2en1pourbebebio250ml_html",
+      "name": "Gel lavant 2en1 pour b\u00e9b\u00e9 BIO 250ml",
+      "prix_base": 8500,
+      "prix_comparaison": 14155,
+      "variation": 5655
+    },
+    {
+      "cle": "cafemoulucafeengrainsfiltres_12472cafemouludecafeineregal250gplanteurdestropiques_html",
+      "name": "Caf\u00e9 moulu d\u00e9caf\u00e9in\u00e9 R\u00e9gal 250g",
+      "prix_base": 14900,
+      "prix_comparaison": 18900,
+      "variation": 4000
     }
   ],
   "prix_diminues": [
@@ -29,6 +43,20 @@
       "prix_base": 400000,
       "prix_comparaison": 380000,
       "variation": -20000
+    },
+    {
+      "cle": "boitesetetuisencarton_4298sacenpapierkraftsos20x16x40cm500pieces_html",
+      "name": "Sac en papier Kraft SOS 20x16x40cm 500 pi\u00e8ces",
+      "prix_base": 320000,
+      "prix_comparaison": 304000,
+      "variation": -16000
+    },
+    {
+      "cle": "boitesetetuisencarton_4273saccabaskraftbrun220x100x280250pieces_html",
+      "name": "Sac Cabas Kraft Brun 220X100X280 250 pi\u00e8ces",
+      "prix_base": 250000,
+      "prix_comparaison": 237500,
+      "variation": -12500
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +73,20 @@
       "prix_base": 22500,
       "prix_comparaison": 37905,
       "indice_prix": 168.46666666666667
+    },
+    {
+      "cle": "gelslavantsetshampoings_5553gellavant2en1pourbebebio250ml_html",
+      "name": "Gel lavant 2en1 pour b\u00e9b\u00e9 BIO 250ml",
+      "prix_base": 8500,
+      "prix_comparaison": 14155,
+      "indice_prix": 166.52941176470588
+    },
+    {
+      "cle": "gelslavantsetshampoings_5555laitdetoilettebebebio250ml_html",
+      "name": "Lait de toilette B\u00e9b\u00e9 BIO 250ml",
+      "prix_base": 8000,
+      "prix_comparaison": 10972,
+      "indice_prix": 137.15
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +103,20 @@
       "prix_base": 7190,
       "prix_comparaison": 6830,
       "indice_prix": 94.99304589707927
+    },
+    {
+      "cle": "biberonstetinesetsucettes_6683tetineensiliconeaircontrol6mois2pieces_html",
+      "name": "T\u00e9tine en silicone air control + 6 mois 2 pi\u00e8ces",
+      "prix_base": 8950,
+      "prix_comparaison": 8502,
+      "indice_prix": 94.99441340782123
+    },
+    {
+      "cle": "vaissellesjetables_4313potasoupeasie39cl50pieces_html",
+      "name": "Pot \u00e0 soupe \"Asie\" 39cl 50 pi\u00e8ces",
+      "prix_base": 15750,
+      "prix_comparaison": 14962,
+      "indice_prix": 94.9968253968254
     }
   ]
 }

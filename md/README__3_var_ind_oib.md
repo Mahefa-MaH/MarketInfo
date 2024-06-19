@@ -12,6 +12,16 @@
    - Prix actuel: 37,905 Ar
    - Variation: +15,405 Ar
 
+3. **Gel lavant 2en1 pour bébé BIO 250ml**
+   - Prix avant: 8,500 Ar
+   - Prix actuel: 14,155 Ar
+   - Variation: +5,655 Ar
+
+4. **Café moulu décaféiné Régal 250g**
+   - Prix avant: 14,900 Ar
+   - Prix actuel: 18,900 Ar
+   - Variation: +4,000 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
@@ -23,6 +33,16 @@
    - Prix avant: 400,000 Ar
    - Prix actuel: 380,000 Ar
    - Variation: -20,000 Ar
+
+3. **Sac en papier Kraft SOS 20x16x40cm 500 pièces**
+   - Prix avant: 320,000 Ar
+   - Prix actuel: 304,000 Ar
+   - Variation: -16,000 Ar
+
+4. **Sac Cabas Kraft Brun 220X100X280 250 pièces**
+   - Prix avant: 250,000 Ar
+   - Prix actuel: 237,500 Ar
+   - Variation: -12,500 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -36,6 +56,16 @@
    - Prix actuel: 37,905 Ar
    - Indice de prix : 168.47
 
+3. **Gel lavant 2en1 pour bébé BIO 250ml**
+   - Prix avant: 8,500 Ar
+   - Prix actuel: 14,155 Ar
+   - Indice de prix : 166.53
+
+4. **Lait de toilette Bébé BIO 250ml**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 10,972 Ar
+   - Indice de prix : 137.15
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Talc bébé poudre 75g**
@@ -47,4 +77,14 @@
    - Prix avant: 7,190 Ar
    - Prix actuel: 6,830 Ar
    - Indice de prix : 94.99
+
+3. **Tétine en silicone air control + 6 mois 2 pièces**
+   - Prix avant: 8,950 Ar
+   - Prix actuel: 8,502 Ar
+   - Indice de prix : 94.99
+
+4. **Pot à soupe "Asie" 39cl 50 pièces**
+   - Prix avant: 15,750 Ar
+   - Prix actuel: 14,962 Ar
+   - Indice de prix : 95.00
 

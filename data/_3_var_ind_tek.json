@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 6031,
-      "prix_base": 7200,
-      "name": "Nettoyant d\u00e9sinfectant sol et surface 1L",
-      "prix_comparaison": 12500,
-      "variation": 5300
+      "list_id": 3822,
+      "prix_base": 184800,
+      "name": "Lafarina Farine De Bl\u00e9 Multi-Usage 50 Kg",
+      "prix_comparaison": 220000,
+      "variation": 35200
     },
     {
-      "list_id": 7634,
-      "prix_base": 1100,
-      "name": "Porte mine 0.5 mm IZZY",
-      "prix_comparaison": 1000,
-      "variation": -100
-    },
-    {
-      "list_id": 5157,
-      "prix_base": 700,
-      "name": "Stylo bille pointe moyenne",
-      "prix_comparaison": 600,
-      "variation": -100
+      "list_id": 10663,
+      "prix_base": 7900,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_comparaison": 9400,
+      "variation": 1500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4615,
-      "prix_base": 4232200,
-      "name": "Machine \u00e0 relier manuel Orion 500",
-      "prix_comparaison": 3682000,
-      "variation": -550200
+      "list_id": 10663,
+      "prix_base": 7900,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_comparaison": 9400,
+      "variation": 1500
     },
     {
-      "list_id": 2335,
-      "prix_base": 3814800,
-      "name": "Maison Neo Friends House + Cuisine",
-      "prix_comparaison": 3318900,
-      "variation": -495900
-    },
-    {
-      "list_id": 4500,
-      "prix_base": 3418700,
-      "name": "Destructeur coupe crois\u00e9e 79 CI",
-      "prix_comparaison": 2974300,
-      "variation": -444400
+      "list_id": 3822,
+      "prix_base": 184800,
+      "name": "Lafarina Farine De Bl\u00e9 Multi-Usage 50 Kg",
+      "prix_comparaison": 220000,
+      "variation": 35200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 6031,
-      "name": "Nettoyant d\u00e9sinfectant sol et surface 1L",
-      "prix_base": 7200,
-      "prix_comparaison": 12500,
-      "indice_prix": 173.61111111111111
+      "list_id": 3822,
+      "name": "Lafarina Farine De Bl\u00e9 Multi-Usage 50 Kg",
+      "prix_base": 184800,
+      "prix_comparaison": 220000,
+      "indice_prix": 119.04761904761905
     },
     {
-      "list_id": 6498,
-      "name": "jouet \u00e9tui 32 cartes plastifi\u00e9es",
-      "prix_base": 5400,
-      "prix_comparaison": 5200,
-      "indice_prix": 96.29629629629629
-    },
-    {
-      "list_id": 6494,
-      "name": "jouet v\u00e9hicule m\u00e9tal 1/43 ASS12 PR24",
-      "prix_base": 27600,
-      "prix_comparaison": 26300,
-      "indice_prix": 95.28985507246377
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7900,
+      "prix_comparaison": 9400,
+      "indice_prix": 118.9873417721519
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 7655,
-      "name": "Taille crayon plastique 1 trou avec r\u00e9servoir 80749",
-      "prix_base": 500,
-      "prix_comparaison": 400,
-      "indice_prix": 80.0
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 7900,
+      "prix_comparaison": 9400,
+      "indice_prix": 118.9873417721519
     },
     {
-      "list_id": 5156,
-      "name": "Stylo bille 200 pointe moyenne",
-      "prix_base": 500,
-      "prix_comparaison": 400,
-      "indice_prix": 80.0
-    },
-    {
-      "list_id": 10484,
-      "name": "jouet Pilote de course",
-      "prix_base": 30200,
-      "prix_comparaison": 24300,
-      "indice_prix": 80.4635761589404
+      "list_id": 3822,
+      "name": "Lafarina Farine De Bl\u00e9 Multi-Usage 50 Kg",
+      "prix_base": 184800,
+      "prix_comparaison": 220000,
+      "indice_prix": 119.04761904761905
     }
   ]
 }

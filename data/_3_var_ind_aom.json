@@ -1,150 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "materieldefiltrationpiscine_99592intex26648frfiltreasablesx28008m3hpourpiscinejusqua56m36941057415505_html",
-      "name": "Filtre a sable INTEX SX2800 8m3/h pour piscine jusqu'a 56m3",
-      "prix_base": 1413000,
-      "prix_comparaison": 1581000,
-      "variation": 168000
+      "cle": "conservesautreslegumes_131001cursdepalmiersenmorceaux250g_html",
+      "name": "C\u0153urs de palmiers en morceaux 250g",
+      "prix_base": 7600,
+      "prix_comparaison": 14900,
+      "variation": 7300
     },
     {
-      "cle": "piscinecompletekitpiscine_50527kitpiscinehorssoltubulairebestwaypowersteel549x274x122cmovaleavecfiltreacartoucheechellebachedi6942138987263_html",
-      "name": "Kit Piscine hors sol tubulaire BESTWAY Power Steel\u2122- 549 x 274 x 122 cm - Ovale (Avec filtre a cartouche, \u00e9chelle, b\u00e2che, diffus",
-      "prix_base": 5012000,
-      "prix_comparaison": 5179000,
-      "variation": 167000
+      "cle": "conservesautreslegumes_130772cursdepalmiers250g_html",
+      "name": "C\u0153urs de palmiers 250g",
+      "prix_base": 12900,
+      "prix_comparaison": 19900,
+      "variation": 7000
     },
     {
-      "cle": "chaisedejardinfauteuildejardintabouretdejardin_125112lotde4chaisesdejardinfloraareta52x46xh86cmblanc8008651837008_html",
-      "name": "Chaise de jardin FLORA ARETA - Blanc - Lot de 4 - 52 x 46 x H 86 cm - Utilisation domestique et collective",
-      "prix_base": 1052000,
-      "prix_comparaison": 1201000,
-      "variation": 149000
+      "cle": "conservesautreslegumes_130489tomatesentierespeleesaujusenconserve12238g_html",
+      "name": "Tomates enti\u00e8res pel\u00e9es au jus en conserve 1/2 238g",
+      "prix_base": 5200,
+      "prix_comparaison": 6500,
+      "variation": 1300
     },
     {
-      "cle": "piscinecompletekitpiscine_93596kitpiscinehorssoltubulairebestwaypowersteel732x366xh132cmrectangulaireincluspompeechellediffuseur6942138970319_html",
-      "name": "Kit Piscine hors sol tubulaire BESTWAY Power Steel\u2122- 732 x 366 x H 132 cm - Rectangulaire (Inclus pompe, \u00e9chelle, diffuseur,",
-      "prix_base": 8337000,
-      "prix_comparaison": 8474000,
-      "variation": 137000
+      "cle": "conservesautreslegumes_130528jardinieredelegumes44510g_html",
+      "name": "Jardini\u00e8re de l\u00e9gumes 4/4 510g",
+      "prix_base": 14900,
+      "prix_comparaison": 15900,
+      "variation": 1000
     },
     {
-      "cle": "jardinierebacafleurs_89522stefanplastbacafleursrectangulairenaturaldeluxeavectreillis100x43xh142cm9065ldanslareserveanthra8003507757622_html",
-      "name": "STEFANPLAST Bac a fleurs rectangulaire Natural Deluxe avec treillis - 100 x 43 x H 142 cm - 90 + 6,5 L dans la r\u00e9serve - Anthra",
-      "prix_base": 1127000,
-      "prix_comparaison": 1234000,
-      "variation": 107000
+      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
+      "name": "Pousses de haricots mungo en conserve 1/2 180g",
+      "prix_base": 6900,
+      "prix_comparaison": 7900,
+      "variation": 1000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "piscinecompletekitpiscine_55844intexkitpiscineultraxtrrondetubulaireo549xh132m6941057414508_html",
-      "name": "Piscine tubulaire ronde Intex Ultra XTR - \u00d8 5,49 x 1,32m - Filtre a sable - Accessoires inclus",
-      "prix_base": 6800000,
-      "prix_comparaison": 5463000,
-      "variation": -1337000
+      "cle": "sauceschaudes_134478doubleconcentredetomates210g_html",
+      "name": "Double concentr\u00e9 de tomates 210g",
+      "prix_base": 9300,
+      "prix_comparaison": 9500,
+      "variation": 200
     },
     {
-      "cle": "salonbasdejardinensemblecanapefauteuilettabledejardin_34074salondejardinenboisdacaciafscaveccoussinshoussedeprotection7personneslevatagris3451571031059_html",
-      "name": "Salon de jardin en bois d'Acacia FSC avec coussins + housse de protection - 7 personnes - Levata - Gris",
-      "prix_base": 7081000,
-      "prix_comparaison": 6134000,
-      "variation": -947000
+      "cle": "vinaigressaucescrudites_131107vinaigredalcoolcolore61l_html",
+      "name": "Vinaigre d'alcool color\u00e9 6\u00b0 1L",
+      "prix_base": 3500,
+      "prix_comparaison": 3900,
+      "variation": 400
     },
     {
-      "cle": "salonbasdejardinensemblecanapefauteuilettabledejardin_34076salondejardinenboisdacaciafsc7personneslevatagris3451571027687_html",
-      "name": "Salon de jardin en bois d'Acacia FSC - 7 personnes - Levata - Gris lin",
-      "prix_base": 7569000,
-      "prix_comparaison": 6682000,
-      "variation": -887000
+      "cle": "conservesautreslegumes_130490macedoinedelegumesenconserve12265g_html",
+      "name": "Mac\u00e9doine de l\u00e9gumes en conserve 1/2 265g",
+      "prix_base": 6500,
+      "prix_comparaison": 6900,
+      "variation": 400
     },
     {
-      "cle": "piscinecompletekitpiscine_93127grekitpiscinehorssolacierrondeblanchefidjio260x122cmlivreeavecuneechelledesecuriteetunfiltrea8412081240831_html",
-      "name": "GRE - Kit Piscine hors sol acier ronde blanche - Fidji - \u00d8260 x 122 cm (Livr\u00e9e avec une \u00e9chelle de s\u00e9curit\u00e9 et un filtre a",
-      "prix_base": 6910000,
-      "prix_comparaison": 6359000,
-      "variation": -551000
+      "cle": "conservesautreslegumes_131006garniture3legumesenbocal430g_html",
+      "name": "Garniture 3 l\u00e9gumes en bocal 430g",
+      "prix_base": 15400,
+      "prix_comparaison": 15900,
+      "variation": 500
     },
     {
-      "cle": "salonbasdejardinensemblecanapefauteuilettabledejardin_34073salondejardinenboisdacaciafscaveccoussinsgrisbocarnea6personneslevata3451571031035_html",
-      "name": "Salon de jardin en bois d'Acacia FSC avec coussins gris - BOCARNEA - 6 personnes - LEVATA",
-      "prix_base": 6104000,
-      "prix_comparaison": 5564000,
-      "variation": -540000
+      "cle": "bouillonsaidesculinaires_134481bouillondevolailledegraisse120g_html",
+      "name": "Bouillon de volaille d\u00e9graiss\u00e9 120g",
+      "prix_base": 6400,
+      "prix_comparaison": 6900,
+      "variation": 500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "porteplantetablettearoulettespourplante_41511naturetablettearoulettespourplantespolypropyleneh4xu00d8292cm8711338702307_html",
-      "name": "NATURE Tablette a roulettes pour plantes - Polypropylene - H4 x \u00d829,2 cm",
-      "prix_base": 123000,
-      "prix_comparaison": 182000,
-      "indice_prix": 147.96747967479675
+      "cle": "conservesautreslegumes_131001cursdepalmiersenmorceaux250g_html",
+      "name": "C\u0153urs de palmiers en morceaux 250g",
+      "prix_base": 7600,
+      "prix_comparaison": 14900,
+      "indice_prix": 196.05263157894737
     },
     {
-      "cle": "jardinierebacafleurs_98895edapotdefleurrondtoscaneo30xh26cm10lgrisanthracite3086960203900_html",
-      "name": "Pot de fleur rond Toscane - EDA PLASTIQUE - Gris anthracite - 30 cm - 10 L - R\u00e9sistant au gel et aux UV",
-      "prix_base": 115000,
-      "prix_comparaison": 144000,
-      "indice_prix": 125.21739130434783
+      "cle": "conservesautreslegumes_130772cursdepalmiers250g_html",
+      "name": "C\u0153urs de palmiers 250g",
+      "prix_base": 12900,
+      "prix_comparaison": 19900,
+      "indice_prix": 154.26356589147287
     },
     {
-      "cle": "kiosquegazebo_141764lampesolairedecorativegaletlumiskysolenzarao16cmledblanc3760093541923_html",
-      "name": "Lampe solaire d\u00e9corative galet - LUMISKY - SOLENZARA - \u00d816 cm - LED blanc",
-      "prix_base": 139000,
-      "prix_comparaison": 173000,
-      "indice_prix": 124.46043165467626
+      "cle": "conservesautreslegumes_130489tomatesentierespeleesaujusenconserve12238g_html",
+      "name": "Tomates enti\u00e8res pel\u00e9es au jus en conserve 1/2 238g",
+      "prix_base": 5200,
+      "prix_comparaison": 6500,
+      "indice_prix": 125.0
     },
     {
-      "cle": "jardinierebacafleurs_139302stefanplastbacafleursrectangulairefinitionenbois100x43xh35cm80lvertfonce8003507800250_html",
-      "name": "STEFANPLAST Bac a fleurs rectangulaire - Finition en bois - 100x43xH35cm - 80L - Vert fonc\u00e9",
-      "prix_base": 549000,
-      "prix_comparaison": 644000,
-      "indice_prix": 117.30418943533698
+      "cle": "conservesautreslegumes_130574poussesdeharicotsmungoenconserve12180g_html",
+      "name": "Pousses de haricots mungo en conserve 1/2 180g",
+      "prix_base": 6900,
+      "prix_comparaison": 7900,
+      "indice_prix": 114.4927536231884
     },
     {
-      "cle": "chaisedejardinfauteuildejardintabouretdejardin_125112lotde4chaisesdejardinfloraareta52x46xh86cmblanc8008651837008_html",
-      "name": "Chaise de jardin FLORA ARETA - Blanc - Lot de 4 - 52 x 46 x H 86 cm - Utilisation domestique et collective",
-      "prix_base": 1052000,
-      "prix_comparaison": 1201000,
-      "indice_prix": 114.16349809885932
+      "cle": "vinaigressaucescrudites_131107vinaigredalcoolcolore61l_html",
+      "name": "Vinaigre d'alcool color\u00e9 6\u00b0 1L",
+      "prix_base": 3500,
+      "prix_comparaison": 3900,
+      "indice_prix": 111.42857142857143
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "treilletreillis_8648treillisextensibleplastiqueblanc50x150cm8711338407011_html",
-      "name": "Treillis extensible plastique blanc - 50x150cm",
-      "prix_base": 202000,
-      "prix_comparaison": 123000,
-      "indice_prix": 60.89108910891089
+      "cle": "sauceschaudes_134478doubleconcentredetomates210g_html",
+      "name": "Double concentr\u00e9 de tomates 210g",
+      "prix_base": 9300,
+      "prix_comparaison": 9500,
+      "indice_prix": 102.15053763440861
     },
     {
-      "cle": "tondeuse_92856tondeuseelectriquesurcoussindair1200w30cmdecoupeblackdeckerbemwh551qs6lames3reglagesdehauteurdecoupe5035048706879_html",
-      "name": "Tondeuse \u00e9lectrique sur coussin d'air 1200W 30cm de coupe BLACK+DECKER BEMWH551-QS - 6 lames, 3 r\u00e9glages de hauteur de coupe",
-      "prix_base": 466000,
-      "prix_comparaison": 349000,
-      "indice_prix": 74.89270386266094
+      "cle": "conservesautreslegumes_131006garniture3legumesenbocal430g_html",
+      "name": "Garniture 3 l\u00e9gumes en bocal 430g",
+      "prix_base": 15400,
+      "prix_comparaison": 15900,
+      "indice_prix": 103.24675324675324
     },
     {
-      "cle": "accessoirehautepression_87079brossespecialejanteskarcher4039784920736_html",
-      "name": "Brosse sp\u00e9ciale jantes Karcher - Brosse de qualit\u00e9 sup\u00e9rieure pour nettoyeur haute pression",
-      "prix_base": 219000,
-      "prix_comparaison": 165000,
-      "indice_prix": 75.34246575342466
+      "cle": "conservesautreslegumes_130490macedoinedelegumesenconserve12265g_html",
+      "name": "Mac\u00e9doine de l\u00e9gumes en conserve 1/2 265g",
+      "prix_base": 6500,
+      "prix_comparaison": 6900,
+      "indice_prix": 106.15384615384616
     },
     {
-      "cle": "piscinecompletekitpiscine_55844intexkitpiscineultraxtrrondetubulaireo549xh132m6941057414508_html",
-      "name": "Piscine tubulaire ronde Intex Ultra XTR - \u00d8 5,49 x 1,32m - Filtre a sable - Accessoires inclus",
-      "prix_base": 6800000,
-      "prix_comparaison": 5463000,
-      "indice_prix": 80.33823529411765
+      "cle": "conservesautreslegumes_130528jardinieredelegumes44510g_html",
+      "name": "Jardini\u00e8re de l\u00e9gumes 4/4 510g",
+      "prix_base": 14900,
+      "prix_comparaison": 15900,
+      "indice_prix": 106.71140939597315
     },
     {
-      "cle": "miniserrepackgerminationpackbouturage_8638miniserredeculture235x35x11cm8711338202029_html",
-      "name": "Mini serre de culture 23,5x35x11 cm",
-      "prix_base": 176000,
-      "prix_comparaison": 150000,
-      "indice_prix": 85.22727272727273
+      "cle": "conserveschampignons_131116champignonsdeparispiedsetmorceaux230g_html",
+      "name": "Champignons de paris pieds et morceaux 230g",
+      "prix_base": 7400,
+      "prix_comparaison": 7900,
+      "indice_prix": 106.75675675675676
     }
   ]
 }
