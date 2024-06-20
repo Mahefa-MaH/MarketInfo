@@ -1,29 +1,113 @@
 {
   "prix_augmentes": [
     {
+      "cle": "cafemoulucafeengrainsfiltres_1365336dosettesdecafeespresso250gplanteurdestropiques_html",
+      "name": "36 dosettes de caf\u00e9 espresso 250g",
+      "prix_base": 19900,
+      "prix_comparaison": 37905,
+      "variation": 18005
+    },
+    {
+      "cle": "cafemoulucafeengrainsfiltres_1376216capsulescafeespressointensecompatinledolcegusto112gplanteurdestropiques_html",
+      "name": "16 capsules caf\u00e9 espresso intense compatible Dolce Gusto 112g",
+      "prix_base": 22500,
+      "prix_comparaison": 37905,
+      "variation": 15405
+    },
+    {
       "cle": "cahiersetprotegescahiers_6173cahiermulticoursformata4seyes180pages_html",
       "name": "Cahier multicours format A4 sey\u00e8s 180 pages",
       "prix_base": 12500,
       "prix_comparaison": 23180,
       "variation": 10680
+    },
+    {
+      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
+      "name": "Cahier spirale polycours petits carreaux 180 pages",
+      "prix_base": 9900,
+      "prix_comparaison": 18382,
+      "variation": 8482
+    },
+    {
+      "cle": "cahiersetprotegescahiers_8748cahierbrocheformata3192pages_html",
+      "name": "Cahier broch\u00e9 format A3 192 pages",
+      "prix_base": 9900,
+      "prix_comparaison": 17955,
+      "variation": 8055
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
+      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
+      "prix_base": 599000,
+      "prix_comparaison": 569050,
+      "variation": -29950
+    },
     {
       "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
       "name": "Faitout rond rouge Slowcook \u00d828cm",
       "prix_base": 535000,
       "prix_comparaison": 508250,
       "variation": -26750
+    },
+    {
+      "cle": "ustensilesdecuisine_6938thermometreinfrarouge_html",
+      "name": "Thermom\u00e8tre infrarouge",
+      "prix_base": 520000,
+      "prix_comparaison": 494000,
+      "variation": -26000
+    },
+    {
+      "cle": "accessoiresdecoupe_7014coupelegumes_html",
+      "name": "Coupe-l\u00e9gumes",
+      "prix_base": 475900,
+      "prix_comparaison": 452105,
+      "variation": -23795
+    },
+    {
+      "cle": "marmiteetfaitout_10067faitoutrondrougeslowcooko24cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d824cm",
+      "prix_base": 420000,
+      "prix_comparaison": 399000,
+      "variation": -21000
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "cafemoulucafeengrainsfiltres_1365336dosettesdecafeespresso250gplanteurdestropiques_html",
+      "name": "36 dosettes de caf\u00e9 espresso 250g",
+      "prix_base": 19900,
+      "prix_comparaison": 37905,
+      "indice_prix": 190.47738693467338
+    },
     {
       "cle": "cahiersetprotegescahiers_5862cahierformata3petitscarreaux96pages_html",
       "name": "Cahier format A3 petits carreaux 96 pages",
       "prix_base": 3000,
       "prix_comparaison": 5605,
       "indice_prix": 186.83333333333334
+    },
+    {
+      "cle": "conservesautreslegumes_13503cursdepalmiersenmorceaux250gsainteloi_html",
+      "name": "C\u0153urs de palmiers en morceaux 250g",
+      "prix_base": 7600,
+      "prix_comparaison": 14155,
+      "indice_prix": 186.25
+    },
+    {
+      "cle": "cahiersetprotegescahiers_6176cahierspiraleformata4petitscarreaux100pages_html",
+      "name": "Cahier spirale format A4 petits carreaux 100 pages",
+      "prix_base": 4500,
+      "prix_comparaison": 8360,
+      "indice_prix": 185.77777777777777
+    },
+    {
+      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
+      "name": "Cahier spirale polycours petits carreaux 180 pages",
+      "prix_base": 9900,
+      "prix_comparaison": 18382,
+      "indice_prix": 185.67676767676767
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +117,34 @@
       "prix_base": 1950,
       "prix_comparaison": 1852,
       "indice_prix": 94.97435897435898
+    },
+    {
+      "cle": "entretienmachineanticalcaires_3274impeceaudemineralisee1lx12_html",
+      "name": "Eau d\u00e9min\u00e9ralis\u00e9e 1L",
+      "prix_base": 1990,
+      "prix_comparaison": 1890,
+      "indice_prix": 94.9748743718593
+    },
+    {
+      "cle": "correspondance_879221etiquettesblanches38x63mm_html",
+      "name": "21 Etiquettes blanches 38x63mm",
+      "prix_base": 2550,
+      "prix_comparaison": 2422,
+      "indice_prix": 94.98039215686275
+    },
+    {
+      "cle": "crayonetcoloriage_87902rechargesportemines07mmhb_html",
+      "name": "2 Recharges porte mines 0,7mm - HB",
+      "prix_base": 2750,
+      "prix_comparaison": 2612,
+      "indice_prix": 94.98181818181818
+    },
+    {
+      "cle": "soinsbebe_2404talcbebepoudre75g_html",
+      "name": "Talc b\u00e9b\u00e9 poudre 75g",
+      "prix_base": 2750,
+      "prix_comparaison": 2612,
+      "indice_prix": 94.98181818181818
     }
   ]
 }
