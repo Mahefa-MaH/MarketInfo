@@ -27,6 +27,13 @@
       "prix_base": 14900,
       "prix_comparaison": 18900,
       "variation": 4000
+    },
+    {
+      "cle": "cafemoulucafeengrainsfiltres_1365816capsulesdecafeinecampatibledolcegustolungo112gplanteurdestropiques_html",
+      "name": "16 capsules d\u00e9caf\u00e9in\u00e9 campatible Dolce Gusto lungo 112g",
+      "prix_base": 23900,
+      "prix_comparaison": 27455,
+      "variation": 3555
     }
   ],
   "prix_diminues": [
@@ -54,6 +61,13 @@
     {
       "cle": "boitesetetuisencarton_4273saccabaskraftbrun220x100x280250pieces_html",
       "name": "Sac Cabas Kraft Brun 220X100X280 250 pi\u00e8ces",
+      "prix_base": 250000,
+      "prix_comparaison": 237500,
+      "variation": -12500
+    },
+    {
+      "cle": "boitesetetuisencarton_4336sacacroissantneutrebrunn61000pieces_html",
+      "name": "Sac \u00e0 Croissant Neutre Brun N\u00b06 1000 pi\u00e8ces",
       "prix_base": 250000,
       "prix_comparaison": 237500,
       "variation": -12500
@@ -87,6 +101,13 @@
       "prix_base": 8000,
       "prix_comparaison": 10972,
       "indice_prix": 137.15
+    },
+    {
+      "cle": "soinsbebe_5554eaumicellairepourbebebio250ml_html",
+      "name": "Eau micellaire pour b\u00e9b\u00e9 BIO 250ml",
+      "prix_base": 8500,
+      "prix_comparaison": 10972,
+      "indice_prix": 129.08235294117648
     }
   ],
   "indices_prix_plus_faibles": [
@@ -117,6 +138,13 @@
       "prix_base": 15750,
       "prix_comparaison": 14962,
       "indice_prix": 94.9968253968254
+    },
+    {
+      "cle": "soinsbebe_6743thermometreelectroniqueemboutsouplepourbebe_html",
+      "name": "Thermom\u00e8tre \u00e9lectronique embout souple pour b\u00e9b\u00e9",
+      "prix_base": 40950,
+      "prix_comparaison": 38902,
+      "indice_prix": 94.998778998779
     }
   ]
 }

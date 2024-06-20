@@ -22,6 +22,11 @@
    - Prix actuel: 18,900 Ar
    - Variation: +4,000 Ar
 
+5. **16 capsules décaféiné campatible Dolce Gusto lungo 112g**
+   - Prix avant: 23,900 Ar
+   - Prix actuel: 27,455 Ar
+   - Variation: +3,555 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
@@ -40,6 +45,11 @@
    - Variation: -16,000 Ar
 
 4. **Sac Cabas Kraft Brun 220X100X280 250 pièces**
+   - Prix avant: 250,000 Ar
+   - Prix actuel: 237,500 Ar
+   - Variation: -12,500 Ar
+
+5. **Sac à Croissant Neutre Brun N°6 1000 pièces**
    - Prix avant: 250,000 Ar
    - Prix actuel: 237,500 Ar
    - Variation: -12,500 Ar
@@ -66,6 +76,11 @@
    - Prix actuel: 10,972 Ar
    - Indice de prix : 137.15
 
+5. **Eau micellaire pour bébé BIO 250ml**
+   - Prix avant: 8,500 Ar
+   - Prix actuel: 10,972 Ar
+   - Indice de prix : 129.08
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Talc bébé poudre 75g**
@@ -86,5 +101,10 @@
 4. **Pot à soupe "Asie" 39cl 50 pièces**
    - Prix avant: 15,750 Ar
    - Prix actuel: 14,962 Ar
+   - Indice de prix : 95.00
+
+5. **Thermomètre électronique embout souple pour bébé**
+   - Prix avant: 40,950 Ar
+   - Prix actuel: 38,902 Ar
    - Indice de prix : 95.00
 
