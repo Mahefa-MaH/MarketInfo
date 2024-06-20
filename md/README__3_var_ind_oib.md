@@ -2,54 +2,54 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Cahier multicours format A4 seyès 180 pages**
-   - Prix avant: 12,500 Ar
-   - Prix actuel: 23,180 Ar
-   - Variation: +10,680 Ar
+1. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
+   - Prix avant: 569,050 Ar
+   - Prix actuel: 599,000 Ar
+   - Variation: +29,950 Ar
 
-2. **Cahier spirale polycours petits carreaux 180 pages**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 18,382 Ar
-   - Variation: +8,482 Ar
+2. **Pot à sauce cristal avec couvercle 250 pièces**
+   - Prix avant: 380,000 Ar
+   - Prix actuel: 400,000 Ar
+   - Variation: +20,000 Ar
 
-3. **Cahier broché format A3 192 pages**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 17,955 Ar
-   - Variation: +8,055 Ar
+3. **Sac en papier Kraft SOS 20x16x40cm 500 pièces**
+   - Prix avant: 304,000 Ar
+   - Prix actuel: 320,000 Ar
+   - Variation: +16,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Sac cabas Kraft Brun avec anses 360x210x335mm 250 pièces**
-   - Prix avant: 599,000 Ar
-   - Prix actuel: 569,050 Ar
-   - Variation: -29,950 Ar
+1. **Friteuse en acier induction Ø24cm**
+   - Prix avant: 149,000 Ar
+   - Prix actuel: 141,550 Ar
+   - Variation: -7,450 Ar
 
-2. **Faitout rond rouge Slowcook Ø28cm**
-   - Prix avant: 535,000 Ar
-   - Prix actuel: 508,250 Ar
-   - Variation: -26,750 Ar
+2. **Gel lavant 2en1 pour bébé BIO 250ml**
+   - Prix avant: 14,155 Ar
+   - Prix actuel: 8,500 Ar
+   - Variation: -5,655 Ar
 
-3. **Thermomètre infrarouge**
-   - Prix avant: 520,000 Ar
-   - Prix actuel: 494,000 Ar
-   - Variation: -26,000 Ar
+3. **Croquettes pour chien viandes 4kg**
+   - Prix avant: 39,900 Ar
+   - Prix actuel: 35,000 Ar
+   - Variation: -4,900 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Cahier format A3 petits carreaux 96 pages**
-   - Prix avant: 3,000 Ar
-   - Prix actuel: 5,605 Ar
-   - Indice de prix : 186.83
-
-2. **Cœurs de palmiers en morceaux 250g**
+1. **Cœurs de palmiers en morceaux 250g**
    - Prix avant: 7,600 Ar
-   - Prix actuel: 14,155 Ar
-   - Indice de prix : 186.25
+   - Prix actuel: 14,900 Ar
+   - Indice de prix : 196.05
 
-3. **Cahier spirale format A4 petits carreaux 100 pages**
-   - Prix avant: 4,500 Ar
-   - Prix actuel: 8,360 Ar
-   - Indice de prix : 185.78
+2. **Cœurs de palmiers 250g**
+   - Prix avant: 12,900 Ar
+   - Prix actuel: 19,900 Ar
+   - Indice de prix : 154.26
+
+3. **Café moulu décaféiné Régal 250g**
+   - Prix avant: 14,900 Ar
+   - Prix actuel: 18,900 Ar
+   - Indice de prix : 126.85
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 

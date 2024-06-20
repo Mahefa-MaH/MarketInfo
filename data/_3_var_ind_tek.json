@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 3822,
-      "prix_base": 184800,
-      "name": "Lafarina Farine De Bl\u00e9 Multi-Usage 50 Kg",
-      "prix_comparaison": 220000,
-      "variation": 35200
+      "list_id": 7303,
+      "prix_base": 22800,
+      "name": "Marqueur effa\u00e7able bleu 10 pi\u00e8ces",
+      "prix_comparaison": 33120,
+      "variation": 10320
     },
     {
-      "list_id": 10663,
-      "prix_base": 7900,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_comparaison": 9400,
-      "variation": 1500
+      "list_id": 7479,
+      "prix_base": 30000,
+      "name": "Valisette trieur en tissu 13 compartiments rouge",
+      "prix_comparaison": 39000,
+      "variation": 9000
+    },
+    {
+      "list_id": 7478,
+      "prix_base": 30000,
+      "name": "Valisette Trieur en tissu 13 compartiments bleu",
+      "prix_comparaison": 39000,
+      "variation": 9000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 10663,
-      "prix_base": 7900,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_comparaison": 9400,
-      "variation": 1500
+      "list_id": 7590,
+      "prix_base": 408000,
+      "name": "Coffre fort num\u00e9rique noir 250*350*250 mm",
+      "prix_comparaison": 396000,
+      "variation": -12000
     },
     {
-      "list_id": 3822,
-      "prix_base": 184800,
-      "name": "Lafarina Farine De Bl\u00e9 Multi-Usage 50 Kg",
-      "prix_comparaison": 220000,
-      "variation": 35200
+      "list_id": 7028,
+      "prix_base": 18900,
+      "name": "Cahier  48 pages 17*22 seyes paquet de 20",
+      "prix_comparaison": 16800,
+      "variation": -2100
+    },
+    {
+      "list_id": 7032,
+      "prix_base": 17600,
+      "name": "Cahier 96 pages A4 5/5 paquet de 6",
+      "prix_comparaison": 15600,
+      "variation": -2000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3822,
-      "name": "Lafarina Farine De Bl\u00e9 Multi-Usage 50 Kg",
-      "prix_base": 184800,
-      "prix_comparaison": 220000,
-      "indice_prix": 119.04761904761905
+      "list_id": 7649,
+      "name": "Ciseau 160 mm",
+      "prix_base": 3400,
+      "prix_comparaison": 5400,
+      "indice_prix": 158.8235294117647
     },
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 7900,
-      "prix_comparaison": 9400,
-      "indice_prix": 118.9873417721519
+      "list_id": 7303,
+      "name": "Marqueur effa\u00e7able bleu 10 pi\u00e8ces",
+      "prix_base": 22800,
+      "prix_comparaison": 33120,
+      "indice_prix": 145.26315789473685
+    },
+    {
+      "list_id": 7479,
+      "name": "Valisette trieur en tissu 13 compartiments rouge",
+      "prix_base": 30000,
+      "prix_comparaison": 39000,
+      "indice_prix": 130.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 7900,
-      "prix_comparaison": 9400,
-      "indice_prix": 118.9873417721519
+      "list_id": 7223,
+      "name": "Crayon de 12 couleurs color run",
+      "prix_base": 5100,
+      "prix_comparaison": 4200,
+      "indice_prix": 82.3529411764706
     },
     {
-      "list_id": 3822,
-      "name": "Lafarina Farine De Bl\u00e9 Multi-Usage 50 Kg",
-      "prix_base": 184800,
-      "prix_comparaison": 220000,
-      "indice_prix": 119.04761904761905
+      "list_id": 7032,
+      "name": "Cahier 96 pages A4 5/5 paquet de 6",
+      "prix_base": 17600,
+      "prix_comparaison": 15600,
+      "indice_prix": 88.63636363636364
+    },
+    {
+      "list_id": 7328,
+      "name": "Marqueur permanent vert 10 pi\u00e8ces",
+      "prix_base": 16200,
+      "prix_comparaison": 14400,
+      "indice_prix": 88.88888888888889
     }
   ]
 }
