@@ -1,12 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_127243tondeuseautoporteethermiquelargeurdecoupe84cmalpinaat484a352cmjusqua2800m8008984851337_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm\u00b3 - Jusqu'a 2800 m\u00b2",
-      "prix_base": 13470000,
-      "prix_comparaison": 13471000,
-      "variation": 1000,
-      "indice_prix": 100.00742390497402
+      "cle": "ordinateurportable_140307apple14macbookprom32024ram16gostockage1toargentazerty0195949640940_html",
+      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Argent - AZERTY",
+      "prix_base": 12517000,
+      "prix_comparaison": 12517000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_133169apple14macbookprom32023ram8gostockage512goargentazerty0195949014758_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 10243000,
+      "prix_comparaison": 10243000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_139119apple15macbookairm32024ram16gostockage512golumierestellaireazerty0195949638435_html",
+      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 10492000,
+      "prix_comparaison": 10492000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

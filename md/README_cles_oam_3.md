@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Tondeuse autoportée thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m²**
-   - Prix avant: 11,667,000 Ar
-   - Prix actuel: 11,667,000 Ar
+1. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 18,580,000 Ar
+   - Prix actuel: 18,580,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **GRE - Piscine ronde acier Ø4,80m x H: 1,32m - Imitation bois Nordique Filtration a sable**
-   - Prix avant: 11,809,000 Ar
-   - Prix actuel: 11,809,000 Ar
+2. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 14,149,000 Ar
+   - Prix actuel: 14,149,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **GRE - Kit Piscine hors sol acier grise anthracite ronde Juni Ø480 x H132 cm (Livrée avec filtre a sable + sable + échelle + t**
-   - Prix avant: 10,279,000 Ar
-   - Prix actuel: 10,279,000 Ar
+3. **Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Minuit - AZERTY**
+   - Prix avant: 10,548,000 Ar
+   - Prix actuel: 10,548,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

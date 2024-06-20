@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuserobotsansfil_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
-      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
-      "prix_base": 19362000,
-      "prix_comparaison": 19362000,
+      "cle": "ordinateurportable_137456pcportablegamingerazernberazermajorx2016qhd240hzi914900hx32gossd1tohdd1tortx4070azerty4061275228540_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY",
+      "prix_base": 11779000,
+      "prix_comparaison": 11779000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuserobotsansfil_137380tondeuserobotautonomestigaa1000fonctionneavecbatterie8008984864672_html",
-      "name": "Tondeuse robot autonome STIGA A 1000 - Fonctionne avec batterie",
-      "prix_base": 15783000,
-      "prix_comparaison": 15783000,
+      "cle": "ordinateurportable_137454pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tohdd1tortx4090azerty4061275228335_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To- RTX 4090 - AZERTY",
+      "prix_base": 17896000,
+      "prix_comparaison": 17896000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tableplaquedecuissoninduction_141174tableinductionaspiranteboschser6pvq811h26enoir4foyershomeconnectl802xp522mm4242005433612_html",
-      "name": "Table induction Aspirante - BOSCH SER6 - PVQ811H26E Noir - 4-foyers - Home Connect - L802xP522 mm",
-      "prix_base": 12203000,
-      "prix_comparaison": 12203000,
+      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 10474000,
+      "prix_comparaison": 10474000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,10 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_124798pcdebureaugamingomenbyhp45lgt221042nfamdryzen77700xram32goddr51tossdgeforcertx408016gofreedos0197497044553_html",
-      "name": "PC Gamer Omen by HP 45L GT22-1042nf - AMD Ryzen 7-7700X - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDOS",
-      "prix_base": 28336000,
-      "prix_comparaison": 28336000,
+      "cle": "ordinateurportable_133185apple14macbookprom32023ram8gostockage512gogrissideralazerty0195949098819_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 512Go - Gris sid\u00e9ral - Azerty",
+      "prix_base": 10189000,
+      "prix_comparaison": 10189000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_133174apple14macbookprom3pro2023ram18gostockage512goargentazerty0195949077890_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
+      "prix_base": 11737000,
+      "prix_comparaison": 11737000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_141885apple15macbookairm32024ram16gostockage512goargentazerty0195949637964_html",
+      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Argent - AZERTY",
+      "prix_base": 10488000,
+      "prix_comparaison": 10488000,
       "variation": 0,
       "indice_prix": 100.0
     }

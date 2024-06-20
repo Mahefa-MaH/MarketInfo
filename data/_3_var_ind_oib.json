@@ -1,150 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cafemoulucafeengrainsfiltres_1365336dosettesdecafeespresso250gplanteurdestropiques_html",
-      "name": "36 dosettes de caf\u00e9 espresso 250g",
-      "prix_base": 19900,
-      "prix_comparaison": 37905,
-      "variation": 18005
-    },
-    {
-      "cle": "cafemoulucafeengrainsfiltres_1376216capsulescafeespressointensecompatinledolcegusto112gplanteurdestropiques_html",
-      "name": "16 capsules caf\u00e9 espresso intense compatible Dolce Gusto 112g",
-      "prix_base": 22500,
-      "prix_comparaison": 37905,
-      "variation": 15405
-    },
-    {
-      "cle": "gelslavantsetshampoings_5553gellavant2en1pourbebebio250ml_html",
-      "name": "Gel lavant 2en1 pour b\u00e9b\u00e9 BIO 250ml",
-      "prix_base": 8500,
-      "prix_comparaison": 14155,
-      "variation": 5655
-    },
-    {
-      "cle": "cafemoulucafeengrainsfiltres_12472cafemouludecafeineregal250gplanteurdestropiques_html",
-      "name": "Caf\u00e9 moulu d\u00e9caf\u00e9in\u00e9 R\u00e9gal 250g",
-      "prix_base": 14900,
-      "prix_comparaison": 18900,
-      "variation": 4000
-    },
-    {
-      "cle": "cafemoulucafeengrainsfiltres_1365816capsulesdecafeinecampatibledolcegustolungo112gplanteurdestropiques_html",
-      "name": "16 capsules d\u00e9caf\u00e9in\u00e9 campatible Dolce Gusto lungo 112g",
-      "prix_base": 23900,
-      "prix_comparaison": 27455,
-      "variation": 3555
+      "cle": "cahiersetprotegescahiers_6173cahiermulticoursformata4seyes180pages_html",
+      "name": "Cahier multicours format A4 sey\u00e8s 180 pages",
+      "prix_base": 12500,
+      "prix_comparaison": 23180,
+      "variation": 10680
     }
   ],
   "prix_diminues": [
     {
-      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
-      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
-      "prix_base": 599000,
-      "prix_comparaison": 569050,
-      "variation": -29950
-    },
-    {
-      "cle": "barquettespotsetbolsjetables_7424potasaucecristalaveccouvercle250pieces_html",
-      "name": "Pot \u00e0 sauce cristal avec couvercle 250 pi\u00e8ces",
-      "prix_base": 400000,
-      "prix_comparaison": 380000,
-      "variation": -20000
-    },
-    {
-      "cle": "boitesetetuisencarton_4298sacenpapierkraftsos20x16x40cm500pieces_html",
-      "name": "Sac en papier Kraft SOS 20x16x40cm 500 pi\u00e8ces",
-      "prix_base": 320000,
-      "prix_comparaison": 304000,
-      "variation": -16000
-    },
-    {
-      "cle": "boitesetetuisencarton_4273saccabaskraftbrun220x100x280250pieces_html",
-      "name": "Sac Cabas Kraft Brun 220X100X280 250 pi\u00e8ces",
-      "prix_base": 250000,
-      "prix_comparaison": 237500,
-      "variation": -12500
-    },
-    {
-      "cle": "boitesetetuisencarton_4336sacacroissantneutrebrunn61000pieces_html",
-      "name": "Sac \u00e0 Croissant Neutre Brun N\u00b06 1000 pi\u00e8ces",
-      "prix_base": 250000,
-      "prix_comparaison": 237500,
-      "variation": -12500
+      "cle": "marmiteetfaitout_10068faitoutrondrougeslowcooko28cm_html",
+      "name": "Faitout rond rouge Slowcook \u00d828cm",
+      "prix_base": 535000,
+      "prix_comparaison": 508250,
+      "variation": -26750
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cafemoulucafeengrainsfiltres_1365336dosettesdecafeespresso250gplanteurdestropiques_html",
-      "name": "36 dosettes de caf\u00e9 espresso 250g",
-      "prix_base": 19900,
-      "prix_comparaison": 37905,
-      "indice_prix": 190.47738693467338
-    },
-    {
-      "cle": "cafemoulucafeengrainsfiltres_1376216capsulescafeespressointensecompatinledolcegusto112gplanteurdestropiques_html",
-      "name": "16 capsules caf\u00e9 espresso intense compatible Dolce Gusto 112g",
-      "prix_base": 22500,
-      "prix_comparaison": 37905,
-      "indice_prix": 168.46666666666667
-    },
-    {
-      "cle": "gelslavantsetshampoings_5553gellavant2en1pourbebebio250ml_html",
-      "name": "Gel lavant 2en1 pour b\u00e9b\u00e9 BIO 250ml",
-      "prix_base": 8500,
-      "prix_comparaison": 14155,
-      "indice_prix": 166.52941176470588
-    },
-    {
-      "cle": "gelslavantsetshampoings_5555laitdetoilettebebebio250ml_html",
-      "name": "Lait de toilette B\u00e9b\u00e9 BIO 250ml",
-      "prix_base": 8000,
-      "prix_comparaison": 10972,
-      "indice_prix": 137.15
-    },
-    {
-      "cle": "soinsbebe_5554eaumicellairepourbebebio250ml_html",
-      "name": "Eau micellaire pour b\u00e9b\u00e9 BIO 250ml",
-      "prix_base": 8500,
-      "prix_comparaison": 10972,
-      "indice_prix": 129.08235294117648
+      "cle": "cahiersetprotegescahiers_5862cahierformata3petitscarreaux96pages_html",
+      "name": "Cahier format A3 petits carreaux 96 pages",
+      "prix_base": 3000,
+      "prix_comparaison": 5605,
+      "indice_prix": 186.83333333333334
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "soinsbebe_2404talcbebepoudre75g_html",
-      "name": "Talc b\u00e9b\u00e9 poudre 75g",
-      "prix_base": 2750,
-      "prix_comparaison": 2612,
-      "indice_prix": 94.98181818181818
-    },
-    {
-      "cle": "thesetinfusions_5214thenoirenglishbreakfast25sachets_html",
-      "name": "Th\u00e9 noir english breakfast 25 sachets",
-      "prix_base": 7190,
-      "prix_comparaison": 6830,
-      "indice_prix": 94.99304589707927
-    },
-    {
-      "cle": "biberonstetinesetsucettes_6683tetineensiliconeaircontrol6mois2pieces_html",
-      "name": "T\u00e9tine en silicone air control + 6 mois 2 pi\u00e8ces",
-      "prix_base": 8950,
-      "prix_comparaison": 8502,
-      "indice_prix": 94.99441340782123
-    },
-    {
-      "cle": "vaissellesjetables_4313potasoupeasie39cl50pieces_html",
-      "name": "Pot \u00e0 soupe \"Asie\" 39cl 50 pi\u00e8ces",
-      "prix_base": 15750,
-      "prix_comparaison": 14962,
-      "indice_prix": 94.9968253968254
-    },
-    {
-      "cle": "soinsbebe_6743thermometreelectroniqueemboutsouplepourbebe_html",
-      "name": "Thermom\u00e8tre \u00e9lectronique embout souple pour b\u00e9b\u00e9",
-      "prix_base": 40950,
-      "prix_comparaison": 38902,
-      "indice_prix": 94.998778998779
+      "cle": "crayonetcoloriage_7565gommeplastique_html",
+      "name": "Gomme plastique",
+      "prix_base": 1950,
+      "prix_comparaison": 1852,
+      "indice_prix": 94.97435897435898
     }
   ]
 }

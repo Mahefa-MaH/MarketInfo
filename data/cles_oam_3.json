@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_127242tondeuseautoporteethermiquelargeurcoupe98cmalpinaat398ajusqua4500m8008984851177_html",
-      "name": "Tondeuse autoport\u00e9e thermique - Largeur coupe : 98 cm - ALPINA AT3 98A - Jusqu'a 4500 m\u00b2",
-      "prix_base": 11667000,
-      "prix_comparaison": 11667000,
+      "cle": "ordinateurportable_133933apple14macbookprom3max2023ram36gostockage1toargentazerty0195949078774_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 18580000,
+      "prix_comparaison": 18580000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "piscinecompletekitpiscine_99516grepiscinerondeaciero480mxh132mimitationboisnordiquefiltrationasable8412081313726_html",
-      "name": "GRE - Piscine ronde acier \u00d84,80m x H: 1,32m - Imitation bois Nordique Filtration a sable",
-      "prix_base": 11809000,
-      "prix_comparaison": 11809000,
+      "cle": "ordinateurportable_133932apple14macbookprom3pro2023ram18gostockage1toargentazerty0195949078330_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 14149000,
+      "prix_comparaison": 14149000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "piscinecompletekitpiscine_138986grekitpiscinehorssolaciergriseanthraciterondejunio480xh132cmlivreeavecfiltreasablesableechellet8412081314518_html",
-      "name": "GRE - Kit Piscine hors sol acier grise anthracite ronde Juni \u00d8480 x H132 cm (Livr\u00e9e avec filtre a sable + sable + \u00e9chelle + t",
-      "prix_base": 10279000,
-      "prix_comparaison": 10279000,
+      "cle": "ordinateurportable_140305apple15macbookairm32024ram16gostockage512gominuitazerty0195949638909_html",
+      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Minuit - AZERTY",
+      "prix_base": 10548000,
+      "prix_comparaison": 10548000,
       "variation": 0,
       "indice_prix": 100.0
     }
