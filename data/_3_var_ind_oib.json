@@ -6,20 +6,6 @@
       "prix_base": 569050,
       "prix_comparaison": 599000,
       "variation": 29950
-    },
-    {
-      "cle": "barquettespotsetbolsjetables_7424potasaucecristalaveccouvercle250pieces_html",
-      "name": "Pot \u00e0 sauce cristal avec couvercle 250 pi\u00e8ces",
-      "prix_base": 380000,
-      "prix_comparaison": 400000,
-      "variation": 20000
-    },
-    {
-      "cle": "boitesetetuisencarton_4298sacenpapierkraftsos20x16x40cm500pieces_html",
-      "name": "Sac en papier Kraft SOS 20x16x40cm 500 pi\u00e8ces",
-      "prix_base": 304000,
-      "prix_comparaison": 320000,
-      "variation": 16000
     }
   ],
   "prix_diminues": [
@@ -29,20 +15,6 @@
       "prix_base": 149000,
       "prix_comparaison": 141550,
       "variation": -7450
-    },
-    {
-      "cle": "gelslavantsetshampoings_5553gellavant2en1pourbebebio250ml_html",
-      "name": "Gel lavant 2en1 pour b\u00e9b\u00e9 BIO 250ml",
-      "prix_base": 14155,
-      "prix_comparaison": 8500,
-      "variation": -5655
-    },
-    {
-      "cle": "croquettesetfriandiseschat_7040croquettespourchienviandes4kg_html",
-      "name": "Croquettes pour chien viandes 4kg",
-      "prix_base": 39900,
-      "prix_comparaison": 35000,
-      "variation": -4900
     }
   ],
   "indices_prix_plus_eleves": [
@@ -52,20 +24,6 @@
       "prix_base": 7600,
       "prix_comparaison": 14900,
       "indice_prix": 196.05263157894737
-    },
-    {
-      "cle": "conservesautreslegumes_12923cursdepalmiers250gsainteloi_html",
-      "name": "C\u0153urs de palmiers 250g",
-      "prix_base": 12900,
-      "prix_comparaison": 19900,
-      "indice_prix": 154.26356589147287
-    },
-    {
-      "cle": "cafemoulucafeengrainsfiltres_12472cafemouludecafeineregal250gplanteurdestropiques_html",
-      "name": "Caf\u00e9 moulu d\u00e9caf\u00e9in\u00e9 R\u00e9gal 250g",
-      "prix_base": 14900,
-      "prix_comparaison": 18900,
-      "indice_prix": 126.84563758389261
     }
   ],
   "indices_prix_plus_faibles": [
@@ -75,20 +33,6 @@
       "prix_base": 14155,
       "prix_comparaison": 8500,
       "indice_prix": 60.04945249028612
-    },
-    {
-      "cle": "gelslavantsetshampoings_5555laitdetoilettebebebio250ml_html",
-      "name": "Lait de toilette B\u00e9b\u00e9 BIO 250ml",
-      "prix_base": 10972,
-      "prix_comparaison": 8000,
-      "indice_prix": 72.91286912139992
-    },
-    {
-      "cle": "soinsbebe_5554eaumicellairepourbebebio250ml_html",
-      "name": "Eau micellaire pour b\u00e9b\u00e9 BIO 250ml",
-      "prix_base": 10972,
-      "prix_comparaison": 8500,
-      "indice_prix": 77.46992344148742
     }
   ]
 }
