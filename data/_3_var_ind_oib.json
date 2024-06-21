@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "boitesetetuisencarton_4277saccabaskraftbrunavecanses360x210x335mm250pieces_html",
-      "name": "Sac cabas Kraft Brun avec anses 360x210x335mm 250 pi\u00e8ces",
-      "prix_base": 569050,
-      "prix_comparaison": 599000,
-      "variation": 29950
+      "cle": "yaourtsaboire_1827yoptropical250g_html",
+      "name": "Yop tropical 250g",
+      "prix_base": 1950,
+      "prix_comparaison": 1890,
+      "variation": -60
+    },
+    {
+      "cle": "yaourtsaboire_1826yopnaturesucre250g_html",
+      "name": "Yop nature sucre 250g",
+      "prix_base": 1950,
+      "prix_comparaison": 1890,
+      "variation": -60
+    },
+    {
+      "cle": "yaourtsaboire_1825yopfraise250g_html",
+      "name": "Yop fraise 250g",
+      "prix_base": 1950,
+      "prix_comparaison": 1890,
+      "variation": -60
     }
   ],
   "prix_diminues": [
     {
-      "cle": "friteuses_11814friteuseenacierinductiono24cmdomedia_html",
-      "name": "Friteuse en acier induction \u00d824cm",
-      "prix_base": 149000,
-      "prix_comparaison": 141550,
-      "variation": -7450
+      "cle": "televiseursetsupports_14838televiseur4kminiqledtcl55c803144hznatifgoogletvtcl_html",
+      "name": "T\u00e9l\u00e9viseur 4K MINI QLED TCL 55C803 - 144HZ NATIF GOOGLE TV TCL",
+      "prix_base": 5370000,
+      "prix_comparaison": 5260000,
+      "variation": -110000
+    },
+    {
+      "cle": "coiffure_15509steampod40lisseurboucleurvapeurplaqueenceramiquehauteresistancelorealprofessionnelparis_html",
+      "name": "Steampod 4.0 - Lisseur-Boucleur Vapeur - Plaque en c\u00e9ramique haute r\u00e9sistance - L'Or\u00e9al Professionnel Paris -",
+      "prix_base": 1739000,
+      "prix_comparaison": 1704000,
+      "variation": -35000
+    },
+    {
+      "cle": "televiseursetsupports_14839tcl40sf540tvled40101cmfullhd1980x1080tvconnectefiretvhdr2xhdmi_html",
+      "name": "TCL 40SF540 - TV LED 40 (101 cm) - Full HD 1980 x 1080 - TV connect\u00e9 FIRE TV - HDR - 2 x HDMI",
+      "prix_base": 1692000,
+      "prix_comparaison": 1658000,
+      "variation": -34000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "conservesautreslegumes_13503cursdepalmiersenmorceaux250gsainteloi_html",
-      "name": "C\u0153urs de palmiers en morceaux 250g",
-      "prix_base": 7600,
-      "prix_comparaison": 14900,
-      "indice_prix": 196.05263157894737
+      "cle": "barbecueplancha_14015planchaxxlcontinentaledisoncegpl872_html",
+      "name": "Plancha XXL CONTINENTAL EDISON CEGPL872",
+      "prix_base": 355000,
+      "prix_comparaison": 351000,
+      "indice_prix": 98.87323943661971
+    },
+    {
+      "cle": "rasagehomme_14002babylisstondeusecheveuxe695ebleu_html",
+      "name": "BABYLISS Tondeuse cheveux E695E - Bleu",
+      "prix_base": 154000,
+      "prix_comparaison": 152000,
+      "indice_prix": 98.7012987012987
+    },
+    {
+      "cle": "enceintesbluetooth_14872enceintebluetoothrondebigbenparty15wnoiretrouge_html",
+      "name": "Enceinte Bluetooth ronde BIGBEN PARTY - 15W - Noir et rouge",
+      "prix_base": 235000,
+      "prix_comparaison": 231000,
+      "indice_prix": 98.29787234042553
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "gelslavantsetshampoings_5553gellavant2en1pourbebebio250ml_html",
-      "name": "Gel lavant 2en1 pour b\u00e9b\u00e9 BIO 250ml",
-      "prix_base": 14155,
-      "prix_comparaison": 8500,
-      "indice_prix": 60.04945249028612
+      "cle": "enceintesbluetooth_14877bigbenpartyenceintebluetoothsansfilmainstream1effetslumineuxipx615wusbc_html",
+      "name": "BIGBEN Party - Enceinte Bluetooth sans fil Mainstream 1 - Effets lumineux - IPX6 - 15W - USB-C",
+      "prix_base": 178000,
+      "prix_comparaison": 158000,
+      "indice_prix": 88.76404494382022
+    },
+    {
+      "cle": "rasagehomme_13998remingtonne3870tondeusevisageantibacteriennehypoallergeniquenanoseriepournezetoreilles_html",
+      "name": "Remington NE3870 Tondeuse Visage Antibact\u00e9rienne Hypoallerg\u00e9nique Nano Serie pour Nez et Oreilles",
+      "prix_base": 128000,
+      "prix_comparaison": 118000,
+      "indice_prix": 92.1875
+    },
+    {
+      "cle": "yaourtsaboire_1823yopbanane250g_html",
+      "name": "Yop banane 250g",
+      "prix_base": 1950,
+      "prix_comparaison": 1890,
+      "indice_prix": 96.92307692307692
     }
   ]
 }

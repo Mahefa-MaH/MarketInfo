@@ -2,37 +2,27 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Crème hydratante bio cosmos 75ml**
-   - Prix avant: 13,900 Ar
-   - Prix actuel: 13,205 Ar
-   - Variation: -695 Ar
+1. **CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB**
+   - Prix avant: 1,556,000 Ar
+   - Prix actuel: 1,524,000 Ar
+   - Variation: -32,000 Ar
 
-2. **Déodorant compressé sport homme 100ml**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,405 Ar
-   - Variation: -495 Ar
-
-3. **Déodorant men energy musk 200ml**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,405 Ar
-   - Variation: -495 Ar
+2. **APPLE Écouteurs EarPods (USB-C)**
+   - Prix avant: 129,000 Ar
+   - Prix actuel: 126,000 Ar
+   - Variation: -3,000 Ar
 
 
 
 ## Indice de prix
 
-1. **Déodorant compressé sport homme 100ml**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,405 Ar
-   - Indice de prix : 95.00
+1. **APPLE Écouteurs EarPods (USB-C)**
+   - Prix avant: 129,000 Ar
+   - Prix actuel: 126,000 Ar
+   - Indice de prix : 97.67
 
-2. **Déodorant men energy musk 200ml**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 9,405 Ar
-   - Indice de prix : 95.00
-
-3. **Crème hydratante bio cosmos 75ml**
-   - Prix avant: 13,900 Ar
-   - Prix actuel: 13,205 Ar
-   - Indice de prix : 95.00
+2. **CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB**
+   - Prix avant: 1,556,000 Ar
+   - Prix actuel: 1,524,000 Ar
+   - Indice de prix : 97.94
 

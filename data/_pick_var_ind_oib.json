@@ -1,48 +1,34 @@
 {
   "Variation de prix": [
     {
-      "cle": "soinsbebe_13706cremehydratantebiocosmos75mlpommette_html",
-      "name": "Cr\u00e8me hydratante bio cosmos 75ml",
-      "prix_base": 13900,
-      "prix_comparaison": 13205,
-      "variation": -695
+      "cle": "televiseursetsupports_14835continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb_html",
+      "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
+      "prix_base": 1556000,
+      "prix_comparaison": 1524000,
+      "variation": -32000
     },
     {
-      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
-      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
-      "prix_base": 9900,
-      "prix_comparaison": 9405,
-      "variation": -495
-    },
-    {
-      "cle": "deodorantsparfums_12914deodorantmenenergymusk200mllabell_html",
-      "name": "D\u00e9odorant men energy musk 200ml",
-      "prix_base": 9900,
-      "prix_comparaison": 9405,
-      "variation": -495
+      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
+      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
+      "prix_base": 129000,
+      "prix_comparaison": 126000,
+      "variation": -3000
     }
   ],
   "indice de prix": [
     {
-      "cle": "deodorantsparfums_13598deodorantcompressesporthomme100mllabell_html",
-      "name": "D\u00e9odorant compress\u00e9 sport homme 100ml",
-      "prix_base": 9900,
-      "prix_comparaison": 9405,
-      "indice_prix": 95.0
+      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
+      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
+      "prix_base": 129000,
+      "prix_comparaison": 126000,
+      "indice_prix": 97.67441860465117
     },
     {
-      "cle": "deodorantsparfums_12914deodorantmenenergymusk200mllabell_html",
-      "name": "D\u00e9odorant men energy musk 200ml",
-      "prix_base": 9900,
-      "prix_comparaison": 9405,
-      "indice_prix": 95.0
-    },
-    {
-      "cle": "soinsbebe_13706cremehydratantebiocosmos75mlpommette_html",
-      "name": "Cr\u00e8me hydratante bio cosmos 75ml",
-      "prix_base": 13900,
-      "prix_comparaison": 13205,
-      "indice_prix": 95.0
+      "cle": "televiseursetsupports_14835continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb_html",
+      "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
+      "prix_base": 1556000,
+      "prix_comparaison": 1524000,
+      "indice_prix": 97.94344473007712
     }
   ]
 }
