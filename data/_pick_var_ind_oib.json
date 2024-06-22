@@ -1,11 +1,144 @@
 {
   "Variation de prix": [
     {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6165000,
+      "prix_comparaison": 6039000,
+      "variation": -126000
+    },
+    {
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5946000,
+      "prix_comparaison": 5825000,
+      "variation": -121000
+    },
+    {
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5379000,
+      "prix_comparaison": 5269000,
+      "variation": -110000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5212000,
+      "prix_comparaison": 5106000,
+      "variation": -106000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4243000,
+      "prix_comparaison": 4157000,
+      "variation": -86000
+    },
+    {
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 4176000,
+      "prix_comparaison": 4091000,
+      "variation": -85000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 4042000,
+      "prix_comparaison": 3960000,
+      "variation": -82000
+    },
+    {
+      "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3242000,
+      "prix_comparaison": 3175000,
+      "variation": -67000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
+      "name": "iPhone 13 128Go Midnight",
+      "prix_base": 3026000,
+      "prix_comparaison": 2964000,
+      "variation": -62000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2236000,
+      "prix_comparaison": 2178000,
+      "variation": -58000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2087000,
+      "prix_comparaison": 2045000,
+      "variation": -42000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2087000,
+      "prix_comparaison": 2045000,
+      "variation": -42000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14800applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2087000,
+      "prix_comparaison": 2045000,
+      "variation": -42000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 2087000,
+      "prix_comparaison": 2045000,
+      "variation": -42000
+    },
+    {
       "cle": "televiseursetsupports_14835continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb_html",
       "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
       "prix_base": 1556000,
       "prix_comparaison": 1524000,
       "variation": -32000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14796applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandml_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1369000,
+      "prix_comparaison": 1340000,
+      "variation": -29000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14798applewatchsegps44mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1450000,
+      "prix_comparaison": 1421000,
+      "variation": -29000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14795applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1314000,
+      "prix_comparaison": 1287000,
+      "variation": -27000
+    },
+    {
+      "cle": "smartphones_14641xiaomiredmi124128goargent_html",
+      "name": "XIAOMI - REDMI 12 4 - 128Go - ARGENT",
+      "prix_base": 668000,
+      "prix_comparaison": 655000,
+      "variation": -13000
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
+      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
+      "prix_base": 368000,
+      "prix_comparaison": 361000,
+      "variation": -7000
     },
     {
       "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
@@ -17,6 +150,13 @@
   ],
   "indice de prix": [
     {
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2236000,
+      "prix_comparaison": 2178000,
+      "indice_prix": 97.40608228980322
+    },
+    {
       "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
       "name": "APPLE \u00c9couteurs EarPods (USB-C)",
       "prix_base": 129000,
@@ -24,11 +164,137 @@
       "indice_prix": 97.67441860465117
     },
     {
+      "cle": "montresbraceletsconnectes_14796applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandml_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - M/L",
+      "prix_base": 1369000,
+      "prix_comparaison": 1340000,
+      "indice_prix": 97.88166544923301
+    },
+    {
+      "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3242000,
+      "prix_comparaison": 3175000,
+      "indice_prix": 97.93337446020975
+    },
+    {
       "cle": "televiseursetsupports_14835continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb_html",
       "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
       "prix_base": 1556000,
       "prix_comparaison": 1524000,
       "indice_prix": 97.94344473007712
+    },
+    {
+      "cle": "montresbraceletsconnectes_14795applewatchsegps40mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1314000,
+      "prix_comparaison": 1287000,
+      "indice_prix": 97.94520547945206
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
+      "name": "iPhone 13 128Go Midnight",
+      "prix_base": 3026000,
+      "prix_comparaison": 2964000,
+      "indice_prix": 97.95109054857899
+    },
+    {
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5379000,
+      "prix_comparaison": 5269000,
+      "indice_prix": 97.95501022494888
+    },
+    {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6165000,
+      "prix_comparaison": 6039000,
+      "indice_prix": 97.95620437956204
+    },
+    {
+      "cle": "smartphones_14844samsunggalaxys24128goargent_html",
+      "name": "SAMSUNG Galaxy S24 128 Go Argent",
+      "prix_base": 4176000,
+      "prix_comparaison": 4091000,
+      "indice_prix": 97.96455938697318
+    },
+    {
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5946000,
+      "prix_comparaison": 5825000,
+      "indice_prix": 97.96501849983181
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5212000,
+      "prix_comparaison": 5106000,
+      "indice_prix": 97.96623177283193
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 4042000,
+      "prix_comparaison": 3960000,
+      "indice_prix": 97.97130133597229
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4243000,
+      "prix_comparaison": 4157000,
+      "indice_prix": 97.97313221777044
+    },
+    {
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2087000,
+      "prix_comparaison": 2045000,
+      "indice_prix": 97.98754192620987
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2087000,
+      "prix_comparaison": 2045000,
+      "indice_prix": 97.98754192620987
+    },
+    {
+      "cle": "montresbraceletsconnectes_14800applewatchseries9gps41mmboitierpinkaluminiumbraceletlightpinksportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Light Pink Sport Band - S/M",
+      "prix_base": 2087000,
+      "prix_comparaison": 2045000,
+      "indice_prix": 97.98754192620987
+    },
+    {
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 2087000,
+      "prix_comparaison": 2045000,
+      "indice_prix": 97.98754192620987
+    },
+    {
+      "cle": "montresbraceletsconnectes_14798applewatchsegps44mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch SE GPS - 44mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1450000,
+      "prix_comparaison": 1421000,
+      "indice_prix": 98.0
+    },
+    {
+      "cle": "smartphones_14641xiaomiredmi124128goargent_html",
+      "name": "XIAOMI - REDMI 12 4 - 128Go - ARGENT",
+      "prix_base": 668000,
+      "prix_comparaison": 655000,
+      "indice_prix": 98.05389221556887
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
+      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
+      "prix_base": 368000,
+      "prix_comparaison": 361000,
+      "indice_prix": 98.09782608695652
     }
   ]
 }
