@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Détartrant ménager rouge 1L**
-   - Prix avant: 3,890 Ar
-   - Prix actuel: 3,890 Ar
+3. **Huile de soja 1L**
+   - Prix avant: 15,900 Ar
+   - Prix actuel: 15,900 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
