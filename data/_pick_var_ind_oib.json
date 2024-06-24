@@ -1,20 +1,118 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4474000,
-      "prix_comparaison": 4268000,
-      "variation": -206000
+      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 8089000,
+      "prix_comparaison": 7924000,
+      "variation": -165000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 4643000,
+      "prix_comparaison": 4548000,
+      "variation": -95000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4042000,
+      "prix_comparaison": 3960000,
+      "variation": -82000
+    },
+    {
+      "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2190000,
+      "prix_comparaison": 2146000,
+      "variation": -44000
+    },
+    {
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1562000,
+      "prix_comparaison": 1530000,
+      "variation": -32000
+    },
+    {
+      "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1549000,
+      "prix_comparaison": 1518000,
+      "variation": -31000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14794applewatchsegps40mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1314000,
+      "prix_comparaison": 1287000,
+      "variation": -27000
+    },
+    {
+      "cle": "glacesenbac_15261cremeglaceealavanille500g_html",
+      "name": "cr\u00e8me glac\u00e9e \u00e0 la vanille 500g",
+      "prix_base": 12500,
+      "prix_comparaison": 14500,
+      "variation": 2000
     }
   ],
   "indice de prix": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4474000,
-      "prix_comparaison": 4268000,
-      "indice_prix": 95.3956191327671
+      "cle": "montresbraceletsconnectes_14794applewatchsegps40mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Midnight Aluminium - Bracelet Midnight Sport Loop",
+      "prix_base": 1314000,
+      "prix_comparaison": 1287000,
+      "indice_prix": 97.94520547945206
+    },
+    {
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1562000,
+      "prix_comparaison": 1530000,
+      "indice_prix": 97.95134443021767
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
+      "name": "iPhone 15 256GB Vert",
+      "prix_base": 4643000,
+      "prix_comparaison": 4548000,
+      "indice_prix": 97.95390911048891
+    },
+    {
+      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 8089000,
+      "prix_comparaison": 7924000,
+      "indice_prix": 97.96019285449376
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 4042000,
+      "prix_comparaison": 3960000,
+      "indice_prix": 97.97130133597229
+    },
+    {
+      "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2190000,
+      "prix_comparaison": 2146000,
+      "indice_prix": 97.99086757990868
+    },
+    {
+      "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1549000,
+      "prix_comparaison": 1518000,
+      "indice_prix": 97.99870884441575
+    },
+    {
+      "cle": "glacesenbac_15261cremeglaceealavanille500g_html",
+      "name": "cr\u00e8me glac\u00e9e \u00e0 la vanille 500g",
+      "prix_base": 12500,
+      "prix_comparaison": 14500,
+      "indice_prix": 116.0
     }
   ]
 }

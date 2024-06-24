@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8000,
-      "prix_comparaison": 9990,
-      "variation": 1990
+      "cle": "verrerie_1495210verresavinballons_html",
+      "name": "10 verres \u00e0 vin ballons 19cl",
+      "prix_base": 47500,
+      "prix_comparaison": 59000,
+      "variation": 11500
+    },
+    {
+      "cle": "conservesdechampignons_10465champignonseminces3kg_html",
+      "name": "Champignons \u00e9minc\u00e9s 3kg",
+      "prix_base": 43500,
+      "prix_comparaison": 55000,
+      "variation": 11500
     }
   ],
   "prix_diminues": [
     {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8000,
-      "prix_comparaison": 9990,
-      "variation": 1990
+      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
+      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
+      "prix_base": 8089000,
+      "prix_comparaison": 7924000,
+      "variation": -165000
+    },
+    {
+      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 7046000,
+      "prix_comparaison": 6902000,
+      "variation": -144000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8000,
-      "prix_comparaison": 9990,
-      "indice_prix": 124.875
+      "cle": "chewinggum_188melonbubblegum12x100g_html",
+      "name": "Chewing gum bubble gum melon 100g",
+      "prix_base": 2500,
+      "prix_comparaison": 4500,
+      "indice_prix": 180.0
+    },
+    {
+      "cle": "bonbonsgelifiesetacidules_172clearfriedeggs12x100g_html",
+      "name": "Bonbons holiday oeufs 100g",
+      "prix_base": 2500,
+      "prix_comparaison": 4500,
+      "indice_prix": 180.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "huiles_11447huiledetournesolspecial1l_html",
-      "name": "Huile de tournesol Sp\u00e9cial 1L",
-      "prix_base": 8000,
-      "prix_comparaison": 9990,
-      "indice_prix": 124.875
+      "cle": "fruitsauxsirops_8985cocktaildefruits25kg_html",
+      "name": "Cocktail de fruits 2,5 kg",
+      "prix_base": 59000,
+      "prix_comparaison": 56000,
+      "indice_prix": 94.91525423728814
+    },
+    {
+      "cle": "enceintesbluetooth_14870enceinteportablelumineusebluetoothgrisinovalleyhp113lbth_html",
+      "name": "ENCEINTE PORTABLE LUMINEUSE BLUETOOTH GRIS - INOVALLEY - HP113L-BTH",
+      "prix_base": 120000,
+      "prix_comparaison": 117000,
+      "indice_prix": 97.5
     }
   ]
 }
