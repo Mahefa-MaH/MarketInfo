@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4474000,
-      "prix_comparaison": 4268000,
-      "variation": -206000
+      "cle": "huiles_11447huiledetournesolspecial1l_html",
+      "name": "Huile de tournesol Sp\u00e9cial 1L",
+      "prix_base": 8000,
+      "prix_comparaison": 9990,
+      "variation": 1990
     }
   ],
   "prix_diminues": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4474000,
-      "prix_comparaison": 4268000,
-      "variation": -206000
+      "cle": "huiles_11447huiledetournesolspecial1l_html",
+      "name": "Huile de tournesol Sp\u00e9cial 1L",
+      "prix_base": 8000,
+      "prix_comparaison": 9990,
+      "variation": 1990
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4474000,
-      "prix_comparaison": 4268000,
-      "indice_prix": 95.3956191327671
+      "cle": "huiles_11447huiledetournesolspecial1l_html",
+      "name": "Huile de tournesol Sp\u00e9cial 1L",
+      "prix_base": 8000,
+      "prix_comparaison": 9990,
+      "indice_prix": 124.875
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "smartphones_14845samsunggalaxys24256goindigo_html",
-      "name": "SAMSUNG Galaxy S24 256 Go Indigo",
-      "prix_base": 4474000,
-      "prix_comparaison": 4268000,
-      "indice_prix": 95.3956191327671
+      "cle": "huiles_11447huiledetournesolspecial1l_html",
+      "name": "Huile de tournesol Sp\u00e9cial 1L",
+      "prix_base": 8000,
+      "prix_comparaison": 9990,
+      "indice_prix": 124.875
     }
   ]
 }
