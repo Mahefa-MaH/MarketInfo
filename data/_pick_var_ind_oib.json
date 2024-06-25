@@ -50,6 +50,13 @@
       "variation": -27000
     },
     {
+      "cle": "deodorants_13870deodorantcologne200mltopbudget_html",
+      "name": "D\u00e9odorant fra\u00eecheur cologne 200ml",
+      "prix_base": 7500,
+      "prix_comparaison": 9200,
+      "variation": 1700
+    },
+    {
       "cle": "glacesenbac_15261cremeglaceealavanille500g_html",
       "name": "cr\u00e8me glac\u00e9e \u00e0 la vanille 500g",
       "prix_base": 12500,
@@ -113,6 +120,13 @@
       "prix_base": 12500,
       "prix_comparaison": 14500,
       "indice_prix": 116.0
+    },
+    {
+      "cle": "deodorants_13870deodorantcologne200mltopbudget_html",
+      "name": "D\u00e9odorant fra\u00eecheur cologne 200ml",
+      "prix_base": 7500,
+      "prix_comparaison": 9200,
+      "indice_prix": 122.66666666666667
     }
   ]
 }

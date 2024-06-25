@@ -37,7 +37,12 @@
    - Prix actuel: 1,287,000 Ar
    - Variation: -27,000 Ar
 
-8. **crème glacée à la vanille 500g**
+8. **Déodorant fraîcheur cologne 200ml**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 9,200 Ar
+   - Variation: +1,700 Ar
+
+9. **crème glacée à la vanille 500g**
    - Prix avant: 12,500 Ar
    - Prix actuel: 14,500 Ar
    - Variation: +2,000 Ar
@@ -85,4 +90,9 @@
    - Prix avant: 12,500 Ar
    - Prix actuel: 14,500 Ar
    - Indice de prix : 116.00
+
+9. **Déodorant fraîcheur cologne 200ml**
+   - Prix avant: 7,500 Ar
+   - Prix actuel: 9,200 Ar
+   - Indice de prix : 122.67
 

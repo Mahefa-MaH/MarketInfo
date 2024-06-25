@@ -6,34 +6,6 @@
       "prix_base": 43500,
       "prix_comparaison": 55000,
       "variation": 11500
-    },
-    {
-      "cle": "verrerie_1495210verresavinballons_html",
-      "name": "10 verres \u00e0 vin ballons 19cl",
-      "prix_base": 47500,
-      "prix_comparaison": 59000,
-      "variation": 11500
-    },
-    {
-      "cle": "cornichonsolivescondiments_1144olivesvertesdenouyautees5kg340370_html",
-      "name": "Olives vertes d\u00e9noyaut\u00e9es 4,1kg",
-      "prix_base": 73500,
-      "prix_comparaison": 81000,
-      "variation": 7500
-    },
-    {
-      "cle": "cornichonsolivescondiments_1146olivesnoiresdenoyautees5kg340400_html",
-      "name": "Olives noires d\u00e9noyaut\u00e9es 4,1kg",
-      "prix_base": 71500,
-      "prix_comparaison": 79000,
-      "variation": 7500
-    },
-    {
-      "cle": "cornichonsolivescondiments_14195olivesnoires2402605kg_html",
-      "name": "Olives noires 240/260 5kg",
-      "prix_base": 79000,
-      "prix_comparaison": 86000,
-      "variation": 7000
     }
   ],
   "prix_diminues": [
@@ -43,68 +15,12 @@
       "prix_base": 8089000,
       "prix_comparaison": 7924000,
       "variation": -165000
-    },
-    {
-      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 7046000,
-      "prix_comparaison": 6902000,
-      "variation": -144000
-    },
-    {
-      "cle": "ordinateursportables_14623pcportablegamerasustufgaminga17173fhdrtx40608goamdryzen77735hsram16go512gossdwin11_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11",
-      "prix_base": 7055000,
-      "prix_comparaison": 6911000,
-      "variation": -144000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14638iphone15256gbvert_html",
-      "name": "iPhone 15 256GB Vert",
-      "prix_base": 4643000,
-      "prix_comparaison": 4548000,
-      "variation": -95000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
-      "name": "iPhone 15 128GB Noir",
-      "prix_base": 4042000,
-      "prix_comparaison": 3960000,
-      "variation": -82000
     }
   ],
   "indices_prix_plus_eleves": [
     {
       "cle": "chewinggum_188melonbubblegum12x100g_html",
       "name": "Chewing gum bubble gum melon 100g",
-      "prix_base": 2500,
-      "prix_comparaison": 4500,
-      "indice_prix": 180.0
-    },
-    {
-      "cle": "bonbonsgelifiesetacidules_172clearfriedeggs12x100g_html",
-      "name": "Bonbons holiday oeufs 100g",
-      "prix_base": 2500,
-      "prix_comparaison": 4500,
-      "indice_prix": 180.0
-    },
-    {
-      "cle": "nettoyantsmultiusages_3280multiusourcahortelaverde12x500ml_html",
-      "name": "D\u00e9tergent multi-usage menthe verte 500ml",
-      "prix_base": 2500,
-      "prix_comparaison": 4500,
-      "indice_prix": 180.0
-    },
-    {
-      "cle": "nettoyantsmultiusages_3279multiusourcalavandaazul12x500ml_html",
-      "name": "D\u00e9tergent multi-usage lavande 500ml",
-      "prix_base": 2500,
-      "prix_comparaison": 4500,
-      "indice_prix": 180.0
-    },
-    {
-      "cle": "bonbonsgelifiesetacidules_174bonbonsjellykissesfraise100g_html",
-      "name": "Bonbons jelly kisses fraise 100g",
       "prix_base": 2500,
       "prix_comparaison": 4500,
       "indice_prix": 180.0
@@ -117,34 +33,6 @@
       "prix_base": 59000,
       "prix_comparaison": 56000,
       "indice_prix": 94.91525423728814
-    },
-    {
-      "cle": "enceintesbluetooth_14870enceinteportablelumineusebluetoothgrisinovalleyhp113lbth_html",
-      "name": "ENCEINTE PORTABLE LUMINEUSE BLUETOOTH GRIS - INOVALLEY - HP113L-BTH",
-      "prix_base": 120000,
-      "prix_comparaison": 117000,
-      "indice_prix": 97.5
-    },
-    {
-      "cle": "casquesecouteurs_14633ecouteurssansfilbluetoothurbanearsbootipcosmicpink30hdautonomierose_html",
-      "name": "Ecouteurs sans fil Bluetooth - Urban Ears BOO TIP - Cosmic Pink - 30h d'autonomie - Rose",
-      "prix_base": 257000,
-      "prix_comparaison": 251000,
-      "indice_prix": 97.66536964980544
-    },
-    {
-      "cle": "jeuxvideo_14881jumanjiaventuressauvagesjeunintendoswitch_html",
-      "name": "Jumanji - Aventures Sauvages - Jeu Nintendo Switch",
-      "prix_base": 223000,
-      "prix_comparaison": 218000,
-      "indice_prix": 97.75784753363229
-    },
-    {
-      "cle": "montresbraceletsconnectes_14648casiomontrequartzae1000w1avefhomme_html",
-      "name": "CASIO Montre Quartz AE1000W1AVEF Homme",
-      "prix_base": 182000,
-      "prix_comparaison": 178000,
-      "indice_prix": 97.8021978021978
     }
   ]
 }
