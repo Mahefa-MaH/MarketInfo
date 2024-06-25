@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "conservesdechampignons_10465champignonseminces3kg_html",
-      "name": "Champignons \u00e9minc\u00e9s 3kg",
-      "prix_base": 43500,
-      "prix_comparaison": 55000,
-      "variation": 11500
+      "cle": "verrerie_1495210verresavinballons_html",
+      "name": "10 verres \u00e0 vin ballons 19cl",
+      "prix_base": 59000,
+      "prix_comparaison": 47500,
+      "variation": -11500
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ordinateursportables_14625apple153macbookairm22023ram8gostockage256gogrissidralazerty_html",
-      "name": "Apple - 15,3 MacBook Air M2 (2023) - RAM 8Go - Stockage 256Go - Gris Sid\u008eral - AZERTY",
-      "prix_base": 8089000,
-      "prix_comparaison": 7924000,
-      "variation": -165000
+      "cle": "verrerie_1495210verresavinballons_html",
+      "name": "10 verres \u00e0 vin ballons 19cl",
+      "prix_base": 59000,
+      "prix_comparaison": 47500,
+      "variation": -11500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "chewinggum_188melonbubblegum12x100g_html",
-      "name": "Chewing gum bubble gum melon 100g",
-      "prix_base": 2500,
-      "prix_comparaison": 4500,
-      "indice_prix": 180.0
+      "cle": "verrerie_1495210verresavinballons_html",
+      "name": "10 verres \u00e0 vin ballons 19cl",
+      "prix_base": 59000,
+      "prix_comparaison": 47500,
+      "indice_prix": 80.50847457627118
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "fruitsauxsirops_8985cocktaildefruits25kg_html",
-      "name": "Cocktail de fruits 2,5 kg",
+      "cle": "verrerie_1495210verresavinballons_html",
+      "name": "10 verres \u00e0 vin ballons 19cl",
       "prix_base": 59000,
-      "prix_comparaison": 56000,
-      "indice_prix": 94.91525423728814
+      "prix_comparaison": 47500,
+      "indice_prix": 80.50847457627118
     }
   ]
 }

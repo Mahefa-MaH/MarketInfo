@@ -4,22 +4,22 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Palmier 100g Casino™ | Biscuit**
-   - Prix avant: 8,120 Ar
-   - Prix actuel: 7,500 Ar
-   - Variation: -620 Ar
+1. **Chocolat en Poudre Super Poulain 450g**
+   - Prix avant: 32,000 Ar
+   - Prix actuel: 30,000 Ar
+   - Variation: -2,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Palmier 100g Casino™ | Biscuit**
-   - Prix avant: 8,120 Ar
-   - Prix actuel: 7,500 Ar
-   - Indice de prix : 92.36
+1. **Chocolat en Poudre Super Poulain 450g**
+   - Prix avant: 32,000 Ar
+   - Prix actuel: 30,000 Ar
+   - Indice de prix : 93.75
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Palmier 100g Casino™ | Biscuit**
-   - Prix avant: 8,120 Ar
-   - Prix actuel: 7,500 Ar
-   - Indice de prix : 92.36
+1. **Chocolat en Poudre Super Poulain 450g**
+   - Prix avant: 32,000 Ar
+   - Prix actuel: 30,000 Ar
+   - Indice de prix : 93.75
 

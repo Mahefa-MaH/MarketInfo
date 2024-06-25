@@ -2,29 +2,29 @@
   "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_palmier100gcasinobiscuit_",
-      "name": "Palmier 100g Casino\u2122 | Biscuit",
-      "prix_base": 8120,
-      "prix_comparaison": 7500,
-      "variation": -620
+      "cle": "produit_chocolatenpoudresuperpoulain450g_",
+      "name": "Chocolat en Poudre Super Poulain 450g",
+      "prix_base": 32000,
+      "prix_comparaison": 30000,
+      "variation": -2000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_palmier100gcasinobiscuit_",
-      "name": "Palmier 100g Casino\u2122 | Biscuit",
-      "prix_base": 8120,
-      "prix_comparaison": 7500,
-      "indice_prix": 92.36453201970443
+      "cle": "produit_chocolatenpoudresuperpoulain450g_",
+      "name": "Chocolat en Poudre Super Poulain 450g",
+      "prix_base": 32000,
+      "prix_comparaison": 30000,
+      "indice_prix": 93.75
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_palmier100gcasinobiscuit_",
-      "name": "Palmier 100g Casino\u2122 | Biscuit",
-      "prix_base": 8120,
-      "prix_comparaison": 7500,
-      "indice_prix": 92.36453201970443
+      "cle": "produit_chocolatenpoudresuperpoulain450g_",
+      "name": "Chocolat en Poudre Super Poulain 450g",
+      "prix_base": 32000,
+      "prix_comparaison": 30000,
+      "indice_prix": 93.75
     }
   ]
 }
