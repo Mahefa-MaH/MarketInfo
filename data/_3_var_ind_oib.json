@@ -6,6 +6,20 @@
       "prix_base": 841000,
       "prix_comparaison": 852000,
       "variation": 11000
+    },
+    {
+      "cle": "enceintesbluetooth_14877bigbenpartyenceintebluetoothsansfilmainstream1effetslumineuxipx615wusbc_html",
+      "name": "BIGBEN Party - Enceinte Bluetooth sans fil Mainstream 1 - Effets lumineux - IPX6 - 15W - USB-C",
+      "prix_base": 158000,
+      "prix_comparaison": 164000,
+      "variation": 6000
+    },
+    {
+      "cle": "verrerie_1495210verresavinballons_html",
+      "name": "10 verres \u00e0 vin ballons 19cl",
+      "prix_base": 59000,
+      "prix_comparaison": 47500,
+      "variation": -11500
     }
   ],
   "prix_diminues": [
@@ -15,6 +29,20 @@
       "prix_base": 59000,
       "prix_comparaison": 47500,
       "variation": -11500
+    },
+    {
+      "cle": "enceintesbluetooth_14877bigbenpartyenceintebluetoothsansfilmainstream1effetslumineuxipx615wusbc_html",
+      "name": "BIGBEN Party - Enceinte Bluetooth sans fil Mainstream 1 - Effets lumineux - IPX6 - 15W - USB-C",
+      "prix_base": 158000,
+      "prix_comparaison": 164000,
+      "variation": 6000
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14853thrustmastervolantt80ferrari488gtbeditionps4pcfonctionneaveclesjeuxps5_html",
+      "name": "THRUSTMASTER Volant T80 FERRARI 488 GTB Edition -PS4 / PC / Fonctionne avec les jeux PS5*",
+      "prix_base": 841000,
+      "prix_comparaison": 852000,
+      "variation": 11000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +52,20 @@
       "prix_base": 158000,
       "prix_comparaison": 164000,
       "indice_prix": 103.79746835443038
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14853thrustmastervolantt80ferrari488gtbeditionps4pcfonctionneaveclesjeuxps5_html",
+      "name": "THRUSTMASTER Volant T80 FERRARI 488 GTB Edition -PS4 / PC / Fonctionne avec les jeux PS5*",
+      "prix_base": 841000,
+      "prix_comparaison": 852000,
+      "indice_prix": 101.30796670630203
+    },
+    {
+      "cle": "verrerie_1495210verresavinballons_html",
+      "name": "10 verres \u00e0 vin ballons 19cl",
+      "prix_base": 59000,
+      "prix_comparaison": 47500,
+      "indice_prix": 80.50847457627118
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +75,20 @@
       "prix_base": 59000,
       "prix_comparaison": 47500,
       "indice_prix": 80.50847457627118
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14853thrustmastervolantt80ferrari488gtbeditionps4pcfonctionneaveclesjeuxps5_html",
+      "name": "THRUSTMASTER Volant T80 FERRARI 488 GTB Edition -PS4 / PC / Fonctionne avec les jeux PS5*",
+      "prix_base": 841000,
+      "prix_comparaison": 852000,
+      "indice_prix": 101.30796670630203
+    },
+    {
+      "cle": "enceintesbluetooth_14877bigbenpartyenceintebluetoothsansfilmainstream1effetslumineuxipx615wusbc_html",
+      "name": "BIGBEN Party - Enceinte Bluetooth sans fil Mainstream 1 - Effets lumineux - IPX6 - 15W - USB-C",
+      "prix_base": 158000,
+      "prix_comparaison": 164000,
+      "indice_prix": 103.79746835443038
     }
   ]
 }
