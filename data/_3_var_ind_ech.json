@@ -1,30 +1,38 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_cremefraichesucreedanica1l_",
+      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
+      "prix_base": 19870,
+      "prix_comparaison": 29500,
+      "variation": 9630
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_chocolatenpoudresuperpoulain450g_",
-      "name": "Chocolat en Poudre Super Poulain 450g",
-      "prix_base": 32000,
-      "prix_comparaison": 30000,
-      "variation": -2000
+      "cle": "produit_cremefraichesucreedanica1l_",
+      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
+      "prix_base": 19870,
+      "prix_comparaison": 29500,
+      "variation": 9630
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_chocolatenpoudresuperpoulain450g_",
-      "name": "Chocolat en Poudre Super Poulain 450g",
-      "prix_base": 32000,
-      "prix_comparaison": 30000,
-      "indice_prix": 93.75
+      "cle": "produit_cremefraichesucreedanica1l_",
+      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
+      "prix_base": 19870,
+      "prix_comparaison": 29500,
+      "indice_prix": 148.46502264720684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_chocolatenpoudresuperpoulain450g_",
-      "name": "Chocolat en Poudre Super Poulain 450g",
-      "prix_base": 32000,
-      "prix_comparaison": 30000,
-      "indice_prix": 93.75
+      "cle": "produit_cremefraichesucreedanica1l_",
+      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
+      "prix_base": 19870,
+      "prix_comparaison": 29500,
+      "indice_prix": 148.46502264720684
     }
   ]
 }

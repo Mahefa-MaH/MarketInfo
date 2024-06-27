@@ -17,32 +17,22 @@
    - Prix actuel: 210,000 Ar
    - Variation: +60,000 Ar
 
-4. **Sérum crème Lifting 30ml**
-   - Prix avant: 195,000 Ar
-   - Prix actuel: 230,000 Ar
-   - Variation: +35,000 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Masque purifiant 75ml**
+1. **Crème solaire SPF 50 75ml**
+   - Prix avant: 110,000 Ar
+   - Prix actuel: 125,000 Ar
+   - Variation: +15,000 Ar
+
+2. **Masque purifiant 75ml**
    - Prix avant: 90,000 Ar
    - Prix actuel: 120,000 Ar
    - Variation: +30,000 Ar
 
-2. **Sérum Nutrivitaminé 15 ml**
+3. **Sérum Nutrivitaminé 15 ml**
    - Prix avant: 120,000 Ar
    - Prix actuel: 150,000 Ar
    - Variation: +30,000 Ar
-
-3. **Sérum crème Lifting 30ml**
-   - Prix avant: 195,000 Ar
-   - Prix actuel: 230,000 Ar
-   - Variation: +35,000 Ar
-
-4. **Crème rééquilibrante 50 ml**
-   - Prix avant: 150,000 Ar
-   - Prix actuel: 210,000 Ar
-   - Variation: +60,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -61,30 +51,20 @@
    - Prix actuel: 210,000 Ar
    - Indice de prix : 140.00
 
-4. **Masque purifiant 75ml**
-   - Prix avant: 90,000 Ar
-   - Prix actuel: 120,000 Ar
-   - Indice de prix : 133.33
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Sérum crème Lifting 30ml**
+1. **Crème solaire SPF 50 75ml**
+   - Prix avant: 110,000 Ar
+   - Prix actuel: 125,000 Ar
+   - Indice de prix : 113.64
+
+2. **Sérum crème Lifting 30ml**
    - Prix avant: 195,000 Ar
    - Prix actuel: 230,000 Ar
    - Indice de prix : 117.95
 
-2. **Sérum Nutrivitaminé 15 ml**
+3. **Sérum Nutrivitaminé 15 ml**
    - Prix avant: 120,000 Ar
    - Prix actuel: 150,000 Ar
    - Indice de prix : 125.00
-
-3. **Masque purifiant 75ml**
-   - Prix avant: 90,000 Ar
-   - Prix actuel: 120,000 Ar
-   - Indice de prix : 133.33
-
-4. **Crème rééquilibrante 50 ml**
-   - Prix avant: 150,000 Ar
-   - Prix actuel: 210,000 Ar
-   - Indice de prix : 140.00
 
