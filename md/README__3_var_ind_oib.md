@@ -2,69 +2,89 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **THRUSTMASTER Volant T80 FERRARI 488 GTB Edition -PS4 / PC / Fonctionne avec les jeux PS5***
-   - Prix avant: 841,000 Ar
-   - Prix actuel: 852,000 Ar
-   - Variation: +11,000 Ar
+1. **Soin nuit HELIAGREEN**
+   - Prix avant: 120,000 Ar
+   - Prix actuel: 195,000 Ar
+   - Variation: +75,000 Ar
 
-2. **BIGBEN Party - Enceinte Bluetooth sans fil Mainstream 1 - Effets lumineux - IPX6 - 15W - USB-C**
-   - Prix avant: 158,000 Ar
-   - Prix actuel: 164,000 Ar
-   - Variation: +6,000 Ar
+2. **Soin jour HELIAGREEN**
+   - Prix avant: 120,000 Ar
+   - Prix actuel: 195,000 Ar
+   - Variation: +75,000 Ar
 
-3. **10 verres à vin ballons 19cl**
-   - Prix avant: 59,000 Ar
-   - Prix actuel: 47,500 Ar
-   - Variation: -11,500 Ar
+3. **Crème rééquilibrante 50 ml**
+   - Prix avant: 150,000 Ar
+   - Prix actuel: 210,000 Ar
+   - Variation: +60,000 Ar
+
+4. **Sérum crème Lifting 30ml**
+   - Prix avant: 195,000 Ar
+   - Prix actuel: 230,000 Ar
+   - Variation: +35,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **10 verres à vin ballons 19cl**
-   - Prix avant: 59,000 Ar
-   - Prix actuel: 47,500 Ar
-   - Variation: -11,500 Ar
+1. **Masque purifiant 75ml**
+   - Prix avant: 90,000 Ar
+   - Prix actuel: 120,000 Ar
+   - Variation: +30,000 Ar
 
-2. **BIGBEN Party - Enceinte Bluetooth sans fil Mainstream 1 - Effets lumineux - IPX6 - 15W - USB-C**
-   - Prix avant: 158,000 Ar
-   - Prix actuel: 164,000 Ar
-   - Variation: +6,000 Ar
+2. **Sérum Nutrivitaminé 15 ml**
+   - Prix avant: 120,000 Ar
+   - Prix actuel: 150,000 Ar
+   - Variation: +30,000 Ar
 
-3. **THRUSTMASTER Volant T80 FERRARI 488 GTB Edition -PS4 / PC / Fonctionne avec les jeux PS5***
-   - Prix avant: 841,000 Ar
-   - Prix actuel: 852,000 Ar
-   - Variation: +11,000 Ar
+3. **Sérum crème Lifting 30ml**
+   - Prix avant: 195,000 Ar
+   - Prix actuel: 230,000 Ar
+   - Variation: +35,000 Ar
+
+4. **Crème rééquilibrante 50 ml**
+   - Prix avant: 150,000 Ar
+   - Prix actuel: 210,000 Ar
+   - Variation: +60,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **BIGBEN Party - Enceinte Bluetooth sans fil Mainstream 1 - Effets lumineux - IPX6 - 15W - USB-C**
-   - Prix avant: 158,000 Ar
-   - Prix actuel: 164,000 Ar
-   - Indice de prix : 103.80
+1. **Soin nuit HELIAGREEN**
+   - Prix avant: 120,000 Ar
+   - Prix actuel: 195,000 Ar
+   - Indice de prix : 162.50
 
-2. **THRUSTMASTER Volant T80 FERRARI 488 GTB Edition -PS4 / PC / Fonctionne avec les jeux PS5***
-   - Prix avant: 841,000 Ar
-   - Prix actuel: 852,000 Ar
-   - Indice de prix : 101.31
+2. **Soin jour HELIAGREEN**
+   - Prix avant: 120,000 Ar
+   - Prix actuel: 195,000 Ar
+   - Indice de prix : 162.50
 
-3. **10 verres à vin ballons 19cl**
-   - Prix avant: 59,000 Ar
-   - Prix actuel: 47,500 Ar
-   - Indice de prix : 80.51
+3. **Crème rééquilibrante 50 ml**
+   - Prix avant: 150,000 Ar
+   - Prix actuel: 210,000 Ar
+   - Indice de prix : 140.00
+
+4. **Masque purifiant 75ml**
+   - Prix avant: 90,000 Ar
+   - Prix actuel: 120,000 Ar
+   - Indice de prix : 133.33
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **10 verres à vin ballons 19cl**
-   - Prix avant: 59,000 Ar
-   - Prix actuel: 47,500 Ar
-   - Indice de prix : 80.51
+1. **Sérum crème Lifting 30ml**
+   - Prix avant: 195,000 Ar
+   - Prix actuel: 230,000 Ar
+   - Indice de prix : 117.95
 
-2. **THRUSTMASTER Volant T80 FERRARI 488 GTB Edition -PS4 / PC / Fonctionne avec les jeux PS5***
-   - Prix avant: 841,000 Ar
-   - Prix actuel: 852,000 Ar
-   - Indice de prix : 101.31
+2. **Sérum Nutrivitaminé 15 ml**
+   - Prix avant: 120,000 Ar
+   - Prix actuel: 150,000 Ar
+   - Indice de prix : 125.00
 
-3. **BIGBEN Party - Enceinte Bluetooth sans fil Mainstream 1 - Effets lumineux - IPX6 - 15W - USB-C**
-   - Prix avant: 158,000 Ar
-   - Prix actuel: 164,000 Ar
-   - Indice de prix : 103.80
+3. **Masque purifiant 75ml**
+   - Prix avant: 90,000 Ar
+   - Prix actuel: 120,000 Ar
+   - Indice de prix : 133.33
+
+4. **Crème rééquilibrante 50 ml**
+   - Prix avant: 150,000 Ar
+   - Prix actuel: 210,000 Ar
+   - Indice de prix : 140.00
 

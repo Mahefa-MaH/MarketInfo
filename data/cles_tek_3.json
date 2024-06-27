@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 11800,
+      "prix_comparaison": 11800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 3824,
       "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
       "prix_base": 321000,
@@ -13,14 +21,6 @@
       "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
       "prix_base": 9400,
       "prix_comparaison": 9400,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 12923,
-      "name": "Riz blanc parfum\u00e9 5 kg",
-      "prix_base": 40800,
-      "prix_comparaison": 40800,
       "variation": 0,
       "indice_prix": 100.0
     }

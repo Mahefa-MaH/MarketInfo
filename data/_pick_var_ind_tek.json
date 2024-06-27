@@ -1,20 +1,34 @@
 {
   "Variation de prix": [
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 7900,
-      "prix_comparaison": 9400,
-      "variation": 1500
+      "list_id": 13777,
+      "name": "Riz Complet Rouge Vary Gasy 5kg",
+      "prix_base": 21000,
+      "prix_comparaison": 19800,
+      "variation": -1200
+    },
+    {
+      "list_id": 5416,
+      "name": "Cr\u00e8me Akilhiver engelures/gercures visage-mains-pieds 75 ml",
+      "prix_base": 69200,
+      "prix_comparaison": 76800,
+      "variation": 7600
     }
   ],
   "indice de prix": [
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 7900,
-      "prix_comparaison": 9400,
-      "indice_prix": 118.9873417721519
+      "list_id": 13777,
+      "name": "Riz Complet Rouge Vary Gasy 5kg",
+      "prix_base": 21000,
+      "prix_comparaison": 19800,
+      "indice_prix": 94.28571428571429
+    },
+    {
+      "list_id": 5416,
+      "name": "Cr\u00e8me Akilhiver engelures/gercures visage-mains-pieds 75 ml",
+      "prix_base": 69200,
+      "prix_comparaison": 76800,
+      "indice_prix": 110.98265895953757
     }
   ]
 }
