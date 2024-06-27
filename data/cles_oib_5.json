@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_11442rizgasymena1kg_html",
-      "name": "Riz gasy mena  1kg",
-      "prix_base": 4250,
-      "prix_comparaison": 4250,
+      "cle": "riz_4951rizdetablemakalioka5kg_html",
+      "name": "Riz de table Makalioka 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_9403rizgasysacde1kg_html",
-      "name": "Riz gasy sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
+      "cle": "riz_11443rizmakalioka1kg_html",
+      "name": "Riz makalioka 1kg",
+      "prix_base": 4350,
+      "prix_comparaison": 4350,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_4952rizdeluxemakalioka5kg_html",
-      "name": "Riz de luxe Makalioka 5kg",
-      "prix_base": 19550,
-      "prix_comparaison": 19550,
+      "cle": "riz_7474rizrougecomplet5kg_html",
+      "name": "Riz rouge complet 5kg",
+      "prix_base": 18990,
+      "prix_comparaison": 18990,
       "variation": 0,
       "indice_prix": 100.0
     }
