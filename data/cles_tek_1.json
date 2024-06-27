@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 158400,
+      "prix_comparaison": 158400,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 370,
       "name": "Sucre Blanc 250 g",
       "prix_base": 3100,
@@ -9,18 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "list_id": 3828,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 11800,
-      "prix_comparaison": 11800,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 9679,
-      "name": "Sucrettes blanches  50 g",
-      "prix_base": 7000,
-      "prix_comparaison": 7000,
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
       "variation": 0,
       "indice_prix": 100.0
     }
