@@ -2,109 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **SEVERIN KG2394 Gril multifonction compact : viande - paninis - légumes - plaques anti-adhésives 23x14 -5 cm - récupérateur d**
-   - Prix avant: 227,000 Ar
-   - Prix actuel: 223,000 Ar
-   - Variation: -4,000 Ar
+1. **Béaba Transatdo Parma Grey**
+   - Prix avant: 187,000 Ar
+   - Prix actuel: 189,000 Ar
+   - Variation: +2,000 Ar
 
-2. **LITTLE BALANCE 8572 BBQ Sun Max, Barbecue électrique XXL, 2200 W, Noir**
-   - Prix avant: 424,000 Ar
-   - Prix actuel: 415,000 Ar
-   - Variation: -9,000 Ar
-
-3. **WEASY GBE42 Grill BBQ électrique a poser ou sur pieds-41,5x24cm-Température réglable-2000W -Plateau amovible-Pieds anti-déra**
-   - Prix avant: 438,000 Ar
-   - Prix actuel: 429,000 Ar
-   - Variation: -9,000 Ar
-
-4. **Barbecue électrique de table - SEVERIN - PG8554 - Surface de cuisson 37 x 29 cm - Bac a eau réducteur d'odeurs et de fumée**
-   - Prix avant: 425,000 Ar
-   - Prix actuel: 416,000 Ar
-   - Variation: -9,000 Ar
-
-5. **Barbecue électrique DELONGHI BQ60.X - Double grille - 1 900 W - Plateau aluminium amovible**
-   - Prix avant: 682,000 Ar
-   - Prix actuel: 669,000 Ar
+2. **Casque - FAIRPHONE - Fairbuds XL - Noir**
+   - Prix avant: 1,158,000 Ar
+   - Prix actuel: 1,145,000 Ar
    - Variation: -13,000 Ar
+
+3. **Baignoire Bébé + Transat de bain + Thermometre + Brosse et peigne + Ciseaux + Mouche bébé**
+   - Prix avant: 422,000 Ar
+   - Prix actuel: 399,000 Ar
+   - Variation: -23,000 Ar
+
+4. **INOTEK MOOV 3265.2 Support mural universel orientable et inclinable pour écrans plats de 32'' a 65'' (82 cm a 165 cm)**
+   - Prix avant: 281,000 Ar
+   - Prix actuel: 249,000 Ar
+   - Variation: -32,000 Ar
+
+5. **DUDULE Panier Siege 3 casiers**
+   - Prix avant: 1,087,000 Ar
+   - Prix actuel: 1,017,000 Ar
+   - Variation: -70,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Barbecue électrique et fumoir avec thermometre - NINJA - Woodfire Pro XL - OG850EU - Barbecue et Air fryer d'extérieur**
-   - Prix avant: 3,089,000 Ar
-   - Prix actuel: 3,026,000 Ar
-   - Variation: -63,000 Ar
+1. **Coffre de rangement jardin en bois exotique d'eucalyptus FSC - 190 L - 48,5 x 109,5 x 37 cm - Avec roulettes - Effet Teck**
+   - Prix avant: 1,156,000 Ar
+   - Prix actuel: 730,000 Ar
+   - Variation: -426,000 Ar
 
-2. **TEFAL Barbecue électrique sur pieds, Large surface, Thermostat réglable, Cuisson simultanée, EasyGrill XXL BG921812**
-   - Prix avant: 976,000 Ar
-   - Prix actuel: 956,000 Ar
-   - Variation: -20,000 Ar
+2. **Chariot mobile - INOTEK - Pro Prostand 42100 Visio - Pour écran de 42 a 100**
+   - Prix avant: 1,635,000 Ar
+   - Prix actuel: 1,438,000 Ar
+   - Variation: -197,000 Ar
 
-3. **SEVERIN - PG8568 - Barbecue sur pieds électrique, 2 200 W, grille en fonte d'aluminium, bac a eau réducteur de fumée et d'odeurs**
-   - Prix avant: 883,000 Ar
-   - Prix actuel: 865,000 Ar
-   - Variation: -18,000 Ar
+3. **Navigateur GPS au poignet GARMIN Foretrex 801 - Noir - 2.2” - 100 heures d'autonomie**
+   - Prix avant: 2,940,000 Ar
+   - Prix actuel: 2,795,000 Ar
+   - Variation: -145,000 Ar
 
-4. **SEVERIN - PG8567 - Barbecue de table électrique, 2 200 W, grille en fonte d'aluminium, bac a eau réducteur de fumée et d'odeu**
-   - Prix avant: 702,000 Ar
-   - Prix actuel: 687,000 Ar
-   - Variation: -15,000 Ar
+4. **DUDULE Panier Siege 3 casiers**
+   - Prix avant: 1,087,000 Ar
+   - Prix actuel: 1,017,000 Ar
+   - Variation: -70,000 Ar
 
-5. **Barbecue électrique DELONGHI BQ60.X - Double grille - 1 900 W - Plateau aluminium amovible**
-   - Prix avant: 682,000 Ar
-   - Prix actuel: 669,000 Ar
-   - Variation: -13,000 Ar
+5. **INOTEK MOOV 3265.2 Support mural universel orientable et inclinable pour écrans plats de 32'' a 65'' (82 cm a 165 cm)**
+   - Prix avant: 281,000 Ar
+   - Prix actuel: 249,000 Ar
+   - Variation: -32,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **SEVERIN KG2394 Gril multifonction compact : viande - paninis - légumes - plaques anti-adhésives 23x14 -5 cm - récupérateur d**
-   - Prix avant: 227,000 Ar
-   - Prix actuel: 223,000 Ar
-   - Indice de prix : 98.24
+1. **Béaba Transatdo Parma Grey**
+   - Prix avant: 187,000 Ar
+   - Prix actuel: 189,000 Ar
+   - Indice de prix : 101.07
 
-2. **Barbecue électrique DELONGHI BQ60.X - Double grille - 1 900 W - Plateau aluminium amovible**
-   - Prix avant: 682,000 Ar
-   - Prix actuel: 669,000 Ar
-   - Indice de prix : 98.09
+2. **Casque - FAIRPHONE - Fairbuds XL - Noir**
+   - Prix avant: 1,158,000 Ar
+   - Prix actuel: 1,145,000 Ar
+   - Indice de prix : 98.88
 
-3. **SEVERIN - PG8568 - Barbecue sur pieds électrique, 2 200 W, grille en fonte d'aluminium, bac a eau réducteur de fumée et d'odeurs**
-   - Prix avant: 883,000 Ar
-   - Prix actuel: 865,000 Ar
-   - Indice de prix : 97.96
+3. **Navigateur GPS au poignet GARMIN Foretrex 801 - Noir - 2.2” - 100 heures d'autonomie**
+   - Prix avant: 2,940,000 Ar
+   - Prix actuel: 2,795,000 Ar
+   - Indice de prix : 95.07
 
-4. **Barbecue électrique et fumoir avec thermometre - NINJA - Woodfire Pro XL - OG850EU - Barbecue et Air fryer d'extérieur**
-   - Prix avant: 3,089,000 Ar
-   - Prix actuel: 3,026,000 Ar
-   - Indice de prix : 97.96
+4. **Baignoire Bébé + Transat de bain + Thermometre + Brosse et peigne + Ciseaux + Mouche bébé**
+   - Prix avant: 422,000 Ar
+   - Prix actuel: 399,000 Ar
+   - Indice de prix : 94.55
 
-5. **TEFAL Barbecue électrique sur pieds, Large surface, Thermostat réglable, Cuisson simultanée, EasyGrill XXL BG921812**
-   - Prix avant: 976,000 Ar
-   - Prix actuel: 956,000 Ar
-   - Indice de prix : 97.95
+5. **DUDULE Panier Siege 3 casiers**
+   - Prix avant: 1,087,000 Ar
+   - Prix actuel: 1,017,000 Ar
+   - Indice de prix : 93.56
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **SEVERIN - PG8567 - Barbecue de table électrique, 2 200 W, grille en fonte d'aluminium, bac a eau réducteur de fumée et d'odeu**
-   - Prix avant: 702,000 Ar
-   - Prix actuel: 687,000 Ar
-   - Indice de prix : 97.86
+1. **Coffre de rangement jardin en bois exotique d'eucalyptus FSC - 190 L - 48,5 x 109,5 x 37 cm - Avec roulettes - Effet Teck**
+   - Prix avant: 1,156,000 Ar
+   - Prix actuel: 730,000 Ar
+   - Indice de prix : 63.15
 
-2. **LITTLE BALANCE 8572 BBQ Sun Max, Barbecue électrique XXL, 2200 W, Noir**
-   - Prix avant: 424,000 Ar
-   - Prix actuel: 415,000 Ar
-   - Indice de prix : 97.88
+2. **Chariot mobile - INOTEK - Pro Prostand 42100 Visio - Pour écran de 42 a 100**
+   - Prix avant: 1,635,000 Ar
+   - Prix actuel: 1,438,000 Ar
+   - Indice de prix : 87.95
 
-3. **Barbecue électrique de table - SEVERIN - PG8554 - Surface de cuisson 37 x 29 cm - Bac a eau réducteur d'odeurs et de fumée**
-   - Prix avant: 425,000 Ar
-   - Prix actuel: 416,000 Ar
-   - Indice de prix : 97.88
+3. **INOTEK MOOV 3265.2 Support mural universel orientable et inclinable pour écrans plats de 32'' a 65'' (82 cm a 165 cm)**
+   - Prix avant: 281,000 Ar
+   - Prix actuel: 249,000 Ar
+   - Indice de prix : 88.61
 
-4. **WEASY GBE42 Grill BBQ électrique a poser ou sur pieds-41,5x24cm-Température réglable-2000W -Plateau amovible-Pieds anti-déra**
-   - Prix avant: 438,000 Ar
-   - Prix actuel: 429,000 Ar
-   - Indice de prix : 97.95
+4. **DUDULE Panier Siege 3 casiers**
+   - Prix avant: 1,087,000 Ar
+   - Prix actuel: 1,017,000 Ar
+   - Indice de prix : 93.56
 
-5. **TEFAL Barbecue électrique sur pieds, Large surface, Thermostat réglable, Cuisson simultanée, EasyGrill XXL BG921812**
-   - Prix avant: 976,000 Ar
-   - Prix actuel: 956,000 Ar
-   - Indice de prix : 97.95
+5. **Baignoire Bébé + Transat de bain + Thermometre + Brosse et peigne + Ciseaux + Mouche bébé**
+   - Prix avant: 422,000 Ar
+   - Prix actuel: 399,000 Ar
+   - Indice de prix : 94.55
 

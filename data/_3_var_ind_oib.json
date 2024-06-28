@@ -1,94 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cremessoinsvisage_14547soinnuitheliagreen_html",
-      "name": "Soin nuit HELIAGREEN",
-      "prix_base": 120000,
-      "prix_comparaison": 195000,
-      "variation": 75000
+      "cle": "huiles_4884huiledepalmerajah20l_html",
+      "name": "Huile de palme Rajah 20L",
+      "prix_base": 154000,
+      "prix_comparaison": 163000,
+      "variation": 9000
     },
     {
-      "cle": "cremessoinsvisage_14546soinjourheliagreen_html",
-      "name": "Soin jour HELIAGREEN",
-      "prix_base": 120000,
-      "prix_comparaison": 195000,
-      "variation": 75000
+      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
+      "name": "Eau de cologne lavande 500ml",
+      "prix_base": 17900,
+      "prix_comparaison": 21900,
+      "variation": 4000
     },
     {
-      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
-      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
-      "prix_base": 150000,
-      "prix_comparaison": 210000,
-      "variation": 60000
+      "cle": "nettoyantsdemaquillants_4234demaquillantyeuxwaterproofextraitdolive125ml_html",
+      "name": "D\u00e9maquillant yeux waterproof extrait d'olive 125ml",
+      "prix_base": 26800,
+      "prix_comparaison": 29400,
+      "variation": 2600
+    },
+    {
+      "cle": "cremessoinsvisage_6790patedargilevertepurifiante300g_html",
+      "name": "P\u00e2te d'argile verte purifiante 300g",
+      "prix_base": 27300,
+      "prix_comparaison": 29700,
+      "variation": 2400
     }
   ],
   "prix_diminues": [
     {
-      "cle": "solaires_14551cremesolairespf5075ml_html",
-      "name": "Cr\u00e8me solaire SPF 50 75ml",
-      "prix_base": 110000,
-      "prix_comparaison": 125000,
-      "variation": 15000
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5825000,
+      "prix_comparaison": 5747000,
+      "variation": -78000
     },
     {
-      "cle": "cremessoinsvisage_14562masquepurifiant75ml_html",
-      "name": "Masque purifiant 75ml",
-      "prix_base": 90000,
-      "prix_comparaison": 120000,
-      "variation": 30000
+      "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1518000,
+      "prix_comparaison": 1476000,
+      "variation": -42000
     },
     {
-      "cle": "cremessoinsvisage_14586serumnutrivitamine15ml_html",
-      "name": "S\u00e9rum Nutrivitamin\u00e9 15 ml",
-      "prix_base": 120000,
-      "prix_comparaison": 150000,
-      "variation": 30000
+      "cle": "bougieschauffeplats_12160100bougieschauffeplatsblanchestopbudget_html",
+      "name": "100 Bougies chauffe plats blanches",
+      "prix_base": 39000,
+      "prix_comparaison": 35000,
+      "variation": -4000
+    },
+    {
+      "cle": "thesglaces_6391theglacepeche2l_html",
+      "name": "Th\u00e9 glac\u00e9 p\u00eache 2L",
+      "prix_base": 8500,
+      "prix_comparaison": 5400,
+      "variation": -3100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cremessoinsvisage_14547soinnuitheliagreen_html",
-      "name": "Soin nuit HELIAGREEN",
-      "prix_base": 120000,
-      "prix_comparaison": 195000,
-      "indice_prix": 162.5
+      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
+      "name": "Eau de cologne lavande 500ml",
+      "prix_base": 17900,
+      "prix_comparaison": 21900,
+      "indice_prix": 122.3463687150838
     },
     {
-      "cle": "cremessoinsvisage_14546soinjourheliagreen_html",
-      "name": "Soin jour HELIAGREEN",
-      "prix_base": 120000,
-      "prix_comparaison": 195000,
-      "indice_prix": 162.5
+      "cle": "saucesfroidesketchupmayonnaise_15102vinaigredevinrouge61l_html",
+      "name": "Vinaigre de vin rouge 6% 1L",
+      "prix_base": 5900,
+      "prix_comparaison": 6900,
+      "indice_prix": 116.94915254237289
     },
     {
-      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
-      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
-      "prix_base": 150000,
-      "prix_comparaison": 210000,
-      "indice_prix": 140.0
+      "cle": "boissonsinstantanees_8115chocolatenpoudre200g_html",
+      "name": "Chocolat en poudre 200g",
+      "prix_base": 3950,
+      "prix_comparaison": 4500,
+      "indice_prix": 113.92405063291139
+    },
+    {
+      "cle": "sauceschaudessaucestomates_8142sauceaperitifsalsaforte190g_html",
+      "name": "Sauce ap\u00e9ritif Salsa forte 190g",
+      "prix_base": 10500,
+      "prix_comparaison": 11900,
+      "indice_prix": 113.33333333333333
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "solaires_14551cremesolairespf5075ml_html",
-      "name": "Cr\u00e8me solaire SPF 50 75ml",
-      "prix_base": 110000,
-      "prix_comparaison": 125000,
-      "indice_prix": 113.63636363636364
+      "cle": "thesglaces_6391theglacepeche2l_html",
+      "name": "Th\u00e9 glac\u00e9 p\u00eache 2L",
+      "prix_base": 8500,
+      "prix_comparaison": 5400,
+      "indice_prix": 63.529411764705884
     },
     {
-      "cle": "cremessoinsvisage_14573serumcremelifting30ml_html",
-      "name": "S\u00e9rum cr\u00e8me Lifting 30ml",
-      "prix_base": 195000,
-      "prix_comparaison": 230000,
-      "indice_prix": 117.94871794871794
+      "cle": "saucesfroidesketchupmayonnaise_13881moutardededijonforte370gtopbudget_html",
+      "name": "Moutarde de dijon forte 370g",
+      "prix_base": 9900,
+      "prix_comparaison": 7900,
+      "indice_prix": 79.79797979797979
     },
     {
-      "cle": "cremessoinsvisage_14586serumnutrivitamine15ml_html",
-      "name": "S\u00e9rum Nutrivitamin\u00e9 15 ml",
-      "prix_base": 120000,
-      "prix_comparaison": 150000,
-      "indice_prix": 125.0
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5900,
+      "prix_comparaison": 5190,
+      "indice_prix": 87.96610169491525
+    },
+    {
+      "cle": "bougieschauffeplats_12160100bougieschauffeplatsblanchestopbudget_html",
+      "name": "100 Bougies chauffe plats blanches",
+      "prix_base": 39000,
+      "prix_comparaison": 35000,
+      "indice_prix": 89.74358974358974
     }
   ]
 }
