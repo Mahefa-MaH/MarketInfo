@@ -1,6 +1,13 @@
 {
   "Variation de prix": [
     {
+      "cle": "solaires_14551cremesolairespf5075ml_html",
+      "name": "Cr\u00e8me solaire SPF 50 75ml",
+      "prix_base": 110000,
+      "prix_comparaison": 125000,
+      "variation": 15000
+    },
+    {
       "cle": "cremessoinsvisage_14573serumcremelifting30ml_html",
       "name": "S\u00e9rum cr\u00e8me Lifting 30ml",
       "prix_base": 195000,
@@ -16,6 +23,13 @@
     }
   ],
   "indice de prix": [
+    {
+      "cle": "solaires_14551cremesolairespf5075ml_html",
+      "name": "Cr\u00e8me solaire SPF 50 75ml",
+      "prix_base": 110000,
+      "prix_comparaison": 125000,
+      "indice_prix": 113.63636363636364
+    },
     {
       "cle": "cremessoinsvisage_14573serumcremelifting30ml_html",
       "name": "S\u00e9rum cr\u00e8me Lifting 30ml",
