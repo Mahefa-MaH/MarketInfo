@@ -1,6 +1,13 @@
 {
   "prix_augmentes": [
     {
+      "cle": "accessoirespourlentretiendulinge_11311cordealingehauteresistance20m_html",
+      "name": "Corde \u00e0 linge haute r\u00e9sistance 20m",
+      "prix_base": 12500,
+      "prix_comparaison": 399000,
+      "variation": 386500
+    },
+    {
       "cle": "huiles_4884huiledepalmerajah20l_html",
       "name": "Huile de palme Rajah 20L",
       "prix_base": 154000,
@@ -15,21 +22,21 @@
       "variation": 4000
     },
     {
-      "cle": "nettoyantsdemaquillants_4234demaquillantyeuxwaterproofextraitdolive125ml_html",
-      "name": "D\u00e9maquillant yeux waterproof extrait d'olive 125ml",
-      "prix_base": 26800,
-      "prix_comparaison": 29400,
-      "variation": 2600
-    },
-    {
-      "cle": "cremessoinsvisage_6790patedargilevertepurifiante300g_html",
-      "name": "P\u00e2te d'argile verte purifiante 300g",
-      "prix_base": 27300,
-      "prix_comparaison": 29700,
-      "variation": 2400
+      "cle": "gelsetbainsdouche_5358cremedouchelaitdecoton750ml_html",
+      "name": "Cr\u00e8me douche lait de coton 750ml",
+      "prix_base": 26500,
+      "prix_comparaison": 29900,
+      "variation": 3400
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "cuiseurvapeurcuiseurariz_14016badabullerobotculinaire4en1beasycuitvapeurmixerechauffeetdecongele_html",
+      "name": "BADABULLE Robot culinaire 4 en 1 B.Easy - Cuit vapeur, Mixe, R\u00e9chauffe et D\u00e9congele",
+      "prix_base": 600000,
+      "prix_comparaison": 508000,
+      "variation": -92000
+    },
     {
       "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
       "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
@@ -38,28 +45,28 @@
       "variation": -78000
     },
     {
+      "cle": "machineacoudre_14223brothermachineacoudrerl417_html",
+      "name": "BROTHER Machine a coudre RL-417",
+      "prix_base": 877000,
+      "prix_comparaison": 806000,
+      "variation": -71000
+    },
+    {
       "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
       "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
       "prix_base": 1518000,
       "prix_comparaison": 1476000,
       "variation": -42000
-    },
-    {
-      "cle": "bougieschauffeplats_12160100bougieschauffeplatsblanchestopbudget_html",
-      "name": "100 Bougies chauffe plats blanches",
-      "prix_base": 39000,
-      "prix_comparaison": 35000,
-      "variation": -4000
-    },
-    {
-      "cle": "thesglaces_6391theglacepeche2l_html",
-      "name": "Th\u00e9 glac\u00e9 p\u00eache 2L",
-      "prix_base": 8500,
-      "prix_comparaison": 5400,
-      "variation": -3100
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "accessoirespourlentretiendulinge_11311cordealingehauteresistance20m_html",
+      "name": "Corde \u00e0 linge haute r\u00e9sistance 20m",
+      "prix_base": 12500,
+      "prix_comparaison": 399000,
+      "indice_prix": 3192.0
+    },
     {
       "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
       "name": "Eau de cologne lavande 500ml",
@@ -75,18 +82,11 @@
       "indice_prix": 116.94915254237289
     },
     {
-      "cle": "boissonsinstantanees_8115chocolatenpoudre200g_html",
-      "name": "Chocolat en poudre 200g",
-      "prix_base": 3950,
-      "prix_comparaison": 4500,
-      "indice_prix": 113.92405063291139
-    },
-    {
-      "cle": "sauceschaudessaucestomates_8142sauceaperitifsalsaforte190g_html",
-      "name": "Sauce ap\u00e9ritif Salsa forte 190g",
-      "prix_base": 10500,
-      "prix_comparaison": 11900,
-      "indice_prix": 113.33333333333333
+      "cle": "nectarsdefruits_896jusdepomme1l_html",
+      "name": "Jus de pomme 1L",
+      "prix_base": 5500,
+      "prix_comparaison": 6400,
+      "indice_prix": 116.36363636363636
     }
   ],
   "indices_prix_plus_faibles": [
@@ -105,18 +105,18 @@
       "indice_prix": 79.79797979797979
     },
     {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5900,
-      "prix_comparaison": 5190,
-      "indice_prix": 87.96610169491525
+      "cle": "tuilestortillas_14182doritossourcream145g_html",
+      "name": "Tortillas Doritos sour cream 145g",
+      "prix_base": 8200,
+      "prix_comparaison": 6900,
+      "indice_prix": 84.14634146341463
     },
     {
-      "cle": "bougieschauffeplats_12160100bougieschauffeplatsblanchestopbudget_html",
-      "name": "100 Bougies chauffe plats blanches",
-      "prix_base": 39000,
-      "prix_comparaison": 35000,
-      "indice_prix": 89.74358974358974
+      "cle": "tuilestortillas_14135doritossupremecheese145g_html",
+      "name": "Tortillas Doritos supr\u00eame cheese 145g",
+      "prix_base": 8200,
+      "prix_comparaison": 6900,
+      "indice_prix": 84.14634146341463
     }
   ]
 }

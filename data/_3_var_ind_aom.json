@@ -8,32 +8,32 @@
       "variation": 2000
     },
     {
+      "cle": "thesglaces_74643theglacepeche2l_html",
+      "name": "Th\u00e9 glac\u00e9 p\u00eache 2L",
+      "prix_base": 8500,
+      "prix_comparaison": 5400,
+      "variation": -3100
+    },
+    {
+      "cle": "bouchonbouteillebouteilledoseur_2508bouchonmumm3606502903404_html",
+      "name": "Bouchon de champagne Mumm",
+      "prix_base": 69000,
+      "prix_comparaison": 65000,
+      "variation": -4000
+    },
+    {
+      "cle": "enjoliveur_99586michelinlotde4enjoliveurs15nvsspecialutilitaires3221320091333_html",
+      "name": "MICHELIN Lot de 4 enjoliveurs - 15 - NVS sp\u00e9cial utilitaires",
+      "prix_base": 343000,
+      "prix_comparaison": 334000,
+      "variation": -9000
+    },
+    {
       "cle": "casqueecouteurs_132892casquefairphonefairbudsxlnoir8718819375777_html",
       "name": "Casque - FAIRPHONE - Fairbuds XL - Noir",
       "prix_base": 1158000,
       "prix_comparaison": 1145000,
       "variation": -13000
-    },
-    {
-      "cle": "baignoire_82399baignoirebebetransatdebainthermometrebrosseetpeigneciseauxmouchebebe3023191483299_html",
-      "name": "Baignoire B\u00e9b\u00e9 + Transat de bain + Thermometre + Brosse et peigne + Ciseaux + Mouche b\u00e9b\u00e9",
-      "prix_base": 422000,
-      "prix_comparaison": 399000,
-      "variation": -23000
-    },
-    {
-      "cle": "fixationtvsupporttvsupportmuralpourtv_91111inotekmoov32652supportmuraluniverselorientableetinclinablepourecransplatsde32a6582cma165cm0602561580061_html",
-      "name": "INOTEK MOOV 3265.2 Support mural universel orientable et inclinable pour \u00e9crans plats de 32'' a 65'' (82 cm a 165 cm)",
-      "prix_base": 281000,
-      "prix_comparaison": 249000,
-      "variation": -32000
-    },
-    {
-      "cle": "siegedecombatsiegedepeche_87680dudulepaniersiege3casiers3660116630019_html",
-      "name": "DUDULE Panier Siege 3 casiers",
-      "prix_base": 1087000,
-      "prix_comparaison": 1017000,
-      "variation": -70000
     }
   ],
   "prix_diminues": [
@@ -89,6 +89,13 @@
       "indice_prix": 98.87737478411053
     },
     {
+      "cle": "enjoliveur_99586michelinlotde4enjoliveurs15nvsspecialutilitaires3221320091333_html",
+      "name": "MICHELIN Lot de 4 enjoliveurs - 15 - NVS sp\u00e9cial utilitaires",
+      "prix_base": 343000,
+      "prix_comparaison": 334000,
+      "indice_prix": 97.37609329446065
+    },
+    {
       "cle": "gpspedestregpsrandonneegpssport_126402gpsdenavigationaupoignetgarminforetrex8010753759317072_html",
       "name": "Navigateur GPS au poignet GARMIN Foretrex 801 - Noir - 2.2\u201d - 100 heures d'autonomie",
       "prix_base": 2940000,
@@ -101,13 +108,6 @@
       "prix_base": 422000,
       "prix_comparaison": 399000,
       "indice_prix": 94.54976303317535
-    },
-    {
-      "cle": "siegedecombatsiegedepeche_87680dudulepaniersiege3casiers3660116630019_html",
-      "name": "DUDULE Panier Siege 3 casiers",
-      "prix_base": 1087000,
-      "prix_comparaison": 1017000,
-      "indice_prix": 93.5602575896964
     }
   ],
   "indices_prix_plus_faibles": [
@@ -117,6 +117,13 @@
       "prix_base": 1156000,
       "prix_comparaison": 730000,
       "indice_prix": 63.14878892733564
+    },
+    {
+      "cle": "thesglaces_74643theglacepeche2l_html",
+      "name": "Th\u00e9 glac\u00e9 p\u00eache 2L",
+      "prix_base": 8500,
+      "prix_comparaison": 5400,
+      "indice_prix": 63.529411764705884
     },
     {
       "cle": "fixationtvsupporttvsupportmuralpourtv_141541chariotmobileinotekproprostand42100visiopourecrande42a1003760355440834_html",
@@ -138,13 +145,6 @@
       "prix_base": 1087000,
       "prix_comparaison": 1017000,
       "indice_prix": 93.5602575896964
-    },
-    {
-      "cle": "baignoire_82399baignoirebebetransatdebainthermometrebrosseetpeigneciseauxmouchebebe3023191483299_html",
-      "name": "Baignoire B\u00e9b\u00e9 + Transat de bain + Thermometre + Brosse et peigne + Ciseaux + Mouche b\u00e9b\u00e9",
-      "prix_base": 422000,
-      "prix_comparaison": 399000,
-      "indice_prix": 94.54976303317535
     }
   ]
 }

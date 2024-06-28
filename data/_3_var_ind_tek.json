@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 5414,
-      "prix_base": 113400,
-      "name": "Baume hydra-d\u00e9fense pieds tr\u00e8s secs 125 ml",
-      "prix_comparaison": 126000,
-      "variation": 12600
-    },
-    {
-      "list_id": 5415,
-      "prix_base": 94000,
-      "name": "Baume reposant aux plantes pour pieds 50 ml",
-      "prix_comparaison": 104400,
-      "variation": 10400
-    },
-    {
-      "list_id": 5416,
-      "prix_base": 69200,
-      "name": "Cr\u00e8me Akilhiver engelures/gercures visage-mains-pieds 75 ml",
-      "prix_comparaison": 76800,
-      "variation": 7600
+      "list_id": 4667,
+      "prix_base": 23400,
+      "name": "Marqueur permanent biseaut\u00e9 pochette de 4 pi\u00e8ces",
+      "prix_comparaison": 25600,
+      "variation": 2200
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4429,
-      "prix_base": 7600,
-      "name": "Bo\u00eete de classement polypro dos 25",
-      "prix_comparaison": 5900,
-      "variation": -1700
-    },
-    {
-      "list_id": 13777,
-      "prix_base": 21000,
-      "name": "Riz Complet Rouge Vary Gasy 5kg",
-      "prix_comparaison": 19800,
-      "variation": -1200
-    },
-    {
-      "list_id": 4427,
-      "prix_base": 1400,
-      "name": "Double d\u00e9cim\u00e8tre Cristal 20 cm",
-      "prix_comparaison": 1100,
-      "variation": -300
+      "list_id": 4667,
+      "prix_base": 23400,
+      "name": "Marqueur permanent biseaut\u00e9 pochette de 4 pi\u00e8ces",
+      "prix_comparaison": 25600,
+      "variation": 2200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 4458,
-      "name": "Colle baton 20 g",
-      "prix_base": 3400,
-      "prix_comparaison": 4100,
-      "indice_prix": 120.58823529411765
-    },
-    {
-      "list_id": 5414,
-      "name": "Baume hydra-d\u00e9fense pieds tr\u00e8s secs 125 ml",
-      "prix_base": 113400,
-      "prix_comparaison": 126000,
-      "indice_prix": 111.11111111111111
-    },
-    {
-      "list_id": 5566,
-      "name": "Comprim\u00e9s effervescents Multivit Kids 20 pi\u00e8ces",
-      "prix_base": 27000,
-      "prix_comparaison": 30000,
-      "indice_prix": 111.11111111111111
+      "list_id": 4667,
+      "name": "Marqueur permanent biseaut\u00e9 pochette de 4 pi\u00e8ces",
+      "prix_base": 23400,
+      "prix_comparaison": 25600,
+      "indice_prix": 109.4017094017094
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 4429,
-      "name": "Bo\u00eete de classement polypro dos 25",
-      "prix_base": 7600,
-      "prix_comparaison": 5900,
-      "indice_prix": 77.63157894736842
-    },
-    {
-      "list_id": 4427,
-      "name": "Double d\u00e9cim\u00e8tre Cristal 20 cm",
-      "prix_base": 1400,
-      "prix_comparaison": 1100,
-      "indice_prix": 78.57142857142857
-    },
-    {
-      "list_id": 13777,
-      "name": "Riz Complet Rouge Vary Gasy 5kg",
-      "prix_base": 21000,
-      "prix_comparaison": 19800,
-      "indice_prix": 94.28571428571429
+      "list_id": 4667,
+      "name": "Marqueur permanent biseaut\u00e9 pochette de 4 pi\u00e8ces",
+      "prix_base": 23400,
+      "prix_comparaison": 25600,
+      "indice_prix": 109.4017094017094
     }
   ]
 }
