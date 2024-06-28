@@ -1,10 +1,18 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9400,
-      "prix_comparaison": 9400,
+      "list_id": 13775,
+      "name": "Riz de Luxe Makalioka 5kg",
+      "prix_base": 23000,
+      "prix_comparaison": 23000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 321000,
+      "prix_comparaison": 321000,
       "variation": 0,
       "indice_prix": 100.0
     }

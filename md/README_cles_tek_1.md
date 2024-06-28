@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz Complet Rouge Vary Gasy 5kg**
-   - Prix avant: 21,000 Ar
-   - Prix actuel: 19,800 Ar
-   - Variation: -1,200 Ar
-   - Indice de prix : 94.29
-
-2. **Riz blanc import de Inde 50 kg**
-   - Prix avant: 158,400 Ar
-   - Prix actuel: 158,400 Ar
+1. **Sucre blanc 1 kg**
+   - Prix avant: 7,950 Ar
+   - Prix actuel: 7,950 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre Blanc 250 g**
-   - Prix avant: 3,100 Ar
-   - Prix actuel: 3,100 Ar
+2. **Huile De Soja 1 L**
+   - Prix avant: 9,400 Ar
+   - Prix actuel: 9,400 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
+   - Prix avant: 192,000 Ar
+   - Prix actuel: 192,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
