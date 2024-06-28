@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Haricots Rouges séchés 1kg | Tsaramaso mena maina**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 8,000 Ar
+3. **Sucre blanc 1kg| En vrac**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 7,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

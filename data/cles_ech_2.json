@@ -17,10 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_haricotsblancsseches1kgtsaramasomaina_",
-      "name": "Haricots Rouges s\u00e9ch\u00e9s 1kg | Tsaramaso mena maina",
-      "prix_base": 8000,
-      "prix_comparaison": 8000,
+      "cle": "produit_sucreblanc1kgenvrac_",
+      "name": "Sucre blanc 1kg| En vrac",
+      "prix_base": 7200,
+      "prix_comparaison": 7200,
       "variation": 0,
       "indice_prix": 100.0
     }
