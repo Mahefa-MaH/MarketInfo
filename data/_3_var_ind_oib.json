@@ -6,27 +6,6 @@
       "prix_base": 12500,
       "prix_comparaison": 399000,
       "variation": 386500
-    },
-    {
-      "cle": "huiles_4884huiledepalmerajah20l_html",
-      "name": "Huile de palme Rajah 20L",
-      "prix_base": 154000,
-      "prix_comparaison": 163000,
-      "variation": 9000
-    },
-    {
-      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
-      "name": "Eau de cologne lavande 500ml",
-      "prix_base": 17900,
-      "prix_comparaison": 21900,
-      "variation": 4000
-    },
-    {
-      "cle": "gelsetbainsdouche_5358cremedouchelaitdecoton750ml_html",
-      "name": "Cr\u00e8me douche lait de coton 750ml",
-      "prix_base": 26500,
-      "prix_comparaison": 29900,
-      "variation": 3400
     }
   ],
   "prix_diminues": [
@@ -36,27 +15,6 @@
       "prix_base": 600000,
       "prix_comparaison": 508000,
       "variation": -92000
-    },
-    {
-      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
-      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
-      "prix_base": 5825000,
-      "prix_comparaison": 5747000,
-      "variation": -78000
-    },
-    {
-      "cle": "machineacoudre_14223brothermachineacoudrerl417_html",
-      "name": "BROTHER Machine a coudre RL-417",
-      "prix_base": 877000,
-      "prix_comparaison": 806000,
-      "variation": -71000
-    },
-    {
-      "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
-      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
-      "prix_base": 1518000,
-      "prix_comparaison": 1476000,
-      "variation": -42000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -66,27 +24,6 @@
       "prix_base": 12500,
       "prix_comparaison": 399000,
       "indice_prix": 3192.0
-    },
-    {
-      "cle": "parfumeriealcoolique_13825eaudecolognelavande500mltopbudget_html",
-      "name": "Eau de cologne lavande 500ml",
-      "prix_base": 17900,
-      "prix_comparaison": 21900,
-      "indice_prix": 122.3463687150838
-    },
-    {
-      "cle": "saucesfroidesketchupmayonnaise_15102vinaigredevinrouge61l_html",
-      "name": "Vinaigre de vin rouge 6% 1L",
-      "prix_base": 5900,
-      "prix_comparaison": 6900,
-      "indice_prix": 116.94915254237289
-    },
-    {
-      "cle": "nectarsdefruits_896jusdepomme1l_html",
-      "name": "Jus de pomme 1L",
-      "prix_base": 5500,
-      "prix_comparaison": 6400,
-      "indice_prix": 116.36363636363636
     }
   ],
   "indices_prix_plus_faibles": [
@@ -96,27 +33,6 @@
       "prix_base": 8500,
       "prix_comparaison": 5400,
       "indice_prix": 63.529411764705884
-    },
-    {
-      "cle": "saucesfroidesketchupmayonnaise_13881moutardededijonforte370gtopbudget_html",
-      "name": "Moutarde de dijon forte 370g",
-      "prix_base": 9900,
-      "prix_comparaison": 7900,
-      "indice_prix": 79.79797979797979
-    },
-    {
-      "cle": "tuilestortillas_14182doritossourcream145g_html",
-      "name": "Tortillas Doritos sour cream 145g",
-      "prix_base": 8200,
-      "prix_comparaison": 6900,
-      "indice_prix": 84.14634146341463
-    },
-    {
-      "cle": "tuilestortillas_14135doritossupremecheese145g_html",
-      "name": "Tortillas Doritos supr\u00eame cheese 145g",
-      "prix_base": 8200,
-      "prix_comparaison": 6900,
-      "indice_prix": 84.14634146341463
     }
   ]
 }

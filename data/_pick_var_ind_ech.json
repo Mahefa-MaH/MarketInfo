@@ -3,18 +3,18 @@
     {
       "cle": "produit_cremefraichesucreedanica1l_",
       "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
-      "prix_base": 19870,
-      "prix_comparaison": 29500,
-      "variation": 9630
+      "prix_base": 29500,
+      "prix_comparaison": 24000,
+      "variation": -5500
     }
   ],
   "indice de prix": [
     {
       "cle": "produit_cremefraichesucreedanica1l_",
       "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
-      "prix_base": 19870,
-      "prix_comparaison": 29500,
-      "indice_prix": 148.46502264720684
+      "prix_base": 29500,
+      "prix_comparaison": 24000,
+      "indice_prix": 81.35593220338983
     }
   ]
 }
