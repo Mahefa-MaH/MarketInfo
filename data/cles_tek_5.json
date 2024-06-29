@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 7000,
+      "prix_comparaison": 7000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 368,
       "name": "Sucre Blanc 1 Kg",
       "prix_base": 13700,
@@ -13,14 +21,6 @@
       "name": "Sucre Blanc 1 Kg",
       "prix_base": 6500,
       "prix_comparaison": 6500,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     }
