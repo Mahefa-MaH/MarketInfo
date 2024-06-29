@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "accessoirespourlentretiendulinge_11311cordealingehauteresistance20m_html",
-      "name": "Corde \u00e0 linge haute r\u00e9sistance 20m",
-      "prix_base": 12500,
-      "prix_comparaison": 399000,
-      "variation": 386500
+      "cle": "tuilestortillas_14136doritosflaminhot145g_html",
+      "name": "Tortillas Doritos flamin' hot 145g",
+      "prix_base": 8200,
+      "prix_comparaison": 6900,
+      "variation": -1300
     }
   ],
   "prix_diminues": [
     {
-      "cle": "cuiseurvapeurcuiseurariz_14016badabullerobotculinaire4en1beasycuitvapeurmixerechauffeetdecongele_html",
-      "name": "BADABULLE Robot culinaire 4 en 1 B.Easy - Cuit vapeur, Mixe, R\u00e9chauffe et D\u00e9congele",
-      "prix_base": 600000,
-      "prix_comparaison": 508000,
-      "variation": -92000
+      "cle": "tuilestortillas_14136doritosflaminhot145g_html",
+      "name": "Tortillas Doritos flamin' hot 145g",
+      "prix_base": 8200,
+      "prix_comparaison": 6900,
+      "variation": -1300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "accessoirespourlentretiendulinge_11311cordealingehauteresistance20m_html",
-      "name": "Corde \u00e0 linge haute r\u00e9sistance 20m",
-      "prix_base": 12500,
-      "prix_comparaison": 399000,
-      "indice_prix": 3192.0
+      "cle": "tuilestortillas_14136doritosflaminhot145g_html",
+      "name": "Tortillas Doritos flamin' hot 145g",
+      "prix_base": 8200,
+      "prix_comparaison": 6900,
+      "indice_prix": 84.14634146341463
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "thesglaces_6391theglacepeche2l_html",
-      "name": "Th\u00e9 glac\u00e9 p\u00eache 2L",
-      "prix_base": 8500,
-      "prix_comparaison": 5400,
-      "indice_prix": 63.529411764705884
+      "cle": "tuilestortillas_14136doritosflaminhot145g_html",
+      "name": "Tortillas Doritos flamin' hot 145g",
+      "prix_base": 8200,
+      "prix_comparaison": 6900,
+      "indice_prix": 84.14634146341463
     }
   ]
 }
