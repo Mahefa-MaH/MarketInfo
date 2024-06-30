@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 16990,
-      "prix_comparaison": 16990,
+      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
+      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
+      "prix_base": 3890,
+      "prix_comparaison": 3890,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_11442rizgasymena1kg_html",
-      "name": "Riz gasy mena  1kg",
-      "prix_base": 4250,
-      "prix_comparaison": 4250,
+      "cle": "huiles_8994huiledesoja1l_html",
+      "name": "Huile de soja 1L",
+      "prix_base": 15900,
+      "prix_comparaison": 15900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "riz_9403rizgasysacde1kg_html",
-      "name": "Riz gasy sac de 1kg",
-      "prix_base": 4490,
-      "prix_comparaison": 4490,
+      "cle": "huiles_1896huiledesojahina1l_html",
+      "name": "Huile de soja Hina 1L",
+      "prix_base": 8900,
+      "prix_comparaison": 8900,
       "variation": 0,
       "indice_prix": 100.0
     }
