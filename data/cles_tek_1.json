@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 288000,
-      "prix_comparaison": 288000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 13775,
       "name": "Riz de Luxe Makalioka 5kg",
       "prix_base": 23000,
@@ -19,6 +11,14 @@
     {
       "list_id": 10663,
       "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 9400,
+      "prix_comparaison": 9400,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
       "prix_base": 9400,
       "prix_comparaison": 9400,
       "variation": 0,

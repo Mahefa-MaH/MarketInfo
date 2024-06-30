@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7950,
-      "prix_comparaison": 7950,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 13776,
       "name": "Riz Blanchi Makalioka 5kg",
       "prix_base": 19800,
