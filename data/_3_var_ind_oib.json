@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "tuilestortillas_14136doritosflaminhot145g_html",
-      "name": "Tortillas Doritos flamin' hot 145g",
-      "prix_base": 8200,
-      "prix_comparaison": 6900,
-      "variation": -1300
+      "cle": "confituresetgelees_13837confituredefraise1kgtopbudget_html",
+      "name": "Confiture de fraise 1kg",
+      "prix_base": 17500,
+      "prix_comparaison": 20900,
+      "variation": 3400
+    },
+    {
+      "cle": "detergentvaisselle_3253liquidevaissellefleursdecerisier5l_html",
+      "name": "Liquide vaisselle fleurs de cerisier 5L",
+      "prix_base": 14900,
+      "prix_comparaison": 17000,
+      "variation": 2100
     }
   ],
   "prix_diminues": [
     {
-      "cle": "tuilestortillas_14136doritosflaminhot145g_html",
-      "name": "Tortillas Doritos flamin' hot 145g",
-      "prix_base": 8200,
-      "prix_comparaison": 6900,
-      "variation": -1300
+      "cle": "yaourtsnaturesetaromatises_9084yaourtitivanille100g_html",
+      "name": "Yaourt ITI vanille 100g",
+      "prix_base": 900,
+      "prix_comparaison": 990,
+      "variation": 90
+    },
+    {
+      "cle": "nouilles_1227nouilleinstantaneematsiropoulet85g_html",
+      "name": "Nouille instantan\u00e9e matsiro poulet 85g",
+      "prix_base": 850,
+      "prix_comparaison": 950,
+      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "tuilestortillas_14136doritosflaminhot145g_html",
-      "name": "Tortillas Doritos flamin' hot 145g",
-      "prix_base": 8200,
-      "prix_comparaison": 6900,
-      "indice_prix": 84.14634146341463
+      "cle": "entretienetnettoyantautomobile_9299nettoyantvitrevoiture1l_html",
+      "name": "Nettoyant vitre voiture 1L",
+      "prix_base": 2400,
+      "prix_comparaison": 3200,
+      "indice_prix": 133.33333333333334
+    },
+    {
+      "cle": "detergentvaisselle_3254liquidevaissellepommeraisin1l_html",
+      "name": "Liquide vaisselle pomme raisin 1L",
+      "prix_base": 2790,
+      "prix_comparaison": 3500,
+      "indice_prix": 125.44802867383513
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "tuilestortillas_14136doritosflaminhot145g_html",
-      "name": "Tortillas Doritos flamin' hot 145g",
-      "prix_base": 8200,
-      "prix_comparaison": 6900,
-      "indice_prix": 84.14634146341463
+      "cle": "jusdefruits_1688tampico1lcocoananas_html",
+      "name": "Jus Tampico coco ananas 1L",
+      "prix_base": 2750,
+      "prix_comparaison": 2950,
+      "indice_prix": 107.27272727272727
+    },
+    {
+      "cle": "laits_14595laitdemiecremeaccessenbrique1l_html",
+      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique sans bouchon 1L",
+      "prix_base": 4900,
+      "prix_comparaison": 5290,
+      "indice_prix": 107.95918367346938
     }
   ]
 }
