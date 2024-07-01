@@ -2,9 +2,9 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
-   - Prix avant: 187,900 Ar
-   - Prix actuel: 187,900 Ar
+1. **Haricots Rouges séchés 1kg | Tsaramaso mena maina**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 8,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

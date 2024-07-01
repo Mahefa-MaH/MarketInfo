@@ -12,6 +12,16 @@
    - Prix actuel: 17,000 Ar
    - Variation: +2,100 Ar
 
+3. **Liquide vaisselle pomme raisin 5L**
+   - Prix avant: 14,900 Ar
+   - Prix actuel: 17,000 Ar
+   - Variation: +2,100 Ar
+
+4. **Fromage nature 108g**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 11,500 Ar
+   - Variation: +1,600 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Yaourt ITI vanille 100g**
@@ -24,6 +34,16 @@
    - Prix actuel: 950 Ar
    - Variation: +100 Ar
 
+3. **Jus Tampico coco ananas 1L**
+   - Prix avant: 2,750 Ar
+   - Prix actuel: 2,950 Ar
+   - Variation: +200 Ar
+
+4. **Spaghetti francini 500g**
+   - Prix avant: 2,200 Ar
+   - Prix actuel: 2,490 Ar
+   - Variation: +290 Ar
+
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
 1. **Nettoyant vitre voiture 1L**
@@ -32,6 +52,16 @@
    - Indice de prix : 133.33
 
 2. **Liquide vaisselle pomme raisin 1L**
+   - Prix avant: 2,790 Ar
+   - Prix actuel: 3,500 Ar
+   - Indice de prix : 125.45
+
+3. **Liquide vaisselle menthe citron 1L**
+   - Prix avant: 2,790 Ar
+   - Prix actuel: 3,500 Ar
+   - Indice de prix : 125.45
+
+4. **Liquide vaisselle fleurs de cerisier 1L**
    - Prix avant: 2,790 Ar
    - Prix actuel: 3,500 Ar
    - Indice de prix : 125.45
@@ -47,4 +77,14 @@
    - Prix avant: 4,900 Ar
    - Prix actuel: 5,290 Ar
    - Indice de prix : 107.96
+
+3. **Pétales de maïs croustillants sucrés 375g**
+   - Prix avant: 12,500 Ar
+   - Prix actuel: 13,500 Ar
+   - Indice de prix : 108.00
+
+4. **Détergent sol en bouteille 1L**
+   - Prix avant: 4,200 Ar
+   - Prix actuel: 4,600 Ar
+   - Indice de prix : 109.52
 

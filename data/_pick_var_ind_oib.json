@@ -1,48 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "solaires_14551cremesolairespf5075ml_html",
-      "name": "Cr\u00e8me solaire SPF 50 75ml",
-      "prix_base": 110000,
-      "prix_comparaison": 125000,
-      "variation": 15000
-    },
-    {
-      "cle": "cremessoinsvisage_14573serumcremelifting30ml_html",
-      "name": "S\u00e9rum cr\u00e8me Lifting 30ml",
-      "prix_base": 195000,
-      "prix_comparaison": 230000,
-      "variation": 35000
-    },
-    {
-      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
-      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
-      "prix_base": 150000,
-      "prix_comparaison": 210000,
-      "variation": 60000
+      "cle": "laits_14595laitdemiecremeaccessenbrique1l_html",
+      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique sans bouchon 1L",
+      "prix_base": 4900,
+      "prix_comparaison": 5290,
+      "variation": 390
     }
   ],
   "indice de prix": [
     {
-      "cle": "solaires_14551cremesolairespf5075ml_html",
-      "name": "Cr\u00e8me solaire SPF 50 75ml",
-      "prix_base": 110000,
-      "prix_comparaison": 125000,
-      "indice_prix": 113.63636363636364
-    },
-    {
-      "cle": "cremessoinsvisage_14573serumcremelifting30ml_html",
-      "name": "S\u00e9rum cr\u00e8me Lifting 30ml",
-      "prix_base": 195000,
-      "prix_comparaison": 230000,
-      "indice_prix": 117.94871794871794
-    },
-    {
-      "cle": "cremessoinsvisage_14587cremereequilibrante50ml_html",
-      "name": "Cr\u00e8me r\u00e9\u00e9quilibrante 50 ml",
-      "prix_base": 150000,
-      "prix_comparaison": 210000,
-      "indice_prix": 140.0
+      "cle": "laits_14595laitdemiecremeaccessenbrique1l_html",
+      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique sans bouchon 1L",
+      "prix_base": 4900,
+      "prix_comparaison": 5290,
+      "indice_prix": 107.95918367346938
     }
   ]
 }

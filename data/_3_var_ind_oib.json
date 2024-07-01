@@ -13,6 +13,20 @@
       "prix_base": 14900,
       "prix_comparaison": 17000,
       "variation": 2100
+    },
+    {
+      "cle": "detergentvaisselle_3255liquidevaissellepommeraisin5l_html",
+      "name": "Liquide vaisselle pomme raisin 5L",
+      "prix_base": 14900,
+      "prix_comparaison": 17000,
+      "variation": 2100
+    },
+    {
+      "cle": "fromagesfondusetatartiner_728fromagenature120g_html",
+      "name": "Fromage nature 108g",
+      "prix_base": 9900,
+      "prix_comparaison": 11500,
+      "variation": 1600
     }
   ],
   "prix_diminues": [
@@ -29,6 +43,20 @@
       "prix_base": 850,
       "prix_comparaison": 950,
       "variation": 100
+    },
+    {
+      "cle": "jusdefruits_1688tampico1lcocoananas_html",
+      "name": "Jus Tampico coco ananas 1L",
+      "prix_base": 2750,
+      "prix_comparaison": 2950,
+      "variation": 200
+    },
+    {
+      "cle": "pates_14412spaghettifrancini500g_html",
+      "name": "Spaghetti francini 500g",
+      "prix_base": 2200,
+      "prix_comparaison": 2490,
+      "variation": 290
     }
   ],
   "indices_prix_plus_eleves": [
@@ -42,6 +70,20 @@
     {
       "cle": "detergentvaisselle_3254liquidevaissellepommeraisin1l_html",
       "name": "Liquide vaisselle pomme raisin 1L",
+      "prix_base": 2790,
+      "prix_comparaison": 3500,
+      "indice_prix": 125.44802867383513
+    },
+    {
+      "cle": "detergentvaisselle_3250liquidevaissellementhecitron1l_html",
+      "name": "Liquide vaisselle menthe citron 1L",
+      "prix_base": 2790,
+      "prix_comparaison": 3500,
+      "indice_prix": 125.44802867383513
+    },
+    {
+      "cle": "detergentvaisselle_3252liquidevaissellefleursdecerisier1l_html",
+      "name": "Liquide vaisselle fleurs de cerisier 1L",
       "prix_base": 2790,
       "prix_comparaison": 3500,
       "indice_prix": 125.44802867383513
@@ -61,6 +103,20 @@
       "prix_base": 4900,
       "prix_comparaison": 5290,
       "indice_prix": 107.95918367346938
+    },
+    {
+      "cle": "cerealesetbarres_2055petalesdemaiscroustillantssucres375g_html",
+      "name": "P\u00e9tales de ma\u00efs croustillants sucr\u00e9s 375g",
+      "prix_base": 12500,
+      "prix_comparaison": 13500,
+      "indice_prix": 108.0
+    },
+    {
+      "cle": "nettoyantssolsetmeubles_7367detergentsolenbouteille1l_html",
+      "name": "D\u00e9tergent sol en bouteille 1L",
+      "prix_base": 4200,
+      "prix_comparaison": 4600,
+      "indice_prix": 109.52380952380952
     }
   ]
 }
