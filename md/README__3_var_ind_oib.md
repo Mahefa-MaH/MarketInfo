@@ -22,6 +22,11 @@
    - Prix actuel: 11,500 Ar
    - Variation: +1,600 Ar
 
+5. **Tortillas Doritos suprême cheese 145g**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 8,200 Ar
+   - Variation: +1,300 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Yaourt ITI vanille 100g**
@@ -43,6 +48,11 @@
    - Prix avant: 2,200 Ar
    - Prix actuel: 2,490 Ar
    - Variation: +290 Ar
+
+5. **Lait demi-écrémé en brique sans bouchon 1L**
+   - Prix avant: 4,900 Ar
+   - Prix actuel: 5,290 Ar
+   - Variation: +390 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -66,6 +76,11 @@
    - Prix actuel: 3,500 Ar
    - Indice de prix : 125.45
 
+5. **Galette ronde au coco x5 pièces**
+   - Prix avant: 2,200 Ar
+   - Prix actuel: 2,700 Ar
+   - Indice de prix : 122.73
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Jus Tampico coco ananas 1L**
@@ -87,4 +102,9 @@
    - Prix avant: 4,200 Ar
    - Prix actuel: 4,600 Ar
    - Indice de prix : 109.52
+
+5. **Yaourt ITI vanille 100g**
+   - Prix avant: 900 Ar
+   - Prix actuel: 990 Ar
+   - Indice de prix : 110.00
 

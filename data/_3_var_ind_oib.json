@@ -27,6 +27,13 @@
       "prix_base": 9900,
       "prix_comparaison": 11500,
       "variation": 1600
+    },
+    {
+      "cle": "tuilestortillas_14135doritossupremecheese145g_html",
+      "name": "Tortillas Doritos supr\u00eame cheese 145g",
+      "prix_base": 6900,
+      "prix_comparaison": 8200,
+      "variation": 1300
     }
   ],
   "prix_diminues": [
@@ -57,6 +64,13 @@
       "prix_base": 2200,
       "prix_comparaison": 2490,
       "variation": 290
+    },
+    {
+      "cle": "laits_14595laitdemiecremeaccessenbrique1l_html",
+      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique sans bouchon 1L",
+      "prix_base": 4900,
+      "prix_comparaison": 5290,
+      "variation": 390
     }
   ],
   "indices_prix_plus_eleves": [
@@ -87,6 +101,13 @@
       "prix_base": 2790,
       "prix_comparaison": 3500,
       "indice_prix": 125.44802867383513
+    },
+    {
+      "cle": "patisserieetviennoiseriefrais_4899galetterondeaucocox5pieces_html",
+      "name": "Galette ronde au coco x5 pi\u00e8ces",
+      "prix_base": 2200,
+      "prix_comparaison": 2700,
+      "indice_prix": 122.72727272727273
     }
   ],
   "indices_prix_plus_faibles": [
@@ -117,6 +138,13 @@
       "prix_base": 4200,
       "prix_comparaison": 4600,
       "indice_prix": 109.52380952380952
+    },
+    {
+      "cle": "yaourtsnaturesetaromatises_9084yaourtitivanille100g_html",
+      "name": "Yaourt ITI vanille 100g",
+      "prix_base": 900,
+      "prix_comparaison": 990,
+      "indice_prix": 110.0
     }
   ]
 }
