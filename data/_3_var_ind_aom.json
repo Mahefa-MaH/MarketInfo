@@ -1,150 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "fauteuiltransatanneaudebain_16439bu00e9abatransatdoparmagrey3384349203696_html",
-      "name": "B\u00e9aba Transatdo Parma Grey",
-      "prix_base": 187000,
-      "prix_comparaison": 189000,
-      "variation": 2000
+      "cle": "sacalanger_17375babymoovbabystarsacalangeravecbandouliereplanalangerinclus3661276009981_html",
+      "name": "Babymoov Sac a langer Baby Style Star",
+      "prix_base": 272000,
+      "prix_comparaison": 269000,
+      "variation": -3000
     },
     {
-      "cle": "thesglaces_74643theglacepeche2l_html",
-      "name": "Th\u00e9 glac\u00e9 p\u00eache 2L",
-      "prix_base": 8500,
-      "prix_comparaison": 5400,
-      "variation": -3100
-    },
-    {
-      "cle": "bouchonbouteillebouteilledoseur_2508bouchonmumm3606502903404_html",
-      "name": "Bouchon de champagne Mumm",
-      "prix_base": 69000,
-      "prix_comparaison": 65000,
+      "cle": "portebebe_134891portebebeflipergonomique4en1grisinfantinoflipergonomique4en1polyesterde36a145kg0773554001839_html",
+      "name": "Porte b\u00e9b\u00e9 Flip ergonomique 4 en 1 gris - INFANTINO - Flip ergonomique 4 en 1 - Polyester - De 3,6 a 14,5 kg",
+      "prix_base": 197000,
+      "prix_comparaison": 193000,
       "variation": -4000
     },
     {
-      "cle": "enjoliveur_99586michelinlotde4enjoliveurs15nvsspecialutilitaires3221320091333_html",
-      "name": "MICHELIN Lot de 4 enjoliveurs - 15 - NVS sp\u00e9cial utilitaires",
-      "prix_base": 343000,
-      "prix_comparaison": 334000,
-      "variation": -9000
+      "cle": "portebebe_135072portebebeergonomiquechiccohipseatpirateblackventraledosmixte015kg8058664152988_html",
+      "name": "Porte-b\u00e9b\u00e9 ergonomique CHICCO - Hip Seat Pirate Black - Ventrale/dos - Mixte - 0-15kg",
+      "prix_base": 580000,
+      "prix_comparaison": 574000,
+      "variation": -6000
     },
     {
-      "cle": "casqueecouteurs_132892casquefairphonefairbudsxlnoir8718819375777_html",
-      "name": "Casque - FAIRPHONE - Fairbuds XL - Noir",
-      "prix_base": 1158000,
-      "prix_comparaison": 1145000,
-      "variation": -13000
+      "cle": "coquecosy_133615cosimaxicosicabriofixisizegroupe0isizeavecreducteurisofixessentialgreen8712930177623_html",
+      "name": "Cosi MAXI COSI Cabriofix i-Size, Groupe 0+, i-Size, avec R\u00e9ducteur, Isofix, Essential Green",
+      "prix_base": 978000,
+      "prix_comparaison": 968000,
+      "variation": -10000
+    },
+    {
+      "cle": "litpliantlitparapluie_140277maxicosiswiftecolitdevoyage3en1berceaulitetparclegeretpliabledelanaissancea35ansbeyondgreen3220660342013_html",
+      "name": "MAXI-COSI Swift ECO, Lit de voyage 3 en 1: Berceau, Lit et Parc, l\u00e9ger et pliable, De la naissance a 3.5 ans, Beyond Green",
+      "prix_base": 1443000,
+      "prix_comparaison": 1429000,
+      "variation": -14000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "coffredexterieurrangementdexterieur_91351coffredejardin190lenboisexotiquedeucalyptusfsc190l485x1095x37cmavecrouletteseffetteck3612408255707_html",
-      "name": "Coffre de rangement jardin en bois exotique d'eucalyptus FSC - 190 L - 48,5 x 109,5 x 37 cm - Avec roulettes - Effet Teck",
-      "prix_base": 1156000,
-      "prix_comparaison": 730000,
-      "variation": -426000
+      "cle": "refrigerateuramericain_95046refrigerateuramericaincontinentaledisoncera532nfixtotalnofrost532ll90cmxh177cminox3701542101909_html",
+      "name": "R\u00e9frig\u00e9rateur am\u00e9ricain CONTINENTAL EDISON - CERA532NFIX - Total No Frost- 529L - L90 cm xH177 cm - Moteur inverter -Inox",
+      "prix_base": 5610000,
+      "prix_comparaison": 5442000,
+      "variation": -168000
     },
     {
-      "cle": "fixationtvsupporttvsupportmuralpourtv_141541chariotmobileinotekproprostand42100visiopourecrande42a1003760355440834_html",
-      "name": "Chariot mobile - INOTEK - Pro Prostand 42100 Visio - Pour \u00e9cran de 42 a 100",
-      "prix_base": 1635000,
-      "prix_comparaison": 1438000,
-      "variation": -197000
+      "cle": "siegeauto_133187siegeautoisofixnaniaspirit40150cmr1290a10ansdosroute40105cmtetierereglableinclinablepivotant3507460234398_html",
+      "name": "Siege auto isofix NANIA SPIRIT 40-150 cm R129 \u2013 0 a 10 ans- Dos route 40-105 cm \u2013 Tetiere r\u00e9glable - Inclinable - Pivotant",
+      "prix_base": 1438000,
+      "prix_comparaison": 1337000,
+      "variation": -101000
     },
     {
-      "cle": "gpspedestregpsrandonneegpssport_126402gpsdenavigationaupoignetgarminforetrex8010753759317072_html",
-      "name": "Navigateur GPS au poignet GARMIN Foretrex 801 - Noir - 2.2\u201d - 100 heures d'autonomie",
-      "prix_base": 2940000,
-      "prix_comparaison": 2795000,
-      "variation": -145000
+      "cle": "poussettechassispoussette_135824poussettedoublebambisolpourjumeauxetpourenfantsdagerapprochesdelanaissancea36mois3159059051994_html",
+      "name": "Poussette double BAMBISOL - Pour jumeaux et pour enfants d'\u00e2ge rapproch\u00e9s de la naissance a 36 mois",
+      "prix_base": 1364000,
+      "prix_comparaison": 1268000,
+      "variation": -96000
     },
     {
-      "cle": "siegedecombatsiegedepeche_87680dudulepaniersiege3casiers3660116630019_html",
-      "name": "DUDULE Panier Siege 3 casiers",
-      "prix_base": 1087000,
-      "prix_comparaison": 1017000,
-      "variation": -70000
+      "cle": "poussettechassispoussette_133189poussettecombinee2en1naniatexas036moisdossierreglablesiegeautobeoneevor1294085cm3507460238129_html",
+      "name": "Poussette combin\u00e9e 2 en 1 NANIA TEXAS 0-36 mois - Dossier r\u00e9glable + Siege auto BEONE EVO R129 40-85 cm",
+      "prix_base": 1298000,
+      "prix_comparaison": 1207000,
+      "variation": -91000
     },
     {
-      "cle": "fixationtvsupporttvsupportmuralpourtv_91111inotekmoov32652supportmuraluniverselorientableetinclinablepourecransplatsde32a6582cma165cm0602561580061_html",
-      "name": "INOTEK MOOV 3265.2 Support mural universel orientable et inclinable pour \u00e9crans plats de 32'' a 65'' (82 cm a 165 cm)",
-      "prix_base": 281000,
-      "prix_comparaison": 249000,
-      "variation": -32000
+      "cle": "litpliantlitparapluie_135870litdevoyagechiccogoodnightpegasobleu8058664165933_html",
+      "name": "Lit de Voyage CHICCO Goodnight - Pegaso Bleu",
+      "prix_base": 766000,
+      "prix_comparaison": 689000,
+      "variation": -77000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "fauteuiltransatanneaudebain_16439bu00e9abatransatdoparmagrey3384349203696_html",
-      "name": "B\u00e9aba Transatdo Parma Grey",
-      "prix_base": 187000,
-      "prix_comparaison": 189000,
-      "indice_prix": 101.06951871657753
+      "cle": "litpliantlitparapluie_140277maxicosiswiftecolitdevoyage3en1berceaulitetparclegeretpliabledelanaissancea35ansbeyondgreen3220660342013_html",
+      "name": "MAXI-COSI Swift ECO, Lit de voyage 3 en 1: Berceau, Lit et Parc, l\u00e9ger et pliable, De la naissance a 3.5 ans, Beyond Green",
+      "prix_base": 1443000,
+      "prix_comparaison": 1429000,
+      "indice_prix": 99.02979902979904
     },
     {
-      "cle": "casqueecouteurs_132892casquefairphonefairbudsxlnoir8718819375777_html",
-      "name": "Casque - FAIRPHONE - Fairbuds XL - Noir",
-      "prix_base": 1158000,
-      "prix_comparaison": 1145000,
-      "indice_prix": 98.87737478411053
+      "cle": "coquecosy_136460cosycybexatonb2isizebaseonedynamicincluserouge4063846220304_html",
+      "name": "Cosy CYBEX Aton B2 I-Size - Base One Dynamic incluse - Rouge",
+      "prix_base": 2029000,
+      "prix_comparaison": 2009000,
+      "indice_prix": 99.01429275505176
     },
     {
-      "cle": "enjoliveur_99586michelinlotde4enjoliveurs15nvsspecialutilitaires3221320091333_html",
-      "name": "MICHELIN Lot de 4 enjoliveurs - 15 - NVS sp\u00e9cial utilitaires",
-      "prix_base": 343000,
-      "prix_comparaison": 334000,
-      "indice_prix": 97.37609329446065
+      "cle": "coquecosy_133615cosimaxicosicabriofixisizegroupe0isizeavecreducteurisofixessentialgreen8712930177623_html",
+      "name": "Cosi MAXI COSI Cabriofix i-Size, Groupe 0+, i-Size, avec R\u00e9ducteur, Isofix, Essential Green",
+      "prix_base": 978000,
+      "prix_comparaison": 968000,
+      "indice_prix": 98.97750511247443
     },
     {
-      "cle": "gpspedestregpsrandonneegpssport_126402gpsdenavigationaupoignetgarminforetrex8010753759317072_html",
-      "name": "Navigateur GPS au poignet GARMIN Foretrex 801 - Noir - 2.2\u201d - 100 heures d'autonomie",
-      "prix_base": 2940000,
-      "prix_comparaison": 2795000,
-      "indice_prix": 95.06802721088435
+      "cle": "portebebe_135072portebebeergonomiquechiccohipseatpirateblackventraledosmixte015kg8058664152988_html",
+      "name": "Porte-b\u00e9b\u00e9 ergonomique CHICCO - Hip Seat Pirate Black - Ventrale/dos - Mixte - 0-15kg",
+      "prix_base": 580000,
+      "prix_comparaison": 574000,
+      "indice_prix": 98.96551724137932
     },
     {
-      "cle": "baignoire_82399baignoirebebetransatdebainthermometrebrosseetpeigneciseauxmouchebebe3023191483299_html",
-      "name": "Baignoire B\u00e9b\u00e9 + Transat de bain + Thermometre + Brosse et peigne + Ciseaux + Mouche b\u00e9b\u00e9",
-      "prix_base": 422000,
-      "prix_comparaison": 399000,
-      "indice_prix": 94.54976303317535
+      "cle": "sacalanger_17375babymoovbabystarsacalangeravecbandouliereplanalangerinclus3661276009981_html",
+      "name": "Babymoov Sac a langer Baby Style Star",
+      "prix_base": 272000,
+      "prix_comparaison": 269000,
+      "indice_prix": 98.8970588235294
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "coffredexterieurrangementdexterieur_91351coffredejardin190lenboisexotiquedeucalyptusfsc190l485x1095x37cmavecrouletteseffetteck3612408255707_html",
-      "name": "Coffre de rangement jardin en bois exotique d'eucalyptus FSC - 190 L - 48,5 x 109,5 x 37 cm - Avec roulettes - Effet Teck",
-      "prix_base": 1156000,
-      "prix_comparaison": 730000,
-      "indice_prix": 63.14878892733564
+      "cle": "litpliantlitparapluie_135870litdevoyagechiccogoodnightpegasobleu8058664165933_html",
+      "name": "Lit de Voyage CHICCO Goodnight - Pegaso Bleu",
+      "prix_base": 766000,
+      "prix_comparaison": 689000,
+      "indice_prix": 89.94778067885117
     },
     {
-      "cle": "thesglaces_74643theglacepeche2l_html",
-      "name": "Th\u00e9 glac\u00e9 p\u00eache 2L",
-      "prix_base": 8500,
-      "prix_comparaison": 5400,
-      "indice_prix": 63.529411764705884
+      "cle": "poussettechassispoussette_51804cybexkitmainslibreszenobrasetceintureabdominale4063846055876_html",
+      "name": "CYBEX Kit mains libres ZENO - Bras et ceinture abdominale",
+      "prix_base": 714000,
+      "prix_comparaison": 643000,
+      "indice_prix": 90.05602240896359
     },
     {
-      "cle": "fixationtvsupporttvsupportmuralpourtv_141541chariotmobileinotekproprostand42100visiopourecrande42a1003760355440834_html",
-      "name": "Chariot mobile - INOTEK - Pro Prostand 42100 Visio - Pour \u00e9cran de 42 a 100",
-      "prix_base": 1635000,
-      "prix_comparaison": 1438000,
-      "indice_prix": 87.95107033639144
+      "cle": "poussettechassispoussette_135824poussettedoublebambisolpourjumeauxetpourenfantsdagerapprochesdelanaissancea36mois3159059051994_html",
+      "name": "Poussette double BAMBISOL - Pour jumeaux et pour enfants d'\u00e2ge rapproch\u00e9s de la naissance a 36 mois",
+      "prix_base": 1364000,
+      "prix_comparaison": 1268000,
+      "indice_prix": 92.96187683284458
     },
     {
-      "cle": "fixationtvsupporttvsupportmuralpourtv_91111inotekmoov32652supportmuraluniverselorientableetinclinablepourecransplatsde32a6582cma165cm0602561580061_html",
-      "name": "INOTEK MOOV 3265.2 Support mural universel orientable et inclinable pour \u00e9crans plats de 32'' a 65'' (82 cm a 165 cm)",
-      "prix_base": 281000,
-      "prix_comparaison": 249000,
-      "indice_prix": 88.61209964412811
+      "cle": "siegeauto_133187siegeautoisofixnaniaspirit40150cmr1290a10ansdosroute40105cmtetierereglableinclinablepivotant3507460234398_html",
+      "name": "Siege auto isofix NANIA SPIRIT 40-150 cm R129 \u2013 0 a 10 ans- Dos route 40-105 cm \u2013 Tetiere r\u00e9glable - Inclinable - Pivotant",
+      "prix_base": 1438000,
+      "prix_comparaison": 1337000,
+      "indice_prix": 92.97635605006954
     },
     {
-      "cle": "siegedecombatsiegedepeche_87680dudulepaniersiege3casiers3660116630019_html",
-      "name": "DUDULE Panier Siege 3 casiers",
-      "prix_base": 1087000,
-      "prix_comparaison": 1017000,
-      "indice_prix": 93.5602575896964
+      "cle": "poussettechassispoussette_133189poussettecombinee2en1naniatexas036moisdossierreglablesiegeautobeoneevor1294085cm3507460238129_html",
+      "name": "Poussette combin\u00e9e 2 en 1 NANIA TEXAS 0-36 mois - Dossier r\u00e9glable + Siege auto BEONE EVO R129 40-85 cm",
+      "prix_base": 1298000,
+      "prix_comparaison": 1207000,
+      "indice_prix": 92.98921417565485
     }
   ]
 }

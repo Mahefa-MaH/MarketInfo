@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 4667,
-      "prix_base": 23400,
-      "name": "Marqueur permanent biseaut\u00e9 pochette de 4 pi\u00e8ces",
-      "prix_comparaison": 25600,
-      "variation": 2200
+      "list_id": 4672,
+      "prix_base": 28200,
+      "name": "Marqueur pour tableau blanc ogive pochette de 4 pi\u00e8ces",
+      "prix_comparaison": 29800,
+      "variation": 1600
+    },
+    {
+      "list_id": 5170,
+      "prix_base": 17300,
+      "name": "Surligneur pochette de 4 pi\u00e8ces couleur assortie",
+      "prix_comparaison": 18300,
+      "variation": 1000
+    },
+    {
+      "list_id": 5021,
+      "prix_base": 6000,
+      "name": "Prot\u00e8ge document 60 vues",
+      "prix_comparaison": 6600,
+      "variation": 600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4667,
-      "prix_base": 23400,
-      "name": "Marqueur permanent biseaut\u00e9 pochette de 4 pi\u00e8ces",
-      "prix_comparaison": 25600,
-      "variation": 2200
+      "list_id": 5177,
+      "prix_base": 2200,
+      "name": "Gomme 1 usage Precision 1 pi\u00e8ce",
+      "prix_comparaison": 2100,
+      "variation": -100
+    },
+    {
+      "list_id": 5020,
+      "prix_base": 14000,
+      "name": "Prot\u00e8ge document 200 vues",
+      "prix_comparaison": 14100,
+      "variation": 100
+    },
+    {
+      "list_id": 5021,
+      "prix_base": 6000,
+      "name": "Prot\u00e8ge document 60 vues",
+      "prix_comparaison": 6600,
+      "variation": 600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 4667,
-      "name": "Marqueur permanent biseaut\u00e9 pochette de 4 pi\u00e8ces",
-      "prix_base": 23400,
-      "prix_comparaison": 25600,
-      "indice_prix": 109.4017094017094
+      "list_id": 5021,
+      "name": "Prot\u00e8ge document 60 vues",
+      "prix_base": 6000,
+      "prix_comparaison": 6600,
+      "indice_prix": 110.0
+    },
+    {
+      "list_id": 5170,
+      "name": "Surligneur pochette de 4 pi\u00e8ces couleur assortie",
+      "prix_base": 17300,
+      "prix_comparaison": 18300,
+      "indice_prix": 105.78034682080924
+    },
+    {
+      "list_id": 4672,
+      "name": "Marqueur pour tableau blanc ogive pochette de 4 pi\u00e8ces",
+      "prix_base": 28200,
+      "prix_comparaison": 29800,
+      "indice_prix": 105.67375886524823
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 4667,
-      "name": "Marqueur permanent biseaut\u00e9 pochette de 4 pi\u00e8ces",
-      "prix_base": 23400,
-      "prix_comparaison": 25600,
-      "indice_prix": 109.4017094017094
+      "list_id": 5177,
+      "name": "Gomme 1 usage Precision 1 pi\u00e8ce",
+      "prix_base": 2200,
+      "prix_comparaison": 2100,
+      "indice_prix": 95.45454545454545
+    },
+    {
+      "list_id": 5020,
+      "name": "Prot\u00e8ge document 200 vues",
+      "prix_base": 14000,
+      "prix_comparaison": 14100,
+      "indice_prix": 100.71428571428571
+    },
+    {
+      "list_id": 4672,
+      "name": "Marqueur pour tableau blanc ogive pochette de 4 pi\u00e8ces",
+      "prix_base": 28200,
+      "prix_comparaison": 29800,
+      "indice_prix": 105.67375886524823
     }
   ]
 }

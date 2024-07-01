@@ -2,109 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Béaba Transatdo Parma Grey**
-   - Prix avant: 187,000 Ar
-   - Prix actuel: 189,000 Ar
-   - Variation: +2,000 Ar
+1. **Babymoov Sac a langer Baby Style Star**
+   - Prix avant: 272,000 Ar
+   - Prix actuel: 269,000 Ar
+   - Variation: -3,000 Ar
 
-2. **Thé glacé pêche 2L**
-   - Prix avant: 8,500 Ar
-   - Prix actuel: 5,400 Ar
-   - Variation: -3,100 Ar
-
-3. **Bouchon de champagne Mumm**
-   - Prix avant: 69,000 Ar
-   - Prix actuel: 65,000 Ar
+2. **Porte bébé Flip ergonomique 4 en 1 gris - INFANTINO - Flip ergonomique 4 en 1 - Polyester - De 3,6 a 14,5 kg**
+   - Prix avant: 197,000 Ar
+   - Prix actuel: 193,000 Ar
    - Variation: -4,000 Ar
 
-4. **MICHELIN Lot de 4 enjoliveurs - 15 - NVS spécial utilitaires**
-   - Prix avant: 343,000 Ar
-   - Prix actuel: 334,000 Ar
-   - Variation: -9,000 Ar
+3. **Porte-bébé ergonomique CHICCO - Hip Seat Pirate Black - Ventrale/dos - Mixte - 0-15kg**
+   - Prix avant: 580,000 Ar
+   - Prix actuel: 574,000 Ar
+   - Variation: -6,000 Ar
 
-5. **Casque - FAIRPHONE - Fairbuds XL - Noir**
-   - Prix avant: 1,158,000 Ar
-   - Prix actuel: 1,145,000 Ar
-   - Variation: -13,000 Ar
+4. **Cosi MAXI COSI Cabriofix i-Size, Groupe 0+, i-Size, avec Réducteur, Isofix, Essential Green**
+   - Prix avant: 978,000 Ar
+   - Prix actuel: 968,000 Ar
+   - Variation: -10,000 Ar
+
+5. **MAXI-COSI Swift ECO, Lit de voyage 3 en 1: Berceau, Lit et Parc, léger et pliable, De la naissance a 3.5 ans, Beyond Green**
+   - Prix avant: 1,443,000 Ar
+   - Prix actuel: 1,429,000 Ar
+   - Variation: -14,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Coffre de rangement jardin en bois exotique d'eucalyptus FSC - 190 L - 48,5 x 109,5 x 37 cm - Avec roulettes - Effet Teck**
-   - Prix avant: 1,156,000 Ar
-   - Prix actuel: 730,000 Ar
-   - Variation: -426,000 Ar
+1. **Réfrigérateur américain CONTINENTAL EDISON - CERA532NFIX - Total No Frost- 529L - L90 cm xH177 cm - Moteur inverter -Inox**
+   - Prix avant: 5,610,000 Ar
+   - Prix actuel: 5,442,000 Ar
+   - Variation: -168,000 Ar
 
-2. **Chariot mobile - INOTEK - Pro Prostand 42100 Visio - Pour écran de 42 a 100**
-   - Prix avant: 1,635,000 Ar
-   - Prix actuel: 1,438,000 Ar
-   - Variation: -197,000 Ar
+2. **Siege auto isofix NANIA SPIRIT 40-150 cm R129 – 0 a 10 ans- Dos route 40-105 cm – Tetiere réglable - Inclinable - Pivotant**
+   - Prix avant: 1,438,000 Ar
+   - Prix actuel: 1,337,000 Ar
+   - Variation: -101,000 Ar
 
-3. **Navigateur GPS au poignet GARMIN Foretrex 801 - Noir - 2.2” - 100 heures d'autonomie**
-   - Prix avant: 2,940,000 Ar
-   - Prix actuel: 2,795,000 Ar
-   - Variation: -145,000 Ar
+3. **Poussette double BAMBISOL - Pour jumeaux et pour enfants d'âge rapprochés de la naissance a 36 mois**
+   - Prix avant: 1,364,000 Ar
+   - Prix actuel: 1,268,000 Ar
+   - Variation: -96,000 Ar
 
-4. **DUDULE Panier Siege 3 casiers**
-   - Prix avant: 1,087,000 Ar
-   - Prix actuel: 1,017,000 Ar
-   - Variation: -70,000 Ar
+4. **Poussette combinée 2 en 1 NANIA TEXAS 0-36 mois - Dossier réglable + Siege auto BEONE EVO R129 40-85 cm**
+   - Prix avant: 1,298,000 Ar
+   - Prix actuel: 1,207,000 Ar
+   - Variation: -91,000 Ar
 
-5. **INOTEK MOOV 3265.2 Support mural universel orientable et inclinable pour écrans plats de 32'' a 65'' (82 cm a 165 cm)**
-   - Prix avant: 281,000 Ar
-   - Prix actuel: 249,000 Ar
-   - Variation: -32,000 Ar
+5. **Lit de Voyage CHICCO Goodnight - Pegaso Bleu**
+   - Prix avant: 766,000 Ar
+   - Prix actuel: 689,000 Ar
+   - Variation: -77,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Béaba Transatdo Parma Grey**
-   - Prix avant: 187,000 Ar
-   - Prix actuel: 189,000 Ar
-   - Indice de prix : 101.07
+1. **MAXI-COSI Swift ECO, Lit de voyage 3 en 1: Berceau, Lit et Parc, léger et pliable, De la naissance a 3.5 ans, Beyond Green**
+   - Prix avant: 1,443,000 Ar
+   - Prix actuel: 1,429,000 Ar
+   - Indice de prix : 99.03
 
-2. **Casque - FAIRPHONE - Fairbuds XL - Noir**
-   - Prix avant: 1,158,000 Ar
-   - Prix actuel: 1,145,000 Ar
-   - Indice de prix : 98.88
+2. **Cosy CYBEX Aton B2 I-Size - Base One Dynamic incluse - Rouge**
+   - Prix avant: 2,029,000 Ar
+   - Prix actuel: 2,009,000 Ar
+   - Indice de prix : 99.01
 
-3. **MICHELIN Lot de 4 enjoliveurs - 15 - NVS spécial utilitaires**
-   - Prix avant: 343,000 Ar
-   - Prix actuel: 334,000 Ar
-   - Indice de prix : 97.38
+3. **Cosi MAXI COSI Cabriofix i-Size, Groupe 0+, i-Size, avec Réducteur, Isofix, Essential Green**
+   - Prix avant: 978,000 Ar
+   - Prix actuel: 968,000 Ar
+   - Indice de prix : 98.98
 
-4. **Navigateur GPS au poignet GARMIN Foretrex 801 - Noir - 2.2” - 100 heures d'autonomie**
-   - Prix avant: 2,940,000 Ar
-   - Prix actuel: 2,795,000 Ar
-   - Indice de prix : 95.07
+4. **Porte-bébé ergonomique CHICCO - Hip Seat Pirate Black - Ventrale/dos - Mixte - 0-15kg**
+   - Prix avant: 580,000 Ar
+   - Prix actuel: 574,000 Ar
+   - Indice de prix : 98.97
 
-5. **Baignoire Bébé + Transat de bain + Thermometre + Brosse et peigne + Ciseaux + Mouche bébé**
-   - Prix avant: 422,000 Ar
-   - Prix actuel: 399,000 Ar
-   - Indice de prix : 94.55
+5. **Babymoov Sac a langer Baby Style Star**
+   - Prix avant: 272,000 Ar
+   - Prix actuel: 269,000 Ar
+   - Indice de prix : 98.90
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Coffre de rangement jardin en bois exotique d'eucalyptus FSC - 190 L - 48,5 x 109,5 x 37 cm - Avec roulettes - Effet Teck**
-   - Prix avant: 1,156,000 Ar
-   - Prix actuel: 730,000 Ar
-   - Indice de prix : 63.15
+1. **Lit de Voyage CHICCO Goodnight - Pegaso Bleu**
+   - Prix avant: 766,000 Ar
+   - Prix actuel: 689,000 Ar
+   - Indice de prix : 89.95
 
-2. **Thé glacé pêche 2L**
-   - Prix avant: 8,500 Ar
-   - Prix actuel: 5,400 Ar
-   - Indice de prix : 63.53
+2. **CYBEX Kit mains libres ZENO - Bras et ceinture abdominale**
+   - Prix avant: 714,000 Ar
+   - Prix actuel: 643,000 Ar
+   - Indice de prix : 90.06
 
-3. **Chariot mobile - INOTEK - Pro Prostand 42100 Visio - Pour écran de 42 a 100**
-   - Prix avant: 1,635,000 Ar
-   - Prix actuel: 1,438,000 Ar
-   - Indice de prix : 87.95
+3. **Poussette double BAMBISOL - Pour jumeaux et pour enfants d'âge rapprochés de la naissance a 36 mois**
+   - Prix avant: 1,364,000 Ar
+   - Prix actuel: 1,268,000 Ar
+   - Indice de prix : 92.96
 
-4. **INOTEK MOOV 3265.2 Support mural universel orientable et inclinable pour écrans plats de 32'' a 65'' (82 cm a 165 cm)**
-   - Prix avant: 281,000 Ar
-   - Prix actuel: 249,000 Ar
-   - Indice de prix : 88.61
+4. **Siege auto isofix NANIA SPIRIT 40-150 cm R129 – 0 a 10 ans- Dos route 40-105 cm – Tetiere réglable - Inclinable - Pivotant**
+   - Prix avant: 1,438,000 Ar
+   - Prix actuel: 1,337,000 Ar
+   - Indice de prix : 92.98
 
-5. **DUDULE Panier Siege 3 casiers**
-   - Prix avant: 1,087,000 Ar
-   - Prix actuel: 1,017,000 Ar
-   - Indice de prix : 93.56
+5. **Poussette combinée 2 en 1 NANIA TEXAS 0-36 mois - Dossier réglable + Siege auto BEONE EVO R129 40-85 cm**
+   - Prix avant: 1,298,000 Ar
+   - Prix actuel: 1,207,000 Ar
+   - Indice de prix : 92.99
 

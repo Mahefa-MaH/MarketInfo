@@ -8,18 +8,18 @@
       "variation": 11500
     },
     {
-      "cle": "vaissellesjetables_9069assiettesgmo22cm50pieces_html",
-      "name": "Assiettes GM \u00d822cm 50 pi\u00e8ces",
-      "prix_base": 16900,
-      "prix_comparaison": 21500,
-      "variation": 4600
+      "cle": "poissonsetfruitsdemer_7507rondellesdecalamar500g_html",
+      "name": "Rondelles de calamar 500g",
+      "prix_base": 37000,
+      "prix_comparaison": 44900,
+      "variation": 7900
     },
     {
-      "cle": "laitenpoudre_944laitenpoudreolait1kg_html",
-      "name": "Lait en poudre O'lait 1kg",
-      "prix_base": 43000,
-      "prix_comparaison": 47000,
-      "variation": 4000
+      "cle": "poissonspanescuisines_14741boulettesdepoisson_html",
+      "name": "Boulettes de poisson",
+      "prix_base": 29900,
+      "prix_comparaison": 37500,
+      "variation": 7600
     }
   ],
   "prix_diminues": [

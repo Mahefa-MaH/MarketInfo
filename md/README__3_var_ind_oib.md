@@ -7,15 +7,15 @@
    - Prix actuel: 59,000 Ar
    - Variation: +11,500 Ar
 
-2. **Assiettes GM Ø22cm 50 pièces**
-   - Prix avant: 16,900 Ar
-   - Prix actuel: 21,500 Ar
-   - Variation: +4,600 Ar
+2. **Rondelles de calamar 500g**
+   - Prix avant: 37,000 Ar
+   - Prix actuel: 44,900 Ar
+   - Variation: +7,900 Ar
 
-3. **Lait en poudre O'lait 1kg**
-   - Prix avant: 43,000 Ar
-   - Prix actuel: 47,000 Ar
-   - Variation: +4,000 Ar
+3. **Boulettes de poisson**
+   - Prix avant: 29,900 Ar
+   - Prix actuel: 37,500 Ar
+   - Variation: +7,600 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
