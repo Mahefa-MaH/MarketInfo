@@ -1,6 +1,13 @@
 {
   "Variation de prix": [
     {
+      "cle": "soufflesextrudes_5725chipscremeoignon_html",
+      "name": "Tchin Chips cr\u00e8me oignon 100g",
+      "prix_base": 550,
+      "prix_comparaison": 590,
+      "variation": 40
+    },
+    {
       "cle": "laits_14595laitdemiecremeaccessenbrique1l_html",
       "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique sans bouchon 1L",
       "prix_base": 4900,
@@ -9,6 +16,13 @@
     }
   ],
   "indice de prix": [
+    {
+      "cle": "soufflesextrudes_5725chipscremeoignon_html",
+      "name": "Tchin Chips cr\u00e8me oignon 100g",
+      "prix_base": 550,
+      "prix_comparaison": 590,
+      "indice_prix": 107.27272727272727
+    },
     {
       "cle": "laits_14595laitdemiecremeaccessenbrique1l_html",
       "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique sans bouchon 1L",

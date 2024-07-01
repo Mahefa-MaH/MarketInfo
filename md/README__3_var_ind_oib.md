@@ -2,109 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Confiture de fraise 1kg**
-   - Prix avant: 17,500 Ar
-   - Prix actuel: 20,900 Ar
-   - Variation: +3,400 Ar
+1. **10 verres à vin ballons 19cl**
+   - Prix avant: 47,500 Ar
+   - Prix actuel: 59,000 Ar
+   - Variation: +11,500 Ar
 
-2. **Liquide vaisselle fleurs de cerisier 5L**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 17,000 Ar
-   - Variation: +2,100 Ar
+2. **Assiettes GM Ø22cm 50 pièces**
+   - Prix avant: 16,900 Ar
+   - Prix actuel: 21,500 Ar
+   - Variation: +4,600 Ar
 
-3. **Liquide vaisselle pomme raisin 5L**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 17,000 Ar
-   - Variation: +2,100 Ar
-
-4. **Fromage nature 108g**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 11,500 Ar
-   - Variation: +1,600 Ar
-
-5. **Tortillas Doritos suprême cheese 145g**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 8,200 Ar
-   - Variation: +1,300 Ar
+3. **Lait en poudre O'lait 1kg**
+   - Prix avant: 43,000 Ar
+   - Prix actuel: 47,000 Ar
+   - Variation: +4,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Yaourt ITI vanille 100g**
-   - Prix avant: 900 Ar
-   - Prix actuel: 990 Ar
-   - Variation: +90 Ar
+1. **Tchin Chips crème oignon 100g**
+   - Prix avant: 550 Ar
+   - Prix actuel: 590 Ar
+   - Variation: +40 Ar
 
-2. **Nouille instantanée matsiro poulet 85g**
-   - Prix avant: 850 Ar
-   - Prix actuel: 950 Ar
-   - Variation: +100 Ar
+2. **Tchin Chips fromage cheddar 100g**
+   - Prix avant: 550 Ar
+   - Prix actuel: 590 Ar
+   - Variation: +40 Ar
 
-3. **Jus Tampico coco ananas 1L**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,950 Ar
-   - Variation: +200 Ar
-
-4. **Spaghetti francini 500g**
-   - Prix avant: 2,200 Ar
-   - Prix actuel: 2,490 Ar
-   - Variation: +290 Ar
-
-5. **Lait demi-écrémé en brique sans bouchon 1L**
-   - Prix avant: 4,900 Ar
-   - Prix actuel: 5,290 Ar
-   - Variation: +390 Ar
+3. **Tchin Chips pizza 100g**
+   - Prix avant: 550 Ar
+   - Prix actuel: 590 Ar
+   - Variation: +40 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Nettoyant vitre voiture 1L**
-   - Prix avant: 2,400 Ar
-   - Prix actuel: 3,200 Ar
-   - Indice de prix : 133.33
+1. **Boisson Saveur Mangue 50cl**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 9,700 Ar
+   - Indice de prix : 140.58
 
-2. **Liquide vaisselle pomme raisin 1L**
-   - Prix avant: 2,790 Ar
-   - Prix actuel: 3,500 Ar
-   - Indice de prix : 125.45
+2. **Boisson Saveur Litchi 50cl**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 9,700 Ar
+   - Indice de prix : 140.58
 
-3. **Liquide vaisselle menthe citron 1L**
-   - Prix avant: 2,790 Ar
-   - Prix actuel: 3,500 Ar
-   - Indice de prix : 125.45
-
-4. **Liquide vaisselle fleurs de cerisier 1L**
-   - Prix avant: 2,790 Ar
-   - Prix actuel: 3,500 Ar
-   - Indice de prix : 125.45
-
-5. **Galette ronde au coco x5 pièces**
-   - Prix avant: 2,200 Ar
-   - Prix actuel: 2,700 Ar
-   - Indice de prix : 122.73
+3. **Boisson Saveur Fruit de la Passion  50cl**
+   - Prix avant: 6,900 Ar
+   - Prix actuel: 9,700 Ar
+   - Indice de prix : 140.58
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Jus Tampico coco ananas 1L**
+1. **Pop corn sucré 110g**
+   - Prix avant: 3,400 Ar
+   - Prix actuel: 3,600 Ar
+   - Indice de prix : 105.88
+
+2. **Sirop de pomme cassis et framboise 50cl**
+   - Prix avant: 4,700 Ar
+   - Prix actuel: 5,000 Ar
+   - Indice de prix : 106.38
+
+3. **Jus Tampico pêche 1L**
    - Prix avant: 2,750 Ar
    - Prix actuel: 2,950 Ar
    - Indice de prix : 107.27
-
-2. **Lait demi-écrémé en brique sans bouchon 1L**
-   - Prix avant: 4,900 Ar
-   - Prix actuel: 5,290 Ar
-   - Indice de prix : 107.96
-
-3. **Pétales de maïs croustillants sucrés 375g**
-   - Prix avant: 12,500 Ar
-   - Prix actuel: 13,500 Ar
-   - Indice de prix : 108.00
-
-4. **Détergent sol en bouteille 1L**
-   - Prix avant: 4,200 Ar
-   - Prix actuel: 4,600 Ar
-   - Indice de prix : 109.52
-
-5. **Yaourt ITI vanille 100g**
-   - Prix avant: 900 Ar
-   - Prix actuel: 990 Ar
-   - Indice de prix : 110.00
 
