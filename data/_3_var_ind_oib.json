@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "verrerie_1495210verresavinballons_html",
-      "name": "10 verres \u00e0 vin ballons 19cl",
-      "prix_base": 47500,
-      "prix_comparaison": 59000,
-      "variation": 11500
-    },
-    {
-      "cle": "poissonsetfruitsdemer_7507rondellesdecalamar500g_html",
-      "name": "Rondelles de calamar 500g",
-      "prix_base": 37000,
-      "prix_comparaison": 44900,
-      "variation": 7900
+      "cle": "tuilestortillas_1379chipsentubebarbecue175g_html",
+      "name": "Chips en tube barbecue 175g",
+      "prix_base": 14800,
+      "prix_comparaison": 15200,
+      "variation": 400
     }
   ],
   "prix_diminues": [
     {
-      "cle": "soufflesextrudes_5725chipscremeoignon_html",
-      "name": "Tchin Chips cr\u00e8me oignon 100g",
-      "prix_base": 550,
-      "prix_comparaison": 590,
-      "variation": 40
-    },
-    {
-      "cle": "soufflesextrudes_5728tchinchipsfromagecheddar_html",
-      "name": "Tchin Chips fromage cheddar 100g",
-      "prix_base": 550,
-      "prix_comparaison": 590,
-      "variation": 40
+      "cle": "tuilestortillas_1379chipsentubebarbecue175g_html",
+      "name": "Chips en tube barbecue 175g",
+      "prix_base": 14800,
+      "prix_comparaison": 15200,
+      "variation": 400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "jusdefruits_230aloedrinkmangue50cl_html",
-      "name": "Boisson Saveur Mangue 50cl",
-      "prix_base": 6900,
-      "prix_comparaison": 9700,
-      "indice_prix": 140.57971014492753
-    },
-    {
-      "cle": "jusdefruits_225aloedrinklitchi50cl_html",
-      "name": "Boisson Saveur Litchi 50cl",
-      "prix_base": 6900,
-      "prix_comparaison": 9700,
-      "indice_prix": 140.57971014492753
+      "cle": "tuilestortillas_1379chipsentubebarbecue175g_html",
+      "name": "Chips en tube barbecue 175g",
+      "prix_base": 14800,
+      "prix_comparaison": 15200,
+      "indice_prix": 102.70270270270271
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "autresproduitsaperitifs_5905popcornsucre110g_html",
-      "name": "Pop corn sucr\u00e9 110g",
-      "prix_base": 3400,
-      "prix_comparaison": 3600,
-      "indice_prix": 105.88235294117646
-    },
-    {
-      "cle": "siropsetconcentres_4816siropdepommecassisetframboise50cl_html",
-      "name": "Sirop de pomme cassis et framboise 50cl",
-      "prix_base": 4700,
-      "prix_comparaison": 5000,
-      "indice_prix": 106.38297872340425
+      "cle": "tuilestortillas_1379chipsentubebarbecue175g_html",
+      "name": "Chips en tube barbecue 175g",
+      "prix_base": 14800,
+      "prix_comparaison": 15200,
+      "indice_prix": 102.70270270270271
     }
   ]
 }
