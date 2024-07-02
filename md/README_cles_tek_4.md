@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Sucre blanc 1 kg**
-   - Prix avant: 7,950 Ar
-   - Prix actuel: 7,950 Ar
+1. **Riz blanc parfumé 5 kg**
+   - Prix avant: 40,800 Ar
+   - Prix actuel: 40,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz Blanchi Makalioka 5kg**
-   - Prix avant: 19,800 Ar
-   - Prix actuel: 19,800 Ar
+2. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
+   - Prix avant: 192,000 Ar
+   - Prix actuel: 192,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz rouge long grain complet 500 g**
-   - Prix avant: 12,300 Ar
-   - Prix actuel: 12,300 Ar
+3. **Riz blanc ( Vary makalioka fotsy ) 50 kg**
+   - Prix avant: 198,000 Ar
+   - Prix actuel: 198,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
