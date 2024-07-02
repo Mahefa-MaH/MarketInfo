@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz rouge Malgache Supermarché.mg™ 1kg | Vary mena | Origine Madagascar**
-   - Prix avant: 3,950 Ar
-   - Prix actuel: 3,950 Ar
+1. **Riz blanc parfumé Madame Rose™ 5kg | Riz de Madagascar Naturellement parfumé**
+   - Prix avant: 40,000 Ar
+   - Prix actuel: 40,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Huile de Soja Hina™ 1L | Riche en Oméga 3 et en Vitamine E**
-   - Prix avant: 10,210 Ar
-   - Prix actuel: 10,210 Ar
+2. **Riz rouge Malgache Supermarché.mg™ 50kg | Vary mena | Origine Madagascar**
+   - Prix avant: 199,500 Ar
+   - Prix actuel: 199,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre Blanc Ramatoa™ 1kg | Sucre de canne raffiné**
-   - Prix avant: 9,510 Ar
-   - Prix actuel: 9,510 Ar
+3. **Haricots Rouges séchés 1kg | Tsaramaso mena maina**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 8,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
