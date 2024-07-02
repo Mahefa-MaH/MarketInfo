@@ -12,11 +12,6 @@
    - Prix actuel: 44,900 Ar
    - Variation: +7,900 Ar
 
-3. **Boulettes de poisson**
-   - Prix avant: 29,900 Ar
-   - Prix actuel: 37,500 Ar
-   - Variation: +7,600 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Tchin Chips crème oignon 100g**
@@ -25,11 +20,6 @@
    - Variation: +40 Ar
 
 2. **Tchin Chips fromage cheddar 100g**
-   - Prix avant: 550 Ar
-   - Prix actuel: 590 Ar
-   - Variation: +40 Ar
-
-3. **Tchin Chips pizza 100g**
    - Prix avant: 550 Ar
    - Prix actuel: 590 Ar
    - Variation: +40 Ar
@@ -46,11 +36,6 @@
    - Prix actuel: 9,700 Ar
    - Indice de prix : 140.58
 
-3. **Boisson Saveur Fruit de la Passion  50cl**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 9,700 Ar
-   - Indice de prix : 140.58
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Pop corn sucré 110g**
@@ -62,9 +47,4 @@
    - Prix avant: 4,700 Ar
    - Prix actuel: 5,000 Ar
    - Indice de prix : 106.38
-
-3. **Jus Tampico pêche 1L**
-   - Prix avant: 2,750 Ar
-   - Prix actuel: 2,950 Ar
-   - Indice de prix : 107.27
 

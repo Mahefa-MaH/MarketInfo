@@ -13,13 +13,6 @@
       "prix_base": 37000,
       "prix_comparaison": 44900,
       "variation": 7900
-    },
-    {
-      "cle": "poissonspanescuisines_14741boulettesdepoisson_html",
-      "name": "Boulettes de poisson",
-      "prix_base": 29900,
-      "prix_comparaison": 37500,
-      "variation": 7600
     }
   ],
   "prix_diminues": [
@@ -33,13 +26,6 @@
     {
       "cle": "soufflesextrudes_5728tchinchipsfromagecheddar_html",
       "name": "Tchin Chips fromage cheddar 100g",
-      "prix_base": 550,
-      "prix_comparaison": 590,
-      "variation": 40
-    },
-    {
-      "cle": "soufflesextrudes_5727tchinchipspizza100g_html",
-      "name": "Tchin Chips pizza 100g",
       "prix_base": 550,
       "prix_comparaison": 590,
       "variation": 40
@@ -59,13 +45,6 @@
       "prix_base": 6900,
       "prix_comparaison": 9700,
       "indice_prix": 140.57971014492753
-    },
-    {
-      "cle": "jusdefruits_228aloedrinkfrtdelapassion50cl_html",
-      "name": "Boisson Saveur Fruit de la Passion  50cl",
-      "prix_base": 6900,
-      "prix_comparaison": 9700,
-      "indice_prix": 140.57971014492753
     }
   ],
   "indices_prix_plus_faibles": [
@@ -82,13 +61,6 @@
       "prix_base": 4700,
       "prix_comparaison": 5000,
       "indice_prix": 106.38297872340425
-    },
-    {
-      "cle": "jusdefruits_1690justampicopeche1l_html",
-      "name": "Jus Tampico p\u00eache 1L",
-      "prix_base": 2750,
-      "prix_comparaison": 2950,
-      "indice_prix": 107.27272727272727
     }
   ]
 }

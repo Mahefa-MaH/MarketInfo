@@ -12,6 +12,11 @@
    - Prix actuel: 5,290 Ar
    - Variation: +390 Ar
 
+3. **Lait demi écrémé Candia 1L**
+   - Prix avant: 5,190 Ar
+   - Prix actuel: 5,900 Ar
+   - Variation: +710 Ar
+
 
 
 ## Indice de prix
@@ -25,4 +30,9 @@
    - Prix avant: 4,900 Ar
    - Prix actuel: 5,290 Ar
    - Indice de prix : 107.96
+
+3. **Lait demi écrémé Candia 1L**
+   - Prix avant: 5,190 Ar
+   - Prix actuel: 5,900 Ar
+   - Indice de prix : 113.68
 

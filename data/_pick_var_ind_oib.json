@@ -13,6 +13,13 @@
       "prix_base": 4900,
       "prix_comparaison": 5290,
       "variation": 390
+    },
+    {
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5190,
+      "prix_comparaison": 5900,
+      "variation": 710
     }
   ],
   "indice de prix": [
@@ -29,6 +36,13 @@
       "prix_base": 4900,
       "prix_comparaison": 5290,
       "indice_prix": 107.95918367346938
+    },
+    {
+      "cle": "laits_4254laitdemiecremecandia1l_html",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
+      "prix_base": 5190,
+      "prix_comparaison": 5900,
+      "indice_prix": 113.68015414258188
     }
   ]
 }
