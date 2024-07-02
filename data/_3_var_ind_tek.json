@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 4672,
-      "prix_base": 28200,
-      "name": "Marqueur pour tableau blanc ogive pochette de 4 pi\u00e8ces",
-      "prix_comparaison": 29800,
-      "variation": 1600
+      "list_id": 7873,
+      "prix_base": 1300,
+      "name": "Colle en pot 50g avec spatule",
+      "prix_comparaison": 1400,
+      "variation": 100
     },
     {
-      "list_id": 5170,
-      "prix_base": 17300,
-      "name": "Surligneur pochette de 4 pi\u00e8ces couleur assortie",
-      "prix_comparaison": 18300,
-      "variation": 1000
+      "list_id": 14523,
+      "prix_base": 8000,
+      "name": "Etiquette de prix Vert PM (Paquet de 50pi\u00e8ces)",
+      "prix_comparaison": 7000,
+      "variation": -1000
     },
     {
-      "list_id": 5021,
-      "prix_base": 6000,
-      "name": "Prot\u00e8ge document 60 vues",
-      "prix_comparaison": 6600,
-      "variation": 600
+      "list_id": 4370,
+      "prix_base": 22400,
+      "name": "Agrafeuse 24-26/6 essentials m\u00e9tal",
+      "prix_comparaison": 16000,
+      "variation": -6400
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 5177,
-      "prix_base": 2200,
-      "name": "Gomme 1 usage Precision 1 pi\u00e8ce",
-      "prix_comparaison": 2100,
-      "variation": -100
+      "list_id": 4370,
+      "prix_base": 22400,
+      "name": "Agrafeuse 24-26/6 essentials m\u00e9tal",
+      "prix_comparaison": 16000,
+      "variation": -6400
     },
     {
-      "list_id": 5020,
-      "prix_base": 14000,
-      "name": "Prot\u00e8ge document 200 vues",
-      "prix_comparaison": 14100,
+      "list_id": 14523,
+      "prix_base": 8000,
+      "name": "Etiquette de prix Vert PM (Paquet de 50pi\u00e8ces)",
+      "prix_comparaison": 7000,
+      "variation": -1000
+    },
+    {
+      "list_id": 7873,
+      "prix_base": 1300,
+      "name": "Colle en pot 50g avec spatule",
+      "prix_comparaison": 1400,
       "variation": 100
-    },
-    {
-      "list_id": 5021,
-      "prix_base": 6000,
-      "name": "Prot\u00e8ge document 60 vues",
-      "prix_comparaison": 6600,
-      "variation": 600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 5021,
-      "name": "Prot\u00e8ge document 60 vues",
-      "prix_base": 6000,
-      "prix_comparaison": 6600,
-      "indice_prix": 110.0
+      "list_id": 7873,
+      "name": "Colle en pot 50g avec spatule",
+      "prix_base": 1300,
+      "prix_comparaison": 1400,
+      "indice_prix": 107.6923076923077
     },
     {
-      "list_id": 5170,
-      "name": "Surligneur pochette de 4 pi\u00e8ces couleur assortie",
-      "prix_base": 17300,
-      "prix_comparaison": 18300,
-      "indice_prix": 105.78034682080924
+      "list_id": 14523,
+      "name": "Etiquette de prix Vert PM (Paquet de 50pi\u00e8ces)",
+      "prix_base": 8000,
+      "prix_comparaison": 7000,
+      "indice_prix": 87.5
     },
     {
-      "list_id": 4672,
-      "name": "Marqueur pour tableau blanc ogive pochette de 4 pi\u00e8ces",
-      "prix_base": 28200,
-      "prix_comparaison": 29800,
-      "indice_prix": 105.67375886524823
+      "list_id": 4370,
+      "name": "Agrafeuse 24-26/6 essentials m\u00e9tal",
+      "prix_base": 22400,
+      "prix_comparaison": 16000,
+      "indice_prix": 71.42857142857143
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 5177,
-      "name": "Gomme 1 usage Precision 1 pi\u00e8ce",
-      "prix_base": 2200,
-      "prix_comparaison": 2100,
-      "indice_prix": 95.45454545454545
+      "list_id": 4370,
+      "name": "Agrafeuse 24-26/6 essentials m\u00e9tal",
+      "prix_base": 22400,
+      "prix_comparaison": 16000,
+      "indice_prix": 71.42857142857143
     },
     {
-      "list_id": 5020,
-      "name": "Prot\u00e8ge document 200 vues",
-      "prix_base": 14000,
-      "prix_comparaison": 14100,
-      "indice_prix": 100.71428571428571
+      "list_id": 14523,
+      "name": "Etiquette de prix Vert PM (Paquet de 50pi\u00e8ces)",
+      "prix_base": 8000,
+      "prix_comparaison": 7000,
+      "indice_prix": 87.5
     },
     {
-      "list_id": 4672,
-      "name": "Marqueur pour tableau blanc ogive pochette de 4 pi\u00e8ces",
-      "prix_base": 28200,
-      "prix_comparaison": 29800,
-      "indice_prix": 105.67375886524823
+      "list_id": 7873,
+      "name": "Colle en pot 50g avec spatule",
+      "prix_base": 1300,
+      "prix_comparaison": 1400,
+      "indice_prix": 107.6923076923077
     }
   ]
 }

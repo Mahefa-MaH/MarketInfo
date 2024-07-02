@@ -20,13 +20,6 @@
       "prix_base": 17900,
       "prix_comparaison": 20500,
       "variation": 2600
-    },
-    {
-      "cle": "gelsdoucheetshampoingshomme_4195hsshampooing2en1menthol270ml_html",
-      "name": "Shampoing 2en1 menthol 270ml",
-      "prix_base": 17900,
-      "prix_comparaison": 20500,
-      "variation": 2600
     }
   ],
   "prix_diminues": [
@@ -38,22 +31,15 @@
       "variation": -500
     },
     {
+      "cle": "conservesdepoissons_12451sardinesalhuilevegetale3x69godyssee_html",
+      "name": "Sardines \u00e0 l'huile v\u00e9g\u00e9tale 3x69g (d\u00e9lotage): 60071330",
+      "prix_base": 13900,
+      "prix_comparaison": 13950,
+      "variation": 50
+    },
+    {
       "cle": "yaourtsaboire_11263yopcitron250g_html",
       "name": "Yop citron 250g",
-      "prix_base": 2500,
-      "prix_comparaison": 2590,
-      "variation": 90
-    },
-    {
-      "cle": "yaourtsaboire_1823yopbanane250g_html",
-      "name": "Yop banane 250g",
-      "prix_base": 2500,
-      "prix_comparaison": 2590,
-      "variation": 90
-    },
-    {
-      "cle": "yaourtsaboire_1824yopcoco250g_html",
-      "name": "Yop coco 250g",
       "prix_base": 2500,
       "prix_comparaison": 2590,
       "variation": 90
@@ -80,13 +66,6 @@
       "prix_base": 6500,
       "prix_comparaison": 8400,
       "indice_prix": 129.23076923076923
-    },
-    {
-      "cle": "gelsdoucheetshampoingshomme_14270shampoingantichuteetantipelliculairepourhomme250ml_html",
-      "name": "Shampoing anti-chute et antipelliculaire pour homme 250ml",
-      "prix_base": 16900,
-      "prix_comparaison": 20500,
-      "indice_prix": 121.30177514792899
     }
   ],
   "indices_prix_plus_faibles": [
@@ -98,22 +77,15 @@
       "indice_prix": 98.46153846153847
     },
     {
+      "cle": "conservesdepoissons_12451sardinesalhuilevegetale3x69godyssee_html",
+      "name": "Sardines \u00e0 l'huile v\u00e9g\u00e9tale 3x69g (d\u00e9lotage): 60071330",
+      "prix_base": 13900,
+      "prix_comparaison": 13950,
+      "indice_prix": 100.35971223021583
+    },
+    {
       "cle": "tuilestortillas_14762chipsentubesourcreametonion175g_html",
       "name": "Chips en tube sour cream et onion 175g",
-      "prix_base": 14800,
-      "prix_comparaison": 15200,
-      "indice_prix": 102.70270270270271
-    },
-    {
-      "cle": "tuilestortillas_1379chipsentubebarbecue175g_html",
-      "name": "Chips en tube barbecue 175g",
-      "prix_base": 14800,
-      "prix_comparaison": 15200,
-      "indice_prix": 102.70270270270271
-    },
-    {
-      "cle": "tuilestortillas_1380chipsentubecheeseonion165g_html",
-      "name": "Chips en tube cheese & onion 165g",
       "prix_base": 14800,
       "prix_comparaison": 15200,
       "indice_prix": 102.70270270270271
