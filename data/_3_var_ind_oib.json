@@ -1,35 +1,119 @@
 {
   "prix_augmentes": [
     {
-      "cle": "tuilestortillas_1379chipsentubebarbecue175g_html",
-      "name": "Chips en tube barbecue 175g",
-      "prix_base": 14800,
-      "prix_comparaison": 15200,
-      "variation": 400
+      "cle": "gelsdoucheetshampoingshomme_14270shampoingantichuteetantipelliculairepourhomme250ml_html",
+      "name": "Shampoing anti-chute et antipelliculaire pour homme 250ml",
+      "prix_base": 16900,
+      "prix_comparaison": 20500,
+      "variation": 3600
+    },
+    {
+      "cle": "gelsdoucheetshampoingshomme_14268shampoingtotalcarepourhomme250ml_html",
+      "name": "Shampoing total care pour homme 250ml",
+      "prix_base": 16900,
+      "prix_comparaison": 20500,
+      "variation": 3600
+    },
+    {
+      "cle": "shampoings_4181hsshampmenthol280mlx6_html",
+      "name": "Shampoing Menthol fresh 280ml",
+      "prix_base": 17900,
+      "prix_comparaison": 20500,
+      "variation": 2600
+    },
+    {
+      "cle": "gelsdoucheetshampoingshomme_4195hsshampooing2en1menthol270ml_html",
+      "name": "Shampoing 2en1 menthol 270ml",
+      "prix_base": 17900,
+      "prix_comparaison": 20500,
+      "variation": 2600
     }
   ],
   "prix_diminues": [
     {
-      "cle": "tuilestortillas_1379chipsentubebarbecue175g_html",
-      "name": "Chips en tube barbecue 175g",
-      "prix_base": 14800,
-      "prix_comparaison": 15200,
-      "variation": 400
+      "cle": "volailleetvolaillepanee_9436saucissemerguez1kg_html",
+      "name": "Saucisse Merguez 1kg",
+      "prix_base": 32500,
+      "prix_comparaison": 32000,
+      "variation": -500
+    },
+    {
+      "cle": "yaourtsaboire_11263yopcitron250g_html",
+      "name": "Yop citron 250g",
+      "prix_base": 2500,
+      "prix_comparaison": 2590,
+      "variation": 90
+    },
+    {
+      "cle": "yaourtsaboire_1823yopbanane250g_html",
+      "name": "Yop banane 250g",
+      "prix_base": 2500,
+      "prix_comparaison": 2590,
+      "variation": 90
+    },
+    {
+      "cle": "yaourtsaboire_1824yopcoco250g_html",
+      "name": "Yop coco 250g",
+      "prix_base": 2500,
+      "prix_comparaison": 2590,
+      "variation": 90
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "tablettesdechocolat_2039tablettedechocolatnoir100robert75g_html",
+      "name": "Chocolat Noir 100% 75g",
+      "prix_base": 7200,
+      "prix_comparaison": 9500,
+      "indice_prix": 131.94444444444446
+    },
+    {
+      "cle": "tablettesdechocolat_2036tablettedechocolatnoir6575grsrobert_html",
+      "name": "Tablette de Chocolat Noir transition 65% 75g",
+      "prix_base": 5600,
+      "prix_comparaison": 7300,
+      "indice_prix": 130.35714285714286
+    },
+    {
+      "cle": "tablettesdechocolat_4789tablettedechocolatnoirpuissant85_html",
+      "name": "Tablette de chocolat noir puissant 85%",
+      "prix_base": 6500,
+      "prix_comparaison": 8400,
+      "indice_prix": 129.23076923076923
+    },
+    {
+      "cle": "gelsdoucheetshampoingshomme_14270shampoingantichuteetantipelliculairepourhomme250ml_html",
+      "name": "Shampoing anti-chute et antipelliculaire pour homme 250ml",
+      "prix_base": 16900,
+      "prix_comparaison": 20500,
+      "indice_prix": 121.30177514792899
+    }
+  ],
+  "indices_prix_plus_faibles": [
+    {
+      "cle": "volailleetvolaillepanee_9436saucissemerguez1kg_html",
+      "name": "Saucisse Merguez 1kg",
+      "prix_base": 32500,
+      "prix_comparaison": 32000,
+      "indice_prix": 98.46153846153847
+    },
+    {
+      "cle": "tuilestortillas_14762chipsentubesourcreametonion175g_html",
+      "name": "Chips en tube sour cream et onion 175g",
+      "prix_base": 14800,
+      "prix_comparaison": 15200,
+      "indice_prix": 102.70270270270271
+    },
     {
       "cle": "tuilestortillas_1379chipsentubebarbecue175g_html",
       "name": "Chips en tube barbecue 175g",
       "prix_base": 14800,
       "prix_comparaison": 15200,
       "indice_prix": 102.70270270270271
-    }
-  ],
-  "indices_prix_plus_faibles": [
+    },
     {
-      "cle": "tuilestortillas_1379chipsentubebarbecue175g_html",
-      "name": "Chips en tube barbecue 175g",
+      "cle": "tuilestortillas_1380chipsentubecheeseonion165g_html",
+      "name": "Chips en tube cheese & onion 165g",
       "prix_base": 14800,
       "prix_comparaison": 15200,
       "indice_prix": 102.70270270270271

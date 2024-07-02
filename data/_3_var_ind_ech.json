@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_cremefraichesucreedanica1l_",
-      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
-      "prix_base": 19870,
-      "prix_comparaison": 29500,
-      "variation": 9630
+      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
+      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
+      "prix_base": 2051,
+      "prix_comparaison": 2551,
+      "variation": 500
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_cremefraichesucreedanica1l_",
-      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
-      "prix_base": 19870,
-      "prix_comparaison": 29500,
-      "variation": 9630
+      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
+      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
+      "prix_base": 2051,
+      "prix_comparaison": 2551,
+      "variation": 500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_cremefraichesucreedanica1l_",
-      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
-      "prix_base": 19870,
-      "prix_comparaison": 29500,
-      "indice_prix": 148.46502264720684
+      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
+      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
+      "prix_base": 2051,
+      "prix_comparaison": 2551,
+      "indice_prix": 124.37835202340322
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_cremefraichesucreedanica1l_",
-      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
-      "prix_base": 19870,
-      "prix_comparaison": 29500,
-      "indice_prix": 148.46502264720684
+      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
+      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
+      "prix_base": 2051,
+      "prix_comparaison": 2551,
+      "indice_prix": 124.37835202340322
     }
   ]
 }

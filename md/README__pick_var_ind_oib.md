@@ -2,37 +2,17 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Tchin Chips crème oignon 100g**
-   - Prix avant: 550 Ar
-   - Prix actuel: 590 Ar
-   - Variation: +40 Ar
-
-2. **Lait demi-écrémé en brique sans bouchon 1L**
-   - Prix avant: 4,900 Ar
-   - Prix actuel: 5,290 Ar
-   - Variation: +390 Ar
-
-3. **Lait demi écrémé Candia 1L**
-   - Prix avant: 5,190 Ar
-   - Prix actuel: 5,900 Ar
-   - Variation: +710 Ar
+1. **Shampoing apple 285ml**
+   - Prix avant: 17,900 Ar
+   - Prix actuel: 20,500 Ar
+   - Variation: +2,600 Ar
 
 
 
 ## Indice de prix
 
-1. **Tchin Chips crème oignon 100g**
-   - Prix avant: 550 Ar
-   - Prix actuel: 590 Ar
-   - Indice de prix : 107.27
-
-2. **Lait demi-écrémé en brique sans bouchon 1L**
-   - Prix avant: 4,900 Ar
-   - Prix actuel: 5,290 Ar
-   - Indice de prix : 107.96
-
-3. **Lait demi écrémé Candia 1L**
-   - Prix avant: 5,190 Ar
-   - Prix actuel: 5,900 Ar
-   - Indice de prix : 113.68
+1. **Shampoing apple 285ml**
+   - Prix avant: 17,900 Ar
+   - Prix actuel: 20,500 Ar
+   - Indice de prix : 114.53
 

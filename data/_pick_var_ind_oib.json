@@ -1,48 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "soufflesextrudes_5725chipscremeoignon_html",
-      "name": "Tchin Chips cr\u00e8me oignon 100g",
-      "prix_base": 550,
-      "prix_comparaison": 590,
-      "variation": 40
-    },
-    {
-      "cle": "laits_14595laitdemiecremeaccessenbrique1l_html",
-      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique sans bouchon 1L",
-      "prix_base": 4900,
-      "prix_comparaison": 5290,
-      "variation": 390
-    },
-    {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5190,
-      "prix_comparaison": 5900,
-      "variation": 710
+      "cle": "shampoings_14910shampoingapple285ml_html",
+      "name": "Shampoing apple 285ml",
+      "prix_base": 17900,
+      "prix_comparaison": 20500,
+      "variation": 2600
     }
   ],
   "indice de prix": [
     {
-      "cle": "soufflesextrudes_5725chipscremeoignon_html",
-      "name": "Tchin Chips cr\u00e8me oignon 100g",
-      "prix_base": 550,
-      "prix_comparaison": 590,
-      "indice_prix": 107.27272727272727
-    },
-    {
-      "cle": "laits_14595laitdemiecremeaccessenbrique1l_html",
-      "name": "Lait demi-\u00e9cr\u00e9m\u00e9 en brique sans bouchon 1L",
-      "prix_base": 4900,
-      "prix_comparaison": 5290,
-      "indice_prix": 107.95918367346938
-    },
-    {
-      "cle": "laits_4254laitdemiecremecandia1l_html",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia 1L",
-      "prix_base": 5190,
-      "prix_comparaison": 5900,
-      "indice_prix": 113.68015414258188
+      "cle": "shampoings_14910shampoingapple285ml_html",
+      "name": "Shampoing apple 285ml",
+      "prix_base": 17900,
+      "prix_comparaison": 20500,
+      "indice_prix": 114.52513966480447
     }
   ]
 }
