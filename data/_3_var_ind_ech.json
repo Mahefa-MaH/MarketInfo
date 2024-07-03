@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
-      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
-      "prix_base": 2051,
-      "prix_comparaison": 2551,
-      "variation": 500
+      "cle": "produit_tripesdeboeuf500g_",
+      "name": "Tripes de Boeuf | 500g",
+      "prix_base": 6700,
+      "prix_comparaison": 11400,
+      "variation": 4700
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
-      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
-      "prix_base": 2051,
-      "prix_comparaison": 2551,
-      "variation": 500
+      "cle": "produit_tripesdeboeuf500g_",
+      "name": "Tripes de Boeuf | 500g",
+      "prix_base": 6700,
+      "prix_comparaison": 11400,
+      "variation": 4700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
-      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
-      "prix_base": 2051,
-      "prix_comparaison": 2551,
-      "indice_prix": 124.37835202340322
+      "cle": "produit_tripesdeboeuf500g_",
+      "name": "Tripes de Boeuf | 500g",
+      "prix_base": 6700,
+      "prix_comparaison": 11400,
+      "indice_prix": 170.1492537313433
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
-      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
-      "prix_base": 2051,
-      "prix_comparaison": 2551,
-      "indice_prix": 124.37835202340322
+      "cle": "produit_tripesdeboeuf500g_",
+      "name": "Tripes de Boeuf | 500g",
+      "prix_base": 6700,
+      "prix_comparaison": 11400,
+      "indice_prix": 170.1492537313433
     }
   ]
 }

@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "list_id": 13304,
-      "name": "Riz Rouge (Vary mena) 50kg",
-      "prix_base": 240000,
-      "prix_comparaison": 240000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 370,
       "name": "Sucre Blanc 250 g",
       "prix_base": 3100,
       "prix_comparaison": 3100,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
       "variation": 0,
       "indice_prix": 100.0
     }

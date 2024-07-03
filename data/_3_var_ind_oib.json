@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "gelsdoucheetshampoingshomme_14270shampoingantichuteetantipelliculairepourhomme250ml_html",
-      "name": "Shampoing anti-chute et antipelliculaire pour homme 250ml",
-      "prix_base": 16900,
-      "prix_comparaison": 20500,
-      "variation": 3600
+      "cle": "shampoings_13909shampoingusagefrequent750mltopbudget_html",
+      "name": "Shampoing usage fr\u00e9quent 750ml",
+      "prix_base": 5200,
+      "prix_comparaison": 4900,
+      "variation": -300
     },
     {
-      "cle": "gelsdoucheetshampoingshomme_14268shampoingtotalcarepourhomme250ml_html",
-      "name": "Shampoing total care pour homme 250ml",
-      "prix_base": 16900,
-      "prix_comparaison": 20500,
-      "variation": 3600
-    },
-    {
-      "cle": "shampoings_4181hsshampmenthol280mlx6_html",
-      "name": "Shampoing Menthol fresh 280ml",
-      "prix_base": 17900,
-      "prix_comparaison": 20500,
-      "variation": 2600
+      "cle": "biscuitssecssables_13880biscuitsgalettes125gtopbudget_html",
+      "name": "Biscuits galettes 125g",
+      "prix_base": 5900,
+      "prix_comparaison": 5500,
+      "variation": -400
     }
   ],
   "prix_diminues": [
     {
-      "cle": "volailleetvolaillepanee_9436saucissemerguez1kg_html",
-      "name": "Saucisse Merguez 1kg",
-      "prix_base": 32500,
-      "prix_comparaison": 32000,
-      "variation": -500
+      "cle": "papiertoilette_13494papierhygieniquedoubleepaisseur6rlxtopbudget_html",
+      "name": "Papier hygi\u00e9nique double \u00e9paisseur 6 rouleaux",
+      "prix_base": 15400,
+      "prix_comparaison": 12900,
+      "variation": -2500
     },
     {
-      "cle": "conservesdepoissons_12451sardinesalhuilevegetale3x69godyssee_html",
-      "name": "Sardines \u00e0 l'huile v\u00e9g\u00e9tale 3x69g (d\u00e9lotage): 60071330",
-      "prix_base": 13900,
-      "prix_comparaison": 13950,
-      "variation": 50
-    },
-    {
-      "cle": "yaourtsaboire_11263yopcitron250g_html",
-      "name": "Yop citron 250g",
-      "prix_base": 2500,
-      "prix_comparaison": 2590,
-      "variation": 90
+      "cle": "biscuitssalesetbretzels_13867biscuitssales350gtopbudget_html",
+      "name": "Biscuits sal\u00e9s 350g",
+      "prix_base": 11900,
+      "prix_comparaison": 10900,
+      "variation": -1000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "tablettesdechocolat_2039tablettedechocolatnoir100robert75g_html",
-      "name": "Chocolat Noir 100% 75g",
-      "prix_base": 7200,
-      "prix_comparaison": 9500,
-      "indice_prix": 131.94444444444446
+      "cle": "shampoings_13909shampoingusagefrequent750mltopbudget_html",
+      "name": "Shampoing usage fr\u00e9quent 750ml",
+      "prix_base": 5200,
+      "prix_comparaison": 4900,
+      "indice_prix": 94.23076923076923
     },
     {
-      "cle": "tablettesdechocolat_2036tablettedechocolatnoir6575grsrobert_html",
-      "name": "Tablette de Chocolat Noir transition 65% 75g",
-      "prix_base": 5600,
-      "prix_comparaison": 7300,
-      "indice_prix": 130.35714285714286
-    },
-    {
-      "cle": "tablettesdechocolat_4789tablettedechocolatnoirpuissant85_html",
-      "name": "Tablette de chocolat noir puissant 85%",
-      "prix_base": 6500,
-      "prix_comparaison": 8400,
-      "indice_prix": 129.23076923076923
+      "cle": "biscuitssecssables_13880biscuitsgalettes125gtopbudget_html",
+      "name": "Biscuits galettes 125g",
+      "prix_base": 5900,
+      "prix_comparaison": 5500,
+      "indice_prix": 93.22033898305085
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "volailleetvolaillepanee_9436saucissemerguez1kg_html",
-      "name": "Saucisse Merguez 1kg",
-      "prix_base": 32500,
-      "prix_comparaison": 32000,
-      "indice_prix": 98.46153846153847
+      "cle": "papiertoilette_13494papierhygieniquedoubleepaisseur6rlxtopbudget_html",
+      "name": "Papier hygi\u00e9nique double \u00e9paisseur 6 rouleaux",
+      "prix_base": 15400,
+      "prix_comparaison": 12900,
+      "indice_prix": 83.76623376623377
     },
     {
-      "cle": "conservesdepoissons_12451sardinesalhuilevegetale3x69godyssee_html",
-      "name": "Sardines \u00e0 l'huile v\u00e9g\u00e9tale 3x69g (d\u00e9lotage): 60071330",
-      "prix_base": 13900,
-      "prix_comparaison": 13950,
-      "indice_prix": 100.35971223021583
-    },
-    {
-      "cle": "tuilestortillas_14762chipsentubesourcreametonion175g_html",
-      "name": "Chips en tube sour cream et onion 175g",
-      "prix_base": 14800,
-      "prix_comparaison": 15200,
-      "indice_prix": 102.70270270270271
+      "cle": "gelsetbainsdouche_13921geldouchefraicheurintense500mltopbudget_html",
+      "name": "Gel douche fra\u00eecheur intense 500ml",
+      "prix_base": 6900,
+      "prix_comparaison": 5900,
+      "indice_prix": 85.5072463768116
     }
   ]
 }
