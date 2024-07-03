@@ -1,24 +1,24 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12923,
-      "name": "Riz blanc parfum\u00e9 5 kg",
-      "prix_base": 40800,
-      "prix_comparaison": 40800,
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7950,
-      "prix_comparaison": 7950,
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 11800,
+      "prix_comparaison": 11800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13776,
-      "name": "Riz Blanchi Makalioka 5kg",
+      "list_id": 13777,
+      "name": "Riz Complet Rouge Vary Gasy 5kg",
       "prix_base": 19800,
       "prix_comparaison": 19800,
       "variation": 0,

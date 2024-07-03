@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13777,
-      "name": "Riz Complet Rouge Vary Gasy 5kg",
-      "prix_base": 19800,
-      "prix_comparaison": 19800,
+      "list_id": 11110,
+      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
+      "prix_base": 198000,
+      "prix_comparaison": 198000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3828,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 11800,
-      "prix_comparaison": 11800,
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 9400,
+      "prix_comparaison": 9400,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 3100,
-      "prix_comparaison": 3100,
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 158400,
+      "prix_comparaison": 158400,
       "variation": 0,
       "indice_prix": 100.0
     }
