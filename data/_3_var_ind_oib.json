@@ -13,20 +13,6 @@
       "prix_base": 5200,
       "prix_comparaison": 4900,
       "variation": -300
-    },
-    {
-      "cle": "biscuitssecssables_13880biscuitsgalettes125gtopbudget_html",
-      "name": "Biscuits galettes 125g",
-      "prix_base": 5900,
-      "prix_comparaison": 5500,
-      "variation": -400
-    },
-    {
-      "cle": "brossesadents_13866brossesadentmediumlotde2topbudget_html",
-      "name": "Lot de 2 Brosses \u00e0 dents m\u00e9dium",
-      "prix_base": 3500,
-      "prix_comparaison": 3100,
-      "variation": -400
     }
   ],
   "prix_diminues": [
@@ -42,20 +28,6 @@
       "name": "Mayonnaise en bocal 470g",
       "prix_base": 11900,
       "prix_comparaison": 10900,
-      "variation": -1000
-    },
-    {
-      "cle": "biscuitssalesetbretzels_13867biscuitssales350gtopbudget_html",
-      "name": "Biscuits sal\u00e9s 350g",
-      "prix_base": 11900,
-      "prix_comparaison": 10900,
-      "variation": -1000
-    },
-    {
-      "cle": "gelsetbainsdouche_13921geldouchefraicheurintense500mltopbudget_html",
-      "name": "Gel douche fra\u00eecheur intense 500ml",
-      "prix_base": 6900,
-      "prix_comparaison": 5900,
       "variation": -1000
     }
   ],
@@ -73,20 +45,6 @@
       "prix_base": 5200,
       "prix_comparaison": 4900,
       "indice_prix": 94.23076923076923
-    },
-    {
-      "cle": "biscuitssecssables_13880biscuitsgalettes125gtopbudget_html",
-      "name": "Biscuits galettes 125g",
-      "prix_base": 5900,
-      "prix_comparaison": 5500,
-      "indice_prix": 93.22033898305085
-    },
-    {
-      "cle": "pates_13851coquillettescello1kgtopbudget_html",
-      "name": "Coquillettes cello 1kg",
-      "prix_base": 12900,
-      "prix_comparaison": 11900,
-      "indice_prix": 92.24806201550388
     }
   ],
   "indices_prix_plus_faibles": [
@@ -103,20 +61,6 @@
       "prix_base": 6900,
       "prix_comparaison": 5900,
       "indice_prix": 85.5072463768116
-    },
-    {
-      "cle": "poubellesetsacspoubelle_1393410sacspoubelles100ltopbudget_html",
-      "name": "10 Sacs poubelles 100L",
-      "prix_base": 6900,
-      "prix_comparaison": 5900,
-      "indice_prix": 85.5072463768116
-    },
-    {
-      "cle": "compotes_13833compotedepommeallegeeensucre100gtopbudget_html",
-      "name": "Compote de pomme all\u00e9g\u00e9e en sucre 100g",
-      "prix_base": 6400,
-      "prix_comparaison": 5500,
-      "indice_prix": 85.9375
     }
   ]
 }
