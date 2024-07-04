@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_cremefraichesucreedanica1l_",
-      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
-      "prix_base": 29500,
-      "prix_comparaison": 24000,
-      "variation": -5500
+      "cle": "produit_huiledoliveviergeextrafontoliva100ml_",
+      "name": "Huile d\u2019Olive Vierge Extra Font Oliva\u2122 1L | Bouteille en PET",
+      "prix_base": 70260,
+      "prix_comparaison": 83400,
+      "variation": 13140
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_cremefraichesucreedanica1l_",
-      "name": "Cr\u00e8me Fra\u00eeche liquide sucr\u00e9e Danica\u2122 1L",
-      "prix_base": 29500,
-      "prix_comparaison": 24000,
-      "indice_prix": 81.35593220338983
+      "cle": "produit_huiledoliveviergeextrafontoliva100ml_",
+      "name": "Huile d\u2019Olive Vierge Extra Font Oliva\u2122 1L | Bouteille en PET",
+      "prix_base": 70260,
+      "prix_comparaison": 83400,
+      "indice_prix": 118.70196413321948
     }
   ]
 }
