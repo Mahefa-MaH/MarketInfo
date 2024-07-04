@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 2791,
-      "prix_base": 180000,
-      "name": "Croquette pour chien Energy 20 Kg",
-      "prix_comparaison": 234000,
-      "variation": 54000
-    },
-    {
-      "list_id": 7494,
-      "prix_base": 7200,
-      "name": "Bo\u00eete de classement en PP Polyclass Dos de 25",
-      "prix_comparaison": 10100,
-      "variation": 2900
-    },
-    {
-      "list_id": 7502,
-      "prix_base": 3600,
-      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 40 Vues",
-      "prix_comparaison": 3800,
-      "variation": 200
+      "list_id": 14285,
+      "prix_base": 18000,
+      "name": "Papier photocopie A4 Blanc 80g 500 feuilles",
+      "prix_comparaison": 20200,
+      "variation": 2200
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 7502,
-      "prix_base": 3600,
-      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 40 Vues",
-      "prix_comparaison": 3800,
-      "variation": 200
-    },
-    {
-      "list_id": 7494,
-      "prix_base": 7200,
-      "name": "Bo\u00eete de classement en PP Polyclass Dos de 25",
-      "prix_comparaison": 10100,
-      "variation": 2900
-    },
-    {
-      "list_id": 2791,
-      "prix_base": 180000,
-      "name": "Croquette pour chien Energy 20 Kg",
-      "prix_comparaison": 234000,
-      "variation": 54000
+      "list_id": 14285,
+      "prix_base": 18000,
+      "name": "Papier photocopie A4 Blanc 80g 500 feuilles",
+      "prix_comparaison": 20200,
+      "variation": 2200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 7494,
-      "name": "Bo\u00eete de classement en PP Polyclass Dos de 25",
-      "prix_base": 7200,
-      "prix_comparaison": 10100,
-      "indice_prix": 140.27777777777777
-    },
-    {
-      "list_id": 2791,
-      "name": "Croquette pour chien Energy 20 Kg",
-      "prix_base": 180000,
-      "prix_comparaison": 234000,
-      "indice_prix": 130.0
-    },
-    {
-      "list_id": 7502,
-      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 40 Vues",
-      "prix_base": 3600,
-      "prix_comparaison": 3800,
-      "indice_prix": 105.55555555555556
+      "list_id": 14285,
+      "name": "Papier photocopie A4 Blanc 80g 500 feuilles",
+      "prix_base": 18000,
+      "prix_comparaison": 20200,
+      "indice_prix": 112.22222222222223
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 7502,
-      "name": "Prot\u00e8ge-documents en polypropyl\u00e8ne Openline 40 Vues",
-      "prix_base": 3600,
-      "prix_comparaison": 3800,
-      "indice_prix": 105.55555555555556
-    },
-    {
-      "list_id": 2791,
-      "name": "Croquette pour chien Energy 20 Kg",
-      "prix_base": 180000,
-      "prix_comparaison": 234000,
-      "indice_prix": 130.0
-    },
-    {
-      "list_id": 7494,
-      "name": "Bo\u00eete de classement en PP Polyclass Dos de 25",
-      "prix_base": 7200,
-      "prix_comparaison": 10100,
-      "indice_prix": 140.27777777777777
+      "list_id": 14285,
+      "name": "Papier photocopie A4 Blanc 80g 500 feuilles",
+      "prix_base": 18000,
+      "prix_comparaison": 20200,
+      "indice_prix": 112.22222222222223
     }
   ]
 }
