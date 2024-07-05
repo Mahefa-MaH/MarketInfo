@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 14285,
-      "prix_base": 18000,
-      "name": "Papier photocopie A4 Blanc 80g 500 feuilles",
-      "prix_comparaison": 20200,
-      "variation": 2200
+      "list_id": 5046,
+      "prix_base": 19200,
+      "name": "Papier photocopie A4 80 g 500 feuilles",
+      "prix_comparaison": 22200,
+      "variation": 3000
+    },
+    {
+      "list_id": 2806,
+      "prix_base": 264000,
+      "name": "Croquette pour chien Dog Lamb 15 Kg",
+      "prix_comparaison": 228000,
+      "variation": -36000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 14285,
-      "prix_base": 18000,
-      "name": "Papier photocopie A4 Blanc 80g 500 feuilles",
-      "prix_comparaison": 20200,
-      "variation": 2200
+      "list_id": 2806,
+      "prix_base": 264000,
+      "name": "Croquette pour chien Dog Lamb 15 Kg",
+      "prix_comparaison": 228000,
+      "variation": -36000
+    },
+    {
+      "list_id": 5046,
+      "prix_base": 19200,
+      "name": "Papier photocopie A4 80 g 500 feuilles",
+      "prix_comparaison": 22200,
+      "variation": 3000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 14285,
-      "name": "Papier photocopie A4 Blanc 80g 500 feuilles",
-      "prix_base": 18000,
-      "prix_comparaison": 20200,
-      "indice_prix": 112.22222222222223
+      "list_id": 5046,
+      "name": "Papier photocopie A4 80 g 500 feuilles",
+      "prix_base": 19200,
+      "prix_comparaison": 22200,
+      "indice_prix": 115.625
+    },
+    {
+      "list_id": 2806,
+      "name": "Croquette pour chien Dog Lamb 15 Kg",
+      "prix_base": 264000,
+      "prix_comparaison": 228000,
+      "indice_prix": 86.36363636363636
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 14285,
-      "name": "Papier photocopie A4 Blanc 80g 500 feuilles",
-      "prix_base": 18000,
-      "prix_comparaison": 20200,
-      "indice_prix": 112.22222222222223
+      "list_id": 2806,
+      "name": "Croquette pour chien Dog Lamb 15 Kg",
+      "prix_base": 264000,
+      "prix_comparaison": 228000,
+      "indice_prix": 86.36363636363636
+    },
+    {
+      "list_id": 5046,
+      "name": "Papier photocopie A4 80 g 500 feuilles",
+      "prix_base": 19200,
+      "prix_comparaison": 22200,
+      "indice_prix": 115.625
     }
   ]
 }

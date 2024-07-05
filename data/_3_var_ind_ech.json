@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_huiledoliveviergeextrafontoliva100ml_",
-      "name": "Huile d\u2019Olive Vierge Extra Font Oliva\u2122 1L | Bouteille en PET",
-      "prix_base": 70260,
-      "prix_comparaison": 83400,
-      "variation": 13140
+      "cle": "produit_lecaddiecadeauenunclic_",
+      "name": "Le Easy Caddie \u2013 les courses compl\u00e8tes en un clic",
+      "prix_base": 1090,
+      "prix_comparaison": 1200,
+      "variation": 110
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_huiledoliveviergeextrafontoliva100ml_",
-      "name": "Huile d\u2019Olive Vierge Extra Font Oliva\u2122 1L | Bouteille en PET",
-      "prix_base": 70260,
-      "prix_comparaison": 83400,
-      "variation": 13140
+      "cle": "produit_lecaddiecadeauenunclic_",
+      "name": "Le Easy Caddie \u2013 les courses compl\u00e8tes en un clic",
+      "prix_base": 1090,
+      "prix_comparaison": 1200,
+      "variation": 110
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_huiledoliveviergeextrafontoliva100ml_",
-      "name": "Huile d\u2019Olive Vierge Extra Font Oliva\u2122 1L | Bouteille en PET",
-      "prix_base": 70260,
-      "prix_comparaison": 83400,
-      "indice_prix": 118.70196413321948
+      "cle": "produit_lecaddiecadeauenunclic_",
+      "name": "Le Easy Caddie \u2013 les courses compl\u00e8tes en un clic",
+      "prix_base": 1090,
+      "prix_comparaison": 1200,
+      "indice_prix": 110.09174311926606
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_huiledoliveviergeextrafontoliva100ml_",
-      "name": "Huile d\u2019Olive Vierge Extra Font Oliva\u2122 1L | Bouteille en PET",
-      "prix_base": 70260,
-      "prix_comparaison": 83400,
-      "indice_prix": 118.70196413321948
+      "cle": "produit_lecaddiecadeauenunclic_",
+      "name": "Le Easy Caddie \u2013 les courses compl\u00e8tes en un clic",
+      "prix_base": 1090,
+      "prix_comparaison": 1200,
+      "indice_prix": 110.09174311926606
     }
   ]
 }

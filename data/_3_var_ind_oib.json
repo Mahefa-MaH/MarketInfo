@@ -6,13 +6,6 @@
       "prix_base": 2146000,
       "prix_comparaison": 2157000,
       "variation": 11000
-    },
-    {
-      "cle": "consoles_14602consolenintendoswitchavecunjoyconrougenonetunjoyconbleunon_html",
-      "name": "Console Nintendo Switch Bleu N\u00e9on & Rouge N\u00e9on",
-      "prix_base": 1566000,
-      "prix_comparaison": 1569000,
-      "variation": 3000
     }
   ],
   "prix_diminues": [
@@ -22,13 +15,6 @@
       "prix_base": 6902000,
       "prix_comparaison": 6541000,
       "variation": -361000
-    },
-    {
-      "cle": "televiseursetsupports_14837tvledhisense50a6k50127cmuhd4kdolbyvisiondtsvirtualxtmsmarttv3xhdmi20ecransansbord_html",
-      "name": "TV LED HISENSE 50A6K - 50'' (127 CM) - UHD 4K - DOLBY VISION - DTS VIRTUAL:X TM - SMART TV - 3 x HDMI 2.0 - \u00c9CRAN SANS BORD",
-      "prix_base": 3214000,
-      "prix_comparaison": 2983000,
-      "variation": -231000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -38,13 +24,6 @@
       "prix_base": 16900,
       "prix_comparaison": 18900,
       "indice_prix": 111.83431952662721
-    },
-    {
-      "cle": "bacsglacesetsorbets_11520sorbetpoire675gadelie_html",
-      "name": "Sorbet poire 675g",
-      "prix_base": 20900,
-      "prix_comparaison": 22900,
-      "indice_prix": 109.56937799043062
     }
   ],
   "indices_prix_plus_faibles": [
@@ -54,13 +33,6 @@
       "prix_base": 15900,
       "prix_comparaison": 11900,
       "indice_prix": 74.84276729559748
-    },
-    {
-      "cle": "hygienestoilettes_4923brosseadentsdoubleactionmedium_html",
-      "name": "Brosse \u00e0 dents double action m\u00e9dium",
-      "prix_base": 4550,
-      "prix_comparaison": 3600,
-      "indice_prix": 79.12087912087912
     }
   ]
 }
