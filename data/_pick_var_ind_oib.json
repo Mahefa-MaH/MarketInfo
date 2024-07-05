@@ -1,20 +1,216 @@
 {
   "Variation de prix": [
     {
-      "cle": "shampoings_14910shampoingapple285ml_html",
-      "name": "Shampoing apple 285ml",
-      "prix_base": 17900,
-      "prix_comparaison": 20500,
-      "variation": 2600
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4157000,
+      "prix_comparaison": 4027000,
+      "variation": -130000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2178000,
+      "prix_comparaison": 2110000,
+      "variation": -68000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2045000,
+      "prix_comparaison": 1981000,
+      "variation": -64000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2045000,
+      "prix_comparaison": 1981000,
+      "variation": -64000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 2045000,
+      "prix_comparaison": 1981000,
+      "variation": -64000
+    },
+    {
+      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
+      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
+      "prix_base": 126000,
+      "prix_comparaison": 122000,
+      "variation": -4000
+    },
+    {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6039000,
+      "prix_comparaison": 6038000,
+      "variation": -1000
+    },
+    {
+      "cle": "glacesenbac_11562cremeglaceecitronmeringueefacontarte509gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e citron meringu\u00e9e fa\u00e7on tarte 509g",
+      "prix_base": 24500,
+      "prix_comparaison": 24900,
+      "variation": 400
+    },
+    {
+      "cle": "glacesenbac_11541cremeglaceevanillemacadamia472gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille macadamia 472g",
+      "prix_base": 24900,
+      "prix_comparaison": 25400,
+      "variation": 500
+    },
+    {
+      "cle": "glacesenbac_11560cremeglaceevanillepecan505gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille p\u00e9can 505g",
+      "prix_base": 25900,
+      "prix_comparaison": 26400,
+      "variation": 500
+    },
+    {
+      "cle": "glacesenbac_11527cremeglaceecafearabicadecolombie500gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e caf\u00e9 Arabica de Colombie 500g",
+      "prix_base": 21900,
+      "prix_comparaison": 22900,
+      "variation": 1000
+    },
+    {
+      "cle": "glacesenbac_11526cremeglaceechocolat595gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e chocolat 595g",
+      "prix_base": 21900,
+      "prix_comparaison": 22900,
+      "variation": 1000
+    },
+    {
+      "cle": "glacesenbac_11521cremeglaceementhechocolat501gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e menthe chocolat 501g",
+      "prix_base": 21900,
+      "prix_comparaison": 22900,
+      "variation": 1000
+    },
+    {
+      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
+      "prix_base": 18500,
+      "prix_comparaison": 19500,
+      "variation": 1000
+    },
+    {
+      "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2146000,
+      "prix_comparaison": 2157000,
+      "variation": 11000
     }
   ],
   "indice de prix": [
     {
-      "cle": "shampoings_14910shampoingapple285ml_html",
-      "name": "Shampoing apple 285ml",
-      "prix_base": 17900,
-      "prix_comparaison": 20500,
-      "indice_prix": 114.52513966480447
+      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
+      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
+      "prix_base": 126000,
+      "prix_comparaison": 122000,
+      "indice_prix": 96.82539682539682
+    },
+    {
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 2045000,
+      "prix_comparaison": 1981000,
+      "indice_prix": 96.87041564792176
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 2045000,
+      "prix_comparaison": 1981000,
+      "indice_prix": 96.87041564792176
+    },
+    {
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 2045000,
+      "prix_comparaison": 1981000,
+      "indice_prix": 96.87041564792176
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4157000,
+      "prix_comparaison": 4027000,
+      "indice_prix": 96.87274476786143
+    },
+    {
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2178000,
+      "prix_comparaison": 2110000,
+      "indice_prix": 96.87786960514234
+    },
+    {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6039000,
+      "prix_comparaison": 6038000,
+      "indice_prix": 99.98344096704753
+    },
+    {
+      "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2146000,
+      "prix_comparaison": 2157000,
+      "indice_prix": 100.5125815470643
+    },
+    {
+      "cle": "glacesenbac_11562cremeglaceecitronmeringueefacontarte509gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e citron meringu\u00e9e fa\u00e7on tarte 509g",
+      "prix_base": 24500,
+      "prix_comparaison": 24900,
+      "indice_prix": 101.63265306122449
+    },
+    {
+      "cle": "glacesenbac_11560cremeglaceevanillepecan505gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille p\u00e9can 505g",
+      "prix_base": 25900,
+      "prix_comparaison": 26400,
+      "indice_prix": 101.93050193050193
+    },
+    {
+      "cle": "glacesenbac_11541cremeglaceevanillemacadamia472gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille macadamia 472g",
+      "prix_base": 24900,
+      "prix_comparaison": 25400,
+      "indice_prix": 102.00803212851406
+    },
+    {
+      "cle": "glacesenbac_11527cremeglaceecafearabicadecolombie500gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e caf\u00e9 Arabica de Colombie 500g",
+      "prix_base": 21900,
+      "prix_comparaison": 22900,
+      "indice_prix": 104.5662100456621
+    },
+    {
+      "cle": "glacesenbac_11526cremeglaceechocolat595gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e chocolat 595g",
+      "prix_base": 21900,
+      "prix_comparaison": 22900,
+      "indice_prix": 104.5662100456621
+    },
+    {
+      "cle": "glacesenbac_11521cremeglaceementhechocolat501gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e menthe chocolat 501g",
+      "prix_base": 21900,
+      "prix_comparaison": 22900,
+      "indice_prix": 104.5662100456621
+    },
+    {
+      "cle": "glacesenbac_11524cremeglaceevanilledemadagascar478gadelie_html",
+      "name": "Cr\u00e8me glac\u00e9e vanille de Madagascar 478g",
+      "prix_base": 18500,
+      "prix_comparaison": 19500,
+      "indice_prix": 105.4054054054054
     }
   ]
 }
