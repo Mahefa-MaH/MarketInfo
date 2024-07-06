@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 3824,
       "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
       "prix_base": 288000,
