@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5218,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6900,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 8267,
       "name": "Sucre rouge 1 kg",
       "prix_base": 5682,
@@ -17,10 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 288000,
-      "prix_comparaison": 288000,
+      "list_id": 13304,
+      "name": "Riz Rouge (Vary mena) 50kg",
+      "prix_base": 240000,
+      "prix_comparaison": 240000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 7000,
+      "prix_comparaison": 7000,
       "variation": 0,
       "indice_prix": 100.0
     }
