@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7950,
-      "prix_comparaison": 7950,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 3828,
       "name": "Huile De Soja 1 L",
       "prix_base": 11800,
@@ -21,6 +13,14 @@
       "name": "Riz  rouge Mangamila ( Vary mena ) 50 kg",
       "prix_base": 192000,
       "prix_comparaison": 192000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 12451,
+      "name": "Riz rouge long grain complet 500 g",
+      "prix_base": 12300,
+      "prix_comparaison": 12300,
       "variation": 0,
       "indice_prix": 100.0
     }

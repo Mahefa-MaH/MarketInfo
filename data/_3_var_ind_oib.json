@@ -1,38 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
-      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
-      "prix_base": 2146000,
-      "prix_comparaison": 2157000,
-      "variation": 11000
+      "cle": "huiles_14316huiledefriture1l_html",
+      "name": "Huile de friture 1L",
+      "prix_base": 11900,
+      "prix_comparaison": 15900,
+      "variation": 4000
+    },
+    {
+      "cle": "dentifrice_14260dentifricemaxifreshmenthe75ml_html",
+      "name": "Dentifrice maxi fresh menthe 75ml",
+      "prix_base": 8300,
+      "prix_comparaison": 10000,
+      "variation": 1700
+    },
+    {
+      "cle": "dentifrice_15646dentifricetripleactionregular100ml_html",
+      "name": "Dentifrice triple action regular 100ml",
+      "prix_base": 4500,
+      "prix_comparaison": 5490,
+      "variation": 990
+    },
+    {
+      "cle": "hygienestoilettes_4923brosseadentsdoubleactionmedium_html",
+      "name": "Brosse \u00e0 dents double action m\u00e9dium",
+      "prix_base": 3600,
+      "prix_comparaison": 4550,
+      "variation": 950
+    },
+    {
+      "cle": "dentifrice_4912dentifriceherbal100ml_html",
+      "name": "Dentifrice Herbal 100ml",
+      "prix_base": 4500,
+      "prix_comparaison": 5400,
+      "variation": 900
     }
   ],
   "prix_diminues": [
     {
-      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 6902000,
-      "prix_comparaison": 6541000,
-      "variation": -361000
+      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
+      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
+      "prix_base": 183000,
+      "prix_comparaison": 169000,
+      "variation": -14000
+    },
+    {
+      "cle": "coiffure_13990babylissc1600eferabouclercurlsecretoptimum6temperatures3sensdeboucleecranlcd_html",
+      "name": "BABYLISS C1600E Fer a boucler Curl Secret Optimum - 6 temp\u00e9ratures - 3 sens de boucle - Ecran LCD",
+      "prix_base": 379000,
+      "prix_comparaison": 368000,
+      "variation": -11000
+    },
+    {
+      "cle": "boissonsgazeusesauxfruits_7881boissongazeusecitronnee30cl_html",
+      "name": "Boisson gazeuse citronn\u00e9e 30cl",
+      "prix_base": 890,
+      "prix_comparaison": 1000,
+      "variation": 110
+    },
+    {
+      "cle": "soufflesextrudes_7883salto3dsourcream_html",
+      "name": "Salto 3D Sour cream",
+      "prix_base": 1100,
+      "prix_comparaison": 1400,
+      "variation": 300
+    },
+    {
+      "cle": "soufflesextrudes_7882salto3dtomatobeef_html",
+      "name": "Salto 3D Tomato beef",
+      "prix_base": 1100,
+      "prix_comparaison": 1400,
+      "variation": 300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "bacsglacesetsorbets_11519sorbetcitronvert678gadelie_html",
-      "name": "Sorbet citron vert 678g",
-      "prix_base": 16900,
-      "prix_comparaison": 18900,
-      "indice_prix": 111.83431952662721
+      "cle": "huiles_14316huiledefriture1l_html",
+      "name": "Huile de friture 1L",
+      "prix_base": 11900,
+      "prix_comparaison": 15900,
+      "indice_prix": 133.61344537815125
+    },
+    {
+      "cle": "soufflesextrudes_7882salto3dtomatobeef_html",
+      "name": "Salto 3D Tomato beef",
+      "prix_base": 1100,
+      "prix_comparaison": 1400,
+      "indice_prix": 127.27272727272727
+    },
+    {
+      "cle": "soufflesextrudes_7883salto3dsourcream_html",
+      "name": "Salto 3D Sour cream",
+      "prix_base": 1100,
+      "prix_comparaison": 1400,
+      "indice_prix": 127.27272727272727
+    },
+    {
+      "cle": "hygienestoilettes_4923brosseadentsdoubleactionmedium_html",
+      "name": "Brosse \u00e0 dents double action m\u00e9dium",
+      "prix_base": 3600,
+      "prix_comparaison": 4550,
+      "indice_prix": 126.38888888888889
+    },
+    {
+      "cle": "dentifrice_15646dentifricetripleactionregular100ml_html",
+      "name": "Dentifrice triple action regular 100ml",
+      "prix_base": 4500,
+      "prix_comparaison": 5490,
+      "indice_prix": 122.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "huiles_14316huiledefriture1l_html",
-      "name": "Huile de friture 1L",
-      "prix_base": 15900,
-      "prix_comparaison": 11900,
-      "indice_prix": 74.84276729559748
+      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
+      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
+      "prix_base": 183000,
+      "prix_comparaison": 169000,
+      "indice_prix": 92.34972677595628
+    },
+    {
+      "cle": "coiffure_13990babylissc1600eferabouclercurlsecretoptimum6temperatures3sensdeboucleecranlcd_html",
+      "name": "BABYLISS C1600E Fer a boucler Curl Secret Optimum - 6 temp\u00e9ratures - 3 sens de boucle - Ecran LCD",
+      "prix_base": 379000,
+      "prix_comparaison": 368000,
+      "indice_prix": 97.0976253298153
+    },
+    {
+      "cle": "boissonsgazeusesauxfruits_7881boissongazeusecitronnee30cl_html",
+      "name": "Boisson gazeuse citronn\u00e9e 30cl",
+      "prix_base": 890,
+      "prix_comparaison": 1000,
+      "indice_prix": 112.35955056179775
+    },
+    {
+      "cle": "boissonsgazeusesauxfruits_305boissongazeusecapriceorange150cl_html",
+      "name": "Boisson gazeuse caprice orange 150cl",
+      "prix_base": 3500,
+      "prix_comparaison": 4000,
+      "indice_prix": 114.28571428571429
+    },
+    {
+      "cle": "dentifrice_4912dentifriceherbal100ml_html",
+      "name": "Dentifrice Herbal 100ml",
+      "prix_base": 4500,
+      "prix_comparaison": 5400,
+      "indice_prix": 120.0
     }
   ]
 }
