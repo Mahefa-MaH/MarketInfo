@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 5046,
-      "prix_base": 19200,
-      "name": "Papier photocopie A4 80 g 500 feuilles",
-      "prix_comparaison": 22200,
-      "variation": 3000
-    },
-    {
-      "list_id": 2806,
-      "prix_base": 264000,
-      "name": "Croquette pour chien Dog Lamb 15 Kg",
-      "prix_comparaison": 228000,
-      "variation": -36000
+      "list_id": 2090,
+      "prix_base": 4000,
+      "name": "Chocolat En Poudre 200 G",
+      "prix_comparaison": 4500,
+      "variation": 500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 2806,
-      "prix_base": 264000,
-      "name": "Croquette pour chien Dog Lamb 15 Kg",
-      "prix_comparaison": 228000,
-      "variation": -36000
-    },
-    {
-      "list_id": 5046,
-      "prix_base": 19200,
-      "name": "Papier photocopie A4 80 g 500 feuilles",
-      "prix_comparaison": 22200,
-      "variation": 3000
+      "list_id": 2090,
+      "prix_base": 4000,
+      "name": "Chocolat En Poudre 200 G",
+      "prix_comparaison": 4500,
+      "variation": 500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 5046,
-      "name": "Papier photocopie A4 80 g 500 feuilles",
-      "prix_base": 19200,
-      "prix_comparaison": 22200,
-      "indice_prix": 115.625
-    },
-    {
-      "list_id": 2806,
-      "name": "Croquette pour chien Dog Lamb 15 Kg",
-      "prix_base": 264000,
-      "prix_comparaison": 228000,
-      "indice_prix": 86.36363636363636
+      "list_id": 2090,
+      "name": "Chocolat En Poudre 200 G",
+      "prix_base": 4000,
+      "prix_comparaison": 4500,
+      "indice_prix": 112.5
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 2806,
-      "name": "Croquette pour chien Dog Lamb 15 Kg",
-      "prix_base": 264000,
-      "prix_comparaison": 228000,
-      "indice_prix": 86.36363636363636
-    },
-    {
-      "list_id": 5046,
-      "name": "Papier photocopie A4 80 g 500 feuilles",
-      "prix_base": 19200,
-      "prix_comparaison": 22200,
-      "indice_prix": 115.625
+      "list_id": 2090,
+      "name": "Chocolat En Poudre 200 G",
+      "prix_base": 4000,
+      "prix_comparaison": 4500,
+      "indice_prix": 112.5
     }
   ]
 }
