@@ -8,9 +8,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz rouge Malgache Supermarché.mg™ 5kg | Vary mena | Origine Madagascar**
-   - Prix avant: 20,650 Ar
-   - Prix actuel: 20,650 Ar
+2. **Sucre blanc 1kg| En vrac**
+   - Prix avant: 7,200 Ar
+   - Prix actuel: 7,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
