@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 2090,
-      "prix_base": 4000,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_comparaison": 4500,
-      "variation": 500
+      "list_id": 3831,
+      "prix_base": 11500,
+      "name": "Huile De Tournesol 1 L",
+      "prix_comparaison": 12200,
+      "variation": 700
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 2090,
-      "prix_base": 4000,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_comparaison": 4500,
-      "variation": 500
+      "list_id": 3831,
+      "prix_base": 11500,
+      "name": "Huile De Tournesol 1 L",
+      "prix_comparaison": 12200,
+      "variation": 700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 2090,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_base": 4000,
-      "prix_comparaison": 4500,
-      "indice_prix": 112.5
+      "list_id": 3831,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 11500,
+      "prix_comparaison": 12200,
+      "indice_prix": 106.08695652173913
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 2090,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_base": 4000,
-      "prix_comparaison": 4500,
-      "indice_prix": 112.5
+      "list_id": 3831,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 11500,
+      "prix_comparaison": 12200,
+      "indice_prix": 106.08695652173913
     }
   ]
 }
