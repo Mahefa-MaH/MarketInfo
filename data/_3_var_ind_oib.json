@@ -6,6 +6,20 @@
       "prix_base": 11900,
       "prix_comparaison": 15900,
       "variation": 4000
+    },
+    {
+      "cle": "dentifrice_14260dentifricemaxifreshmenthe75ml_html",
+      "name": "Dentifrice maxi fresh menthe 75ml",
+      "prix_base": 8300,
+      "prix_comparaison": 10000,
+      "variation": 1700
+    },
+    {
+      "cle": "riz_7289rizblancdeitasy5kg_html",
+      "name": "Riz blanc de l'Itasy 5kg",
+      "prix_base": 16990,
+      "prix_comparaison": 18400,
+      "variation": 1410
     }
   ],
   "prix_diminues": [
@@ -15,6 +29,20 @@
       "prix_base": 5747000,
       "prix_comparaison": 5491000,
       "variation": -256000
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14855thrustmastert3pmpedalesmagnetiquescompatibleps5ps4xboxonexboxseriesxspc_html",
+      "name": "Thrustmaster - T3PM - P\u00e9dales Magn\u00e9tiques - Compatible PS5, PS4, Xbox One, Xbox Series X|S, PC",
+      "prix_base": 868000,
+      "prix_comparaison": 840000,
+      "variation": -28000
+    },
+    {
+      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
+      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
+      "prix_base": 183000,
+      "prix_comparaison": 169000,
+      "variation": -14000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,6 +52,20 @@
       "prix_base": 11900,
       "prix_comparaison": 15900,
       "indice_prix": 133.61344537815125
+    },
+    {
+      "cle": "soufflesextrudes_7882salto3dtomatobeef_html",
+      "name": "Salto 3D Tomato beef",
+      "prix_base": 1100,
+      "prix_comparaison": 1400,
+      "indice_prix": 127.27272727272727
+    },
+    {
+      "cle": "soufflesextrudes_7883salto3dsourcream_html",
+      "name": "Salto 3D Sour cream",
+      "prix_base": 1100,
+      "prix_comparaison": 1400,
+      "indice_prix": 127.27272727272727
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +75,20 @@
       "prix_base": 183000,
       "prix_comparaison": 169000,
       "indice_prix": 92.34972677595628
+    },
+    {
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5747000,
+      "prix_comparaison": 5491000,
+      "indice_prix": 95.54550200104403
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
+      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
+      "prix_base": 361000,
+      "prix_comparaison": 349000,
+      "indice_prix": 96.67590027700831
     }
   ]
 }
