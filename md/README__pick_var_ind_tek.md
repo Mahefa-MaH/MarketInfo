@@ -2,17 +2,17 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Shampooing Apple 285Ml**
-   - Prix avant: 18,000 Ar
-   - Prix actuel: 114,300 Ar
-   - Variation: +96,300 Ar
+1. **Huile De Tournesol 1 L**
+   - Prix avant: 11,500 Ar
+   - Prix actuel: 12,200 Ar
+   - Variation: +700 Ar
 
 
 
 ## Indice de prix
 
-1. **Shampooing Apple 285Ml**
-   - Prix avant: 18,000 Ar
-   - Prix actuel: 114,300 Ar
-   - Indice de prix : 635.00
+1. **Huile De Tournesol 1 L**
+   - Prix avant: 11,500 Ar
+   - Prix actuel: 12,200 Ar
+   - Indice de prix : 106.09
 

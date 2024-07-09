@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 1657,
-      "name": "Shampooing Apple 285Ml",
-      "prix_base": 18000,
-      "prix_comparaison": 114300,
-      "variation": 96300
+      "list_id": 3831,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 11500,
+      "prix_comparaison": 12200,
+      "variation": 700
     }
   ],
   "indice de prix": [
     {
-      "list_id": 1657,
-      "name": "Shampooing Apple 285Ml",
-      "prix_base": 18000,
-      "prix_comparaison": 114300,
-      "indice_prix": 635.0
+      "list_id": 3831,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 11500,
+      "prix_comparaison": 12200,
+      "indice_prix": 106.08695652173913
     }
   ]
 }
