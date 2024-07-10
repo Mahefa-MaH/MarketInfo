@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_124798pcdebureaugamingomenbyhp45lgt221042nfamdryzen77700xram32goddr51tossdgeforcertx408016gofreedos0197497044553_html",
-      "name": "PC Gamer Omen by HP 45L GT22-1042nf - AMD Ryzen 7-7700X - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDOS",
-      "prix_base": 25769000,
-      "prix_comparaison": 25769000,
+      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
+      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
+      "prix_base": 11416000,
+      "prix_comparaison": 11416000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_92288pcdebureaugamingomenbyhp40lgt211007nfintelcorei913900kram32go1tossdgeforcertx409024gowindows110197192261767_html",
-      "name": "PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11",
-      "prix_base": 20017000,
-      "prix_comparaison": 20017000,
+      "cle": "unitecentraleseuleminipc_124798pcdebureaugamingomenbyhp45lgt221042nfamdryzen77700xram32goddr51tossdgeforcertx408016gofreedos0197497044553_html",
+      "name": "PC Gamer Omen by HP 45L GT22-1042nf - AMD Ryzen 7-7700X - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDOS",
+      "prix_base": 25769000,
+      "prix_comparaison": 25769000,
       "variation": 0,
       "indice_prix": 100.0
     }

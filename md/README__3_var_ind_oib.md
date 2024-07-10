@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Huile de friture 1L**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 15,900 Ar
-   - Variation: +4,000 Ar
+1. **Cahier multicours format A4 seyès 180 pages**
+   - Prix avant: 12,500 Ar
+   - Prix actuel: 24,400 Ar
+   - Variation: +11,900 Ar
 
-2. **Dentifrice maxi fresh menthe 75ml**
-   - Prix avant: 8,300 Ar
-   - Prix actuel: 10,000 Ar
-   - Variation: +1,700 Ar
+2. **Cahier spirale polycours petits carreaux 180 pages**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 19,350 Ar
+   - Variation: +9,450 Ar
 
-3. **Riz blanc de l'Itasy 5kg**
-   - Prix avant: 16,990 Ar
-   - Prix actuel: 18,400 Ar
-   - Variation: +1,410 Ar
+3. **Cahier broché format A3 192 pages**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 18,900 Ar
+   - Variation: +9,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **SAMSUNG Galaxy S24 Plus 512 Go Indigo**
-   - Prix avant: 5,747,000 Ar
-   - Prix actuel: 5,491,000 Ar
-   - Variation: -256,000 Ar
+1. **Flocons d'avoine complète 500g**
+   - Prix avant: 9,200 Ar
+   - Prix actuel: 8,900 Ar
+   - Variation: -300 Ar
 
-2. **Thrustmaster - T3PM - Pédales Magnétiques - Compatible PS5, PS4, Xbox One, Xbox Series X|S, PC**
-   - Prix avant: 868,000 Ar
-   - Prix actuel: 840,000 Ar
-   - Variation: -28,000 Ar
+2. **Farine excellence 1kg**
+   - Prix avant: 5,900 Ar
+   - Prix actuel: 6,690 Ar
+   - Variation: +790 Ar
 
-3. **BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc**
-   - Prix avant: 183,000 Ar
-   - Prix actuel: 169,000 Ar
-   - Variation: -14,000 Ar
+3. **Protèges cahiers assorties 17x22cm**
+   - Prix avant: 3,350 Ar
+   - Prix actuel: 4,150 Ar
+   - Variation: +800 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Huile de friture 1L**
-   - Prix avant: 11,900 Ar
-   - Prix actuel: 15,900 Ar
-   - Indice de prix : 133.61
+1. **Cahier format A3 petits carreaux 96 pages**
+   - Prix avant: 3,000 Ar
+   - Prix actuel: 5,900 Ar
+   - Indice de prix : 196.67
 
-2. **Salto 3D Tomato beef**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 1,400 Ar
-   - Indice de prix : 127.27
+2. **Cahier spirale format A4 petits carreaux 100 pages**
+   - Prix avant: 4,500 Ar
+   - Prix actuel: 8,800 Ar
+   - Indice de prix : 195.56
 
-3. **Salto 3D Sour cream**
-   - Prix avant: 1,100 Ar
-   - Prix actuel: 1,400 Ar
-   - Indice de prix : 127.27
+3. **Cahier spirale polycours petits carreaux 180 pages**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 19,350 Ar
+   - Indice de prix : 195.45
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc**
-   - Prix avant: 183,000 Ar
-   - Prix actuel: 169,000 Ar
-   - Indice de prix : 92.35
+1. **Flocons d'avoine complète 500g**
+   - Prix avant: 9,200 Ar
+   - Prix actuel: 8,900 Ar
+   - Indice de prix : 96.74
 
-2. **SAMSUNG Galaxy S24 Plus 512 Go Indigo**
-   - Prix avant: 5,747,000 Ar
-   - Prix actuel: 5,491,000 Ar
-   - Indice de prix : 95.55
+2. **Farine excellence 1kg**
+   - Prix avant: 5,900 Ar
+   - Prix actuel: 6,690 Ar
+   - Indice de prix : 113.39
 
-3. **Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, téléphones iOS et Android**
-   - Prix avant: 361,000 Ar
-   - Prix actuel: 349,000 Ar
-   - Indice de prix : 96.68
+3. **Protèges cahiers assorties 17x22cm**
+   - Prix avant: 3,350 Ar
+   - Prix actuel: 4,150 Ar
+   - Indice de prix : 123.88
 

@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_lecaddiecadeauenunclic_",
-      "name": "Le Easy Caddie \u2013 les courses compl\u00e8tes en un clic",
-      "prix_base": 1090,
-      "prix_comparaison": 1200,
-      "variation": 110
+      "cle": "produit_filetmignon500g_",
+      "name": "Filet mignon de Porc | 500g",
+      "prix_base": 14700,
+      "prix_comparaison": 17000,
+      "variation": 2300
+    },
+    {
+      "cle": "produit_filetdeboeuf500g_",
+      "name": "Filet de Boeuf environ 1,2Kg | 1 pi\u00e8ce",
+      "prix_base": 43200,
+      "prix_comparaison": 45000,
+      "variation": 1800
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_lecaddiecadeauenunclic_",
-      "name": "Le Easy Caddie \u2013 les courses compl\u00e8tes en un clic",
-      "prix_base": 1090,
-      "prix_comparaison": 1200,
-      "variation": 110
+      "cle": "produit_filetdeboeuf500g_",
+      "name": "Filet de Boeuf environ 1,2Kg | 1 pi\u00e8ce",
+      "prix_base": 43200,
+      "prix_comparaison": 45000,
+      "variation": 1800
+    },
+    {
+      "cle": "produit_filetmignon500g_",
+      "name": "Filet mignon de Porc | 500g",
+      "prix_base": 14700,
+      "prix_comparaison": 17000,
+      "variation": 2300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_lecaddiecadeauenunclic_",
-      "name": "Le Easy Caddie \u2013 les courses compl\u00e8tes en un clic",
-      "prix_base": 1090,
-      "prix_comparaison": 1200,
-      "indice_prix": 110.09174311926606
+      "cle": "produit_filetmignon500g_",
+      "name": "Filet mignon de Porc | 500g",
+      "prix_base": 14700,
+      "prix_comparaison": 17000,
+      "indice_prix": 115.64625850340136
+    },
+    {
+      "cle": "produit_filetdeboeuf500g_",
+      "name": "Filet de Boeuf environ 1,2Kg | 1 pi\u00e8ce",
+      "prix_base": 43200,
+      "prix_comparaison": 45000,
+      "indice_prix": 104.16666666666667
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_lecaddiecadeauenunclic_",
-      "name": "Le Easy Caddie \u2013 les courses compl\u00e8tes en un clic",
-      "prix_base": 1090,
-      "prix_comparaison": 1200,
-      "indice_prix": 110.09174311926606
+      "cle": "produit_filetdeboeuf500g_",
+      "name": "Filet de Boeuf environ 1,2Kg | 1 pi\u00e8ce",
+      "prix_base": 43200,
+      "prix_comparaison": 45000,
+      "indice_prix": 104.16666666666667
+    },
+    {
+      "cle": "produit_filetmignon500g_",
+      "name": "Filet mignon de Porc | 500g",
+      "prix_base": 14700,
+      "prix_comparaison": 17000,
+      "indice_prix": 115.64625850340136
     }
   ]
 }

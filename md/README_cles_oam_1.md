@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **PC Gamer Omen by HP 45L GT22-1042nf - AMD Ryzen 7-7700X - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDOS**
-   - Prix avant: 25,769,000 Ar
-   - Prix actuel: 25,769,000 Ar
+2. **Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver**
+   - Prix avant: 11,416,000 Ar
+   - Prix actuel: 11,416,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11**
-   - Prix avant: 20,017,000 Ar
-   - Prix actuel: 20,017,000 Ar
+3. **PC Gamer Omen by HP 45L GT22-1042nf - AMD Ryzen 7-7700X - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDOS**
+   - Prix avant: 25,769,000 Ar
+   - Prix actuel: 25,769,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

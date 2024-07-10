@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "huiles_14316huiledefriture1l_html",
-      "name": "Huile de friture 1L",
-      "prix_base": 11900,
-      "prix_comparaison": 15900,
-      "variation": 4000
+      "cle": "cahiersetprotegescahiers_6173cahiermulticoursformata4seyes180pages_html",
+      "name": "Cahier multicours format A4 sey\u00e8s 180 pages",
+      "prix_base": 12500,
+      "prix_comparaison": 24400,
+      "variation": 11900
     },
     {
-      "cle": "dentifrice_14260dentifricemaxifreshmenthe75ml_html",
-      "name": "Dentifrice maxi fresh menthe 75ml",
-      "prix_base": 8300,
-      "prix_comparaison": 10000,
-      "variation": 1700
+      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
+      "name": "Cahier spirale polycours petits carreaux 180 pages",
+      "prix_base": 9900,
+      "prix_comparaison": 19350,
+      "variation": 9450
     },
     {
-      "cle": "riz_7289rizblancdeitasy5kg_html",
-      "name": "Riz blanc de l'Itasy 5kg",
-      "prix_base": 16990,
-      "prix_comparaison": 18400,
-      "variation": 1410
+      "cle": "cahiersetprotegescahiers_8748cahierbrocheformata3192pages_html",
+      "name": "Cahier broch\u00e9 format A3 192 pages",
+      "prix_base": 9900,
+      "prix_comparaison": 18900,
+      "variation": 9000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
-      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
-      "prix_base": 5747000,
-      "prix_comparaison": 5491000,
-      "variation": -256000
+      "cle": "cerealesetbarres_13335floconsdavoinecomplete500gchabrior_html",
+      "name": "Flocons d'avoine compl\u00e8te 500g",
+      "prix_base": 9200,
+      "prix_comparaison": 8900,
+      "variation": -300
     },
     {
-      "cle": "accessoiresjeuxvideos_14855thrustmastert3pmpedalesmagnetiquescompatibleps5ps4xboxonexboxseriesxspc_html",
-      "name": "Thrustmaster - T3PM - P\u00e9dales Magn\u00e9tiques - Compatible PS5, PS4, Xbox One, Xbox Series X|S, PC",
-      "prix_base": 868000,
-      "prix_comparaison": 840000,
-      "variation": -28000
+      "cle": "farinesetchapelures_7380farineexcellence1kg_html",
+      "name": "Farine excellence 1kg",
+      "prix_base": 5900,
+      "prix_comparaison": 6690,
+      "variation": 790
     },
     {
-      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
-      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
-      "prix_base": 183000,
-      "prix_comparaison": 169000,
-      "variation": -14000
+      "cle": "cahiersetprotegescahiers_8780protegescahiersassorties17x22cm_html",
+      "name": "Prot\u00e8ges cahiers assorties 17x22cm",
+      "prix_base": 3350,
+      "prix_comparaison": 4150,
+      "variation": 800
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "huiles_14316huiledefriture1l_html",
-      "name": "Huile de friture 1L",
-      "prix_base": 11900,
-      "prix_comparaison": 15900,
-      "indice_prix": 133.61344537815125
+      "cle": "cahiersetprotegescahiers_5862cahierformata3petitscarreaux96pages_html",
+      "name": "Cahier format A3 petits carreaux 96 pages",
+      "prix_base": 3000,
+      "prix_comparaison": 5900,
+      "indice_prix": 196.66666666666666
     },
     {
-      "cle": "soufflesextrudes_7882salto3dtomatobeef_html",
-      "name": "Salto 3D Tomato beef",
-      "prix_base": 1100,
-      "prix_comparaison": 1400,
-      "indice_prix": 127.27272727272727
+      "cle": "cahiersetprotegescahiers_6176cahierspiraleformata4petitscarreaux100pages_html",
+      "name": "Cahier spirale format A4 petits carreaux 100 pages",
+      "prix_base": 4500,
+      "prix_comparaison": 8800,
+      "indice_prix": 195.55555555555554
     },
     {
-      "cle": "soufflesextrudes_7883salto3dsourcream_html",
-      "name": "Salto 3D Sour cream",
-      "prix_base": 1100,
-      "prix_comparaison": 1400,
-      "indice_prix": 127.27272727272727
+      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
+      "name": "Cahier spirale polycours petits carreaux 180 pages",
+      "prix_base": 9900,
+      "prix_comparaison": 19350,
+      "indice_prix": 195.45454545454547
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "mixeurplongeantblender_14018boschmsm14100clevermixxmixeurplongeantblanc_html",
-      "name": "BOSCH MSM14100 CLEVERMIXX Mixeur plongeant - Blanc",
-      "prix_base": 183000,
-      "prix_comparaison": 169000,
-      "indice_prix": 92.34972677595628
+      "cle": "cerealesetbarres_13335floconsdavoinecomplete500gchabrior_html",
+      "name": "Flocons d'avoine compl\u00e8te 500g",
+      "prix_base": 9200,
+      "prix_comparaison": 8900,
+      "indice_prix": 96.73913043478261
     },
     {
-      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
-      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
-      "prix_base": 5747000,
-      "prix_comparaison": 5491000,
-      "indice_prix": 95.54550200104403
+      "cle": "farinesetchapelures_7380farineexcellence1kg_html",
+      "name": "Farine excellence 1kg",
+      "prix_base": 5900,
+      "prix_comparaison": 6690,
+      "indice_prix": 113.38983050847457
     },
     {
-      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
-      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
-      "prix_base": 361000,
-      "prix_comparaison": 349000,
-      "indice_prix": 96.67590027700831
+      "cle": "cahiersetprotegescahiers_8780protegescahiersassorties17x22cm_html",
+      "name": "Prot\u00e8ges cahiers assorties 17x22cm",
+      "prix_base": 3350,
+      "prix_comparaison": 4150,
+      "indice_prix": 123.88059701492537
     }
   ]
 }

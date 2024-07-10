@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8528,
-      "name": "Riz blanc import de Inde 50 kg",
-      "prix_base": 158400,
-      "prix_comparaison": 158400,
+      "list_id": 5218,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 6900,
+      "prix_comparaison": 6900,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 288000,
-      "prix_comparaison": 288000,
+      "list_id": 8267,
+      "name": "Sucre rouge 1 kg",
+      "prix_base": 5682,
+      "prix_comparaison": 5682,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13109,
-      "name": "Sucre blanc 1 Kg",
-      "prix_base": 8000,
-      "prix_comparaison": 8000,
+      "list_id": 14604,
+      "name": "Sucre blanc Import 50 kg",
+      "prix_base": 290000,
+      "prix_comparaison": 290000,
       "variation": 0,
       "indice_prix": 100.0
     }
