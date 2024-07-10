@@ -19,20 +19,20 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Flocons d'avoine complète 500g**
+1. **Corde à linge haute résistance 20m**
+   - Prix avant: 399,000 Ar
+   - Prix actuel: 12,500 Ar
+   - Variation: -386,500 Ar
+
+2. **Flocons d'avoine complète 500g**
    - Prix avant: 9,200 Ar
    - Prix actuel: 8,900 Ar
    - Variation: -300 Ar
 
-2. **Farine excellence 1kg**
+3. **Farine excellence 1kg**
    - Prix avant: 5,900 Ar
    - Prix actuel: 6,690 Ar
    - Variation: +790 Ar
-
-3. **Protèges cahiers assorties 17x22cm**
-   - Prix avant: 3,350 Ar
-   - Prix actuel: 4,150 Ar
-   - Variation: +800 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -53,18 +53,18 @@
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Flocons d'avoine complète 500g**
+1. **Corde à linge haute résistance 20m**
+   - Prix avant: 399,000 Ar
+   - Prix actuel: 12,500 Ar
+   - Indice de prix : 3.13
+
+2. **Flocons d'avoine complète 500g**
    - Prix avant: 9,200 Ar
    - Prix actuel: 8,900 Ar
    - Indice de prix : 96.74
 
-2. **Farine excellence 1kg**
+3. **Farine excellence 1kg**
    - Prix avant: 5,900 Ar
    - Prix actuel: 6,690 Ar
    - Indice de prix : 113.39
-
-3. **Protèges cahiers assorties 17x22cm**
-   - Prix avant: 3,350 Ar
-   - Prix actuel: 4,150 Ar
-   - Indice de prix : 123.88
 

@@ -1,29 +1,71 @@
 {
   "prix_augmentes": [
     {
+      "list_id": 13430,
+      "prix_base": 2098200,
+      "name": "G\u00e9n\u00e9rateur essence \u00e0 onduleur 230V 208 cm\u00b3",
+      "prix_comparaison": 2468500,
+      "variation": 370300
+    },
+    {
       "list_id": 8403,
       "prix_base": 2970000,
       "name": "Billard SZX P02 7 pieds",
       "prix_comparaison": 3300000,
       "variation": 330000
+    },
+    {
+      "list_id": 13680,
+      "prix_base": 1605400,
+      "name": "Nettoyeur haute pression (pour usage commercial)",
+      "prix_comparaison": 1888800,
+      "variation": 283400
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 8403,
-      "prix_base": 2970000,
-      "name": "Billard SZX P02 7 pieds",
-      "prix_comparaison": 3300000,
-      "variation": 330000
+      "list_id": 13816,
+      "prix_base": 24200,
+      "name": "Cl\u00e9 \u00e0 pipe 8\"(200mm)",
+      "prix_comparaison": 28500,
+      "variation": 4300
+    },
+    {
+      "list_id": 13964,
+      "prix_base": 26700,
+      "name": "Cl\u00e9 Torx",
+      "prix_comparaison": 31400,
+      "variation": 4700
+    },
+    {
+      "list_id": 13879,
+      "prix_base": 23600,
+      "name": "Scie \u00e0 main 22\" (550 mm)",
+      "prix_comparaison": 33200,
+      "variation": 9600
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 8403,
-      "name": "Billard SZX P02 7 pieds",
-      "prix_base": 2970000,
-      "prix_comparaison": 3300000,
-      "indice_prix": 111.11111111111111
+      "list_id": 13879,
+      "name": "Scie \u00e0 main 22\" (550 mm)",
+      "prix_base": 23600,
+      "prix_comparaison": 33200,
+      "indice_prix": 140.67796610169492
+    },
+    {
+      "list_id": 13939,
+      "name": "Casque Soudure \u00e0 obscurcissement automatique 90 \u00d7 35 mm",
+      "prix_base": 93200,
+      "prix_comparaison": 120000,
+      "indice_prix": 128.75536480686696
+    },
+    {
+      "list_id": 13867,
+      "name": "Bloc de cha\u00eene 2 tonnes x 3 m",
+      "prix_base": 455700,
+      "prix_comparaison": 559700,
+      "indice_prix": 122.8220320386219
     }
   ],
   "indices_prix_plus_faibles": [
@@ -33,6 +75,20 @@
       "prix_base": 2970000,
       "prix_comparaison": 3300000,
       "indice_prix": 111.11111111111111
+    },
+    {
+      "list_id": 13467,
+      "name": "Tablier de soudure en cuir 90*60 cm",
+      "prix_base": 91600,
+      "prix_comparaison": 103500,
+      "indice_prix": 112.99126637554585
+    },
+    {
+      "list_id": 13821,
+      "name": "Pince F avec poign\u00e9e en plastique 800 mm 32\"",
+      "prix_base": 75700,
+      "prix_comparaison": 89000,
+      "indice_prix": 117.56935270805812
     }
   ]
 }

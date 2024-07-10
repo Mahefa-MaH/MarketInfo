@@ -24,6 +24,13 @@
   ],
   "prix_diminues": [
     {
+      "cle": "accessoirespourlentretiendulinge_11311cordealingehauteresistance20m_html",
+      "name": "Corde \u00e0 linge haute r\u00e9sistance 20m",
+      "prix_base": 399000,
+      "prix_comparaison": 12500,
+      "variation": -386500
+    },
+    {
       "cle": "cerealesetbarres_13335floconsdavoinecomplete500gchabrior_html",
       "name": "Flocons d'avoine compl\u00e8te 500g",
       "prix_base": 9200,
@@ -36,13 +43,6 @@
       "prix_base": 5900,
       "prix_comparaison": 6690,
       "variation": 790
-    },
-    {
-      "cle": "cahiersetprotegescahiers_8780protegescahiersassorties17x22cm_html",
-      "name": "Prot\u00e8ges cahiers assorties 17x22cm",
-      "prix_base": 3350,
-      "prix_comparaison": 4150,
-      "variation": 800
     }
   ],
   "indices_prix_plus_eleves": [
@@ -70,6 +70,13 @@
   ],
   "indices_prix_plus_faibles": [
     {
+      "cle": "accessoirespourlentretiendulinge_11311cordealingehauteresistance20m_html",
+      "name": "Corde \u00e0 linge haute r\u00e9sistance 20m",
+      "prix_base": 399000,
+      "prix_comparaison": 12500,
+      "indice_prix": 3.1328320802005014
+    },
+    {
       "cle": "cerealesetbarres_13335floconsdavoinecomplete500gchabrior_html",
       "name": "Flocons d'avoine compl\u00e8te 500g",
       "prix_base": 9200,
@@ -82,13 +89,6 @@
       "prix_base": 5900,
       "prix_comparaison": 6690,
       "indice_prix": 113.38983050847457
-    },
-    {
-      "cle": "cahiersetprotegescahiers_8780protegescahiersassorties17x22cm_html",
-      "name": "Prot\u00e8ges cahiers assorties 17x22cm",
-      "prix_base": 3350,
-      "prix_comparaison": 4150,
-      "indice_prix": 123.88059701492537
     }
   ]
 }
