@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 3831,
-      "prix_base": 11500,
-      "name": "Huile De Tournesol 1 L",
-      "prix_comparaison": 12200,
-      "variation": 700
+      "list_id": 8403,
+      "prix_base": 2970000,
+      "name": "Billard SZX P02 7 pieds",
+      "prix_comparaison": 3300000,
+      "variation": 330000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 3831,
-      "prix_base": 11500,
-      "name": "Huile De Tournesol 1 L",
-      "prix_comparaison": 12200,
-      "variation": 700
+      "list_id": 8403,
+      "prix_base": 2970000,
+      "name": "Billard SZX P02 7 pieds",
+      "prix_comparaison": 3300000,
+      "variation": 330000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3831,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 11500,
-      "prix_comparaison": 12200,
-      "indice_prix": 106.08695652173913
+      "list_id": 8403,
+      "name": "Billard SZX P02 7 pieds",
+      "prix_base": 2970000,
+      "prix_comparaison": 3300000,
+      "indice_prix": 111.11111111111111
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 3831,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 11500,
-      "prix_comparaison": 12200,
-      "indice_prix": 106.08695652173913
+      "list_id": 8403,
+      "name": "Billard SZX P02 7 pieds",
+      "prix_base": 2970000,
+      "prix_comparaison": 3300000,
+      "indice_prix": 111.11111111111111
     }
   ]
 }
