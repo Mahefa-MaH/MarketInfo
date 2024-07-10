@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_137456pcportablegamingerazernberazermajorx2016qhd240hzi914900hx32gossd1tohdd1tortx4070azerty4061275228540_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY",
-      "prix_base": 11779000,
-      "prix_comparaison": 11779000,
+      "cle": "unitecentraleseuleminipc_92289pcdebureaugamingomenbyhp40lgt211033nfintelcorei713700kram32go1tossdgeforcertx408016gowindows110197192261774_html",
+      "name": "PC Gamer Omen by HP 40L GT21-1033nf- Intel Core i7-13700K - RAM 32Go - 1To SSD - GeForce RTX 4080 16Go - Windows 11",
+      "prix_base": 16247000,
+      "prix_comparaison": 16247000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_137454pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tohdd1tortx4090azerty4061275228335_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To- RTX 4090 - AZERTY",
-      "prix_base": 17896000,
-      "prix_comparaison": 17896000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
-      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 10474000,
-      "prix_comparaison": 10474000,
+      "cle": "unitecentraleseuleminipc_143068pcdebureaugaminghpgt152064nfcorei714700fram32goddr5512gossdgeforcertx4070super12gofreedos0198122795093_html",
+      "name": "PC de bureau Gaming HP GT15-2064nf - Core i7-14700F - RAM 32Go DDR5 - 512Go SSD - GeForce RTX 4070 Super 12Go - FreeDOS",
+      "prix_base": 11955000,
+      "prix_comparaison": 11955000,
       "variation": 0,
       "indice_prix": 100.0
     }

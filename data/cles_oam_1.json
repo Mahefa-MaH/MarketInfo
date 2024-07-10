@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_93247pcportablegamerasusrogstrixg1616wuxga165hzrtx40608gointelcorei713650hxram16go512gossdwin114711387072097_html",
-      "name": "PC Portable Gamer ASUS ROG Strix G16 | 16 WUXGA 165Hz - RTX 4060 8Go - Intel Core i7-13650HX - RAM 16Go - 512Go SSD - Win 11",
-      "prix_base": 10079000,
-      "prix_comparaison": 10079000,
+      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
+      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
+      "prix_base": 10975000,
+      "prix_comparaison": 10975000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_137457pcportablegamingerazernberazermajorx2016qhd240hzi714700hx16gossd1tortx4070azerty4061275228656_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i7-14700HX - 16Go - SSD 1To - RTX 4070 - AZERTY",
-      "prix_base": 11269000,
-      "prix_comparaison": 11269000,
+      "cle": "unitecentraleseuleminipc_124798pcdebureaugamingomenbyhp45lgt221042nfamdryzen77700xram32goddr51tossdgeforcertx408016gofreedos0197497044553_html",
+      "name": "PC Gamer Omen by HP 45L GT22-1042nf - AMD Ryzen 7-7700X - RAM 32Go DDR5 - 1To SSD - GeForce RTX 4080 16Go - FreeDOS",
+      "prix_base": 25769000,
+      "prix_comparaison": 25769000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
-      "prix_base": 15348000,
-      "prix_comparaison": 15348000,
+      "cle": "unitecentraleseuleminipc_92288pcdebureaugamingomenbyhp40lgt211007nfintelcorei913900kram32go1tossdgeforcertx409024gowindows110197192261767_html",
+      "name": "PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11",
+      "prix_base": 20017000,
+      "prix_comparaison": 20017000,
       "variation": 0,
       "indice_prix": 100.0
     }
