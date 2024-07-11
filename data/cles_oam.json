@@ -1,18 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
-      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
-      "prix_base": 11911000,
-      "prix_comparaison": 11911000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "electricitedomotique_120268onduleurapceasyupssrv6000va230vavecbatterieexterne_html",
-      "name": "Onduleur APC Easy UPS SRV 6000VA 230V avec batterie externe",
-      "prix_base": 11000000,
-      "prix_comparaison": 11000000,
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 11556000,
+      "prix_comparaison": 11556000,
       "variation": 0,
       "indice_prix": 100.0
     }
