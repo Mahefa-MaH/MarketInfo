@@ -12,11 +12,6 @@
    - Prix actuel: 19,350 Ar
    - Variation: +9,450 Ar
 
-3. **Cahier broché format A3 192 pages**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 18,900 Ar
-   - Variation: +9,000 Ar
-
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
 1. **Corde à linge haute résistance 20m**
@@ -28,11 +23,6 @@
    - Prix avant: 9,200 Ar
    - Prix actuel: 8,900 Ar
    - Variation: -300 Ar
-
-3. **Farine excellence 1kg**
-   - Prix avant: 5,900 Ar
-   - Prix actuel: 6,690 Ar
-   - Variation: +790 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -46,11 +36,6 @@
    - Prix actuel: 8,800 Ar
    - Indice de prix : 195.56
 
-3. **Cahier spirale polycours petits carreaux 180 pages**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 19,350 Ar
-   - Indice de prix : 195.45
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
 1. **Corde à linge haute résistance 20m**
@@ -62,9 +47,4 @@
    - Prix avant: 9,200 Ar
    - Prix actuel: 8,900 Ar
    - Indice de prix : 96.74
-
-3. **Farine excellence 1kg**
-   - Prix avant: 5,900 Ar
-   - Prix actuel: 6,690 Ar
-   - Indice de prix : 113.39
 

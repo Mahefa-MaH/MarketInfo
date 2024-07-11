@@ -13,13 +13,6 @@
       "prix_base": 9900,
       "prix_comparaison": 19350,
       "variation": 9450
-    },
-    {
-      "cle": "cahiersetprotegescahiers_8748cahierbrocheformata3192pages_html",
-      "name": "Cahier broch\u00e9 format A3 192 pages",
-      "prix_base": 9900,
-      "prix_comparaison": 18900,
-      "variation": 9000
     }
   ],
   "prix_diminues": [
@@ -36,13 +29,6 @@
       "prix_base": 9200,
       "prix_comparaison": 8900,
       "variation": -300
-    },
-    {
-      "cle": "farinesetchapelures_7380farineexcellence1kg_html",
-      "name": "Farine excellence 1kg",
-      "prix_base": 5900,
-      "prix_comparaison": 6690,
-      "variation": 790
     }
   ],
   "indices_prix_plus_eleves": [
@@ -59,13 +45,6 @@
       "prix_base": 4500,
       "prix_comparaison": 8800,
       "indice_prix": 195.55555555555554
-    },
-    {
-      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
-      "name": "Cahier spirale polycours petits carreaux 180 pages",
-      "prix_base": 9900,
-      "prix_comparaison": 19350,
-      "indice_prix": 195.45454545454547
     }
   ],
   "indices_prix_plus_faibles": [
@@ -82,13 +61,6 @@
       "prix_base": 9200,
       "prix_comparaison": 8900,
       "indice_prix": 96.73913043478261
-    },
-    {
-      "cle": "farinesetchapelures_7380farineexcellence1kg_html",
-      "name": "Farine excellence 1kg",
-      "prix_base": 5900,
-      "prix_comparaison": 6690,
-      "indice_prix": 113.38983050847457
     }
   ]
 }
