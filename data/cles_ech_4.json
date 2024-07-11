@@ -1,10 +1,26 @@
 {
   "Variation de prix": [
     {
+      "cle": "produit_haricotsblancsseches1kgtsaramasomaina_",
+      "name": "Haricots Rouges s\u00e9ch\u00e9s 1kg | Tsaramaso mena maina",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "produit_huilesoja1l_",
       "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
       "prix_base": 10210,
       "prix_comparaison": 10210,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_sucreblancramatoa1kg_",
+      "name": "Sucre Blanc Ramatoa\u2122 1kg | Sucre de canne raffin\u00e9",
+      "prix_base": 9510,
+      "prix_comparaison": 9510,
       "variation": 0,
       "indice_prix": 100.0
     }
