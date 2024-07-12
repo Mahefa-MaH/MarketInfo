@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Huile De Soja 1 L**
-   - Prix avant: 11,800 Ar
-   - Prix actuel: 11,800 Ar
+3. **Riz Complet Rouge Vary Gasy 5kg**
+   - Prix avant: 19,800 Ar
+   - Prix actuel: 19,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

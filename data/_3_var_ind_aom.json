@@ -1,150 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "youpalatrotteur_138726trotteursousmarinbabyeinsteinoceanexplorersdivediscover3en1jouetamoviblepourjouerparterre0074451167247_html",
-      "name": "Trotteur sous marin - BABY EINSTEIN - Ocean Explorers Dive & Discover 3 en 1 - Jouet amovible pour jouer par terre",
-      "prix_base": 646000,
-      "prix_comparaison": 658000,
-      "variation": 12000
+      "cle": "housseetuicoquefacadesacochedetransport_55854besacekonixnarutoswitchorange3328170288224_html",
+      "name": "Besace - KONIX - Naruto - Switch - Orange",
+      "prix_base": 138000,
+      "prix_comparaison": 224000,
+      "variation": 86000
     },
     {
-      "cle": "youpalatrotteur_138921funhouseindianpanda713097siegelunepliabledimensionsh48xl52xp46cmpourenfant3700057130978_html",
-      "name": "FUN HOUSE Indian Panda 713097 SIEGE LUNE PLIABLE Dimensions : \u00b1 H. 48 x L. 52 x P. 46 cm pour enfant",
-      "prix_base": 259000,
-      "prix_comparaison": 256000,
-      "variation": -3000
+      "cle": "housseetuicoquefacadesacochedetransport_87373pochettedetransporteditionsplatoon3etprotectiondecrannintendoswitchmodeleoled0045496431624_html",
+      "name": "Pochette de transport Edition Splatoon 3 et protection d'\u00e9cran Nintendo Switch (modele OLED)",
+      "prix_base": 157000,
+      "prix_comparaison": 160000,
+      "variation": 3000
     },
     {
-      "cle": "youpalatrotteur_57049fisherpricetrotteurdactivitesevolutifjouetdeveil1erage6moiset0194735092277_html",
-      "name": "Fisher-Price - Trotteur D'Activites Evolutif - jouet d'\u00e9veil 1er age - 6 mois et +",
-      "prix_base": 377000,
-      "prix_comparaison": 365000,
-      "variation": -12000
-    },
-    {
-      "cle": "youpalatrotteur_33581babymoovtrotteur5en1sonsetlumieres4rouesavecfreins3661276164710_html",
-      "name": "BABYMOOV Trotteur 5 en 1 - Sons et lumieres - 4 roues - Avec freins",
-      "prix_base": 694000,
-      "prix_comparaison": 672000,
-      "variation": -22000
-    },
-    {
-      "cle": "youpalatrotteur_133714chiccotrotteurwalkytalkysunny8058664057641_html",
-      "name": "CHICCO Trotteur WALKY TALKY Sunny",
-      "prix_base": 788000,
-      "prix_comparaison": 763000,
-      "variation": -25000
+      "cle": "haiedejardin_89116naturekitdefixationpourcloturedejardin27pcsgris8711338503966_html",
+      "name": "Kit de fixation pour cl\u00f4ture de jardin - NATURE - 27 pcs - Gris",
+      "prix_base": 67000,
+      "prix_comparaison": 68000,
+      "variation": 1000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "stationdaccueilreplicateurdeportsupport_141710stationdaccueillenovo40ay0090euavecfilusb32gen131gen1typecnoir7330381386374_html",
-      "name": "Station d'accueil - LENOVO - 40AY0090EU - Avec Fil USB 3.2 Gen 1 (3.1 Gen 1) Type-C - Noir",
-      "prix_base": 1230000,
-      "prix_comparaison": 1173000,
-      "variation": -57000
+      "cle": "haiedejardin_89116naturekitdefixationpourcloturedejardin27pcsgris8711338503966_html",
+      "name": "Kit de fixation pour cl\u00f4ture de jardin - NATURE - 27 pcs - Gris",
+      "prix_base": 67000,
+      "prix_comparaison": 68000,
+      "variation": 1000
     },
     {
-      "cle": "youpalatrotteur_98960trotteuraroundwegobabyeinstein0074451113114_html",
-      "name": "Table d'activit\u00e9s 360\u00b0 Around We Go - BABY EINSTEIN",
-      "prix_base": 911000,
-      "prix_comparaison": 856000,
-      "variation": -55000
+      "cle": "housseetuicoquefacadesacochedetransport_87373pochettedetransporteditionsplatoon3etprotectiondecrannintendoswitchmodeleoled0045496431624_html",
+      "name": "Pochette de transport Edition Splatoon 3 et protection d'\u00e9cran Nintendo Switch (modele OLED)",
+      "prix_base": 157000,
+      "prix_comparaison": 160000,
+      "variation": 3000
     },
     {
-      "cle": "stationdaccueilreplicateurdeportsupport_141536stationdaccueilhp26d32aausbcg5noir5059902028419_html",
-      "name": "Station d'accueil - HP - 26D32AA - USB-C G5 - Noir",
-      "prix_base": 1090000,
-      "prix_comparaison": 1039000,
-      "variation": -51000
-    },
-    {
-      "cle": "youpalatrotteur_133335bureaumodulospace3032164203048_html",
-      "name": "Smoby - Bureau Modulo Space - Transformable en Tableau Double Face - 80 Accessoires Inclus - Des 3 Ans - 420304",
-      "prix_base": 911000,
-      "prix_comparaison": 883000,
-      "variation": -28000
-    },
-    {
-      "cle": "youpalatrotteur_133720chiccotrotteurwalkytalkygreenwave8058664056873_html",
-      "name": "CHICCO Trotteur WALKY TALKY Green Wave",
-      "prix_base": 799000,
-      "prix_comparaison": 774000,
-      "variation": -25000
+      "cle": "housseetuicoquefacadesacochedetransport_55854besacekonixnarutoswitchorange3328170288224_html",
+      "name": "Besace - KONIX - Naruto - Switch - Orange",
+      "prix_base": 138000,
+      "prix_comparaison": 224000,
+      "variation": 86000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "youpalatrotteur_138726trotteursousmarinbabyeinsteinoceanexplorersdivediscover3en1jouetamoviblepourjouerparterre0074451167247_html",
-      "name": "Trotteur sous marin - BABY EINSTEIN - Ocean Explorers Dive & Discover 3 en 1 - Jouet amovible pour jouer par terre",
-      "prix_base": 646000,
-      "prix_comparaison": 658000,
-      "indice_prix": 101.85758513931889
+      "cle": "housseetuicoquefacadesacochedetransport_55854besacekonixnarutoswitchorange3328170288224_html",
+      "name": "Besace - KONIX - Naruto - Switch - Orange",
+      "prix_base": 138000,
+      "prix_comparaison": 224000,
+      "indice_prix": 162.31884057971016
     },
     {
-      "cle": "youpalatrotteur_138921funhouseindianpanda713097siegelunepliabledimensionsh48xl52xp46cmpourenfant3700057130978_html",
-      "name": "FUN HOUSE Indian Panda 713097 SIEGE LUNE PLIABLE Dimensions : \u00b1 H. 48 x L. 52 x P. 46 cm pour enfant",
-      "prix_base": 259000,
-      "prix_comparaison": 256000,
-      "indice_prix": 98.84169884169884
+      "cle": "housseetuicoquefacadesacochedetransport_87373pochettedetransporteditionsplatoon3etprotectiondecrannintendoswitchmodeleoled0045496431624_html",
+      "name": "Pochette de transport Edition Splatoon 3 et protection d'\u00e9cran Nintendo Switch (modele OLED)",
+      "prix_base": 157000,
+      "prix_comparaison": 160000,
+      "indice_prix": 101.91082802547771
     },
     {
-      "cle": "youpalatrotteur_133335bureaumodulospace3032164203048_html",
-      "name": "Smoby - Bureau Modulo Space - Transformable en Tableau Double Face - 80 Accessoires Inclus - Des 3 Ans - 420304",
-      "prix_base": 911000,
-      "prix_comparaison": 883000,
-      "indice_prix": 96.9264544456641
-    },
-    {
-      "cle": "youpalatrotteur_133720chiccotrotteurwalkytalkygreenwave8058664056873_html",
-      "name": "CHICCO Trotteur WALKY TALKY Green Wave",
-      "prix_base": 799000,
-      "prix_comparaison": 774000,
-      "indice_prix": 96.87108886107634
-    },
-    {
-      "cle": "youpalatrotteur_33581babymoovtrotteur5en1sonsetlumieres4rouesavecfreins3661276164710_html",
-      "name": "BABYMOOV Trotteur 5 en 1 - Sons et lumieres - 4 roues - Avec freins",
-      "prix_base": 694000,
-      "prix_comparaison": 672000,
-      "indice_prix": 96.82997118155619
+      "cle": "haiedejardin_89116naturekitdefixationpourcloturedejardin27pcsgris8711338503966_html",
+      "name": "Kit de fixation pour cl\u00f4ture de jardin - NATURE - 27 pcs - Gris",
+      "prix_base": 67000,
+      "prix_comparaison": 68000,
+      "indice_prix": 101.49253731343283
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "youpalatrotteur_98960trotteuraroundwegobabyeinstein0074451113114_html",
-      "name": "Table d'activit\u00e9s 360\u00b0 Around We Go - BABY EINSTEIN",
-      "prix_base": 911000,
-      "prix_comparaison": 856000,
-      "indice_prix": 93.96267837541164
+      "cle": "haiedejardin_89116naturekitdefixationpourcloturedejardin27pcsgris8711338503966_html",
+      "name": "Kit de fixation pour cl\u00f4ture de jardin - NATURE - 27 pcs - Gris",
+      "prix_base": 67000,
+      "prix_comparaison": 68000,
+      "indice_prix": 101.49253731343283
     },
     {
-      "cle": "stationdaccueilreplicateurdeportsupport_141536stationdaccueilhp26d32aausbcg5noir5059902028419_html",
-      "name": "Station d'accueil - HP - 26D32AA - USB-C G5 - Noir",
-      "prix_base": 1090000,
-      "prix_comparaison": 1039000,
-      "indice_prix": 95.3211009174312
+      "cle": "housseetuicoquefacadesacochedetransport_87373pochettedetransporteditionsplatoon3etprotectiondecrannintendoswitchmodeleoled0045496431624_html",
+      "name": "Pochette de transport Edition Splatoon 3 et protection d'\u00e9cran Nintendo Switch (modele OLED)",
+      "prix_base": 157000,
+      "prix_comparaison": 160000,
+      "indice_prix": 101.91082802547771
     },
     {
-      "cle": "stationdaccueilreplicateurdeportsupport_141710stationdaccueillenovo40ay0090euavecfilusb32gen131gen1typecnoir7330381386374_html",
-      "name": "Station d'accueil - LENOVO - 40AY0090EU - Avec Fil USB 3.2 Gen 1 (3.1 Gen 1) Type-C - Noir",
-      "prix_base": 1230000,
-      "prix_comparaison": 1173000,
-      "indice_prix": 95.36585365853658
-    },
-    {
-      "cle": "youpalatrotteur_57049fisherpricetrotteurdactivitesevolutifjouetdeveil1erage6moiset0194735092277_html",
-      "name": "Fisher-Price - Trotteur D'Activites Evolutif - jouet d'\u00e9veil 1er age - 6 mois et +",
-      "prix_base": 377000,
-      "prix_comparaison": 365000,
-      "indice_prix": 96.81697612732096
-    },
-    {
-      "cle": "youpalatrotteur_133714chiccotrotteurwalkytalkysunny8058664057641_html",
-      "name": "CHICCO Trotteur WALKY TALKY Sunny",
-      "prix_base": 788000,
-      "prix_comparaison": 763000,
-      "indice_prix": 96.8274111675127
+      "cle": "housseetuicoquefacadesacochedetransport_55854besacekonixnarutoswitchorange3328170288224_html",
+      "name": "Besace - KONIX - Naruto - Switch - Orange",
+      "prix_base": 138000,
+      "prix_comparaison": 224000,
+      "indice_prix": 162.31884057971016
     }
   ]
 }

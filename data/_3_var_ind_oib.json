@@ -1,66 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "cahiersetprotegescahiers_6173cahiermulticoursformata4seyes180pages_html",
-      "name": "Cahier multicours format A4 sey\u00e8s 180 pages",
-      "prix_base": 12500,
-      "prix_comparaison": 24400,
-      "variation": 11900
+      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 6541000,
+      "prix_comparaison": 6709000,
+      "variation": 168000
     },
     {
-      "cle": "cahiersetprotegescahiers_5865cahierspiralepolycourspetitscarreaux180pages_html",
-      "name": "Cahier spirale polycours petits carreaux 180 pages",
-      "prix_base": 9900,
-      "prix_comparaison": 19350,
-      "variation": 9450
+      "cle": "ordinateursportables_14623pcportablegamerasustufgaminga17173fhdrtx40608goamdryzen77735hsram16go512gossdwin11_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11",
+      "prix_base": 6911000,
+      "prix_comparaison": 7055000,
+      "variation": 144000
+    },
+    {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6038000,
+      "prix_comparaison": 6164000,
+      "variation": 126000
+    },
+    {
+      "cle": "ordinateursportables_14821pcportablelenovoultrathin1515fhd300nintelcorei713620hram16goddr5ssd1tosanswindowsazerty_html",
+      "name": "PC Portable Lenovo Ultrathin 15 | 15'' FHD 300N - Intel Core i7-13620H - RAM 16Go DDR5 - SSD 1To - Sans Windows - AZERTY",
+      "prix_base": 3588000,
+      "prix_comparaison": 3662000,
+      "variation": 74000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "accessoirespourlentretiendulinge_11311cordealingehauteresistance20m_html",
-      "name": "Corde \u00e0 linge haute r\u00e9sistance 20m",
-      "prix_base": 399000,
-      "prix_comparaison": 12500,
-      "variation": -386500
+      "cle": "sourisetclaviers_14611combogaming3en1claviergamingetsourisgamingrtroclairtapisdesouristheglabcomboyttrium_html",
+      "name": "Combo Gaming 3 en 1- Clavier gaming et souris gaming r\u00e9tro\u00e9clair\u00e9\u008e + Tapis de souris - THE G-LAB - COMBO YTTRIUM",
+      "prix_base": 219000,
+      "prix_comparaison": 224000,
+      "variation": 5000
     },
     {
-      "cle": "cerealesetbarres_13335floconsdavoinecomplete500gchabrior_html",
-      "name": "Flocons d'avoine compl\u00e8te 500g",
-      "prix_base": 9200,
-      "prix_comparaison": 8900,
-      "variation": -300
+      "cle": "sourisetclaviers_14609logitechensembleclavieretsourismk850performancemk850sansfil_html",
+      "name": "Logitech Ensemble Clavier et Souris MK850 Performance MK850 - sans fil",
+      "prix_base": 643000,
+      "prix_comparaison": 656000,
+      "variation": 13000
+    },
+    {
+      "cle": "tablettestactilesliseuses_14628tablettetactiletcltab10gen2104ram4gostockage64gowifigrisfonc_html",
+      "name": "Tablette Tactile - TCL - TAB 10 GEN 2 - 10,4 - RAM 4 Go - Stockage 64 Go - Wifi - Gris fonc",
+      "prix_base": 906000,
+      "prix_comparaison": 925000,
+      "variation": 19000
+    },
+    {
+      "cle": "ordinateursdebureau_14617ecranpcgamerphilips242e1gaj24fhd144hzdalleva1ms144hzdphdmivgahautparleurs_html",
+      "name": "Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs",
+      "prix_base": 1031000,
+      "prix_comparaison": 1052000,
+      "variation": 21000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "cahiersetprotegescahiers_5862cahierformata3petitscarreaux96pages_html",
-      "name": "Cahier format A3 petits carreaux 96 pages",
-      "prix_base": 3000,
-      "prix_comparaison": 5900,
-      "indice_prix": 196.66666666666666
+      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 6541000,
+      "prix_comparaison": 6709000,
+      "indice_prix": 102.56841461550222
     },
     {
-      "cle": "cahiersetprotegescahiers_6176cahierspiraleformata4petitscarreaux100pages_html",
-      "name": "Cahier spirale format A4 petits carreaux 100 pages",
-      "prix_base": 4500,
-      "prix_comparaison": 8800,
-      "indice_prix": 195.55555555555554
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1525000,
+      "prix_comparaison": 1561000,
+      "indice_prix": 102.36065573770492
+    },
+    {
+      "cle": "sourisetclaviers_14611combogaming3en1claviergamingetsourisgamingrtroclairtapisdesouristheglabcomboyttrium_html",
+      "name": "Combo Gaming 3 en 1- Clavier gaming et souris gaming r\u00e9tro\u00e9clair\u00e9\u008e + Tapis de souris - THE G-LAB - COMBO YTTRIUM",
+      "prix_base": 219000,
+      "prix_comparaison": 224000,
+      "indice_prix": 102.28310502283105
+    },
+    {
+      "cle": "ordinateursdebureau_14829ecranpcgamerincurveviewsonic27vx27182kpcmhdqhddalleva1ms165hz2xhdmidisplayport_html",
+      "name": "Ecran PC Gamer Incurv\u00e9 - VIEWSONIC - 27 - VX2718-2KPC-MHD - QHD - Dalle VA - 1 ms - 165 Hz - 2 x HDMI / DisplayPort -",
+      "prix_base": 1462000,
+      "prix_comparaison": 1493000,
+      "indice_prix": 102.1203830369357
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "accessoirespourlentretiendulinge_11311cordealingehauteresistance20m_html",
-      "name": "Corde \u00e0 linge haute r\u00e9sistance 20m",
-      "prix_base": 399000,
-      "prix_comparaison": 12500,
-      "indice_prix": 3.1328320802005014
+      "cle": "sourisetclaviers_14609logitechensembleclavieretsourismk850performancemk850sansfil_html",
+      "name": "Logitech Ensemble Clavier et Souris MK850 Performance MK850 - sans fil",
+      "prix_base": 643000,
+      "prix_comparaison": 656000,
+      "indice_prix": 102.02177293934682
     },
     {
-      "cle": "cerealesetbarres_13335floconsdavoinecomplete500gchabrior_html",
-      "name": "Flocons d'avoine compl\u00e8te 500g",
-      "prix_base": 9200,
-      "prix_comparaison": 8900,
-      "indice_prix": 96.73913043478261
+      "cle": "ordinateursdebureau_14617ecranpcgamerphilips242e1gaj24fhd144hzdalleva1ms144hzdphdmivgahautparleurs_html",
+      "name": "Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs",
+      "prix_base": 1031000,
+      "prix_comparaison": 1052000,
+      "indice_prix": 102.0368574199806
+    },
+    {
+      "cle": "ordinateursportables_14821pcportablelenovoultrathin1515fhd300nintelcorei713620hram16goddr5ssd1tosanswindowsazerty_html",
+      "name": "PC Portable Lenovo Ultrathin 15 | 15'' FHD 300N - Intel Core i7-13620H - RAM 16Go DDR5 - SSD 1To - Sans Windows - AZERTY",
+      "prix_base": 3588000,
+      "prix_comparaison": 3662000,
+      "indice_prix": 102.06243032329989
+    },
+    {
+      "cle": "ordinateursdebureau_14620pcdebureauhpallinone22dd0194nf215fhdintelceleronj4025ram8go256gossdwindows11claviersouris_html",
+      "name": "PC de Bureau HP All-in-One 22-dd0194nf - 21,5 FHD - Intel Celeron J4025 - RAM 8Go - 256Go SSD - Windows 11 - Clavier + Souris",
+      "prix_base": 2698000,
+      "prix_comparaison": 2754000,
+      "indice_prix": 102.07561156412157
     }
   ]
 }

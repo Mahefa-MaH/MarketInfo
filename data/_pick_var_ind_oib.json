@@ -1,34 +1,62 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
-      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
-      "prix_base": 5747000,
-      "prix_comparaison": 5491000,
-      "variation": -256000
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1525000,
+      "prix_comparaison": 1561000,
+      "variation": 36000
     },
     {
-      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
-      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
-      "prix_base": 361000,
-      "prix_comparaison": 349000,
-      "variation": -12000
+      "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2157000,
+      "prix_comparaison": 2202000,
+      "variation": 45000
+    },
+    {
+      "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3175000,
+      "prix_comparaison": 3242000,
+      "variation": 67000
+    },
+    {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6038000,
+      "prix_comparaison": 6164000,
+      "variation": 126000
     }
   ],
   "indice de prix": [
     {
-      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
-      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
-      "prix_base": 5747000,
-      "prix_comparaison": 5491000,
-      "indice_prix": 95.54550200104403
+      "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
+      "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
+      "prix_base": 2157000,
+      "prix_comparaison": 2202000,
+      "indice_prix": 102.08623087621697
     },
     {
-      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
-      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
-      "prix_base": 361000,
-      "prix_comparaison": 349000,
-      "indice_prix": 96.67590027700831
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6038000,
+      "prix_comparaison": 6164000,
+      "indice_prix": 102.08678370321299
+    },
+    {
+      "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
+      "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
+      "prix_base": 3175000,
+      "prix_comparaison": 3242000,
+      "indice_prix": 102.11023622047244
+    },
+    {
+      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
+      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
+      "prix_base": 1525000,
+      "prix_comparaison": 1561000,
+      "indice_prix": 102.36065573770492
     }
   ]
 }
