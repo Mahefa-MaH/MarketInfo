@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13775,
-      "name": "Riz de Luxe Makalioka 5kg",
-      "prix_base": 23000,
-      "prix_comparaison": 23000,
+      "list_id": 13777,
+      "name": "Riz Complet Rouge Vary Gasy 5kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 9400,
-      "prix_comparaison": 9400,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 9679,
-      "name": "Sucrettes blanches  50 g",
-      "prix_base": 7000,
-      "prix_comparaison": 7000,
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 3100,
+      "prix_comparaison": 3100,
       "variation": 0,
       "indice_prix": 100.0
     }
