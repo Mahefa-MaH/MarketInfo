@@ -20,13 +20,6 @@
       "prix_base": 6038000,
       "prix_comparaison": 6164000,
       "variation": 126000
-    },
-    {
-      "cle": "ordinateursportables_14821pcportablelenovoultrathin1515fhd300nintelcorei713620hram16goddr5ssd1tosanswindowsazerty_html",
-      "name": "PC Portable Lenovo Ultrathin 15 | 15'' FHD 300N - Intel Core i7-13620H - RAM 16Go DDR5 - SSD 1To - Sans Windows - AZERTY",
-      "prix_base": 3588000,
-      "prix_comparaison": 3662000,
-      "variation": 74000
     }
   ],
   "prix_diminues": [
@@ -50,13 +43,6 @@
       "prix_base": 906000,
       "prix_comparaison": 925000,
       "variation": 19000
-    },
-    {
-      "cle": "ordinateursdebureau_14617ecranpcgamerphilips242e1gaj24fhd144hzdalleva1ms144hzdphdmivgahautparleurs_html",
-      "name": "Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs",
-      "prix_base": 1031000,
-      "prix_comparaison": 1052000,
-      "variation": 21000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -80,13 +66,6 @@
       "prix_base": 219000,
       "prix_comparaison": 224000,
       "indice_prix": 102.28310502283105
-    },
-    {
-      "cle": "ordinateursdebureau_14829ecranpcgamerincurveviewsonic27vx27182kpcmhdqhddalleva1ms165hz2xhdmidisplayport_html",
-      "name": "Ecran PC Gamer Incurv\u00e9 - VIEWSONIC - 27 - VX2718-2KPC-MHD - QHD - Dalle VA - 1 ms - 165 Hz - 2 x HDMI / DisplayPort -",
-      "prix_base": 1462000,
-      "prix_comparaison": 1493000,
-      "indice_prix": 102.1203830369357
     }
   ],
   "indices_prix_plus_faibles": [
@@ -110,13 +89,6 @@
       "prix_base": 3588000,
       "prix_comparaison": 3662000,
       "indice_prix": 102.06243032329989
-    },
-    {
-      "cle": "ordinateursdebureau_14620pcdebureauhpallinone22dd0194nf215fhdintelceleronj4025ram8go256gossdwindows11claviersouris_html",
-      "name": "PC de Bureau HP All-in-One 22-dd0194nf - 21,5 FHD - Intel Celeron J4025 - RAM 8Go - 256Go SSD - Windows 11 - Clavier + Souris",
-      "prix_base": 2698000,
-      "prix_comparaison": 2754000,
-      "indice_prix": 102.07561156412157
     }
   ]
 }
