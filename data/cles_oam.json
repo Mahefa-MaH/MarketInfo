@@ -1,6 +1,22 @@
 {
   "Variation de prix": [
     {
+      "cle": "tableplaquedecuissoninduction_141174tableinductionaspiranteboschser6pvq811h26enoir4foyershomeconnectl802xp522mm4242005433612_html",
+      "name": "Table induction Aspirante - BOSCH SER6 - PVQ811H26E Noir - 4-foyers - Home Connect - L802xP522 mm",
+      "prix_base": 11953000,
+      "prix_comparaison": 11953000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "refrigerateurclassique_99118refrigerateurcombineposelibreboschkgn39aiat2portesrefrigerateur260lcongelateur103l203x60x67cm4242005325443_html",
+      "name": "Bosch KGN39AIAT - S\u00e9rie 6 R\u00e9frig\u00e9rateur combin\u00e9 pose-libre - 363 L - 203 x 60 (H x L) - No Frost - Inox",
+      "prix_base": 10975000,
+      "prix_comparaison": 10975000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
       "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
       "prix_base": 11556000,
