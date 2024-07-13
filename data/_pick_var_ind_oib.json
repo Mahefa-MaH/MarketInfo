@@ -1,11 +1,88 @@
 {
   "Variation de prix": [
     {
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5269000,
+      "prix_comparaison": 5027000,
+      "variation": -242000
+    },
+    {
+      "cle": "produitsnettoyantscuisines_13849cremearecurercitron750mltopbudget_html",
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer citron 750ml",
+      "prix_base": 5500,
+      "prix_comparaison": 4900,
+      "variation": -600
+    },
+    {
+      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
+      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
+      "prix_base": 122000,
+      "prix_comparaison": 125000,
+      "variation": 3000
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
+      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
+      "prix_base": 349000,
+      "prix_comparaison": 357000,
+      "variation": 8000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1287000,
+      "prix_comparaison": 1314000,
+      "variation": 27000
+    },
+    {
+      "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1476000,
+      "prix_comparaison": 1507000,
+      "variation": 31000
+    },
+    {
+      "cle": "televiseursetsupports_14835continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb_html",
+      "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
+      "prix_base": 1524000,
+      "prix_comparaison": 1556000,
+      "variation": 32000
+    },
+    {
       "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
       "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
       "prix_base": 1525000,
       "prix_comparaison": 1561000,
       "variation": 36000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1981000,
+      "prix_comparaison": 2022000,
+      "variation": 41000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1981000,
+      "prix_comparaison": 2022000,
+      "variation": 41000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 1981000,
+      "prix_comparaison": 2022000,
+      "variation": 41000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2110000,
+      "prix_comparaison": 2154000,
+      "variation": 44000
     },
     {
       "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
@@ -15,11 +92,53 @@
       "variation": 45000
     },
     {
+      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
+      "name": "iPhone 13 128Go Midnight",
+      "prix_base": 2964000,
+      "prix_comparaison": 3026000,
+      "variation": 62000
+    },
+    {
       "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
       "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
       "prix_base": 3175000,
       "prix_comparaison": 3242000,
       "variation": 67000
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4027000,
+      "prix_comparaison": 4094000,
+      "variation": 67000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 3960000,
+      "prix_comparaison": 4042000,
+      "variation": 82000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 3960000,
+      "prix_comparaison": 4044000,
+      "variation": 84000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5106000,
+      "prix_comparaison": 5212000,
+      "variation": 106000
+    },
+    {
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5491000,
+      "prix_comparaison": 5605000,
+      "variation": 114000
     },
     {
       "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
@@ -30,6 +149,76 @@
     }
   ],
   "indice de prix": [
+    {
+      "cle": "produitsnettoyantscuisines_13849cremearecurercitron750mltopbudget_html",
+      "name": "Cr\u00e8me \u00e0 r\u00e9curer citron 750ml",
+      "prix_base": 5500,
+      "prix_comparaison": 4900,
+      "indice_prix": 89.0909090909091
+    },
+    {
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5269000,
+      "prix_comparaison": 5027000,
+      "indice_prix": 95.4070981210856
+    },
+    {
+      "cle": "montresbraceletsconnectes_14807applewatchultra2gpscellular49mmboitiertitaniumbraceletindigoalpineloopmedium_html",
+      "name": "Apple Watch Ultra 2 GPS + Cellular- 49mm - Bo\u00eetier Titanium - Bracelet Indigo Alpine Loop - Medium",
+      "prix_base": 4027000,
+      "prix_comparaison": 4094000,
+      "indice_prix": 101.66376955550037
+    },
+    {
+      "cle": "montresbraceletsconnectes_14801applewatchseries9gps41mmboitiersilveraluminiumbraceletstormbluesportbandsm_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Storm Blue Sport Band - S/M",
+      "prix_base": 1981000,
+      "prix_comparaison": 2022000,
+      "indice_prix": 102.06966178697627
+    },
+    {
+      "cle": "montresbraceletsconnectes_14803applewatchseries9gps41mmboitiersilveraluminiumbraceletwinterbluesportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bo\u00eetier Silver Aluminium - Bracelet Winter Blue Sport Loop",
+      "prix_base": 1981000,
+      "prix_comparaison": 2022000,
+      "indice_prix": 102.06966178697627
+    },
+    {
+      "cle": "montresbraceletsconnectes_14805applewatchseries9gps41mmboitiermidnightaluminiumbraceletmidnightsportloop_html",
+      "name": "Apple Watch Series 9 GPS - 41mm - Bracelet Midnight Sport Loop",
+      "prix_base": 1981000,
+      "prix_comparaison": 2022000,
+      "indice_prix": 102.06966178697627
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14637iphone15128gbnoir_html",
+      "name": "iPhone 15 128GB Noir",
+      "prix_base": 3960000,
+      "prix_comparaison": 4042000,
+      "indice_prix": 102.07070707070707
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5106000,
+      "prix_comparaison": 5212000,
+      "indice_prix": 102.07598903251078
+    },
+    {
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5491000,
+      "prix_comparaison": 5605000,
+      "indice_prix": 102.07612456747405
+    },
+    {
+      "cle": "montresbraceletsconnectes_14804applewatchseries9gps45mmboitierpinkaluminiumbraceletlightpinksportloop_html",
+      "name": "Apple Watch Series 9 GPS - 45mm - Bo\u00eetier Pink Aluminium - Bracelet Light Pink Sport Loop",
+      "prix_base": 2110000,
+      "prix_comparaison": 2154000,
+      "indice_prix": 102.08530805687204
+    },
     {
       "cle": "tablettestactilesliseuses_14708appleipad2021102wifi64gogrissideral_html",
       "name": "Apple - iPad (2021) - 10,2 - WiFi - 64 Go - Gris Sid\u00e9ral",
@@ -45,6 +234,34 @@
       "indice_prix": 102.08678370321299
     },
     {
+      "cle": "telephonieetobjetsconnectes_14640iphone13128gomidnight_html",
+      "name": "iPhone 13 128Go Midnight",
+      "prix_base": 2964000,
+      "prix_comparaison": 3026000,
+      "indice_prix": 102.09176788124157
+    },
+    {
+      "cle": "montresbraceletsconnectes_14797applewatchsegps40mmboitierstarlightaluminiumbraceletstarlightsportbandsm_html",
+      "name": "Apple Watch SE GPS - 40mm - Bo\u00eetier Starlight Aluminium - Bracelet Starlight Sport Band - S/M",
+      "prix_base": 1287000,
+      "prix_comparaison": 1314000,
+      "indice_prix": 102.0979020979021
+    },
+    {
+      "cle": "televiseursetsupports_14835continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb_html",
+      "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
+      "prix_base": 1524000,
+      "prix_comparaison": 1556000,
+      "indice_prix": 102.0997375328084
+    },
+    {
+      "cle": "smartphones_14644samsunggalaxya335g128gonoir_html",
+      "name": "SAMSUNG Galaxy A33 5G 128Go Noir",
+      "prix_base": 1476000,
+      "prix_comparaison": 1507000,
+      "indice_prix": 102.10027100271003
+    },
+    {
       "cle": "tablettestactilesliseuses_14629appleipad2021102wifi256gogrissidral_html",
       "name": "Apple - iPad (2021) - 10,2 WiFi - 256 Go - Gris Sid\u00e9ral",
       "prix_base": 3175000,
@@ -52,11 +269,32 @@
       "indice_prix": 102.11023622047244
     },
     {
+      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 3960000,
+      "prix_comparaison": 4044000,
+      "indice_prix": 102.12121212121212
+    },
+    {
+      "cle": "accessoiresjeuxvideos_14849manettexboxsansfilbluetoothdeeppinkxboxseriesxsxboxonepcwindows10telephonesiosetandroid_html",
+      "name": "Manette Xbox sans fil - Bluetooth - Deep Pink - Xbox SeriesX|S, Xbox One, PC Windows 10, t\u00e9l\u00e9phones iOS et Android",
+      "prix_base": 349000,
+      "prix_comparaison": 357000,
+      "indice_prix": 102.29226361031519
+    },
+    {
       "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
       "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
       "prix_base": 1525000,
       "prix_comparaison": 1561000,
       "indice_prix": 102.36065573770492
+    },
+    {
+      "cle": "casquesecouteurs_14869appleecouteursearpodsusbc_html",
+      "name": "APPLE \u00c9couteurs EarPods (USB-C)",
+      "prix_base": 122000,
+      "prix_comparaison": 125000,
+      "indice_prix": 102.45901639344262
     }
   ]
 }

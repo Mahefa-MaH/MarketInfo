@@ -2,47 +2,27 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **SAMSUNG Galaxy S24 Plus 512 Go Indigo**
-   - Prix avant: 5,491,000 Ar
-   - Prix actuel: 5,605,000 Ar
-   - Variation: +114,000 Ar
+1. **PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows**
+   - Prix avant: 6,541,000 Ar
+   - Prix actuel: 6,709,000 Ar
+   - Variation: +168,000 Ar
 
-2. **iPhone 15 Pro 128GB Natural Titanium**
-   - Prix avant: 5,106,000 Ar
-   - Prix actuel: 5,212,000 Ar
-   - Variation: +106,000 Ar
-
-3. **Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-rsistante**
-   - Prix avant: 1,214,000 Ar
-   - Prix actuel: 1,307,000 Ar
-   - Variation: +93,000 Ar
-
-4. **Iphone 15 128GB Rose**
-   - Prix avant: 3,960,000 Ar
-   - Prix actuel: 4,044,000 Ar
-   - Variation: +84,000 Ar
+2. **PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11**
+   - Prix avant: 6,911,000 Ar
+   - Prix actuel: 7,055,000 Ar
+   - Variation: +144,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **SAMSUNG Galaxy S24 Plus 256 Go Argent**
+1. **TCL 40SF540 - TV LED 40 (101 cm) - Full HD 1980 x 1080 - TV connecté FIRE TV - HDR - 2 x HDMI**
+   - Prix avant: 1,658,000 Ar
+   - Prix actuel: 1,237,000 Ar
+   - Variation: -421,000 Ar
+
+2. **SAMSUNG Galaxy S24 Plus 256 Go Argent**
    - Prix avant: 5,269,000 Ar
    - Prix actuel: 5,027,000 Ar
    - Variation: -242,000 Ar
-
-2. **Chips nature 200g**
-   - Prix avant: 8,900 Ar
-   - Prix actuel: 6,900 Ar
-   - Variation: -2,000 Ar
-
-3. **Chips craquantes 150g**
-   - Prix avant: 7,500 Ar
-   - Prix actuel: 5,900 Ar
-   - Variation: -1,600 Ar
-
-4. **Tablette de Chocolat Blanc 75g**
-   - Prix avant: 8,100 Ar
-   - Prix actuel: 8,200 Ar
-   - Variation: +100 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
@@ -56,35 +36,15 @@
    - Prix actuel: 162,500 Ar
    - Indice de prix : 134.30
 
-3. **Cacao Rob quick Robert 150g**
-   - Prix avant: 4,900 Ar
-   - Prix actuel: 5,900 Ar
-   - Indice de prix : 120.41
-
-4. **Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-rsistante**
-   - Prix avant: 1,214,000 Ar
-   - Prix actuel: 1,307,000 Ar
-   - Indice de prix : 107.66
-
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Chips nature 200g**
+1. **TCL 40SF540 - TV LED 40 (101 cm) - Full HD 1980 x 1080 - TV connecté FIRE TV - HDR - 2 x HDMI**
+   - Prix avant: 1,658,000 Ar
+   - Prix actuel: 1,237,000 Ar
+   - Indice de prix : 74.61
+
+2. **Chips nature 200g**
    - Prix avant: 8,900 Ar
    - Prix actuel: 6,900 Ar
    - Indice de prix : 77.53
-
-2. **Chips craquantes 150g**
-   - Prix avant: 7,500 Ar
-   - Prix actuel: 5,900 Ar
-   - Indice de prix : 78.67
-
-3. **SAMSUNG Galaxy S24 Plus 256 Go Argent**
-   - Prix avant: 5,269,000 Ar
-   - Prix actuel: 5,027,000 Ar
-   - Indice de prix : 95.41
-
-4. **Tablette de Chocolat Blanc 75g**
-   - Prix avant: 8,100 Ar
-   - Prix actuel: 8,200 Ar
-   - Indice de prix : 101.23
 

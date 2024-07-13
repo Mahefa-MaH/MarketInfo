@@ -1,62 +1,34 @@
 {
   "prix_augmentes": [
     {
-      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
-      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
-      "prix_base": 5491000,
-      "prix_comparaison": 5605000,
-      "variation": 114000
+      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
+      "prix_base": 6541000,
+      "prix_comparaison": 6709000,
+      "variation": 168000
     },
     {
-      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
-      "name": "iPhone 15 Pro 128GB Natural Titanium",
-      "prix_base": 5106000,
-      "prix_comparaison": 5212000,
-      "variation": 106000
-    },
-    {
-      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
-      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
-      "prix_base": 1214000,
-      "prix_comparaison": 1307000,
-      "variation": 93000
-    },
-    {
-      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
-      "name": "Iphone 15 128GB Rose",
-      "prix_base": 3960000,
-      "prix_comparaison": 4044000,
-      "variation": 84000
+      "cle": "ordinateursportables_14623pcportablegamerasustufgaminga17173fhdrtx40608goamdryzen77735hsram16go512gossdwin11_html",
+      "name": "PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11",
+      "prix_base": 6911000,
+      "prix_comparaison": 7055000,
+      "variation": 144000
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "televiseursetsupports_14839tcl40sf540tvled40101cmfullhd1980x1080tvconnectefiretvhdr2xhdmi_html",
+      "name": "TCL 40SF540 - TV LED 40 (101 cm) - Full HD 1980 x 1080 - TV connect\u00e9 FIRE TV - HDR - 2 x HDMI",
+      "prix_base": 1658000,
+      "prix_comparaison": 1237000,
+      "variation": -421000
+    },
     {
       "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
       "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
       "prix_base": 5269000,
       "prix_comparaison": 5027000,
       "variation": -242000
-    },
-    {
-      "cle": "chips_14315chipsnature200g_html",
-      "name": "Chips nature 200g",
-      "prix_base": 8900,
-      "prix_comparaison": 6900,
-      "variation": -2000
-    },
-    {
-      "cle": "chips_12637chipscraquantes150gboutondor_html",
-      "name": "Chips craquantes 150g",
-      "prix_base": 7500,
-      "prix_comparaison": 5900,
-      "variation": -1600
-    },
-    {
-      "cle": "tablettesdechocolat_2034tablettedechocolatblanc7575grsrobert_html",
-      "name": "Tablette de Chocolat Blanc 75g",
-      "prix_base": 8100,
-      "prix_comparaison": 8200,
-      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
@@ -73,50 +45,22 @@
       "prix_base": 121000,
       "prix_comparaison": 162500,
       "indice_prix": 134.29752066115702
-    },
-    {
-      "cle": "boissonsinstantanees_1476robquickrobertensachet_html",
-      "name": "Cacao Rob quick Robert 150g",
-      "prix_base": 4900,
-      "prix_comparaison": 5900,
-      "indice_prix": 120.40816326530613
-    },
-    {
-      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
-      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
-      "prix_base": 1214000,
-      "prix_comparaison": 1307000,
-      "indice_prix": 107.66062602965404
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "televiseursetsupports_14839tcl40sf540tvled40101cmfullhd1980x1080tvconnectefiretvhdr2xhdmi_html",
+      "name": "TCL 40SF540 - TV LED 40 (101 cm) - Full HD 1980 x 1080 - TV connect\u00e9 FIRE TV - HDR - 2 x HDMI",
+      "prix_base": 1658000,
+      "prix_comparaison": 1237000,
+      "indice_prix": 74.60796139927623
+    },
     {
       "cle": "chips_14315chipsnature200g_html",
       "name": "Chips nature 200g",
       "prix_base": 8900,
       "prix_comparaison": 6900,
       "indice_prix": 77.52808988764045
-    },
-    {
-      "cle": "chips_12637chipscraquantes150gboutondor_html",
-      "name": "Chips craquantes 150g",
-      "prix_base": 7500,
-      "prix_comparaison": 5900,
-      "indice_prix": 78.66666666666667
-    },
-    {
-      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
-      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
-      "prix_base": 5269000,
-      "prix_comparaison": 5027000,
-      "indice_prix": 95.4070981210856
-    },
-    {
-      "cle": "tablettesdechocolat_2034tablettedechocolatblanc7575grsrobert_html",
-      "name": "Tablette de Chocolat Blanc 75g",
-      "prix_base": 8100,
-      "prix_comparaison": 8200,
-      "indice_prix": 101.23456790123457
     }
   ]
 }
