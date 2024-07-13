@@ -1,94 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 6541000,
-      "prix_comparaison": 6709000,
-      "variation": 168000
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5491000,
+      "prix_comparaison": 5605000,
+      "variation": 114000
     },
     {
-      "cle": "ordinateursportables_14623pcportablegamerasustufgaminga17173fhdrtx40608goamdryzen77735hsram16go512gossdwin11_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11",
-      "prix_base": 6911000,
-      "prix_comparaison": 7055000,
-      "variation": 144000
+      "cle": "telephonieetobjetsconnectes_14636iphone15pro128gbnaturaltitanium_html",
+      "name": "iPhone 15 Pro 128GB Natural Titanium",
+      "prix_base": 5106000,
+      "prix_comparaison": 5212000,
+      "variation": 106000
     },
     {
-      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 6038000,
-      "prix_comparaison": 6164000,
-      "variation": 126000
+      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
+      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
+      "prix_base": 1214000,
+      "prix_comparaison": 1307000,
+      "variation": 93000
+    },
+    {
+      "cle": "telephonieetobjetsconnectes_14666iphone15128gbrose_html",
+      "name": "Iphone 15 128GB Rose",
+      "prix_base": 3960000,
+      "prix_comparaison": 4044000,
+      "variation": 84000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "sourisetclaviers_14611combogaming3en1claviergamingetsourisgamingrtroclairtapisdesouristheglabcomboyttrium_html",
-      "name": "Combo Gaming 3 en 1- Clavier gaming et souris gaming r\u00e9tro\u00e9clair\u00e9\u008e + Tapis de souris - THE G-LAB - COMBO YTTRIUM",
-      "prix_base": 219000,
-      "prix_comparaison": 224000,
-      "variation": 5000
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5269000,
+      "prix_comparaison": 5027000,
+      "variation": -242000
     },
     {
-      "cle": "sourisetclaviers_14609logitechensembleclavieretsourismk850performancemk850sansfil_html",
-      "name": "Logitech Ensemble Clavier et Souris MK850 Performance MK850 - sans fil",
-      "prix_base": 643000,
-      "prix_comparaison": 656000,
-      "variation": 13000
+      "cle": "chips_14315chipsnature200g_html",
+      "name": "Chips nature 200g",
+      "prix_base": 8900,
+      "prix_comparaison": 6900,
+      "variation": -2000
     },
     {
-      "cle": "tablettestactilesliseuses_14628tablettetactiletcltab10gen2104ram4gostockage64gowifigrisfonc_html",
-      "name": "Tablette Tactile - TCL - TAB 10 GEN 2 - 10,4 - RAM 4 Go - Stockage 64 Go - Wifi - Gris fonc",
-      "prix_base": 906000,
-      "prix_comparaison": 925000,
-      "variation": 19000
+      "cle": "chips_12637chipscraquantes150gboutondor_html",
+      "name": "Chips craquantes 150g",
+      "prix_base": 7500,
+      "prix_comparaison": 5900,
+      "variation": -1600
+    },
+    {
+      "cle": "tablettesdechocolat_2034tablettedechocolatblanc7575grsrobert_html",
+      "name": "Tablette de Chocolat Blanc 75g",
+      "prix_base": 8100,
+      "prix_comparaison": 8200,
+      "variation": 100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 6541000,
-      "prix_comparaison": 6709000,
-      "indice_prix": 102.56841461550222
+      "cle": "boissonsinstantanees_259cacaopoudrerobquickpur100350g_html",
+      "name": "Cacao poudre Rob Quick PUR 100% 350g",
+      "prix_base": 15500,
+      "prix_comparaison": 22900,
+      "indice_prix": 147.74193548387098
     },
     {
-      "cle": "ordinateursdebureau_14827ecranpcgamersamsungodysseyg5s27cg510eu27wqhddalleva1ms165hzhdmidpfreesyncpremium_html",
-      "name": "Ecran PC Gamer - SAMSUNG - ODYSSEY G5 S27CG510EU - 27 WQHD - Dalle VA - 1 ms - 165 Hz - HDMI / DP - FreeSync Premium",
-      "prix_base": 1525000,
-      "prix_comparaison": 1561000,
-      "indice_prix": 102.36065573770492
+      "cle": "boissonsinstantanees_4713cacaopoudresachet2500g_html",
+      "name": "Cacao poudre sachet 2500g",
+      "prix_base": 121000,
+      "prix_comparaison": 162500,
+      "indice_prix": 134.29752066115702
     },
     {
-      "cle": "sourisetclaviers_14611combogaming3en1claviergamingetsourisgamingrtroclairtapisdesouristheglabcomboyttrium_html",
-      "name": "Combo Gaming 3 en 1- Clavier gaming et souris gaming r\u00e9tro\u00e9clair\u00e9\u008e + Tapis de souris - THE G-LAB - COMBO YTTRIUM",
-      "prix_base": 219000,
-      "prix_comparaison": 224000,
-      "indice_prix": 102.28310502283105
+      "cle": "boissonsinstantanees_1476robquickrobertensachet_html",
+      "name": "Cacao Rob quick Robert 150g",
+      "prix_base": 4900,
+      "prix_comparaison": 5900,
+      "indice_prix": 120.40816326530613
+    },
+    {
+      "cle": "coiffure_14664lisseurvapeurlorealprofessionnelsteampod30avectroussethermorsistante_html",
+      "name": "Lisseur vapeur L'OREAL PROFESSIONNEL SteamPod 3.0 - avec trousse Thermo-r\u008esistante",
+      "prix_base": 1214000,
+      "prix_comparaison": 1307000,
+      "indice_prix": 107.66062602965404
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "sourisetclaviers_14609logitechensembleclavieretsourismk850performancemk850sansfil_html",
-      "name": "Logitech Ensemble Clavier et Souris MK850 Performance MK850 - sans fil",
-      "prix_base": 643000,
-      "prix_comparaison": 656000,
-      "indice_prix": 102.02177293934682
+      "cle": "chips_14315chipsnature200g_html",
+      "name": "Chips nature 200g",
+      "prix_base": 8900,
+      "prix_comparaison": 6900,
+      "indice_prix": 77.52808988764045
     },
     {
-      "cle": "ordinateursdebureau_14617ecranpcgamerphilips242e1gaj24fhd144hzdalleva1ms144hzdphdmivgahautparleurs_html",
-      "name": "Ecran PC gamer - PHILIPS - 242E1GAJ - 24FHD - 144Hz - Dalle VA - 1 ms - 144Hz - DP/HDMI/VGA - Haut-Parleurs",
-      "prix_base": 1031000,
-      "prix_comparaison": 1052000,
-      "indice_prix": 102.0368574199806
+      "cle": "chips_12637chipscraquantes150gboutondor_html",
+      "name": "Chips craquantes 150g",
+      "prix_base": 7500,
+      "prix_comparaison": 5900,
+      "indice_prix": 78.66666666666667
     },
     {
-      "cle": "ordinateursportables_14821pcportablelenovoultrathin1515fhd300nintelcorei713620hram16goddr5ssd1tosanswindowsazerty_html",
-      "name": "PC Portable Lenovo Ultrathin 15 | 15'' FHD 300N - Intel Core i7-13620H - RAM 16Go DDR5 - SSD 1To - Sans Windows - AZERTY",
-      "prix_base": 3588000,
-      "prix_comparaison": 3662000,
-      "indice_prix": 102.06243032329989
+      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
+      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
+      "prix_base": 5269000,
+      "prix_comparaison": 5027000,
+      "indice_prix": 95.4070981210856
+    },
+    {
+      "cle": "tablettesdechocolat_2034tablettedechocolatblanc7575grsrobert_html",
+      "name": "Tablette de Chocolat Blanc 75g",
+      "prix_base": 8100,
+      "prix_comparaison": 8200,
+      "indice_prix": 101.23456790123457
     }
   ]
 }
