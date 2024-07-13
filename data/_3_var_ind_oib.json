@@ -13,6 +13,20 @@
       "prix_base": 6911000,
       "prix_comparaison": 7055000,
       "variation": 144000
+    },
+    {
+      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
+      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 6038000,
+      "prix_comparaison": 6164000,
+      "variation": 126000
+    },
+    {
+      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
+      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
+      "prix_base": 5491000,
+      "prix_comparaison": 5605000,
+      "variation": 114000
     }
   ],
   "prix_diminues": [
@@ -29,6 +43,20 @@
       "prix_base": 5269000,
       "prix_comparaison": 5027000,
       "variation": -242000
+    },
+    {
+      "cle": "televiseursetsupports_14606hisense43a6ktvled43108cmuhd4kdolbyvisionsmarttv3xhdmi_html",
+      "name": "HISENSE 43A6K - TV LED 43(108cm) - UHD 4K - Dolby Vision - Smart TV - 3 x HDMI",
+      "prix_base": 2361000,
+      "prix_comparaison": 2251000,
+      "variation": -110000
+    },
+    {
+      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
+      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
+      "prix_base": 312000,
+      "prix_comparaison": 304000,
+      "variation": -8000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -45,6 +73,20 @@
       "prix_base": 121000,
       "prix_comparaison": 162500,
       "indice_prix": 134.29752066115702
+    },
+    {
+      "cle": "boissonsinstantanees_1476robquickrobertensachet_html",
+      "name": "Cacao Rob quick Robert 150g",
+      "prix_base": 4900,
+      "prix_comparaison": 5900,
+      "indice_prix": 120.40816326530613
+    },
+    {
+      "cle": "beurres_14233beurregastronomiqueenplaquettedoux80200g_html",
+      "name": "Beurre gastronomique doux 80% 200g",
+      "prix_base": 21500,
+      "prix_comparaison": 23500,
+      "indice_prix": 109.30232558139535
     }
   ],
   "indices_prix_plus_faibles": [
@@ -61,6 +103,20 @@
       "prix_base": 8900,
       "prix_comparaison": 6900,
       "indice_prix": 77.52808988764045
+    },
+    {
+      "cle": "chips_12637chipscraquantes150gboutondor_html",
+      "name": "Chips craquantes 150g",
+      "prix_base": 7500,
+      "prix_comparaison": 5900,
+      "indice_prix": 78.66666666666667
+    },
+    {
+      "cle": "beurres_2114beurresocolaitdemisel200g_html",
+      "name": "Beurre demi sel Socolait 200g",
+      "prix_base": 13500,
+      "prix_comparaison": 10900,
+      "indice_prix": 80.74074074074075
     }
   ]
 }
