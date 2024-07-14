@@ -8,3 +8,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
+2. **Haricots Rouges séchés 1kg | Tsaramaso mena maina**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 8,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
