@@ -8,9 +8,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz rouge Malgache Supermarché.mg™ 50kg | Vary mena | Origine Madagascar**
-   - Prix avant: 199,500 Ar
-   - Prix actuel: 199,500 Ar
+2. **Haricots Rouges séchés 1kg | Tsaramaso mena maina**
+   - Prix avant: 8,000 Ar
+   - Prix actuel: 8,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
