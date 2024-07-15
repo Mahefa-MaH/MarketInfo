@@ -3,8 +3,8 @@
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre blanc 1 kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,200 Ar
+   - Prix avant: 7,950 Ar
+   - Prix actuel: 7,950 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
