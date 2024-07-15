@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz rouge complet 5kg**
-   - Prix avant: 18,990 Ar
-   - Prix actuel: 18,990 Ar
+2. **Riz blanc diamante 5Kg**
+   - Prix avant: 19,300 Ar
+   - Prix actuel: 19,300 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc en morceaux 1kg**
-   - Prix avant: 13,900 Ar
-   - Prix actuel: 13,900 Ar
+3. **Riz gasy mena  1kg**
+   - Prix avant: 4,250 Ar
+   - Prix actuel: 4,250 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

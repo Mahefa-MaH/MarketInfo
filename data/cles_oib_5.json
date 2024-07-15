@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "sucres_13804sucreenpoudre1kg_html",
-      "name": "Sucre blanc en poudre 1kg",
-      "prix_base": 11500,
-      "prix_comparaison": 11500,
+      "cle": "riz_9403rizgasysacde1kg_html",
+      "name": "Riz gasy sac de 1kg",
+      "prix_base": 4490,
+      "prix_comparaison": 4490,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "sucres_4881sucreblancfana1kg_html",
-      "name": "Sucre blanc Fana 1kg",
-      "prix_base": 6900,
-      "prix_comparaison": 6900,
+      "cle": "riz_11443rizmakalioka1kg_html",
+      "name": "Riz makalioka 1kg",
+      "prix_base": 4350,
+      "prix_comparaison": 4350,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "nettoyantetdetartrant_3265impecdetartrantmenagerrouge1lx12_html",
-      "name": "D\u00e9tartrant m\u00e9nager rouge 1L",
-      "prix_base": 3890,
-      "prix_comparaison": 3890,
+      "cle": "riz_7290rizblancdelitasy25kg_html",
+      "name": "Riz blanc de l'Itasy 25kg",
+      "prix_base": 92000,
+      "prix_comparaison": 92000,
       "variation": 0,
       "indice_prix": 100.0
     }

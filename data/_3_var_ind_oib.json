@@ -1,150 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "ordinateursportables_14809pcportablegamerasustufgaminga15156fhd144hzrtx40608goamdryzen77735hsram16go512gossdsanswindows_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A15 | 15,6 FHD 144Hz - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Sans Windows",
-      "prix_base": 6541000,
-      "prix_comparaison": 6709000,
-      "variation": 168000
-    },
-    {
-      "cle": "ordinateursportables_14623pcportablegamerasustufgaminga17173fhdrtx40608goamdryzen77735hsram16go512gossdwin11_html",
-      "name": "PC Portable Gamer ASUS TUF Gaming A17 | 17,3 FHD - RTX 4060 8Go - AMD Ryzen 7 7735HS - RAM 16Go - 512Go SSD - Win 11",
-      "prix_base": 6911000,
-      "prix_comparaison": 7055000,
-      "variation": 144000
-    },
-    {
-      "cle": "ordinateursportables_14624apple136macbookairm2ram8gostockage256golumierestellaireazerty_html",
-      "name": "Apple - 13,6 MacBook Air M2 - RAM 8Go - Stockage 256Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 6038000,
-      "prix_comparaison": 6164000,
-      "variation": 126000
-    },
-    {
-      "cle": "smartphones_14842samsunggalaxys24plus512goindigo_html",
-      "name": "SAMSUNG Galaxy S24 Plus 512 Go Indigo",
-      "prix_base": 5491000,
-      "prix_comparaison": 5605000,
-      "variation": 114000
-    },
-    {
-      "cle": "televiseursetsupports_14838televiseur4kminiqledtcl55c803144hznatifgoogletvtcl_html",
-      "name": "T\u00e9l\u00e9viseur 4K MINI QLED TCL 55C803 - 144HZ NATIF GOOGLE TV TCL",
-      "prix_base": 5095000,
-      "prix_comparaison": 5202000,
-      "variation": 107000
+      "cle": "papiersetfilmsalimentaires_15741filmalimentaireetirable50metres_html",
+      "name": "Film alimentaire \u00e9tirable 50 m\u00e8tres",
+      "prix_base": 5500,
+      "prix_comparaison": 6500,
+      "variation": 1000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "televiseursetsupports_14839tcl40sf540tvled40101cmfullhd1980x1080tvconnectefiretvhdr2xhdmi_html",
-      "name": "TCL 40SF540 - TV LED 40 (101 cm) - Full HD 1980 x 1080 - TV connect\u00e9 FIRE TV - HDR - 2 x HDMI",
-      "prix_base": 1658000,
-      "prix_comparaison": 1237000,
-      "variation": -421000
-    },
-    {
-      "cle": "smartphones_14843samsunggalaxys24plus256goargent_html",
-      "name": "SAMSUNG Galaxy S24 Plus 256 Go Argent",
-      "prix_base": 5269000,
-      "prix_comparaison": 5027000,
-      "variation": -242000
-    },
-    {
-      "cle": "televiseursetsupports_14606hisense43a6ktvled43108cmuhd4kdolbyvisionsmarttv3xhdmi_html",
-      "name": "HISENSE 43A6K - TV LED 43(108cm) - UHD 4K - Dolby Vision - Smart TV - 3 x HDMI",
-      "prix_base": 2361000,
-      "prix_comparaison": 2251000,
-      "variation": -110000
-    },
-    {
-      "cle": "enceintesbluetooth_14878enceintebluetoothbigbenpartytaillemavecportsusbetcartemicrosd_html",
-      "name": "Enceinte Bluetooth BIGBEN Party - Taille M avec ports USB et carte micro SD",
-      "prix_base": 312000,
-      "prix_comparaison": 304000,
-      "variation": -8000
-    },
-    {
-      "cle": "beurres_2114beurresocolaitdemisel200g_html",
-      "name": "Beurre demi sel Socolait 200g",
-      "prix_base": 13500,
-      "prix_comparaison": 10900,
-      "variation": -2600
+      "cle": "papiersetfilmsalimentaires_15741filmalimentaireetirable50metres_html",
+      "name": "Film alimentaire \u00e9tirable 50 m\u00e8tres",
+      "prix_base": 5500,
+      "prix_comparaison": 6500,
+      "variation": 1000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "boissonsinstantanees_259cacaopoudrerobquickpur100350g_html",
-      "name": "Cacao poudre Rob Quick PUR 100% 350g",
-      "prix_base": 15500,
-      "prix_comparaison": 22900,
-      "indice_prix": 147.74193548387098
-    },
-    {
-      "cle": "boissonsinstantanees_4713cacaopoudresachet2500g_html",
-      "name": "Cacao poudre sachet 2500g",
-      "prix_base": 121000,
-      "prix_comparaison": 162500,
-      "indice_prix": 134.29752066115702
-    },
-    {
-      "cle": "boissonsinstantanees_1476robquickrobertensachet_html",
-      "name": "Cacao Rob quick Robert 150g",
-      "prix_base": 4900,
-      "prix_comparaison": 5900,
-      "indice_prix": 120.40816326530613
-    },
-    {
-      "cle": "beurres_14233beurregastronomiqueenplaquettedoux80200g_html",
-      "name": "Beurre gastronomique doux 80% 200g",
-      "prix_base": 21500,
-      "prix_comparaison": 23500,
-      "indice_prix": 109.30232558139535
-    },
-    {
-      "cle": "beurres_15651beurredouxleger20enbarquette250g_html",
-      "name": "Beurre doux l\u00e9ger 20% en barquette 250g",
-      "prix_base": 22900,
-      "prix_comparaison": 25000,
-      "indice_prix": 109.17030567685589
+      "cle": "papiersetfilmsalimentaires_15741filmalimentaireetirable50metres_html",
+      "name": "Film alimentaire \u00e9tirable 50 m\u00e8tres",
+      "prix_base": 5500,
+      "prix_comparaison": 6500,
+      "indice_prix": 118.18181818181819
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "televiseursetsupports_14839tcl40sf540tvled40101cmfullhd1980x1080tvconnectefiretvhdr2xhdmi_html",
-      "name": "TCL 40SF540 - TV LED 40 (101 cm) - Full HD 1980 x 1080 - TV connect\u00e9 FIRE TV - HDR - 2 x HDMI",
-      "prix_base": 1658000,
-      "prix_comparaison": 1237000,
-      "indice_prix": 74.60796139927623
-    },
-    {
-      "cle": "chips_14315chipsnature200g_html",
-      "name": "Chips nature 200g",
-      "prix_base": 8900,
-      "prix_comparaison": 6900,
-      "indice_prix": 77.52808988764045
-    },
-    {
-      "cle": "chips_12637chipscraquantes150gboutondor_html",
-      "name": "Chips craquantes 150g",
-      "prix_base": 7500,
-      "prix_comparaison": 5900,
-      "indice_prix": 78.66666666666667
-    },
-    {
-      "cle": "beurres_2114beurresocolaitdemisel200g_html",
-      "name": "Beurre demi sel Socolait 200g",
-      "prix_base": 13500,
-      "prix_comparaison": 10900,
-      "indice_prix": 80.74074074074075
-    },
-    {
-      "cle": "beurres_2113beurredouxsocolait200g_html",
-      "name": "Beurre doux Socolait 200g",
-      "prix_base": 13500,
-      "prix_comparaison": 10900,
-      "indice_prix": 80.74074074074075
+      "cle": "papiersetfilmsalimentaires_15741filmalimentaireetirable50metres_html",
+      "name": "Film alimentaire \u00e9tirable 50 m\u00e8tres",
+      "prix_base": 5500,
+      "prix_comparaison": 6500,
+      "indice_prix": 118.18181818181819
     }
   ]
 }
