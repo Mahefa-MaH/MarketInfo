@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 13764,
-      "prix_base": 604100,
-      "name": "Pompe \u00e0 eau 750W (1.0HP)",
-      "prix_comparaison": 710800,
-      "variation": 106700
-    },
-    {
-      "list_id": 13994,
-      "prix_base": 326700,
-      "name": "Pompe Eaux us\u00e9es submersibles 750 W (1,0 HP)",
-      "prix_comparaison": 384400,
-      "variation": 57700
-    },
-    {
-      "list_id": 13791,
-      "prix_base": 63500,
-      "name": "Combinaison de pluie Taille XL",
-      "prix_comparaison": 77200,
-      "variation": 13700
+      "list_id": 7196,
+      "prix_base": 11400,
+      "name": "Calculatrice 8 chiffres plastiques",
+      "prix_comparaison": 16100,
+      "variation": 4700
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 13790,
-      "prix_base": 63500,
-      "name": "Combinaison de pluie Taille L",
-      "prix_comparaison": 77199,
-      "variation": 13699
-    },
-    {
-      "list_id": 13791,
-      "prix_base": 63500,
-      "name": "Combinaison de pluie Taille XL",
-      "prix_comparaison": 77200,
-      "variation": 13700
-    },
-    {
-      "list_id": 13994,
-      "prix_base": 326700,
-      "name": "Pompe Eaux us\u00e9es submersibles 750 W (1,0 HP)",
-      "prix_comparaison": 384400,
-      "variation": 57700
+      "list_id": 7196,
+      "prix_base": 11400,
+      "name": "Calculatrice 8 chiffres plastiques",
+      "prix_comparaison": 16100,
+      "variation": 4700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 13791,
-      "name": "Combinaison de pluie Taille XL",
-      "prix_base": 63500,
-      "prix_comparaison": 77200,
-      "indice_prix": 121.5748031496063
-    },
-    {
-      "list_id": 13790,
-      "name": "Combinaison de pluie Taille L",
-      "prix_base": 63500,
-      "prix_comparaison": 77199,
-      "indice_prix": 121.57322834645669
-    },
-    {
-      "list_id": 13764,
-      "name": "Pompe \u00e0 eau 750W (1.0HP)",
-      "prix_base": 604100,
-      "prix_comparaison": 710800,
-      "indice_prix": 117.66263863598742
+      "list_id": 7196,
+      "name": "Calculatrice 8 chiffres plastiques",
+      "prix_base": 11400,
+      "prix_comparaison": 16100,
+      "indice_prix": 141.2280701754386
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 13994,
-      "name": "Pompe Eaux us\u00e9es submersibles 750 W (1,0 HP)",
-      "prix_base": 326700,
-      "prix_comparaison": 384400,
-      "indice_prix": 117.66146311600858
-    },
-    {
-      "list_id": 13764,
-      "name": "Pompe \u00e0 eau 750W (1.0HP)",
-      "prix_base": 604100,
-      "prix_comparaison": 710800,
-      "indice_prix": 117.66263863598742
-    },
-    {
-      "list_id": 13790,
-      "name": "Combinaison de pluie Taille L",
-      "prix_base": 63500,
-      "prix_comparaison": 77199,
-      "indice_prix": 121.57322834645669
+      "list_id": 7196,
+      "name": "Calculatrice 8 chiffres plastiques",
+      "prix_base": 11400,
+      "prix_comparaison": 16100,
+      "indice_prix": 141.2280701754386
     }
   ]
 }
