@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "papiersetfilmsalimentaires_15741filmalimentaireetirable50metres_html",
-      "name": "Film alimentaire \u00e9tirable 50 m\u00e8tres",
-      "prix_base": 5500,
-      "prix_comparaison": 6500,
+      "cle": "accessoiresdecoupe_121253couteauxeninoxtopbudget_html",
+      "name": "3 Couteaux en inox",
+      "prix_base": 6900,
+      "prix_comparaison": 7900,
       "variation": 1000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "papiersetfilmsalimentaires_15741filmalimentaireetirable50metres_html",
-      "name": "Film alimentaire \u00e9tirable 50 m\u00e8tres",
-      "prix_base": 5500,
-      "prix_comparaison": 6500,
+      "cle": "accessoiresdecoupe_121253couteauxeninoxtopbudget_html",
+      "name": "3 Couteaux en inox",
+      "prix_base": 6900,
+      "prix_comparaison": 7900,
       "variation": 1000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "papiersetfilmsalimentaires_15741filmalimentaireetirable50metres_html",
-      "name": "Film alimentaire \u00e9tirable 50 m\u00e8tres",
-      "prix_base": 5500,
-      "prix_comparaison": 6500,
-      "indice_prix": 118.18181818181819
+      "cle": "accessoiresdecoupe_121253couteauxeninoxtopbudget_html",
+      "name": "3 Couteaux en inox",
+      "prix_base": 6900,
+      "prix_comparaison": 7900,
+      "indice_prix": 114.4927536231884
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "papiersetfilmsalimentaires_15741filmalimentaireetirable50metres_html",
-      "name": "Film alimentaire \u00e9tirable 50 m\u00e8tres",
-      "prix_base": 5500,
-      "prix_comparaison": 6500,
-      "indice_prix": 118.18181818181819
+      "cle": "accessoiresdecoupe_121253couteauxeninoxtopbudget_html",
+      "name": "3 Couteaux en inox",
+      "prix_base": 6900,
+      "prix_comparaison": 7900,
+      "indice_prix": 114.4927536231884
     }
   ]
 }

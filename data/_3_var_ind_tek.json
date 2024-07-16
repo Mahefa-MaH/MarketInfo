@@ -6,15 +6,43 @@
       "name": "Calculatrice 8 chiffres plastiques",
       "prix_comparaison": 16100,
       "variation": 4700
+    },
+    {
+      "list_id": 5463,
+      "prix_base": 46500,
+      "name": "Seringues nasales bleu Boite de 2 pi\u00e8ces",
+      "prix_comparaison": 48600,
+      "variation": 2100
+    },
+    {
+      "list_id": 1760,
+      "prix_base": 14700,
+      "name": "CHIPS au sauce Barbecue 175 g",
+      "prix_comparaison": 16700,
+      "variation": 2000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 7196,
-      "prix_base": 11400,
-      "name": "Calculatrice 8 chiffres plastiques",
-      "prix_comparaison": 16100,
-      "variation": 4700
+      "list_id": 5440,
+      "prix_base": 84300,
+      "name": "Chambre d'inhalation masque pour enfants plus 6 ans",
+      "prix_comparaison": 83200,
+      "variation": -1100
+    },
+    {
+      "list_id": 5438,
+      "prix_base": 64800,
+      "name": "Mouche pour B\u00e9b\u00e9 par aspiration",
+      "prix_comparaison": 65900,
+      "variation": 1100
+    },
+    {
+      "list_id": 5207,
+      "prix_base": 3600,
+      "name": "Rouleaux matriciel blanc & rose 60 g",
+      "prix_comparaison": 4800,
+      "variation": 1200
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,15 +52,43 @@
       "prix_base": 11400,
       "prix_comparaison": 16100,
       "indice_prix": 141.2280701754386
+    },
+    {
+      "list_id": 5207,
+      "name": "Rouleaux matriciel blanc & rose 60 g",
+      "prix_base": 3600,
+      "prix_comparaison": 4800,
+      "indice_prix": 133.33333333333334
+    },
+    {
+      "list_id": 1760,
+      "name": "CHIPS au sauce Barbecue 175 g",
+      "prix_base": 14700,
+      "prix_comparaison": 16700,
+      "indice_prix": 113.60544217687075
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 7196,
-      "name": "Calculatrice 8 chiffres plastiques",
-      "prix_base": 11400,
-      "prix_comparaison": 16100,
-      "indice_prix": 141.2280701754386
+      "list_id": 5440,
+      "name": "Chambre d'inhalation masque pour enfants plus 6 ans",
+      "prix_base": 84300,
+      "prix_comparaison": 83200,
+      "indice_prix": 98.69513641755634
+    },
+    {
+      "list_id": 5438,
+      "name": "Mouche pour B\u00e9b\u00e9 par aspiration",
+      "prix_base": 64800,
+      "prix_comparaison": 65900,
+      "indice_prix": 101.69753086419753
+    },
+    {
+      "list_id": 5463,
+      "name": "Seringues nasales bleu Boite de 2 pi\u00e8ces",
+      "prix_base": 46500,
+      "prix_comparaison": 48600,
+      "indice_prix": 104.51612903225806
     }
   ]
 }
