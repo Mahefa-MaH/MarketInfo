@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_filetmignon500g_",
-      "name": "Filet mignon de Porc | 500g",
-      "prix_base": 14700,
-      "prix_comparaison": 17000,
-      "variation": 2300
+      "cle": "produit_fromageemmentalrapeleaderprice100g_",
+      "name": "Fromage Emmental Rap\u00e9 Valmartin\u2122 100g",
+      "prix_base": 11560,
+      "prix_comparaison": 14000,
+      "variation": 2440
     },
     {
-      "cle": "produit_cervelleboeuf500g_",
-      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
-      "prix_base": 8000,
-      "prix_comparaison": 10000,
-      "variation": 2000
-    },
-    {
-      "cle": "produit_filetdeboeuf500g_",
-      "name": "Filet de Boeuf environ 1,2Kg | 1 pi\u00e8ce",
-      "prix_base": 43200,
-      "prix_comparaison": 45000,
-      "variation": 1800
+      "cle": "produit_pateacrouteenviron300g_",
+      "name": "P\u00e2te \u00e0 Croute environ 300g",
+      "prix_base": 11600,
+      "prix_comparaison": 12069,
+      "variation": 469
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_filetdeboeuf500g_",
-      "name": "Filet de Boeuf environ 1,2Kg | 1 pi\u00e8ce",
-      "prix_base": 43200,
-      "prix_comparaison": 45000,
-      "variation": 1800
+      "cle": "produit_pateacrouteenviron300g_",
+      "name": "P\u00e2te \u00e0 Croute environ 300g",
+      "prix_base": 11600,
+      "prix_comparaison": 12069,
+      "variation": 469
     },
     {
-      "cle": "produit_cervelleboeuf500g_",
-      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
-      "prix_base": 8000,
-      "prix_comparaison": 10000,
-      "variation": 2000
-    },
-    {
-      "cle": "produit_filetmignon500g_",
-      "name": "Filet mignon de Porc | 500g",
-      "prix_base": 14700,
-      "prix_comparaison": 17000,
-      "variation": 2300
+      "cle": "produit_fromageemmentalrapeleaderprice100g_",
+      "name": "Fromage Emmental Rap\u00e9 Valmartin\u2122 100g",
+      "prix_base": 11560,
+      "prix_comparaison": 14000,
+      "variation": 2440
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_cervelleboeuf500g_",
-      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
-      "prix_base": 8000,
-      "prix_comparaison": 10000,
-      "indice_prix": 125.0
+      "cle": "produit_fromageemmentalrapeleaderprice100g_",
+      "name": "Fromage Emmental Rap\u00e9 Valmartin\u2122 100g",
+      "prix_base": 11560,
+      "prix_comparaison": 14000,
+      "indice_prix": 121.10726643598616
     },
     {
-      "cle": "produit_filetmignon500g_",
-      "name": "Filet mignon de Porc | 500g",
-      "prix_base": 14700,
-      "prix_comparaison": 17000,
-      "indice_prix": 115.64625850340136
-    },
-    {
-      "cle": "produit_filetdeboeuf500g_",
-      "name": "Filet de Boeuf environ 1,2Kg | 1 pi\u00e8ce",
-      "prix_base": 43200,
-      "prix_comparaison": 45000,
-      "indice_prix": 104.16666666666667
+      "cle": "produit_pateacrouteenviron300g_",
+      "name": "P\u00e2te \u00e0 Croute environ 300g",
+      "prix_base": 11600,
+      "prix_comparaison": 12069,
+      "indice_prix": 104.04310344827586
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_filetdeboeuf500g_",
-      "name": "Filet de Boeuf environ 1,2Kg | 1 pi\u00e8ce",
-      "prix_base": 43200,
-      "prix_comparaison": 45000,
-      "indice_prix": 104.16666666666667
+      "cle": "produit_pateacrouteenviron300g_",
+      "name": "P\u00e2te \u00e0 Croute environ 300g",
+      "prix_base": 11600,
+      "prix_comparaison": 12069,
+      "indice_prix": 104.04310344827586
     },
     {
-      "cle": "produit_filetmignon500g_",
-      "name": "Filet mignon de Porc | 500g",
-      "prix_base": 14700,
-      "prix_comparaison": 17000,
-      "indice_prix": 115.64625850340136
-    },
-    {
-      "cle": "produit_cervelleboeuf500g_",
-      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
-      "prix_base": 8000,
-      "prix_comparaison": 10000,
-      "indice_prix": 125.0
+      "cle": "produit_fromageemmentalrapeleaderprice100g_",
+      "name": "Fromage Emmental Rap\u00e9 Valmartin\u2122 100g",
+      "prix_base": 11560,
+      "prix_comparaison": 14000,
+      "indice_prix": 121.10726643598616
     }
   ]
 }
