@@ -8,17 +8,17 @@
       "variation": 15600
     },
     {
-      "cle": "detergentvaisselle_13843liquidevaissellecitron1ltopbudget_html",
-      "name": "Liquide vaisselle citron 1L",
-      "prix_base": 4500,
-      "prix_comparaison": 3900,
-      "variation": -600
+      "cle": "boissonsgazeusesauxfruits_13827limonadepet15ltopbudget_html",
+      "name": "Limonade pet  1,5L",
+      "prix_base": 3900,
+      "prix_comparaison": 3600,
+      "variation": -300
     },
     {
-      "cle": "biscuitsfourres_13927biscuitgoutersfourresparfumchocolat500gtopbudget_html",
-      "name": "Biscuit go\u00fbters fourr\u00e9s parfum chocolat 500g",
-      "prix_base": 13500,
-      "prix_comparaison": 12900,
+      "cle": "biscuitschocolatesfruites_13882assortimentdebiscuits500gtopbudget_html",
+      "name": "Assortiment de biscuits 500g",
+      "prix_base": 11500,
+      "prix_comparaison": 10900,
       "variation": -600
     },
     {
@@ -29,10 +29,10 @@
       "variation": -600
     },
     {
-      "cle": "biscuitschocolatesfruites_13882assortimentdebiscuits500gtopbudget_html",
-      "name": "Assortiment de biscuits 500g",
-      "prix_base": 11500,
-      "prix_comparaison": 10900,
+      "cle": "biscuitsfourres_13927biscuitgoutersfourresparfumchocolat500gtopbudget_html",
+      "name": "Biscuit go\u00fbters fourr\u00e9s parfum chocolat 500g",
+      "prix_base": 13500,
+      "prix_comparaison": 12900,
       "variation": -600
     }
   ],
@@ -43,6 +43,13 @@
       "prix_base": 62000,
       "prix_comparaison": 50000,
       "variation": -12000
+    },
+    {
+      "cle": "conservesdepoissons_10462thonaunaturel1kg_html",
+      "name": "Thon au naturel 1kg",
+      "prix_base": 45000,
+      "prix_comparaison": 35000,
+      "variation": -10000
     },
     {
       "cle": "conservesautreslegumes_58haricotsblancs4250gmaingourd_html",
@@ -64,13 +71,6 @@
       "prix_base": 44000,
       "prix_comparaison": 39000,
       "variation": -5000
-    },
-    {
-      "cle": "conservesautreslegumes_10464tomatesconcassees5kg_html",
-      "name": "Tomates concass\u00e9es 5kg",
-      "prix_base": 49900,
-      "prix_comparaison": 45000,
-      "variation": -4900
     }
   ],
   "indices_prix_plus_eleves": [
@@ -103,14 +103,21 @@
       "indice_prix": 94.20289855072464
     },
     {
-      "cle": "conservesautreslegumes_10464tomatesconcassees5kg_html",
-      "name": "Tomates concass\u00e9es 5kg",
-      "prix_base": 49900,
-      "prix_comparaison": 45000,
-      "indice_prix": 90.18036072144288
+      "cle": "boissonsgazeusesauxfruits_13827limonadepet15ltopbudget_html",
+      "name": "Limonade pet  1,5L",
+      "prix_base": 3900,
+      "prix_comparaison": 3600,
+      "indice_prix": 92.3076923076923
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "conservesdepoissons_10462thonaunaturel1kg_html",
+      "name": "Thon au naturel 1kg",
+      "prix_base": 45000,
+      "prix_comparaison": 35000,
+      "indice_prix": 77.77777777777777
+    },
     {
       "cle": "conservesautreslegumes_58haricotsblancs4250gmaingourd_html",
       "name": "Haricots blancs 4,250kg",
@@ -138,13 +145,6 @@
       "prix_base": 4500,
       "prix_comparaison": 3690,
       "indice_prix": 82.0
-    },
-    {
-      "cle": "gelsetblocswc_13912gelwccitron1ltopbudget_html",
-      "name": "Gel wc citron 1L",
-      "prix_base": 6500,
-      "prix_comparaison": 5500,
-      "indice_prix": 84.61538461538461
     }
   ]
 }

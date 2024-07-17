@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 7196,
-      "prix_base": 11400,
-      "name": "Calculatrice 8 chiffres plastiques",
-      "prix_comparaison": 16100,
-      "variation": 4700
+      "list_id": 13958,
+      "prix_base": 31500,
+      "name": "Hache 600g",
+      "prix_comparaison": 35600,
+      "variation": 4100
     },
     {
-      "list_id": 5463,
-      "prix_base": 46500,
-      "name": "Seringues nasales bleu Boite de 2 pi\u00e8ces",
-      "prix_comparaison": 48600,
-      "variation": 2100
+      "list_id": 5413,
+      "prix_base": 63600,
+      "name": "Baume Fissures et crevasses doigts et mains 30 ml",
+      "prix_comparaison": 57300,
+      "variation": -6300
     },
     {
-      "list_id": 1760,
-      "prix_base": 14700,
-      "name": "CHIPS au sauce Barbecue 175 g",
-      "prix_comparaison": 16700,
-      "variation": 2000
+      "list_id": 5416,
+      "prix_base": 76800,
+      "name": "Cr\u00e8me Akilhiver engelures/gercures visage-mains-pieds 75 ml",
+      "prix_comparaison": 69200,
+      "variation": -7600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 5440,
-      "prix_base": 84300,
-      "name": "Chambre d'inhalation masque pour enfants plus 6 ans",
-      "prix_comparaison": 83200,
-      "variation": -1100
+      "list_id": 5414,
+      "prix_base": 126000,
+      "name": "Baume hydra-d\u00e9fense pieds tr\u00e8s secs 125 ml",
+      "prix_comparaison": 113400,
+      "variation": -12600
     },
     {
-      "list_id": 5438,
-      "prix_base": 64800,
-      "name": "Mouche pour B\u00e9b\u00e9 par aspiration",
-      "prix_comparaison": 65900,
-      "variation": 1100
+      "list_id": 5412,
+      "prix_base": 117600,
+      "name": "Baume Fissures et Crevasses main-pieds 50 ml",
+      "prix_comparaison": 105900,
+      "variation": -11700
     },
     {
-      "list_id": 5207,
-      "prix_base": 3600,
-      "name": "Rouleaux matriciel blanc & rose 60 g",
-      "prix_comparaison": 4800,
-      "variation": 1200
+      "list_id": 5415,
+      "prix_base": 104400,
+      "name": "Baume reposant aux plantes pour pieds 50 ml",
+      "prix_comparaison": 94000,
+      "variation": -10400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 7196,
-      "name": "Calculatrice 8 chiffres plastiques",
-      "prix_base": 11400,
-      "prix_comparaison": 16100,
-      "indice_prix": 141.2280701754386
+      "list_id": 13958,
+      "name": "Hache 600g",
+      "prix_base": 31500,
+      "prix_comparaison": 35600,
+      "indice_prix": 113.01587301587301
     },
     {
-      "list_id": 5207,
-      "name": "Rouleaux matriciel blanc & rose 60 g",
-      "prix_base": 3600,
-      "prix_comparaison": 4800,
-      "indice_prix": 133.33333333333334
+      "list_id": 5416,
+      "name": "Cr\u00e8me Akilhiver engelures/gercures visage-mains-pieds 75 ml",
+      "prix_base": 76800,
+      "prix_comparaison": 69200,
+      "indice_prix": 90.10416666666667
     },
     {
-      "list_id": 1760,
-      "name": "CHIPS au sauce Barbecue 175 g",
-      "prix_base": 14700,
-      "prix_comparaison": 16700,
-      "indice_prix": 113.60544217687075
+      "list_id": 5413,
+      "name": "Baume Fissures et crevasses doigts et mains 30 ml",
+      "prix_base": 63600,
+      "prix_comparaison": 57300,
+      "indice_prix": 90.09433962264151
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 5440,
-      "name": "Chambre d'inhalation masque pour enfants plus 6 ans",
-      "prix_base": 84300,
-      "prix_comparaison": 83200,
-      "indice_prix": 98.69513641755634
+      "list_id": 5414,
+      "name": "Baume hydra-d\u00e9fense pieds tr\u00e8s secs 125 ml",
+      "prix_base": 126000,
+      "prix_comparaison": 113400,
+      "indice_prix": 90.0
     },
     {
-      "list_id": 5438,
-      "name": "Mouche pour B\u00e9b\u00e9 par aspiration",
-      "prix_base": 64800,
-      "prix_comparaison": 65900,
-      "indice_prix": 101.69753086419753
+      "list_id": 5411,
+      "name": "Baume Fabuleux anti-frottements pieds 75 ml",
+      "prix_base": 78000,
+      "prix_comparaison": 70200,
+      "indice_prix": 90.0
     },
     {
-      "list_id": 5463,
-      "name": "Seringues nasales bleu Boite de 2 pi\u00e8ces",
-      "prix_base": 46500,
-      "prix_comparaison": 48600,
-      "indice_prix": 104.51612903225806
+      "list_id": 5415,
+      "name": "Baume reposant aux plantes pour pieds 50 ml",
+      "prix_base": 104400,
+      "prix_comparaison": 94000,
+      "indice_prix": 90.03831417624521
     }
   ]
 }

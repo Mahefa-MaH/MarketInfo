@@ -13,9 +13,23 @@
       "prix_base": 5260,
       "prix_comparaison": 5867,
       "variation": 607
+    },
+    {
+      "cle": "produit_selfindemertaf1kg_",
+      "name": "Sel Fin Taf\u2122 1kg | Sel de mer iod\u00e9 et fluor\u00e9",
+      "prix_base": 1120,
+      "prix_comparaison": 1200,
+      "variation": 80
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "produit_selfindemertaf1kg_",
+      "name": "Sel Fin Taf\u2122 1kg | Sel de mer iod\u00e9 et fluor\u00e9",
+      "prix_base": 1120,
+      "prix_comparaison": 1200,
+      "variation": 80
+    },
     {
       "cle": "produit_jusdecocktailenbriquelefruit1lfabriqueamadagascar_",
       "name": "Jus de Cocktail en brique LeFRUIT\u2122 1L | Fabriqu\u00e9 \u00e0 Madagascar",
@@ -45,9 +59,23 @@
       "prix_base": 7070,
       "prix_comparaison": 7800,
       "indice_prix": 110.32531824611033
+    },
+    {
+      "cle": "produit_selfindemertaf1kg_",
+      "name": "Sel Fin Taf\u2122 1kg | Sel de mer iod\u00e9 et fluor\u00e9",
+      "prix_base": 1120,
+      "prix_comparaison": 1200,
+      "indice_prix": 107.14285714285714
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "produit_selfindemertaf1kg_",
+      "name": "Sel Fin Taf\u2122 1kg | Sel de mer iod\u00e9 et fluor\u00e9",
+      "prix_base": 1120,
+      "prix_comparaison": 1200,
+      "indice_prix": 107.14285714285714
+    },
     {
       "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
       "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",

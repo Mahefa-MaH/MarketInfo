@@ -12,14 +12,24 @@
    - Prix actuel: 5,867 Ar
    - Variation: +607 Ar
 
+3. **Sel Fin Taf™ 1kg | Sel de mer iodé et fluoré**
+   - Prix avant: 1,120 Ar
+   - Prix actuel: 1,200 Ar
+   - Variation: +80 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Jus de Cocktail en brique LeFRUIT™ 1L | Fabriqué à Madagascar**
+1. **Sel Fin Taf™ 1kg | Sel de mer iodé et fluoré**
+   - Prix avant: 1,120 Ar
+   - Prix actuel: 1,200 Ar
+   - Variation: +80 Ar
+
+2. **Jus de Cocktail en brique LeFRUIT™ 1L | Fabriqué à Madagascar**
    - Prix avant: 5,260 Ar
    - Prix actuel: 5,867 Ar
    - Variation: +607 Ar
 
-2. **Lait demi écrémé Candia™ LeLait 1L**
+3. **Lait demi écrémé Candia™ LeLait 1L**
    - Prix avant: 7,070 Ar
    - Prix actuel: 7,800 Ar
    - Variation: +730 Ar
@@ -36,14 +46,24 @@
    - Prix actuel: 7,800 Ar
    - Indice de prix : 110.33
 
+3. **Sel Fin Taf™ 1kg | Sel de mer iodé et fluoré**
+   - Prix avant: 1,120 Ar
+   - Prix actuel: 1,200 Ar
+   - Indice de prix : 107.14
+
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Lait demi écrémé Candia™ LeLait 1L**
+1. **Sel Fin Taf™ 1kg | Sel de mer iodé et fluoré**
+   - Prix avant: 1,120 Ar
+   - Prix actuel: 1,200 Ar
+   - Indice de prix : 107.14
+
+2. **Lait demi écrémé Candia™ LeLait 1L**
    - Prix avant: 7,070 Ar
    - Prix actuel: 7,800 Ar
    - Indice de prix : 110.33
 
-2. **Jus de Cocktail en brique LeFRUIT™ 1L | Fabriqué à Madagascar**
+3. **Jus de Cocktail en brique LeFRUIT™ 1L | Fabriqué à Madagascar**
    - Prix avant: 5,260 Ar
    - Prix actuel: 5,867 Ar
    - Indice de prix : 111.54
