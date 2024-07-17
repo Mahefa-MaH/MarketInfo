@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_huiledoliveviergeextrafontoliva100ml_",
-      "name": "Huile d\u2019Olive Vierge Extra Font Oliva\u2122 1L | Bouteille en PET",
-      "prix_base": 70260,
-      "prix_comparaison": 83400,
-      "variation": 13140
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 7070,
+      "prix_comparaison": 7800,
+      "variation": 730
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_huiledoliveviergeextrafontoliva100ml_",
-      "name": "Huile d\u2019Olive Vierge Extra Font Oliva\u2122 1L | Bouteille en PET",
-      "prix_base": 70260,
-      "prix_comparaison": 83400,
-      "indice_prix": 118.70196413321948
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 7070,
+      "prix_comparaison": 7800,
+      "indice_prix": 110.32531824611033
     }
   ]
 }
