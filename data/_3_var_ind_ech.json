@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_fromageemmentalrapeleaderprice100g_",
-      "name": "Fromage Emmental Rap\u00e9 Valmartin\u2122 100g",
-      "prix_base": 11560,
-      "prix_comparaison": 14000,
-      "variation": 2440
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 7070,
+      "prix_comparaison": 7800,
+      "variation": 730
     },
     {
-      "cle": "produit_pairesdegantsdemenagetailleml_",
-      "name": "Paires De Gants De M\u00e9nage Taille M/L",
-      "prix_base": 5380,
-      "prix_comparaison": 6282,
-      "variation": 902
-    },
-    {
-      "cle": "produit_pateacrouteenviron300g_",
-      "name": "P\u00e2te \u00e0 Croute environ 300g",
-      "prix_base": 11600,
-      "prix_comparaison": 12069,
-      "variation": 469
+      "cle": "produit_jusdecocktailenbriquelefruit1lfabriqueamadagascar_",
+      "name": "Jus de Cocktail en brique LeFRUIT\u2122 1L | Fabriqu\u00e9 \u00e0 Madagascar",
+      "prix_base": 5260,
+      "prix_comparaison": 5867,
+      "variation": 607
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_pateacrouteenviron300g_",
-      "name": "P\u00e2te \u00e0 Croute environ 300g",
-      "prix_base": 11600,
-      "prix_comparaison": 12069,
-      "variation": 469
+      "cle": "produit_jusdecocktailenbriquelefruit1lfabriqueamadagascar_",
+      "name": "Jus de Cocktail en brique LeFRUIT\u2122 1L | Fabriqu\u00e9 \u00e0 Madagascar",
+      "prix_base": 5260,
+      "prix_comparaison": 5867,
+      "variation": 607
     },
     {
-      "cle": "produit_pairesdegantsdemenagetailleml_",
-      "name": "Paires De Gants De M\u00e9nage Taille M/L",
-      "prix_base": 5380,
-      "prix_comparaison": 6282,
-      "variation": 902
-    },
-    {
-      "cle": "produit_fromageemmentalrapeleaderprice100g_",
-      "name": "Fromage Emmental Rap\u00e9 Valmartin\u2122 100g",
-      "prix_base": 11560,
-      "prix_comparaison": 14000,
-      "variation": 2440
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 7070,
+      "prix_comparaison": 7800,
+      "variation": 730
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_fromageemmentalrapeleaderprice100g_",
-      "name": "Fromage Emmental Rap\u00e9 Valmartin\u2122 100g",
-      "prix_base": 11560,
-      "prix_comparaison": 14000,
-      "indice_prix": 121.10726643598616
+      "cle": "produit_jusdecocktailenbriquelefruit1lfabriqueamadagascar_",
+      "name": "Jus de Cocktail en brique LeFRUIT\u2122 1L | Fabriqu\u00e9 \u00e0 Madagascar",
+      "prix_base": 5260,
+      "prix_comparaison": 5867,
+      "indice_prix": 111.53992395437263
     },
     {
-      "cle": "produit_pairesdegantsdemenagetailleml_",
-      "name": "Paires De Gants De M\u00e9nage Taille M/L",
-      "prix_base": 5380,
-      "prix_comparaison": 6282,
-      "indice_prix": 116.76579925650557
-    },
-    {
-      "cle": "produit_pateacrouteenviron300g_",
-      "name": "P\u00e2te \u00e0 Croute environ 300g",
-      "prix_base": 11600,
-      "prix_comparaison": 12069,
-      "indice_prix": 104.04310344827586
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 7070,
+      "prix_comparaison": 7800,
+      "indice_prix": 110.32531824611033
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_pateacrouteenviron300g_",
-      "name": "P\u00e2te \u00e0 Croute environ 300g",
-      "prix_base": 11600,
-      "prix_comparaison": 12069,
-      "indice_prix": 104.04310344827586
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 7070,
+      "prix_comparaison": 7800,
+      "indice_prix": 110.32531824611033
     },
     {
-      "cle": "produit_pairesdegantsdemenagetailleml_",
-      "name": "Paires De Gants De M\u00e9nage Taille M/L",
-      "prix_base": 5380,
-      "prix_comparaison": 6282,
-      "indice_prix": 116.76579925650557
-    },
-    {
-      "cle": "produit_fromageemmentalrapeleaderprice100g_",
-      "name": "Fromage Emmental Rap\u00e9 Valmartin\u2122 100g",
-      "prix_base": 11560,
-      "prix_comparaison": 14000,
-      "indice_prix": 121.10726643598616
+      "cle": "produit_jusdecocktailenbriquelefruit1lfabriqueamadagascar_",
+      "name": "Jus de Cocktail en brique LeFRUIT\u2122 1L | Fabriqu\u00e9 \u00e0 Madagascar",
+      "prix_base": 5260,
+      "prix_comparaison": 5867,
+      "indice_prix": 111.53992395437263
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3831,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 11500,
-      "prix_comparaison": 12200,
-      "variation": 700
+      "list_id": 5416,
+      "name": "Cr\u00e8me Akilhiver engelures/gercures visage-mains-pieds 75 ml",
+      "prix_base": 76800,
+      "prix_comparaison": 69200,
+      "variation": -7600
     }
   ],
   "indice de prix": [
     {
-      "list_id": 3831,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 11500,
-      "prix_comparaison": 12200,
-      "indice_prix": 106.08695652173913
+      "list_id": 5416,
+      "name": "Cr\u00e8me Akilhiver engelures/gercures visage-mains-pieds 75 ml",
+      "prix_base": 76800,
+      "prix_comparaison": 69200,
+      "indice_prix": 90.10416666666667
     }
   ]
 }

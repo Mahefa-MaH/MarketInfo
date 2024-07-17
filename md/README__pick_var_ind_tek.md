@@ -2,17 +2,17 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Huile De Tournesol 1 L**
-   - Prix avant: 11,500 Ar
-   - Prix actuel: 12,200 Ar
-   - Variation: +700 Ar
+1. **Crème Akilhiver engelures/gercures visage-mains-pieds 75 ml**
+   - Prix avant: 76,800 Ar
+   - Prix actuel: 69,200 Ar
+   - Variation: -7,600 Ar
 
 
 
 ## Indice de prix
 
-1. **Huile De Tournesol 1 L**
-   - Prix avant: 11,500 Ar
-   - Prix actuel: 12,200 Ar
-   - Indice de prix : 106.09
+1. **Crème Akilhiver engelures/gercures visage-mains-pieds 75 ml**
+   - Prix avant: 76,800 Ar
+   - Prix actuel: 69,200 Ar
+   - Indice de prix : 90.10
 
