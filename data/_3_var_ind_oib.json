@@ -20,20 +20,6 @@
       "prix_base": 11500,
       "prix_comparaison": 10900,
       "variation": -600
-    },
-    {
-      "cle": "epilationetrasage_13887rasoirjetbialame10piecestopbudget_html",
-      "name": "Rasoir jetables double lames 10 pi\u00e8ces",
-      "prix_base": 5900,
-      "prix_comparaison": 5300,
-      "variation": -600
-    },
-    {
-      "cle": "biscuitsfourres_13927biscuitgoutersfourresparfumchocolat500gtopbudget_html",
-      "name": "Biscuit go\u00fbters fourr\u00e9s parfum chocolat 500g",
-      "prix_base": 13500,
-      "prix_comparaison": 12900,
-      "variation": -600
     }
   ],
   "prix_diminues": [
@@ -57,20 +43,6 @@
       "prix_base": 49000,
       "prix_comparaison": 39000,
       "variation": -10000
-    },
-    {
-      "cle": "conservesautreslegumes_105poischiches4250gmaingourd_html",
-      "name": "Pois chiches 4,250kg",
-      "prix_base": 54900,
-      "prix_comparaison": 45000,
-      "variation": -9900
-    },
-    {
-      "cle": "conservesdepoissons_7178filetsdemaquereauxalhuilevegetale1kg_html",
-      "name": "Filets de maquereaux \u00e0 l'huile v\u00e9g\u00e9tale 1kg",
-      "prix_base": 44000,
-      "prix_comparaison": 39000,
-      "variation": -5000
     }
   ],
   "indices_prix_plus_eleves": [
@@ -94,20 +66,6 @@
       "prix_base": 11500,
       "prix_comparaison": 10900,
       "indice_prix": 94.78260869565217
-    },
-    {
-      "cle": "sauceschaudessaucestomates_10468saucepizza5kg_html",
-      "name": "Sauce pizza 5kg",
-      "prix_base": 69000,
-      "prix_comparaison": 65000,
-      "indice_prix": 94.20289855072464
-    },
-    {
-      "cle": "boissonsgazeusesauxfruits_13827limonadepet15ltopbudget_html",
-      "name": "Limonade pet  1,5L",
-      "prix_base": 3900,
-      "prix_comparaison": 3600,
-      "indice_prix": 92.3076923076923
     }
   ],
   "indices_prix_plus_faibles": [
@@ -131,20 +89,6 @@
       "prix_base": 62000,
       "prix_comparaison": 50000,
       "indice_prix": 80.64516129032258
-    },
-    {
-      "cle": "conservesautreslegumes_105poischiches4250gmaingourd_html",
-      "name": "Pois chiches 4,250kg",
-      "prix_base": 54900,
-      "prix_comparaison": 45000,
-      "indice_prix": 81.9672131147541
-    },
-    {
-      "cle": "epongesbrossesetgants_15564epongevegetalex2_html",
-      "name": "Eponge v\u00e9g\u00e9tale x2",
-      "prix_base": 4500,
-      "prix_comparaison": 3690,
-      "indice_prix": 82.0
     }
   ]
 }
