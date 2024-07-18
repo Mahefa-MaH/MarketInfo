@@ -13,9 +13,23 @@
       "prix_base": 15500,
       "prix_comparaison": 17000,
       "variation": 1500
+    },
+    {
+      "cle": "cafesglaces_5327cafeglacevanille230ml_html",
+      "name": "Caf\u00e9 glac\u00e9 vanille 230ml",
+      "prix_base": 7500,
+      "prix_comparaison": 6900,
+      "variation": -600
     }
   ],
   "prix_diminues": [
+    {
+      "cle": "cafesglaces_5327cafeglacevanille230ml_html",
+      "name": "Caf\u00e9 glac\u00e9 vanille 230ml",
+      "prix_base": 7500,
+      "prix_comparaison": 6900,
+      "variation": -600
+    },
     {
       "cle": "laqueshuilesgelsmoussescoiffantes_15668gelcoiffantkrystal236ml_html",
       "name": "Gel coiffant krystal 236ml",
@@ -45,9 +59,23 @@
       "prix_base": 15500,
       "prix_comparaison": 17000,
       "indice_prix": 109.6774193548387
+    },
+    {
+      "cle": "cafesglaces_5327cafeglacevanille230ml_html",
+      "name": "Caf\u00e9 glac\u00e9 vanille 230ml",
+      "prix_base": 7500,
+      "prix_comparaison": 6900,
+      "indice_prix": 92.0
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "cafesglaces_5327cafeglacevanille230ml_html",
+      "name": "Caf\u00e9 glac\u00e9 vanille 230ml",
+      "prix_base": 7500,
+      "prix_comparaison": 6900,
+      "indice_prix": 92.0
+    },
     {
       "cle": "laqueshuilesgelsmoussescoiffantes_15668gelcoiffantkrystal236ml_html",
       "name": "Gel coiffant krystal 236ml",
