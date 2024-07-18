@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "bdetjeunesse_15811labelleetoile_html",
-      "name": "La belle \u00e9toile",
-      "prix_base": 24400,
-      "prix_comparaison": 40000,
-      "variation": 15600
+      "cle": "laqueshuilesgelsmoussescoiffantes_15666gelcoiffanthuiledolive236ml_html",
+      "name": "Gel coiffant olive oil 236ml",
+      "prix_base": 15500,
+      "prix_comparaison": 17000,
+      "variation": 1500
     },
     {
-      "cle": "boissonsgazeusesauxfruits_13827limonadepet15ltopbudget_html",
-      "name": "Limonade pet  1,5L",
-      "prix_base": 3900,
-      "prix_comparaison": 3600,
-      "variation": -300
-    },
-    {
-      "cle": "biscuitschocolatesfruites_13882assortimentdebiscuits500gtopbudget_html",
-      "name": "Assortiment de biscuits 500g",
-      "prix_base": 11500,
-      "prix_comparaison": 10900,
-      "variation": -600
+      "cle": "laqueshuilesgelsmoussescoiffantes_15668gelcoiffantkrystal236ml_html",
+      "name": "Gel coiffant krystal 236ml",
+      "prix_base": 15500,
+      "prix_comparaison": 17000,
+      "variation": 1500
     }
   ],
   "prix_diminues": [
     {
-      "cle": "conservesautreslegumes_64haricotsrouges4250kg_html",
-      "name": "Haricots rouges 4,250kg",
-      "prix_base": 62000,
-      "prix_comparaison": 50000,
-      "variation": -12000
+      "cle": "laqueshuilesgelsmoussescoiffantes_15668gelcoiffantkrystal236ml_html",
+      "name": "Gel coiffant krystal 236ml",
+      "prix_base": 15500,
+      "prix_comparaison": 17000,
+      "variation": 1500
     },
     {
-      "cle": "conservesdepoissons_10462thonaunaturel1kg_html",
-      "name": "Thon au naturel 1kg",
-      "prix_base": 45000,
-      "prix_comparaison": 35000,
-      "variation": -10000
-    },
-    {
-      "cle": "conservesautreslegumes_58haricotsblancs4250gmaingourd_html",
-      "name": "Haricots blancs 4,250kg",
-      "prix_base": 49000,
-      "prix_comparaison": 39000,
-      "variation": -10000
+      "cle": "laqueshuilesgelsmoussescoiffantes_15666gelcoiffanthuiledolive236ml_html",
+      "name": "Gel coiffant olive oil 236ml",
+      "prix_base": 15500,
+      "prix_comparaison": 17000,
+      "variation": 1500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "bdetjeunesse_15811labelleetoile_html",
-      "name": "La belle \u00e9toile",
-      "prix_base": 24400,
-      "prix_comparaison": 40000,
-      "indice_prix": 163.9344262295082
+      "cle": "laqueshuilesgelsmoussescoiffantes_15666gelcoiffanthuiledolive236ml_html",
+      "name": "Gel coiffant olive oil 236ml",
+      "prix_base": 15500,
+      "prix_comparaison": 17000,
+      "indice_prix": 109.6774193548387
     },
     {
-      "cle": "biscuitsfourres_13927biscuitgoutersfourresparfumchocolat500gtopbudget_html",
-      "name": "Biscuit go\u00fbters fourr\u00e9s parfum chocolat 500g",
-      "prix_base": 13500,
-      "prix_comparaison": 12900,
-      "indice_prix": 95.55555555555556
-    },
-    {
-      "cle": "biscuitschocolatesfruites_13882assortimentdebiscuits500gtopbudget_html",
-      "name": "Assortiment de biscuits 500g",
-      "prix_base": 11500,
-      "prix_comparaison": 10900,
-      "indice_prix": 94.78260869565217
+      "cle": "laqueshuilesgelsmoussescoiffantes_15668gelcoiffantkrystal236ml_html",
+      "name": "Gel coiffant krystal 236ml",
+      "prix_base": 15500,
+      "prix_comparaison": 17000,
+      "indice_prix": 109.6774193548387
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "conservesdepoissons_10462thonaunaturel1kg_html",
-      "name": "Thon au naturel 1kg",
-      "prix_base": 45000,
-      "prix_comparaison": 35000,
-      "indice_prix": 77.77777777777777
+      "cle": "laqueshuilesgelsmoussescoiffantes_15668gelcoiffantkrystal236ml_html",
+      "name": "Gel coiffant krystal 236ml",
+      "prix_base": 15500,
+      "prix_comparaison": 17000,
+      "indice_prix": 109.6774193548387
     },
     {
-      "cle": "conservesautreslegumes_58haricotsblancs4250gmaingourd_html",
-      "name": "Haricots blancs 4,250kg",
-      "prix_base": 49000,
-      "prix_comparaison": 39000,
-      "indice_prix": 79.59183673469387
-    },
-    {
-      "cle": "conservesautreslegumes_64haricotsrouges4250kg_html",
-      "name": "Haricots rouges 4,250kg",
-      "prix_base": 62000,
-      "prix_comparaison": 50000,
-      "indice_prix": 80.64516129032258
+      "cle": "laqueshuilesgelsmoussescoiffantes_15666gelcoiffanthuiledolive236ml_html",
+      "name": "Gel coiffant olive oil 236ml",
+      "prix_base": 15500,
+      "prix_comparaison": 17000,
+      "indice_prix": 109.6774193548387
     }
   ]
 }
