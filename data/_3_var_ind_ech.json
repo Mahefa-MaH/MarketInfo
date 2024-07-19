@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 7070,
-      "prix_comparaison": 7800,
-      "variation": 730
+      "cle": "produit_yaourtaboireyaoexotiquesocolait250ml_",
+      "name": "Yaourt \u00e0 boire Ya\u00f4 Tropika Socolait\u2122 250ml",
+      "prix_base": 2470,
+      "prix_comparaison": 2700,
+      "variation": 230
     },
     {
-      "cle": "produit_jusdecocktailenbriquelefruit1lfabriqueamadagascar_",
-      "name": "Jus de Cocktail en brique LeFRUIT\u2122 1L | Fabriqu\u00e9 \u00e0 Madagascar",
-      "prix_base": 5260,
-      "prix_comparaison": 5867,
-      "variation": 607
-    },
-    {
-      "cle": "produit_selfindemertaf1kg_",
-      "name": "Sel Fin Taf\u2122 1kg | Sel de mer iod\u00e9 et fluor\u00e9",
-      "prix_base": 1120,
+      "cle": "produit_yaourtbrassefraisesocolait100g_",
+      "name": "Yaourt aromatis\u00e9 fraise Socolait\u2122 100g",
+      "prix_base": 1090,
       "prix_comparaison": 1200,
-      "variation": 80
+      "variation": 110
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_selfindemertaf1kg_",
-      "name": "Sel Fin Taf\u2122 1kg | Sel de mer iod\u00e9 et fluor\u00e9",
-      "prix_base": 1120,
+      "cle": "produit_yaourtbrassefraisesocolait100g_",
+      "name": "Yaourt aromatis\u00e9 fraise Socolait\u2122 100g",
+      "prix_base": 1090,
       "prix_comparaison": 1200,
-      "variation": 80
+      "variation": 110
     },
     {
-      "cle": "produit_jusdecocktailenbriquelefruit1lfabriqueamadagascar_",
-      "name": "Jus de Cocktail en brique LeFRUIT\u2122 1L | Fabriqu\u00e9 \u00e0 Madagascar",
-      "prix_base": 5260,
-      "prix_comparaison": 5867,
-      "variation": 607
-    },
-    {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 7070,
-      "prix_comparaison": 7800,
-      "variation": 730
+      "cle": "produit_yaourtaboireyaoexotiquesocolait250ml_",
+      "name": "Yaourt \u00e0 boire Ya\u00f4 Tropika Socolait\u2122 250ml",
+      "prix_base": 2470,
+      "prix_comparaison": 2700,
+      "variation": 230
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_jusdecocktailenbriquelefruit1lfabriqueamadagascar_",
-      "name": "Jus de Cocktail en brique LeFRUIT\u2122 1L | Fabriqu\u00e9 \u00e0 Madagascar",
-      "prix_base": 5260,
-      "prix_comparaison": 5867,
-      "indice_prix": 111.53992395437263
-    },
-    {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 7070,
-      "prix_comparaison": 7800,
-      "indice_prix": 110.32531824611033
-    },
-    {
-      "cle": "produit_selfindemertaf1kg_",
-      "name": "Sel Fin Taf\u2122 1kg | Sel de mer iod\u00e9 et fluor\u00e9",
-      "prix_base": 1120,
+      "cle": "produit_yaourtbrassefraisesocolait100g_",
+      "name": "Yaourt aromatis\u00e9 fraise Socolait\u2122 100g",
+      "prix_base": 1090,
       "prix_comparaison": 1200,
-      "indice_prix": 107.14285714285714
+      "indice_prix": 110.09174311926606
+    },
+    {
+      "cle": "produit_yaourtaboireyaoexotiquesocolait250ml_",
+      "name": "Yaourt \u00e0 boire Ya\u00f4 Tropika Socolait\u2122 250ml",
+      "prix_base": 2470,
+      "prix_comparaison": 2700,
+      "indice_prix": 109.31174089068826
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_selfindemertaf1kg_",
-      "name": "Sel Fin Taf\u2122 1kg | Sel de mer iod\u00e9 et fluor\u00e9",
-      "prix_base": 1120,
+      "cle": "produit_yaourtaboireyaoexotiquesocolait250ml_",
+      "name": "Yaourt \u00e0 boire Ya\u00f4 Tropika Socolait\u2122 250ml",
+      "prix_base": 2470,
+      "prix_comparaison": 2700,
+      "indice_prix": 109.31174089068826
+    },
+    {
+      "cle": "produit_yaourtbrassefraisesocolait100g_",
+      "name": "Yaourt aromatis\u00e9 fraise Socolait\u2122 100g",
+      "prix_base": 1090,
       "prix_comparaison": 1200,
-      "indice_prix": 107.14285714285714
-    },
-    {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 7070,
-      "prix_comparaison": 7800,
-      "indice_prix": 110.32531824611033
-    },
-    {
-      "cle": "produit_jusdecocktailenbriquelefruit1lfabriqueamadagascar_",
-      "name": "Jus de Cocktail en brique LeFRUIT\u2122 1L | Fabriqu\u00e9 \u00e0 Madagascar",
-      "prix_base": 5260,
-      "prix_comparaison": 5867,
-      "indice_prix": 111.53992395437263
+      "indice_prix": 110.09174311926606
     }
   ]
 }

@@ -2,69 +2,49 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Lait demi écrémé Candia™ LeLait 1L**
-   - Prix avant: 7,070 Ar
-   - Prix actuel: 7,800 Ar
-   - Variation: +730 Ar
+1. **Yaourt à boire Yaô Tropika Socolait™ 250ml**
+   - Prix avant: 2,470 Ar
+   - Prix actuel: 2,700 Ar
+   - Variation: +230 Ar
 
-2. **Jus de Cocktail en brique LeFRUIT™ 1L | Fabriqué à Madagascar**
-   - Prix avant: 5,260 Ar
-   - Prix actuel: 5,867 Ar
-   - Variation: +607 Ar
-
-3. **Sel Fin Taf™ 1kg | Sel de mer iodé et fluoré**
-   - Prix avant: 1,120 Ar
+2. **Yaourt aromatisé fraise Socolait™ 100g**
+   - Prix avant: 1,090 Ar
    - Prix actuel: 1,200 Ar
-   - Variation: +80 Ar
+   - Variation: +110 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Sel Fin Taf™ 1kg | Sel de mer iodé et fluoré**
-   - Prix avant: 1,120 Ar
+1. **Yaourt aromatisé fraise Socolait™ 100g**
+   - Prix avant: 1,090 Ar
    - Prix actuel: 1,200 Ar
-   - Variation: +80 Ar
+   - Variation: +110 Ar
 
-2. **Jus de Cocktail en brique LeFRUIT™ 1L | Fabriqué à Madagascar**
-   - Prix avant: 5,260 Ar
-   - Prix actuel: 5,867 Ar
-   - Variation: +607 Ar
-
-3. **Lait demi écrémé Candia™ LeLait 1L**
-   - Prix avant: 7,070 Ar
-   - Prix actuel: 7,800 Ar
-   - Variation: +730 Ar
+2. **Yaourt à boire Yaô Tropika Socolait™ 250ml**
+   - Prix avant: 2,470 Ar
+   - Prix actuel: 2,700 Ar
+   - Variation: +230 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Jus de Cocktail en brique LeFRUIT™ 1L | Fabriqué à Madagascar**
-   - Prix avant: 5,260 Ar
-   - Prix actuel: 5,867 Ar
-   - Indice de prix : 111.54
-
-2. **Lait demi écrémé Candia™ LeLait 1L**
-   - Prix avant: 7,070 Ar
-   - Prix actuel: 7,800 Ar
-   - Indice de prix : 110.33
-
-3. **Sel Fin Taf™ 1kg | Sel de mer iodé et fluoré**
-   - Prix avant: 1,120 Ar
+1. **Yaourt aromatisé fraise Socolait™ 100g**
+   - Prix avant: 1,090 Ar
    - Prix actuel: 1,200 Ar
-   - Indice de prix : 107.14
+   - Indice de prix : 110.09
+
+2. **Yaourt à boire Yaô Tropika Socolait™ 250ml**
+   - Prix avant: 2,470 Ar
+   - Prix actuel: 2,700 Ar
+   - Indice de prix : 109.31
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Sel Fin Taf™ 1kg | Sel de mer iodé et fluoré**
-   - Prix avant: 1,120 Ar
+1. **Yaourt à boire Yaô Tropika Socolait™ 250ml**
+   - Prix avant: 2,470 Ar
+   - Prix actuel: 2,700 Ar
+   - Indice de prix : 109.31
+
+2. **Yaourt aromatisé fraise Socolait™ 100g**
+   - Prix avant: 1,090 Ar
    - Prix actuel: 1,200 Ar
-   - Indice de prix : 107.14
-
-2. **Lait demi écrémé Candia™ LeLait 1L**
-   - Prix avant: 7,070 Ar
-   - Prix actuel: 7,800 Ar
-   - Indice de prix : 110.33
-
-3. **Jus de Cocktail en brique LeFRUIT™ 1L | Fabriqué à Madagascar**
-   - Prix avant: 5,260 Ar
-   - Prix actuel: 5,867 Ar
-   - Indice de prix : 111.54
+   - Indice de prix : 110.09
 
