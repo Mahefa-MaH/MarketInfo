@@ -1,94 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 5502,
-      "prix_base": 32400,
-      "name": "Coupe Ongles 5,5 cm rose",
-      "prix_comparaison": 36800,
-      "variation": 4400
-    },
-    {
-      "list_id": 5503,
-      "prix_base": 41100,
-      "name": "Coupe Ongles 8 cm bordeaux",
-      "prix_comparaison": 44300,
-      "variation": 3200
-    },
-    {
-      "list_id": 5500,
-      "prix_base": 33500,
-      "name": "Baume \u00e0 l\u00e8vres Neutre",
-      "prix_comparaison": 35700,
-      "variation": 2200
+      "list_id": 5513,
+      "prix_base": 30300,
+      "name": "Pince \u00e0 \u00e9piler Crabe Orange",
+      "prix_comparaison": 34600,
+      "variation": 4300
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 4105,
-      "prix_base": 83600,
-      "name": "Champignons De Paris Tranch\u00e9s Conserv\u00e9s En Saumure 2,5 Kg",
-      "prix_comparaison": 85000,
-      "variation": 1400
-    },
-    {
-      "list_id": 5500,
-      "prix_base": 33500,
-      "name": "Baume \u00e0 l\u00e8vres Neutre",
-      "prix_comparaison": 35700,
-      "variation": 2200
-    },
-    {
-      "list_id": 5503,
-      "prix_base": 41100,
-      "name": "Coupe Ongles 8 cm bordeaux",
-      "prix_comparaison": 44300,
-      "variation": 3200
+      "list_id": 5513,
+      "prix_base": 30300,
+      "name": "Pince \u00e0 \u00e9piler Crabe Orange",
+      "prix_comparaison": 34600,
+      "variation": 4300
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 5502,
-      "name": "Coupe Ongles 5,5 cm rose",
-      "prix_base": 32400,
-      "prix_comparaison": 36800,
-      "indice_prix": 113.58024691358025
-    },
-    {
-      "list_id": 5503,
-      "name": "Coupe Ongles 8 cm bordeaux",
-      "prix_base": 41100,
-      "prix_comparaison": 44300,
-      "indice_prix": 107.78588807785889
-    },
-    {
-      "list_id": 5500,
-      "name": "Baume \u00e0 l\u00e8vres Neutre",
-      "prix_base": 33500,
-      "prix_comparaison": 35700,
-      "indice_prix": 106.56716417910448
+      "list_id": 5513,
+      "name": "Pince \u00e0 \u00e9piler Crabe Orange",
+      "prix_base": 30300,
+      "prix_comparaison": 34600,
+      "indice_prix": 114.1914191419142
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 4105,
-      "name": "Champignons De Paris Tranch\u00e9s Conserv\u00e9s En Saumure 2,5 Kg",
-      "prix_base": 83600,
-      "prix_comparaison": 85000,
-      "indice_prix": 101.67464114832536
-    },
-    {
-      "list_id": 5500,
-      "name": "Baume \u00e0 l\u00e8vres Neutre",
-      "prix_base": 33500,
-      "prix_comparaison": 35700,
-      "indice_prix": 106.56716417910448
-    },
-    {
-      "list_id": 5503,
-      "name": "Coupe Ongles 8 cm bordeaux",
-      "prix_base": 41100,
-      "prix_comparaison": 44300,
-      "indice_prix": 107.78588807785889
+      "list_id": 5513,
+      "name": "Pince \u00e0 \u00e9piler Crabe Orange",
+      "prix_base": 30300,
+      "prix_comparaison": 34600,
+      "indice_prix": 114.1914191419142
     }
   ]
 }
