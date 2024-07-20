@@ -1,66 +1,30 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_yaourtaboireyaoexotiquesocolait250ml_",
-      "name": "Yaourt \u00e0 boire Ya\u00f4 Tropika Socolait\u2122 250ml",
-      "prix_base": 2470,
-      "prix_comparaison": 2700,
-      "variation": 230
-    },
-    {
-      "cle": "produit_yaourtbrassefraisesocolait100g_",
-      "name": "Yaourt aromatis\u00e9 fraise Socolait\u2122 100g",
-      "prix_base": 1090,
-      "prix_comparaison": 1200,
-      "variation": 110
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_yaourtbrassefraisesocolait100g_",
-      "name": "Yaourt aromatis\u00e9 fraise Socolait\u2122 100g",
-      "prix_base": 1090,
-      "prix_comparaison": 1200,
-      "variation": 110
-    },
-    {
-      "cle": "produit_yaourtaboireyaoexotiquesocolait250ml_",
-      "name": "Yaourt \u00e0 boire Ya\u00f4 Tropika Socolait\u2122 250ml",
-      "prix_base": 2470,
-      "prix_comparaison": 2700,
-      "variation": 230
+      "cle": "produit_geltoiletteintime250mlcrf_",
+      "name": "Hygi\u00e8ne intime gel toilette Carrefour\u2122250ml",
+      "prix_base": 10350,
+      "prix_comparaison": 9000,
+      "variation": -1350
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_yaourtbrassefraisesocolait100g_",
-      "name": "Yaourt aromatis\u00e9 fraise Socolait\u2122 100g",
-      "prix_base": 1090,
-      "prix_comparaison": 1200,
-      "indice_prix": 110.09174311926606
-    },
-    {
-      "cle": "produit_yaourtaboireyaoexotiquesocolait250ml_",
-      "name": "Yaourt \u00e0 boire Ya\u00f4 Tropika Socolait\u2122 250ml",
-      "prix_base": 2470,
-      "prix_comparaison": 2700,
-      "indice_prix": 109.31174089068826
+      "cle": "produit_geltoiletteintime250mlcrf_",
+      "name": "Hygi\u00e8ne intime gel toilette Carrefour\u2122250ml",
+      "prix_base": 10350,
+      "prix_comparaison": 9000,
+      "indice_prix": 86.95652173913044
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_yaourtaboireyaoexotiquesocolait250ml_",
-      "name": "Yaourt \u00e0 boire Ya\u00f4 Tropika Socolait\u2122 250ml",
-      "prix_base": 2470,
-      "prix_comparaison": 2700,
-      "indice_prix": 109.31174089068826
-    },
-    {
-      "cle": "produit_yaourtbrassefraisesocolait100g_",
-      "name": "Yaourt aromatis\u00e9 fraise Socolait\u2122 100g",
-      "prix_base": 1090,
-      "prix_comparaison": 1200,
-      "indice_prix": 110.09174311926606
+      "cle": "produit_geltoiletteintime250mlcrf_",
+      "name": "Hygi\u00e8ne intime gel toilette Carrefour\u2122250ml",
+      "prix_base": 10350,
+      "prix_comparaison": 9000,
+      "indice_prix": 86.95652173913044
     }
   ]
 }
