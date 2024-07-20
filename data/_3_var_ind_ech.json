@@ -1,5 +1,13 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_cervelleboeuf500g_",
+      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
+      "prix_base": 10000,
+      "prix_comparaison": 10700,
+      "variation": 700
+    }
+  ],
   "prix_diminues": [
     {
       "cle": "produit_geltoiletteintime250mlcrf_",
@@ -7,9 +15,23 @@
       "prix_base": 10350,
       "prix_comparaison": 9000,
       "variation": -1350
+    },
+    {
+      "cle": "produit_cervelleboeuf500g_",
+      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
+      "prix_base": 10000,
+      "prix_comparaison": 10700,
+      "variation": 700
     }
   ],
   "indices_prix_plus_eleves": [
+    {
+      "cle": "produit_cervelleboeuf500g_",
+      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
+      "prix_base": 10000,
+      "prix_comparaison": 10700,
+      "indice_prix": 107.0
+    },
     {
       "cle": "produit_geltoiletteintime250mlcrf_",
       "name": "Hygi\u00e8ne intime gel toilette Carrefour\u2122250ml",
@@ -25,6 +47,13 @@
       "prix_base": 10350,
       "prix_comparaison": 9000,
       "indice_prix": 86.95652173913044
+    },
+    {
+      "cle": "produit_cervelleboeuf500g_",
+      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
+      "prix_base": 10000,
+      "prix_comparaison": 10700,
+      "indice_prix": 107.0
     }
   ]
 }
