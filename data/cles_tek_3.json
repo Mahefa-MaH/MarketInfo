@@ -1,14 +1,6 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12923,
-      "name": "Riz blanc parfum\u00e9 5 kg",
-      "prix_base": 40800,
-      "prix_comparaison": 40800,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "list_id": 3828,
       "name": "Huile De Soja 1 L",
       "prix_base": 11800,
@@ -17,10 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "list_id": 14631,
-      "name": "Sac de riz de luxe Makalioka 50 Kg",
-      "prix_base": 216000,
-      "prix_comparaison": 216000,
+      "list_id": 11110,
+      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
+      "prix_base": 198000,
+      "prix_comparaison": 198000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 3100,
+      "prix_comparaison": 3100,
       "variation": 0,
       "indice_prix": 100.0
     }

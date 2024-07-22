@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5416,
-      "name": "Cr\u00e8me Akilhiver engelures/gercures visage-mains-pieds 75 ml",
-      "prix_base": 76800,
-      "prix_comparaison": 69200,
-      "variation": -7600
+      "list_id": 5893,
+      "name": "Huiles Pures Ricin pour peau 100 ml",
+      "prix_base": 62700,
+      "prix_comparaison": 65900,
+      "variation": 3200
     }
   ],
   "indice de prix": [
     {
-      "list_id": 5416,
-      "name": "Cr\u00e8me Akilhiver engelures/gercures visage-mains-pieds 75 ml",
-      "prix_base": 76800,
-      "prix_comparaison": 69200,
-      "indice_prix": 90.10416666666667
+      "list_id": 5893,
+      "name": "Huiles Pures Ricin pour peau 100 ml",
+      "prix_base": 62700,
+      "prix_comparaison": 65900,
+      "indice_prix": 105.103668261563
     }
   ]
 }
