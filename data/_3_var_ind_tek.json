@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 5513,
-      "prix_base": 30300,
-      "name": "Pince \u00e0 \u00e9piler Crabe Orange",
+      "list_id": 5517,
+      "prix_base": 27700,
+      "name": "Pince \u00e0 \u00e9piler droits bleu",
       "prix_comparaison": 34600,
-      "variation": 4300
+      "variation": 6900
+    },
+    {
+      "list_id": 5817,
+      "prix_base": 87500,
+      "name": "Gel 3 en 1 au charbon de bambou \u00e0 l'Aloe Vera et aux extraits de miel",
+      "prix_comparaison": 94000,
+      "variation": 6500
+    },
+    {
+      "list_id": 5893,
+      "prix_base": 62700,
+      "name": "Huiles Pures Ricin pour peau 100 ml",
+      "prix_comparaison": 65900,
+      "variation": 3200
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 5513,
-      "prix_base": 30300,
-      "name": "Pince \u00e0 \u00e9piler Crabe Orange",
-      "prix_comparaison": 34600,
-      "variation": 4300
+      "list_id": 14634,
+      "prix_base": 15500,
+      "name": "Th\u00e9 vert menthe Bo\u00eete de 25 sachets",
+      "prix_comparaison": 11400,
+      "variation": -4100
+    },
+    {
+      "list_id": 5772,
+      "prix_base": 248400,
+      "name": "Aspirateur de points noirs pour peau chargeur usb",
+      "prix_comparaison": 247400,
+      "variation": -1000
+    },
+    {
+      "list_id": 3131,
+      "prix_base": 1000,
+      "name": "Lait En Poudre 20 G",
+      "prix_comparaison": 1200,
+      "variation": 200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 5513,
-      "name": "Pince \u00e0 \u00e9piler Crabe Orange",
-      "prix_base": 30300,
+      "list_id": 5517,
+      "name": "Pince \u00e0 \u00e9piler droits bleu",
+      "prix_base": 27700,
       "prix_comparaison": 34600,
-      "indice_prix": 114.1914191419142
+      "indice_prix": 124.90974729241877
+    },
+    {
+      "list_id": 3131,
+      "name": "Lait En Poudre 20 G",
+      "prix_base": 1000,
+      "prix_comparaison": 1200,
+      "indice_prix": 120.0
+    },
+    {
+      "list_id": 14016,
+      "name": "Antivol de v\u00e9lo \u00e0 combinaison \u00e0 4 chiffres avec cadre de verrouillage",
+      "prix_base": 23600,
+      "prix_comparaison": 26700,
+      "indice_prix": 113.13559322033899
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 5513,
-      "name": "Pince \u00e0 \u00e9piler Crabe Orange",
-      "prix_base": 30300,
-      "prix_comparaison": 34600,
-      "indice_prix": 114.1914191419142
+      "list_id": 14634,
+      "name": "Th\u00e9 vert menthe Bo\u00eete de 25 sachets",
+      "prix_base": 15500,
+      "prix_comparaison": 11400,
+      "indice_prix": 73.54838709677419
+    },
+    {
+      "list_id": 5772,
+      "name": "Aspirateur de points noirs pour peau chargeur usb",
+      "prix_base": 248400,
+      "prix_comparaison": 247400,
+      "indice_prix": 99.597423510467
+    },
+    {
+      "list_id": 5968,
+      "name": "Lait en poudre 1 kg",
+      "prix_base": 42700,
+      "prix_comparaison": 43500,
+      "indice_prix": 101.8735362997658
     }
   ]
 }

@@ -1,59 +1,101 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_cervelleboeuf500g_",
-      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
-      "prix_base": 10000,
-      "prix_comparaison": 10700,
-      "variation": 700
+      "cle": "produit_pateamodelerseau9clrs_",
+      "name": "Pate \u00e0 modeler seau 9CLRS",
+      "prix_base": 3650,
+      "prix_comparaison": 6400,
+      "variation": 2750
+    },
+    {
+      "cle": "produit_ardoiseplastiquenoir_",
+      "name": "Ardoise Plastique Noir",
+      "prix_base": 2560,
+      "prix_comparaison": 3700,
+      "variation": 1140
+    },
+    {
+      "cle": "produit_pommesdeterrefraichesmeva1kg_",
+      "name": "Pommes de terre pour frite 1kg | Calibre moyen",
+      "prix_base": 3800,
+      "prix_comparaison": 4000,
+      "variation": 200
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_geltoiletteintime250mlcrf_",
-      "name": "Hygi\u00e8ne intime gel toilette Carrefour\u2122250ml",
-      "prix_base": 10350,
-      "prix_comparaison": 9000,
-      "variation": -1350
+      "cle": "produit_pommesdeterrepourcuisson1kggroscalibre_",
+      "name": "Pommes de terre pour cuisson 1kg | Gros calibre",
+      "prix_base": 2700,
+      "prix_comparaison": 2500,
+      "variation": -200
     },
     {
-      "cle": "produit_cervelleboeuf500g_",
-      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
-      "prix_base": 10000,
-      "prix_comparaison": 10700,
-      "variation": 700
+      "cle": "produit_pommesdeterrefraichesmeva1kg_",
+      "name": "Pommes de terre pour frite 1kg | Calibre moyen",
+      "prix_base": 3800,
+      "prix_comparaison": 4000,
+      "variation": 200
+    },
+    {
+      "cle": "produit_ardoiseplastiquenoir_",
+      "name": "Ardoise Plastique Noir",
+      "prix_base": 2560,
+      "prix_comparaison": 3700,
+      "variation": 1140
+    },
+    {
+      "cle": "produit_pateamodelerseau9clrs_",
+      "name": "Pate \u00e0 modeler seau 9CLRS",
+      "prix_base": 3650,
+      "prix_comparaison": 6400,
+      "variation": 2750
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_cervelleboeuf500g_",
-      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
-      "prix_base": 10000,
-      "prix_comparaison": 10700,
-      "indice_prix": 107.0
+      "cle": "produit_pateamodelerseau9clrs_",
+      "name": "Pate \u00e0 modeler seau 9CLRS",
+      "prix_base": 3650,
+      "prix_comparaison": 6400,
+      "indice_prix": 175.34246575342465
     },
     {
-      "cle": "produit_geltoiletteintime250mlcrf_",
-      "name": "Hygi\u00e8ne intime gel toilette Carrefour\u2122250ml",
-      "prix_base": 10350,
-      "prix_comparaison": 9000,
-      "indice_prix": 86.95652173913044
+      "cle": "produit_ardoiseplastiquenoir_",
+      "name": "Ardoise Plastique Noir",
+      "prix_base": 2560,
+      "prix_comparaison": 3700,
+      "indice_prix": 144.53125
+    },
+    {
+      "cle": "produit_pommesdeterrefraichesmeva1kg_",
+      "name": "Pommes de terre pour frite 1kg | Calibre moyen",
+      "prix_base": 3800,
+      "prix_comparaison": 4000,
+      "indice_prix": 105.26315789473684
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_geltoiletteintime250mlcrf_",
-      "name": "Hygi\u00e8ne intime gel toilette Carrefour\u2122250ml",
-      "prix_base": 10350,
-      "prix_comparaison": 9000,
-      "indice_prix": 86.95652173913044
+      "cle": "produit_pommesdeterrepourcuisson1kggroscalibre_",
+      "name": "Pommes de terre pour cuisson 1kg | Gros calibre",
+      "prix_base": 2700,
+      "prix_comparaison": 2500,
+      "indice_prix": 92.5925925925926
     },
     {
-      "cle": "produit_cervelleboeuf500g_",
-      "name": "Cervelle de Boeuf | 1 pi\u00e8ce env. 400g",
-      "prix_base": 10000,
-      "prix_comparaison": 10700,
-      "indice_prix": 107.0
+      "cle": "produit_pommesdeterrefraichesmeva1kg_",
+      "name": "Pommes de terre pour frite 1kg | Calibre moyen",
+      "prix_base": 3800,
+      "prix_comparaison": 4000,
+      "indice_prix": 105.26315789473684
+    },
+    {
+      "cle": "produit_ardoiseplastiquenoir_",
+      "name": "Ardoise Plastique Noir",
+      "prix_base": 2560,
+      "prix_comparaison": 3700,
+      "indice_prix": 144.53125
     }
   ]
 }
