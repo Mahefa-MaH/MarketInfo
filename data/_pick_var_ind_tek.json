@@ -1,20 +1,34 @@
 {
   "Variation de prix": [
     {
-      "list_id": 5893,
-      "name": "Huiles Pures Ricin pour peau 100 ml",
-      "prix_base": 62700,
-      "prix_comparaison": 65900,
-      "variation": 3200
+      "list_id": 3829,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 13200,
+      "prix_comparaison": 13000,
+      "variation": -200
+    },
+    {
+      "list_id": 8678,
+      "name": "C\u00e9r\u00e9ales Corn Flakes Equilibrio 0% Sucre 375 g",
+      "prix_base": 17300,
+      "prix_comparaison": 18800,
+      "variation": 1500
     }
   ],
   "indice de prix": [
     {
-      "list_id": 5893,
-      "name": "Huiles Pures Ricin pour peau 100 ml",
-      "prix_base": 62700,
-      "prix_comparaison": 65900,
-      "indice_prix": 105.103668261563
+      "list_id": 3829,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 13200,
+      "prix_comparaison": 13000,
+      "indice_prix": 98.48484848484848
+    },
+    {
+      "list_id": 8678,
+      "name": "C\u00e9r\u00e9ales Corn Flakes Equilibrio 0% Sucre 375 g",
+      "prix_base": 17300,
+      "prix_comparaison": 18800,
+      "indice_prix": 108.67052023121387
     }
   ]
 }

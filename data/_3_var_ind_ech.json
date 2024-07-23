@@ -1,101 +1,108 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_pateamodelerseau9clrs_",
-      "name": "Pate \u00e0 modeler seau 9CLRS",
-      "prix_base": 3650,
-      "prix_comparaison": 6400,
-      "variation": 2750
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
+      "prix_base": 11112,
+      "prix_comparaison": 16000,
+      "variation": 4888
     },
     {
-      "cle": "produit_ardoiseplastiquenoir_",
-      "name": "Ardoise Plastique Noir",
-      "prix_base": 2560,
-      "prix_comparaison": 3700,
-      "variation": 1140
+      "cle": "produit_citronvert500g_",
+      "name": "Citrons verts 1 kg",
+      "prix_base": 5400,
+      "prix_comparaison": 8000,
+      "variation": 2600
     },
     {
-      "cle": "produit_pommesdeterrefraichesmeva1kg_",
-      "name": "Pommes de terre pour frite 1kg | Calibre moyen",
-      "prix_base": 3800,
-      "prix_comparaison": 4000,
-      "variation": 200
+      "cle": "produit_gingembre1kg_",
+      "name": "Gingembre 1Kg",
+      "prix_base": 4533,
+      "prix_comparaison": 4800,
+      "variation": 267
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_pommesdeterrepourcuisson1kggroscalibre_",
-      "name": "Pommes de terre pour cuisson 1kg | Gros calibre",
-      "prix_base": 2700,
-      "prix_comparaison": 2500,
-      "variation": -200
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 35000,
+      "prix_comparaison": 24000,
+      "variation": -11000
     },
     {
-      "cle": "produit_pommesdeterrefraichesmeva1kg_",
-      "name": "Pommes de terre pour frite 1kg | Calibre moyen",
-      "prix_base": 3800,
+      "cle": "produit_papayemuraconsommerlejourmeme_",
+      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
+      "prix_base": 15000,
+      "prix_comparaison": 5400,
+      "variation": -9600
+    },
+    {
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 10000,
       "prix_comparaison": 4000,
-      "variation": 200
+      "variation": -6000
     },
     {
-      "cle": "produit_ardoiseplastiquenoir_",
-      "name": "Ardoise Plastique Noir",
-      "prix_base": 2560,
-      "prix_comparaison": 3700,
-      "variation": 1140
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 4500,
+      "prix_comparaison": 3100,
+      "variation": -1400
     },
     {
-      "cle": "produit_pateamodelerseau9clrs_",
-      "name": "Pate \u00e0 modeler seau 9CLRS",
-      "prix_base": 3650,
-      "prix_comparaison": 6400,
-      "variation": 2750
+      "cle": "produit_oignonsfrais1kggroscalibre_",
+      "name": "Oignons frais 1kg | Gros Calibre",
+      "prix_base": 10000,
+      "prix_comparaison": 8800,
+      "variation": -1200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_pateamodelerseau9clrs_",
-      "name": "Pate \u00e0 modeler seau 9CLRS",
-      "prix_base": 3650,
-      "prix_comparaison": 6400,
-      "indice_prix": 175.34246575342465
+      "cle": "produit_citronvert500g_",
+      "name": "Citrons verts 1 kg",
+      "prix_base": 5400,
+      "prix_comparaison": 8000,
+      "indice_prix": 148.14814814814815
     },
     {
-      "cle": "produit_ardoiseplastiquenoir_",
-      "name": "Ardoise Plastique Noir",
-      "prix_base": 2560,
-      "prix_comparaison": 3700,
-      "indice_prix": 144.53125
+      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
+      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
+      "prix_base": 11112,
+      "prix_comparaison": 16000,
+      "indice_prix": 143.98848092152627
     },
     {
-      "cle": "produit_pommesdeterrefraichesmeva1kg_",
-      "name": "Pommes de terre pour frite 1kg | Calibre moyen",
-      "prix_base": 3800,
-      "prix_comparaison": 4000,
-      "indice_prix": 105.26315789473684
+      "cle": "produit_gingembre1kg_",
+      "name": "Gingembre 1Kg",
+      "prix_base": 4533,
+      "prix_comparaison": 4800,
+      "indice_prix": 105.89013898080741
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_pommesdeterrepourcuisson1kggroscalibre_",
-      "name": "Pommes de terre pour cuisson 1kg | Gros calibre",
-      "prix_base": 2700,
-      "prix_comparaison": 2500,
-      "indice_prix": 92.5925925925926
+      "cle": "produit_papayemuraconsommerlejourmeme_",
+      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
+      "prix_base": 15000,
+      "prix_comparaison": 5400,
+      "indice_prix": 36.0
     },
     {
-      "cle": "produit_pommesdeterrefraichesmeva1kg_",
-      "name": "Pommes de terre pour frite 1kg | Calibre moyen",
-      "prix_base": 3800,
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 10000,
       "prix_comparaison": 4000,
-      "indice_prix": 105.26315789473684
+      "indice_prix": 40.0
     },
     {
-      "cle": "produit_ardoiseplastiquenoir_",
-      "name": "Ardoise Plastique Noir",
-      "prix_base": 2560,
-      "prix_comparaison": 3700,
-      "indice_prix": 144.53125
+      "cle": "produit_ailfraisepluchepretacuisiner1kg_",
+      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 1kg",
+      "prix_base": 35000,
+      "prix_comparaison": 24000,
+      "indice_prix": 68.57142857142857
     }
   ]
 }
