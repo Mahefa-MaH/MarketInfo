@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_140307apple14macbookprom32024ram16gostockage1toargentazerty0195949640940_html",
-      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Argent - AZERTY",
-      "prix_base": 12517000,
-      "prix_comparaison": 12517000,
+      "cle": "ordinateurportable_133933apple14macbookprom3max2023ram36gostockage1toargentazerty0195949078774_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 17714000,
+      "prix_comparaison": 17714000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133169apple14macbookprom32023ram8gostockage512goargentazerty0195949014758_html",
-      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 10243000,
-      "prix_comparaison": 10243000,
+      "cle": "ordinateurportable_133932apple14macbookprom3pro2023ram18gostockage1toargentazerty0195949078330_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 14149000,
+      "prix_comparaison": 14149000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_139119apple15macbookairm32024ram16gostockage512golumierestellaireazerty0195949638435_html",
-      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 10492000,
-      "prix_comparaison": 10492000,
+      "cle": "ordinateurportable_133930apple14macbookprom3pro2023ram18gostockage1tonoirsideralazerty0195949077012_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 14149000,
+      "prix_comparaison": 14149000,
       "variation": 0,
       "indice_prix": 100.0
     }

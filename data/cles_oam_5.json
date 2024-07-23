@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133185apple14macbookprom32023ram8gostockage512gogrissideralazerty0195949098819_html",
-      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 512Go - Gris sid\u00e9ral - Azerty",
-      "prix_base": 10189000,
-      "prix_comparaison": 10189000,
+      "cle": "ordinateurportable_140307apple14macbookprom32024ram16gostockage1toargentazerty0195949640940_html",
+      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Argent - AZERTY",
+      "prix_base": 12520000,
+      "prix_comparaison": 12520000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133174apple14macbookprom3pro2023ram18gostockage512goargentazerty0195949077890_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 11737000,
-      "prix_comparaison": 11737000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ordinateurportable_141885apple15macbookairm32024ram16gostockage512goargentazerty0195949637964_html",
-      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Argent - AZERTY",
-      "prix_base": 10488000,
-      "prix_comparaison": 10488000,
+      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
+      "prix_base": 14632000,
+      "prix_comparaison": 14632000,
       "variation": 0,
       "indice_prix": 100.0
     }

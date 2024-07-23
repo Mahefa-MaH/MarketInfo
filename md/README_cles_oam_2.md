@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11**
-   - Prix avant: 20,017,000 Ar
-   - Prix actuel: 20,017,000 Ar
+1. **Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Argent - Azerty**
+   - Prix avant: 13,418,000 Ar
+   - Prix actuel: 13,418,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **PC Gamer Omen by HP 40L GT21-1033nf- Intel Core i7-13700K - RAM 32Go - 1To SSD - GeForce RTX 4080 16Go - Windows 11**
-   - Prix avant: 16,247,000 Ar
-   - Prix actuel: 16,247,000 Ar
+2. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 18,904,000 Ar
+   - Prix actuel: 18,904,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **PC de bureau Gaming HP GT15-2064nf - Core i7-14700F - RAM 32Go DDR5 - 512Go SSD - GeForce RTX 4070 Super 12Go - FreeDOS**
-   - Prix avant: 11,955,000 Ar
-   - Prix actuel: 11,955,000 Ar
+3. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 21,599,000 Ar
+   - Prix actuel: 21,599,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
