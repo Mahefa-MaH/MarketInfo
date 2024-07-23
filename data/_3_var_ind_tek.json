@@ -6,15 +6,43 @@
       "name": "Th\u00e9 vert menthe Bo\u00eete de 25 sachets",
       "prix_comparaison": 15500,
       "variation": 4100
+    },
+    {
+      "list_id": 5928,
+      "prix_base": 38900,
+      "name": "Savon Purifiant au charbon v\u00e9g\u00e9tal 100% Naturel 100 g",
+      "prix_comparaison": 41100,
+      "variation": 2200
+    },
+    {
+      "list_id": 8678,
+      "prix_base": 17300,
+      "name": "C\u00e9r\u00e9ales Corn Flakes Equilibrio 0% Sucre 375 g",
+      "prix_comparaison": 18800,
+      "variation": 1500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 14634,
-      "prix_base": 11400,
-      "name": "Th\u00e9 vert menthe Bo\u00eete de 25 sachets",
-      "prix_comparaison": 15500,
-      "variation": 4100
+      "list_id": 3829,
+      "prix_base": 13200,
+      "name": "Huile De Tournesol 1 L",
+      "prix_comparaison": 13000,
+      "variation": -200
+    },
+    {
+      "list_id": 7298,
+      "prix_base": 15700,
+      "name": "Marqueur effa\u00e7able rouge 2.0 mm 12 pi\u00e8ces",
+      "prix_comparaison": 15900,
+      "variation": 200
+    },
+    {
+      "list_id": 8678,
+      "prix_base": 17300,
+      "name": "C\u00e9r\u00e9ales Corn Flakes Equilibrio 0% Sucre 375 g",
+      "prix_comparaison": 18800,
+      "variation": 1500
     }
   ],
   "indices_prix_plus_eleves": [
@@ -24,15 +52,43 @@
       "prix_base": 11400,
       "prix_comparaison": 15500,
       "indice_prix": 135.96491228070175
+    },
+    {
+      "list_id": 8678,
+      "name": "C\u00e9r\u00e9ales Corn Flakes Equilibrio 0% Sucre 375 g",
+      "prix_base": 17300,
+      "prix_comparaison": 18800,
+      "indice_prix": 108.67052023121387
+    },
+    {
+      "list_id": 5928,
+      "name": "Savon Purifiant au charbon v\u00e9g\u00e9tal 100% Naturel 100 g",
+      "prix_base": 38900,
+      "prix_comparaison": 41100,
+      "indice_prix": 105.65552699228792
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 14634,
-      "name": "Th\u00e9 vert menthe Bo\u00eete de 25 sachets",
-      "prix_base": 11400,
-      "prix_comparaison": 15500,
-      "indice_prix": 135.96491228070175
+      "list_id": 3829,
+      "name": "Huile De Tournesol 1 L",
+      "prix_base": 13200,
+      "prix_comparaison": 13000,
+      "indice_prix": 98.48484848484848
+    },
+    {
+      "list_id": 7298,
+      "name": "Marqueur effa\u00e7able rouge 2.0 mm 12 pi\u00e8ces",
+      "prix_base": 15700,
+      "prix_comparaison": 15900,
+      "indice_prix": 101.27388535031847
+    },
+    {
+      "list_id": 5928,
+      "name": "Savon Purifiant au charbon v\u00e9g\u00e9tal 100% Naturel 100 g",
+      "prix_base": 38900,
+      "prix_comparaison": 41100,
+      "indice_prix": 105.65552699228792
     }
   ]
 }
