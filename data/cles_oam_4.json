@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133933apple14macbookprom3max2023ram36gostockage1toargentazerty0195949078774_html",
-      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 17714000,
-      "prix_comparaison": 17714000,
+      "cle": "tablettetactile_141607appleipadpro202413wificellulaire2toargent0195949247361_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Argent",
+      "prix_base": 15277000,
+      "prix_comparaison": 15277000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133932apple14macbookprom3pro2023ram18gostockage1toargentazerty0195949078330_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 14149000,
-      "prix_comparaison": 14149000,
+      "cle": "tablettetactile_141569appleipadpro202411wificellulaire2tonoirsideral0195949230721_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral",
+      "prix_base": 13518000,
+      "prix_comparaison": 13518000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133930apple14macbookprom3pro2023ram18gostockage1tonoirsideralazerty0195949077012_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 14149000,
-      "prix_comparaison": 14149000,
+      "cle": "tablettetactile_143120appleipadpro202413wificellulaire512goargent0195949246166_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 512 Go - Argent",
+      "prix_base": 10453000,
+      "prix_comparaison": 10453000,
       "variation": 0,
       "indice_prix": 100.0
     }
