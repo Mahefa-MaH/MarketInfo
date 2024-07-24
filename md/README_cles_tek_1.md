@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc Import 50 kg**
-   - Prix avant: 290,000 Ar
-   - Prix actuel: 290,000 Ar
+3. **Sucre Blanc Brésilien En Sac De 50 Kg**
+   - Prix avant: 288,000 Ar
+   - Prix actuel: 288,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
