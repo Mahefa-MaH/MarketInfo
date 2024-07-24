@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 14525,
-      "prix_base": 3000,
-      "name": "Pois Mungo (Tsiasisa ) 1kg",
-      "prix_comparaison": 2640,
-      "variation": -360
+      "list_id": 14643,
+      "prix_base": 5800,
+      "name": "Th\u00e9 Vert  25 Sachets",
+      "prix_comparaison": 11600,
+      "variation": 5800
+    },
+    {
+      "list_id": 5192,
+      "prix_base": 9600,
+      "name": "Ciseaux \u00e9colier ergonomique Sensoft 13cm",
+      "prix_comparaison": 11700,
+      "variation": 2100
+    },
+    {
+      "list_id": 5034,
+      "prix_base": 5000,
+      "name": "Perforateur 2 trous m\u00e9tal 8 feuilles",
+      "prix_comparaison": 5500,
+      "variation": 500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 14525,
-      "prix_base": 3000,
-      "name": "Pois Mungo (Tsiasisa ) 1kg",
-      "prix_comparaison": 2640,
-      "variation": -360
+      "list_id": 3010,
+      "prix_base": 900,
+      "name": "Gaufrettes Croustina Cacao-Vanille 33 G",
+      "prix_comparaison": 1000,
+      "variation": 100
+    },
+    {
+      "list_id": 8827,
+      "prix_base": 900,
+      "name": "Biscuits Bisconoir 25 g",
+      "prix_comparaison": 1000,
+      "variation": 100
+    },
+    {
+      "list_id": 5034,
+      "prix_base": 5000,
+      "name": "Perforateur 2 trous m\u00e9tal 8 feuilles",
+      "prix_comparaison": 5500,
+      "variation": 500
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 14525,
-      "name": "Pois Mungo (Tsiasisa ) 1kg",
-      "prix_base": 3000,
-      "prix_comparaison": 2640,
-      "indice_prix": 88.0
+      "list_id": 14643,
+      "name": "Th\u00e9 Vert  25 Sachets",
+      "prix_base": 5800,
+      "prix_comparaison": 11600,
+      "indice_prix": 200.0
+    },
+    {
+      "list_id": 5192,
+      "name": "Ciseaux \u00e9colier ergonomique Sensoft 13cm",
+      "prix_base": 9600,
+      "prix_comparaison": 11700,
+      "indice_prix": 121.875
+    },
+    {
+      "list_id": 8827,
+      "name": "Biscuits Bisconoir 25 g",
+      "prix_base": 900,
+      "prix_comparaison": 1000,
+      "indice_prix": 111.11111111111111
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 14525,
-      "name": "Pois Mungo (Tsiasisa ) 1kg",
-      "prix_base": 3000,
-      "prix_comparaison": 2640,
-      "indice_prix": 88.0
+      "list_id": 5034,
+      "name": "Perforateur 2 trous m\u00e9tal 8 feuilles",
+      "prix_base": 5000,
+      "prix_comparaison": 5500,
+      "indice_prix": 110.0
+    },
+    {
+      "list_id": 3010,
+      "name": "Gaufrettes Croustina Cacao-Vanille 33 G",
+      "prix_base": 900,
+      "prix_comparaison": 1000,
+      "indice_prix": 111.11111111111111
+    },
+    {
+      "list_id": 8827,
+      "name": "Biscuits Bisconoir 25 g",
+      "prix_base": 900,
+      "prix_comparaison": 1000,
+      "indice_prix": 111.11111111111111
     }
   ]
 }
