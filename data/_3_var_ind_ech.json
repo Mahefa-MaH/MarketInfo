@@ -10,6 +10,13 @@
   ],
   "prix_diminues": [
     {
+      "cle": "produit_cocktaildefruitsausirop44820gralba_",
+      "name": "Cocktail de Fruits au Sirop 4/4 820gr Alba",
+      "prix_base": 25600,
+      "prix_comparaison": 11400,
+      "variation": -14200
+    },
+    {
       "cle": "produit_compotedepommeallegeeboc720g_",
       "name": "Compote De Pomme Allegee Boc 720g",
       "prix_base": 12270,
@@ -24,9 +31,23 @@
       "prix_base": 12270,
       "prix_comparaison": 16000,
       "indice_prix": 130.39934800325997
+    },
+    {
+      "cle": "produit_cocktaildefruitsausirop44820gralba_",
+      "name": "Cocktail de Fruits au Sirop 4/4 820gr Alba",
+      "prix_base": 25600,
+      "prix_comparaison": 11400,
+      "indice_prix": 44.53125
     }
   ],
   "indices_prix_plus_faibles": [
+    {
+      "cle": "produit_cocktaildefruitsausirop44820gralba_",
+      "name": "Cocktail de Fruits au Sirop 4/4 820gr Alba",
+      "prix_base": 25600,
+      "prix_comparaison": 11400,
+      "indice_prix": 44.53125
+    },
     {
       "cle": "produit_compotedepommeallegeeboc720g_",
       "name": "Compote De Pomme Allegee Boc 720g",
