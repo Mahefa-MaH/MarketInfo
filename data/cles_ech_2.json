@@ -9,18 +9,18 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 187900,
-      "prix_comparaison": 187900,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "produit_rizrougevarygasykapoaka_",
       "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 1kg | Vary mena | Origine Madagascar",
       "prix_base": 3950,
       "prix_comparaison": 3950,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_rizrougemalgachesupermarchemg50kgvarymenaoriginemadagascar_",
+      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 50kg | Vary mena | Origine Madagascar",
+      "prix_base": 199500,
+      "prix_comparaison": 199500,
       "variation": 0,
       "indice_prix": 100.0
     }
