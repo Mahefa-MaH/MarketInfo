@@ -1,20 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurtoutenun_133162apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursargent0194253778868_html",
-      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Argent",
-      "prix_base": 10303000,
-      "prix_comparaison": 10517000,
-      "variation": 214000,
-      "indice_prix": 102.07706493254392
-    },
-    {
-      "cle": "ordinateurtoutenun_133166apple24imacretina45k2023puceapplem3ram8gostockage512gogpu10coeursbleu0194253781509_html",
-      "name": "Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Bleu",
-      "prix_base": 10303000,
-      "prix_comparaison": 10517000,
-      "variation": 214000,
-      "indice_prix": 102.07706493254392
+      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
+      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
+      "prix_base": 12771000,
+      "prix_comparaison": 12771000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
