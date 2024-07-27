@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63212appleipadpro2022129wifi2togrissideral0194253243571_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 13260000,
-      "prix_comparaison": 13260000,
+      "cle": "cartegraphiqueinterne_85864msigeforcecartegraphiquertx4090suprimx24go4711377019200_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM X - 24 Go",
+      "prix_base": 11114000,
+      "prix_comparaison": 11114000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
-      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 12333000,
-      "prix_comparaison": 12333000,
+      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
+      "prix_base": 11532000,
+      "prix_comparaison": 11532000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
-      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 11406000,
-      "prix_comparaison": 11406000,
+      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
+      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
+      "prix_base": 10044000,
+      "prix_comparaison": 10044000,
       "variation": 0,
       "indice_prix": 100.0
     }
