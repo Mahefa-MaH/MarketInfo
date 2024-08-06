@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 14215,
-      "prix_base": 8500,
-      "name": "oignon moyen 1kg",
-      "prix_comparaison": 12000,
-      "variation": 3500
+      "list_id": 5634,
+      "prix_base": 10300,
+      "name": "Bloc WC 5en1 parfum Oc\u00e9an paquet de 3",
+      "prix_comparaison": 10700,
+      "variation": 400
+    },
+    {
+      "list_id": 34,
+      "prix_base": 75900,
+      "name": "Super Cook Po\u00eale 20 cm",
+      "prix_comparaison": 66100,
+      "variation": -9800
+    },
+    {
+      "list_id": 36,
+      "prix_base": 106500,
+      "name": "Super Cook Casserole 20 Cm",
+      "prix_comparaison": 92700,
+      "variation": -13800
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 14215,
-      "prix_base": 8500,
-      "name": "oignon moyen 1kg",
-      "prix_comparaison": 12000,
-      "variation": 3500
+      "list_id": 14596,
+      "prix_base": 603400,
+      "name": "Fer \u00e0 boucler Curl Secret 2 ( - ) (C1300E)",
+      "prix_comparaison": 525000,
+      "variation": -78400
+    },
+    {
+      "list_id": 29,
+      "prix_base": 514100,
+      "name": "Autocuiseur secure 6 L",
+      "prix_comparaison": 447300,
+      "variation": -66800
+    },
+    {
+      "list_id": 14594,
+      "prix_base": 485900,
+      "name": "Brosse soufflante rotative hydro fusion 700 W (AS773E)",
+      "prix_comparaison": 422800,
+      "variation": -63100
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 14215,
-      "name": "oignon moyen 1kg",
-      "prix_base": 8500,
-      "prix_comparaison": 12000,
-      "indice_prix": 141.1764705882353
+      "list_id": 5634,
+      "name": "Bloc WC 5en1 parfum Oc\u00e9an paquet de 3",
+      "prix_base": 10300,
+      "prix_comparaison": 10700,
+      "indice_prix": 103.88349514563107
+    },
+    {
+      "list_id": 34,
+      "name": "Super Cook Po\u00eale 20 cm",
+      "prix_base": 75900,
+      "prix_comparaison": 66100,
+      "indice_prix": 87.08827404479578
+    },
+    {
+      "list_id": 14593,
+      "name": "Tondeuse cheveux lames XL (E695E)",
+      "prix_base": 132200,
+      "prix_comparaison": 115100,
+      "indice_prix": 87.06505295007564
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 14215,
-      "name": "oignon moyen 1kg",
-      "prix_base": 8500,
-      "prix_comparaison": 12000,
-      "indice_prix": 141.1764705882353
+      "list_id": 14566,
+      "name": "S\u00e8che Cheveux AC Smooth pro 2100 W (6709DE)",
+      "prix_base": 317000,
+      "prix_comparaison": 275800,
+      "indice_prix": 87.0031545741325
+    },
+    {
+      "list_id": 32,
+      "name": "Super Cook Faitout Avec Couvercle 4,71 L",
+      "prix_base": 194700,
+      "prix_comparaison": 169400,
+      "indice_prix": 87.00564971751412
+    },
+    {
+      "list_id": 29,
+      "name": "Autocuiseur secure 6 L",
+      "prix_base": 514100,
+      "prix_comparaison": 447300,
+      "indice_prix": 87.00641898463334
     }
   ]
 }

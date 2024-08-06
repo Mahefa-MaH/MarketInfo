@@ -1,59 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_compotedepommeallegeeboc720g_",
-      "name": "Compote De Pomme Allegee Boc 720g",
-      "prix_base": 12270,
-      "prix_comparaison": 16000,
-      "variation": 3730
+      "cle": "produit_cahierscolaire192pagesseyesa42339w_",
+      "name": "Cahier scolaire 192pages seyes A4 | 2339W",
+      "prix_base": 121,
+      "prix_comparaison": 162,
+      "variation": 41
+    },
+    {
+      "cle": "produit_cahierscolaire96pagesseyespfprotegesplastique139wa_",
+      "name": "Cahier scolaire 96pages Seyes PF Prot\u00e8ges plastique | 139WA",
+      "prix_base": 53,
+      "prix_comparaison": 71,
+      "variation": 18
+    },
+    {
+      "cle": "produit_cahierscolaire96pagesseyespf139wb_",
+      "name": "Cahier scolaire 96 pages Seyes PF | 139WB",
+      "prix_base": 44,
+      "prix_comparaison": 58,
+      "variation": 14
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_cocktaildefruitsausirop44820gralba_",
-      "name": "Cocktail de Fruits au Sirop 4/4 820gr Alba",
-      "prix_base": 25600,
-      "prix_comparaison": 11400,
-      "variation": -14200
+      "cle": "produit_cahierscolaire96pagesseyespf139wb_",
+      "name": "Cahier scolaire 96 pages Seyes PF | 139WB",
+      "prix_base": 44,
+      "prix_comparaison": 58,
+      "variation": 14
     },
     {
-      "cle": "produit_compotedepommeallegeeboc720g_",
-      "name": "Compote De Pomme Allegee Boc 720g",
-      "prix_base": 12270,
-      "prix_comparaison": 16000,
-      "variation": 3730
+      "cle": "produit_cahierscolaire96pagesseyespfprotegesplastique139wa_",
+      "name": "Cahier scolaire 96pages Seyes PF Prot\u00e8ges plastique | 139WA",
+      "prix_base": 53,
+      "prix_comparaison": 71,
+      "variation": 18
+    },
+    {
+      "cle": "produit_cahierscolaire192pagesseyesa42339w_",
+      "name": "Cahier scolaire 192pages seyes A4 | 2339W",
+      "prix_base": 121,
+      "prix_comparaison": 162,
+      "variation": 41
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_compotedepommeallegeeboc720g_",
-      "name": "Compote De Pomme Allegee Boc 720g",
-      "prix_base": 12270,
-      "prix_comparaison": 16000,
-      "indice_prix": 130.39934800325997
+      "cle": "produit_cahierscolaire96pagesseyespfprotegesplastique139wa_",
+      "name": "Cahier scolaire 96pages Seyes PF Prot\u00e8ges plastique | 139WA",
+      "prix_base": 53,
+      "prix_comparaison": 71,
+      "indice_prix": 133.96226415094338
     },
     {
-      "cle": "produit_cocktaildefruitsausirop44820gralba_",
-      "name": "Cocktail de Fruits au Sirop 4/4 820gr Alba",
-      "prix_base": 25600,
-      "prix_comparaison": 11400,
-      "indice_prix": 44.53125
+      "cle": "produit_cahierscolaire192pagesseyesa42339w_",
+      "name": "Cahier scolaire 192pages seyes A4 | 2339W",
+      "prix_base": 121,
+      "prix_comparaison": 162,
+      "indice_prix": 133.88429752066116
+    },
+    {
+      "cle": "produit_cahierscolaire96pagesseyespf139wb_",
+      "name": "Cahier scolaire 96 pages Seyes PF | 139WB",
+      "prix_base": 44,
+      "prix_comparaison": 58,
+      "indice_prix": 131.8181818181818
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_cocktaildefruitsausirop44820gralba_",
-      "name": "Cocktail de Fruits au Sirop 4/4 820gr Alba",
-      "prix_base": 25600,
-      "prix_comparaison": 11400,
-      "indice_prix": 44.53125
+      "cle": "produit_cahierscolaire96pagesseyespf139wb_",
+      "name": "Cahier scolaire 96 pages Seyes PF | 139WB",
+      "prix_base": 44,
+      "prix_comparaison": 58,
+      "indice_prix": 131.8181818181818
     },
     {
-      "cle": "produit_compotedepommeallegeeboc720g_",
-      "name": "Compote De Pomme Allegee Boc 720g",
-      "prix_base": 12270,
-      "prix_comparaison": 16000,
-      "indice_prix": 130.39934800325997
+      "cle": "produit_cahierscolaire192pagesseyesa42339w_",
+      "name": "Cahier scolaire 192pages seyes A4 | 2339W",
+      "prix_base": 121,
+      "prix_comparaison": 162,
+      "indice_prix": 133.88429752066116
+    },
+    {
+      "cle": "produit_cahierscolaire96pagesseyespfprotegesplastique139wa_",
+      "name": "Cahier scolaire 96pages Seyes PF Prot\u00e8ges plastique | 139WA",
+      "prix_base": 53,
+      "prix_comparaison": 71,
+      "indice_prix": 133.96226415094338
     }
   ]
 }
