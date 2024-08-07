@@ -1,34 +1,104 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3829,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 13200,
-      "prix_comparaison": 13000,
-      "variation": -200
+      "list_id": 5531,
+      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 100 ml",
+      "prix_base": 186000,
+      "prix_comparaison": 6200,
+      "variation": -179800
     },
     {
-      "list_id": 8678,
-      "name": "C\u00e9r\u00e9ales Corn Flakes Equilibrio 0% Sucre 375 g",
-      "prix_base": 17300,
-      "prix_comparaison": 18800,
-      "variation": 1500
+      "list_id": 5532,
+      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 500 ml",
+      "prix_base": 136900,
+      "prix_comparaison": 11400,
+      "variation": -125500
+    },
+    {
+      "list_id": 5543,
+      "name": "Spray anti-moustiques naturel aux 5 Huiles Essentielles 100 ml",
+      "prix_base": 109500,
+      "prix_comparaison": 7300,
+      "variation": -102200
+    },
+    {
+      "list_id": 5677,
+      "name": "Cr\u00e8me lavante amande douce 300 ml",
+      "prix_base": 91200,
+      "prix_comparaison": 3900,
+      "variation": -87300
+    },
+    {
+      "list_id": 5685,
+      "name": "Gel mains hydroalcoolique Huiles Essentielles 300 ml",
+      "prix_base": 81600,
+      "prix_comparaison": 6800,
+      "variation": -74800
+    },
+    {
+      "list_id": 5533,
+      "name": "Parfum d'ambiance aux Huiles essentielles 300 ml",
+      "prix_base": 57400,
+      "prix_comparaison": 4800,
+      "variation": -52600
+    },
+    {
+      "list_id": 2591,
+      "name": "Cr\u00e8me Soft 200 Ml",
+      "prix_base": 23200,
+      "prix_comparaison": 33000,
+      "variation": 9800
     }
   ],
   "indice de prix": [
     {
-      "list_id": 3829,
-      "name": "Huile De Tournesol 1 L",
-      "prix_base": 13200,
-      "prix_comparaison": 13000,
-      "indice_prix": 98.48484848484848
+      "list_id": 5531,
+      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 100 ml",
+      "prix_base": 186000,
+      "prix_comparaison": 6200,
+      "indice_prix": 3.3333333333333335
     },
     {
-      "list_id": 8678,
-      "name": "C\u00e9r\u00e9ales Corn Flakes Equilibrio 0% Sucre 375 g",
-      "prix_base": 17300,
-      "prix_comparaison": 18800,
-      "indice_prix": 108.67052023121387
+      "list_id": 5677,
+      "name": "Cr\u00e8me lavante amande douce 300 ml",
+      "prix_base": 91200,
+      "prix_comparaison": 3900,
+      "indice_prix": 4.276315789473684
+    },
+    {
+      "list_id": 5543,
+      "name": "Spray anti-moustiques naturel aux 5 Huiles Essentielles 100 ml",
+      "prix_base": 109500,
+      "prix_comparaison": 7300,
+      "indice_prix": 6.666666666666667
+    },
+    {
+      "list_id": 5532,
+      "name": "Purificateur d'air \u00e0 base d'Huiles essentielles 500 ml",
+      "prix_base": 136900,
+      "prix_comparaison": 11400,
+      "indice_prix": 8.327246165084002
+    },
+    {
+      "list_id": 5685,
+      "name": "Gel mains hydroalcoolique Huiles Essentielles 300 ml",
+      "prix_base": 81600,
+      "prix_comparaison": 6800,
+      "indice_prix": 8.333333333333334
+    },
+    {
+      "list_id": 5533,
+      "name": "Parfum d'ambiance aux Huiles essentielles 300 ml",
+      "prix_base": 57400,
+      "prix_comparaison": 4800,
+      "indice_prix": 8.362369337979095
+    },
+    {
+      "list_id": 2591,
+      "name": "Cr\u00e8me Soft 200 Ml",
+      "prix_base": 23200,
+      "prix_comparaison": 33000,
+      "indice_prix": 142.24137931034483
     }
   ]
 }
