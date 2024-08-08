@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7950,
-      "prix_comparaison": 7950,
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 288000,
+      "prix_comparaison": 288000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 10663,
-      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
-      "prix_base": 9400,
-      "prix_comparaison": 9400,
+      "list_id": 13304,
+      "name": "Riz Rouge (Vary mena) 50kg",
+      "prix_base": 240000,
+      "prix_comparaison": 240000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 14631,
-      "name": "Sac de riz de luxe Makalioka 50 Kg",
-      "prix_base": 216000,
-      "prix_comparaison": 216000,
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
       "variation": 0,
       "indice_prix": 100.0
     }

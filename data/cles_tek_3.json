@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 158400,
+      "prix_comparaison": 158400,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 368,
       "name": "Sucre Blanc 1 Kg",
       "prix_base": 13700,
@@ -9,18 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 3100,
-      "prix_comparaison": 3100,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 3826,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 6500,
-      "prix_comparaison": 6500,
+      "list_id": 14649,
+      "name": "Haricots Rouges secs (Tsaramaso mena maina ) 1kg",
+      "prix_base": 4200,
+      "prix_comparaison": 4200,
       "variation": 0,
       "indice_prix": 100.0
     }

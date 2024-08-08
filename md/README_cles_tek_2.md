@@ -2,9 +2,9 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz blanc parfumé 5 kg**
-   - Prix avant: 40,800 Ar
-   - Prix actuel: 40,800 Ar
+1. **Riz  rouge Mangamila ( Vary mena ) 50 kg**
+   - Prix avant: 192,000 Ar
+   - Prix actuel: 192,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz blanc import de Inde 50 kg**
-   - Prix avant: 158,400 Ar
-   - Prix actuel: 158,400 Ar
+3. **Sucre blanc Import 50 kg**
+   - Prix avant: 290,000 Ar
+   - Prix actuel: 290,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
