@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Sucre blanc 1 kg**
-   - Prix avant: 7,950 Ar
-   - Prix actuel: 7,950 Ar
+1. **Riz de Luxe Makalioka 5kg**
+   - Prix avant: 23,000 Ar
+   - Prix actuel: 23,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucrettes blanches  50 g**
-   - Prix avant: 7,000 Ar
-   - Prix actuel: 7,000 Ar
+2. **Haricots Rouges secs (Tsaramaso mena maina ) 1kg**
+   - Prix avant: 4,200 Ar
+   - Prix actuel: 4,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre Blanc 250 g**
-   - Prix avant: 3,100 Ar
-   - Prix actuel: 3,100 Ar
+3. **Riz Rouge (Vary mena) 50kg**
+   - Prix avant: 240,000 Ar
+   - Prix actuel: 240,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
