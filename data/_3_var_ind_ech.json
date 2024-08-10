@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_cahierscolaire192pagesseyesa42339w_",
-      "name": "Cahier scolaire 192pages seyes A4 | 2339W",
-      "prix_base": 121,
-      "prix_comparaison": 162,
-      "variation": 41
+      "cle": "produit_fromagetranchehamburgerx10leaderprice240g_",
+      "name": "Fromage Tranche Hamburger x10  240g",
+      "prix_base": 262,
+      "prix_comparaison": 349,
+      "variation": 87
     },
     {
-      "cle": "produit_cahierscolaire96pagesseyespfprotegesplastique139wa_",
-      "name": "Cahier scolaire 96pages Seyes PF Prot\u00e8ges plastique | 139WA",
-      "prix_base": 53,
-      "prix_comparaison": 71,
-      "variation": 18
-    },
-    {
-      "cle": "produit_cahierscolaire96pagesseyespf139wb_",
-      "name": "Cahier scolaire 96 pages Seyes PF | 139WB",
-      "prix_base": 44,
-      "prix_comparaison": 58,
-      "variation": 14
+      "cle": "produit_fromageemmentalrapeleaderprice200g_",
+      "name": "Fromage Emmental Rap\u00e9  Valmartin\u2122 200g",
+      "prix_base": 540,
+      "prix_comparaison": 616,
+      "variation": 76
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_cahierscolaire96pagesseyespf139wb_",
-      "name": "Cahier scolaire 96 pages Seyes PF | 139WB",
-      "prix_base": 44,
-      "prix_comparaison": 58,
-      "variation": 14
+      "cle": "produit_fromageemmentalrapeleaderprice200g_",
+      "name": "Fromage Emmental Rap\u00e9  Valmartin\u2122 200g",
+      "prix_base": 540,
+      "prix_comparaison": 616,
+      "variation": 76
     },
     {
-      "cle": "produit_cahierscolaire96pagesseyespfprotegesplastique139wa_",
-      "name": "Cahier scolaire 96pages Seyes PF Prot\u00e8ges plastique | 139WA",
-      "prix_base": 53,
-      "prix_comparaison": 71,
-      "variation": 18
-    },
-    {
-      "cle": "produit_cahierscolaire192pagesseyesa42339w_",
-      "name": "Cahier scolaire 192pages seyes A4 | 2339W",
-      "prix_base": 121,
-      "prix_comparaison": 162,
-      "variation": 41
+      "cle": "produit_fromagetranchehamburgerx10leaderprice240g_",
+      "name": "Fromage Tranche Hamburger x10  240g",
+      "prix_base": 262,
+      "prix_comparaison": 349,
+      "variation": 87
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_cahierscolaire96pagesseyespfprotegesplastique139wa_",
-      "name": "Cahier scolaire 96pages Seyes PF Prot\u00e8ges plastique | 139WA",
-      "prix_base": 53,
-      "prix_comparaison": 71,
-      "indice_prix": 133.96226415094338
+      "cle": "produit_fromagetranchehamburgerx10leaderprice240g_",
+      "name": "Fromage Tranche Hamburger x10  240g",
+      "prix_base": 262,
+      "prix_comparaison": 349,
+      "indice_prix": 133.206106870229
     },
     {
-      "cle": "produit_cahierscolaire192pagesseyesa42339w_",
-      "name": "Cahier scolaire 192pages seyes A4 | 2339W",
-      "prix_base": 121,
-      "prix_comparaison": 162,
-      "indice_prix": 133.88429752066116
-    },
-    {
-      "cle": "produit_cahierscolaire96pagesseyespf139wb_",
-      "name": "Cahier scolaire 96 pages Seyes PF | 139WB",
-      "prix_base": 44,
-      "prix_comparaison": 58,
-      "indice_prix": 131.8181818181818
+      "cle": "produit_fromageemmentalrapeleaderprice200g_",
+      "name": "Fromage Emmental Rap\u00e9  Valmartin\u2122 200g",
+      "prix_base": 540,
+      "prix_comparaison": 616,
+      "indice_prix": 114.07407407407408
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_cahierscolaire96pagesseyespf139wb_",
-      "name": "Cahier scolaire 96 pages Seyes PF | 139WB",
-      "prix_base": 44,
-      "prix_comparaison": 58,
-      "indice_prix": 131.8181818181818
+      "cle": "produit_fromageemmentalrapeleaderprice200g_",
+      "name": "Fromage Emmental Rap\u00e9  Valmartin\u2122 200g",
+      "prix_base": 540,
+      "prix_comparaison": 616,
+      "indice_prix": 114.07407407407408
     },
     {
-      "cle": "produit_cahierscolaire192pagesseyesa42339w_",
-      "name": "Cahier scolaire 192pages seyes A4 | 2339W",
-      "prix_base": 121,
-      "prix_comparaison": 162,
-      "indice_prix": 133.88429752066116
-    },
-    {
-      "cle": "produit_cahierscolaire96pagesseyespfprotegesplastique139wa_",
-      "name": "Cahier scolaire 96pages Seyes PF Prot\u00e8ges plastique | 139WA",
-      "prix_base": 53,
-      "prix_comparaison": 71,
-      "indice_prix": 133.96226415094338
+      "cle": "produit_fromagetranchehamburgerx10leaderprice240g_",
+      "name": "Fromage Tranche Hamburger x10  240g",
+      "prix_base": 262,
+      "prix_comparaison": 349,
+      "indice_prix": 133.206106870229
     }
   ]
 }

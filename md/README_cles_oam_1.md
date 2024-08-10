@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM X - 24 Go**
-   - Prix avant: 11,114,000 Ar
-   - Prix actuel: 11,114,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+1. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 18,231,000 Ar
+   - Prix actuel: 17,254,000 Ar
+   - Variation: -977,000 Ar
+   - Indice de prix : 94.64
 
-2. **MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go**
-   - Prix avant: 11,532,000 Ar
-   - Prix actuel: 11,532,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+2. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 14,149,000 Ar
+   - Prix actuel: 14,031,000 Ar
+   - Variation: -118,000 Ar
+   - Indice de prix : 99.17
 
-3. **GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB**
-   - Prix avant: 10,044,000 Ar
-   - Prix actuel: 10,044,000 Ar
+3. **Onduleur APC Smart-UPS RV 10000VA 230V**
+   - Prix avant: 17,500,000 Ar
+   - Prix actuel: 17,500,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

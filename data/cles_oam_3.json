@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63232appleipadpro2022129wificellular1toargent0194253255185_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi + Cellular - 1 To - Argent",
-      "prix_base": 11846000,
-      "prix_comparaison": 11846000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 11189000,
+      "prix_comparaison": 11418000,
+      "variation": 229000,
+      "indice_prix": 102.04665296273126
     },
     {
-      "cle": "tablettetactile_143115appleipadpro202413wificellulaire1toargent0195949246760_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Argent",
-      "prix_base": 12865000,
-      "prix_comparaison": 12865000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "ordinateurportable_133930apple14macbookprom3pro2023ram18gostockage1tonoirsideralazerty0195949077012_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 14149000,
+      "prix_comparaison": 14438000,
+      "variation": 289000,
+      "indice_prix": 102.0425471764789
     },
     {
-      "cle": "tablettetactile_141602appleipadpro202413wificellulaire1tonoirsideral0195949246463_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral",
-      "prix_base": 12865000,
-      "prix_comparaison": 12865000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
+      "prix_base": 14632000,
+      "prix_comparaison": 14931000,
+      "variation": 299000,
+      "indice_prix": 102.04346637506835
     }
   ]
 }

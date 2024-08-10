@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "machineacafeexpressobroyeur_49156machineacafeexpressobroyeurdelonghiecam65085msgrisconnecteprimadonnaeliteexperience8004399331648_html",
-      "name": "Machine expresso broyeur - DELONGHI PrimaDonna Elite Experience ECAM650.85.MS - Gris - Connect\u00e9 - Machine a caf\u00e9 grains",
-      "prix_base": 10209000,
-      "prix_comparaison": 10209000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "ordinateurportable_143322apple15macbookairm32024ram16gostockage512gogrissideralazerty0195949637490_html",
+      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Gris Sid\u00e9ral - AZERTY",
+      "prix_base": 10001000,
+      "prix_comparaison": 10205000,
+      "variation": 204000,
+      "indice_prix": 102.03979602039796
     },
     {
-      "cle": "ensemblesommiermatelas_139434ensemblerelaxationelectriquephysiomaxmatelassommiers2x90x200cmressortsensachesdekodreamergo65412618139396_html",
-      "name": "Ensemble relaxation \u00e9lectrique PHYSIOMAX - matelas + sommiers 2x90x200 cm - Ressorts ensach\u00e9s - DEKO DREAM ERGO 6",
-      "prix_base": 10021000,
-      "prix_comparaison": 10021000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "ordinateurportable_139119apple15macbookairm32024ram16gostockage512golumierestellaireazerty0195949638435_html",
+      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Lumiere Stellaire - AZERTY",
+      "prix_base": 10003000,
+      "prix_comparaison": 10207000,
+      "variation": 204000,
+      "indice_prix": 102.03938818354494
     },
     {
-      "cle": "ensemblesommiermatelas_52218dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x90x200cmmatelasressortsensaches5412618134476_html",
-      "name": "Ensemble matelas + sommiers relaxation \u00e9lectrique - 2x90x200 cm - Matelas ressorts ensach\u00e9s - ERGO 9 Dreamzone - DEKO DREAM",
-      "prix_base": 10389000,
-      "prix_comparaison": 11095000,
-      "variation": 706000,
-      "indice_prix": 106.7956492443931
+      "cle": "ordinateurportable_140305apple15macbookairm32024ram16gostockage512gominuitazerty0195949638909_html",
+      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Minuit - AZERTY",
+      "prix_base": 10548000,
+      "prix_comparaison": 10761000,
+      "variation": 213000,
+      "indice_prix": 102.0193401592719
     }
   ]
 }

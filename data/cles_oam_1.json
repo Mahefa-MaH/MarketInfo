@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "cartegraphiqueinterne_85864msigeforcecartegraphiquertx4090suprimx24go4711377019200_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM X - 24 Go",
-      "prix_base": 11114000,
-      "prix_comparaison": 11114000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "ordinateurportable_133928apple16macbookprom3max2023ram36gostockage1toargentazerty0195949076138_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 18231000,
+      "prix_comparaison": 17254000,
+      "variation": -977000,
+      "indice_prix": 94.64099610553453
     },
     {
-      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
-      "prix_base": 11532000,
-      "prix_comparaison": 11532000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "ordinateurportable_133932apple14macbookprom3pro2023ram18gostockage1toargentazerty0195949078330_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 14149000,
+      "prix_comparaison": 14031000,
+      "variation": -118000,
+      "indice_prix": 99.1660187999152
     },
     {
-      "cle": "cartegraphiqueinterne_85666gigabytecartegraphiquegeforcertx4090gamingoc24gb4719331311438_html",
-      "name": "GIGABYTE Carte Graphique GeForce RTX 4090 Gaming OC 24GB",
-      "prix_base": 10044000,
-      "prix_comparaison": 10044000,
+      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
+      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
+      "prix_base": 17500000,
+      "prix_comparaison": 17500000,
       "variation": 0,
       "indice_prix": 100.0
     }

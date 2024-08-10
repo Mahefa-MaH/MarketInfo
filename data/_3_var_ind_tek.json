@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 6708,
-      "prix_base": 8600,
-      "name": "D\u00e9boucheur concentr\u00e9 granul\u00e9 300 g",
-      "prix_comparaison": 9800,
-      "variation": 1200
+      "list_id": 14635,
+      "prix_base": 7200,
+      "name": "Farine boulang\u00e8re 1kg",
+      "prix_comparaison": 8100,
+      "variation": 900
+    },
+    {
+      "list_id": 3566,
+      "prix_base": 3600,
+      "name": "Bonbons Wild Berry 45 G",
+      "prix_comparaison": 4400,
+      "variation": 800
+    },
+    {
+      "list_id": 5211,
+      "prix_base": 18300,
+      "name": "Rame de papier A4 80 g",
+      "prix_comparaison": 18400,
+      "variation": 100
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 6708,
-      "prix_base": 8600,
-      "name": "D\u00e9boucheur concentr\u00e9 granul\u00e9 300 g",
-      "prix_comparaison": 9800,
-      "variation": 1200
+      "list_id": 5211,
+      "prix_base": 18300,
+      "name": "Rame de papier A4 80 g",
+      "prix_comparaison": 18400,
+      "variation": 100
+    },
+    {
+      "list_id": 3566,
+      "prix_base": 3600,
+      "name": "Bonbons Wild Berry 45 G",
+      "prix_comparaison": 4400,
+      "variation": 800
+    },
+    {
+      "list_id": 14635,
+      "prix_base": 7200,
+      "name": "Farine boulang\u00e8re 1kg",
+      "prix_comparaison": 8100,
+      "variation": 900
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 6708,
-      "name": "D\u00e9boucheur concentr\u00e9 granul\u00e9 300 g",
-      "prix_base": 8600,
-      "prix_comparaison": 9800,
-      "indice_prix": 113.95348837209302
+      "list_id": 3566,
+      "name": "Bonbons Wild Berry 45 G",
+      "prix_base": 3600,
+      "prix_comparaison": 4400,
+      "indice_prix": 122.22222222222223
+    },
+    {
+      "list_id": 14635,
+      "name": "Farine boulang\u00e8re 1kg",
+      "prix_base": 7200,
+      "prix_comparaison": 8100,
+      "indice_prix": 112.5
+    },
+    {
+      "list_id": 5211,
+      "name": "Rame de papier A4 80 g",
+      "prix_base": 18300,
+      "prix_comparaison": 18400,
+      "indice_prix": 100.5464480874317
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 6708,
-      "name": "D\u00e9boucheur concentr\u00e9 granul\u00e9 300 g",
-      "prix_base": 8600,
-      "prix_comparaison": 9800,
-      "indice_prix": 113.95348837209302
+      "list_id": 5211,
+      "name": "Rame de papier A4 80 g",
+      "prix_base": 18300,
+      "prix_comparaison": 18400,
+      "indice_prix": 100.5464480874317
+    },
+    {
+      "list_id": 14635,
+      "name": "Farine boulang\u00e8re 1kg",
+      "prix_base": 7200,
+      "prix_comparaison": 8100,
+      "indice_prix": 112.5
+    },
+    {
+      "list_id": 3566,
+      "name": "Bonbons Wild Berry 45 G",
+      "prix_base": 3600,
+      "prix_comparaison": 4400,
+      "indice_prix": 122.22222222222223
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8267,
-      "name": "Sucre rouge 1 kg",
-      "prix_base": 5682,
-      "prix_comparaison": 5682,
+      "list_id": 13777,
+      "name": "Riz Complet Rouge Vary Gasy 5kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 9687,
-      "name": "Sucre blanc 1 kg",
-      "prix_base": 7950,
-      "prix_comparaison": 7950,
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9500,
+      "prix_comparaison": 9500,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 9679,
-      "name": "Sucrettes blanches  50 g",
-      "prix_base": 7000,
-      "prix_comparaison": 7000,
+      "list_id": 13776,
+      "name": "Riz Blanchi Makalioka 5kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     }

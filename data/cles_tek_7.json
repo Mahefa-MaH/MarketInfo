@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13775,
-      "name": "Riz de Luxe Makalioka 5kg",
-      "prix_base": 23000,
-      "prix_comparaison": 23000,
+      "list_id": 9687,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 7950,
+      "prix_comparaison": 7950,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 14649,
-      "name": "Haricots Rouges secs (Tsaramaso mena maina ) 1kg",
-      "prix_base": 4200,
-      "prix_comparaison": 4200,
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 158400,
+      "prix_comparaison": 158400,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13304,
-      "name": "Riz Rouge (Vary mena) 50kg",
-      "prix_base": 240000,
-      "prix_comparaison": 240000,
+      "list_id": 9679,
+      "name": "Sucrettes blanches  50 g",
+      "prix_base": 7000,
+      "prix_comparaison": 7000,
       "variation": 0,
       "indice_prix": 100.0
     }
