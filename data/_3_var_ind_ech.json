@@ -1,66 +1,30 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_fromagetranchehamburgerx10leaderprice240g_",
-      "name": "Fromage Tranche Hamburger x10  240g",
-      "prix_base": 262,
-      "prix_comparaison": 349,
-      "variation": 87
-    },
-    {
-      "cle": "produit_fromageemmentalrapeleaderprice200g_",
-      "name": "Fromage Emmental Rap\u00e9  Valmartin\u2122 200g",
-      "prix_base": 540,
-      "prix_comparaison": 616,
-      "variation": 76
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_fromageemmentalrapeleaderprice200g_",
-      "name": "Fromage Emmental Rap\u00e9  Valmartin\u2122 200g",
-      "prix_base": 540,
-      "prix_comparaison": 616,
-      "variation": 76
-    },
-    {
-      "cle": "produit_fromagetranchehamburgerx10leaderprice240g_",
-      "name": "Fromage Tranche Hamburger x10  240g",
-      "prix_base": 262,
-      "prix_comparaison": 349,
-      "variation": 87
+      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
+      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
+      "prix_base": 124,
+      "prix_comparaison": 110,
+      "variation": -14
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_fromagetranchehamburgerx10leaderprice240g_",
-      "name": "Fromage Tranche Hamburger x10  240g",
-      "prix_base": 262,
-      "prix_comparaison": 349,
-      "indice_prix": 133.206106870229
-    },
-    {
-      "cle": "produit_fromageemmentalrapeleaderprice200g_",
-      "name": "Fromage Emmental Rap\u00e9  Valmartin\u2122 200g",
-      "prix_base": 540,
-      "prix_comparaison": 616,
-      "indice_prix": 114.07407407407408
+      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
+      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
+      "prix_base": 124,
+      "prix_comparaison": 110,
+      "indice_prix": 88.70967741935483
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_fromageemmentalrapeleaderprice200g_",
-      "name": "Fromage Emmental Rap\u00e9  Valmartin\u2122 200g",
-      "prix_base": 540,
-      "prix_comparaison": 616,
-      "indice_prix": 114.07407407407408
-    },
-    {
-      "cle": "produit_fromagetranchehamburgerx10leaderprice240g_",
-      "name": "Fromage Tranche Hamburger x10  240g",
-      "prix_base": 262,
-      "prix_comparaison": 349,
-      "indice_prix": 133.206106870229
+      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
+      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
+      "prix_base": 124,
+      "prix_comparaison": 110,
+      "indice_prix": 88.70967741935483
     }
   ]
 }

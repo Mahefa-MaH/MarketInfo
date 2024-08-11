@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13777,
-      "name": "Riz Complet Rouge Vary Gasy 5kg",
-      "prix_base": 19800,
-      "prix_comparaison": 19800,
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 288000,
+      "prix_comparaison": 288000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3827,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 9500,
-      "prix_comparaison": 9500,
+      "list_id": 8528,
+      "name": "Riz blanc import de Inde 50 kg",
+      "prix_base": 158400,
+      "prix_comparaison": 158400,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 13776,
-      "name": "Riz Blanchi Makalioka 5kg",
-      "prix_base": 19800,
-      "prix_comparaison": 19800,
+      "list_id": 368,
+      "name": "Sucre Blanc 1 Kg",
+      "prix_base": 13700,
+      "prix_comparaison": 13700,
       "variation": 0,
       "indice_prix": 100.0
     }
