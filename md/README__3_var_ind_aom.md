@@ -2,109 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **DEKODREAM Ensemble Relaxation Matelas mousse 2x90x200 cm + Sommier TPR electrique**
-   - Prix avant: 6,471,000 Ar
-   - Prix actuel: 7,516,000 Ar
-   - Variation: +1,045,000 Ar
+1. **Filtre microplastiques SAMSUNG - Compatible avec toutes les marques**
+   - Prix avant: 757,000 Ar
+   - Prix actuel: 790,000 Ar
+   - Variation: +33,000 Ar
 
-2. **Ensemble matelas + sommiers relaxation électrique - 2x90x200 cm - Matelas ressorts ensachés - ERGO 9 Dreamzone - DEKO DREAM**
-   - Prix avant: 10,389,000 Ar
-   - Prix actuel: 11,095,000 Ar
-   - Variation: +706,000 Ar
+2. **Table a repasser - DOMO - DO7116P - Pliable - Compact - Bleu**
+   - Prix avant: 282,000 Ar
+   - Prix actuel: 294,000 Ar
+   - Variation: +12,000 Ar
 
-3. **DEKO DREAM Ensemble matelas+sommier relaxation électrique COMFORT Dreamzone - 140x200 cm - Matelas ressorts ensachés**
-   - Prix avant: 5,621,000 Ar
-   - Prix actuel: 6,084,000 Ar
-   - Variation: +463,000 Ar
+3. **Fer vapeur - DOMO - DO7052S - Débit vapeur 40g/min - Jet vapeur 120g/min**
+   - Prix avant: 256,000 Ar
+   - Prix actuel: 268,000 Ar
+   - Variation: +12,000 Ar
 
-4. **Matelas 140x200 cm - 580 ressorts ensachés - 7 zones de confort - 24 cm - DEKO DREAM Détente**
-   - Prix avant: 2,291,000 Ar
-   - Prix actuel: 2,720,000 Ar
-   - Variation: +429,000 Ar
+4. **APC - APC Essential SurgeArrest - Multiprise - 230V**
+   - Prix avant: 369,000 Ar
+   - Prix actuel: 377,000 Ar
+   - Variation: +8,000 Ar
 
-5. **Ensemble relaxation Matelas + sommier 2x80x200cm MERIDA - Chene clair - 14cm - Ferme**
-   - Prix avant: 5,726,000 Ar
-   - Prix actuel: 6,084,000 Ar
-   - Variation: +358,000 Ar
+5. **Bouteille 1L Lave-Vaisselle Fuse Edition Limitée - SODASTREAM**
+   - Prix avant: 111,000 Ar
+   - Prix actuel: 116,000 Ar
+   - Variation: +5,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Ensemble Meuble salle de bain suspendu JUNE L120 - Double vasque + 2 Tiroirs - Coloris chene mercure - Style scandinave**
-   - Prix avant: 3,937,000 Ar
-   - Prix actuel: 3,221,000 Ar
-   - Variation: -716,000 Ar
+1. **LEIFHEIT 72565 Table a repasser Air Board Express M Solid, planche a repasser pliante 120x38 cm, avec support pour centrale vape**
+   - Prix avant: 1,097,000 Ar
+   - Prix actuel: 1,067,000 Ar
+   - Variation: -30,000 Ar
 
-2. **ECOFRIENDLY Ensemble Matelas + Sommier 90 x 190 cm - OLIVE GREEN**
-   - Prix avant: 2,304,000 Ar
-   - Prix actuel: 1,810,000 Ar
-   - Variation: -494,000 Ar
+2. **Réductions des rides et raffermissement du visage - SILK'N Facetite Essentials - FTE1PE1R001**
+   - Prix avant: 1,321,000 Ar
+   - Prix actuel: 1,314,000 Ar
+   - Variation: -7,000 Ar
 
-3. **Colonne double AMANDA - 4 portes + 1 niche - L73 x P31 x H190 cm - Blanc - TRENDTEAM**
-   - Prix avant: 2,767,000 Ar
-   - Prix actuel: 2,299,000 Ar
-   - Variation: -468,000 Ar
+3. **Lave-vaisselle tout intégrable HOTPOINT HI5030W - 14 couverts - Induction - L60cm - 43dB**
+   - Prix avant: 4,106,000 Ar
+   - Prix actuel: 4,100,000 Ar
+   - Variation: -6,000 Ar
 
-4. **Ensemble relaxation électrique COMFORT matelas + sommier - 140x200 cm - Mousse - DEKO DREAM Samba**
-   - Prix avant: 5,512,000 Ar
-   - Prix actuel: 5,044,000 Ar
-   - Variation: -468,000 Ar
+4. **Lave-linge séchant CANDY CSWS4128TWME - 12 / 8 kg - Induction - 1400 trs/min - Vapeur - Connecté - Classe A - Blanc**
+   - Prix avant: 5,507,000 Ar
+   - Prix actuel: 5,504,000 Ar
+   - Variation: -3,000 Ar
 
-5. **Ensemble matelas + sommiers 2 x 90 x 200cm - Ressorts ensachés - 24 cm - 7 zones de confort - Équilibré - DÉKO DREAM Détente**
-   - Prix avant: 4,152,000 Ar
-   - Prix actuel: 3,722,000 Ar
-   - Variation: -430,000 Ar
+5. **Seche-linge pompe a chaleur BOSCH WTH83014FR SER4 - 8 kg - Classe A+ - Tambour Inox - Blanc**
+   - Prix avant: 4,845,000 Ar
+   - Prix actuel: 4,844,000 Ar
+   - Variation: -1,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **DORMIPUR Matelas 90x190cm - Mousse mémoire de forme - 16cm**
-   - Prix avant: 912,000 Ar
-   - Prix actuel: 1,127,000 Ar
-   - Indice de prix : 123.57
+1. **Fer vapeur - DOMO - DO7052S - Débit vapeur 40g/min - Jet vapeur 120g/min**
+   - Prix avant: 256,000 Ar
+   - Prix actuel: 268,000 Ar
+   - Indice de prix : 104.69
 
-2. **Matelas 70x140 cm HAHTUVA - Mousse - Ferme - 14 cm - 5 zones - DEKO DREAM**
-   - Prix avant: 483,000 Ar
-   - Prix actuel: 580,000 Ar
-   - Indice de prix : 120.08
+2. **Bouteille 1L Lave-Vaisselle Classique - SODASTREAM**
+   - Prix avant: 107,000 Ar
+   - Prix actuel: 112,000 Ar
+   - Indice de prix : 104.67
 
-3. **DEKO DREAM Matelas 90x190 cm HAHTUVA - Mousse - Ferme - 14 cm - 5 zones**
-   - Prix avant: 760,000 Ar
-   - Prix actuel: 912,000 Ar
-   - Indice de prix : 120.00
+3. **Bouteille 1L Lave-Vaisselle Fuse Edition Limitée - SODASTREAM**
+   - Prix avant: 111,000 Ar
+   - Prix actuel: 116,000 Ar
+   - Indice de prix : 104.50
 
-4. **Matelas 140x200 cm - 580 ressorts ensachés - 7 zones de confort - 24 cm - DEKO DREAM Détente**
-   - Prix avant: 2,291,000 Ar
-   - Prix actuel: 2,720,000 Ar
-   - Indice de prix : 118.73
+4. **Filtre microplastiques SAMSUNG - Compatible avec toutes les marques**
+   - Prix avant: 757,000 Ar
+   - Prix actuel: 790,000 Ar
+   - Indice de prix : 104.36
 
-5. **DEKO DREAM Pack matelas 140x190cm + couette 240x220 + 2 oreillers MISA**
-   - Prix avant: 1,243,000 Ar
-   - Prix actuel: 1,468,000 Ar
-   - Indice de prix : 118.10
+5. **Table a repasser - DOMO - DO7116P - Pliable - Compact - Bleu**
+   - Prix avant: 282,000 Ar
+   - Prix actuel: 294,000 Ar
+   - Indice de prix : 104.26
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **ECOFRIENDLY Ensemble Matelas + Sommier 90 x 190 cm - OLIVE GREEN**
-   - Prix avant: 2,304,000 Ar
-   - Prix actuel: 1,810,000 Ar
-   - Indice de prix : 78.56
+1. **LEIFHEIT 72565 Table a repasser Air Board Express M Solid, planche a repasser pliante 120x38 cm, avec support pour centrale vape**
+   - Prix avant: 1,097,000 Ar
+   - Prix actuel: 1,067,000 Ar
+   - Indice de prix : 97.27
 
-2. **Ensemble Meuble salle de bain suspendu JUNE L120 - Double vasque + 2 Tiroirs - Coloris chene mercure - Style scandinave**
-   - Prix avant: 3,937,000 Ar
-   - Prix actuel: 3,221,000 Ar
-   - Indice de prix : 81.81
+2. **LEIFHEIT Housse table a repasser Cotton Comfort S/M 71601 Leifheit pour planche a repasser 120 x 40 cm maximum rembourrage 4 mm**
+   - Prix avant: 134,000 Ar
+   - Prix actuel: 133,000 Ar
+   - Indice de prix : 99.25
 
-3. **Colonne double AMANDA - 4 portes + 1 niche - L73 x P31 x H190 cm - Blanc - TRENDTEAM**
-   - Prix avant: 2,767,000 Ar
-   - Prix actuel: 2,299,000 Ar
-   - Indice de prix : 83.09
+3. **LEIFHEIT Housse pour table a repasser Perfect Steam - AirBoard Express M - 125x40 cm**
+   - Prix avant: 149,000 Ar
+   - Prix actuel: 148,000 Ar
+   - Indice de prix : 99.33
 
-4. **Matelas mousse 90 x 190 cm - Ferme - 16 cm - DEKO DREAM Kiva**
-   - Prix avant: 940,000 Ar
-   - Prix actuel: 805,000 Ar
-   - Indice de prix : 85.64
+4. **Réductions des rides et raffermissement du visage - SILK'N Facetite Essentials - FTE1PE1R001**
+   - Prix avant: 1,321,000 Ar
+   - Prix actuel: 1,314,000 Ar
+   - Indice de prix : 99.47
 
-5. **Colonne de salle de bain AMANDA - 2 portes - L37 x P31 x H190 cm - Gris - TRENDTEAM**
-   - Prix avant: 2,116,000 Ar
-   - Prix actuel: 1,861,000 Ar
-   - Indice de prix : 87.95
+5. **Les Schtroumpfs Village Party - Jeu PS4**
+   - Prix avant: 202,000 Ar
+   - Prix actuel: 201,000 Ar
+   - Indice de prix : 99.50
 

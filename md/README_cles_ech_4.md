@@ -3,14 +3,14 @@
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
 1. **Sucre blanc 1kg| En vrac**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 7,200 Ar
+   - Prix avant: 158 Ar
+   - Prix actuel: 158 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz blanc parfumé Madame Rose™ 5kg | Riz de Madagascar Naturellement parfumé**
-   - Prix avant: 40,000 Ar
-   - Prix actuel: 40,000 Ar
+2. **Sucre Blanc Ramatoa™ 1kg | Sucre de canne raffiné**
+   - Prix avant: 209 Ar
+   - Prix actuel: 209 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

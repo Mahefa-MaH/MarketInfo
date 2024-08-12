@@ -3,16 +3,16 @@
     {
       "cle": "produit_sucreblanc1kgenvrac_",
       "name": "Sucre blanc 1kg| En vrac",
-      "prix_base": 7200,
-      "prix_comparaison": 7200,
+      "prix_base": 158,
+      "prix_comparaison": 158,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_rizparfumemadamerosemadagascar5kg_",
-      "name": "Riz blanc parfum\u00e9 Madame Rose\u2122 5kg | Riz de Madagascar Naturellement parfum\u00e9",
-      "prix_base": 40000,
-      "prix_comparaison": 40000,
+      "cle": "produit_sucreblancramatoa1kg_",
+      "name": "Sucre Blanc Ramatoa\u2122 1kg | Sucre de canne raffin\u00e9",
+      "prix_base": 209,
+      "prix_comparaison": 209,
       "variation": 0,
       "indice_prix": 100.0
     }
