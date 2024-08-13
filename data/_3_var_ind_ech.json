@@ -1,30 +1,38 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_collepaillettee12ml3deli_",
+      "name": "Colle paillett\u00e9e 12ML*3 Deli\u2122",
+      "prix_base": 99,
+      "prix_comparaison": 121,
+      "variation": 22
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
-      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
-      "prix_base": 124,
-      "prix_comparaison": 110,
-      "variation": -14
+      "cle": "produit_collepaillettee12ml3deli_",
+      "name": "Colle paillett\u00e9e 12ML*3 Deli\u2122",
+      "prix_base": 99,
+      "prix_comparaison": 121,
+      "variation": 22
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
-      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
-      "prix_base": 124,
-      "prix_comparaison": 110,
-      "indice_prix": 88.70967741935483
+      "cle": "produit_collepaillettee12ml3deli_",
+      "name": "Colle paillett\u00e9e 12ML*3 Deli\u2122",
+      "prix_base": 99,
+      "prix_comparaison": 121,
+      "indice_prix": 122.22222222222223
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
-      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
-      "prix_base": 124,
-      "prix_comparaison": 110,
-      "indice_prix": 88.70967741935483
+      "cle": "produit_collepaillettee12ml3deli_",
+      "name": "Colle paillett\u00e9e 12ML*3 Deli\u2122",
+      "prix_base": 99,
+      "prix_comparaison": 121,
+      "indice_prix": 122.22222222222223
     }
   ]
 }

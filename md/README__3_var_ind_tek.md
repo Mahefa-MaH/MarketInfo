@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Farine boulangère 1kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 8,100 Ar
-   - Variation: +900 Ar
+1. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454**
+   - Prix avant: 64,800 Ar
+   - Prix actuel: 87,200 Ar
+   - Variation: +22,400 Ar
 
-2. **Bonbons Wild Berry 45 G**
-   - Prix avant: 3,600 Ar
-   - Prix actuel: 4,400 Ar
-   - Variation: +800 Ar
+2. **Maxell Alkaline Battery D Size Lr20(Gd) 2B - 2Pcs/Pack**
+   - Prix avant: 13,600 Ar
+   - Prix actuel: 15,100 Ar
+   - Variation: +1,500 Ar
 
-3. **Rame de papier A4 80 g**
-   - Prix avant: 18,300 Ar
-   - Prix actuel: 18,400 Ar
-   - Variation: +100 Ar
+3. **Piles Alkaline Battery C Size Lr14(Gd) 2B 1,5 V**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 10,900 Ar
+   - Variation: +1,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Rame de papier A4 80 g**
-   - Prix avant: 18,300 Ar
-   - Prix actuel: 18,400 Ar
-   - Variation: +100 Ar
+1. **Piles Alkaline Battery C Size Lr14(Gd) 2B 1,5 V**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 10,900 Ar
+   - Variation: +1,000 Ar
 
-2. **Bonbons Wild Berry 45 G**
-   - Prix avant: 3,600 Ar
-   - Prix actuel: 4,400 Ar
-   - Variation: +800 Ar
+2. **Maxell Alkaline Battery D Size Lr20(Gd) 2B - 2Pcs/Pack**
+   - Prix avant: 13,600 Ar
+   - Prix actuel: 15,100 Ar
+   - Variation: +1,500 Ar
 
-3. **Farine boulangère 1kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 8,100 Ar
-   - Variation: +900 Ar
+3. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454**
+   - Prix avant: 64,800 Ar
+   - Prix actuel: 87,200 Ar
+   - Variation: +22,400 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Bonbons Wild Berry 45 G**
-   - Prix avant: 3,600 Ar
-   - Prix actuel: 4,400 Ar
-   - Indice de prix : 122.22
+1. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454**
+   - Prix avant: 64,800 Ar
+   - Prix actuel: 87,200 Ar
+   - Indice de prix : 134.57
 
-2. **Farine boulangère 1kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 8,100 Ar
-   - Indice de prix : 112.50
+2. **Maxell Alkaline Battery D Size Lr20(Gd) 2B - 2Pcs/Pack**
+   - Prix avant: 13,600 Ar
+   - Prix actuel: 15,100 Ar
+   - Indice de prix : 111.03
 
-3. **Rame de papier A4 80 g**
-   - Prix avant: 18,300 Ar
-   - Prix actuel: 18,400 Ar
-   - Indice de prix : 100.55
+3. **Piles Alkaline Battery C Size Lr14(Gd) 2B 1,5 V**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 10,900 Ar
+   - Indice de prix : 110.10
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Rame de papier A4 80 g**
-   - Prix avant: 18,300 Ar
-   - Prix actuel: 18,400 Ar
-   - Indice de prix : 100.55
+1. **Piles Alkaline Battery C Size Lr14(Gd) 2B 1,5 V**
+   - Prix avant: 9,900 Ar
+   - Prix actuel: 10,900 Ar
+   - Indice de prix : 110.10
 
-2. **Farine boulangère 1kg**
-   - Prix avant: 7,200 Ar
-   - Prix actuel: 8,100 Ar
-   - Indice de prix : 112.50
+2. **Maxell Alkaline Battery D Size Lr20(Gd) 2B - 2Pcs/Pack**
+   - Prix avant: 13,600 Ar
+   - Prix actuel: 15,100 Ar
+   - Indice de prix : 111.03
 
-3. **Bonbons Wild Berry 45 G**
-   - Prix avant: 3,600 Ar
-   - Prix actuel: 4,400 Ar
-   - Indice de prix : 122.22
+3. **Crème Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454**
+   - Prix avant: 64,800 Ar
+   - Prix actuel: 87,200 Ar
+   - Indice de prix : 134.57
 

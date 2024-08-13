@@ -2,109 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Filtre microplastiques SAMSUNG - Compatible avec toutes les marques**
-   - Prix avant: 757,000 Ar
-   - Prix actuel: 790,000 Ar
-   - Variation: +33,000 Ar
+1. **Drone DJI Mini 3 et radiocommande DJI RC - OB03777 - Compact et ultraléger -Vidéo HDR 4K**
+   - Prix avant: 62,000 Ar
+   - Prix actuel: 3,111,000 Ar
+   - Variation: +3,049,000 Ar
 
-2. **Table a repasser - DOMO - DO7116P - Pliable - Compact - Bleu**
-   - Prix avant: 282,000 Ar
-   - Prix actuel: 294,000 Ar
-   - Variation: +12,000 Ar
+2. **Drone - DJI - Mini 2 SE Fly More Combo - Gris - Caméra intégrée - Transmission vidéo HD**
+   - Prix avant: 97,000 Ar
+   - Prix actuel: 2,310,000 Ar
+   - Variation: +2,213,000 Ar
 
-3. **Fer vapeur - DOMO - DO7052S - Débit vapeur 40g/min - Jet vapeur 120g/min**
-   - Prix avant: 256,000 Ar
-   - Prix actuel: 268,000 Ar
-   - Variation: +12,000 Ar
+3. **Coupe bordures - dresse bordures RYOBI 18V One+ - 1 batterie 5.0 Ah - 1 chargeur rapide RLT183250F**
+   - Prix avant: 337,000 Ar
+   - Prix actuel: 1,237,000 Ar
+   - Variation: +900,000 Ar
 
-4. **APC - APC Essential SurgeArrest - Multiprise - 230V**
-   - Prix avant: 369,000 Ar
-   - Prix actuel: 377,000 Ar
-   - Variation: +8,000 Ar
+4. **DEEPCOOL - MYSTIQUE 240 (Noir) - Watercooling AIO**
+   - Prix avant: 130,000 Ar
+   - Prix actuel: 873,000 Ar
+   - Variation: +743,000 Ar
 
-5. **Bouteille 1L Lave-Vaisselle Fuse Edition Limitée - SODASTREAM**
-   - Prix avant: 111,000 Ar
-   - Prix actuel: 116,000 Ar
-   - Variation: +5,000 Ar
+5. **Garmin Compteur GPS de vélo Edge Explore**
+   - Prix avant: 19,000 Ar
+   - Prix actuel: 751,000 Ar
+   - Variation: +732,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **LEIFHEIT 72565 Table a repasser Air Board Express M Solid, planche a repasser pliante 120x38 cm, avec support pour centrale vape**
-   - Prix avant: 1,097,000 Ar
-   - Prix actuel: 1,067,000 Ar
-   - Variation: -30,000 Ar
+1. **Watercooling - CORSAIR - iCUE LINK RGB H150i RGB AIO - Radiateur 360mm - Refroidissement Liquide pour processeur (CW-9061003-WW)**
+   - Prix avant: 1,581,000 Ar
+   - Prix actuel: 1,467,000 Ar
+   - Variation: -114,000 Ar
 
-2. **Réductions des rides et raffermissement du visage - SILK'N Facetite Essentials - FTE1PE1R001**
-   - Prix avant: 1,321,000 Ar
-   - Prix actuel: 1,314,000 Ar
-   - Variation: -7,000 Ar
+2. **ARCTIC Alpine 23 CO - Ventirad CPU**
+   - Prix avant: 103,000 Ar
+   - Prix actuel: 104,000 Ar
+   - Variation: +1,000 Ar
 
-3. **Lave-vaisselle tout intégrable HOTPOINT HI5030W - 14 couverts - Induction - L60cm - 43dB**
-   - Prix avant: 4,106,000 Ar
-   - Prix actuel: 4,100,000 Ar
-   - Variation: -6,000 Ar
+3. **ZALMAN ZM-F3 (SF) - Ventilateur 120mm pour boitier**
+   - Prix avant: 69,000 Ar
+   - Prix actuel: 70,000 Ar
+   - Variation: +1,000 Ar
 
-4. **Lave-linge séchant CANDY CSWS4128TWME - 12 / 8 kg - Induction - 1400 trs/min - Vapeur - Connecté - Classe A - Blanc**
-   - Prix avant: 5,507,000 Ar
-   - Prix actuel: 5,504,000 Ar
-   - Variation: -3,000 Ar
+4. **XIGMATEK X20F (FRGB) - Ventilateur 120mm FRGB pour boitier**
+   - Prix avant: 72,000 Ar
+   - Prix actuel: 73,000 Ar
+   - Variation: +1,000 Ar
 
-5. **Seche-linge pompe a chaleur BOSCH WTH83014FR SER4 - 8 kg - Classe A+ - Tambour Inox - Blanc**
-   - Prix avant: 4,845,000 Ar
-   - Prix actuel: 4,844,000 Ar
-   - Variation: -1,000 Ar
+5. **Papier photo HP Q5451A - 25 feuilles A4**
+   - Prix avant: 105,000 Ar
+   - Prix actuel: 106,000 Ar
+   - Variation: +1,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Fer vapeur - DOMO - DO7052S - Débit vapeur 40g/min - Jet vapeur 120g/min**
-   - Prix avant: 256,000 Ar
-   - Prix actuel: 268,000 Ar
-   - Indice de prix : 104.69
+1. **Drone DJI Mini 3 et radiocommande DJI RC - OB03777 - Compact et ultraléger -Vidéo HDR 4K**
+   - Prix avant: 62,000 Ar
+   - Prix actuel: 3,111,000 Ar
+   - Indice de prix : 5017.74
 
-2. **Bouteille 1L Lave-Vaisselle Classique - SODASTREAM**
-   - Prix avant: 107,000 Ar
-   - Prix actuel: 112,000 Ar
-   - Indice de prix : 104.67
+2. **Garmin Compteur GPS de vélo Edge Explore**
+   - Prix avant: 19,000 Ar
+   - Prix actuel: 751,000 Ar
+   - Indice de prix : 3952.63
 
-3. **Bouteille 1L Lave-Vaisselle Fuse Edition Limitée - SODASTREAM**
-   - Prix avant: 111,000 Ar
-   - Prix actuel: 116,000 Ar
-   - Indice de prix : 104.50
+3. **Drone - DJI - Mini 2 SE Fly More Combo - Gris - Caméra intégrée - Transmission vidéo HD**
+   - Prix avant: 97,000 Ar
+   - Prix actuel: 2,310,000 Ar
+   - Indice de prix : 2381.44
 
-4. **Filtre microplastiques SAMSUNG - Compatible avec toutes les marques**
-   - Prix avant: 757,000 Ar
-   - Prix actuel: 790,000 Ar
-   - Indice de prix : 104.36
+4. **KODAK - Papier ZINK 2 x 3 Pack de 50 feuilles pour appareil PRINTOMATIC - Papier premium - Couleurs vives HD - Anti-bavures**
+   - Prix avant: 13,000 Ar
+   - Prix actuel: 234,000 Ar
+   - Indice de prix : 1800.00
 
-5. **Table a repasser - DOMO - DO7116P - Pliable - Compact - Bleu**
-   - Prix avant: 282,000 Ar
-   - Prix actuel: 294,000 Ar
-   - Indice de prix : 104.26
+5. **Disque dur externe - INTENSO - 2,5' - 500Go - Noir**
+   - Prix avant: 17,000 Ar
+   - Prix actuel: 263,000 Ar
+   - Indice de prix : 1547.06
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **LEIFHEIT 72565 Table a repasser Air Board Express M Solid, planche a repasser pliante 120x38 cm, avec support pour centrale vape**
-   - Prix avant: 1,097,000 Ar
-   - Prix actuel: 1,067,000 Ar
-   - Indice de prix : 97.27
+1. **Watercooling - CORSAIR - iCUE LINK RGB H150i RGB AIO - Radiateur 360mm - Refroidissement Liquide pour processeur (CW-9061003-WW)**
+   - Prix avant: 1,581,000 Ar
+   - Prix actuel: 1,467,000 Ar
+   - Indice de prix : 92.79
 
-2. **LEIFHEIT Housse table a repasser Cotton Comfort S/M 71601 Leifheit pour planche a repasser 120 x 40 cm maximum rembourrage 4 mm**
-   - Prix avant: 134,000 Ar
-   - Prix actuel: 133,000 Ar
-   - Indice de prix : 99.25
+2. **Microphone USB - Blue Yeti Premium - Pour Enregistrement, Streaming, Gaming, Podcast sur PC ou Mac - Blanc White Mist**
+   - Prix avant: 747,000 Ar
+   - Prix actuel: 748,000 Ar
+   - Indice de prix : 100.13
 
-3. **LEIFHEIT Housse pour table a repasser Perfect Steam - AirBoard Express M - 125x40 cm**
-   - Prix avant: 149,000 Ar
-   - Prix actuel: 148,000 Ar
-   - Indice de prix : 99.33
+3. **Powerplus Coupe-Bordure Électrique POWEG6015 - 300 W, 250 mm Ø, Jardinage Outillage,Coupe-Herbe pour votre Jardin**
+   - Prix avant: 344,000 Ar
+   - Prix actuel: 347,000 Ar
+   - Indice de prix : 100.87
 
-4. **Réductions des rides et raffermissement du visage - SILK'N Facetite Essentials - FTE1PE1R001**
-   - Prix avant: 1,321,000 Ar
-   - Prix actuel: 1,314,000 Ar
-   - Indice de prix : 99.47
+4. **Barre porte de traction -Multifonctionnelle - SCHILDKRÖT**
+   - Prix avant: 326,000 Ar
+   - Prix actuel: 329,000 Ar
+   - Indice de prix : 100.92
 
-5. **Les Schtroumpfs Village Party - Jeu PS4**
-   - Prix avant: 202,000 Ar
-   - Prix actuel: 201,000 Ar
-   - Indice de prix : 99.50
+5. **Barre porte de traction -Multifonctionnelle - SCHILDKRÖT**
+   - Prix avant: 320,000 Ar
+   - Prix actuel: 323,000 Ar
+   - Indice de prix : 100.94
 

@@ -1,76 +1,34 @@
 {
   "Variation de prix": [
     {
-      "cle": "televiseurled_57295samsungqe65qn700btvneoqled8k65163cmhdr10sondolbyatmossmarttv4xhdmi218806094194630_html",
-      "name": "SAMSUNG - QE65QN700B - TV Neo Qled - 8K - 65 (163 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1",
-      "prix_base": 13148000,
-      "prix_comparaison": 9045000,
-      "variation": -4103000
+      "cle": "kiosquegazebo_141762lotde3lampionssolaireslumiskyshangrilah20cmrosecremeetorangeledblancchaud3760093541794_html",
+      "name": "Lot de 3 lampions solaires - LUMISKY - SHANGRI LA - H20 cm - Rose, creme et orange - LED blanc chaud",
+      "prix_base": 174000,
+      "prix_comparaison": 173000,
+      "variation": -1000
     },
     {
-      "cle": "televiseurled_63330samsungqe55qn700btvneoqled8k55138cmhdr10sondolbyatmossmarttv4xhdmi218806094194623_html",
-      "name": "SAMSUNG - QE55QN700B - TV Neo Qled - 8K - 55 (138 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1",
-      "prix_base": 8910000,
-      "prix_comparaison": 7470000,
-      "variation": -1440000
-    },
-    {
-      "cle": "televiseurled_136432continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb3701542102821_html",
-      "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
-      "prix_base": 1624000,
-      "prix_comparaison": 1634000,
-      "variation": 10000
-    },
-    {
-      "cle": "televiseurled_137685continentaledisonceled43sauhd24b343108cmuhd4ksmarttvandroid3xhdmi2xusb3701542102838_html",
-      "name": "CONTINENTAL EDISON - CELED43SAUHD24B3 - 43 (108 cm) - UHD 4K - Smart TV Android - 3xHDMI - 2xUSB",
-      "prix_base": 1789000,
-      "prix_comparaison": 1829000,
-      "variation": 40000
-    },
-    {
-      "cle": "televiseurled_140497samsungtu43au7175kxxctvled43109cm4kuhd3840x2160gaminghubhdrsmarttv3xhdmi8806094908121_html",
-      "name": "SAMSUNG TU43AU7175KXXC - TV LED 43 (109 cm) - 4K UHD 3840x2160 - Gaming Hub - HDR - Smart TV - 3xHDMI",
-      "prix_base": 2500000,
-      "prix_comparaison": 2677000,
-      "variation": 177000
+      "cle": "accessoirespieceslavagesechage_136215filtremicroplastiquessamsungcompatibleavectouteslesmarques8806095130569_html",
+      "name": "Filtre microplastiques SAMSUNG - Compatible avec toutes les marques",
+      "prix_base": 757000,
+      "prix_comparaison": 790000,
+      "variation": 33000
     }
   ],
   "indice de prix": [
     {
-      "cle": "televiseurled_57295samsungqe65qn700btvneoqled8k65163cmhdr10sondolbyatmossmarttv4xhdmi218806094194630_html",
-      "name": "SAMSUNG - QE65QN700B - TV Neo Qled - 8K - 65 (163 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1",
-      "prix_base": 13148000,
-      "prix_comparaison": 9045000,
-      "indice_prix": 68.79373288713113
+      "cle": "kiosquegazebo_141762lotde3lampionssolaireslumiskyshangrilah20cmrosecremeetorangeledblancchaud3760093541794_html",
+      "name": "Lot de 3 lampions solaires - LUMISKY - SHANGRI LA - H20 cm - Rose, creme et orange - LED blanc chaud",
+      "prix_base": 174000,
+      "prix_comparaison": 173000,
+      "indice_prix": 99.42528735632185
     },
     {
-      "cle": "televiseurled_63330samsungqe55qn700btvneoqled8k55138cmhdr10sondolbyatmossmarttv4xhdmi218806094194623_html",
-      "name": "SAMSUNG - QE55QN700B - TV Neo Qled - 8K - 55 (138 cm) - HDR10+ - son Dolby Atmos - Smart TV - 4 x HDMI 2.1",
-      "prix_base": 8910000,
-      "prix_comparaison": 7470000,
-      "indice_prix": 83.83838383838383
-    },
-    {
-      "cle": "televiseurled_136432continentaledisonceled40safhd24b340101cmfhd1920x1080tvsmartandroid2xhdmi1xusb3701542102821_html",
-      "name": "CONTINENTAL EDISON - CELED40SAFHD24B3 - 40 (101 cm) - FHD 1920x1080 - TV Smart Android - 2xHDMI - 1xUSB",
-      "prix_base": 1624000,
-      "prix_comparaison": 1634000,
-      "indice_prix": 100.61576354679804
-    },
-    {
-      "cle": "televiseurled_137685continentaledisonceled43sauhd24b343108cmuhd4ksmarttvandroid3xhdmi2xusb3701542102838_html",
-      "name": "CONTINENTAL EDISON - CELED43SAUHD24B3 - 43 (108 cm) - UHD 4K - Smart TV Android - 3xHDMI - 2xUSB",
-      "prix_base": 1789000,
-      "prix_comparaison": 1829000,
-      "indice_prix": 102.23588596981554
-    },
-    {
-      "cle": "televiseurled_140497samsungtu43au7175kxxctvled43109cm4kuhd3840x2160gaminghubhdrsmarttv3xhdmi8806094908121_html",
-      "name": "SAMSUNG TU43AU7175KXXC - TV LED 43 (109 cm) - 4K UHD 3840x2160 - Gaming Hub - HDR - Smart TV - 3xHDMI",
-      "prix_base": 2500000,
-      "prix_comparaison": 2677000,
-      "indice_prix": 107.08
+      "cle": "accessoirespieceslavagesechage_136215filtremicroplastiquessamsungcompatibleavectouteslesmarques8806095130569_html",
+      "name": "Filtre microplastiques SAMSUNG - Compatible avec toutes les marques",
+      "prix_base": 757000,
+      "prix_comparaison": 790000,
+      "indice_prix": 104.35931307793923
     }
   ]
 }
