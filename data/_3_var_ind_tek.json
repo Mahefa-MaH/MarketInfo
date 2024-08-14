@@ -1,94 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 4171,
-      "prix_base": 64800,
-      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454",
-      "prix_comparaison": 87200,
-      "variation": 22400
+      "list_id": 14030,
+      "prix_base": 223200,
+      "name": "Lampe portable lithium-ion 20W",
+      "prix_comparaison": 253000,
+      "variation": 29800
     },
     {
-      "list_id": 1252,
-      "prix_base": 13600,
-      "name": "Maxell Alkaline Battery D Size Lr20(Gd) 2B - 2Pcs/Pack",
-      "prix_comparaison": 15100,
-      "variation": 1500
-    },
-    {
-      "list_id": 1541,
-      "prix_base": 9900,
-      "name": "Piles Alkaline Battery C Size Lr14(Gd) 2B 1,5 V",
-      "prix_comparaison": 10900,
-      "variation": 1000
+      "list_id": 924,
+      "prix_base": 5500,
+      "name": "Boisson gazeuse Orange PET 1.5 L",
+      "prix_comparaison": 6000,
+      "variation": 500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 1541,
-      "prix_base": 9900,
-      "name": "Piles Alkaline Battery C Size Lr14(Gd) 2B 1,5 V",
-      "prix_comparaison": 10900,
-      "variation": 1000
+      "list_id": 924,
+      "prix_base": 5500,
+      "name": "Boisson gazeuse Orange PET 1.5 L",
+      "prix_comparaison": 6000,
+      "variation": 500
     },
     {
-      "list_id": 1252,
-      "prix_base": 13600,
-      "name": "Maxell Alkaline Battery D Size Lr20(Gd) 2B - 2Pcs/Pack",
-      "prix_comparaison": 15100,
-      "variation": 1500
-    },
-    {
-      "list_id": 4171,
-      "prix_base": 64800,
-      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454",
-      "prix_comparaison": 87200,
-      "variation": 22400
+      "list_id": 14030,
+      "prix_base": 223200,
+      "name": "Lampe portable lithium-ion 20W",
+      "prix_comparaison": 253000,
+      "variation": 29800
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 4171,
-      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454",
-      "prix_base": 64800,
-      "prix_comparaison": 87200,
-      "indice_prix": 134.5679012345679
+      "list_id": 14030,
+      "name": "Lampe portable lithium-ion 20W",
+      "prix_base": 223200,
+      "prix_comparaison": 253000,
+      "indice_prix": 113.35125448028674
     },
     {
-      "list_id": 1252,
-      "name": "Maxell Alkaline Battery D Size Lr20(Gd) 2B - 2Pcs/Pack",
-      "prix_base": 13600,
-      "prix_comparaison": 15100,
-      "indice_prix": 111.02941176470588
-    },
-    {
-      "list_id": 1541,
-      "name": "Piles Alkaline Battery C Size Lr14(Gd) 2B 1,5 V",
-      "prix_base": 9900,
-      "prix_comparaison": 10900,
-      "indice_prix": 110.1010101010101
+      "list_id": 924,
+      "name": "Boisson gazeuse Orange PET 1.5 L",
+      "prix_base": 5500,
+      "prix_comparaison": 6000,
+      "indice_prix": 109.0909090909091
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 1541,
-      "name": "Piles Alkaline Battery C Size Lr14(Gd) 2B 1,5 V",
-      "prix_base": 9900,
-      "prix_comparaison": 10900,
-      "indice_prix": 110.1010101010101
+      "list_id": 924,
+      "name": "Boisson gazeuse Orange PET 1.5 L",
+      "prix_base": 5500,
+      "prix_comparaison": 6000,
+      "indice_prix": 109.0909090909091
     },
     {
-      "list_id": 1252,
-      "name": "Maxell Alkaline Battery D Size Lr20(Gd) 2B - 2Pcs/Pack",
-      "prix_base": 13600,
-      "prix_comparaison": 15100,
-      "indice_prix": 111.02941176470588
-    },
-    {
-      "list_id": 4171,
-      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454",
-      "prix_base": 64800,
-      "prix_comparaison": 87200,
-      "indice_prix": 134.5679012345679
+      "list_id": 14030,
+      "name": "Lampe portable lithium-ion 20W",
+      "prix_base": 223200,
+      "prix_comparaison": 253000,
+      "indice_prix": 113.35125448028674
     }
   ]
 }

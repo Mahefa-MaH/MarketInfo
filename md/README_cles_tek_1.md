@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Sac de riz de luxe Makalioka 50 Kg**
-   - Prix avant: 216,000 Ar
-   - Prix actuel: 216,000 Ar
+1. **Riz Complet Rouge Vary Gasy 5kg**
+   - Prix avant: 19,800 Ar
+   - Prix actuel: 19,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Haricots Rouges secs (Tsaramaso mena maina ) 1kg**
-   - Prix avant: 4,200 Ar
-   - Prix actuel: 4,200 Ar
+2. **Huile De Soja 1 L**
+   - Prix avant: 9,500 Ar
+   - Prix actuel: 9,500 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre blanc Import 50 kg**
-   - Prix avant: 290,000 Ar
-   - Prix actuel: 290,000 Ar
+3. **Riz Blanchi Makalioka 5kg**
+   - Prix avant: 19,800 Ar
+   - Prix actuel: 19,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

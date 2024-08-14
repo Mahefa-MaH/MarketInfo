@@ -1,34 +1,48 @@
 {
   "Variation de prix": [
     {
-      "cle": "kiosquegazebo_141762lotde3lampionssolaireslumiskyshangrilah20cmrosecremeetorangeledblancchaud3760093541794_html",
-      "name": "Lot de 3 lampions solaires - LUMISKY - SHANGRI LA - H20 cm - Rose, creme et orange - LED blanc chaud",
-      "prix_base": 174000,
-      "prix_comparaison": 173000,
-      "variation": -1000
+      "cle": "disquedurexterne_136209disquessdexternesamsungt5evo2tousbtypecusb32gen18806094905403_html",
+      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 2To - USB Type C - USB 3.2 Gen1",
+      "prix_base": 1258000,
+      "prix_comparaison": 1284000,
+      "variation": 26000
     },
     {
-      "cle": "accessoirespieceslavagesechage_136215filtremicroplastiquessamsungcompatibleavectouteslesmarques8806095130569_html",
-      "name": "Filtre microplastiques SAMSUNG - Compatible avec toutes les marques",
-      "prix_base": 757000,
-      "prix_comparaison": 790000,
-      "variation": 33000
+      "cle": "disquedurexterne_135596disquessdexternesamsungt5evo4tousbtypecusb32gen18806094905410_html",
+      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 4To - USB Type C - USB 3.2 Gen1",
+      "prix_base": 2239000,
+      "prix_comparaison": 2284000,
+      "variation": 45000
+    },
+    {
+      "cle": "disquedurexterne_135595disquessdexternesamsungt5evo8tousbtypecusb32gen18806094905427_html",
+      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 8To - USB Type C - USB 3.2 Gen1",
+      "prix_base": 3973000,
+      "prix_comparaison": 4054000,
+      "variation": 81000
     }
   ],
   "indice de prix": [
     {
-      "cle": "kiosquegazebo_141762lotde3lampionssolaireslumiskyshangrilah20cmrosecremeetorangeledblancchaud3760093541794_html",
-      "name": "Lot de 3 lampions solaires - LUMISKY - SHANGRI LA - H20 cm - Rose, creme et orange - LED blanc chaud",
-      "prix_base": 174000,
-      "prix_comparaison": 173000,
-      "indice_prix": 99.42528735632185
+      "cle": "disquedurexterne_135596disquessdexternesamsungt5evo4tousbtypecusb32gen18806094905410_html",
+      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 4To - USB Type C - USB 3.2 Gen1",
+      "prix_base": 2239000,
+      "prix_comparaison": 2284000,
+      "indice_prix": 102.00982581509602
     },
     {
-      "cle": "accessoirespieceslavagesechage_136215filtremicroplastiquessamsungcompatibleavectouteslesmarques8806095130569_html",
-      "name": "Filtre microplastiques SAMSUNG - Compatible avec toutes les marques",
-      "prix_base": 757000,
-      "prix_comparaison": 790000,
-      "indice_prix": 104.35931307793923
+      "cle": "disquedurexterne_135595disquessdexternesamsungt5evo8tousbtypecusb32gen18806094905427_html",
+      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 8To - USB Type C - USB 3.2 Gen1",
+      "prix_base": 3973000,
+      "prix_comparaison": 4054000,
+      "indice_prix": 102.03876164107727
+    },
+    {
+      "cle": "disquedurexterne_136209disquessdexternesamsungt5evo2tousbtypecusb32gen18806094905403_html",
+      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 2To - USB Type C - USB 3.2 Gen1",
+      "prix_base": 1258000,
+      "prix_comparaison": 1284000,
+      "indice_prix": 102.06677265500795
     }
   ]
 }
