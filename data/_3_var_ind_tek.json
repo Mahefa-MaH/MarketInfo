@@ -1,66 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 14030,
-      "prix_base": 223200,
-      "name": "Lampe portable lithium-ion 20W",
-      "prix_comparaison": 253000,
-      "variation": 29800
+      "list_id": 14659,
+      "prix_base": 330000,
+      "name": "Bonbons sucettes Best Of Rueda Box Kangourou x200 pi\u00e8ces",
+      "prix_comparaison": 396000,
+      "variation": 66000
     },
     {
-      "list_id": 924,
-      "prix_base": 5500,
-      "name": "Boisson gazeuse Orange PET 1.5 L",
-      "prix_comparaison": 6000,
-      "variation": 500
+      "list_id": 373,
+      "prix_base": 13900,
+      "name": "F\u00e9cule De Manioc 1 Kg",
+      "prix_comparaison": 15400,
+      "variation": 1500
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 924,
-      "prix_base": 5500,
-      "name": "Boisson gazeuse Orange PET 1.5 L",
-      "prix_comparaison": 6000,
-      "variation": 500
+      "list_id": 373,
+      "prix_base": 13900,
+      "name": "F\u00e9cule De Manioc 1 Kg",
+      "prix_comparaison": 15400,
+      "variation": 1500
     },
     {
-      "list_id": 14030,
-      "prix_base": 223200,
-      "name": "Lampe portable lithium-ion 20W",
-      "prix_comparaison": 253000,
-      "variation": 29800
+      "list_id": 14659,
+      "prix_base": 330000,
+      "name": "Bonbons sucettes Best Of Rueda Box Kangourou x200 pi\u00e8ces",
+      "prix_comparaison": 396000,
+      "variation": 66000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 14030,
-      "name": "Lampe portable lithium-ion 20W",
-      "prix_base": 223200,
-      "prix_comparaison": 253000,
-      "indice_prix": 113.35125448028674
+      "list_id": 14659,
+      "name": "Bonbons sucettes Best Of Rueda Box Kangourou x200 pi\u00e8ces",
+      "prix_base": 330000,
+      "prix_comparaison": 396000,
+      "indice_prix": 120.0
     },
     {
-      "list_id": 924,
-      "name": "Boisson gazeuse Orange PET 1.5 L",
-      "prix_base": 5500,
-      "prix_comparaison": 6000,
-      "indice_prix": 109.0909090909091
+      "list_id": 373,
+      "name": "F\u00e9cule De Manioc 1 Kg",
+      "prix_base": 13900,
+      "prix_comparaison": 15400,
+      "indice_prix": 110.79136690647482
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 924,
-      "name": "Boisson gazeuse Orange PET 1.5 L",
-      "prix_base": 5500,
-      "prix_comparaison": 6000,
-      "indice_prix": 109.0909090909091
+      "list_id": 373,
+      "name": "F\u00e9cule De Manioc 1 Kg",
+      "prix_base": 13900,
+      "prix_comparaison": 15400,
+      "indice_prix": 110.79136690647482
     },
     {
-      "list_id": 14030,
-      "name": "Lampe portable lithium-ion 20W",
-      "prix_base": 223200,
-      "prix_comparaison": 253000,
-      "indice_prix": 113.35125448028674
+      "list_id": 14659,
+      "name": "Bonbons sucettes Best Of Rueda Box Kangourou x200 pi\u00e8ces",
+      "prix_base": 330000,
+      "prix_comparaison": 396000,
+      "indice_prix": 120.0
     }
   ]
 }

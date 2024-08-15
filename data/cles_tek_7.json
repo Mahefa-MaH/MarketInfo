@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 14631,
-      "name": "Sac de riz de luxe Makalioka 50 Kg",
-      "prix_base": 216000,
-      "prix_comparaison": 216000,
+      "list_id": 14604,
+      "name": "Sucre blanc Import 50 kg",
+      "prix_base": 290000,
+      "prix_comparaison": 290000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 8528,
-      "name": "Riz blanc import de Inde 50 kg",
-      "prix_base": 158400,
-      "prix_comparaison": 158400,
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 288000,
+      "prix_comparaison": 288000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 3826,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 6500,
-      "prix_comparaison": 6500,
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 11800,
+      "prix_comparaison": 11800,
       "variation": 0,
       "indice_prix": 100.0
     }
