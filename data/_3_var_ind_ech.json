@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_collepaillettee12ml3deli_",
-      "name": "Colle paillett\u00e9e 12ML*3 Deli\u2122",
-      "prix_base": 99,
-      "prix_comparaison": 121,
-      "variation": 22
+      "cle": "produit_rechaudagazsimplefeuakita_",
+      "name": "R\u00e9chaud \u00e0 Gaz Simple feu Akita",
+      "prix_base": 1408,
+      "prix_comparaison": 1540,
+      "variation": 132
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_collepaillettee12ml3deli_",
-      "name": "Colle paillett\u00e9e 12ML*3 Deli\u2122",
-      "prix_base": 99,
-      "prix_comparaison": 121,
-      "variation": 22
+      "cle": "produit_rechaudagazsimplefeuakita_",
+      "name": "R\u00e9chaud \u00e0 Gaz Simple feu Akita",
+      "prix_base": 1408,
+      "prix_comparaison": 1540,
+      "variation": 132
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_collepaillettee12ml3deli_",
-      "name": "Colle paillett\u00e9e 12ML*3 Deli\u2122",
-      "prix_base": 99,
-      "prix_comparaison": 121,
-      "indice_prix": 122.22222222222223
+      "cle": "produit_rechaudagazsimplefeuakita_",
+      "name": "R\u00e9chaud \u00e0 Gaz Simple feu Akita",
+      "prix_base": 1408,
+      "prix_comparaison": 1540,
+      "indice_prix": 109.375
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_collepaillettee12ml3deli_",
-      "name": "Colle paillett\u00e9e 12ML*3 Deli\u2122",
-      "prix_base": 99,
-      "prix_comparaison": 121,
-      "indice_prix": 122.22222222222223
+      "cle": "produit_rechaudagazsimplefeuakita_",
+      "name": "R\u00e9chaud \u00e0 Gaz Simple feu Akita",
+      "prix_base": 1408,
+      "prix_comparaison": 1540,
+      "indice_prix": 109.375
     }
   ]
 }
