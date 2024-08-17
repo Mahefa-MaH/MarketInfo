@@ -1,66 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 14659,
-      "prix_base": 330000,
-      "name": "Bonbons sucettes Best Of Rueda Box Kangourou x200 pi\u00e8ces",
-      "prix_comparaison": 396000,
-      "variation": 66000
-    },
-    {
-      "list_id": 373,
-      "prix_base": 13900,
-      "name": "F\u00e9cule De Manioc 1 Kg",
-      "prix_comparaison": 15400,
-      "variation": 1500
+      "list_id": 3824,
+      "prix_base": 288000,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_comparaison": 290000,
+      "variation": 2000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 373,
-      "prix_base": 13900,
-      "name": "F\u00e9cule De Manioc 1 Kg",
-      "prix_comparaison": 15400,
-      "variation": 1500
-    },
-    {
-      "list_id": 14659,
-      "prix_base": 330000,
-      "name": "Bonbons sucettes Best Of Rueda Box Kangourou x200 pi\u00e8ces",
-      "prix_comparaison": 396000,
-      "variation": 66000
+      "list_id": 3824,
+      "prix_base": 288000,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_comparaison": 290000,
+      "variation": 2000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 14659,
-      "name": "Bonbons sucettes Best Of Rueda Box Kangourou x200 pi\u00e8ces",
-      "prix_base": 330000,
-      "prix_comparaison": 396000,
-      "indice_prix": 120.0
-    },
-    {
-      "list_id": 373,
-      "name": "F\u00e9cule De Manioc 1 Kg",
-      "prix_base": 13900,
-      "prix_comparaison": 15400,
-      "indice_prix": 110.79136690647482
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 288000,
+      "prix_comparaison": 290000,
+      "indice_prix": 100.69444444444444
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 373,
-      "name": "F\u00e9cule De Manioc 1 Kg",
-      "prix_base": 13900,
-      "prix_comparaison": 15400,
-      "indice_prix": 110.79136690647482
-    },
-    {
-      "list_id": 14659,
-      "name": "Bonbons sucettes Best Of Rueda Box Kangourou x200 pi\u00e8ces",
-      "prix_base": 330000,
-      "prix_comparaison": 396000,
-      "indice_prix": 120.0
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 288000,
+      "prix_comparaison": 290000,
+      "indice_prix": 100.69444444444444
     }
   ]
 }

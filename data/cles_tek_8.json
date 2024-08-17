@@ -1,10 +1,18 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13776,
-      "name": "Riz Blanchi Makalioka 5kg",
-      "prix_base": 19800,
-      "prix_comparaison": 19800,
+      "list_id": 14649,
+      "name": "Haricots Rouges secs (Tsaramaso mena maina ) 1kg",
+      "prix_base": 4200,
+      "prix_comparaison": 4200,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 3828,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 11800,
+      "prix_comparaison": 11800,
       "variation": 0,
       "indice_prix": 100.0
     }

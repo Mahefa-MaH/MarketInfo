@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 4171,
-      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454",
-      "prix_base": 64800,
-      "prix_comparaison": 87200,
-      "variation": 22400
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 288000,
+      "prix_comparaison": 290000,
+      "variation": 2000
     }
   ],
   "indice de prix": [
     {
-      "list_id": 4171,
-      "name": "Cr\u00e8me Gloss Coloration Ton Sur Ton Pour Cheveux Sans Ammoniaque Brownie 454",
-      "prix_base": 64800,
-      "prix_comparaison": 87200,
-      "indice_prix": 134.5679012345679
+      "list_id": 3824,
+      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
+      "prix_base": 288000,
+      "prix_comparaison": 290000,
+      "indice_prix": 100.69444444444444
     }
   ]
 }
