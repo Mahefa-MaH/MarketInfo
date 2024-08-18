@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2089,
-      "prix_comparaison": 2089,
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4134,
+      "prix_comparaison": 4134,
       "variation": 0,
       "indice_prix": 100.0
     },
@@ -17,10 +17,10 @@
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_huilesoja1l_",
-      "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
-      "prix_base": 225,
-      "prix_comparaison": 225,
+      "cle": "produit_haricotsblancsseches1kgtsaramasomaina_",
+      "name": "Haricots Rouges s\u00e9ch\u00e9s 1kg | Tsaramaso mena maina",
+      "prix_base": 176,
+      "prix_comparaison": 176,
       "variation": 0,
       "indice_prix": 100.0
     }

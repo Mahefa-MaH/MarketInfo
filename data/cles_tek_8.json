@@ -1,10 +1,18 @@
 {
   "Variation de prix": [
     {
-      "list_id": 14649,
-      "name": "Haricots Rouges secs (Tsaramaso mena maina ) 1kg",
-      "prix_base": 4200,
-      "prix_comparaison": 4200,
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 12923,
+      "name": "Riz blanc parfum\u00e9 5 kg",
+      "prix_base": 40800,
+      "prix_comparaison": 40800,
       "variation": 0,
       "indice_prix": 100.0
     },
