@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 3824,
-      "prix_base": 288000,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_comparaison": 290000,
-      "variation": 2000
+      "list_id": 14653,
+      "prix_base": 260,
+      "name": "Sel fin 200 g",
+      "prix_comparaison": 300,
+      "variation": 40
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 3824,
-      "prix_base": 288000,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_comparaison": 290000,
-      "variation": 2000
+      "list_id": 14653,
+      "prix_base": 260,
+      "name": "Sel fin 200 g",
+      "prix_comparaison": 300,
+      "variation": 40
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 288000,
-      "prix_comparaison": 290000,
-      "indice_prix": 100.69444444444444
+      "list_id": 14653,
+      "name": "Sel fin 200 g",
+      "prix_base": 260,
+      "prix_comparaison": 300,
+      "indice_prix": 115.38461538461539
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 288000,
-      "prix_comparaison": 290000,
-      "indice_prix": 100.69444444444444
+      "list_id": 14653,
+      "name": "Sel fin 200 g",
+      "prix_base": 260,
+      "prix_comparaison": 300,
+      "indice_prix": 115.38461538461539
     }
   ]
 }
