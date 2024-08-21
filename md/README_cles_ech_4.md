@@ -2,9 +2,9 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Riz rouge Malgache Supermarché.mg™ 50kg | Vary mena | Origine Madagascar**
-   - Prix avant: 4,389 Ar
-   - Prix actuel: 4,389 Ar
+1. **Sucre Blanc Ramatoa™ 1kg | Sucre de canne raffiné**
+   - Prix avant: 209 Ar
+   - Prix actuel: 209 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

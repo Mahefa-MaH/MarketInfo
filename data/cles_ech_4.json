@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_rizrougemalgachesupermarchemg50kgvarymenaoriginemadagascar_",
-      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 50kg | Vary mena | Origine Madagascar",
-      "prix_base": 4389,
-      "prix_comparaison": 4389,
+      "cle": "produit_sucreblancramatoa1kg_",
+      "name": "Sucre Blanc Ramatoa\u2122 1kg | Sucre de canne raffin\u00e9",
+      "prix_base": 209,
+      "prix_comparaison": 209,
       "variation": 0,
       "indice_prix": 100.0
     }

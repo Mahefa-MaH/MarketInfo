@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 14653,
-      "prix_base": 260,
-      "name": "Sel fin 200 g",
-      "prix_comparaison": 300,
-      "variation": 40
+      "list_id": 4645,
+      "prix_base": 9600,
+      "name": "Crayon de couleur 12 couleurs color ' peps Effa\u00e7able OOPS 12 pi\u00e8ces",
+      "prix_comparaison": 11600,
+      "variation": 2000
+    },
+    {
+      "list_id": 2122,
+      "prix_base": 1200,
+      "name": "Biscuit sal\u00e9 Pocket Group 32 G",
+      "prix_comparaison": 1400,
+      "variation": 200
+    },
+    {
+      "list_id": 8677,
+      "prix_base": 264000,
+      "name": "Tableau blanc Mural 120 x 90 cm",
+      "prix_comparaison": 250000,
+      "variation": -14000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 14653,
-      "prix_base": 260,
-      "name": "Sel fin 200 g",
-      "prix_comparaison": 300,
-      "variation": 40
+      "list_id": 8959,
+      "prix_base": 642000,
+      "name": "Tableau blanc Mural 240 x 120 cm",
+      "prix_comparaison": 550000,
+      "variation": -92000
+    },
+    {
+      "list_id": 8677,
+      "prix_base": 264000,
+      "name": "Tableau blanc Mural 120 x 90 cm",
+      "prix_comparaison": 250000,
+      "variation": -14000
+    },
+    {
+      "list_id": 2122,
+      "prix_base": 1200,
+      "name": "Biscuit sal\u00e9 Pocket Group 32 G",
+      "prix_comparaison": 1400,
+      "variation": 200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 14653,
-      "name": "Sel fin 200 g",
-      "prix_base": 260,
-      "prix_comparaison": 300,
-      "indice_prix": 115.38461538461539
+      "list_id": 4645,
+      "name": "Crayon de couleur 12 couleurs color ' peps Effa\u00e7able OOPS 12 pi\u00e8ces",
+      "prix_base": 9600,
+      "prix_comparaison": 11600,
+      "indice_prix": 120.83333333333333
+    },
+    {
+      "list_id": 2122,
+      "name": "Biscuit sal\u00e9 Pocket Group 32 G",
+      "prix_base": 1200,
+      "prix_comparaison": 1400,
+      "indice_prix": 116.66666666666667
+    },
+    {
+      "list_id": 8677,
+      "name": "Tableau blanc Mural 120 x 90 cm",
+      "prix_base": 264000,
+      "prix_comparaison": 250000,
+      "indice_prix": 94.6969696969697
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 14653,
-      "name": "Sel fin 200 g",
-      "prix_base": 260,
-      "prix_comparaison": 300,
-      "indice_prix": 115.38461538461539
+      "list_id": 8959,
+      "name": "Tableau blanc Mural 240 x 120 cm",
+      "prix_base": 642000,
+      "prix_comparaison": 550000,
+      "indice_prix": 85.66978193146417
+    },
+    {
+      "list_id": 8677,
+      "name": "Tableau blanc Mural 120 x 90 cm",
+      "prix_base": 264000,
+      "prix_comparaison": 250000,
+      "indice_prix": 94.6969696969697
+    },
+    {
+      "list_id": 2122,
+      "name": "Biscuit sal\u00e9 Pocket Group 32 G",
+      "prix_base": 1200,
+      "prix_comparaison": 1400,
+      "indice_prix": 116.66666666666667
     }
   ]
 }
