@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty**
-   - Prix avant: 18,231,000 Ar
-   - Prix actuel: 17,254,000 Ar
-   - Variation: -977,000 Ar
-   - Indice de prix : 94.64
+1. **SAMSUNG Galaxy S24 Ultra Smartphone 1 To Gris**
+   - Prix avant: 10,390,000 Ar
+   - Prix actuel: 8,021,000 Ar
+   - Variation: -2,369,000 Ar
+   - Indice de prix : 77.20
 
-2. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty**
-   - Prix avant: 14,149,000 Ar
-   - Prix actuel: 14,031,000 Ar
-   - Variation: -118,000 Ar
-   - Indice de prix : 99.17
+2. **SAMSUNG Galaxy Z Fold5 1To Noir**
+   - Prix avant: 10,976,000 Ar
+   - Prix actuel: 9,983,000 Ar
+   - Variation: -993,000 Ar
+   - Indice de prix : 90.95
 
-3. **Onduleur APC Smart-UPS RV 10000VA 230V**
-   - Prix avant: 17,500,000 Ar
-   - Prix actuel: 17,500,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+3. **SAMSUNG Galaxy Z Fold6 Smartphone Rose 1 To**
+   - Prix avant: 11,368,000 Ar
+   - Prix actuel: 10,595,000 Ar
+   - Variation: -773,000 Ar
+   - Indice de prix : 93.20
 

@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Gris Sidéral - AZERTY**
-   - Prix avant: 10,001,000 Ar
-   - Prix actuel: 10,205,000 Ar
-   - Variation: +204,000 Ar
-   - Indice de prix : 102.04
+1. **SAMSUNG Galaxy Z Fold6 Smartphone Bleu nuit 1 To**
+   - Prix avant: 11,368,000 Ar
+   - Prix actuel: 10,596,000 Ar
+   - Variation: -772,000 Ar
+   - Indice de prix : 93.21
 
-2. **Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Lumiere Stellaire - AZERTY**
-   - Prix avant: 10,003,000 Ar
-   - Prix actuel: 10,207,000 Ar
-   - Variation: +204,000 Ar
-   - Indice de prix : 102.04
+2. **SAMSUNG Galaxy Z Fold6 Smartphone Gris 512 Go**
+   - Prix avant: 10,220,000 Ar
+   - Prix actuel: 9,526,000 Ar
+   - Variation: -694,000 Ar
+   - Indice de prix : 93.21
 
-3. **Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Minuit - AZERTY**
-   - Prix avant: 10,548,000 Ar
-   - Prix actuel: 10,761,000 Ar
-   - Variation: +213,000 Ar
-   - Indice de prix : 102.02
+3. **SAMSUNG Galaxy Z Fold6 Smartphone Gris 1 To**
+   - Prix avant: 10,595,000 Ar
+   - Prix actuel: 10,595,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 

@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_143322apple15macbookairm32024ram16gostockage512gogrissideralazerty0195949637490_html",
-      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Gris Sid\u00e9ral - AZERTY",
-      "prix_base": 10001000,
-      "prix_comparaison": 10205000,
-      "variation": 204000,
-      "indice_prix": 102.03979602039796
+      "cle": "smartphone_144551samsunggalaxyzfold6smartphonebleunuit1to8806095616414_html",
+      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Bleu nuit 1 To",
+      "prix_base": 11368000,
+      "prix_comparaison": 10596000,
+      "variation": -772000,
+      "indice_prix": 93.20900774102745
     },
     {
-      "cle": "ordinateurportable_139119apple15macbookairm32024ram16gostockage512golumierestellaireazerty0195949638435_html",
-      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Lumiere Stellaire - AZERTY",
-      "prix_base": 10003000,
-      "prix_comparaison": 10207000,
-      "variation": 204000,
-      "indice_prix": 102.03938818354494
+      "cle": "smartphone_144558samsunggalaxyzfold6smartphonegris512go8806095667584_html",
+      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Gris 512 Go",
+      "prix_base": 10220000,
+      "prix_comparaison": 9526000,
+      "variation": -694000,
+      "indice_prix": 93.20939334637964
     },
     {
-      "cle": "ordinateurportable_140305apple15macbookairm32024ram16gostockage512gominuitazerty0195949638909_html",
-      "name": "Apple - 15 MacBook Air M3 (2024) - RAM 16Go - Stockage 512Go - Minuit - AZERTY",
-      "prix_base": 10548000,
-      "prix_comparaison": 10761000,
-      "variation": 213000,
-      "indice_prix": 102.0193401592719
+      "cle": "smartphone_144557samsunggalaxyzfold6smartphonegris1to8806095667539_html",
+      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Gris 1 To",
+      "prix_base": 10595000,
+      "prix_comparaison": 10595000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
