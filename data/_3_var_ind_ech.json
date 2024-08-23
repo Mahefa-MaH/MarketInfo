@@ -1,38 +1,101 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_rechaudagazsimplefeuakita_",
-      "name": "R\u00e9chaud \u00e0 Gaz Simple feu Akita",
-      "prix_base": 1408,
-      "prix_comparaison": 1540,
-      "variation": 132
+      "cle": "produit_citronsverts1kg_",
+      "name": "Citrons verts 1kg",
+      "prix_base": 119,
+      "prix_comparaison": 220,
+      "variation": 101
+    },
+    {
+      "cle": "produit_citronvert500g_",
+      "name": "Citrons verts 1 kg",
+      "prix_base": 176,
+      "prix_comparaison": 220,
+      "variation": 44
+    },
+    {
+      "cle": "produit_barredesavonnosycitronnellepremiumb52gmvert780gr_",
+      "name": "Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale\u2122 780g | B52 GM Vert",
+      "prix_base": 329,
+      "prix_comparaison": 330,
+      "variation": 1
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_rechaudagazsimplefeuakita_",
-      "name": "R\u00e9chaud \u00e0 Gaz Simple feu Akita",
-      "prix_base": 1408,
-      "prix_comparaison": 1540,
-      "variation": 132
+      "cle": "produit_barredesavonnosycitronfraispremiumbc52gmbleu780gr_",
+      "name": "Barre de Savon Nosy Citron frais Premium Savonnerie Tropicale\u2122 780g | BC52 GM Bleu",
+      "prix_base": 381,
+      "prix_comparaison": 330,
+      "variation": -51
+    },
+    {
+      "cle": "produit_barredesavonnosycitronnellepremiumb52gmvert780gr_",
+      "name": "Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale\u2122 780g | B52 GM Vert",
+      "prix_base": 329,
+      "prix_comparaison": 330,
+      "variation": 1
+    },
+    {
+      "cle": "produit_citronvert500g_",
+      "name": "Citrons verts 1 kg",
+      "prix_base": 176,
+      "prix_comparaison": 220,
+      "variation": 44
+    },
+    {
+      "cle": "produit_citronsverts1kg_",
+      "name": "Citrons verts 1kg",
+      "prix_base": 119,
+      "prix_comparaison": 220,
+      "variation": 101
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_rechaudagazsimplefeuakita_",
-      "name": "R\u00e9chaud \u00e0 Gaz Simple feu Akita",
-      "prix_base": 1408,
-      "prix_comparaison": 1540,
-      "indice_prix": 109.375
+      "cle": "produit_citronsverts1kg_",
+      "name": "Citrons verts 1kg",
+      "prix_base": 119,
+      "prix_comparaison": 220,
+      "indice_prix": 184.87394957983193
+    },
+    {
+      "cle": "produit_citronvert500g_",
+      "name": "Citrons verts 1 kg",
+      "prix_base": 176,
+      "prix_comparaison": 220,
+      "indice_prix": 125.0
+    },
+    {
+      "cle": "produit_barredesavonnosycitronnellepremiumb52gmvert780gr_",
+      "name": "Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale\u2122 780g | B52 GM Vert",
+      "prix_base": 329,
+      "prix_comparaison": 330,
+      "indice_prix": 100.30395136778115
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_rechaudagazsimplefeuakita_",
-      "name": "R\u00e9chaud \u00e0 Gaz Simple feu Akita",
-      "prix_base": 1408,
-      "prix_comparaison": 1540,
-      "indice_prix": 109.375
+      "cle": "produit_barredesavonnosycitronfraispremiumbc52gmbleu780gr_",
+      "name": "Barre de Savon Nosy Citron frais Premium Savonnerie Tropicale\u2122 780g | BC52 GM Bleu",
+      "prix_base": 381,
+      "prix_comparaison": 330,
+      "indice_prix": 86.61417322834646
+    },
+    {
+      "cle": "produit_barredesavonnosycitronnellepremiumb52gmvert780gr_",
+      "name": "Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale\u2122 780g | B52 GM Vert",
+      "prix_base": 329,
+      "prix_comparaison": 330,
+      "indice_prix": 100.30395136778115
+    },
+    {
+      "cle": "produit_citronvert500g_",
+      "name": "Citrons verts 1 kg",
+      "prix_base": 176,
+      "prix_comparaison": 220,
+      "indice_prix": 125.0
     }
   ]
 }

@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 14243,
-      "prix_base": 6600,
-      "name": "\u00c9tui de 12 Crayons de couleur",
-      "prix_comparaison": 8000,
-      "variation": 1400
+      "list_id": 13151,
+      "prix_base": 4800,
+      "name": "Citron vert 1kg",
+      "prix_comparaison": 6500,
+      "variation": 1700
+    },
+    {
+      "list_id": 10677,
+      "prix_base": 2700,
+      "name": "Haricots verts 500 g",
+      "prix_comparaison": 3700,
+      "variation": 1000
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 14243,
-      "prix_base": 6600,
-      "name": "\u00c9tui de 12 Crayons de couleur",
-      "prix_comparaison": 8000,
-      "variation": 1400
+      "list_id": 10677,
+      "prix_base": 2700,
+      "name": "Haricots verts 500 g",
+      "prix_comparaison": 3700,
+      "variation": 1000
+    },
+    {
+      "list_id": 13151,
+      "prix_base": 4800,
+      "name": "Citron vert 1kg",
+      "prix_comparaison": 6500,
+      "variation": 1700
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 14243,
-      "name": "\u00c9tui de 12 Crayons de couleur",
-      "prix_base": 6600,
-      "prix_comparaison": 8000,
-      "indice_prix": 121.21212121212122
+      "list_id": 10677,
+      "name": "Haricots verts 500 g",
+      "prix_base": 2700,
+      "prix_comparaison": 3700,
+      "indice_prix": 137.03703703703704
+    },
+    {
+      "list_id": 13151,
+      "name": "Citron vert 1kg",
+      "prix_base": 4800,
+      "prix_comparaison": 6500,
+      "indice_prix": 135.41666666666666
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 14243,
-      "name": "\u00c9tui de 12 Crayons de couleur",
-      "prix_base": 6600,
-      "prix_comparaison": 8000,
-      "indice_prix": 121.21212121212122
+      "list_id": 13151,
+      "name": "Citron vert 1kg",
+      "prix_base": 4800,
+      "prix_comparaison": 6500,
+      "indice_prix": 135.41666666666666
+    },
+    {
+      "list_id": 10677,
+      "name": "Haricots verts 500 g",
+      "prix_base": 2700,
+      "prix_comparaison": 3700,
+      "indice_prix": 137.03703703703704
     }
   ]
 }

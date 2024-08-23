@@ -2,9 +2,9 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Armoire a fusils Ranger BURG-WÄCHTER 800/8 K**
-   - Prix avant: 11,774,000 Ar
-   - Prix actuel: 11,774,000 Ar
+1. **Canapé convertible panoramique PARMA 6 places - Tissu gris clair - L322 x P196 x H76 cm**
+   - Prix avant: 11,316,000 Ar
+   - Prix actuel: 11,316,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
