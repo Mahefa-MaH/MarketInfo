@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **SAMSUNG Galaxy S24 Ultra Smartphone 1 To Gris**
-   - Prix avant: 10,390,000 Ar
-   - Prix actuel: 8,021,000 Ar
-   - Variation: -2,369,000 Ar
-   - Indice de prix : 77.20
+1. **MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM X - 24 Go**
+   - Prix avant: 10,186,000 Ar
+   - Prix actuel: 10,186,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 
-2. **SAMSUNG Galaxy Z Fold5 1To Noir**
-   - Prix avant: 10,976,000 Ar
-   - Prix actuel: 9,983,000 Ar
-   - Variation: -993,000 Ar
-   - Indice de prix : 90.95
+2. **PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11**
+   - Prix avant: 22,128,000 Ar
+   - Prix actuel: 22,128,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 
-3. **SAMSUNG Galaxy Z Fold6 Smartphone Rose 1 To**
-   - Prix avant: 11,368,000 Ar
-   - Prix actuel: 10,595,000 Ar
-   - Variation: -773,000 Ar
-   - Indice de prix : 93.20
+3. **Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver**
+   - Prix avant: 10,845,000 Ar
+   - Prix actuel: 10,845,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 

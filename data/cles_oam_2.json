@@ -1,26 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphone_144551samsunggalaxyzfold6smartphonebleunuit1to8806095616414_html",
-      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Bleu nuit 1 To",
-      "prix_base": 11368000,
-      "prix_comparaison": 10596000,
-      "variation": -772000,
-      "indice_prix": 93.20900774102745
+      "cle": "unitecentraleseuleminipc_143068pcdebureaugaminghpgt152064nfcorei714700fram32goddr5512gossdgeforcertx4070super12gofreedos0198122795093_html",
+      "name": "PC de bureau Gamer HP Omen GT15-2064nf - Core i7-14700F - RAM 32Go - Stockage 512Go SSD - RTX 4070 - Sans Windows",
+      "prix_base": 13535000,
+      "prix_comparaison": 13535000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "smartphone_144558samsunggalaxyzfold6smartphonegris512go8806095667584_html",
-      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Gris 512 Go",
-      "prix_base": 10220000,
-      "prix_comparaison": 9526000,
-      "variation": -694000,
-      "indice_prix": 93.20939334637964
-    },
-    {
-      "cle": "smartphone_144557samsunggalaxyzfold6smartphonegris1to8806095667539_html",
-      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Gris 1 To",
-      "prix_base": 10595000,
-      "prix_comparaison": 10595000,
+      "cle": "spacompletkitspajacuzzi_142716spagonflablebestwaylayzspasanfranciscohydrojetpro230x230x71cm57placescarrebacheunecartouche6941607350683_html",
+      "name": "Spa gonflable BESTWAY - Lay-Z-Spa San Francisco Hydrojet Pro - 230 x 230 x 71 cm - 5/7 places - Carr\u00e9 (b\u00e2che, une cartouche)",
+      "prix_base": 11072000,
+      "prix_comparaison": 11072000,
       "variation": 0,
       "indice_prix": 100.0
     }

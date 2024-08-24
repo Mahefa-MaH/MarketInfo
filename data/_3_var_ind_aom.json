@@ -1,150 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "drone_144983dronedjimini3etradiocommandedjircob03777compactetultralegervideohdr4k6941565979629_html",
-      "name": "Drone DJI Mini 3 et radiocommande DJI RC - OB03777 - Compact et ultral\u00e9ger -Vid\u00e9o HDR 4K",
-      "prix_base": 62000,
-      "prix_comparaison": 3111000,
-      "variation": 3049000
+      "cle": "sauceschaudes_134442saucebolognaiseviandeextrasavoureuse680g_html",
+      "name": "Sauce bolognaise viande extra savoureuse 680g",
+      "prix_base": 24900,
+      "prix_comparaison": 26500,
+      "variation": 1600
     },
     {
-      "cle": "drone_144984dronedjimini2seflymorecombogriscameraintegreetransmissionvideohd6941565979650_html",
-      "name": "Drone - DJI - Mini 2 SE Fly More Combo - Gris - Cam\u00e9ra int\u00e9gr\u00e9e - Transmission vid\u00e9o HD",
-      "prix_base": 97000,
-      "prix_comparaison": 2310000,
-      "variation": 2213000
+      "cle": "sauceschaudes_131163doubleconcentredetomates280g_html",
+      "name": "Double concentr\u00e9 de tomates 280g",
+      "prix_base": 9900,
+      "prix_comparaison": 10900,
+      "variation": 1000
     },
     {
-      "cle": "coupebordure_145281coupeborduresdresseborduresryobi18vone1batterie50ah1chargeurrapiderlt183250f4892210179296_html",
-      "name": "Coupe bordures - dresse bordures RYOBI 18V One+ - 1 batterie 5.0 Ah - 1 chargeur rapide RLT183250F",
-      "prix_base": 337000,
-      "prix_comparaison": 1237000,
-      "variation": 900000
+      "cle": "bouillonsaidesculinaires_134481bouillondevolailledegraisse120g_html",
+      "name": "Bouillon de volaille d\u00e9graiss\u00e9 120g",
+      "prix_base": 6900,
+      "prix_comparaison": 7900,
+      "variation": 1000
     },
     {
-      "cle": "refroidissementventilationwatercooling_144973deepcoolmystique240noirwatercoolingaio6933412728771_html",
-      "name": "DEEPCOOL - MYSTIQUE 240 (Noir) - Watercooling AIO",
-      "prix_base": 130000,
-      "prix_comparaison": 873000,
-      "variation": 743000
+      "cle": "sauceschaudes_134371saucepournems90g_html",
+      "name": "Sauce pour Nems 90g",
+      "prix_base": 8500,
+      "prix_comparaison": 9500,
+      "variation": 1000
     },
     {
-      "cle": "gpspedestregpsrandonneegpssport_145004garmincompteurgpsdeveloedgeexplore0753759207373_html",
-      "name": "Garmin Compteur GPS de v\u00e9lo Edge Explore",
-      "prix_base": 19000,
-      "prix_comparaison": 751000,
-      "variation": 732000
+      "cle": "selsepices_130782herbesdeprovence200g_html",
+      "name": "Herbes de provence 200g",
+      "prix_base": 14900,
+      "prix_comparaison": 15900,
+      "variation": 1000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "refroidissementventilationwatercooling_135879watercoolingcorsairicuelinkh150irgbaioradiateur360mmrefroidissementliquidepourprocesseur0840006665830_html",
-      "name": "Watercooling - CORSAIR - iCUE LINK RGB H150i RGB AIO - Radiateur 360mm - Refroidissement Liquide pour processeur (CW-9061003-WW)",
-      "prix_base": 1581000,
-      "prix_comparaison": 1467000,
-      "variation": -114000
+      "cle": "saucesfroides_134423moutardededijonforteetonctueuse150g_html",
+      "name": "Moutarde de Dijon forte et onctueuse 150g",
+      "prix_base": 8300,
+      "prix_comparaison": 8600,
+      "variation": 300
     },
     {
-      "cle": "refroidissementventilationwatercooling_84048arcticalpine23coventiradcpu4895213702836_html",
-      "name": "ARCTIC Alpine 23 CO - Ventirad CPU",
-      "prix_base": 103000,
-      "prix_comparaison": 104000,
-      "variation": 1000
+      "cle": "saucesfroides_134376moutardemiforte350g_html",
+      "name": "Moutarde mi-forte 350g",
+      "prix_base": 11500,
+      "prix_comparaison": 11800,
+      "variation": 300
     },
     {
-      "cle": "refroidissementventilationwatercooling_55488zalmanzmf3sfventilateur120mmpourboitier8809213765988_html",
-      "name": "ZALMAN ZM-F3 (SF) - Ventilateur 120mm pour boitier",
-      "prix_base": 69000,
-      "prix_comparaison": 70000,
-      "variation": 1000
+      "cle": "condiments_130869olivesalafarcedepoivron120g_html",
+      "name": "Olives \u00e0 la farce de poivron 120g",
+      "prix_base": 5500,
+      "prix_comparaison": 5900,
+      "variation": 400
     },
     {
-      "cle": "refroidissementventilationwatercooling_54887xigmatekx20ffrgbventilateur120mmfrgbpourboitier4713436745457_html",
-      "name": "XIGMATEK X20F (FRGB) - Ventilateur 120mm FRGB pour boitier",
-      "prix_base": 72000,
-      "prix_comparaison": 73000,
-      "variation": 1000
+      "cle": "saucesfroides_130601ketchupnature560g_html",
+      "name": "Ketchup nature 560g",
+      "prix_base": 9900,
+      "prix_comparaison": 10400,
+      "variation": 500
     },
     {
-      "cle": "papierphoto_141993papierphotohpq5451a25feuillesa40829160102795_html",
-      "name": "Papier photo HP Q5451A - 25 feuilles A4",
-      "prix_base": 105000,
-      "prix_comparaison": 106000,
+      "cle": "selsepices_130782herbesdeprovence200g_html",
+      "name": "Herbes de provence 200g",
+      "prix_base": 14900,
+      "prix_comparaison": 15900,
       "variation": 1000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "drone_144983dronedjimini3etradiocommandedjircob03777compactetultralegervideohdr4k6941565979629_html",
-      "name": "Drone DJI Mini 3 et radiocommande DJI RC - OB03777 - Compact et ultral\u00e9ger -Vid\u00e9o HDR 4K",
-      "prix_base": 62000,
-      "prix_comparaison": 3111000,
-      "indice_prix": 5017.741935483871
+      "cle": "bouillonsaidesculinaires_134481bouillondevolailledegraisse120g_html",
+      "name": "Bouillon de volaille d\u00e9graiss\u00e9 120g",
+      "prix_base": 6900,
+      "prix_comparaison": 7900,
+      "indice_prix": 114.4927536231884
     },
     {
-      "cle": "gpspedestregpsrandonneegpssport_145004garmincompteurgpsdeveloedgeexplore0753759207373_html",
-      "name": "Garmin Compteur GPS de v\u00e9lo Edge Explore",
-      "prix_base": 19000,
-      "prix_comparaison": 751000,
-      "indice_prix": 3952.6315789473683
+      "cle": "sauceschaudes_134371saucepournems90g_html",
+      "name": "Sauce pour Nems 90g",
+      "prix_base": 8500,
+      "prix_comparaison": 9500,
+      "indice_prix": 111.76470588235294
     },
     {
-      "cle": "drone_144984dronedjimini2seflymorecombogriscameraintegreetransmissionvideohd6941565979650_html",
-      "name": "Drone - DJI - Mini 2 SE Fly More Combo - Gris - Cam\u00e9ra int\u00e9gr\u00e9e - Transmission vid\u00e9o HD",
-      "prix_base": 97000,
-      "prix_comparaison": 2310000,
-      "indice_prix": 2381.443298969072
+      "cle": "sauceschaudes_131163doubleconcentredetomates280g_html",
+      "name": "Double concentr\u00e9 de tomates 280g",
+      "prix_base": 9900,
+      "prix_comparaison": 10900,
+      "indice_prix": 110.1010101010101
     },
     {
-      "cle": "papierphotopourphotoinstantane_145079kodakpapierzink2x3packde50feuillespourappareilprintomaticpapierpremiumcouleursviveshdantibavures0840102190335_html",
-      "name": "KODAK - Papier ZINK 2 x 3 Pack de 50 feuilles pour appareil PRINTOMATIC - Papier premium - Couleurs vives HD - Anti-bavures",
-      "prix_base": 13000,
-      "prix_comparaison": 234000,
-      "indice_prix": 1800.0
+      "cle": "condiments_130869olivesalafarcedepoivron120g_html",
+      "name": "Olives \u00e0 la farce de poivron 120g",
+      "prix_base": 5500,
+      "prix_comparaison": 5900,
+      "indice_prix": 107.27272727272727
     },
     {
-      "cle": "disquedurexterne_145042disquedurexterneintenso25500gonoir4034303014125_html",
-      "name": "Disque dur externe - INTENSO - 2,5' - 500Go - Noir",
-      "prix_base": 17000,
-      "prix_comparaison": 263000,
-      "indice_prix": 1547.0588235294117
+      "cle": "selsepices_130782herbesdeprovence200g_html",
+      "name": "Herbes de provence 200g",
+      "prix_base": 14900,
+      "prix_comparaison": 15900,
+      "indice_prix": 106.71140939597315
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "refroidissementventilationwatercooling_135879watercoolingcorsairicuelinkh150irgbaioradiateur360mmrefroidissementliquidepourprocesseur0840006665830_html",
-      "name": "Watercooling - CORSAIR - iCUE LINK RGB H150i RGB AIO - Radiateur 360mm - Refroidissement Liquide pour processeur (CW-9061003-WW)",
-      "prix_base": 1581000,
-      "prix_comparaison": 1467000,
-      "indice_prix": 92.78937381404175
+      "cle": "saucesfroides_134376moutardemiforte350g_html",
+      "name": "Moutarde mi-forte 350g",
+      "prix_base": 11500,
+      "prix_comparaison": 11800,
+      "indice_prix": 102.6086956521739
     },
     {
-      "cle": "microphonepc_86342microphoneusbblueyetipremiumpourenregistrementstreaminggamingpodcastsurpcoumacblancwhitemist5099206106239_html",
-      "name": "Microphone USB - Blue Yeti Premium - Pour Enregistrement, Streaming, Gaming, Podcast sur PC ou Mac - Blanc White Mist",
-      "prix_base": 747000,
-      "prix_comparaison": 748000,
-      "indice_prix": 100.1338688085676
+      "cle": "saucesfroides_134423moutardededijonforteetonctueuse150g_html",
+      "name": "Moutarde de Dijon forte et onctueuse 150g",
+      "prix_base": 8300,
+      "prix_comparaison": 8600,
+      "indice_prix": 103.6144578313253
     },
     {
-      "cle": "coupebordure_42788powerpluscoupebordureu00e9lectrique300wu00d8250mm5400338073021_html",
-      "name": "Powerplus Coupe-Bordure \u00c9lectrique POWEG6015 - 300 W, 250 mm \u00d8, Jardinage Outillage,Coupe-Herbe pour votre Jardin",
-      "prix_base": 344000,
-      "prix_comparaison": 347000,
-      "indice_prix": 100.87209302325581
+      "cle": "saucesfroides_130601ketchupnature560g_html",
+      "name": "Ketchup nature 560g",
+      "prix_base": 9900,
+      "prix_comparaison": 10400,
+      "indice_prix": 105.05050505050505
     },
     {
-      "cle": "packproduitsdefitnesspackproduitsmusculation_144570barreportedetractionmultifonctionnelleschildkrot4000885601428_html",
-      "name": "Barre porte de traction -Multifonctionnelle - SCHILDKR\u00d6T",
-      "prix_base": 326000,
-      "prix_comparaison": 329000,
-      "indice_prix": 100.920245398773
+      "cle": "sauceschaudes_134442saucebolognaiseviandeextrasavoureuse680g_html",
+      "name": "Sauce bolognaise viande extra savoureuse 680g",
+      "prix_base": 24900,
+      "prix_comparaison": 26500,
+      "indice_prix": 106.42570281124497
     },
     {
-      "cle": "barrehalterepoids_139569barreportedetractionmultifonctionnelleschildkrot4000885600445_html",
-      "name": "Barre porte de traction -Multifonctionnelle - SCHILDKR\u00d6T",
-      "prix_base": 320000,
-      "prix_comparaison": 323000,
-      "indice_prix": 100.9375
+      "cle": "selsepices_130782herbesdeprovence200g_html",
+      "name": "Herbes de provence 200g",
+      "prix_base": 14900,
+      "prix_comparaison": 15900,
+      "indice_prix": 106.71140939597315
     }
   ]
 }

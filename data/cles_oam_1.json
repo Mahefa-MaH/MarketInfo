@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphone_140509samsunggalaxys24ultrasmartphone1togris8806095414430_html",
-      "name": "SAMSUNG Galaxy S24 Ultra Smartphone 1 To Gris",
-      "prix_base": 10390000,
-      "prix_comparaison": 8021000,
-      "variation": -2369000,
-      "indice_prix": 77.19923002887391
+      "cle": "cartegraphiqueinterne_85864msigeforcecartegraphiquertx4090suprimx24go4711377019200_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM X - 24 Go",
+      "prix_base": 10186000,
+      "prix_comparaison": 10186000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "smartphone_127682samsunggalaxyzfold51tonoir8806095019062_html",
-      "name": "SAMSUNG Galaxy Z Fold5 1To Noir",
-      "prix_base": 10976000,
-      "prix_comparaison": 9983000,
-      "variation": -993000,
-      "indice_prix": 90.95298833819243
+      "cle": "unitecentraleseuleminipc_92288pcdebureaugamingomenbyhp40lgt211007nfintelcorei913900kram32go1tossdgeforcertx409024gowindows110197192261767_html",
+      "name": "PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11",
+      "prix_base": 22128000,
+      "prix_comparaison": 22128000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "smartphone_144549samsunggalaxyzfold6smartphonerose1to8806095616179_html",
-      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Rose 1 To",
-      "prix_base": 11368000,
-      "prix_comparaison": 10595000,
-      "variation": -773000,
-      "indice_prix": 93.20021111893033
+      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
+      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
+      "prix_base": 10845000,
+      "prix_comparaison": 10845000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
