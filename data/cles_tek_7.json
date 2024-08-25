@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 14631,
-      "name": "Sac de riz de luxe Makalioka 50 Kg",
-      "prix_base": 216000,
-      "prix_comparaison": 216000,
+      "list_id": 14604,
+      "name": "Sucre blanc Import 50 kg",
+      "prix_base": 290000,
+      "prix_comparaison": 290000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 368,
-      "name": "Sucre Blanc 1 Kg",
-      "prix_base": 13700,
-      "prix_comparaison": 13700,
+      "list_id": 11110,
+      "name": "Riz blanc ( Vary makalioka fotsy ) 50 kg",
+      "prix_base": 186000,
+      "prix_comparaison": 186000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 370,
-      "name": "Sucre Blanc 250 g",
-      "prix_base": 3100,
-      "prix_comparaison": 3100,
+      "list_id": 13304,
+      "name": "Riz Rouge (Vary mena) 50kg",
+      "prix_base": 240000,
+      "prix_comparaison": 240000,
       "variation": 0,
       "indice_prix": 100.0
     }
