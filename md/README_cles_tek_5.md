@@ -2,21 +2,21 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Huile De Soja 1 L**
-   - Prix avant: 9,500 Ar
-   - Prix actuel: 9,500 Ar
+1. **Haricots Rouges secs (Tsaramaso mena maina ) 1kg**
+   - Prix avant: 4,200 Ar
+   - Prix actuel: 4,200 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz rouge long grain complet 500 g**
-   - Prix avant: 12,300 Ar
-   - Prix actuel: 12,300 Ar
+2. **Riz Complet Rouge Vary Gasy 5kg**
+   - Prix avant: 19,800 Ar
+   - Prix actuel: 19,800 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre Blanc 1 Kg**
-   - Prix avant: 6,500 Ar
-   - Prix actuel: 6,500 Ar
+3. **Sucre Blanc Cristallisé 1 Kg**
+   - Prix avant: 9,400 Ar
+   - Prix actuel: 9,400 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
