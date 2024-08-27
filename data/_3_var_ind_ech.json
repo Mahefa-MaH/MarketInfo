@@ -1,101 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_citronsverts1kg_",
-      "name": "Citrons verts 1kg",
-      "prix_base": 119,
-      "prix_comparaison": 220,
-      "variation": 101
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4134,
+      "prix_comparaison": 4529,
+      "variation": 395
     },
     {
-      "cle": "produit_citronvert500g_",
-      "name": "Citrons verts 1 kg",
-      "prix_base": 176,
-      "prix_comparaison": 220,
-      "variation": 44
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2089,
+      "prix_comparaison": 2286,
+      "variation": 197
     },
     {
-      "cle": "produit_barredesavonnosycitronnellepremiumb52gmvert780gr_",
-      "name": "Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale\u2122 780g | B52 GM Vert",
-      "prix_base": 329,
-      "prix_comparaison": 330,
-      "variation": 1
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 429,
+      "prix_comparaison": 468,
+      "variation": 39
+    },
+    {
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 82,
+      "prix_comparaison": 90,
+      "variation": 8
+    },
+    {
+      "cle": "produit_minimadeleinesaveurbeurregouty6minimadeleinesmoelleusesgourmandesetsavoureuses_",
+      "name": "Mini madeleine aux Oeufs  Gouty\u2122 | 5 mini madeleines moelleuses, gourmandes et savoureuses",
+      "prix_base": 52,
+      "prix_comparaison": 59,
+      "variation": 7
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_barredesavonnosycitronfraispremiumbc52gmbleu780gr_",
-      "name": "Barre de Savon Nosy Citron frais Premium Savonnerie Tropicale\u2122 780g | BC52 GM Bleu",
-      "prix_base": 381,
-      "prix_comparaison": 330,
-      "variation": -51
+      "cle": "produit_minimadeleinesaveurbeurregouty6minimadeleinesmoelleusesgourmandesetsavoureuses_",
+      "name": "Mini madeleine aux Oeufs  Gouty\u2122 | 5 mini madeleines moelleuses, gourmandes et savoureuses",
+      "prix_base": 52,
+      "prix_comparaison": 59,
+      "variation": 7
     },
     {
-      "cle": "produit_barredesavonnosycitronnellepremiumb52gmvert780gr_",
-      "name": "Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale\u2122 780g | B52 GM Vert",
-      "prix_base": 329,
-      "prix_comparaison": 330,
-      "variation": 1
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 82,
+      "prix_comparaison": 90,
+      "variation": 8
     },
     {
-      "cle": "produit_citronvert500g_",
-      "name": "Citrons verts 1 kg",
-      "prix_base": 176,
-      "prix_comparaison": 220,
-      "variation": 44
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 429,
+      "prix_comparaison": 468,
+      "variation": 39
     },
     {
-      "cle": "produit_citronsverts1kg_",
-      "name": "Citrons verts 1kg",
-      "prix_base": 119,
-      "prix_comparaison": 220,
-      "variation": 101
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2089,
+      "prix_comparaison": 2286,
+      "variation": 197
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4134,
+      "prix_comparaison": 4529,
+      "variation": 395
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_citronsverts1kg_",
-      "name": "Citrons verts 1kg",
-      "prix_base": 119,
-      "prix_comparaison": 220,
-      "indice_prix": 184.87394957983193
+      "cle": "produit_minimadeleinesaveurbeurregouty6minimadeleinesmoelleusesgourmandesetsavoureuses_",
+      "name": "Mini madeleine aux Oeufs  Gouty\u2122 | 5 mini madeleines moelleuses, gourmandes et savoureuses",
+      "prix_base": 52,
+      "prix_comparaison": 59,
+      "indice_prix": 113.46153846153847
     },
     {
-      "cle": "produit_citronvert500g_",
-      "name": "Citrons verts 1 kg",
-      "prix_base": 176,
-      "prix_comparaison": 220,
-      "indice_prix": 125.0
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 82,
+      "prix_comparaison": 90,
+      "indice_prix": 109.7560975609756
     },
     {
-      "cle": "produit_barredesavonnosycitronnellepremiumb52gmvert780gr_",
-      "name": "Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale\u2122 780g | B52 GM Vert",
-      "prix_base": 329,
-      "prix_comparaison": 330,
-      "indice_prix": 100.30395136778115
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4134,
+      "prix_comparaison": 4529,
+      "indice_prix": 109.55491049830673
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_barredesavonnosycitronfraispremiumbc52gmbleu780gr_",
-      "name": "Barre de Savon Nosy Citron frais Premium Savonnerie Tropicale\u2122 780g | BC52 GM Bleu",
-      "prix_base": 381,
-      "prix_comparaison": 330,
-      "indice_prix": 86.61417322834646
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 429,
+      "prix_comparaison": 468,
+      "indice_prix": 109.0909090909091
     },
     {
-      "cle": "produit_barredesavonnosycitronnellepremiumb52gmvert780gr_",
-      "name": "Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale\u2122 780g | B52 GM Vert",
-      "prix_base": 329,
-      "prix_comparaison": 330,
-      "indice_prix": 100.30395136778115
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2089,
+      "prix_comparaison": 2286,
+      "indice_prix": 109.43034944949737
     },
     {
-      "cle": "produit_citronvert500g_",
-      "name": "Citrons verts 1 kg",
-      "prix_base": 176,
-      "prix_comparaison": 220,
-      "indice_prix": 125.0
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4134,
+      "prix_comparaison": 4529,
+      "indice_prix": 109.55491049830673
     }
   ]
 }

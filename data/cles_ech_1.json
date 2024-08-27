@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 429,
-      "prix_comparaison": 429,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 82,
-      "prix_comparaison": 82,
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2286,
+      "prix_comparaison": 2286,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
       "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
       "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 4134,
-      "prix_comparaison": 4134,
+      "prix_base": 4529,
+      "prix_comparaison": 4529,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 468,
+      "prix_comparaison": 468,
       "variation": 0,
       "indice_prix": 100.0
     }

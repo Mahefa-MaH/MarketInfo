@@ -1,20 +1,62 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 7070,
-      "prix_comparaison": 7800,
-      "variation": 730
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 82,
+      "prix_comparaison": 90,
+      "variation": 8
+    },
+    {
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 429,
+      "prix_comparaison": 468,
+      "variation": 39
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2089,
+      "prix_comparaison": 2286,
+      "variation": 197
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4134,
+      "prix_comparaison": 4529,
+      "variation": 395
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 7070,
-      "prix_comparaison": 7800,
-      "indice_prix": 110.32531824611033
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 429,
+      "prix_comparaison": 468,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2089,
+      "prix_comparaison": 2286,
+      "indice_prix": 109.43034944949737
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4134,
+      "prix_comparaison": 4529,
+      "indice_prix": 109.55491049830673
+    },
+    {
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 82,
+      "prix_comparaison": 90,
+      "indice_prix": 109.7560975609756
     }
   ]
 }

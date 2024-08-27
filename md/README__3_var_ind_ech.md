@@ -2,74 +2,89 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Citrons verts 1kg**
-   - Prix avant: 119 Ar
-   - Prix actuel: 220 Ar
-   - Variation: +101 Ar
+1. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 4,134 Ar
+   - Prix actuel: 4,529 Ar
+   - Variation: +395 Ar
 
-2. **Citrons verts 1 kg**
-   - Prix avant: 176 Ar
-   - Prix actuel: 220 Ar
-   - Variation: +44 Ar
+2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 2,089 Ar
+   - Prix actuel: 2,286 Ar
+   - Variation: +197 Ar
 
-3. **Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale™ 780g | B52 GM Vert**
-   - Prix avant: 329 Ar
-   - Prix actuel: 330 Ar
-   - Variation: +1 Ar
+3. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
+   - Prix avant: 429 Ar
+   - Prix actuel: 468 Ar
+   - Variation: +39 Ar
+
+4. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 82 Ar
+   - Prix actuel: 90 Ar
+   - Variation: +8 Ar
+
+5. **Mini madeleine aux Oeufs  Gouty™ | 5 mini madeleines moelleuses, gourmandes et savoureuses**
+   - Prix avant: 52 Ar
+   - Prix actuel: 59 Ar
+   - Variation: +7 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Barre de Savon Nosy Citron frais Premium Savonnerie Tropicale™ 780g | BC52 GM Bleu**
-   - Prix avant: 381 Ar
-   - Prix actuel: 330 Ar
-   - Variation: -51 Ar
+1. **Mini madeleine aux Oeufs  Gouty™ | 5 mini madeleines moelleuses, gourmandes et savoureuses**
+   - Prix avant: 52 Ar
+   - Prix actuel: 59 Ar
+   - Variation: +7 Ar
 
-2. **Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale™ 780g | B52 GM Vert**
-   - Prix avant: 329 Ar
-   - Prix actuel: 330 Ar
-   - Variation: +1 Ar
+2. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 82 Ar
+   - Prix actuel: 90 Ar
+   - Variation: +8 Ar
 
-3. **Citrons verts 1 kg**
-   - Prix avant: 176 Ar
-   - Prix actuel: 220 Ar
-   - Variation: +44 Ar
+3. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
+   - Prix avant: 429 Ar
+   - Prix actuel: 468 Ar
+   - Variation: +39 Ar
 
-4. **Citrons verts 1kg**
-   - Prix avant: 119 Ar
-   - Prix actuel: 220 Ar
-   - Variation: +101 Ar
+4. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 2,089 Ar
+   - Prix actuel: 2,286 Ar
+   - Variation: +197 Ar
+
+5. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 4,134 Ar
+   - Prix actuel: 4,529 Ar
+   - Variation: +395 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Citrons verts 1kg**
-   - Prix avant: 119 Ar
-   - Prix actuel: 220 Ar
-   - Indice de prix : 184.87
+1. **Mini madeleine aux Oeufs  Gouty™ | 5 mini madeleines moelleuses, gourmandes et savoureuses**
+   - Prix avant: 52 Ar
+   - Prix actuel: 59 Ar
+   - Indice de prix : 113.46
 
-2. **Citrons verts 1 kg**
-   - Prix avant: 176 Ar
-   - Prix actuel: 220 Ar
-   - Indice de prix : 125.00
+2. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 82 Ar
+   - Prix actuel: 90 Ar
+   - Indice de prix : 109.76
 
-3. **Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale™ 780g | B52 GM Vert**
-   - Prix avant: 329 Ar
-   - Prix actuel: 330 Ar
-   - Indice de prix : 100.30
+3. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 4,134 Ar
+   - Prix actuel: 4,529 Ar
+   - Indice de prix : 109.55
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Barre de Savon Nosy Citron frais Premium Savonnerie Tropicale™ 780g | BC52 GM Bleu**
-   - Prix avant: 381 Ar
-   - Prix actuel: 330 Ar
-   - Indice de prix : 86.61
+1. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
+   - Prix avant: 429 Ar
+   - Prix actuel: 468 Ar
+   - Indice de prix : 109.09
 
-2. **Barre de Savon Nosy Citronnelle Premium Savonnerie Tropicale™ 780g | B52 GM Vert**
-   - Prix avant: 329 Ar
-   - Prix actuel: 330 Ar
-   - Indice de prix : 100.30
+2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 2,089 Ar
+   - Prix actuel: 2,286 Ar
+   - Indice de prix : 109.43
 
-3. **Citrons verts 1 kg**
-   - Prix avant: 176 Ar
-   - Prix actuel: 220 Ar
-   - Indice de prix : 125.00
+3. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 4,134 Ar
+   - Prix actuel: 4,529 Ar
+   - Indice de prix : 109.55
 
