@@ -1,150 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "sauceschaudes_134442saucebolognaiseviandeextrasavoureuse680g_html",
-      "name": "Sauce bolognaise viande extra savoureuse 680g",
-      "prix_base": 24900,
-      "prix_comparaison": 26500,
-      "variation": 1600
+      "cle": "litssuperposes_51472parisotlitssuperposesenfantdecorcheneetblancombresommiersinclus2x90x200cmjim3480940276425_html",
+      "name": "PARISOT Lits superpos\u00e9s enfant - D\u00e9cor Chene et Blanc Ombre - Sommiers inclus - 2 x 90 x 200 cm - JIM",
+      "prix_base": 3412000,
+      "prix_comparaison": 3892000,
+      "variation": 480000
     },
     {
-      "cle": "sauceschaudes_131163doubleconcentredetomates280g_html",
-      "name": "Double concentr\u00e9 de tomates 280g",
-      "prix_base": 9900,
-      "prix_comparaison": 10900,
-      "variation": 1000
+      "cle": "cuisinecomplete_83720ultracuisinecompleteavecmeublefouretplandetravailinclusl300cmgrismat5902052821693_html",
+      "name": "ULTRA Cuisine complete avec meuble four et plan de travail inclus L 300 cm - Gris mat",
+      "prix_base": 4793000,
+      "prix_comparaison": 5028000,
+      "variation": 235000
     },
     {
-      "cle": "bouillonsaidesculinaires_134481bouillondevolailledegraisse120g_html",
-      "name": "Bouillon de volaille d\u00e9graiss\u00e9 120g",
-      "prix_base": 6900,
-      "prix_comparaison": 7900,
-      "variation": 1000
+      "cle": "structuredelit_51462parisotzodiaclitadulteindustriel140x190cmdecorcheneetnoir3480940290711_html",
+      "name": "PARISOT ZODIAC Lit adulte industriel - 140 x 190 cm - D\u00e9cor chene et noir",
+      "prix_base": 1565000,
+      "prix_comparaison": 1786000,
+      "variation": 221000
     },
     {
-      "cle": "sauceschaudes_134371saucepournems90g_html",
-      "name": "Sauce pour Nems 90g",
-      "prix_base": 8500,
-      "prix_comparaison": 9500,
-      "variation": 1000
+      "cle": "elementssepareshaut_93426oslomeublehaut1portedecorchenejacksonl60xp36xh58cm3170720615925_html",
+      "name": "OSLO Meuble haut 1 porte - D\u00e9cor Chene Jackson - L 60 x P 36 x H 58 cm",
+      "prix_base": 585000,
+      "prix_comparaison": 601000,
+      "variation": 16000
     },
     {
-      "cle": "selsepices_130782herbesdeprovence200g_html",
-      "name": "Herbes de provence 200g",
-      "prix_base": 14900,
-      "prix_comparaison": 15900,
+      "cle": "traversin_127457traversinvancouver140cmantiacariens100polyesterdodo3307419656598_html",
+      "name": "Traversin VANCOUVER 140 cm - anti-acariens - 100% Polyester - DODO",
+      "prix_base": 171000,
+      "prix_comparaison": 172000,
       "variation": 1000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "saucesfroides_134423moutardededijonforteetonctueuse150g_html",
-      "name": "Moutarde de Dijon forte et onctueuse 150g",
-      "prix_base": 8300,
-      "prix_comparaison": 8600,
-      "variation": 300
+      "cle": "canapesofadivan_59340canapedangleconvertiblereversible4placestissugriscontemporainl244xp151xh90hamilton3619999743828_html",
+      "name": "Canap\u00e9 d'angle convertible r\u00e9versible 4 places - Tissu gris - L 244 x P 151 x H 90 - HAMILTON - Fabriqu\u00e9 en Ukraine",
+      "prix_base": 5215000,
+      "prix_comparaison": 4379000,
+      "variation": -836000
     },
     {
-      "cle": "saucesfroides_134376moutardemiforte350g_html",
-      "name": "Moutarde mi-forte 350g",
-      "prix_base": 11500,
-      "prix_comparaison": 11800,
-      "variation": 300
+      "cle": "canapesofadivan_83389canapedanglepanoramiqueconvertible7placesindiantissu100polyestergrisl360xp228cm5903814783976_html",
+      "name": "Canap\u00e9 d'angle panoramique convertible - 7 places - INDIAN - Tissu 100% polyester - Gris - L360 x P228 cm",
+      "prix_base": 9258000,
+      "prix_comparaison": 8630000,
+      "variation": -628000
     },
     {
-      "cle": "condiments_130869olivesalafarcedepoivron120g_html",
-      "name": "Olives \u00e0 la farce de poivron 120g",
-      "prix_base": 5500,
-      "prix_comparaison": 5900,
-      "variation": 400
+      "cle": "canapesofadivan_63141canapedangleconvertible4placeskeliotissuanthracitegrisl245xp184xh77cm5945827054988_html",
+      "name": "Canap\u00e9 d'angle convertible 4 places KELIO - Tissu anthracite/gris - L 245 x P 184 x H 77 cm",
+      "prix_base": 6317000,
+      "prix_comparaison": 5716000,
+      "variation": -601000
     },
     {
-      "cle": "saucesfroides_130601ketchupnature560g_html",
-      "name": "Ketchup nature 560g",
-      "prix_base": 9900,
-      "prix_comparaison": 10400,
-      "variation": 500
+      "cle": "canapesofadivan_124827canapedangleconvertibleetreversible5placesindiantissugrisclairetanthracite5903814785451_html",
+      "name": "Canap\u00e9 d'angle convertible et r\u00e9versible 5 places INDIAN - Tissu gris clair et anthracite",
+      "prix_base": 6232000,
+      "prix_comparaison": 5639000,
+      "variation": -593000
     },
     {
-      "cle": "selsepices_130782herbesdeprovence200g_html",
-      "name": "Herbes de provence 200g",
-      "prix_base": 14900,
-      "prix_comparaison": 15900,
-      "variation": 1000
+      "cle": "canapesofadivan_51940canapedangleconvertiblereversiblecoffrederangementtissubeigel289xp94188xh88cmindian5903814781897_html",
+      "name": "Canap\u00e9 d'angle convertible r\u00e9versible + coffre de rangement - Tissu Beige - L 289 x P 94/188 x H 88 cm - INDIAN",
+      "prix_base": 6222000,
+      "prix_comparaison": 5630000,
+      "variation": -592000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "bouillonsaidesculinaires_134481bouillondevolailledegraisse120g_html",
-      "name": "Bouillon de volaille d\u00e9graiss\u00e9 120g",
-      "prix_base": 6900,
-      "prix_comparaison": 7900,
-      "indice_prix": 114.4927536231884
+      "cle": "structuredelit_51462parisotzodiaclitadulteindustriel140x190cmdecorcheneetnoir3480940290711_html",
+      "name": "PARISOT ZODIAC Lit adulte industriel - 140 x 190 cm - D\u00e9cor chene et noir",
+      "prix_base": 1565000,
+      "prix_comparaison": 1786000,
+      "indice_prix": 114.12140575079871
     },
     {
-      "cle": "sauceschaudes_134371saucepournems90g_html",
-      "name": "Sauce pour Nems 90g",
-      "prix_base": 8500,
-      "prix_comparaison": 9500,
-      "indice_prix": 111.76470588235294
+      "cle": "litssuperposes_51472parisotlitssuperposesenfantdecorcheneetblancombresommiersinclus2x90x200cmjim3480940276425_html",
+      "name": "PARISOT Lits superpos\u00e9s enfant - D\u00e9cor Chene et Blanc Ombre - Sommiers inclus - 2 x 90 x 200 cm - JIM",
+      "prix_base": 3412000,
+      "prix_comparaison": 3892000,
+      "indice_prix": 114.06799531066822
     },
     {
-      "cle": "sauceschaudes_131163doubleconcentredetomates280g_html",
-      "name": "Double concentr\u00e9 de tomates 280g",
-      "prix_base": 9900,
-      "prix_comparaison": 10900,
-      "indice_prix": 110.1010101010101
+      "cle": "cuisinecomplete_83720ultracuisinecompleteavecmeublefouretplandetravailinclusl300cmgrismat5902052821693_html",
+      "name": "ULTRA Cuisine complete avec meuble four et plan de travail inclus L 300 cm - Gris mat",
+      "prix_base": 4793000,
+      "prix_comparaison": 5028000,
+      "indice_prix": 104.90298351762988
     },
     {
-      "cle": "condiments_130869olivesalafarcedepoivron120g_html",
-      "name": "Olives \u00e0 la farce de poivron 120g",
-      "prix_base": 5500,
-      "prix_comparaison": 5900,
-      "indice_prix": 107.27272727272727
+      "cle": "elementssepareshaut_93426oslomeublehaut1portedecorchenejacksonl60xp36xh58cm3170720615925_html",
+      "name": "OSLO Meuble haut 1 porte - D\u00e9cor Chene Jackson - L 60 x P 36 x H 58 cm",
+      "prix_base": 585000,
+      "prix_comparaison": 601000,
+      "indice_prix": 102.73504273504274
     },
     {
-      "cle": "selsepices_130782herbesdeprovence200g_html",
-      "name": "Herbes de provence 200g",
-      "prix_base": 14900,
-      "prix_comparaison": 15900,
-      "indice_prix": 106.71140939597315
+      "cle": "traversin_127457traversinvancouver140cmantiacariens100polyesterdodo3307419656598_html",
+      "name": "Traversin VANCOUVER 140 cm - anti-acariens - 100% Polyester - DODO",
+      "prix_base": 171000,
+      "prix_comparaison": 172000,
+      "indice_prix": 100.58479532163743
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "saucesfroides_134376moutardemiforte350g_html",
-      "name": "Moutarde mi-forte 350g",
-      "prix_base": 11500,
-      "prix_comparaison": 11800,
-      "indice_prix": 102.6086956521739
+      "cle": "canapesofadivan_59340canapedangleconvertiblereversible4placestissugriscontemporainl244xp151xh90hamilton3619999743828_html",
+      "name": "Canap\u00e9 d'angle convertible r\u00e9versible 4 places - Tissu gris - L 244 x P 151 x H 90 - HAMILTON - Fabriqu\u00e9 en Ukraine",
+      "prix_base": 5215000,
+      "prix_comparaison": 4379000,
+      "indice_prix": 83.9693192713327
     },
     {
-      "cle": "saucesfroides_134423moutardededijonforteetonctueuse150g_html",
-      "name": "Moutarde de Dijon forte et onctueuse 150g",
-      "prix_base": 8300,
-      "prix_comparaison": 8600,
-      "indice_prix": 103.6144578313253
+      "cle": "ensemblesommiermatelas_87018dekodreamrelaxpackpretadormirmatelassommier140x190cmcouette2oreillersressorts7zones24cmequilibr5412618132465_html",
+      "name": "DEKO DREAM Relax Pack pret a dormir - Matelas + Sommier 140x190 cm + Couette + 2 Oreillers - Ressorts - 7 zones 24 cm - Equilibr",
+      "prix_base": 3457000,
+      "prix_comparaison": 3112000,
+      "indice_prix": 90.02024877061035
     },
     {
-      "cle": "saucesfroides_130601ketchupnature560g_html",
-      "name": "Ketchup nature 560g",
-      "prix_base": 9900,
-      "prix_comparaison": 10400,
-      "indice_prix": 105.05050505050505
+      "cle": "dressingkitamenagementdeplacard_129119kitdressingarticekipadecormelaminechenejacksonetnoir2penderies2tiroirsl220xp40xh180cmfabriqueen3170720619077_html",
+      "name": "Kit dressing ARTIC EKIPA - D\u00e9cor m\u00e9lamin\u00e9 chene jackson et noir - 2 penderies + 2 tiroirs- L220 x P40 x H180 cm -Fabriqu\u00e9 en",
+      "prix_base": 2141000,
+      "prix_comparaison": 1929000,
+      "indice_prix": 90.09808500700608
     },
     {
-      "cle": "sauceschaudes_134442saucebolognaiseviandeextrasavoureuse680g_html",
-      "name": "Sauce bolognaise viande extra savoureuse 680g",
-      "prix_base": 24900,
-      "prix_comparaison": 26500,
-      "indice_prix": 106.42570281124497
+      "cle": "tableamangerseule_19627tableamangerrectangulairepanneauxdeparticulesblancetbu00e9tongrisclairpilvil160xi90xh75cm5904767894528_html",
+      "name": "Table a manger - Rectangulaire - Panneaux de particules - Blanc et b\u00e9ton gris clair - Pilvil - 160 x I90 x H 75 cm",
+      "prix_base": 1469000,
+      "prix_comparaison": 1324000,
+      "indice_prix": 90.12933968686181
     },
     {
-      "cle": "selsepices_130782herbesdeprovence200g_html",
-      "name": "Herbes de provence 200g",
-      "prix_base": 14900,
-      "prix_comparaison": 15900,
-      "indice_prix": 106.71140939597315
+      "cle": "canapesofadivan_86618canapedanglefixereversible3placestissubleupiedsboisetdorel194xp139xh83newyork3619999494133_html",
+      "name": "Canap\u00e9 d'angle fixe r\u00e9versible - 3 places - Tissu bleu - Pieds bois et dor\u00e9 - L 194 x P 139 x H 83 - NEW YORK",
+      "prix_base": 3371000,
+      "prix_comparaison": 3040000,
+      "indice_prix": 90.18095520617028
     }
   ]
 }

@@ -1,38 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 5213,
-      "prix_base": 14400,
-      "name": "papier glac\u00e9 paquet de 50 300 g",
-      "prix_comparaison": 18000,
-      "variation": 3600
+      "list_id": 6615,
+      "prix_base": 10700,
+      "name": "Pur\u00e9e Bl\u00e9dina Jardini\u00e8re de l\u00e9gume B\u0153uf pot de 200 g",
+      "prix_comparaison": 12900,
+      "variation": 2200
+    },
+    {
+      "list_id": 12784,
+      "prix_base": 9900,
+      "name": "Serpilli\u00e8re double blanchi 1 pi\u00e8ce",
+      "prix_comparaison": 10800,
+      "variation": 900
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 5213,
-      "prix_base": 14400,
-      "name": "papier glac\u00e9 paquet de 50 300 g",
-      "prix_comparaison": 18000,
-      "variation": 3600
+      "list_id": 12784,
+      "prix_base": 9900,
+      "name": "Serpilli\u00e8re double blanchi 1 pi\u00e8ce",
+      "prix_comparaison": 10800,
+      "variation": 900
+    },
+    {
+      "list_id": 6615,
+      "prix_base": 10700,
+      "name": "Pur\u00e9e Bl\u00e9dina Jardini\u00e8re de l\u00e9gume B\u0153uf pot de 200 g",
+      "prix_comparaison": 12900,
+      "variation": 2200
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 5213,
-      "name": "papier glac\u00e9 paquet de 50 300 g",
-      "prix_base": 14400,
-      "prix_comparaison": 18000,
-      "indice_prix": 125.0
+      "list_id": 6615,
+      "name": "Pur\u00e9e Bl\u00e9dina Jardini\u00e8re de l\u00e9gume B\u0153uf pot de 200 g",
+      "prix_base": 10700,
+      "prix_comparaison": 12900,
+      "indice_prix": 120.5607476635514
+    },
+    {
+      "list_id": 12784,
+      "name": "Serpilli\u00e8re double blanchi 1 pi\u00e8ce",
+      "prix_base": 9900,
+      "prix_comparaison": 10800,
+      "indice_prix": 109.0909090909091
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 5213,
-      "name": "papier glac\u00e9 paquet de 50 300 g",
-      "prix_base": 14400,
-      "prix_comparaison": 18000,
-      "indice_prix": 125.0
+      "list_id": 12784,
+      "name": "Serpilli\u00e8re double blanchi 1 pi\u00e8ce",
+      "prix_base": 9900,
+      "prix_comparaison": 10800,
+      "indice_prix": 109.0909090909091
+    },
+    {
+      "list_id": 6615,
+      "name": "Pur\u00e9e Bl\u00e9dina Jardini\u00e8re de l\u00e9gume B\u0153uf pot de 200 g",
+      "prix_base": 10700,
+      "prix_comparaison": 12900,
+      "indice_prix": 120.5607476635514
     }
   ]
 }

@@ -2,109 +2,109 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Sauce bolognaise viande extra savoureuse 680g**
-   - Prix avant: 24,900 Ar
-   - Prix actuel: 26,500 Ar
-   - Variation: +1,600 Ar
+1. **PARISOT Lits superposés enfant - Décor Chene et Blanc Ombre - Sommiers inclus - 2 x 90 x 200 cm - JIM**
+   - Prix avant: 3,412,000 Ar
+   - Prix actuel: 3,892,000 Ar
+   - Variation: +480,000 Ar
 
-2. **Double concentré de tomates 280g**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 10,900 Ar
-   - Variation: +1,000 Ar
+2. **ULTRA Cuisine complete avec meuble four et plan de travail inclus L 300 cm - Gris mat**
+   - Prix avant: 4,793,000 Ar
+   - Prix actuel: 5,028,000 Ar
+   - Variation: +235,000 Ar
 
-3. **Bouillon de volaille dégraissé 120g**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,900 Ar
-   - Variation: +1,000 Ar
+3. **PARISOT ZODIAC Lit adulte industriel - 140 x 190 cm - Décor chene et noir**
+   - Prix avant: 1,565,000 Ar
+   - Prix actuel: 1,786,000 Ar
+   - Variation: +221,000 Ar
 
-4. **Sauce pour Nems 90g**
-   - Prix avant: 8,500 Ar
-   - Prix actuel: 9,500 Ar
-   - Variation: +1,000 Ar
+4. **OSLO Meuble haut 1 porte - Décor Chene Jackson - L 60 x P 36 x H 58 cm**
+   - Prix avant: 585,000 Ar
+   - Prix actuel: 601,000 Ar
+   - Variation: +16,000 Ar
 
-5. **Herbes de provence 200g**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 15,900 Ar
+5. **Traversin VANCOUVER 140 cm - anti-acariens - 100% Polyester - DODO**
+   - Prix avant: 171,000 Ar
+   - Prix actuel: 172,000 Ar
    - Variation: +1,000 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Moutarde de Dijon forte et onctueuse 150g**
-   - Prix avant: 8,300 Ar
-   - Prix actuel: 8,600 Ar
-   - Variation: +300 Ar
+1. **Canapé d'angle convertible réversible 4 places - Tissu gris - L 244 x P 151 x H 90 - HAMILTON - Fabriqué en Ukraine**
+   - Prix avant: 5,215,000 Ar
+   - Prix actuel: 4,379,000 Ar
+   - Variation: -836,000 Ar
 
-2. **Moutarde mi-forte 350g**
-   - Prix avant: 11,500 Ar
-   - Prix actuel: 11,800 Ar
-   - Variation: +300 Ar
+2. **Canapé d'angle panoramique convertible - 7 places - INDIAN - Tissu 100% polyester - Gris - L360 x P228 cm**
+   - Prix avant: 9,258,000 Ar
+   - Prix actuel: 8,630,000 Ar
+   - Variation: -628,000 Ar
 
-3. **Olives à la farce de poivron 120g**
-   - Prix avant: 5,500 Ar
-   - Prix actuel: 5,900 Ar
-   - Variation: +400 Ar
+3. **Canapé d'angle convertible 4 places KELIO - Tissu anthracite/gris - L 245 x P 184 x H 77 cm**
+   - Prix avant: 6,317,000 Ar
+   - Prix actuel: 5,716,000 Ar
+   - Variation: -601,000 Ar
 
-4. **Ketchup nature 560g**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 10,400 Ar
-   - Variation: +500 Ar
+4. **Canapé d'angle convertible et réversible 5 places INDIAN - Tissu gris clair et anthracite**
+   - Prix avant: 6,232,000 Ar
+   - Prix actuel: 5,639,000 Ar
+   - Variation: -593,000 Ar
 
-5. **Herbes de provence 200g**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 15,900 Ar
-   - Variation: +1,000 Ar
+5. **Canapé d'angle convertible réversible + coffre de rangement - Tissu Beige - L 289 x P 94/188 x H 88 cm - INDIAN**
+   - Prix avant: 6,222,000 Ar
+   - Prix actuel: 5,630,000 Ar
+   - Variation: -592,000 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Bouillon de volaille dégraissé 120g**
-   - Prix avant: 6,900 Ar
-   - Prix actuel: 7,900 Ar
-   - Indice de prix : 114.49
+1. **PARISOT ZODIAC Lit adulte industriel - 140 x 190 cm - Décor chene et noir**
+   - Prix avant: 1,565,000 Ar
+   - Prix actuel: 1,786,000 Ar
+   - Indice de prix : 114.12
 
-2. **Sauce pour Nems 90g**
-   - Prix avant: 8,500 Ar
-   - Prix actuel: 9,500 Ar
-   - Indice de prix : 111.76
+2. **PARISOT Lits superposés enfant - Décor Chene et Blanc Ombre - Sommiers inclus - 2 x 90 x 200 cm - JIM**
+   - Prix avant: 3,412,000 Ar
+   - Prix actuel: 3,892,000 Ar
+   - Indice de prix : 114.07
 
-3. **Double concentré de tomates 280g**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 10,900 Ar
-   - Indice de prix : 110.10
+3. **ULTRA Cuisine complete avec meuble four et plan de travail inclus L 300 cm - Gris mat**
+   - Prix avant: 4,793,000 Ar
+   - Prix actuel: 5,028,000 Ar
+   - Indice de prix : 104.90
 
-4. **Olives à la farce de poivron 120g**
-   - Prix avant: 5,500 Ar
-   - Prix actuel: 5,900 Ar
-   - Indice de prix : 107.27
+4. **OSLO Meuble haut 1 porte - Décor Chene Jackson - L 60 x P 36 x H 58 cm**
+   - Prix avant: 585,000 Ar
+   - Prix actuel: 601,000 Ar
+   - Indice de prix : 102.74
 
-5. **Herbes de provence 200g**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 15,900 Ar
-   - Indice de prix : 106.71
+5. **Traversin VANCOUVER 140 cm - anti-acariens - 100% Polyester - DODO**
+   - Prix avant: 171,000 Ar
+   - Prix actuel: 172,000 Ar
+   - Indice de prix : 100.58
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Moutarde mi-forte 350g**
-   - Prix avant: 11,500 Ar
-   - Prix actuel: 11,800 Ar
-   - Indice de prix : 102.61
+1. **Canapé d'angle convertible réversible 4 places - Tissu gris - L 244 x P 151 x H 90 - HAMILTON - Fabriqué en Ukraine**
+   - Prix avant: 5,215,000 Ar
+   - Prix actuel: 4,379,000 Ar
+   - Indice de prix : 83.97
 
-2. **Moutarde de Dijon forte et onctueuse 150g**
-   - Prix avant: 8,300 Ar
-   - Prix actuel: 8,600 Ar
-   - Indice de prix : 103.61
+2. **DEKO DREAM Relax Pack pret a dormir - Matelas + Sommier 140x190 cm + Couette + 2 Oreillers - Ressorts - 7 zones 24 cm - Equilibr**
+   - Prix avant: 3,457,000 Ar
+   - Prix actuel: 3,112,000 Ar
+   - Indice de prix : 90.02
 
-3. **Ketchup nature 560g**
-   - Prix avant: 9,900 Ar
-   - Prix actuel: 10,400 Ar
-   - Indice de prix : 105.05
+3. **Kit dressing ARTIC EKIPA - Décor mélaminé chene jackson et noir - 2 penderies + 2 tiroirs- L220 x P40 x H180 cm -Fabriqué en**
+   - Prix avant: 2,141,000 Ar
+   - Prix actuel: 1,929,000 Ar
+   - Indice de prix : 90.10
 
-4. **Sauce bolognaise viande extra savoureuse 680g**
-   - Prix avant: 24,900 Ar
-   - Prix actuel: 26,500 Ar
-   - Indice de prix : 106.43
+4. **Table a manger - Rectangulaire - Panneaux de particules - Blanc et béton gris clair - Pilvil - 160 x I90 x H 75 cm**
+   - Prix avant: 1,469,000 Ar
+   - Prix actuel: 1,324,000 Ar
+   - Indice de prix : 90.13
 
-5. **Herbes de provence 200g**
-   - Prix avant: 14,900 Ar
-   - Prix actuel: 15,900 Ar
-   - Indice de prix : 106.71
+5. **Canapé d'angle fixe réversible - 3 places - Tissu bleu - Pieds bois et doré - L 194 x P 139 x H 83 - NEW YORK**
+   - Prix avant: 3,371,000 Ar
+   - Prix actuel: 3,040,000 Ar
+   - Indice de prix : 90.18
 
