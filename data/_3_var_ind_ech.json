@@ -1,122 +1,30 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 4134,
-      "prix_comparaison": 4529,
-      "variation": 395
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2089,
-      "prix_comparaison": 2286,
-      "variation": 197
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 429,
-      "prix_comparaison": 468,
-      "variation": 39
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 82,
-      "prix_comparaison": 90,
-      "variation": 8
-    },
-    {
-      "cle": "produit_minimadeleinesaveurbeurregouty6minimadeleinesmoelleusesgourmandesetsavoureuses_",
-      "name": "Mini madeleine aux Oeufs  Gouty\u2122 | 5 mini madeleines moelleuses, gourmandes et savoureuses",
-      "prix_base": 52,
-      "prix_comparaison": 59,
-      "variation": 7
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_minimadeleinesaveurbeurregouty6minimadeleinesmoelleusesgourmandesetsavoureuses_",
-      "name": "Mini madeleine aux Oeufs  Gouty\u2122 | 5 mini madeleines moelleuses, gourmandes et savoureuses",
-      "prix_base": 52,
-      "prix_comparaison": 59,
-      "variation": 7
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 82,
-      "prix_comparaison": 90,
-      "variation": 8
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 429,
-      "prix_comparaison": 468,
-      "variation": 39
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2089,
-      "prix_comparaison": 2286,
-      "variation": 197
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 4134,
-      "prix_comparaison": 4529,
-      "variation": 395
+      "cle": "produit_geldoucheextradouxlaitdevanillebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Extra Doux Lait de Vanille BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 353,
+      "prix_comparaison": 339,
+      "variation": -14
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_minimadeleinesaveurbeurregouty6minimadeleinesmoelleusesgourmandesetsavoureuses_",
-      "name": "Mini madeleine aux Oeufs  Gouty\u2122 | 5 mini madeleines moelleuses, gourmandes et savoureuses",
-      "prix_base": 52,
-      "prix_comparaison": 59,
-      "indice_prix": 113.46153846153847
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 82,
-      "prix_comparaison": 90,
-      "indice_prix": 109.7560975609756
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 4134,
-      "prix_comparaison": 4529,
-      "indice_prix": 109.55491049830673
+      "cle": "produit_geldoucheextradouxlaitdevanillebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Extra Doux Lait de Vanille BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 353,
+      "prix_comparaison": 339,
+      "indice_prix": 96.03399433427762
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 429,
-      "prix_comparaison": 468,
-      "indice_prix": 109.0909090909091
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2089,
-      "prix_comparaison": 2286,
-      "indice_prix": 109.43034944949737
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 4134,
-      "prix_comparaison": 4529,
-      "indice_prix": 109.55491049830673
+      "cle": "produit_geldoucheextradouxlaitdevanillebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Extra Doux Lait de Vanille BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 353,
+      "prix_comparaison": 339,
+      "indice_prix": 96.03399433427762
     }
   ]
 }
