@@ -1,66 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 6615,
-      "prix_base": 10700,
-      "name": "Pur\u00e9e Bl\u00e9dina Jardini\u00e8re de l\u00e9gume B\u0153uf pot de 200 g",
-      "prix_comparaison": 12900,
-      "variation": 2200
+      "list_id": 14979,
+      "prix_base": 71100,
+      "name": "Powerbox DS-2FA1225-C4(EUR)(O-STD)",
+      "prix_comparaison": 63900,
+      "variation": -7200
     },
     {
-      "list_id": 12784,
-      "prix_base": 9900,
-      "name": "Serpilli\u00e8re double blanchi 1 pi\u00e8ce",
-      "prix_comparaison": 10800,
-      "variation": 900
+      "list_id": 14977,
+      "prix_base": 96500,
+      "name": "Powerbox DS-2FA1208-C16(EUR)(Africa)",
+      "prix_comparaison": 86600,
+      "variation": -9900
+    },
+    {
+      "list_id": 14956,
+      "prix_base": 106500,
+      "name": "Cam\u00e9ra Mini Bullet fixe 2MP DS-2CE16D0T-EXIPF(3.6mm)(O-STD)",
+      "prix_comparaison": 95700,
+      "variation": -10800
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 12784,
-      "prix_base": 9900,
-      "name": "Serpilli\u00e8re double blanchi 1 pi\u00e8ce",
-      "prix_comparaison": 10800,
-      "variation": 900
+      "list_id": 14954,
+      "prix_base": 208100,
+      "name": "Cam\u00e9ra hybride intelligente 2MP colorVu DS-2CE10DF0T-LPFS(3.6mm)(O-STD)",
+      "prix_comparaison": 186800,
+      "variation": -21300
     },
     {
-      "list_id": 6615,
-      "prix_base": 10700,
-      "name": "Pur\u00e9e Bl\u00e9dina Jardini\u00e8re de l\u00e9gume B\u0153uf pot de 200 g",
-      "prix_comparaison": 12900,
-      "variation": 2200
+      "list_id": 14952,
+      "prix_base": 194600,
+      "name": "Cam\u00e9ra mini bullet fixe hybride intelligente 3K DS-2CE16K0T-LPFS(3.6mm)(O-STD)",
+      "prix_comparaison": 174600,
+      "variation": -20000
+    },
+    {
+      "list_id": 14953,
+      "prix_base": 194600,
+      "name": "Cam\u00e9ra hybride avec tourelle fixe d'int\u00e9rieur 2MP DS-2CE70DF0T-LPFS(2.8mm)(O-STD)",
+      "prix_comparaison": 174600,
+      "variation": -20000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 6615,
-      "name": "Pur\u00e9e Bl\u00e9dina Jardini\u00e8re de l\u00e9gume B\u0153uf pot de 200 g",
-      "prix_base": 10700,
-      "prix_comparaison": 12900,
-      "indice_prix": 120.5607476635514
+      "list_id": 14979,
+      "name": "Powerbox DS-2FA1225-C4(EUR)(O-STD)",
+      "prix_base": 71100,
+      "prix_comparaison": 63900,
+      "indice_prix": 89.87341772151899
     },
     {
-      "list_id": 12784,
-      "name": "Serpilli\u00e8re double blanchi 1 pi\u00e8ce",
-      "prix_base": 9900,
-      "prix_comparaison": 10800,
-      "indice_prix": 109.0909090909091
+      "list_id": 14956,
+      "name": "Cam\u00e9ra Mini Bullet fixe 2MP DS-2CE16D0T-EXIPF(3.6mm)(O-STD)",
+      "prix_base": 106500,
+      "prix_comparaison": 95700,
+      "indice_prix": 89.85915492957747
+    },
+    {
+      "list_id": 14955,
+      "name": "Cam\u00e9ra tourelle fixe d'int\u00e9rieur 2MP DS-2CE76D0T-EXIPF(2.8mm)(O-STD)",
+      "prix_base": 106500,
+      "prix_comparaison": 95700,
+      "indice_prix": 89.85915492957747
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 12784,
-      "name": "Serpilli\u00e8re double blanchi 1 pi\u00e8ce",
-      "prix_base": 9900,
-      "prix_comparaison": 10800,
-      "indice_prix": 109.0909090909091
+      "list_id": 14952,
+      "name": "Cam\u00e9ra mini bullet fixe hybride intelligente 3K DS-2CE16K0T-LPFS(3.6mm)(O-STD)",
+      "prix_base": 194600,
+      "prix_comparaison": 174600,
+      "indice_prix": 89.72250770811922
     },
     {
-      "list_id": 6615,
-      "name": "Pur\u00e9e Bl\u00e9dina Jardini\u00e8re de l\u00e9gume B\u0153uf pot de 200 g",
-      "prix_base": 10700,
-      "prix_comparaison": 12900,
-      "indice_prix": 120.5607476635514
+      "list_id": 14953,
+      "name": "Cam\u00e9ra hybride avec tourelle fixe d'int\u00e9rieur 2MP DS-2CE70DF0T-LPFS(2.8mm)(O-STD)",
+      "prix_base": 194600,
+      "prix_comparaison": 174600,
+      "indice_prix": 89.72250770811922
+    },
+    {
+      "list_id": 14977,
+      "name": "Powerbox DS-2FA1208-C16(EUR)(Africa)",
+      "prix_base": 96500,
+      "prix_comparaison": 86600,
+      "indice_prix": 89.74093264248705
     }
   ]
 }

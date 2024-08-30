@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133173apple16macbookprom3pro2023ram36gostockage512goargentazerty0195949075698_html",
-      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 15422000,
-      "prix_comparaison": 15737000,
-      "variation": 315000,
-      "indice_prix": 102.04253663597459
+      "cle": "outillage_104176stationtotaleelectronique_html",
+      "name": "Station totale \u00e9lectronique",
+      "prix_base": 17600000,
+      "prix_comparaison": 17600000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133931apple14macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949077456_html",
-      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 17875000,
-      "prix_comparaison": 18239000,
-      "variation": 364000,
-      "indice_prix": 102.03636363636363
+      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
+      "name": "Echafaudage roulant Neolium 200 Line 14m",
+      "prix_base": 37000000,
+      "prix_comparaison": 37000000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_135417apple16macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949074813_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 17903000,
-      "prix_comparaison": 18268000,
-      "variation": 365000,
-      "indice_prix": 102.03876445288499
+      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
+      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
+      "prix_base": 21450000,
+      "prix_comparaison": 21450000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

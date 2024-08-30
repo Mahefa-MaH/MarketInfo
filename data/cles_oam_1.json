@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "cartegraphiqueinterne_85864msigeforcecartegraphiquertx4090suprimx24go4711377019200_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM X - 24 Go",
-      "prix_base": 10186000,
-      "prix_comparaison": 10186000,
+      "cle": "poeleabois_143094poeleaboisinvictawilsonsurbanc8kwfontebuches55cm3244336482247_html",
+      "name": "Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - B\u00fbches 55 cm",
+      "prix_base": 16884000,
+      "prix_comparaison": 16884000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_92288pcdebureaugamingomenbyhp40lgt211007nfintelcorei913900kram32go1tossdgeforcertx409024gowindows110197192261767_html",
-      "name": "PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11",
-      "prix_base": 22128000,
-      "prix_comparaison": 22128000,
+      "cle": "poeleabois_143096poeleaboisinvictakazangrandangle9kwbuches58cm3244336104439_html",
+      "name": "Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - B\u00fbches 58 cm",
+      "prix_base": 12382000,
+      "prix_comparaison": 12382000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
-      "name": "Apple - Mac Studio Apple M2 Max 12-core CPU - 30-core GPU - RAM 32Go - Stockage 512Go - Silver",
-      "prix_base": 10845000,
-      "prix_comparaison": 10845000,
+      "cle": "poeleabois_143095poeleaboisinvictaneosenraccordableacier8kwbuches40cm3244339488369_html",
+      "name": "Poele a bois- INVICTA Neosen Raccordable - Acier - 8KW - B\u00fbches 40 cm",
+      "prix_base": 11106000,
+      "prix_comparaison": 11106000,
       "variation": 0,
       "indice_prix": 100.0
     }

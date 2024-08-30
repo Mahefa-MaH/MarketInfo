@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
-      "prix_base": 11189000,
-      "prix_comparaison": 11418000,
-      "variation": 229000,
-      "indice_prix": 102.04665296273126
+      "cle": "poeleabois_143097poeleaboisinvictaovatio5kwbuches32cm3244336149041_html",
+      "name": "Poele a bois - INVICTA Ovatio - 5 KW - b\u00fbches 32 cm",
+      "prix_base": 13132000,
+      "prix_comparaison": 13132000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133930apple14macbookprom3pro2023ram18gostockage1tonoirsideralazerty0195949077012_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 14149000,
-      "prix_comparaison": 14438000,
-      "variation": 289000,
-      "indice_prix": 102.0425471764789
+      "cle": "outillage_104003pilonneusesp80345x285mm_html",
+      "name": "Pilonneuse SP80-345x285 mm",
+      "prix_base": 15800000,
+      "prix_comparaison": 15800000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
-      "prix_base": 14632000,
-      "prix_comparaison": 14931000,
-      "variation": 299000,
-      "indice_prix": 102.04346637506835
+      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
+      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
+      "prix_base": 10450000,
+      "prix_comparaison": 10450000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

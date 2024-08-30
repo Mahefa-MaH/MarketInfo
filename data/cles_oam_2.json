@@ -1,18 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_143068pcdebureaugaminghpgt152064nfcorei714700fram32goddr5512gossdgeforcertx4070super12gofreedos0198122795093_html",
-      "name": "PC de bureau Gamer HP Omen GT15-2064nf - Core i7-14700F - RAM 32Go - Stockage 512Go SSD - RTX 4070 - Sans Windows",
-      "prix_base": 13535000,
-      "prix_comparaison": 13535000,
+      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
+      "name": "Nettoyeur HP eau chaude 170 bars*",
+      "prix_base": 12650000,
+      "prix_comparaison": 12650000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "spacompletkitspajacuzzi_142716spagonflablebestwaylayzspasanfranciscohydrojetpro230x230x71cm57placescarrebacheunecartouche6941607350683_html",
-      "name": "Spa gonflable BESTWAY - Lay-Z-Spa San Francisco Hydrojet Pro - 230 x 230 x 71 cm - 5/7 places - Carr\u00e9 (b\u00e2che, une cartouche)",
-      "prix_base": 11072000,
-      "prix_comparaison": 11072000,
+      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
+      "name": "Poele a bois en fonte - INVICTA - mandorin",
+      "prix_base": 10130000,
+      "prix_comparaison": 10130000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "offrestbloc_102278groupeelectrogene13000hmninsetbl_html",
+      "name": "Groupe electrog\u00e8ne 13000 H mn ins E TBL",
+      "prix_base": 28000000,
+      "prix_comparaison": 28000000,
       "variation": 0,
       "indice_prix": 100.0
     }

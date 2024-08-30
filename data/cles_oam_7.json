@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133173apple16macbookprom3pro2023ram36gostockage512goargentazerty0195949075698_html",
-      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 36Go - Stockage 512Go - Argent - Azerty",
-      "prix_base": 16177000,
-      "prix_comparaison": 16177000,
+      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
+      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
+      "prix_base": 12770000,
+      "prix_comparaison": 12770000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133928apple16macbookprom3max2023ram36gostockage1toargentazerty0195949076138_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 19829000,
-      "prix_comparaison": 19829000,
+      "cle": "poeleabois_143093poeleaboisinvictaneosenplus3vitresraccordable8kwbuches40cm3244339488376_html",
+      "name": "Poele a bois - INVICTA - Neosen Plus 3 vitres raccordable - 8 KW - B\u00fbches 40 cm",
+      "prix_base": 11902000,
+      "prix_comparaison": 11902000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133947apple16macbookprom3max2023ram48gostockage1toargentazerty0195949185601_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 22655000,
-      "prix_comparaison": 22655000,
+      "cle": "poeleabois_143099poeleaboisinvictafiftysurpied10kwbuches60cm3244336480441_html",
+      "name": "Poele a bois - INVICTA Fifty sur pied - 10 Kw - B\u00fbches 60 cm",
+      "prix_base": 15383000,
+      "prix_comparaison": 15383000,
       "variation": 0,
       "indice_prix": 100.0
     }
