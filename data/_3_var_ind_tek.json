@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 14979,
-      "prix_base": 71100,
-      "name": "Powerbox DS-2FA1225-C4(EUR)(O-STD)",
-      "prix_comparaison": 63900,
-      "variation": -7200
+      "list_id": 13849,
+      "prix_base": 67100,
+      "name": "Ensemble de 4 pinces",
+      "prix_comparaison": 69900,
+      "variation": 2800
     },
     {
-      "list_id": 14977,
-      "prix_base": 96500,
-      "name": "Powerbox DS-2FA1208-C16(EUR)(Africa)",
-      "prix_comparaison": 86600,
-      "variation": -9900
+      "list_id": 5735,
+      "prix_base": 14100,
+      "name": "Lait en poudre 250 g",
+      "prix_comparaison": 15000,
+      "variation": 900
     },
     {
-      "list_id": 14956,
-      "prix_base": 106500,
-      "name": "Cam\u00e9ra Mini Bullet fixe 2MP DS-2CE16D0T-EXIPF(3.6mm)(O-STD)",
-      "prix_comparaison": 95700,
-      "variation": -10800
+      "list_id": 13697,
+      "prix_base": 15500,
+      "name": "Pince \u00e9tau courbe 10\"/250 mm",
+      "prix_comparaison": 16400,
+      "variation": 900
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 14954,
-      "prix_base": 208100,
-      "name": "Cam\u00e9ra hybride intelligente 2MP colorVu DS-2CE10DF0T-LPFS(3.6mm)(O-STD)",
-      "prix_comparaison": 186800,
-      "variation": -21300
+      "list_id": 1477,
+      "prix_base": 797300,
+      "name": "Chauffe Eau 100L",
+      "prix_comparaison": 728000,
+      "variation": -69300
     },
     {
-      "list_id": 14952,
-      "prix_base": 194600,
-      "name": "Cam\u00e9ra mini bullet fixe hybride intelligente 3K DS-2CE16K0T-LPFS(3.6mm)(O-STD)",
-      "prix_comparaison": 174600,
-      "variation": -20000
+      "list_id": 1476,
+      "prix_base": 702700,
+      "name": "Chauffe Eau 80L",
+      "prix_comparaison": 641600,
+      "variation": -61100
     },
     {
-      "list_id": 14953,
-      "prix_base": 194600,
-      "name": "Cam\u00e9ra hybride avec tourelle fixe d'int\u00e9rieur 2MP DS-2CE70DF0T-LPFS(2.8mm)(O-STD)",
-      "prix_comparaison": 174600,
-      "variation": -20000
+      "list_id": 15096,
+      "prix_base": 359500,
+      "name": "Cam\u00e9ra r\u00e9seau \u00e0 tourelle fixe 2MP DS-2CD1323G2-LIU(2.8mm)(O-STD)",
+      "prix_comparaison": 299600,
+      "variation": -59900
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 14979,
-      "name": "Powerbox DS-2FA1225-C4(EUR)(O-STD)",
-      "prix_base": 71100,
-      "prix_comparaison": 63900,
-      "indice_prix": 89.87341772151899
+      "list_id": 5735,
+      "name": "Lait en poudre 250 g",
+      "prix_base": 14100,
+      "prix_comparaison": 15000,
+      "indice_prix": 106.38297872340425
     },
     {
-      "list_id": 14956,
-      "name": "Cam\u00e9ra Mini Bullet fixe 2MP DS-2CE16D0T-EXIPF(3.6mm)(O-STD)",
-      "prix_base": 106500,
-      "prix_comparaison": 95700,
-      "indice_prix": 89.85915492957747
+      "list_id": 13697,
+      "name": "Pince \u00e9tau courbe 10\"/250 mm",
+      "prix_base": 15500,
+      "prix_comparaison": 16400,
+      "indice_prix": 105.80645161290323
     },
     {
-      "list_id": 14955,
-      "name": "Cam\u00e9ra tourelle fixe d'int\u00e9rieur 2MP DS-2CE76D0T-EXIPF(2.8mm)(O-STD)",
-      "prix_base": 106500,
-      "prix_comparaison": 95700,
-      "indice_prix": 89.85915492957747
+      "list_id": 13849,
+      "name": "Ensemble de 4 pinces",
+      "prix_base": 67100,
+      "prix_comparaison": 69900,
+      "indice_prix": 104.17287630402384
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 14952,
-      "name": "Cam\u00e9ra mini bullet fixe hybride intelligente 3K DS-2CE16K0T-LPFS(3.6mm)(O-STD)",
-      "prix_base": 194600,
-      "prix_comparaison": 174600,
-      "indice_prix": 89.72250770811922
+      "list_id": 15096,
+      "name": "Cam\u00e9ra r\u00e9seau \u00e0 tourelle fixe 2MP DS-2CD1323G2-LIU(2.8mm)(O-STD)",
+      "prix_base": 359500,
+      "prix_comparaison": 299600,
+      "indice_prix": 83.33796940194715
     },
     {
-      "list_id": 14953,
-      "name": "Cam\u00e9ra hybride avec tourelle fixe d'int\u00e9rieur 2MP DS-2CE70DF0T-LPFS(2.8mm)(O-STD)",
-      "prix_base": 194600,
-      "prix_comparaison": 174600,
-      "indice_prix": 89.72250770811922
+      "list_id": 1476,
+      "name": "Chauffe Eau 80L",
+      "prix_base": 702700,
+      "prix_comparaison": 641600,
+      "indice_prix": 91.30496655756369
     },
     {
-      "list_id": 14977,
-      "name": "Powerbox DS-2FA1208-C16(EUR)(Africa)",
-      "prix_base": 96500,
-      "prix_comparaison": 86600,
-      "indice_prix": 89.74093264248705
+      "list_id": 1477,
+      "name": "Chauffe Eau 100L",
+      "prix_base": 797300,
+      "prix_comparaison": 728000,
+      "indice_prix": 91.3081650570676
     }
   ]
 }
