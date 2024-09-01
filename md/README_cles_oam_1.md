@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - Bûches 55 cm**
-   - Prix avant: 16,884,000 Ar
-   - Prix actuel: 16,884,000 Ar
+1. **Machine expresso automatique avec broyeur DELONGHI PrimaDonna Elite ECAM 650.75.MS - Inox**
+   - Prix avant: 10,393,000 Ar
+   - Prix actuel: 10,393,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - Bûches 58 cm**
-   - Prix avant: 12,382,000 Ar
-   - Prix actuel: 12,382,000 Ar
+2. **LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi**
+   - Prix avant: 13,400,000 Ar
+   - Prix actuel: 13,400,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Poele a bois- INVICTA Neosen Raccordable - Acier - 8KW - Bûches 40 cm**
-   - Prix avant: 11,106,000 Ar
-   - Prix actuel: 11,106,000 Ar
+3. **TV OLED - LG - 77B4 - 77 (195 cm) - 4K UHD 3840x2160 - Processeur IA a8 4K - 120 Hz - Dolby Vision - Smart TV - 4xHDMI - WiFi**
+   - Prix avant: 17,823,000 Ar
+   - Prix actuel: 17,823,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

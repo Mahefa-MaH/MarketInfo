@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_143097poeleaboisinvictaovatio5kwbuches32cm3244336149041_html",
-      "name": "Poele a bois - INVICTA Ovatio - 5 KW - b\u00fbches 32 cm",
-      "prix_base": 13132000,
-      "prix_comparaison": 13132000,
+      "cle": "poeleabois_144295poeleaboisinvictaode10kwfontebuches25cm3244339149444_html",
+      "name": "Poele a bois - INVICTA Ode - 10 KW - Fonte - B\u00fbches 25 cm",
+      "prix_base": 17634000,
+      "prix_comparaison": 17634000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_104003pilonneusesp80345x285mm_html",
-      "name": "Pilonneuse SP80-345x285 mm",
-      "prix_base": 15800000,
-      "prix_comparaison": 15800000,
+      "cle": "poeleabois_143094poeleaboisinvictawilsonsurbanc8kwfontebuches55cm3244336482247_html",
+      "name": "Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - B\u00fbches 55 cm",
+      "prix_base": 16884000,
+      "prix_comparaison": 16884000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
+      "cle": "poeleabois_143099poeleaboisinvictafiftysurpied10kwbuches60cm3244336480441_html",
+      "name": "Poele a bois - INVICTA Fifty sur pied - 10 Kw - B\u00fbches 60 cm",
+      "prix_base": 15383000,
+      "prix_comparaison": 15383000,
       "variation": 0,
       "indice_prix": 100.0
     }

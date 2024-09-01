@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104176stationtotaleelectronique_html",
-      "name": "Station totale \u00e9lectronique",
-      "prix_base": 17600000,
-      "prix_comparaison": 17600000,
+      "cle": "poeleabois_143093poeleaboisinvictaneosenplus3vitresraccordable8kwbuches40cm3244339488376_html",
+      "name": "Poele a bois - INVICTA - Neosen Plus 3 vitres raccordable - 8 KW - B\u00fbches 40 cm",
+      "prix_base": 11902000,
+      "prix_comparaison": 11902000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
+      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
+      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
+      "prix_base": 12770000,
+      "prix_comparaison": 12770000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
-      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
-      "prix_base": 21450000,
-      "prix_comparaison": 21450000,
+      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
+      "name": "Poele a bois en fonte - INVICTA - mandorin",
+      "prix_base": 10130000,
+      "prix_comparaison": 10130000,
       "variation": 0,
       "indice_prix": 100.0
     }

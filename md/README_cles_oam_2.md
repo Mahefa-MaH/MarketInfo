@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Nettoyeur HP eau chaude 170 bars***
-   - Prix avant: 12,650,000 Ar
-   - Prix actuel: 12,650,000 Ar
+1. **Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - Bûches 33 cm max - Fabriqué en France - Ecodesg**
+   - Prix avant: 11,856,000 Ar
+   - Prix actuel: 11,856,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Poele a bois en fonte - INVICTA - mandorin**
-   - Prix avant: 10,130,000 Ar
-   - Prix actuel: 10,130,000 Ar
+2. **Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - Bûches 58 cm**
+   - Prix avant: 12,382,000 Ar
+   - Prix actuel: 12,382,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Groupe electrogène 13000 H mn ins E TBL**
-   - Prix avant: 28,000,000 Ar
-   - Prix actuel: 28,000,000 Ar
+3. **Poele a bois - INVICTA Ovatio - 5 KW - bûches 32 cm**
+   - Prix avant: 13,132,000 Ar
+   - Prix actuel: 13,132,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

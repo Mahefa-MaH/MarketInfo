@@ -1,150 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "chocolatesfruites_130643biscuitsauchocolataulaitchocolettres140g_html",
-      "name": "Biscuits au chocolat au lait Choco'lettres 140g",
-      "prix_base": 11600,
-      "prix_comparaison": 14500,
-      "variation": 2900
+      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
+      "name": "Calculatrice Casio Calculatrice Graphique Graph35+EII Python",
+      "prix_base": 375000,
+      "prix_comparaison": 426000,
+      "variation": 51000
     },
     {
-      "cle": "assortimentsdessert_130665crepesdentelleenrobeesdechocolatnoir100g_html",
-      "name": "Cr\u00eapes dentelle enrob\u00e9es de chocolat noir 100g",
-      "prix_base": 10900,
-      "prix_comparaison": 12900,
-      "variation": 2000
+      "cle": "calculatrice_124218calculatricescientifiquecasiocollegefx924549526615603_html",
+      "name": "Casio FX-92 Coll\u00e8ge Classwiz",
+      "prix_base": 144000,
+      "prix_comparaison": 163000,
+      "variation": 19000
     },
     {
-      "cle": "biscuitssecssables_131029biscuitstableaudhonneurpocketchocolatnoir250g_html",
-      "name": "Biscuits tableau d'honneur pocket chocolat noir 250g",
-      "prix_base": 15400,
-      "prix_comparaison": 16900,
-      "variation": 1500
+      "cle": "corbeillepaniercoussinhamaclit_21289trixieabridouilletminoupourchatetchien4011905036281_html",
+      "name": "TRIXIE Abri Douillet Minou pour Chat - Beige - 35 \u00d7 26 \u00d7 41 cm",
+      "prix_base": 134000,
+      "prix_comparaison": 152000,
+      "variation": 18000
     },
     {
-      "cle": "biscuitsfourres_131087gaufretteschocofrette144g_html",
-      "name": "Gaufrettes choc'o frette 144g",
-      "prix_base": 11900,
-      "prix_comparaison": 12900,
-      "variation": 1000
-    },
-    {
-      "cle": "chocolatesfruites_130916biscuitschockochocolataulait150g_html",
-      "name": "Biscuits chock'o chocolat au lait 150g",
-      "prix_base": 9900,
-      "prix_comparaison": 10900,
-      "variation": 1000
+      "cle": "popotevaissellecouverts_136152kandbasegourdedecamping1lcolorisassortis3450652910160_html",
+      "name": "KANDBASE - Gourde de camping 1L coloris assortis",
+      "prix_base": 113000,
+      "prix_comparaison": 124000,
+      "variation": 11000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "biscuitssecssables_131177biscuitpetitbeurre200g_html",
-      "name": "Biscuit petit beurre 200g",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "variation": 300
+      "cle": "popotevaissellecouverts_136152kandbasegourdedecamping1lcolorisassortis3450652910160_html",
+      "name": "KANDBASE - Gourde de camping 1L coloris assortis",
+      "prix_base": 113000,
+      "prix_comparaison": 124000,
+      "variation": 11000
     },
     {
-      "cle": "chocolatesfruites_130989tartelettesrondesabricots150g_html",
-      "name": "Tartelettes rondes abricots 150g",
-      "prix_base": 7500,
-      "prix_comparaison": 7900,
-      "variation": 400
+      "cle": "corbeillepaniercoussinhamaclit_21289trixieabridouilletminoupourchatetchien4011905036281_html",
+      "name": "TRIXIE Abri Douillet Minou pour Chat - Beige - 35 \u00d7 26 \u00d7 41 cm",
+      "prix_base": 134000,
+      "prix_comparaison": 152000,
+      "variation": 18000
     },
     {
-      "cle": "biscuitssecssables_131242paletsbreton100purbreton125g_html",
-      "name": "Palets breton 100% pur breton 125g",
-      "prix_base": 7900,
-      "prix_comparaison": 8600,
-      "variation": 700
+      "cle": "calculatrice_124218calculatricescientifiquecasiocollegefx924549526615603_html",
+      "name": "Casio FX-92 Coll\u00e8ge Classwiz",
+      "prix_base": 144000,
+      "prix_comparaison": 163000,
+      "variation": 19000
     },
     {
-      "cle": "biscuitssecssables_130823sableseclatdecaramelaubeurresale125g_html",
-      "name": "Sabl\u00e9s \u00e9clat de caramel au beurre sal\u00e9 125g",
-      "prix_base": 11200,
-      "prix_comparaison": 11900,
-      "variation": 700
-    },
-    {
-      "cle": "chocolatesfruites_130916biscuitschockochocolataulait150g_html",
-      "name": "Biscuits chock'o chocolat au lait 150g",
-      "prix_base": 9900,
-      "prix_comparaison": 10900,
-      "variation": 1000
+      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
+      "name": "Calculatrice Casio Calculatrice Graphique Graph35+EII Python",
+      "prix_base": 375000,
+      "prix_comparaison": 426000,
+      "variation": 51000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "chocolatesfruites_130643biscuitsauchocolataulaitchocolettres140g_html",
-      "name": "Biscuits au chocolat au lait Choco'lettres 140g",
-      "prix_base": 11600,
-      "prix_comparaison": 14500,
-      "indice_prix": 125.0
+      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
+      "name": "Calculatrice Casio Calculatrice Graphique Graph35+EII Python",
+      "prix_base": 375000,
+      "prix_comparaison": 426000,
+      "indice_prix": 113.6
     },
     {
-      "cle": "assortimentsdessert_130665crepesdentelleenrobeesdechocolatnoir100g_html",
-      "name": "Cr\u00eapes dentelle enrob\u00e9es de chocolat noir 100g",
-      "prix_base": 10900,
-      "prix_comparaison": 12900,
-      "indice_prix": 118.34862385321101
+      "cle": "corbeillepaniercoussinhamaclit_21289trixieabridouilletminoupourchatetchien4011905036281_html",
+      "name": "TRIXIE Abri Douillet Minou pour Chat - Beige - 35 \u00d7 26 \u00d7 41 cm",
+      "prix_base": 134000,
+      "prix_comparaison": 152000,
+      "indice_prix": 113.43283582089552
     },
     {
-      "cle": "chocolatesfruites_130916biscuitschockochocolataulait150g_html",
-      "name": "Biscuits chock'o chocolat au lait 150g",
-      "prix_base": 9900,
-      "prix_comparaison": 10900,
-      "indice_prix": 110.1010101010101
+      "cle": "calculatrice_124218calculatricescientifiquecasiocollegefx924549526615603_html",
+      "name": "Casio FX-92 Coll\u00e8ge Classwiz",
+      "prix_base": 144000,
+      "prix_comparaison": 163000,
+      "indice_prix": 113.19444444444444
     },
     {
-      "cle": "biscuitssecssables_131029biscuitstableaudhonneurpocketchocolatnoir250g_html",
-      "name": "Biscuits tableau d'honneur pocket chocolat noir 250g",
-      "prix_base": 15400,
-      "prix_comparaison": 16900,
-      "indice_prix": 109.74025974025975
-    },
-    {
-      "cle": "biscuitssecssables_131242paletsbreton100purbreton125g_html",
-      "name": "Palets breton 100% pur breton 125g",
-      "prix_base": 7900,
-      "prix_comparaison": 8600,
-      "indice_prix": 108.86075949367088
+      "cle": "popotevaissellecouverts_136152kandbasegourdedecamping1lcolorisassortis3450652910160_html",
+      "name": "KANDBASE - Gourde de camping 1L coloris assortis",
+      "prix_base": 113000,
+      "prix_comparaison": 124000,
+      "indice_prix": 109.73451327433628
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "biscuitssecssables_131177biscuitpetitbeurre200g_html",
-      "name": "Biscuit petit beurre 200g",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "indice_prix": 104.34782608695652
+      "cle": "popotevaissellecouverts_136152kandbasegourdedecamping1lcolorisassortis3450652910160_html",
+      "name": "KANDBASE - Gourde de camping 1L coloris assortis",
+      "prix_base": 113000,
+      "prix_comparaison": 124000,
+      "indice_prix": 109.73451327433628
     },
     {
-      "cle": "chocolatesfruites_130989tartelettesrondesabricots150g_html",
-      "name": "Tartelettes rondes abricots 150g",
-      "prix_base": 7500,
-      "prix_comparaison": 7900,
-      "indice_prix": 105.33333333333333
+      "cle": "calculatrice_124218calculatricescientifiquecasiocollegefx924549526615603_html",
+      "name": "Casio FX-92 Coll\u00e8ge Classwiz",
+      "prix_base": 144000,
+      "prix_comparaison": 163000,
+      "indice_prix": 113.19444444444444
     },
     {
-      "cle": "biscuitssecssables_130823sableseclatdecaramelaubeurresale125g_html",
-      "name": "Sabl\u00e9s \u00e9clat de caramel au beurre sal\u00e9 125g",
-      "prix_base": 11200,
-      "prix_comparaison": 11900,
-      "indice_prix": 106.25
+      "cle": "corbeillepaniercoussinhamaclit_21289trixieabridouilletminoupourchatetchien4011905036281_html",
+      "name": "TRIXIE Abri Douillet Minou pour Chat - Beige - 35 \u00d7 26 \u00d7 41 cm",
+      "prix_base": 134000,
+      "prix_comparaison": 152000,
+      "indice_prix": 113.43283582089552
     },
     {
-      "cle": "biscuitsfourres_131087gaufretteschocofrette144g_html",
-      "name": "Gaufrettes choc'o frette 144g",
-      "prix_base": 11900,
-      "prix_comparaison": 12900,
-      "indice_prix": 108.40336134453781
-    },
-    {
-      "cle": "biscuitssecssables_131242paletsbreton100purbreton125g_html",
-      "name": "Palets breton 100% pur breton 125g",
-      "prix_base": 7900,
-      "prix_comparaison": 8600,
-      "indice_prix": 108.86075949367088
+      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
+      "name": "Calculatrice Casio Calculatrice Graphique Graph35+EII Python",
+      "prix_base": 375000,
+      "prix_comparaison": 426000,
+      "indice_prix": 113.6
     }
   ]
 }
