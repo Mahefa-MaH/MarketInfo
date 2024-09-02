@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_144295poeleaboisinvictaode10kwfontebuches25cm3244339149444_html",
-      "name": "Poele a bois - INVICTA Ode - 10 KW - Fonte - B\u00fbches 25 cm",
-      "prix_base": 17634000,
-      "prix_comparaison": 17634000,
+      "cle": "tondeuserobotsansfil_137380tondeuserobotautonomestigaa1000fonctionneavecbatterie8008984864672_html",
+      "name": "Tondeuse robot autonome STIGA A 1000 - Fonctionne avec batterie",
+      "prix_base": 16546000,
+      "prix_comparaison": 16546000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143094poeleaboisinvictawilsonsurbanc8kwfontebuches55cm3244336482247_html",
-      "name": "Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - B\u00fbches 55 cm",
-      "prix_base": 16884000,
-      "prix_comparaison": 16884000,
+      "cle": "aspirateurrobot_175246newdreamex30ultrarobotaspirateurlaveurstationdevidagetechnologiemopextend6400mah8300pa6976233675947_html",
+      "name": "NEW DREAME X30 Ultra - Robot Aspirateur Laveur - Station de Vidage - Technologie MopExtend - 6400 mAh - 8300 Pa",
+      "prix_base": 10631000,
+      "prix_comparaison": 10631000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143099poeleaboisinvictafiftysurpied10kwbuches60cm3244336480441_html",
-      "name": "Poele a bois - INVICTA Fifty sur pied - 10 Kw - B\u00fbches 60 cm",
-      "prix_base": 15383000,
-      "prix_comparaison": 15383000,
+      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
+      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
+      "prix_base": 17500000,
+      "prix_comparaison": 17500000,
       "variation": 0,
       "indice_prix": 100.0
     }

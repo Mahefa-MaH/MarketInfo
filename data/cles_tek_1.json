@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "list_id": 13776,
-      "name": "Riz Blanchi Makalioka 5kg",
-      "prix_base": 19800,
-      "prix_comparaison": 19800,
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 9400,
+      "prix_comparaison": 9400,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 14604,
-      "name": "Sucre blanc Import 50 kg",
-      "prix_base": 290000,
-      "prix_comparaison": 290000,
+      "list_id": 13109,
+      "name": "Sucre blanc 1 Kg",
+      "prix_base": 8000,
+      "prix_comparaison": 8000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "list_id": 8197,
-      "name": "Huile De Soja 1 L",
-      "prix_base": 10200,
-      "prix_comparaison": 10200,
+      "list_id": 9687,
+      "name": "Sucre blanc 1 kg",
+      "prix_base": 7950,
+      "prix_comparaison": 7950,
       "variation": 0,
       "indice_prix": 100.0
     }

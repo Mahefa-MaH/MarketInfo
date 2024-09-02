@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - Bûches 33 cm max - Fabriqué en France - Ecodesg**
-   - Prix avant: 11,856,000 Ar
-   - Prix actuel: 11,856,000 Ar
+1. **Trottinette électrique - BEEPER - 500W - 10- 36V - 7,5Ah - Blanc**
+   - Prix avant: 10,918,000 Ar
+   - Prix actuel: 10,918,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - Bûches 58 cm**
-   - Prix avant: 12,382,000 Ar
-   - Prix actuel: 12,382,000 Ar
+2. **Tondeuse autoportée thermique ALPINA AT2 66 QA - 66cm de coupe - éjection bac 150L**
+   - Prix avant: 12,443,000 Ar
+   - Prix actuel: 12,443,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Poele a bois - INVICTA Ovatio - 5 KW - bûches 32 cm**
-   - Prix avant: 13,132,000 Ar
-   - Prix actuel: 13,132,000 Ar
+3. **Tondeuse robot autonome STIGA A 1500 - 1500m²**
+   - Prix avant: 20,298,000 Ar
+   - Prix actuel: 20,298,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
