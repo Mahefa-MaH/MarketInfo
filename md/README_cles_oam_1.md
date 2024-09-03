@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi**
-   - Prix avant: 13,400,000 Ar
-   - Prix actuel: 13,400,000 Ar
+1. **Tondeuse autoportée thermique - Largeur de coupe : 84 cm - ALPINA AT4 84A - 352 cm³ - Jusqu'a 2800 m²**
+   - Prix avant: 14,423,000 Ar
+   - Prix actuel: 14,423,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **TV OLED - LG - 77B4 - 77 (195 cm) - 4K UHD 3840x2160 - Processeur IA a8 4K - 120 Hz - Dolby Vision - Smart TV - 4xHDMI - WiFi**
-   - Prix avant: 17,823,000 Ar
-   - Prix actuel: 17,823,000 Ar
+2. **GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages étroits, App, Silencieux, Robot de Tonte**
+   - Prix avant: 11,028,000 Ar
+   - Prix actuel: 11,028,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Machine expresso automatique avec broyeur DELONGHI PrimaDonna Elite ECAM 650.75.MS - Inox**
-   - Prix avant: 10,393,000 Ar
-   - Prix actuel: 10,393,000 Ar
+3. **Tondeuse robot connectée Bluetooth GARDENA SILENO life 1250 - 1250 m² - 15103-26**
+   - Prix avant: 10,332,000 Ar
+   - Prix actuel: 10,332,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

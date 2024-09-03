@@ -1,30 +1,94 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_packfriandises_",
+      "name": "Pack Friandises",
+      "prix_base": 129,
+      "prix_comparaison": 240,
+      "variation": 111
+    },
+    {
+      "cle": "produit_packcadeaukids_",
+      "name": "Pack Cadeau Kids",
+      "prix_base": 99,
+      "prix_comparaison": 103,
+      "variation": 4
+    },
+    {
+      "cle": "produit_protegecahierpm_",
+      "name": "PROTEGE CAHIER PM",
+      "prix_base": 4,
+      "prix_comparaison": 6,
+      "variation": 2
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_geldoucheextradouxlaitdevanillebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
-      "name": "Gel douche Extra Doux Lait de Vanille BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 353,
-      "prix_comparaison": 339,
-      "variation": -14
+      "cle": "produit_protegecahierpm_",
+      "name": "PROTEGE CAHIER PM",
+      "prix_base": 4,
+      "prix_comparaison": 6,
+      "variation": 2
+    },
+    {
+      "cle": "produit_packcadeaukids_",
+      "name": "Pack Cadeau Kids",
+      "prix_base": 99,
+      "prix_comparaison": 103,
+      "variation": 4
+    },
+    {
+      "cle": "produit_packfriandises_",
+      "name": "Pack Friandises",
+      "prix_base": 129,
+      "prix_comparaison": 240,
+      "variation": 111
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_geldoucheextradouxlaitdevanillebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
-      "name": "Gel douche Extra Doux Lait de Vanille BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 353,
-      "prix_comparaison": 339,
-      "indice_prix": 96.03399433427762
+      "cle": "produit_packfriandises_",
+      "name": "Pack Friandises",
+      "prix_base": 129,
+      "prix_comparaison": 240,
+      "indice_prix": 186.04651162790697
+    },
+    {
+      "cle": "produit_protegecahierpm_",
+      "name": "PROTEGE CAHIER PM",
+      "prix_base": 4,
+      "prix_comparaison": 6,
+      "indice_prix": 150.0
+    },
+    {
+      "cle": "produit_packcadeaukids_",
+      "name": "Pack Cadeau Kids",
+      "prix_base": 99,
+      "prix_comparaison": 103,
+      "indice_prix": 104.04040404040404
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_geldoucheextradouxlaitdevanillebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
-      "name": "Gel douche Extra Doux Lait de Vanille BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 353,
-      "prix_comparaison": 339,
-      "indice_prix": 96.03399433427762
+      "cle": "produit_packcadeaukids_",
+      "name": "Pack Cadeau Kids",
+      "prix_base": 99,
+      "prix_comparaison": 103,
+      "indice_prix": 104.04040404040404
+    },
+    {
+      "cle": "produit_protegecahierpm_",
+      "name": "PROTEGE CAHIER PM",
+      "prix_base": 4,
+      "prix_comparaison": 6,
+      "indice_prix": 150.0
+    },
+    {
+      "cle": "produit_packfriandises_",
+      "name": "Pack Friandises",
+      "prix_base": 129,
+      "prix_comparaison": 240,
+      "indice_prix": 186.04651162790697
     }
   ]
 }
