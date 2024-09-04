@@ -1,122 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
-      "name": "Calculatrice Casio Calculatrice Graphique Graph35+EII Python",
-      "prix_base": 375000,
-      "prix_comparaison": 426000,
-      "variation": 51000
-    },
-    {
-      "cle": "calculatrice_124218calculatricescientifiquecasiocollegefx924549526615603_html",
-      "name": "Casio FX-92 Coll\u00e8ge Classwiz",
-      "prix_base": 144000,
-      "prix_comparaison": 163000,
-      "variation": 19000
-    },
-    {
-      "cle": "corbeillepaniercoussinhamaclit_21289trixieabridouilletminoupourchatetchien4011905036281_html",
-      "name": "TRIXIE Abri Douillet Minou pour Chat - Beige - 35 \u00d7 26 \u00d7 41 cm",
-      "prix_base": 134000,
-      "prix_comparaison": 152000,
-      "variation": 18000
-    },
-    {
-      "cle": "popotevaissellecouverts_136152kandbasegourdedecamping1lcolorisassortis3450652910160_html",
-      "name": "KANDBASE - Gourde de camping 1L coloris assortis",
-      "prix_base": 113000,
-      "prix_comparaison": 124000,
-      "variation": 11000
+      "cle": "cremessauces_134399sojacuisinefluide15mg3x20cl_html",
+      "name": "Soja cuisine fluide 15%mg 3x20cl",
+      "prix_base": 16900,
+      "prix_comparaison": 5650,
+      "variation": -11250
     }
   ],
   "prix_diminues": [
     {
-      "cle": "popotevaissellecouverts_136152kandbasegourdedecamping1lcolorisassortis3450652910160_html",
-      "name": "KANDBASE - Gourde de camping 1L coloris assortis",
-      "prix_base": 113000,
-      "prix_comparaison": 124000,
-      "variation": 11000
-    },
-    {
-      "cle": "corbeillepaniercoussinhamaclit_21289trixieabridouilletminoupourchatetchien4011905036281_html",
-      "name": "TRIXIE Abri Douillet Minou pour Chat - Beige - 35 \u00d7 26 \u00d7 41 cm",
-      "prix_base": 134000,
-      "prix_comparaison": 152000,
-      "variation": 18000
-    },
-    {
-      "cle": "calculatrice_124218calculatricescientifiquecasiocollegefx924549526615603_html",
-      "name": "Casio FX-92 Coll\u00e8ge Classwiz",
-      "prix_base": 144000,
-      "prix_comparaison": 163000,
-      "variation": 19000
-    },
-    {
-      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
-      "name": "Calculatrice Casio Calculatrice Graphique Graph35+EII Python",
-      "prix_base": 375000,
-      "prix_comparaison": 426000,
-      "variation": 51000
+      "cle": "cremessauces_134399sojacuisinefluide15mg3x20cl_html",
+      "name": "Soja cuisine fluide 15%mg 3x20cl",
+      "prix_base": 16900,
+      "prix_comparaison": 5650,
+      "variation": -11250
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
-      "name": "Calculatrice Casio Calculatrice Graphique Graph35+EII Python",
-      "prix_base": 375000,
-      "prix_comparaison": 426000,
-      "indice_prix": 113.6
-    },
-    {
-      "cle": "corbeillepaniercoussinhamaclit_21289trixieabridouilletminoupourchatetchien4011905036281_html",
-      "name": "TRIXIE Abri Douillet Minou pour Chat - Beige - 35 \u00d7 26 \u00d7 41 cm",
-      "prix_base": 134000,
-      "prix_comparaison": 152000,
-      "indice_prix": 113.43283582089552
-    },
-    {
-      "cle": "calculatrice_124218calculatricescientifiquecasiocollegefx924549526615603_html",
-      "name": "Casio FX-92 Coll\u00e8ge Classwiz",
-      "prix_base": 144000,
-      "prix_comparaison": 163000,
-      "indice_prix": 113.19444444444444
-    },
-    {
-      "cle": "popotevaissellecouverts_136152kandbasegourdedecamping1lcolorisassortis3450652910160_html",
-      "name": "KANDBASE - Gourde de camping 1L coloris assortis",
-      "prix_base": 113000,
-      "prix_comparaison": 124000,
-      "indice_prix": 109.73451327433628
+      "cle": "cremessauces_134399sojacuisinefluide15mg3x20cl_html",
+      "name": "Soja cuisine fluide 15%mg 3x20cl",
+      "prix_base": 16900,
+      "prix_comparaison": 5650,
+      "indice_prix": 33.43195266272189
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "popotevaissellecouverts_136152kandbasegourdedecamping1lcolorisassortis3450652910160_html",
-      "name": "KANDBASE - Gourde de camping 1L coloris assortis",
-      "prix_base": 113000,
-      "prix_comparaison": 124000,
-      "indice_prix": 109.73451327433628
-    },
-    {
-      "cle": "calculatrice_124218calculatricescientifiquecasiocollegefx924549526615603_html",
-      "name": "Casio FX-92 Coll\u00e8ge Classwiz",
-      "prix_base": 144000,
-      "prix_comparaison": 163000,
-      "indice_prix": 113.19444444444444
-    },
-    {
-      "cle": "corbeillepaniercoussinhamaclit_21289trixieabridouilletminoupourchatetchien4011905036281_html",
-      "name": "TRIXIE Abri Douillet Minou pour Chat - Beige - 35 \u00d7 26 \u00d7 41 cm",
-      "prix_base": 134000,
-      "prix_comparaison": 152000,
-      "indice_prix": 113.43283582089552
-    },
-    {
-      "cle": "calculatrice_16283casiocalculatricegraph35eiipythonintegru00e94549526611735_html",
-      "name": "Calculatrice Casio Calculatrice Graphique Graph35+EII Python",
-      "prix_base": 375000,
-      "prix_comparaison": 426000,
-      "indice_prix": 113.6
+      "cle": "cremessauces_134399sojacuisinefluide15mg3x20cl_html",
+      "name": "Soja cuisine fluide 15%mg 3x20cl",
+      "prix_base": 16900,
+      "prix_comparaison": 5650,
+      "indice_prix": 33.43195266272189
     }
   ]
 }

@@ -1,94 +1,87 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_packfriandises_",
-      "name": "Pack Friandises",
-      "prix_base": 129,
-      "prix_comparaison": 240,
-      "variation": 111
+      "cle": "produit_gourdeplayground410mlfrozentrustthejourney_",
+      "name": "GOURDE Playground 410 ML Frozen Trust The Journey",
+      "prix_base": 550,
+      "prix_comparaison": 858,
+      "variation": 308
     },
     {
-      "cle": "produit_packcadeaukids_",
-      "name": "Pack Cadeau Kids",
-      "prix_base": 99,
-      "prix_comparaison": 103,
-      "variation": 4
-    },
-    {
-      "cle": "produit_protegecahierpm_",
-      "name": "PROTEGE CAHIER PM",
-      "prix_base": 4,
-      "prix_comparaison": 6,
-      "variation": 2
+      "cle": "produit_cahierscolaire96pages1722seyes139wc_",
+      "name": "Cahier scolaire 96pages 17*22 seyes | 139WC",
+      "prix_base": 38,
+      "prix_comparaison": 73,
+      "variation": 35
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_protegecahierpm_",
-      "name": "PROTEGE CAHIER PM",
-      "prix_base": 4,
-      "prix_comparaison": 6,
-      "variation": 2
+      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
+      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
+      "prix_base": 242,
+      "prix_comparaison": 231,
+      "variation": -11
     },
     {
-      "cle": "produit_packcadeaukids_",
-      "name": "Pack Cadeau Kids",
-      "prix_base": 99,
-      "prix_comparaison": 103,
-      "variation": 4
+      "cle": "produit_cahierscolaire96pages1722seyes139wc_",
+      "name": "Cahier scolaire 96pages 17*22 seyes | 139WC",
+      "prix_base": 38,
+      "prix_comparaison": 73,
+      "variation": 35
     },
     {
-      "cle": "produit_packfriandises_",
-      "name": "Pack Friandises",
-      "prix_base": 129,
-      "prix_comparaison": 240,
-      "variation": 111
+      "cle": "produit_gourdeplayground410mlfrozentrustthejourney_",
+      "name": "GOURDE Playground 410 ML Frozen Trust The Journey",
+      "prix_base": 550,
+      "prix_comparaison": 858,
+      "variation": 308
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_packfriandises_",
-      "name": "Pack Friandises",
-      "prix_base": 129,
-      "prix_comparaison": 240,
-      "indice_prix": 186.04651162790697
+      "cle": "produit_cahierscolaire96pages1722seyes139wc_",
+      "name": "Cahier scolaire 96pages 17*22 seyes | 139WC",
+      "prix_base": 38,
+      "prix_comparaison": 73,
+      "indice_prix": 192.10526315789474
     },
     {
-      "cle": "produit_protegecahierpm_",
-      "name": "PROTEGE CAHIER PM",
-      "prix_base": 4,
-      "prix_comparaison": 6,
-      "indice_prix": 150.0
+      "cle": "produit_gourdeplayground410mlfrozentrustthejourney_",
+      "name": "GOURDE Playground 410 ML Frozen Trust The Journey",
+      "prix_base": 550,
+      "prix_comparaison": 858,
+      "indice_prix": 156.0
     },
     {
-      "cle": "produit_packcadeaukids_",
-      "name": "Pack Cadeau Kids",
-      "prix_base": 99,
-      "prix_comparaison": 103,
-      "indice_prix": 104.04040404040404
+      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
+      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
+      "prix_base": 242,
+      "prix_comparaison": 231,
+      "indice_prix": 95.45454545454545
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_packcadeaukids_",
-      "name": "Pack Cadeau Kids",
-      "prix_base": 99,
-      "prix_comparaison": 103,
-      "indice_prix": 104.04040404040404
+      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
+      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
+      "prix_base": 242,
+      "prix_comparaison": 231,
+      "indice_prix": 95.45454545454545
     },
     {
-      "cle": "produit_protegecahierpm_",
-      "name": "PROTEGE CAHIER PM",
-      "prix_base": 4,
-      "prix_comparaison": 6,
-      "indice_prix": 150.0
+      "cle": "produit_gourdeplayground410mlfrozentrustthejourney_",
+      "name": "GOURDE Playground 410 ML Frozen Trust The Journey",
+      "prix_base": 550,
+      "prix_comparaison": 858,
+      "indice_prix": 156.0
     },
     {
-      "cle": "produit_packfriandises_",
-      "name": "Pack Friandises",
-      "prix_base": 129,
-      "prix_comparaison": 240,
-      "indice_prix": 186.04651162790697
+      "cle": "produit_cahierscolaire96pages1722seyes139wc_",
+      "name": "Cahier scolaire 96pages 17*22 seyes | 139WC",
+      "prix_base": 38,
+      "prix_comparaison": 73,
+      "indice_prix": 192.10526315789474
     }
   ]
 }
