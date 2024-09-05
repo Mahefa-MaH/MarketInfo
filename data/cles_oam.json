@@ -1,12 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "trottinetteelectrique_135826trottinetteelectriquebeeper500w1036v75ahblanc3661546406229_html",
-      "name": "Trottinette \u00e9lectrique - BEEPER - 500W - 10- 36V - 7,5Ah - Blanc",
-      "prix_base": 10918000,
-      "prix_comparaison": 10918000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "spacompletkitspajacuzzi_142716spagonflablebestwaylayzspasanfranciscohydrojetpro230x230x71cm57placescarrebacheunecartouche6941607350683_html",
+      "name": "Spa gonflable BESTWAY - Lay-Z-Spa San Francisco Hydrojet Pro - 230 x 230 x 71 cm - 5/7 places - Carr\u00e9 (b\u00e2che, une cartouche)",
+      "prix_base": 11339000,
+      "prix_comparaison": 1000,
+      "variation": -11338000,
+      "indice_prix": 0.008819119851838787
     }
   ]
 }

@@ -1,20 +1,34 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
-      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
-      "prix_base": 242,
-      "prix_comparaison": 231,
-      "variation": -11
+      "cle": "produit_boitepppastelsalhuile12couleursagmy3322_",
+      "name": "Boite PP Pastels \u00e0 l\u2019huile \u2013 12 couleurs | AGMY3322",
+      "prix_base": 221,
+      "prix_comparaison": 295,
+      "variation": 74
+    },
+    {
+      "cle": "produit_boitepppastelsalhuile24couleursagmy3323_",
+      "name": "Boite PP Pastels \u00e0 l\u2019huile \u2013 24 couleurs | AGMY3323",
+      "prix_base": 449,
+      "prix_comparaison": 599,
+      "variation": 150
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
-      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
-      "prix_base": 242,
-      "prix_comparaison": 231,
-      "indice_prix": 95.45454545454545
+      "cle": "produit_boitepppastelsalhuile24couleursagmy3323_",
+      "name": "Boite PP Pastels \u00e0 l\u2019huile \u2013 24 couleurs | AGMY3323",
+      "prix_base": 449,
+      "prix_comparaison": 599,
+      "indice_prix": 133.4075723830735
+    },
+    {
+      "cle": "produit_boitepppastelsalhuile12couleursagmy3322_",
+      "name": "Boite PP Pastels \u00e0 l\u2019huile \u2013 12 couleurs | AGMY3322",
+      "prix_base": 221,
+      "prix_comparaison": 295,
+      "indice_prix": 133.4841628959276
     }
   ]
 }
