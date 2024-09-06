@@ -2,9 +2,9 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Spa gonflable BESTWAY - Lay-Z-Spa San Francisco Hydrojet Pro - 230 x 230 x 71 cm - 5/7 places - Carré (bâche, une cartouche)**
-   - Prix avant: 11,339,000 Ar
-   - Prix actuel: 1,000 Ar
-   - Variation: -11,338,000 Ar
-   - Indice de prix : 0.01
+1. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Bleu**
+   - Prix avant: 10,364,000 Ar
+   - Prix actuel: 10,364,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 

@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 7586,
-      "prix_base": 540000,
-      "name": "Chaise de bureau noir W630",
-      "prix_comparaison": 570000,
-      "variation": 30000
+      "list_id": 3467,
+      "prix_base": 6200,
+      "name": "Rasoir Lady Comfort 5 Pi\u00e8ces",
+      "prix_comparaison": 7400,
+      "variation": 1200
     },
     {
-      "list_id": 6799,
-      "prix_base": 15000,
-      "name": "Insecticide a\u00e9rosol volants-rampants 750 ml Citron Zelnova",
-      "prix_comparaison": 20100,
-      "variation": 5100
+      "list_id": 917,
+      "prix_base": 2200,
+      "name": "Eau gazeuse Bouteille 30 Cl consign\u00e9",
+      "prix_comparaison": 2300,
+      "variation": 100
     },
     {
-      "list_id": 5193,
-      "prix_base": 10700,
-      "name": "Ciseaux \u00e9colier ergonomique Sensoft gaucher 13 cm",
-      "prix_comparaison": 12700,
-      "variation": 2000
+      "list_id": 916,
+      "prix_base": 5100,
+      "name": "Eau gazeuse bouteille 1 L consign\u00e9",
+      "prix_comparaison": 5200,
+      "variation": 100
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 14079,
-      "prix_base": 1800,
-      "name": "Boisson Gazeuse PET 35 CL",
-      "prix_comparaison": 1600,
-      "variation": -200
+      "list_id": 339,
+      "prix_base": 32800,
+      "name": "Boisson cacao Cioccolato Capsule Etui de 10 pi\u00e8ces",
+      "prix_comparaison": 28600,
+      "variation": -4200
     },
     {
-      "list_id": 3103,
-      "prix_base": 4300,
-      "name": "Thon En Miettes Nature 185 G",
-      "prix_comparaison": 4400,
-      "variation": 100
+      "list_id": 3442,
+      "prix_base": 13000,
+      "name": "Sirop De Fraise PET 75 Cl",
+      "prix_comparaison": 9800,
+      "variation": -3200
     },
     {
-      "list_id": 2090,
-      "prix_base": 4400,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_comparaison": 4500,
-      "variation": 100
+      "list_id": 373,
+      "prix_base": 15400,
+      "name": "F\u00e9cule De Manioc 1 Kg",
+      "prix_comparaison": 13500,
+      "variation": -1900
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 6799,
-      "name": "Insecticide a\u00e9rosol volants-rampants 750 ml Citron Zelnova",
-      "prix_base": 15000,
-      "prix_comparaison": 20100,
-      "indice_prix": 134.0
+      "list_id": 3467,
+      "name": "Rasoir Lady Comfort 5 Pi\u00e8ces",
+      "prix_base": 6200,
+      "prix_comparaison": 7400,
+      "indice_prix": 119.35483870967742
     },
     {
-      "list_id": 3361,
-      "name": "Chocolat En Poudre 20 G Pack De 6",
-      "prix_base": 2700,
-      "prix_comparaison": 3400,
-      "indice_prix": 125.92592592592592
+      "list_id": 917,
+      "name": "Eau gazeuse Bouteille 30 Cl consign\u00e9",
+      "prix_base": 2200,
+      "prix_comparaison": 2300,
+      "indice_prix": 104.54545454545455
     },
     {
-      "list_id": 5193,
-      "name": "Ciseaux \u00e9colier ergonomique Sensoft gaucher 13 cm",
-      "prix_base": 10700,
-      "prix_comparaison": 12700,
-      "indice_prix": 118.69158878504673
+      "list_id": 916,
+      "name": "Eau gazeuse bouteille 1 L consign\u00e9",
+      "prix_base": 5100,
+      "prix_comparaison": 5200,
+      "indice_prix": 101.96078431372548
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 14079,
-      "name": "Boisson Gazeuse PET 35 CL",
-      "prix_base": 1800,
-      "prix_comparaison": 1600,
-      "indice_prix": 88.88888888888889
+      "list_id": 3442,
+      "name": "Sirop De Fraise PET 75 Cl",
+      "prix_base": 13000,
+      "prix_comparaison": 9800,
+      "indice_prix": 75.38461538461539
     },
     {
-      "list_id": 2090,
-      "name": "Chocolat En Poudre 200 G",
-      "prix_base": 4400,
-      "prix_comparaison": 4500,
-      "indice_prix": 102.27272727272727
+      "list_id": 339,
+      "name": "Boisson cacao Cioccolato Capsule Etui de 10 pi\u00e8ces",
+      "prix_base": 32800,
+      "prix_comparaison": 28600,
+      "indice_prix": 87.1951219512195
     },
     {
-      "list_id": 3103,
-      "name": "Thon En Miettes Nature 185 G",
-      "prix_base": 4300,
-      "prix_comparaison": 4400,
-      "indice_prix": 102.32558139534883
+      "list_id": 373,
+      "name": "F\u00e9cule De Manioc 1 Kg",
+      "prix_base": 15400,
+      "prix_comparaison": 13500,
+      "indice_prix": 87.66233766233766
     }
   ]
 }

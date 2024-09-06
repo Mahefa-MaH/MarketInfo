@@ -1,122 +1,30 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_cartableabb904l4f3_",
-      "name": "Cartable | ABB904L4F3",
-      "prix_base": 3839,
-      "prix_comparaison": 5119,
-      "variation": 1280
-    },
-    {
-      "cle": "produit_cartableorange4f0552_",
-      "name": "Cartable Orange 4F055",
-      "prix_base": 1597,
-      "prix_comparaison": 2130,
-      "variation": 533
-    },
-    {
-      "cle": "produit_cartableapl976k7_",
-      "name": "Cartable bleu 4F022",
-      "prix_base": 1597,
-      "prix_comparaison": 2130,
-      "variation": 533
-    },
-    {
-      "cle": "produit_cartablerose4f0e72_",
-      "name": "Cartable Rose 4F0E7",
-      "prix_base": 1597,
-      "prix_comparaison": 2130,
-      "variation": 533
-    },
-    {
-      "cle": "produit_cartableviolet4f077_",
-      "name": "Cartable violet 4F077",
-      "prix_base": 1597,
-      "prix_comparaison": 2130,
-      "variation": 533
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_crayonsansboishexagone2bawp357h5_",
-      "name": "Crayon sans bois Hexagone 2B | AWP357H5",
-      "prix_base": 8,
-      "prix_comparaison": 11,
-      "variation": 3
-    },
-    {
-      "cle": "produit_crayon2bawp30876_",
-      "name": "Crayon 2B | AWP30876",
-      "prix_base": 13,
-      "prix_comparaison": 17,
-      "variation": 4
-    },
-    {
-      "cle": "produit_styloabilleabpw3072_",
-      "name": "Stylo \u00e0 bille | ABPW3072",
-      "prix_base": 12,
-      "prix_comparaison": 16,
-      "variation": 4
-    },
-    {
-      "cle": "produit_styloabilleabpw64774_",
-      "name": "Stylo \u00e0 bille | ABPW64774",
-      "prix_base": 12,
-      "prix_comparaison": 16,
-      "variation": 4
-    },
-    {
-      "cle": "produit_collebaton9gasgn7134_",
-      "name": "Colle baton 9g | ASGN7134",
-      "prix_base": 23,
-      "prix_comparaison": 30,
-      "variation": 7
+      "cle": "produit_guidedesurvieauteurchristodule113pages_",
+      "name": "Guide de Survie No comment \u00ae \u00e9ditions  | Auteur: Christodule | 113 Pages",
+      "prix_base": 961,
+      "prix_comparaison": 678,
+      "variation": -283
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_crayonsansboishexagone2bawp357h5_",
-      "name": "Crayon sans bois Hexagone 2B | AWP357H5",
-      "prix_base": 8,
-      "prix_comparaison": 11,
-      "indice_prix": 137.5
-    },
-    {
-      "cle": "produit_reglearl960h8_",
-      "name": "R\u00e8gle | ARL960H8",
-      "prix_base": 20,
-      "prix_comparaison": 27,
-      "indice_prix": 135.0
-    },
-    {
-      "cle": "produit_marqueurtableaublancrechargeableawmv2071_",
-      "name": "Marqueur tableau blanc rechargeable | AWMV2071",
-      "prix_base": 43,
-      "prix_comparaison": 58,
-      "indice_prix": 134.88372093023256
+      "cle": "produit_guidedesurvieauteurchristodule113pages_",
+      "name": "Guide de Survie No comment \u00ae \u00e9ditions  | Auteur: Christodule | 113 Pages",
+      "prix_base": 961,
+      "prix_comparaison": 678,
+      "indice_prix": 70.55150884495318
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_collebaton9gasgn7134_",
-      "name": "Colle baton 9g | ASGN7134",
-      "prix_base": 23,
-      "prix_comparaison": 30,
-      "indice_prix": 130.43478260869566
-    },
-    {
-      "cle": "produit_crayon2bawp30876_",
-      "name": "Crayon 2B | AWP30876",
-      "prix_base": 13,
-      "prix_comparaison": 17,
-      "indice_prix": 130.76923076923077
-    },
-    {
-      "cle": "produit_rechargespourstyloabilleabr122s7_",
-      "name": "Recharge spour stylo \u00e0 bille | ABR122S7",
-      "prix_base": 26,
-      "prix_comparaison": 34,
-      "indice_prix": 130.76923076923077
+      "cle": "produit_guidedesurvieauteurchristodule113pages_",
+      "name": "Guide de Survie No comment \u00ae \u00e9ditions  | Auteur: Christodule | 113 Pages",
+      "prix_base": 961,
+      "prix_comparaison": 678,
+      "indice_prix": 70.55150884495318
     }
   ]
 }

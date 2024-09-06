@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 288000,
-      "prix_comparaison": 290000,
-      "variation": 2000
+      "list_id": 376,
+      "name": "Huile D'Olive Extra Vierge 1 L",
+      "prix_base": 39900,
+      "prix_comparaison": 40000,
+      "variation": 100
     }
   ],
   "indice de prix": [
     {
-      "list_id": 3824,
-      "name": "Sucre Blanc Br\u00e9silien En Sac De 50 Kg",
-      "prix_base": 288000,
-      "prix_comparaison": 290000,
-      "indice_prix": 100.69444444444444
+      "list_id": 376,
+      "name": "Huile D'Olive Extra Vierge 1 L",
+      "prix_base": 39900,
+      "prix_comparaison": 40000,
+      "indice_prix": 100.25062656641605
     }
   ]
 }

@@ -2,69 +2,69 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Chaise de bureau noir W630**
-   - Prix avant: 540,000 Ar
-   - Prix actuel: 570,000 Ar
-   - Variation: +30,000 Ar
+1. **Rasoir Lady Comfort 5 Pièces**
+   - Prix avant: 6,200 Ar
+   - Prix actuel: 7,400 Ar
+   - Variation: +1,200 Ar
 
-2. **Insecticide aérosol volants-rampants 750 ml Citron Zelnova**
-   - Prix avant: 15,000 Ar
-   - Prix actuel: 20,100 Ar
-   - Variation: +5,100 Ar
+2. **Eau gazeuse Bouteille 30 Cl consigné**
+   - Prix avant: 2,200 Ar
+   - Prix actuel: 2,300 Ar
+   - Variation: +100 Ar
 
-3. **Ciseaux écolier ergonomique Sensoft gaucher 13 cm**
-   - Prix avant: 10,700 Ar
-   - Prix actuel: 12,700 Ar
-   - Variation: +2,000 Ar
+3. **Eau gazeuse bouteille 1 L consigné**
+   - Prix avant: 5,100 Ar
+   - Prix actuel: 5,200 Ar
+   - Variation: +100 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Boisson Gazeuse PET 35 CL**
-   - Prix avant: 1,800 Ar
-   - Prix actuel: 1,600 Ar
-   - Variation: -200 Ar
+1. **Boisson cacao Cioccolato Capsule Etui de 10 pièces**
+   - Prix avant: 32,800 Ar
+   - Prix actuel: 28,600 Ar
+   - Variation: -4,200 Ar
 
-2. **Thon En Miettes Nature 185 G**
-   - Prix avant: 4,300 Ar
-   - Prix actuel: 4,400 Ar
-   - Variation: +100 Ar
+2. **Sirop De Fraise PET 75 Cl**
+   - Prix avant: 13,000 Ar
+   - Prix actuel: 9,800 Ar
+   - Variation: -3,200 Ar
 
-3. **Chocolat En Poudre 200 G**
-   - Prix avant: 4,400 Ar
-   - Prix actuel: 4,500 Ar
-   - Variation: +100 Ar
+3. **Fécule De Manioc 1 Kg**
+   - Prix avant: 15,400 Ar
+   - Prix actuel: 13,500 Ar
+   - Variation: -1,900 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Insecticide aérosol volants-rampants 750 ml Citron Zelnova**
-   - Prix avant: 15,000 Ar
-   - Prix actuel: 20,100 Ar
-   - Indice de prix : 134.00
+1. **Rasoir Lady Comfort 5 Pièces**
+   - Prix avant: 6,200 Ar
+   - Prix actuel: 7,400 Ar
+   - Indice de prix : 119.35
 
-2. **Chocolat En Poudre 20 G Pack De 6**
-   - Prix avant: 2,700 Ar
-   - Prix actuel: 3,400 Ar
-   - Indice de prix : 125.93
+2. **Eau gazeuse Bouteille 30 Cl consigné**
+   - Prix avant: 2,200 Ar
+   - Prix actuel: 2,300 Ar
+   - Indice de prix : 104.55
 
-3. **Ciseaux écolier ergonomique Sensoft gaucher 13 cm**
-   - Prix avant: 10,700 Ar
-   - Prix actuel: 12,700 Ar
-   - Indice de prix : 118.69
+3. **Eau gazeuse bouteille 1 L consigné**
+   - Prix avant: 5,100 Ar
+   - Prix actuel: 5,200 Ar
+   - Indice de prix : 101.96
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Boisson Gazeuse PET 35 CL**
-   - Prix avant: 1,800 Ar
-   - Prix actuel: 1,600 Ar
-   - Indice de prix : 88.89
+1. **Sirop De Fraise PET 75 Cl**
+   - Prix avant: 13,000 Ar
+   - Prix actuel: 9,800 Ar
+   - Indice de prix : 75.38
 
-2. **Chocolat En Poudre 200 G**
-   - Prix avant: 4,400 Ar
-   - Prix actuel: 4,500 Ar
-   - Indice de prix : 102.27
+2. **Boisson cacao Cioccolato Capsule Etui de 10 pièces**
+   - Prix avant: 32,800 Ar
+   - Prix actuel: 28,600 Ar
+   - Indice de prix : 87.20
 
-3. **Thon En Miettes Nature 185 G**
-   - Prix avant: 4,300 Ar
-   - Prix actuel: 4,400 Ar
-   - Indice de prix : 102.33
+3. **Fécule De Manioc 1 Kg**
+   - Prix avant: 15,400 Ar
+   - Prix actuel: 13,500 Ar
+   - Indice de prix : 87.66
 
