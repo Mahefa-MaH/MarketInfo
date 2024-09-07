@@ -1,94 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "list_id": 3467,
-      "prix_base": 6200,
-      "name": "Rasoir Lady Comfort 5 Pi\u00e8ces",
-      "prix_comparaison": 7400,
-      "variation": 1200
+      "list_id": 4011,
+      "prix_base": 260700,
+      "name": "Huile D\u2019Olive Pomace 5 L",
+      "prix_comparaison": 299600,
+      "variation": 38900
     },
     {
-      "list_id": 917,
-      "prix_base": 2200,
-      "name": "Eau gazeuse Bouteille 30 Cl consign\u00e9",
-      "prix_comparaison": 2300,
-      "variation": 100
+      "list_id": 4089,
+      "prix_base": 19000,
+      "name": "Cornichons Sous Vinaigre 290 G",
+      "prix_comparaison": 25700,
+      "variation": 6700
     },
     {
-      "list_id": 916,
-      "prix_base": 5100,
-      "name": "Eau gazeuse bouteille 1 L consign\u00e9",
-      "prix_comparaison": 5200,
-      "variation": 100
+      "list_id": 4094,
+      "prix_base": 17000,
+      "name": "Entr\u00e9e De L\u00e9gumes M\u00e9lang\u00e9s 280 G",
+      "prix_comparaison": 22600,
+      "variation": 5600
     }
   ],
   "prix_diminues": [
     {
-      "list_id": 339,
-      "prix_base": 32800,
-      "name": "Boisson cacao Cioccolato Capsule Etui de 10 pi\u00e8ces",
-      "prix_comparaison": 28600,
-      "variation": -4200
+      "list_id": 4094,
+      "prix_base": 17000,
+      "name": "Entr\u00e9e De L\u00e9gumes M\u00e9lang\u00e9s 280 G",
+      "prix_comparaison": 22600,
+      "variation": 5600
     },
     {
-      "list_id": 3442,
-      "prix_base": 13000,
-      "name": "Sirop De Fraise PET 75 Cl",
-      "prix_comparaison": 9800,
-      "variation": -3200
+      "list_id": 4089,
+      "prix_base": 19000,
+      "name": "Cornichons Sous Vinaigre 290 G",
+      "prix_comparaison": 25700,
+      "variation": 6700
     },
     {
-      "list_id": 373,
-      "prix_base": 15400,
-      "name": "F\u00e9cule De Manioc 1 Kg",
-      "prix_comparaison": 13500,
-      "variation": -1900
+      "list_id": 4011,
+      "prix_base": 260700,
+      "name": "Huile D\u2019Olive Pomace 5 L",
+      "prix_comparaison": 299600,
+      "variation": 38900
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "list_id": 3467,
-      "name": "Rasoir Lady Comfort 5 Pi\u00e8ces",
-      "prix_base": 6200,
-      "prix_comparaison": 7400,
-      "indice_prix": 119.35483870967742
+      "list_id": 4089,
+      "name": "Cornichons Sous Vinaigre 290 G",
+      "prix_base": 19000,
+      "prix_comparaison": 25700,
+      "indice_prix": 135.26315789473685
     },
     {
-      "list_id": 917,
-      "name": "Eau gazeuse Bouteille 30 Cl consign\u00e9",
-      "prix_base": 2200,
-      "prix_comparaison": 2300,
-      "indice_prix": 104.54545454545455
+      "list_id": 4094,
+      "name": "Entr\u00e9e De L\u00e9gumes M\u00e9lang\u00e9s 280 G",
+      "prix_base": 17000,
+      "prix_comparaison": 22600,
+      "indice_prix": 132.94117647058823
     },
     {
-      "list_id": 916,
-      "name": "Eau gazeuse bouteille 1 L consign\u00e9",
-      "prix_base": 5100,
-      "prix_comparaison": 5200,
-      "indice_prix": 101.96078431372548
+      "list_id": 4011,
+      "name": "Huile D\u2019Olive Pomace 5 L",
+      "prix_base": 260700,
+      "prix_comparaison": 299600,
+      "indice_prix": 114.92136555427695
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "list_id": 3442,
-      "name": "Sirop De Fraise PET 75 Cl",
-      "prix_base": 13000,
-      "prix_comparaison": 9800,
-      "indice_prix": 75.38461538461539
+      "list_id": 4011,
+      "name": "Huile D\u2019Olive Pomace 5 L",
+      "prix_base": 260700,
+      "prix_comparaison": 299600,
+      "indice_prix": 114.92136555427695
     },
     {
-      "list_id": 339,
-      "name": "Boisson cacao Cioccolato Capsule Etui de 10 pi\u00e8ces",
-      "prix_base": 32800,
-      "prix_comparaison": 28600,
-      "indice_prix": 87.1951219512195
+      "list_id": 4094,
+      "name": "Entr\u00e9e De L\u00e9gumes M\u00e9lang\u00e9s 280 G",
+      "prix_base": 17000,
+      "prix_comparaison": 22600,
+      "indice_prix": 132.94117647058823
     },
     {
-      "list_id": 373,
-      "name": "F\u00e9cule De Manioc 1 Kg",
-      "prix_base": 15400,
-      "prix_comparaison": 13500,
-      "indice_prix": 87.66233766233766
+      "list_id": 4089,
+      "name": "Cornichons Sous Vinaigre 290 G",
+      "prix_base": 19000,
+      "prix_comparaison": 25700,
+      "indice_prix": 135.26315789473685
     }
   ]
 }

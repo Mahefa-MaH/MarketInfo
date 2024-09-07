@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuserobotsansfil_137380tondeuserobotautonomestigaa1000fonctionneavecbatterie8008984864672_html",
-      "name": "Tondeuse robot autonome STIGA A 1000 - Fonctionne avec batterie",
-      "prix_base": 16546000,
-      "prix_comparaison": 16546000,
+      "cle": "ordinateurportable_133173apple16macbookprom3pro2023ram36gostockage512goargentazerty0195949075698_html",
+      "name": "MacBook Apple MacBook Pro 16 512Go SSD 36Go RAM Puce M3 Pro CPU 12 coeurs GPU 18 coeurs Argent Nouveau",
+      "prix_base": 15337000,
+      "prix_comparaison": 15337000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "aspirateurrobot_175246newdreamex30ultrarobotaspirateurlaveurstationdevidagetechnologiemopextend6400mah8300pa6976233675947_html",
-      "name": "NEW DREAME X30 Ultra - Robot Aspirateur Laveur - Station de Vidage - Technologie MopExtend - 6400 mAh - 8300 Pa",
-      "prix_base": 10631000,
-      "prix_comparaison": 10631000,
+      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 11141000,
+      "prix_comparaison": 11141000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
-      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
-      "prix_base": 17500000,
-      "prix_comparaison": 17500000,
+      "cle": "ordinateurportable_133932apple14macbookprom3pro2023ram18gostockage1toargentazerty0195949078330_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 13657000,
+      "prix_comparaison": 13657000,
       "variation": 0,
       "indice_prix": 100.0
     }

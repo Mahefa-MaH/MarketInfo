@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
-      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
-      "prix_base": 11627000,
-      "prix_comparaison": 11627000,
+      "cle": "ordinateurportable_140306apple14macbookprom32024ram16gostockage1togrissideralazerty0195949640490_html",
+      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sid\u00e9ral - AZERTY",
+      "prix_base": 11550000,
+      "prix_comparaison": 11550000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143095poeleaboisinvictaneosenraccordableacier8kwbuches40cm3244339488369_html",
-      "name": "Poele a bois- INVICTA Neosen Raccordable - Acier - 8KW - B\u00fbches 40 cm",
-      "prix_base": 11106000,
-      "prix_comparaison": 11106000,
+      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
+      "name": "Mac mini Apple Mac Studio 512Go SSD Puce M2 Max CPU 12 coeurs GPU 30 coeurs 2023",
+      "prix_base": 10845000,
+      "prix_comparaison": 10845000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143098poeleaboisinvictaaratosfonte8kwbuches40cm3244336453445_html",
-      "name": "Poele a bois - INVICTA Aratos - Fonte - 8 KW - B\u00fbches 40 cm",
-      "prix_base": 10130000,
-      "prix_comparaison": 10130000,
+      "cle": "unitecentraleseuleminipc_143068pcdebureaugaminghpgt152064nfcorei714700fram32goddr5512gossdgeforcertx4070super12gofreedos0198122795093_html",
+      "name": "PC de bureau Gamer HP Omen GT15-2064nf - Core i7-14700F - RAM 32Go - Stockage 512Go SSD - RTX 4070 - Sans Windows",
+      "prix_base": 12309000,
+      "prix_comparaison": 12309000,
       "variation": 0,
       "indice_prix": 100.0
     }

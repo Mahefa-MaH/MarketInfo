@@ -2,17 +2,17 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Huile D'Olive Extra Vierge 1 L**
-   - Prix avant: 39,900 Ar
-   - Prix actuel: 40,000 Ar
-   - Variation: +100 Ar
+1. **Huile D’Olive Pomace 5 L**
+   - Prix avant: 260,700 Ar
+   - Prix actuel: 299,600 Ar
+   - Variation: +38,900 Ar
 
 
 
 ## Indice de prix
 
-1. **Huile D'Olive Extra Vierge 1 L**
-   - Prix avant: 39,900 Ar
-   - Prix actuel: 40,000 Ar
-   - Indice de prix : 100.25
+1. **Huile D’Olive Pomace 5 L**
+   - Prix avant: 260,700 Ar
+   - Prix actuel: 299,600 Ar
+   - Indice de prix : 114.92
 

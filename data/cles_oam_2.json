@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
-      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
-      "prix_base": 10054000,
-      "prix_comparaison": 10054000,
+      "cle": "ordinateurportable_133947apple16macbookprom3max2023ram48gostockage1toargentazerty0195949185601_html",
+      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 21448000,
+      "prix_comparaison": 21448000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
-      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
-      "prix_base": 13032000,
-      "prix_comparaison": 13032000,
+      "cle": "ordinateurportable_133930apple14macbookprom3pro2023ram18gostockage1tonoirsideralazerty0195949077012_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 14049000,
+      "prix_comparaison": 14049000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "servanteatelierservantedechantierdessertemecanicien_144198servanterollfacomrollcontactpf6tiroirscomposition69outils3148519398014_html",
-      "name": "Servante Roll - FACOM - ROLL.CONTACTPF - 6 tiroirs + composition 69 outils",
-      "prix_base": 10506000,
-      "prix_comparaison": 10506000,
+      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
+      "prix_base": 13535000,
+      "prix_comparaison": 13535000,
       "variation": 0,
       "indice_prix": 100.0
     }

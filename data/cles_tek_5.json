@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 2900,
+      "prix_comparaison": 2900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 13775,
+      "name": "Riz de Luxe Makalioka 5kg",
+      "prix_base": 23000,
+      "prix_comparaison": 23000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 8197,
       "name": "Huile De Soja 1 L",
       "prix_base": 10200,
       "prix_comparaison": 10200,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 9679,
-      "name": "Sucrettes blanches  50 g",
-      "prix_base": 7000,
-      "prix_comparaison": 7000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 13776,
-      "name": "Riz Blanchi Makalioka 5kg",
-      "prix_base": 19800,
-      "prix_comparaison": 19800,
       "variation": 0,
       "indice_prix": 100.0
     }

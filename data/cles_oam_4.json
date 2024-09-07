@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "servanteatelierservantedechantierdessertemecanicien_144198servanterollfacomrollcontactpf6tiroirscomposition69outils3148519398014_html",
-      "name": "Servante Roll - FACOM - ROLL.CONTACTPF - 6 tiroirs + composition 69 outils",
-      "prix_base": 10506000,
-      "prix_comparaison": 10506000,
+      "cle": "ordinateurportable_133170apple16macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949073939_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 14682000,
+      "prix_comparaison": 14682000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
-      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
-      "prix_base": 10054000,
-      "prix_comparaison": 10054000,
+      "cle": "ordinateurportable_135417apple16macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949074813_html",
+      "name": "MacBook Apple MacBook Pro 16 1To SSD 36Go RAM Puce M3 Max CPU 14 coeurs GPU 30 coeurs Noir sideral Nouveau",
+      "prix_base": 19291000,
+      "prix_comparaison": 19291000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
-      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
-      "prix_base": 13032000,
-      "prix_comparaison": 13032000,
+      "cle": "ordinateurportable_133931apple14macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949077456_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 17698000,
+      "prix_comparaison": 17698000,
       "variation": 0,
       "indice_prix": 100.0
     }
