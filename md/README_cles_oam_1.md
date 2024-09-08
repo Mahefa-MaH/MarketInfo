@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **GRE - Kit Piscine hors sol acier grise anthracite ronde Juni Ø480 x H132 cm (Livrée avec filtre a sable + sable + échelle + t**
-   - Prix avant: 10,464,000 Ar
-   - Prix actuel: 10,464,000 Ar
+1. **Ensemble relaxation électrique matelas + sommier - 2x80x200 cm - Matelas ressorts ensachés DEKO DREAM ERGO 9 Dreamzone**
+   - Prix avant: 10,165,000 Ar
+   - Prix actuel: 10,165,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable**
-   - Prix avant: 10,973,000 Ar
-   - Prix actuel: 10,973,000 Ar
+2. **PC de bureau Gamer HP Omen GT15-2064nf - Core i7-14700F - RAM 32Go - Stockage 512Go SSD - RTX 4070 - Sans Windows**
+   - Prix avant: 12,309,000 Ar
+   - Prix actuel: 12,309,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - 24 - iMac Retina 4,5K (2023) - Puce Apple M3 - RAM 8Go - Stockage 512Go - GPU 10 coeurs - Bleu**
-   - Prix avant: 10,364,000 Ar
-   - Prix actuel: 10,364,000 Ar
+3. **Four vapeur/combiné Softclose Nettoyage Ecoclean- BOSCH SER8 HSG7584B1 Noir -Vol four 71l - 23 modes de cuisson**
+   - Prix avant: 12,090,000 Ar
+   - Prix actuel: 12,090,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
