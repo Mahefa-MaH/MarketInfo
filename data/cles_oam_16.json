@@ -1,26 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "outillage_102886echafaudagespeedxlhttravail1044m_html",
-      "name": "Echafaudage Speed XL Ht travail 10.44m",
-      "prix_base": 22000000,
-      "prix_comparaison": 22000000,
+      "cle": "tablettetactile_141564appleipadpro202411wificellulaire1tonoirsideral0195949230141_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral",
+      "prix_base": 10081000,
+      "prix_comparaison": 10081000,
       "variation": 0,
       "indice_prix": 100.0
     }

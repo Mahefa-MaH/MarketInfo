@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Sucre blanc 1 Kg**
-   - Prix avant: 8,000 Ar
-   - Prix actuel: 8,000 Ar
+2. **Sucre blanc Import 50 kg**
+   - Prix avant: 290,000 Ar
+   - Prix actuel: 290,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Sucre rouge 1 kg**
-   - Prix avant: 5,682 Ar
-   - Prix actuel: 5,682 Ar
+3. **Riz blanc import de Inde 50 kg**
+   - Prix avant: 158,400 Ar
+   - Prix actuel: 158,400 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

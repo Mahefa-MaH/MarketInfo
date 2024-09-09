@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
-      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 11141000,
+      "prix_comparaison": 11141000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
-      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "smartphone_144557samsunggalaxyzfold6smartphonegris1to8806095667539_html",
+      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Gris 1 To",
+      "prix_base": 10526000,
+      "prix_comparaison": 10526000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_103928betonniere255lgasoilkm178f_html",
-      "name": "Betonni\u00e8re 255L gasoil KM178F",
-      "prix_base": 14290000,
-      "prix_comparaison": 14290000,
+      "cle": "four_143929fourvapeurcombinesoftclosenettoyageecocleanboschser8hsg7584b1noirvolfour71l23modesdecuisson4242005327232_html",
+      "name": "Four vapeur/combin\u00e9 Softclose Nettoyage Ecoclean- BOSCH SER8 HSG7584B1 Noir -Vol four 71l - 23 modes de cuisson",
+      "prix_base": 12090000,
+      "prix_comparaison": 12090000,
       "variation": 0,
       "indice_prix": 100.0
     }

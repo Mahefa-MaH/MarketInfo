@@ -2,21 +2,21 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Théodolite digital avec trépied et mire**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+1. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sidéral - Azerty**
+   - Prix avant: 11,141,000 Ar
+   - Prix actuel: 11,141,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Betonnière tractable 290 L avec moteur électrique de 2CV**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+2. **SAMSUNG Galaxy Z Fold6 Smartphone Gris 1 To**
+   - Prix avant: 10,526,000 Ar
+   - Prix actuel: 10,526,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Betonnière 255L gasoil KM178F**
-   - Prix avant: 14,290,000 Ar
-   - Prix actuel: 14,290,000 Ar
+3. **Four vapeur/combiné Softclose Nettoyage Ecoclean- BOSCH SER8 HSG7584B1 Noir -Vol four 71l - 23 modes de cuisson**
+   - Prix avant: 12,090,000 Ar
+   - Prix actuel: 12,090,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

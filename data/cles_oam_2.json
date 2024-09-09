@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
-      "name": "Mac mini Apple Mac Studio 512Go SSD Puce M2 Max CPU 12 coeurs GPU 30 coeurs 2023",
-      "prix_base": 10845000,
-      "prix_comparaison": 10845000,
+      "cle": "tablettetactile_175273appleipadpro202411wifi2tonoirsideralnanotexture0195949467349_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 12631000,
+      "prix_comparaison": 12631000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
-      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
-      "prix_base": 17500000,
-      "prix_comparaison": 17500000,
+      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
+      "prix_base": 10639000,
+      "prix_comparaison": 10639000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuseautoporteesansfil_136387tondeuseautoporteethermique98cmdecoupealpinaat398hatransmissionhydrostatique8008984851559_html",
-      "name": "Tondeuse autoport\u00e9e thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique",
-      "prix_base": 14308000,
-      "prix_comparaison": 14308000,
+      "cle": "tablettetactile_143115appleipadpro202413wificellulaire1toargent0195949246760_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Argent",
+      "prix_base": 11698000,
+      "prix_comparaison": 11698000,
       "variation": 0,
       "indice_prix": 100.0
     }

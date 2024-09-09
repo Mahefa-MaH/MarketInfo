@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 12770000,
-      "prix_comparaison": 12770000,
+      "cle": "tablettetactile_145047appleipadpro202411wificellulaire2tonoirsideralnanotexture0195949469244_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 13844000,
+      "prix_comparaison": 13844000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143093poeleaboisinvictaneosenplus3vitresraccordable8kwbuches40cm3244339488376_html",
-      "name": "Poele a bois - INVICTA - Neosen Plus 3 vitres raccordable - 8 KW - B\u00fbches 40 cm",
-      "prix_base": 11902000,
-      "prix_comparaison": 11902000,
+      "cle": "tablettetactile_141605appleipadpro202413wifi2tonoirsideral0195949240270_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Noir sid\u00e9ral",
+      "prix_base": 12741000,
+      "prix_comparaison": 12741000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143099poeleaboisinvictafiftysurpied10kwbuches60cm3244336480441_html",
-      "name": "Poele a bois - INVICTA Fifty sur pied - 10 Kw - B\u00fbches 60 cm",
-      "prix_base": 15383000,
-      "prix_comparaison": 15383000,
+      "cle": "tablettetactile_144306appleipadpro202411wifi2toargent0195949224300_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent",
+      "prix_base": 11415000,
+      "prix_comparaison": 11415000,
       "variation": 0,
       "indice_prix": 100.0
     }
