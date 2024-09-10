@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "list_id": 4011,
-      "name": "Huile D\u2019Olive Pomace 5 L",
-      "prix_base": 260700,
-      "prix_comparaison": 299600,
-      "variation": 38900
+      "list_id": 4082,
+      "name": "Thon Sous L\u2019Huile D\u2019Olive 80 G",
+      "prix_base": 41800,
+      "prix_comparaison": 41900,
+      "variation": 100
     }
   ],
   "indice de prix": [
     {
-      "list_id": 4011,
-      "name": "Huile D\u2019Olive Pomace 5 L",
-      "prix_base": 260700,
-      "prix_comparaison": 299600,
-      "indice_prix": 114.92136555427695
+      "list_id": 4082,
+      "name": "Thon Sous L\u2019Huile D\u2019Olive 80 G",
+      "prix_base": 41800,
+      "prix_comparaison": 41900,
+      "indice_prix": 100.23923444976077
     }
   ]
 }

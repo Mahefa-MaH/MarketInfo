@@ -2,24 +2,29 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
+1. **Shampooing Antichute Pétrole Hahn™ 250ml**
+   - Prix avant: 254 Ar
+   - Prix actuel: 381 Ar
+   - Variation: +127 Ar
+
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Guide de Survie No comment ® éditions  | Auteur: Christodule | 113 Pages**
-   - Prix avant: 961 Ar
-   - Prix actuel: 678 Ar
-   - Variation: -283 Ar
+1. **Shampooing Antichute Pétrole Hahn™ 250ml**
+   - Prix avant: 254 Ar
+   - Prix actuel: 381 Ar
+   - Variation: +127 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Guide de Survie No comment ® éditions  | Auteur: Christodule | 113 Pages**
-   - Prix avant: 961 Ar
-   - Prix actuel: 678 Ar
-   - Indice de prix : 70.55
+1. **Shampooing Antichute Pétrole Hahn™ 250ml**
+   - Prix avant: 254 Ar
+   - Prix actuel: 381 Ar
+   - Indice de prix : 150.00
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Guide de Survie No comment ® éditions  | Auteur: Christodule | 113 Pages**
-   - Prix avant: 961 Ar
-   - Prix actuel: 678 Ar
-   - Indice de prix : 70.55
+1. **Shampooing Antichute Pétrole Hahn™ 250ml**
+   - Prix avant: 254 Ar
+   - Prix actuel: 381 Ar
+   - Indice de prix : 150.00
 

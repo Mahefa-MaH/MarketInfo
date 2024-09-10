@@ -1,30 +1,38 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_shampooingantichutepetrolehahn250ml_",
+      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 254,
+      "prix_comparaison": 381,
+      "variation": 127
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_guidedesurvieauteurchristodule113pages_",
-      "name": "Guide de Survie No comment \u00ae \u00e9ditions  | Auteur: Christodule | 113 Pages",
-      "prix_base": 961,
-      "prix_comparaison": 678,
-      "variation": -283
+      "cle": "produit_shampooingantichutepetrolehahn250ml_",
+      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 254,
+      "prix_comparaison": 381,
+      "variation": 127
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_guidedesurvieauteurchristodule113pages_",
-      "name": "Guide de Survie No comment \u00ae \u00e9ditions  | Auteur: Christodule | 113 Pages",
-      "prix_base": 961,
-      "prix_comparaison": 678,
-      "indice_prix": 70.55150884495318
+      "cle": "produit_shampooingantichutepetrolehahn250ml_",
+      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 254,
+      "prix_comparaison": 381,
+      "indice_prix": 150.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_guidedesurvieauteurchristodule113pages_",
-      "name": "Guide de Survie No comment \u00ae \u00e9ditions  | Auteur: Christodule | 113 Pages",
-      "prix_base": 961,
-      "prix_comparaison": 678,
-      "indice_prix": 70.55150884495318
+      "cle": "produit_shampooingantichutepetrolehahn250ml_",
+      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 254,
+      "prix_comparaison": 381,
+      "indice_prix": 150.0
     }
   ]
 }

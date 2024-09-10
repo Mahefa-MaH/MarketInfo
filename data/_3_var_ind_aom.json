@@ -1,150 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "abridejardinchalet_8583abridejardinenru00e9sinepvcketer66mu00b2aspectbois7290103664954_html",
-      "name": "Keter Abri de jardin Factor 66 beige 404246",
-      "prix_base": 1000,
-      "prix_comparaison": 9581000,
-      "variation": 9580000
+      "cle": "eauxgazeusesaromatisees_131084eaupetillanteavecjusdecitronvert1l_html",
+      "name": "Eau p\u00e9tillante avec jus de citron vert 1L",
+      "prix_base": 6900,
+      "prix_comparaison": 7300,
+      "variation": 400
     },
     {
-      "cle": "ensemblesommiermatelas_139433ensemblerelaxationelectriquephysiomaxmatelassommiers2x80x200cmressortsensachesdekodreamergo65412618139389_html",
-      "name": "Ensemble relaxation \u00e9lectrique PHYSIOMAX - matelas + sommiers 2x80x200 cm - Ressorts ensach\u00e9s - DEKO DREAM ERGO 6",
-      "prix_base": 1000,
-      "prix_comparaison": 9450000,
-      "variation": 9449000
+      "cle": "eauxgazeusesaromatisees_131083eaupetillanteavecjusdagrumes1l_html",
+      "name": "Eau p\u00e9tillante avec jus d'agrumes 1L",
+      "prix_base": 7500,
+      "prix_comparaison": 7900,
+      "variation": 400
     },
     {
-      "cle": "canapesofadivan_83389canapedanglepanoramiqueconvertible7placesindiantissu100polyestergrisl360xp228cm5903814783976_html",
-      "name": "Canap\u00e9 d'angle panoramique convertible - 7 places - INDIAN - Tissu 100% polyester - Gris - L360 x P228 cm",
-      "prix_base": 1000,
-      "prix_comparaison": 8632000,
-      "variation": 8631000
-    },
-    {
-      "cle": "lavelingesechant_132704lavelingesechanttoutintegrableboschwkd28543frser67kg4kginductionl60cm1355trsminblanc4242005420889_html",
-      "name": "Lave-linge s\u00e9chant int\u00e9grable BOSCH WKD28543FR SER6 - 7 kg / 4 kg - Induction - L60cm - 1355 trs/min - Blanc",
-      "prix_base": 1000,
-      "prix_comparaison": 8616000,
-      "variation": 8615000
-    },
-    {
-      "cle": "ensemblesommiermatelas_144804ensemblerelaxationmatelassommierselectriques2x80x200cmmoussefermeeclipsefabricationfrancaise3700726912188_html",
-      "name": "Ensemble relaxation matelas + sommiers \u00e9lectriques 2x80x200cm - Mousse - Ferme - ECLIPSE Fabrication fran\u00e7aise",
-      "prix_base": 1000,
-      "prix_comparaison": 8480000,
-      "variation": 8479000
+      "cle": "eauxdesource_131075eaudesourcecitron15l_html",
+      "name": "Eau de source citron 1,5L",
+      "prix_base": 6900,
+      "prix_comparaison": 7200,
+      "variation": 300
     }
   ],
   "prix_diminues": [
     {
-      "cle": "protectionoreillersoustaieoreiller_141055renovematelastodayessentialpourlit2personnes140x190cm3574643550422_html",
-      "name": "Protege Matelas - TODAY - Essential - Pour lit 2 personnes - 140 x 190 cm",
-      "prix_base": 0,
-      "prix_comparaison": 150000,
-      "variation": 150000
+      "cle": "eauxdesource_131075eaudesourcecitron15l_html",
+      "name": "Eau de source citron 1,5L",
+      "prix_base": 6900,
+      "prix_comparaison": 7200,
+      "variation": 300
     },
     {
-      "cle": "maisondetoilettetapismaisondetoilette_141061tanismaisontoilettempetsnoireblanchexl6953182735359_html",
-      "name": "TANIS Maison toilette - Mpets - Noire & Blanche - XL",
-      "prix_base": 0,
-      "prix_comparaison": 253000,
-      "variation": 253000
+      "cle": "eauxgazeusesaromatisees_131083eaupetillanteavecjusdagrumes1l_html",
+      "name": "Eau p\u00e9tillante avec jus d'agrumes 1L",
+      "prix_base": 7500,
+      "prix_comparaison": 7900,
+      "variation": 400
     },
     {
-      "cle": "couette_124518couettevancouverdodo140x200cmultrafabriqueenfrance3307419641679_html",
-      "name": "Couette chaude VANCOUVER DODO - 140x200 cm - Ultra",
-      "prix_base": 0,
-      "prix_comparaison": 258000,
-      "variation": 258000
-    },
-    {
-      "cle": "oreiller_48088blanrevelotde2oreillersplumes60x60cm3245841175952_html",
-      "name": "BLANREVE Lot de 2 oreillers Plumes - 60x60 cm",
-      "prix_base": 1000,
-      "prix_comparaison": 263000,
-      "variation": 262000
-    },
-    {
-      "cle": "couette_124519couettevancouverdodo140x200cmultratempereefabriqueenfrance3307419641693_html",
-      "name": "Couette VANCOUVER DODO - 140x200 cm - Ultra temp\u00e9r\u00e9e",
-      "prix_base": 0,
-      "prix_comparaison": 263000,
-      "variation": 263000
+      "cle": "eauxgazeusesaromatisees_131084eaupetillanteavecjusdecitronvert1l_html",
+      "name": "Eau p\u00e9tillante avec jus de citron vert 1L",
+      "prix_base": 6900,
+      "prix_comparaison": 7300,
+      "variation": 400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "abridejardinchalet_8583abridejardinenru00e9sinepvcketer66mu00b2aspectbois7290103664954_html",
-      "name": "Keter Abri de jardin Factor 66 beige 404246",
-      "prix_base": 1000,
-      "prix_comparaison": 9581000,
-      "indice_prix": 958100.0
+      "cle": "eauxgazeusesaromatisees_131084eaupetillanteavecjusdecitronvert1l_html",
+      "name": "Eau p\u00e9tillante avec jus de citron vert 1L",
+      "prix_base": 6900,
+      "prix_comparaison": 7300,
+      "indice_prix": 105.79710144927536
     },
     {
-      "cle": "ensemblesommiermatelas_139433ensemblerelaxationelectriquephysiomaxmatelassommiers2x80x200cmressortsensachesdekodreamergo65412618139389_html",
-      "name": "Ensemble relaxation \u00e9lectrique PHYSIOMAX - matelas + sommiers 2x80x200 cm - Ressorts ensach\u00e9s - DEKO DREAM ERGO 6",
-      "prix_base": 1000,
-      "prix_comparaison": 9450000,
-      "indice_prix": 945000.0
+      "cle": "eauxgazeusesaromatisees_131083eaupetillanteavecjusdagrumes1l_html",
+      "name": "Eau p\u00e9tillante avec jus d'agrumes 1L",
+      "prix_base": 7500,
+      "prix_comparaison": 7900,
+      "indice_prix": 105.33333333333333
     },
     {
-      "cle": "canapesofadivan_83389canapedanglepanoramiqueconvertible7placesindiantissu100polyestergrisl360xp228cm5903814783976_html",
-      "name": "Canap\u00e9 d'angle panoramique convertible - 7 places - INDIAN - Tissu 100% polyester - Gris - L360 x P228 cm",
-      "prix_base": 1000,
-      "prix_comparaison": 8632000,
-      "indice_prix": 863200.0
-    },
-    {
-      "cle": "lavelingesechant_132704lavelingesechanttoutintegrableboschwkd28543frser67kg4kginductionl60cm1355trsminblanc4242005420889_html",
-      "name": "Lave-linge s\u00e9chant int\u00e9grable BOSCH WKD28543FR SER6 - 7 kg / 4 kg - Induction - L60cm - 1355 trs/min - Blanc",
-      "prix_base": 1000,
-      "prix_comparaison": 8616000,
-      "indice_prix": 861600.0
-    },
-    {
-      "cle": "ensemblesommiermatelas_144804ensemblerelaxationmatelassommierselectriques2x80x200cmmoussefermeeclipsefabricationfrancaise3700726912188_html",
-      "name": "Ensemble relaxation matelas + sommiers \u00e9lectriques 2x80x200cm - Mousse - Ferme - ECLIPSE Fabrication fran\u00e7aise",
-      "prix_base": 1000,
-      "prix_comparaison": 8480000,
-      "indice_prix": 848000.0
+      "cle": "eauxdesource_131075eaudesourcecitron15l_html",
+      "name": "Eau de source citron 1,5L",
+      "prix_base": 6900,
+      "prix_comparaison": 7200,
+      "indice_prix": 104.34782608695652
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "bacalitiere_142472bacalitieretrixieautonettoyantplastique5355552cmblanc4011905400402_html",
-      "name": "Bac a litiere TRIXIE - Auto-nettoyant - Plastique - 53 \u00d7 55,5 \u00d7 52 cm - Blanc",
-      "prix_base": 0,
-      "prix_comparaison": 2964000,
-      "indice_prix": 0
+      "cle": "eauxdesource_131075eaudesourcecitron15l_html",
+      "name": "Eau de source citron 1,5L",
+      "prix_base": 6900,
+      "prix_comparaison": 7200,
+      "indice_prix": 104.34782608695652
     },
     {
-      "cle": "couette_124519couettevancouverdodo140x200cmultratempereefabriqueenfrance3307419641693_html",
-      "name": "Couette VANCOUVER DODO - 140x200 cm - Ultra temp\u00e9r\u00e9e",
-      "prix_base": 0,
-      "prix_comparaison": 263000,
-      "indice_prix": 0
+      "cle": "eauxgazeusesaromatisees_131083eaupetillanteavecjusdagrumes1l_html",
+      "name": "Eau p\u00e9tillante avec jus d'agrumes 1L",
+      "prix_base": 7500,
+      "prix_comparaison": 7900,
+      "indice_prix": 105.33333333333333
     },
     {
-      "cle": "elementsseparesbas_124858junonameublebasdecuisine40cm3tiroirsplandetravailblancbrillant5900211935663_html",
-      "name": "JUNONA Meuble bas de cuisine 40 cm - 3 tiroirs + plan de travail - Blanc brillant",
-      "prix_base": 0,
-      "prix_comparaison": 788000,
-      "indice_prix": 0
-    },
-    {
-      "cle": "abridejardinchalet_127229abridejardinenmetal1516mkitdancrageinclustaupe3619995965279_html",
-      "name": "Abri de jardin en m\u00e9tal 15,16 m\u00b2 - Kit d'ancrage inclus - Taupe",
-      "prix_base": 0,
-      "prix_comparaison": 4638000,
-      "indice_prix": 0
-    },
-    {
-      "cle": "abridejardinchalet_126247abridejardinenmetal1516mkitdancrageinclusgrisanthracite3612408421218_html",
-      "name": "Abri de jardin en m\u00e9tal 15,16 m\u00b2 - Kit d'ancrage inclus - Gris anthracite",
-      "prix_base": 0,
-      "prix_comparaison": 4865000,
-      "indice_prix": 0
+      "cle": "eauxgazeusesaromatisees_131084eaupetillanteavecjusdecitronvert1l_html",
+      "name": "Eau p\u00e9tillante avec jus de citron vert 1L",
+      "prix_base": 6900,
+      "prix_comparaison": 7300,
+      "indice_prix": 105.79710144927536
     }
   ]
 }
