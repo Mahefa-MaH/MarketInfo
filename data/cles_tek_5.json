@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 2900,
+      "prix_comparaison": 2900,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 13777,
+      "name": "Riz Complet Rouge Vary Gasy 5kg",
+      "prix_base": 19800,
+      "prix_comparaison": 19800,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "list_id": 13775,
       "name": "Riz de Luxe Makalioka 5kg",
       "prix_base": 23000,
       "prix_comparaison": 23000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 8528,
-      "name": "Riz blanc import de Inde 50 kg",
-      "prix_base": 158400,
-      "prix_comparaison": 158400,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 14631,
-      "name": "Sac de riz de luxe Makalioka 50 Kg",
-      "prix_base": 216000,
-      "prix_comparaison": 216000,
       "variation": 0,
       "indice_prix": 100.0
     }

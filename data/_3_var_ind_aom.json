@@ -1,94 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "eauxgazeusesaromatisees_131084eaupetillanteavecjusdecitronvert1l_html",
-      "name": "Eau p\u00e9tillante avec jus de citron vert 1L",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "variation": 400
+      "cle": "offrestbloc_123795champignonnoirfin200g_html",
+      "name": "Champignon noir fin 200g",
+      "prix_base": 29000,
+      "prix_comparaison": 41900,
+      "variation": 12900
     },
     {
-      "cle": "eauxgazeusesaromatisees_131083eaupetillanteavecjusdagrumes1l_html",
-      "name": "Eau p\u00e9tillante avec jus d'agrumes 1L",
+      "cle": "conservesautreslegumes_130711aspergespicnicblanches110g_html",
+      "name": "Asperges Pic Nic blanches 110g",
       "prix_base": 7500,
-      "prix_comparaison": 7900,
-      "variation": 400
+      "prix_comparaison": 11500,
+      "variation": 4000
     },
     {
-      "cle": "eauxdesource_131075eaudesourcecitron15l_html",
-      "name": "Eau de source citron 1,5L",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "variation": 300
+      "cle": "conservespoissons_131165morceauxdethonlistao280g_html",
+      "name": "Morceaux de thon listao 280g",
+      "prix_base": 19900,
+      "prix_comparaison": 21900,
+      "variation": 2000
+    },
+    {
+      "cle": "conservesautreslegumes_130772cursdepalmiers250g_html",
+      "name": "C\u0153urs de palmiers 250g",
+      "prix_base": 19900,
+      "prix_comparaison": 21900,
+      "variation": 2000
+    },
+    {
+      "cle": "sauceschaudes_134442saucebolognaiseviandeextrasavoureuse680g_html",
+      "name": "Sauce bolognaise viande extra savoureuse 680g",
+      "prix_base": 24900,
+      "prix_comparaison": 26500,
+      "variation": 1600
     }
   ],
   "prix_diminues": [
     {
-      "cle": "eauxdesource_131075eaudesourcecitron15l_html",
-      "name": "Eau de source citron 1,5L",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
+      "cle": "saucesfroides_134423moutardededijonforteetonctueuse150g_html",
+      "name": "Moutarde de Dijon forte et onctueuse 150g",
+      "prix_base": 8300,
+      "prix_comparaison": 8600,
       "variation": 300
     },
     {
-      "cle": "eauxgazeusesaromatisees_131083eaupetillanteavecjusdagrumes1l_html",
-      "name": "Eau p\u00e9tillante avec jus d'agrumes 1L",
-      "prix_base": 7500,
-      "prix_comparaison": 7900,
+      "cle": "saucesfroides_134376moutardemiforte350g_html",
+      "name": "Moutarde mi-forte 350g",
+      "prix_base": 11500,
+      "prix_comparaison": 11800,
+      "variation": 300
+    },
+    {
+      "cle": "conservespoissons_130738saladeauthonpiemontaise250g_html",
+      "name": "Salade au thon pi\u00e9montaise 250g",
+      "prix_base": 12500,
+      "prix_comparaison": 12900,
       "variation": 400
     },
     {
-      "cle": "eauxgazeusesaromatisees_131084eaupetillanteavecjusdecitronvert1l_html",
-      "name": "Eau p\u00e9tillante avec jus de citron vert 1L",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
+      "cle": "condiments_130869olivesalafarcedepoivron120g_html",
+      "name": "Olives \u00e0 la farce de poivron 120g",
+      "prix_base": 5500,
+      "prix_comparaison": 5900,
+      "variation": 400
+    },
+    {
+      "cle": "potages_134330veloutedelegumes1l_html",
+      "name": "Velout\u00e9 de l\u00e9gumes 1L",
+      "prix_base": 9500,
+      "prix_comparaison": 9900,
       "variation": 400
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "eauxgazeusesaromatisees_131084eaupetillanteavecjusdecitronvert1l_html",
-      "name": "Eau p\u00e9tillante avec jus de citron vert 1L",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "indice_prix": 105.79710144927536
-    },
-    {
-      "cle": "eauxgazeusesaromatisees_131083eaupetillanteavecjusdagrumes1l_html",
-      "name": "Eau p\u00e9tillante avec jus d'agrumes 1L",
+      "cle": "conservesautreslegumes_130711aspergespicnicblanches110g_html",
+      "name": "Asperges Pic Nic blanches 110g",
       "prix_base": 7500,
-      "prix_comparaison": 7900,
-      "indice_prix": 105.33333333333333
+      "prix_comparaison": 11500,
+      "indice_prix": 153.33333333333334
     },
     {
-      "cle": "eauxdesource_131075eaudesourcecitron15l_html",
-      "name": "Eau de source citron 1,5L",
+      "cle": "offrestbloc_123795champignonnoirfin200g_html",
+      "name": "Champignon noir fin 200g",
+      "prix_base": 29000,
+      "prix_comparaison": 41900,
+      "indice_prix": 144.48275862068965
+    },
+    {
+      "cle": "riz_130837rizcomplet10min500g_html",
+      "name": "Riz complet 10 min 500g",
+      "prix_base": 8400,
+      "prix_comparaison": 9900,
+      "indice_prix": 117.85714285714286
+    },
+    {
+      "cle": "bouillonsaidesculinaires_134481bouillondevolailledegraisse120g_html",
+      "name": "Bouillon de volaille d\u00e9graiss\u00e9 120g",
       "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "indice_prix": 104.34782608695652
+      "prix_comparaison": 7900,
+      "indice_prix": 114.4927536231884
+    },
+    {
+      "cle": "sauceschaudes_134371saucepournems90g_html",
+      "name": "Sauce pour Nems 90g",
+      "prix_base": 8500,
+      "prix_comparaison": 9500,
+      "indice_prix": 111.76470588235294
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "eauxdesource_131075eaudesourcecitron15l_html",
-      "name": "Eau de source citron 1,5L",
-      "prix_base": 6900,
-      "prix_comparaison": 7200,
-      "indice_prix": 104.34782608695652
+      "cle": "saucesfroides_134376moutardemiforte350g_html",
+      "name": "Moutarde mi-forte 350g",
+      "prix_base": 11500,
+      "prix_comparaison": 11800,
+      "indice_prix": 102.6086956521739
     },
     {
-      "cle": "eauxgazeusesaromatisees_131083eaupetillanteavecjusdagrumes1l_html",
-      "name": "Eau p\u00e9tillante avec jus d'agrumes 1L",
-      "prix_base": 7500,
-      "prix_comparaison": 7900,
-      "indice_prix": 105.33333333333333
+      "cle": "conservespoissons_130738saladeauthonpiemontaise250g_html",
+      "name": "Salade au thon pi\u00e9montaise 250g",
+      "prix_base": 12500,
+      "prix_comparaison": 12900,
+      "indice_prix": 103.2
     },
     {
-      "cle": "eauxgazeusesaromatisees_131084eaupetillanteavecjusdecitronvert1l_html",
-      "name": "Eau p\u00e9tillante avec jus de citron vert 1L",
-      "prix_base": 6900,
-      "prix_comparaison": 7300,
-      "indice_prix": 105.79710144927536
+      "cle": "conserveschampignons_131004champignonsdepariseminces3x115g_html",
+      "name": "Champignons de paris \u00e9minc\u00e9s 3x115g",
+      "prix_base": 18000,
+      "prix_comparaison": 18600,
+      "indice_prix": 103.33333333333333
+    },
+    {
+      "cle": "saucesfroides_134423moutardededijonforteetonctueuse150g_html",
+      "name": "Moutarde de Dijon forte et onctueuse 150g",
+      "prix_base": 8300,
+      "prix_comparaison": 8600,
+      "indice_prix": 103.6144578313253
+    },
+    {
+      "cle": "conserveschampignons_131117champignonsdeparispiedsetmorceaux460g_html",
+      "name": "Champignons de paris pieds et morceaux 460g",
+      "prix_base": 15900,
+      "prix_comparaison": 16500,
+      "indice_prix": 103.77358490566037
     }
   ]
 }
