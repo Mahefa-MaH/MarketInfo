@@ -1,38 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_shampooingantichutepetrolehahn250ml_",
-      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 254,
-      "prix_comparaison": 381,
-      "variation": 127
+      "cle": "produit_feutrelavable24_",
+      "name": "Feutre lavable 24",
+      "prix_base": 272,
+      "prix_comparaison": 431,
+      "variation": 159
+    },
+    {
+      "cle": "produit_feutrelavable12_",
+      "name": "Feutre Lavable 12",
+      "prix_base": 141,
+      "prix_comparaison": 206,
+      "variation": 65
+    },
+    {
+      "cle": "produit_fromagetommenoireenviron1kgmaminiaina_",
+      "name": "Fromage Tomme noire environ 1kg Maminiaina\u2122",
+      "prix_base": 1232,
+      "prix_comparaison": 1269,
+      "variation": 37
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_shampooingantichutepetrolehahn250ml_",
-      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 254,
-      "prix_comparaison": 381,
-      "variation": 127
+      "cle": "produit_fromagetommenoireenviron1kgmaminiaina_",
+      "name": "Fromage Tomme noire environ 1kg Maminiaina\u2122",
+      "prix_base": 1232,
+      "prix_comparaison": 1269,
+      "variation": 37
+    },
+    {
+      "cle": "produit_feutrelavable12_",
+      "name": "Feutre Lavable 12",
+      "prix_base": 141,
+      "prix_comparaison": 206,
+      "variation": 65
+    },
+    {
+      "cle": "produit_feutrelavable24_",
+      "name": "Feutre lavable 24",
+      "prix_base": 272,
+      "prix_comparaison": 431,
+      "variation": 159
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_shampooingantichutepetrolehahn250ml_",
-      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 254,
-      "prix_comparaison": 381,
-      "indice_prix": 150.0
+      "cle": "produit_feutrelavable24_",
+      "name": "Feutre lavable 24",
+      "prix_base": 272,
+      "prix_comparaison": 431,
+      "indice_prix": 158.4558823529412
+    },
+    {
+      "cle": "produit_feutrelavable12_",
+      "name": "Feutre Lavable 12",
+      "prix_base": 141,
+      "prix_comparaison": 206,
+      "indice_prix": 146.09929078014184
+    },
+    {
+      "cle": "produit_fromagetommenoireenviron1kgmaminiaina_",
+      "name": "Fromage Tomme noire environ 1kg Maminiaina\u2122",
+      "prix_base": 1232,
+      "prix_comparaison": 1269,
+      "indice_prix": 103.00324675324676
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_shampooingantichutepetrolehahn250ml_",
-      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 254,
-      "prix_comparaison": 381,
-      "indice_prix": 150.0
+      "cle": "produit_fromagetommenoireenviron1kgmaminiaina_",
+      "name": "Fromage Tomme noire environ 1kg Maminiaina\u2122",
+      "prix_base": 1232,
+      "prix_comparaison": 1269,
+      "indice_prix": 103.00324675324676
+    },
+    {
+      "cle": "produit_feutrelavable12_",
+      "name": "Feutre Lavable 12",
+      "prix_base": 141,
+      "prix_comparaison": 206,
+      "indice_prix": 146.09929078014184
+    },
+    {
+      "cle": "produit_feutrelavable24_",
+      "name": "Feutre lavable 24",
+      "prix_base": 272,
+      "prix_comparaison": 431,
+      "indice_prix": 158.4558823529412
     }
   ]
 }

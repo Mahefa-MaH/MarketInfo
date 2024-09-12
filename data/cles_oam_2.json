@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "piscinecompletekitpiscine_138986grekitpiscinehorssolaciergriseanthraciterondejunio480xh132cmlivreeavecfiltreasablesableechellet8412081314518_html",
-      "name": "GRE - Kit Piscine hors sol acier grise anthracite ronde Juni \u00d8480 x H132 cm (Livr\u00e9e avec filtre a sable + sable + \u00e9chelle + t",
-      "prix_base": 10464000,
-      "prix_comparaison": 10464000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_175274appleipadpro202413wifi2toargentnanotexture0195949468490_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Argent Nano-textur\u00e9",
+      "prix_base": 14359000,
+      "prix_comparaison": 13660000,
+      "variation": -699000,
+      "indice_prix": 95.13197297861969
     },
     {
-      "cle": "piscinecompletekitpiscine_138985piscinehorssolovaleenaciergrisanthracitegreloucofiltrationasable8412081314556_html",
-      "name": "Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable",
-      "prix_base": 10973000,
-      "prix_comparaison": 10973000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_145050appleipadpro202413wificellulaire1tonoirsideralnanotexture0195949469787_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 13235000,
+      "prix_comparaison": 12547000,
+      "variation": -688000,
+      "indice_prix": 94.80166225916132
     },
     {
-      "cle": "tondeuserobotsansfil_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
-      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
-      "prix_base": 20298000,
-      "prix_comparaison": 20298000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_145047appleipadpro202411wificellulaire2tonoirsideralnanotexture0195949469244_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 13844000,
+      "prix_comparaison": 13169000,
+      "variation": -675000,
+      "indice_prix": 95.12424154868535
     }
   ]
 }

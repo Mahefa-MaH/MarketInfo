@@ -1,48 +1,34 @@
 {
   "Variation de prix": [
     {
-      "cle": "disquedurexterne_136209disquessdexternesamsungt5evo2tousbtypecusb32gen18806094905403_html",
-      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 2To - USB Type C - USB 3.2 Gen1",
-      "prix_base": 1258000,
-      "prix_comparaison": 1284000,
-      "variation": 26000
+      "cle": "potages_134420veloutepotironalacreme1l_html",
+      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
+      "prix_base": 11900,
+      "prix_comparaison": 12500,
+      "variation": 600
     },
     {
-      "cle": "disquedurexterne_135596disquessdexternesamsungt5evo4tousbtypecusb32gen18806094905410_html",
-      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 4To - USB Type C - USB 3.2 Gen1",
-      "prix_base": 2239000,
-      "prix_comparaison": 2284000,
-      "variation": 45000
-    },
-    {
-      "cle": "disquedurexterne_135595disquessdexternesamsungt5evo8tousbtypecusb32gen18806094905427_html",
-      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 8To - USB Type C - USB 3.2 Gen1",
-      "prix_base": 3973000,
-      "prix_comparaison": 4054000,
-      "variation": 81000
+      "cle": "potages_134473veloute10legumesetcremes2x30cl_html",
+      "name": "Velout\u00e9 10 l\u00e9gumes et cr\u00e8mes 2x30cl",
+      "prix_base": 9900,
+      "prix_comparaison": 10900,
+      "variation": 1000
     }
   ],
   "indice de prix": [
     {
-      "cle": "disquedurexterne_135596disquessdexternesamsungt5evo4tousbtypecusb32gen18806094905410_html",
-      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 4To - USB Type C - USB 3.2 Gen1",
-      "prix_base": 2239000,
-      "prix_comparaison": 2284000,
-      "indice_prix": 102.00982581509602
+      "cle": "potages_134420veloutepotironalacreme1l_html",
+      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
+      "prix_base": 11900,
+      "prix_comparaison": 12500,
+      "indice_prix": 105.04201680672269
     },
     {
-      "cle": "disquedurexterne_135595disquessdexternesamsungt5evo8tousbtypecusb32gen18806094905427_html",
-      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 8To - USB Type C - USB 3.2 Gen1",
-      "prix_base": 3973000,
-      "prix_comparaison": 4054000,
-      "indice_prix": 102.03876164107727
-    },
-    {
-      "cle": "disquedurexterne_136209disquessdexternesamsungt5evo2tousbtypecusb32gen18806094905403_html",
-      "name": "Disque SSD Externe - SAMSUNG - T5 EVO - 2To - USB Type C - USB 3.2 Gen1",
-      "prix_base": 1258000,
-      "prix_comparaison": 1284000,
-      "indice_prix": 102.06677265500795
+      "cle": "potages_134473veloute10legumesetcremes2x30cl_html",
+      "name": "Velout\u00e9 10 l\u00e9gumes et cr\u00e8mes 2x30cl",
+      "prix_base": 9900,
+      "prix_comparaison": 10900,
+      "indice_prix": 110.1010101010101
     }
   ]
 }

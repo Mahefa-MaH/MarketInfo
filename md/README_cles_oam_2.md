@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **GRE - Kit Piscine hors sol acier grise anthracite ronde Juni Ø480 x H132 cm (Livrée avec filtre a sable + sable + échelle + t**
-   - Prix avant: 10,464,000 Ar
-   - Prix actuel: 10,464,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+1. **Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Argent Nano-texturé**
+   - Prix avant: 14,359,000 Ar
+   - Prix actuel: 13,660,000 Ar
+   - Variation: -699,000 Ar
+   - Indice de prix : 95.13
 
-2. **Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable**
-   - Prix avant: 10,973,000 Ar
-   - Prix actuel: 10,973,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+2. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Noir sidéral Nano-texturé**
+   - Prix avant: 13,235,000 Ar
+   - Prix actuel: 12,547,000 Ar
+   - Variation: -688,000 Ar
+   - Indice de prix : 94.80
 
-3. **Tondeuse robot autonome STIGA A 1500 - 1500m²**
-   - Prix avant: 20,298,000 Ar
-   - Prix actuel: 20,298,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+3. **Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Noir sidéral Nano-texturé**
+   - Prix avant: 13,844,000 Ar
+   - Prix actuel: 13,169,000 Ar
+   - Variation: -675,000 Ar
+   - Indice de prix : 95.12
 

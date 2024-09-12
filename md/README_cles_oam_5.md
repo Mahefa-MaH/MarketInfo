@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
-   - Prix avant: 17,698,000 Ar
-   - Prix actuel: 17,698,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+1. **Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Noir sidéral**
+   - Prix avant: 10,821,000 Ar
+   - Prix actuel: 10,725,000 Ar
+   - Variation: -96,000 Ar
+   - Indice de prix : 99.11
 
-2. **MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM X - 24 Go**
-   - Prix avant: 10,113,000 Ar
-   - Prix actuel: 10,113,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+2. **Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Noir sidéral Nano-texturé**
+   - Prix avant: 10,948,000 Ar
+   - Prix actuel: 10,899,000 Ar
+   - Variation: -49,000 Ar
+   - Indice de prix : 99.55
 
-3. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Noir sidéral**
-   - Prix avant: 13,876,000 Ar
-   - Prix actuel: 13,876,000 Ar
+3. **Groupe électrogene Essence DEFPRO - 8500 W - Triphasé bi-tension**
+   - Prix avant: 10,302,000 Ar
+   - Prix actuel: 10,302,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

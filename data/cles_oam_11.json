@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
-      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 11240000,
-      "prix_comparaison": 11240000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_63212appleipadpro2022129wifi2togrissideral0194253243571_html",
+      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 13077000,
+      "prix_comparaison": 13399000,
+      "variation": 322000,
+      "indice_prix": 102.46233845683261
     },
     {
-      "cle": "ordinateurportable_140306apple14macbookprom32024ram16gostockage1togrissideralazerty0195949640490_html",
-      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sid\u00e9ral - AZERTY",
-      "prix_base": 11550000,
-      "prix_comparaison": 11550000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_141606appleipadpro202413wificellulaire2tonoirsideral0195949247064_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral",
+      "prix_base": 13876000,
+      "prix_comparaison": 14218000,
+      "variation": 342000,
+      "indice_prix": 102.4646872297492
     },
     {
-      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
-      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
-      "prix_base": 17500000,
-      "prix_comparaison": 17500000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_141607appleipadpro202413wificellulaire2toargent0195949247361_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Argent",
+      "prix_base": 13877000,
+      "prix_comparaison": 14219000,
+      "variation": 342000,
+      "indice_prix": 102.46450962023492
     }
   ]
 }

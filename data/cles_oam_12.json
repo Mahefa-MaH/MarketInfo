@@ -1,28 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
-      "prix_base": 11141000,
-      "prix_comparaison": 11141000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "smartphone_144557samsunggalaxyzfold6smartphonegris1to8806095667539_html",
-      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Gris 1 To",
-      "prix_base": 10526000,
-      "prix_comparaison": 10526000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "four_143929fourvapeurcombinesoftclosenettoyageecocleanboschser8hsg7584b1noirvolfour71l23modesdecuisson4242005327232_html",
-      "name": "Four vapeur/combin\u00e9 Softclose Nettoyage Ecoclean- BOSCH SER8 HSG7584B1 Noir -Vol four 71l - 23 modes de cuisson",
-      "prix_base": 12090000,
-      "prix_comparaison": 12090000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "televiseurled_139018lg77c3tvoled77195cm4kuhd3840x2160smarttvprocesseura9gen6dolbyatmos4xhdmi21wifi8806087071832_html",
+      "name": "LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi",
+      "prix_base": 13400000,
+      "prix_comparaison": 13755000,
+      "variation": 355000,
+      "indice_prix": 102.64925373134328
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_145052appleipadpro202413wifi1toargentnanotexture0195949468032_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Argent Nano-textur\u00e9",
-      "prix_base": 12011000,
-      "prix_comparaison": 12011000,
+      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
+      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
+      "prix_base": 13354000,
+      "prix_comparaison": 13354000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_145049appleipadpro202411wifi2toargentnanotexture0195949467578_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent Nano-textur\u00e9",
-      "prix_base": 12632000,
-      "prix_comparaison": 12632000,
+      "cle": "tablettetactile_144309appleipadpro202413wifi1tonoirsideralnanotexture0195949467806_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 11427000,
+      "prix_comparaison": 11427000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_145048appleipadpro202411wificellulaire2toargent0195949231018_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Argent",
-      "prix_base": 13222000,
-      "prix_comparaison": 13222000,
+      "cle": "tablettetactile_144306appleipadpro202411wifi2toargent0195949224300_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent",
+      "prix_base": 11415000,
+      "prix_comparaison": 11415000,
       "variation": 0,
       "indice_prix": 100.0
     }

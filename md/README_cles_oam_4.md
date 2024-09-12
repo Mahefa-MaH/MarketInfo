@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Tondeuse robot connectée Bluetooth GARDENA SILENO life 1250 - 1250 m² - 15103-26**
-   - Prix avant: 10,332,000 Ar
-   - Prix actuel: 10,332,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+1. **Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Noir sidéral Nano-texturé**
+   - Prix avant: 12,631,000 Ar
+   - Prix actuel: 12,017,000 Ar
+   - Variation: -614,000 Ar
+   - Indice de prix : 95.14
 
-2. **GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages étroits, App, Silencieux, Robot de Tonte**
-   - Prix avant: 10,489,000 Ar
-   - Prix actuel: 10,489,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+2. **Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent Nano-texturé**
+   - Prix avant: 12,632,000 Ar
+   - Prix actuel: 12,018,000 Ar
+   - Variation: -614,000 Ar
+   - Indice de prix : 95.14
 
-3. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sidéral - Azerty**
-   - Prix avant: 14,049,000 Ar
-   - Prix actuel: 14,049,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+3. **Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Argent Nano-texturé**
+   - Prix avant: 12,011,000 Ar
+   - Prix actuel: 11,428,000 Ar
+   - Variation: -583,000 Ar
+   - Indice de prix : 95.15
 

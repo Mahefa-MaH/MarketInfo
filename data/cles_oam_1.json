@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "aspirateurrobot_175246newdreamex30ultrarobotaspirateurlaveurstationdevidagetechnologiemopextend6400mah8300pa6976233675947_html",
-      "name": "NEW DREAME X30 Ultra - Robot Aspirateur Laveur - Station de Vidage - Technologie MopExtend - 6400 mAh - 8300 Pa",
-      "prix_base": 10631000,
-      "prix_comparaison": 10631000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 11240000,
+      "prix_comparaison": 8096000,
+      "variation": -3144000,
+      "indice_prix": 72.02846975088968
     },
     {
-      "cle": "tondeuserobotsansfil_137380tondeuserobotautonomestigaa1000fonctionneavecbatterie8008984864672_html",
-      "name": "Tondeuse robot autonome STIGA A 1000 - Fonctionne avec batterie",
-      "prix_base": 16546000,
-      "prix_comparaison": 16546000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_145053appleipadpro202413wificellulaire2tonoirsideralnanotexture0195949470288_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 15582000,
+      "prix_comparaison": 14824000,
+      "variation": -758000,
+      "indice_prix": 95.13541265562829
     },
     {
-      "cle": "tondeuseautoporteesansfil_136387tondeuseautoporteethermique98cmdecoupealpinaat398hatransmissionhydrostatique8008984851559_html",
-      "name": "Tondeuse autoport\u00e9e thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique",
-      "prix_base": 14308000,
-      "prix_comparaison": 14308000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_145054appleipadpro202413wificellulaire2toargentnanotexture0195949470530_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Argent Nano-textur\u00e9",
+      "prix_base": 15583000,
+      "prix_comparaison": 14825000,
+      "variation": -758000,
+      "indice_prix": 95.13572482833857
     }
   ]
 }

@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuse_88490tondeuserobotgardenasilenolife125015103264078500043816_html",
-      "name": "Tondeuse robot connect\u00e9e Bluetooth GARDENA SILENO life 1250 - 1250 m\u00b2 - 15103-26",
-      "prix_base": 10332000,
-      "prix_comparaison": 10332000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_175273appleipadpro202411wifi2tonoirsideralnanotexture0195949467349_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 12631000,
+      "prix_comparaison": 12017000,
+      "variation": -614000,
+      "indice_prix": 95.13894386826063
     },
     {
-      "cle": "tondeuse_95365gardenatondeuserobotsmartsilenolife1000tondsouslapluieetpassagesetroitsappsilencieuxrobotdetonte4078500060592_html",
-      "name": "GARDENA Tondeuse Robot Smart SILENO Life 1000 | Tond sous la pluie et passages \u00e9troits, App, Silencieux, Robot de Tonte",
-      "prix_base": 10489000,
-      "prix_comparaison": 10489000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_145049appleipadpro202411wifi2toargentnanotexture0195949467578_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent Nano-textur\u00e9",
+      "prix_base": 12632000,
+      "prix_comparaison": 12018000,
+      "variation": -614000,
+      "indice_prix": 95.1393286890437
     },
     {
-      "cle": "ordinateurportable_133930apple14macbookprom3pro2023ram18gostockage1tonoirsideralazerty0195949077012_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 14049000,
-      "prix_comparaison": 14049000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "tablettetactile_145052appleipadpro202413wifi1toargentnanotexture0195949468032_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Argent Nano-textur\u00e9",
+      "prix_base": 12011000,
+      "prix_comparaison": 11428000,
+      "variation": -583000,
+      "indice_prix": 95.14611606027808
     }
   ]
 }

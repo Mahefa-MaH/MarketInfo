@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **NEW DREAME X30 Ultra - Robot Aspirateur Laveur - Station de Vidage - Technologie MopExtend - 6400 mAh - 8300 Pa**
-   - Prix avant: 10,631,000 Ar
-   - Prix actuel: 10,631,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+1. **Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sidéral**
+   - Prix avant: 11,240,000 Ar
+   - Prix actuel: 8,096,000 Ar
+   - Variation: -3,144,000 Ar
+   - Indice de prix : 72.03
 
-2. **Tondeuse robot autonome STIGA A 1000 - Fonctionne avec batterie**
-   - Prix avant: 16,546,000 Ar
-   - Prix actuel: 16,546,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+2. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Noir sidéral Nano-texturé**
+   - Prix avant: 15,582,000 Ar
+   - Prix actuel: 14,824,000 Ar
+   - Variation: -758,000 Ar
+   - Indice de prix : 95.14
 
-3. **Tondeuse autoportée thermique 98 cm de coupe ALPINA AT3 98 HA - transmission hydrostatique**
-   - Prix avant: 14,308,000 Ar
-   - Prix actuel: 14,308,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+3. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Argent Nano-texturé**
+   - Prix avant: 15,583,000 Ar
+   - Prix actuel: 14,825,000 Ar
+   - Variation: -758,000 Ar
+   - Indice de prix : 95.14
 
