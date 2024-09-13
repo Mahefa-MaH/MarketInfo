@@ -1,10 +1,18 @@
 {
   "Variation de prix": [
     {
-      "list_id": 8528,
-      "name": "Riz blanc import de Inde 50 kg",
-      "prix_base": 158400,
-      "prix_comparaison": 158400,
+      "list_id": 3827,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 9500,
+      "prix_comparaison": 9500,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10200,
+      "prix_comparaison": 10200,
       "variation": 0,
       "indice_prix": 100.0
     }

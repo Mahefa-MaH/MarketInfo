@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Argent Nano-texturé**
-   - Prix avant: 14,359,000 Ar
-   - Prix actuel: 13,660,000 Ar
-   - Variation: -699,000 Ar
-   - Indice de prix : 95.13
+1. **PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11**
+   - Prix avant: 20,629,000 Ar
+   - Prix actuel: 20,629,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 
-2. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Noir sidéral Nano-texturé**
-   - Prix avant: 13,235,000 Ar
-   - Prix actuel: 12,547,000 Ar
-   - Variation: -688,000 Ar
-   - Indice de prix : 94.80
+2. **Mac mini Apple Mac Studio 512Go SSD Puce M2 Max CPU 12 coeurs GPU 30 coeurs 2023**
+   - Prix avant: 11,042,000 Ar
+   - Prix actuel: 11,042,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Noir sidéral Nano-texturé**
-   - Prix avant: 13,844,000 Ar
-   - Prix actuel: 13,169,000 Ar
-   - Variation: -675,000 Ar
-   - Indice de prix : 95.12
+3. **SAMSUNG 85Q70C - TV QLED 85 (216 cm) - 4K UHD 3840x2160 - 120 Hz - HDR - Smart TV - Gaming HUB - 4xHDMI - WiFi**
+   - Prix avant: 11,959,000 Ar
+   - Prix actuel: 11,959,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 

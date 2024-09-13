@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63203appleipadpro202211wifi2togrissideral0194253266785_html",
-      "name": "Apple - iPad Pro (2022) - 11 - WiFi - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 11240000,
-      "prix_comparaison": 8096000,
-      "variation": -3144000,
-      "indice_prix": 72.02846975088968
+      "cle": "televiseurled_139018lg77c3tvoled77195cm4kuhd3840x2160smarttvprocesseura9gen6dolbyatmos4xhdmi21wifi8806087071832_html",
+      "name": "LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi",
+      "prix_base": 13755000,
+      "prix_comparaison": 13755000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_145053appleipadpro202413wificellulaire2tonoirsideralnanotexture0195949470288_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
-      "prix_base": 15582000,
-      "prix_comparaison": 14824000,
-      "variation": -758000,
-      "indice_prix": 95.13541265562829
+      "cle": "televiseurled_187488tvqledhisense85e7nq85215cm4kuhddolbyvisionsmarttv3xhdmiwifi6942351402758_html",
+      "name": "TV QLED - HISENSE - 85E7NQ - 85 (215 cm) - 4K UHD - Dolby Vision - Smart TV - 3xHDMI - WiFi",
+      "prix_base": 10680000,
+      "prix_comparaison": 10680000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_145054appleipadpro202413wificellulaire2toargentnanotexture0195949470530_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Argent Nano-textur\u00e9",
-      "prix_base": 15583000,
-      "prix_comparaison": 14825000,
-      "variation": -758000,
-      "indice_prix": 95.13572482833857
+      "cle": "unitecentraleseuleminipc_143068pcdebureaugaminghpgt152064nfcorei714700fram32goddr5512gossdgeforcertx4070super12gofreedos0198122795093_html",
+      "name": "PC de bureau Gamer HP Omen GT15-2064nf - Core i7-14700F - RAM 32Go - Stockage 512Go SSD - RTX 4070 - Sans Windows",
+      "prix_base": 12930000,
+      "prix_comparaison": 12930000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
