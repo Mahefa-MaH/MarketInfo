@@ -1,10 +1,10 @@
 {
   "Variation de prix": [
     {
-      "list_id": 12451,
-      "name": "Riz rouge long grain complet 500 g",
-      "prix_base": 12300,
-      "prix_comparaison": 12300,
+      "list_id": 370,
+      "name": "Sucre Blanc 250 g",
+      "prix_base": 2900,
+      "prix_comparaison": 2900,
       "variation": 0,
       "indice_prix": 100.0
     },
