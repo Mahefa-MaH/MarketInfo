@@ -1,94 +1,108 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_feutrelavable24_",
-      "name": "Feutre lavable 24",
-      "prix_base": 272,
-      "prix_comparaison": 431,
-      "variation": 159
+      "cle": "produit_detendeuragaz_",
+      "name": "DETENDEUR A GAZ Vitogaz\u2122",
+      "prix_base": 1107,
+      "prix_comparaison": 1217,
+      "variation": 110
     },
     {
-      "cle": "produit_feutrelavable12_",
-      "name": "Feutre Lavable 12",
-      "prix_base": 141,
-      "prix_comparaison": 206,
-      "variation": 65
+      "cle": "produit_bruleurcompletagaz_",
+      "name": "BRULEUR COMPLET A GAZ Vitogaz\u2122",
+      "prix_base": 1507,
+      "prix_comparaison": 1573,
+      "variation": 66
     },
     {
-      "cle": "produit_fromagetommenoireenviron1kgmaminiaina_",
-      "name": "Fromage Tomme noire environ 1kg Maminiaina\u2122",
-      "prix_base": 1232,
-      "prix_comparaison": 1269,
-      "variation": 37
+      "cle": "produit_supportfatapera4kg_",
+      "name": "SUPPORT (FATAPERA) 4KG Vitogaz\u2122",
+      "prix_base": 330,
+      "prix_comparaison": 341,
+      "variation": 11
+    },
+    {
+      "cle": "produit_packtuyaux15m_",
+      "name": "PACK TUYAUX A GAZ 1,5m Vitogaz\u2122",
+      "prix_base": 330,
+      "prix_comparaison": 341,
+      "variation": 11
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_fromagetommenoireenviron1kgmaminiaina_",
-      "name": "Fromage Tomme noire environ 1kg Maminiaina\u2122",
-      "prix_base": 1232,
-      "prix_comparaison": 1269,
-      "variation": 37
+      "cle": "produit_supportfatapera4kg_",
+      "name": "SUPPORT (FATAPERA) 4KG Vitogaz\u2122",
+      "prix_base": 330,
+      "prix_comparaison": 341,
+      "variation": 11
     },
     {
-      "cle": "produit_feutrelavable12_",
-      "name": "Feutre Lavable 12",
-      "prix_base": 141,
-      "prix_comparaison": 206,
-      "variation": 65
+      "cle": "produit_packtuyaux15m_",
+      "name": "PACK TUYAUX A GAZ 1,5m Vitogaz\u2122",
+      "prix_base": 330,
+      "prix_comparaison": 341,
+      "variation": 11
     },
     {
-      "cle": "produit_feutrelavable24_",
-      "name": "Feutre lavable 24",
-      "prix_base": 272,
-      "prix_comparaison": 431,
-      "variation": 159
+      "cle": "produit_bruleurcompletagaz_",
+      "name": "BRULEUR COMPLET A GAZ Vitogaz\u2122",
+      "prix_base": 1507,
+      "prix_comparaison": 1573,
+      "variation": 66
+    },
+    {
+      "cle": "produit_detendeuragaz_",
+      "name": "DETENDEUR A GAZ Vitogaz\u2122",
+      "prix_base": 1107,
+      "prix_comparaison": 1217,
+      "variation": 110
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_feutrelavable24_",
-      "name": "Feutre lavable 24",
-      "prix_base": 272,
-      "prix_comparaison": 431,
-      "indice_prix": 158.4558823529412
+      "cle": "produit_detendeuragaz_",
+      "name": "DETENDEUR A GAZ Vitogaz\u2122",
+      "prix_base": 1107,
+      "prix_comparaison": 1217,
+      "indice_prix": 109.93676603432701
     },
     {
-      "cle": "produit_feutrelavable12_",
-      "name": "Feutre Lavable 12",
-      "prix_base": 141,
-      "prix_comparaison": 206,
-      "indice_prix": 146.09929078014184
+      "cle": "produit_bruleurcompletagaz_",
+      "name": "BRULEUR COMPLET A GAZ Vitogaz\u2122",
+      "prix_base": 1507,
+      "prix_comparaison": 1573,
+      "indice_prix": 104.37956204379562
     },
     {
-      "cle": "produit_fromagetommenoireenviron1kgmaminiaina_",
-      "name": "Fromage Tomme noire environ 1kg Maminiaina\u2122",
-      "prix_base": 1232,
-      "prix_comparaison": 1269,
-      "indice_prix": 103.00324675324676
+      "cle": "produit_packtuyaux15m_",
+      "name": "PACK TUYAUX A GAZ 1,5m Vitogaz\u2122",
+      "prix_base": 330,
+      "prix_comparaison": 341,
+      "indice_prix": 103.33333333333333
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_fromagetommenoireenviron1kgmaminiaina_",
-      "name": "Fromage Tomme noire environ 1kg Maminiaina\u2122",
-      "prix_base": 1232,
-      "prix_comparaison": 1269,
-      "indice_prix": 103.00324675324676
+      "cle": "produit_supportfatapera4kg_",
+      "name": "SUPPORT (FATAPERA) 4KG Vitogaz\u2122",
+      "prix_base": 330,
+      "prix_comparaison": 341,
+      "indice_prix": 103.33333333333333
     },
     {
-      "cle": "produit_feutrelavable12_",
-      "name": "Feutre Lavable 12",
-      "prix_base": 141,
-      "prix_comparaison": 206,
-      "indice_prix": 146.09929078014184
+      "cle": "produit_packtuyaux15m_",
+      "name": "PACK TUYAUX A GAZ 1,5m Vitogaz\u2122",
+      "prix_base": 330,
+      "prix_comparaison": 341,
+      "indice_prix": 103.33333333333333
     },
     {
-      "cle": "produit_feutrelavable24_",
-      "name": "Feutre lavable 24",
-      "prix_base": 272,
-      "prix_comparaison": 431,
-      "indice_prix": 158.4558823529412
+      "cle": "produit_bruleurcompletagaz_",
+      "name": "BRULEUR COMPLET A GAZ Vitogaz\u2122",
+      "prix_base": 1507,
+      "prix_comparaison": 1573,
+      "indice_prix": 104.37956204379562
     }
   ]
 }

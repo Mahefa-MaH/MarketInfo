@@ -2,69 +2,79 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Feutre lavable 24**
-   - Prix avant: 272 Ar
-   - Prix actuel: 431 Ar
-   - Variation: +159 Ar
+1. **DETENDEUR A GAZ Vitogaz™**
+   - Prix avant: 1,107 Ar
+   - Prix actuel: 1,217 Ar
+   - Variation: +110 Ar
 
-2. **Feutre Lavable 12**
-   - Prix avant: 141 Ar
-   - Prix actuel: 206 Ar
-   - Variation: +65 Ar
+2. **BRULEUR COMPLET A GAZ Vitogaz™**
+   - Prix avant: 1,507 Ar
+   - Prix actuel: 1,573 Ar
+   - Variation: +66 Ar
 
-3. **Fromage Tomme noire environ 1kg Maminiaina™**
-   - Prix avant: 1,232 Ar
-   - Prix actuel: 1,269 Ar
-   - Variation: +37 Ar
+3. **SUPPORT (FATAPERA) 4KG Vitogaz™**
+   - Prix avant: 330 Ar
+   - Prix actuel: 341 Ar
+   - Variation: +11 Ar
+
+4. **PACK TUYAUX A GAZ 1,5m Vitogaz™**
+   - Prix avant: 330 Ar
+   - Prix actuel: 341 Ar
+   - Variation: +11 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Fromage Tomme noire environ 1kg Maminiaina™**
-   - Prix avant: 1,232 Ar
-   - Prix actuel: 1,269 Ar
-   - Variation: +37 Ar
+1. **SUPPORT (FATAPERA) 4KG Vitogaz™**
+   - Prix avant: 330 Ar
+   - Prix actuel: 341 Ar
+   - Variation: +11 Ar
 
-2. **Feutre Lavable 12**
-   - Prix avant: 141 Ar
-   - Prix actuel: 206 Ar
-   - Variation: +65 Ar
+2. **PACK TUYAUX A GAZ 1,5m Vitogaz™**
+   - Prix avant: 330 Ar
+   - Prix actuel: 341 Ar
+   - Variation: +11 Ar
 
-3. **Feutre lavable 24**
-   - Prix avant: 272 Ar
-   - Prix actuel: 431 Ar
-   - Variation: +159 Ar
+3. **BRULEUR COMPLET A GAZ Vitogaz™**
+   - Prix avant: 1,507 Ar
+   - Prix actuel: 1,573 Ar
+   - Variation: +66 Ar
+
+4. **DETENDEUR A GAZ Vitogaz™**
+   - Prix avant: 1,107 Ar
+   - Prix actuel: 1,217 Ar
+   - Variation: +110 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Feutre lavable 24**
-   - Prix avant: 272 Ar
-   - Prix actuel: 431 Ar
-   - Indice de prix : 158.46
+1. **DETENDEUR A GAZ Vitogaz™**
+   - Prix avant: 1,107 Ar
+   - Prix actuel: 1,217 Ar
+   - Indice de prix : 109.94
 
-2. **Feutre Lavable 12**
-   - Prix avant: 141 Ar
-   - Prix actuel: 206 Ar
-   - Indice de prix : 146.10
+2. **BRULEUR COMPLET A GAZ Vitogaz™**
+   - Prix avant: 1,507 Ar
+   - Prix actuel: 1,573 Ar
+   - Indice de prix : 104.38
 
-3. **Fromage Tomme noire environ 1kg Maminiaina™**
-   - Prix avant: 1,232 Ar
-   - Prix actuel: 1,269 Ar
-   - Indice de prix : 103.00
+3. **PACK TUYAUX A GAZ 1,5m Vitogaz™**
+   - Prix avant: 330 Ar
+   - Prix actuel: 341 Ar
+   - Indice de prix : 103.33
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Fromage Tomme noire environ 1kg Maminiaina™**
-   - Prix avant: 1,232 Ar
-   - Prix actuel: 1,269 Ar
-   - Indice de prix : 103.00
+1. **SUPPORT (FATAPERA) 4KG Vitogaz™**
+   - Prix avant: 330 Ar
+   - Prix actuel: 341 Ar
+   - Indice de prix : 103.33
 
-2. **Feutre Lavable 12**
-   - Prix avant: 141 Ar
-   - Prix actuel: 206 Ar
-   - Indice de prix : 146.10
+2. **PACK TUYAUX A GAZ 1,5m Vitogaz™**
+   - Prix avant: 330 Ar
+   - Prix actuel: 341 Ar
+   - Indice de prix : 103.33
 
-3. **Feutre lavable 24**
-   - Prix avant: 272 Ar
-   - Prix actuel: 431 Ar
-   - Indice de prix : 158.46
+3. **BRULEUR COMPLET A GAZ Vitogaz™**
+   - Prix avant: 1,507 Ar
+   - Prix actuel: 1,573 Ar
+   - Indice de prix : 104.38
 

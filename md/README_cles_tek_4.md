@@ -2,9 +2,9 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Huile De Soja 1 L**
-   - Prix avant: 10,200 Ar
-   - Prix actuel: 10,200 Ar
+1. **Sucre rouge 1 kg**
+   - Prix avant: 5,682 Ar
+   - Prix actuel: 5,682 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
