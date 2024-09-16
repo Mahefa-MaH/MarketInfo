@@ -1,10 +1,18 @@
 {
   "Variation de prix": [
     {
-      "list_id": 9679,
-      "name": "Sucrettes blanches  50 g",
-      "prix_base": 7000,
-      "prix_comparaison": 7000,
+      "list_id": 10663,
+      "name": "Sucre Blanc Cristallis\u00e9 1 Kg",
+      "prix_base": 9400,
+      "prix_comparaison": 9400,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "list_id": 8197,
+      "name": "Huile De Soja 1 L",
+      "prix_base": 10200,
+      "prix_comparaison": 10200,
       "variation": 0,
       "indice_prix": 100.0
     },
@@ -13,14 +21,6 @@
       "name": "Sac de riz de luxe Makalioka 50 Kg",
       "prix_base": 216000,
       "prix_comparaison": 216000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "list_id": 8528,
-      "name": "Riz blanc import de Inde 50 kg",
-      "prix_base": 158400,
-      "prix_comparaison": 158400,
       "variation": 0,
       "indice_prix": 100.0
     }
