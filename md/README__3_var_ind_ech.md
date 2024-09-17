@@ -2,79 +2,49 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **DETENDEUR A GAZ Vitogaz™**
-   - Prix avant: 1,107 Ar
-   - Prix actuel: 1,217 Ar
-   - Variation: +110 Ar
+1. **Chipette de crevettes 100g**
+   - Prix avant: 56 Ar
+   - Prix actuel: 102 Ar
+   - Variation: +46 Ar
 
-2. **BRULEUR COMPLET A GAZ Vitogaz™**
-   - Prix avant: 1,507 Ar
-   - Prix actuel: 1,573 Ar
-   - Variation: +66 Ar
-
-3. **SUPPORT (FATAPERA) 4KG Vitogaz™**
-   - Prix avant: 330 Ar
-   - Prix actuel: 341 Ar
-   - Variation: +11 Ar
-
-4. **PACK TUYAUX A GAZ 1,5m Vitogaz™**
-   - Prix avant: 330 Ar
-   - Prix actuel: 341 Ar
-   - Variation: +11 Ar
+2. **Serviette Hygiénique Ult. Norm. Jour X14**
+   - Prix avant: 220 Ar
+   - Prix actuel: 261 Ar
+   - Variation: +41 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **SUPPORT (FATAPERA) 4KG Vitogaz™**
-   - Prix avant: 330 Ar
-   - Prix actuel: 341 Ar
-   - Variation: +11 Ar
+1. **Serviette Hygiénique Ult. Norm. Jour X14**
+   - Prix avant: 220 Ar
+   - Prix actuel: 261 Ar
+   - Variation: +41 Ar
 
-2. **PACK TUYAUX A GAZ 1,5m Vitogaz™**
-   - Prix avant: 330 Ar
-   - Prix actuel: 341 Ar
-   - Variation: +11 Ar
-
-3. **BRULEUR COMPLET A GAZ Vitogaz™**
-   - Prix avant: 1,507 Ar
-   - Prix actuel: 1,573 Ar
-   - Variation: +66 Ar
-
-4. **DETENDEUR A GAZ Vitogaz™**
-   - Prix avant: 1,107 Ar
-   - Prix actuel: 1,217 Ar
-   - Variation: +110 Ar
+2. **Chipette de crevettes 100g**
+   - Prix avant: 56 Ar
+   - Prix actuel: 102 Ar
+   - Variation: +46 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **DETENDEUR A GAZ Vitogaz™**
-   - Prix avant: 1,107 Ar
-   - Prix actuel: 1,217 Ar
-   - Indice de prix : 109.94
+1. **Chipette de crevettes 100g**
+   - Prix avant: 56 Ar
+   - Prix actuel: 102 Ar
+   - Indice de prix : 182.14
 
-2. **BRULEUR COMPLET A GAZ Vitogaz™**
-   - Prix avant: 1,507 Ar
-   - Prix actuel: 1,573 Ar
-   - Indice de prix : 104.38
-
-3. **PACK TUYAUX A GAZ 1,5m Vitogaz™**
-   - Prix avant: 330 Ar
-   - Prix actuel: 341 Ar
-   - Indice de prix : 103.33
+2. **Serviette Hygiénique Ult. Norm. Jour X14**
+   - Prix avant: 220 Ar
+   - Prix actuel: 261 Ar
+   - Indice de prix : 118.64
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **SUPPORT (FATAPERA) 4KG Vitogaz™**
-   - Prix avant: 330 Ar
-   - Prix actuel: 341 Ar
-   - Indice de prix : 103.33
+1. **Serviette Hygiénique Ult. Norm. Jour X14**
+   - Prix avant: 220 Ar
+   - Prix actuel: 261 Ar
+   - Indice de prix : 118.64
 
-2. **PACK TUYAUX A GAZ 1,5m Vitogaz™**
-   - Prix avant: 330 Ar
-   - Prix actuel: 341 Ar
-   - Indice de prix : 103.33
-
-3. **BRULEUR COMPLET A GAZ Vitogaz™**
-   - Prix avant: 1,507 Ar
-   - Prix actuel: 1,573 Ar
-   - Indice de prix : 104.38
+2. **Chipette de crevettes 100g**
+   - Prix avant: 56 Ar
+   - Prix actuel: 102 Ar
+   - Indice de prix : 182.14
 

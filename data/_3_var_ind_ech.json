@@ -1,108 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_detendeuragaz_",
-      "name": "DETENDEUR A GAZ Vitogaz\u2122",
-      "prix_base": 1107,
-      "prix_comparaison": 1217,
-      "variation": 110
+      "cle": "produit_chipettedecrevettes100g_",
+      "name": "Chipette de crevettes 100g",
+      "prix_base": 56,
+      "prix_comparaison": 102,
+      "variation": 46
     },
     {
-      "cle": "produit_bruleurcompletagaz_",
-      "name": "BRULEUR COMPLET A GAZ Vitogaz\u2122",
-      "prix_base": 1507,
-      "prix_comparaison": 1573,
-      "variation": 66
-    },
-    {
-      "cle": "produit_supportfatapera4kg_",
-      "name": "SUPPORT (FATAPERA) 4KG Vitogaz\u2122",
-      "prix_base": 330,
-      "prix_comparaison": 341,
-      "variation": 11
-    },
-    {
-      "cle": "produit_packtuyaux15m_",
-      "name": "PACK TUYAUX A GAZ 1,5m Vitogaz\u2122",
-      "prix_base": 330,
-      "prix_comparaison": 341,
-      "variation": 11
+      "cle": "produit_serviettehygieniqueultnormjourx14_",
+      "name": "Serviette Hygi\u00e9nique Ult. Norm. Jour X14",
+      "prix_base": 220,
+      "prix_comparaison": 261,
+      "variation": 41
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_supportfatapera4kg_",
-      "name": "SUPPORT (FATAPERA) 4KG Vitogaz\u2122",
-      "prix_base": 330,
-      "prix_comparaison": 341,
-      "variation": 11
+      "cle": "produit_serviettehygieniqueultnormjourx14_",
+      "name": "Serviette Hygi\u00e9nique Ult. Norm. Jour X14",
+      "prix_base": 220,
+      "prix_comparaison": 261,
+      "variation": 41
     },
     {
-      "cle": "produit_packtuyaux15m_",
-      "name": "PACK TUYAUX A GAZ 1,5m Vitogaz\u2122",
-      "prix_base": 330,
-      "prix_comparaison": 341,
-      "variation": 11
-    },
-    {
-      "cle": "produit_bruleurcompletagaz_",
-      "name": "BRULEUR COMPLET A GAZ Vitogaz\u2122",
-      "prix_base": 1507,
-      "prix_comparaison": 1573,
-      "variation": 66
-    },
-    {
-      "cle": "produit_detendeuragaz_",
-      "name": "DETENDEUR A GAZ Vitogaz\u2122",
-      "prix_base": 1107,
-      "prix_comparaison": 1217,
-      "variation": 110
+      "cle": "produit_chipettedecrevettes100g_",
+      "name": "Chipette de crevettes 100g",
+      "prix_base": 56,
+      "prix_comparaison": 102,
+      "variation": 46
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_detendeuragaz_",
-      "name": "DETENDEUR A GAZ Vitogaz\u2122",
-      "prix_base": 1107,
-      "prix_comparaison": 1217,
-      "indice_prix": 109.93676603432701
+      "cle": "produit_chipettedecrevettes100g_",
+      "name": "Chipette de crevettes 100g",
+      "prix_base": 56,
+      "prix_comparaison": 102,
+      "indice_prix": 182.14285714285714
     },
     {
-      "cle": "produit_bruleurcompletagaz_",
-      "name": "BRULEUR COMPLET A GAZ Vitogaz\u2122",
-      "prix_base": 1507,
-      "prix_comparaison": 1573,
-      "indice_prix": 104.37956204379562
-    },
-    {
-      "cle": "produit_packtuyaux15m_",
-      "name": "PACK TUYAUX A GAZ 1,5m Vitogaz\u2122",
-      "prix_base": 330,
-      "prix_comparaison": 341,
-      "indice_prix": 103.33333333333333
+      "cle": "produit_serviettehygieniqueultnormjourx14_",
+      "name": "Serviette Hygi\u00e9nique Ult. Norm. Jour X14",
+      "prix_base": 220,
+      "prix_comparaison": 261,
+      "indice_prix": 118.63636363636364
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_supportfatapera4kg_",
-      "name": "SUPPORT (FATAPERA) 4KG Vitogaz\u2122",
-      "prix_base": 330,
-      "prix_comparaison": 341,
-      "indice_prix": 103.33333333333333
+      "cle": "produit_serviettehygieniqueultnormjourx14_",
+      "name": "Serviette Hygi\u00e9nique Ult. Norm. Jour X14",
+      "prix_base": 220,
+      "prix_comparaison": 261,
+      "indice_prix": 118.63636363636364
     },
     {
-      "cle": "produit_packtuyaux15m_",
-      "name": "PACK TUYAUX A GAZ 1,5m Vitogaz\u2122",
-      "prix_base": 330,
-      "prix_comparaison": 341,
-      "indice_prix": 103.33333333333333
-    },
-    {
-      "cle": "produit_bruleurcompletagaz_",
-      "name": "BRULEUR COMPLET A GAZ Vitogaz\u2122",
-      "prix_base": 1507,
-      "prix_comparaison": 1573,
-      "indice_prix": 104.37956204379562
+      "cle": "produit_chipettedecrevettes100g_",
+      "name": "Chipette de crevettes 100g",
+      "prix_base": 56,
+      "prix_comparaison": 102,
+      "indice_prix": 182.14285714285714
     }
   ]
 }
