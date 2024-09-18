@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "televiseurled_139018lg77c3tvoled77195cm4kuhd3840x2160smarttvprocesseura9gen6dolbyatmos4xhdmi21wifi8806087071832_html",
-      "name": "LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi",
-      "prix_base": 13755000,
-      "prix_comparaison": 13755000,
+      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
+      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
+      "prix_base": 11856000,
+      "prix_comparaison": 11856000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "televiseurled_187488tvqledhisense85e7nq85215cm4kuhddolbyvisionsmarttv3xhdmiwifi6942351402758_html",
-      "name": "TV QLED - HISENSE - 85E7NQ - 85 (215 cm) - 4K UHD - Dolby Vision - Smart TV - 3xHDMI - WiFi",
-      "prix_base": 10680000,
-      "prix_comparaison": 10680000,
+      "cle": "poeleabois_143096poeleaboisinvictakazangrandangle9kwbuches58cm3244336104439_html",
+      "name": "Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - B\u00fbches 58 cm",
+      "prix_base": 12382000,
+      "prix_comparaison": 12382000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_143068pcdebureaugaminghpgt152064nfcorei714700fram32goddr5512gossdgeforcertx4070super12gofreedos0198122795093_html",
-      "name": "PC de bureau Gamer HP Omen GT15-2064nf - Core i7-14700F - RAM 32Go - Stockage 512Go SSD - RTX 4070 - Sans Windows",
-      "prix_base": 12930000,
-      "prix_comparaison": 12930000,
+      "cle": "poeleabois_143094poeleaboisinvictawilsonsurbanc8kwfontebuches55cm3244336482247_html",
+      "name": "Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - B\u00fbches 55 cm",
+      "prix_base": 16884000,
+      "prix_comparaison": 16884000,
       "variation": 0,
       "indice_prix": 100.0
     }

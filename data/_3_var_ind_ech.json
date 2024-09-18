@@ -1,66 +1,108 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_chipettedecrevettes100g_",
-      "name": "Chipette de crevettes 100g",
-      "prix_base": 56,
-      "prix_comparaison": 102,
-      "variation": 46
+      "cle": "produit_chapelurepanko500g_",
+      "name": "Chapelure panko 500g",
+      "prix_base": 494,
+      "prix_comparaison": 616,
+      "variation": 122
     },
     {
-      "cle": "produit_serviettehygieniqueultnormjourx14_",
-      "name": "Serviette Hygi\u00e9nique Ult. Norm. Jour X14",
-      "prix_base": 220,
-      "prix_comparaison": 261,
-      "variation": 41
+      "cle": "produit_saucedesojasushikimono500ml_",
+      "name": "Sauce de soja sushi kimono 500ml",
+      "prix_base": 241,
+      "prix_comparaison": 337,
+      "variation": 96
+    },
+    {
+      "cle": "produit_saucedesojalightredriverbridge625ml_",
+      "name": "Sauce de soja light red river bridge 625ml",
+      "prix_base": 183,
+      "prix_comparaison": 268,
+      "variation": 85
+    },
+    {
+      "cle": "produit_chapelurepanko200g_",
+      "name": "Chapelure panko 200g",
+      "prix_base": 214,
+      "prix_comparaison": 268,
+      "variation": 54
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_serviettehygieniqueultnormjourx14_",
-      "name": "Serviette Hygi\u00e9nique Ult. Norm. Jour X14",
-      "prix_base": 220,
-      "prix_comparaison": 261,
-      "variation": 41
+      "cle": "produit_chapelurepanko200g_",
+      "name": "Chapelure panko 200g",
+      "prix_base": 214,
+      "prix_comparaison": 268,
+      "variation": 54
     },
     {
-      "cle": "produit_chipettedecrevettes100g_",
-      "name": "Chipette de crevettes 100g",
-      "prix_base": 56,
-      "prix_comparaison": 102,
-      "variation": 46
+      "cle": "produit_saucedesojalightredriverbridge625ml_",
+      "name": "Sauce de soja light red river bridge 625ml",
+      "prix_base": 183,
+      "prix_comparaison": 268,
+      "variation": 85
+    },
+    {
+      "cle": "produit_saucedesojasushikimono500ml_",
+      "name": "Sauce de soja sushi kimono 500ml",
+      "prix_base": 241,
+      "prix_comparaison": 337,
+      "variation": 96
+    },
+    {
+      "cle": "produit_chapelurepanko500g_",
+      "name": "Chapelure panko 500g",
+      "prix_base": 494,
+      "prix_comparaison": 616,
+      "variation": 122
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_chipettedecrevettes100g_",
-      "name": "Chipette de crevettes 100g",
-      "prix_base": 56,
-      "prix_comparaison": 102,
-      "indice_prix": 182.14285714285714
+      "cle": "produit_saucedesojalightredriverbridge625ml_",
+      "name": "Sauce de soja light red river bridge 625ml",
+      "prix_base": 183,
+      "prix_comparaison": 268,
+      "indice_prix": 146.44808743169398
     },
     {
-      "cle": "produit_serviettehygieniqueultnormjourx14_",
-      "name": "Serviette Hygi\u00e9nique Ult. Norm. Jour X14",
-      "prix_base": 220,
-      "prix_comparaison": 261,
-      "indice_prix": 118.63636363636364
+      "cle": "produit_saucedesojasushikimono500ml_",
+      "name": "Sauce de soja sushi kimono 500ml",
+      "prix_base": 241,
+      "prix_comparaison": 337,
+      "indice_prix": 139.83402489626556
+    },
+    {
+      "cle": "produit_chapelurepanko200g_",
+      "name": "Chapelure panko 200g",
+      "prix_base": 214,
+      "prix_comparaison": 268,
+      "indice_prix": 125.23364485981308
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_serviettehygieniqueultnormjourx14_",
-      "name": "Serviette Hygi\u00e9nique Ult. Norm. Jour X14",
-      "prix_base": 220,
-      "prix_comparaison": 261,
-      "indice_prix": 118.63636363636364
+      "cle": "produit_chapelurepanko500g_",
+      "name": "Chapelure panko 500g",
+      "prix_base": 494,
+      "prix_comparaison": 616,
+      "indice_prix": 124.69635627530364
     },
     {
-      "cle": "produit_chipettedecrevettes100g_",
-      "name": "Chipette de crevettes 100g",
-      "prix_base": 56,
-      "prix_comparaison": 102,
-      "indice_prix": 182.14285714285714
+      "cle": "produit_chapelurepanko200g_",
+      "name": "Chapelure panko 200g",
+      "prix_base": 214,
+      "prix_comparaison": 268,
+      "indice_prix": 125.23364485981308
+    },
+    {
+      "cle": "produit_saucedesojasushikimono500ml_",
+      "name": "Sauce de soja sushi kimono 500ml",
+      "prix_base": 241,
+      "prix_comparaison": 337,
+      "indice_prix": 139.83402489626556
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "unitecentraleseuleminipc_92288pcdebureaugamingomenbyhp40lgt211007nfintelcorei913900kram32go1tossdgeforcertx409024gowindows110197192261767_html",
-      "name": "PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11",
-      "prix_base": 20629000,
-      "prix_comparaison": 20629000,
+      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
+      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
+      "prix_base": 12500000,
+      "prix_comparaison": 12500000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
-      "name": "Mac mini Apple Mac Studio 512Go SSD Puce M2 Max CPU 12 coeurs GPU 30 coeurs 2023",
-      "prix_base": 11042000,
-      "prix_comparaison": 11042000,
+      "cle": "poeleabois_143095poeleaboisinvictaneosenraccordableacier8kwbuches40cm3244339488369_html",
+      "name": "Poele a bois- INVICTA Neosen Raccordable - Acier - 8KW - B\u00fbches 40 cm",
+      "prix_base": 10881000,
+      "prix_comparaison": 10881000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "televiseurled_187826samsung85q70ctvqled85216cm4kuhd3840x2160120hzhdrsmarttvgaminghub4xhdmiwifi8806095484273_html",
-      "name": "SAMSUNG 85Q70C - TV QLED 85 (216 cm) - 4K UHD 3840x2160 - 120 Hz - HDR - Smart TV - Gaming HUB - 4xHDMI - WiFi",
-      "prix_base": 11959000,
-      "prix_comparaison": 11959000,
+      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
+      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     }

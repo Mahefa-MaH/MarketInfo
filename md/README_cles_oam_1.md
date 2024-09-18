@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi**
-   - Prix avant: 13,755,000 Ar
-   - Prix actuel: 13,755,000 Ar
+1. **Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - Bûches 33 cm max - Fabriqué en France - Ecodesg**
+   - Prix avant: 11,856,000 Ar
+   - Prix actuel: 11,856,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **TV QLED - HISENSE - 85E7NQ - 85 (215 cm) - 4K UHD - Dolby Vision - Smart TV - 3xHDMI - WiFi**
-   - Prix avant: 10,680,000 Ar
-   - Prix actuel: 10,680,000 Ar
+2. **Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - Bûches 58 cm**
+   - Prix avant: 12,382,000 Ar
+   - Prix actuel: 12,382,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **PC de bureau Gamer HP Omen GT15-2064nf - Core i7-14700F - RAM 32Go - Stockage 512Go SSD - RTX 4070 - Sans Windows**
-   - Prix avant: 12,930,000 Ar
-   - Prix actuel: 12,930,000 Ar
+3. **Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - Bûches 55 cm**
+   - Prix avant: 16,884,000 Ar
+   - Prix actuel: 16,884,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

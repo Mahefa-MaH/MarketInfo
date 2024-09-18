@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_144313appleipadpro202413wifi2tonoirsideralnanotexture0195949468261_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
-      "prix_base": 13661000,
-      "prix_comparaison": 13661000,
+      "cle": "poeleabois_187754poeleaboispanaderoinsertc101secodesign89kwbuches80cm8426964191059_html",
+      "name": "Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - B\u00fbches 80 cm",
+      "prix_base": 17259000,
+      "prix_comparaison": 17259000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_144307appleipadpro202411wificellulaire2toargentnanotexture0195949469497_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Argent Nano-textur\u00e9",
-      "prix_base": 13181000,
-      "prix_comparaison": 13181000,
+      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
+      "name": "Echafaudage roulant Neolium 200 Line 14m",
+      "prix_base": 37000000,
+      "prix_comparaison": 37000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
-      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
-      "prix_base": 12398000,
-      "prix_comparaison": 12398000,
+      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
+      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
+      "prix_base": 10450000,
+      "prix_comparaison": 10450000,
       "variation": 0,
       "indice_prix": 100.0
     }

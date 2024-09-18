@@ -1,34 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "potages_134420veloutepotironalacreme1l_html",
-      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
-      "prix_base": 11900,
-      "prix_comparaison": 12500,
-      "variation": 600
-    },
-    {
-      "cle": "potages_134473veloute10legumesetcremes2x30cl_html",
-      "name": "Velout\u00e9 10 l\u00e9gumes et cr\u00e8mes 2x30cl",
-      "prix_base": 9900,
-      "prix_comparaison": 10900,
-      "variation": 1000
+      "cle": "boitiersetbraceletsdemontre_150563braceletamontrexiaomibhr6975glrose6941812709504_html",
+      "name": "Bracelet \u00e0 montre Xiaomi BHR6975GL Rose",
+      "prix_base": 50000,
+      "prix_comparaison": 46000,
+      "variation": -4000
     }
   ],
   "indice de prix": [
     {
-      "cle": "potages_134420veloutepotironalacreme1l_html",
-      "name": "Velout\u00e9 potiron \u00e0 la cr\u00e8me 1L",
-      "prix_base": 11900,
-      "prix_comparaison": 12500,
-      "indice_prix": 105.04201680672269
-    },
-    {
-      "cle": "potages_134473veloute10legumesetcremes2x30cl_html",
-      "name": "Velout\u00e9 10 l\u00e9gumes et cr\u00e8mes 2x30cl",
-      "prix_base": 9900,
-      "prix_comparaison": 10900,
-      "indice_prix": 110.1010101010101
+      "cle": "boitiersetbraceletsdemontre_150563braceletamontrexiaomibhr6975glrose6941812709504_html",
+      "name": "Bracelet \u00e0 montre Xiaomi BHR6975GL Rose",
+      "prix_base": 50000,
+      "prix_comparaison": 46000,
+      "indice_prix": 92.0
     }
   ]
 }

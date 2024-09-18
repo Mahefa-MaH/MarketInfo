@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_63212appleipadpro2022129wifi2togrissideral0194253243571_html",
-      "name": "Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Gris Sid\u00e9ral",
-      "prix_base": 13077000,
-      "prix_comparaison": 13399000,
-      "variation": 322000,
-      "indice_prix": 102.46233845683261
+      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
+      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_141606appleipadpro202413wificellulaire2tonoirsideral0195949247064_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral",
-      "prix_base": 13876000,
-      "prix_comparaison": 14218000,
-      "variation": 342000,
-      "indice_prix": 102.4646872297492
+      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
+      "prix_base": 10951000,
+      "prix_comparaison": 10951000,
+      "variation": 0,
+      "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_141607appleipadpro202413wificellulaire2toargent0195949247361_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Argent",
-      "prix_base": 13877000,
-      "prix_comparaison": 14219000,
-      "variation": 342000,
-      "indice_prix": 102.46450962023492
+      "cle": "cartegraphiqueinterne_85864msigeforcecartegraphiquertx4090suprimx24go4711377019200_html",
+      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM X - 24 Go",
+      "prix_base": 10113000,
+      "prix_comparaison": 10113000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "televiseurled_139018lg77c3tvoled77195cm4kuhd3840x2160smarttvprocesseura9gen6dolbyatmos4xhdmi21wifi8806087071832_html",
-      "name": "LG 77C3 - TV OLED 77'' (195 cm) - 4K UHD 3840x2160 - Smart TV - Processeur a9 Gen6 - Dolby Atmos - 4xHDMI 2.1 - WiFi",
-      "prix_base": 13400000,
-      "prix_comparaison": 13755000,
-      "variation": 355000,
-      "indice_prix": 102.64925373134328
+      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
+      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
+      "prix_base": 12374000,
+      "prix_comparaison": 12374000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

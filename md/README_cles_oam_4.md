@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Noir sidéral Nano-texturé**
-   - Prix avant: 12,631,000 Ar
-   - Prix actuel: 12,017,000 Ar
-   - Variation: -614,000 Ar
-   - Indice de prix : 95.14
+1. **Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magnésium**
+   - Prix avant: 13,132,000 Ar
+   - Prix actuel: 13,132,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 
-2. **Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent Nano-texturé**
-   - Prix avant: 12,632,000 Ar
-   - Prix actuel: 12,018,000 Ar
-   - Variation: -614,000 Ar
-   - Indice de prix : 95.14
+2. **Poele a bois - PANADERO - Zamora Ecodesign - 7,1 kw - Bûches 50 cm**
+   - Prix avant: 11,862,000 Ar
+   - Prix actuel: 11,862,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Argent Nano-texturé**
-   - Prix avant: 12,011,000 Ar
-   - Prix actuel: 11,428,000 Ar
-   - Variation: -583,000 Ar
-   - Indice de prix : 95.15
+3. **Groupe électrogene diesel ZEUZ - Silencieux - 6300 W - Démarrage électrique**
+   - Prix avant: 13,354,000 Ar
+   - Prix actuel: 13,354,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
 
