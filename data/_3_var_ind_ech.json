@@ -1,108 +1,101 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_chapelurepanko500g_",
-      "name": "Chapelure panko 500g",
-      "prix_base": 494,
-      "prix_comparaison": 616,
-      "variation": 122
+      "cle": "produit_filetmignon500g_",
+      "name": "Filet mignon de Porc | 500g",
+      "prix_base": 374,
+      "prix_comparaison": 662,
+      "variation": 288
     },
     {
-      "cle": "produit_saucedesojasushikimono500ml_",
-      "name": "Sauce de soja sushi kimono 500ml",
-      "prix_base": 241,
-      "prix_comparaison": 337,
-      "variation": 96
-    },
-    {
-      "cle": "produit_saucedesojalightredriverbridge625ml_",
-      "name": "Sauce de soja light red river bridge 625ml",
+      "cle": "produit_papiercuisson10malba_",
+      "name": "Papier Cuisson 10m Alba",
       "prix_base": 183,
-      "prix_comparaison": 268,
-      "variation": 85
+      "prix_comparaison": 209,
+      "variation": 26
     },
     {
-      "cle": "produit_chapelurepanko200g_",
-      "name": "Chapelure panko 200g",
-      "prix_base": 214,
-      "prix_comparaison": 268,
-      "variation": 54
+      "cle": "produit_pouletfumeenviron500g_",
+      "name": "Poulet Fum\u00e9 environ 1kg",
+      "prix_base": 851,
+      "prix_comparaison": 860,
+      "variation": 9
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_chapelurepanko200g_",
-      "name": "Chapelure panko 200g",
-      "prix_base": 214,
-      "prix_comparaison": 268,
-      "variation": 54
+      "cle": "produit_diffuseurelectriqueantimoustique33mlcasino_",
+      "name": "Diffuseur \u00e9l\u00e9ctrique anti-moustique 33ml Casino\u2122",
+      "prix_base": 572,
+      "prix_comparaison": 540,
+      "variation": -32
     },
     {
-      "cle": "produit_saucedesojalightredriverbridge625ml_",
-      "name": "Sauce de soja light red river bridge 625ml",
+      "cle": "produit_pouletfumeenviron500g_",
+      "name": "Poulet Fum\u00e9 environ 1kg",
+      "prix_base": 851,
+      "prix_comparaison": 860,
+      "variation": 9
+    },
+    {
+      "cle": "produit_papiercuisson10malba_",
+      "name": "Papier Cuisson 10m Alba",
       "prix_base": 183,
-      "prix_comparaison": 268,
-      "variation": 85
+      "prix_comparaison": 209,
+      "variation": 26
     },
     {
-      "cle": "produit_saucedesojasushikimono500ml_",
-      "name": "Sauce de soja sushi kimono 500ml",
-      "prix_base": 241,
-      "prix_comparaison": 337,
-      "variation": 96
-    },
-    {
-      "cle": "produit_chapelurepanko500g_",
-      "name": "Chapelure panko 500g",
-      "prix_base": 494,
-      "prix_comparaison": 616,
-      "variation": 122
+      "cle": "produit_filetmignon500g_",
+      "name": "Filet mignon de Porc | 500g",
+      "prix_base": 374,
+      "prix_comparaison": 662,
+      "variation": 288
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_saucedesojalightredriverbridge625ml_",
-      "name": "Sauce de soja light red river bridge 625ml",
+      "cle": "produit_filetmignon500g_",
+      "name": "Filet mignon de Porc | 500g",
+      "prix_base": 374,
+      "prix_comparaison": 662,
+      "indice_prix": 177.00534759358288
+    },
+    {
+      "cle": "produit_papiercuisson10malba_",
+      "name": "Papier Cuisson 10m Alba",
       "prix_base": 183,
-      "prix_comparaison": 268,
-      "indice_prix": 146.44808743169398
+      "prix_comparaison": 209,
+      "indice_prix": 114.20765027322405
     },
     {
-      "cle": "produit_saucedesojasushikimono500ml_",
-      "name": "Sauce de soja sushi kimono 500ml",
-      "prix_base": 241,
-      "prix_comparaison": 337,
-      "indice_prix": 139.83402489626556
-    },
-    {
-      "cle": "produit_chapelurepanko200g_",
-      "name": "Chapelure panko 200g",
-      "prix_base": 214,
-      "prix_comparaison": 268,
-      "indice_prix": 125.23364485981308
+      "cle": "produit_pouletfumeenviron500g_",
+      "name": "Poulet Fum\u00e9 environ 1kg",
+      "prix_base": 851,
+      "prix_comparaison": 860,
+      "indice_prix": 101.05757931844889
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_chapelurepanko500g_",
-      "name": "Chapelure panko 500g",
-      "prix_base": 494,
-      "prix_comparaison": 616,
-      "indice_prix": 124.69635627530364
+      "cle": "produit_diffuseurelectriqueantimoustique33mlcasino_",
+      "name": "Diffuseur \u00e9l\u00e9ctrique anti-moustique 33ml Casino\u2122",
+      "prix_base": 572,
+      "prix_comparaison": 540,
+      "indice_prix": 94.4055944055944
     },
     {
-      "cle": "produit_chapelurepanko200g_",
-      "name": "Chapelure panko 200g",
-      "prix_base": 214,
-      "prix_comparaison": 268,
-      "indice_prix": 125.23364485981308
+      "cle": "produit_pouletfumeenviron500g_",
+      "name": "Poulet Fum\u00e9 environ 1kg",
+      "prix_base": 851,
+      "prix_comparaison": 860,
+      "indice_prix": 101.05757931844889
     },
     {
-      "cle": "produit_saucedesojasushikimono500ml_",
-      "name": "Sauce de soja sushi kimono 500ml",
-      "prix_base": 241,
-      "prix_comparaison": 337,
-      "indice_prix": 139.83402489626556
+      "cle": "produit_papiercuisson10malba_",
+      "name": "Papier Cuisson 10m Alba",
+      "prix_base": 183,
+      "prix_comparaison": 209,
+      "indice_prix": 114.20765027322405
     }
   ]
 }

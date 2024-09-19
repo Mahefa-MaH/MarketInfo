@@ -2,79 +2,74 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Chapelure panko 500g**
-   - Prix avant: 494 Ar
-   - Prix actuel: 616 Ar
-   - Variation: +122 Ar
+1. **Filet mignon de Porc | 500g**
+   - Prix avant: 374 Ar
+   - Prix actuel: 662 Ar
+   - Variation: +288 Ar
 
-2. **Sauce de soja sushi kimono 500ml**
-   - Prix avant: 241 Ar
-   - Prix actuel: 337 Ar
-   - Variation: +96 Ar
-
-3. **Sauce de soja light red river bridge 625ml**
+2. **Papier Cuisson 10m Alba**
    - Prix avant: 183 Ar
-   - Prix actuel: 268 Ar
-   - Variation: +85 Ar
+   - Prix actuel: 209 Ar
+   - Variation: +26 Ar
 
-4. **Chapelure panko 200g**
-   - Prix avant: 214 Ar
-   - Prix actuel: 268 Ar
-   - Variation: +54 Ar
+3. **Poulet Fumé environ 1kg**
+   - Prix avant: 851 Ar
+   - Prix actuel: 860 Ar
+   - Variation: +9 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Chapelure panko 200g**
-   - Prix avant: 214 Ar
-   - Prix actuel: 268 Ar
-   - Variation: +54 Ar
+1. **Diffuseur éléctrique anti-moustique 33ml Casino™**
+   - Prix avant: 572 Ar
+   - Prix actuel: 540 Ar
+   - Variation: -32 Ar
 
-2. **Sauce de soja light red river bridge 625ml**
+2. **Poulet Fumé environ 1kg**
+   - Prix avant: 851 Ar
+   - Prix actuel: 860 Ar
+   - Variation: +9 Ar
+
+3. **Papier Cuisson 10m Alba**
    - Prix avant: 183 Ar
-   - Prix actuel: 268 Ar
-   - Variation: +85 Ar
+   - Prix actuel: 209 Ar
+   - Variation: +26 Ar
 
-3. **Sauce de soja sushi kimono 500ml**
-   - Prix avant: 241 Ar
-   - Prix actuel: 337 Ar
-   - Variation: +96 Ar
-
-4. **Chapelure panko 500g**
-   - Prix avant: 494 Ar
-   - Prix actuel: 616 Ar
-   - Variation: +122 Ar
+4. **Filet mignon de Porc | 500g**
+   - Prix avant: 374 Ar
+   - Prix actuel: 662 Ar
+   - Variation: +288 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Sauce de soja light red river bridge 625ml**
+1. **Filet mignon de Porc | 500g**
+   - Prix avant: 374 Ar
+   - Prix actuel: 662 Ar
+   - Indice de prix : 177.01
+
+2. **Papier Cuisson 10m Alba**
    - Prix avant: 183 Ar
-   - Prix actuel: 268 Ar
-   - Indice de prix : 146.45
+   - Prix actuel: 209 Ar
+   - Indice de prix : 114.21
 
-2. **Sauce de soja sushi kimono 500ml**
-   - Prix avant: 241 Ar
-   - Prix actuel: 337 Ar
-   - Indice de prix : 139.83
-
-3. **Chapelure panko 200g**
-   - Prix avant: 214 Ar
-   - Prix actuel: 268 Ar
-   - Indice de prix : 125.23
+3. **Poulet Fumé environ 1kg**
+   - Prix avant: 851 Ar
+   - Prix actuel: 860 Ar
+   - Indice de prix : 101.06
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Chapelure panko 500g**
-   - Prix avant: 494 Ar
-   - Prix actuel: 616 Ar
-   - Indice de prix : 124.70
+1. **Diffuseur éléctrique anti-moustique 33ml Casino™**
+   - Prix avant: 572 Ar
+   - Prix actuel: 540 Ar
+   - Indice de prix : 94.41
 
-2. **Chapelure panko 200g**
-   - Prix avant: 214 Ar
-   - Prix actuel: 268 Ar
-   - Indice de prix : 125.23
+2. **Poulet Fumé environ 1kg**
+   - Prix avant: 851 Ar
+   - Prix actuel: 860 Ar
+   - Indice de prix : 101.06
 
-3. **Sauce de soja sushi kimono 500ml**
-   - Prix avant: 241 Ar
-   - Prix actuel: 337 Ar
-   - Indice de prix : 139.83
+3. **Papier Cuisson 10m Alba**
+   - Prix avant: 183 Ar
+   - Prix actuel: 209 Ar
+   - Indice de prix : 114.21
 
