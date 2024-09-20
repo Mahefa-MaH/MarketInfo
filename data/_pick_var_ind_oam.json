@@ -1,20 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "boitiersetbraceletsdemontre_150563braceletamontrexiaomibhr6975glrose6941812709504_html",
-      "name": "Bracelet \u00e0 montre Xiaomi BHR6975GL Rose",
-      "prix_base": 50000,
-      "prix_comparaison": 46000,
-      "variation": -4000
+      "cle": "disquedurssd_28295samsungssdinterne980250gom2nvmemzv8v250bw8806090572234_html",
+      "name": "SSD interne Samsung SSD 980 NVMe - MZ-V8V250BW - 250 Go",
+      "prix_base": 264000,
+      "prix_comparaison": 246000,
+      "variation": -18000
     }
   ],
   "indice de prix": [
     {
-      "cle": "boitiersetbraceletsdemontre_150563braceletamontrexiaomibhr6975glrose6941812709504_html",
-      "name": "Bracelet \u00e0 montre Xiaomi BHR6975GL Rose",
-      "prix_base": 50000,
-      "prix_comparaison": 46000,
-      "indice_prix": 92.0
+      "cle": "disquedurssd_28295samsungssdinterne980250gom2nvmemzv8v250bw8806090572234_html",
+      "name": "SSD interne Samsung SSD 980 NVMe - MZ-V8V250BW - 250 Go",
+      "prix_base": 264000,
+      "prix_comparaison": 246000,
+      "indice_prix": 93.18181818181819
     }
   ]
 }
