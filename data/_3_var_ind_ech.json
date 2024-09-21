@@ -1,119 +1,35 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_patesbarilla500grmaccheroni_",
-      "name": "P\u00e2tes Barilla 500gr Maccheroni",
-      "prix_base": 359,
-      "prix_comparaison": 525,
-      "variation": 166
-    },
-    {
-      "cle": "produit_saucebolognaise200gr_",
-      "name": "Sauce Bolognaise 200gr",
-      "prix_base": 279,
-      "prix_comparaison": 428,
-      "variation": 149
-    },
-    {
-      "cle": "produit_insecticidevolramp400mloro_",
-      "name": "Insecticide Vol-Ramp 400ML Oro",
-      "prix_base": 244,
-      "prix_comparaison": 369,
-      "variation": 125
-    },
-    {
-      "cle": "produit_eaudejavelnature12flc2l_",
-      "name": "Eau De Javel  Nature 12\u00b0 Flc 2l",
-      "prix_base": 220,
-      "prix_comparaison": 320,
-      "variation": 100
-    },
-    {
-      "cle": "produit_spaghetti12dececco500g_",
-      "name": "Spaghetti \u2013 12 De Cecco 500 g",
-      "prix_base": 503,
-      "prix_comparaison": 584,
-      "variation": 81
+      "cle": "produit_chapelureredriverbridge250grs_",
+      "name": "Chapelure red river bridge 250grs",
+      "prix_base": 268,
+      "prix_comparaison": 279,
+      "variation": 11
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_packde6eaumineraleevian05lneedunesourcepreserveeaucoeurdesalpes_",
-      "name": "Pack de 6 Eau min\u00e9rale Evian\u2122 0.5L | N\u00e9e d\u2019une source pr\u00e9serv\u00e9e au c\u0153ur des Alpes",
-      "prix_base": 1003,
-      "prix_comparaison": 779,
-      "variation": -224
-    },
-    {
-      "cle": "produit_saucedesojalightredriverbridge625ml_",
-      "name": "Sauce de soja light red river bridge 625ml",
+      "cle": "produit_chapelureredriverbridge250grs_",
+      "name": "Chapelure red river bridge 250grs",
       "prix_base": 268,
       "prix_comparaison": 279,
       "variation": 11
-    },
-    {
-      "cle": "produit_saucedesojasushikimono500ml_",
-      "name": "Sauce de soja sushi kimono 500ml",
-      "prix_base": 337,
-      "prix_comparaison": 349,
-      "variation": 12
-    },
-    {
-      "cle": "produit_maisdouxmaisdor_",
-      "name": "Ma\u00efs Doux \u2013 Ma\u00efs d\u2019or\u2122",
-      "prix_base": 150,
-      "prix_comparaison": 164,
-      "variation": 14
-    },
-    {
-      "cle": "produit_cutter59x37x12mmdeli_",
-      "name": "Cutter 59x37x12mm Deli\u2122",
-      "prix_base": 28,
-      "prix_comparaison": 44,
-      "variation": 16
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_cutter59x37x12mmdeli_",
-      "name": "Cutter 59x37x12mm Deli\u2122",
-      "prix_base": 28,
-      "prix_comparaison": 44,
-      "indice_prix": 157.14285714285714
-    },
-    {
-      "cle": "produit_saucebolognaise200gr_",
-      "name": "Sauce Bolognaise 200gr",
-      "prix_base": 279,
-      "prix_comparaison": 428,
-      "indice_prix": 153.40501792114696
-    },
-    {
-      "cle": "produit_insecticidevolramp400mloro_",
-      "name": "Insecticide Vol-Ramp 400ML Oro",
-      "prix_base": 244,
-      "prix_comparaison": 369,
-      "indice_prix": 151.2295081967213
+      "cle": "produit_chapelureredriverbridge250grs_",
+      "name": "Chapelure red river bridge 250grs",
+      "prix_base": 268,
+      "prix_comparaison": 279,
+      "indice_prix": 104.1044776119403
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_packde6eaumineraleevian05lneedunesourcepreserveeaucoeurdesalpes_",
-      "name": "Pack de 6 Eau min\u00e9rale Evian\u2122 0.5L | N\u00e9e d\u2019une source pr\u00e9serv\u00e9e au c\u0153ur des Alpes",
-      "prix_base": 1003,
-      "prix_comparaison": 779,
-      "indice_prix": 77.66699900299103
-    },
-    {
-      "cle": "produit_saucedesojasushikimono500ml_",
-      "name": "Sauce de soja sushi kimono 500ml",
-      "prix_base": 337,
-      "prix_comparaison": 349,
-      "indice_prix": 103.56083086053413
-    },
-    {
-      "cle": "produit_saucedesojalightredriverbridge625ml_",
-      "name": "Sauce de soja light red river bridge 625ml",
+      "cle": "produit_chapelureredriverbridge250grs_",
+      "name": "Chapelure red river bridge 250grs",
       "prix_base": 268,
       "prix_comparaison": 279,
       "indice_prix": 104.1044776119403
