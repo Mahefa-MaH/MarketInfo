@@ -1,18 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "televiseurled_187488tvqledhisense85e7nq85215cm4kuhddolbyvisionsmarttv3xhdmiwifi6942351402758_html",
-      "name": "TV QLED - HISENSE - 85E7NQ - 85 (215 cm) - 4K UHD - Dolby Vision - Smart TV - 3xHDMI - WiFi",
-      "prix_base": 10680000,
-      "prix_comparaison": 10680000,
+      "cle": "piscinecompletekitpiscine_138986grekitpiscinehorssolaciergriseanthraciterondejunio480xh132cmlivreeavecfiltreasablesableechellet8412081314518_html",
+      "name": "GRE - Kit Piscine hors sol acier grise anthracite ronde Juni \u00d8480 x H132 cm (Livr\u00e9e avec filtre a sable + sable + \u00e9chelle + t",
+      "prix_base": 10464000,
+      "prix_comparaison": 10464000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "televiseurled_187826samsung85q70ctvqled85216cm4kuhd3840x2160120hzhdrsmarttvgaminghub4xhdmiwifi8806095484273_html",
-      "name": "SAMSUNG 85Q70C - TV QLED 85 (216 cm) - 4K UHD 3840x2160 - 120 Hz - HDR - Smart TV - Gaming HUB - 4xHDMI - WiFi",
-      "prix_base": 11959000,
-      "prix_comparaison": 11959000,
+      "cle": "piscinecompletekitpiscine_138985piscinehorssolovaleenaciergrisanthracitegreloucofiltrationasable8412081314556_html",
+      "name": "Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable",
+      "prix_base": 10973000,
+      "prix_comparaison": 10973000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
+      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
+      "prix_base": 17500000,
+      "prix_comparaison": 17500000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -2,15 +2,21 @@
 
 ## Ireto ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **TV QLED - HISENSE - 85E7NQ - 85 (215 cm) - 4K UHD - Dolby Vision - Smart TV - 3xHDMI - WiFi**
-   - Prix avant: 10,680,000 Ar
-   - Prix actuel: 10,680,000 Ar
+1. **GRE - Kit Piscine hors sol acier grise anthracite ronde Juni Ø480 x H132 cm (Livrée avec filtre a sable + sable + échelle + t**
+   - Prix avant: 10,464,000 Ar
+   - Prix actuel: 10,464,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **SAMSUNG 85Q70C - TV QLED 85 (216 cm) - 4K UHD 3840x2160 - 120 Hz - HDR - Smart TV - Gaming HUB - 4xHDMI - WiFi**
-   - Prix avant: 11,959,000 Ar
-   - Prix actuel: 11,959,000 Ar
+2. **Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable**
+   - Prix avant: 10,973,000 Ar
+   - Prix actuel: 10,973,000 Ar
+   - Variation: 0 Ar
+   - Indice de prix : 100.00
+
+3. **Onduleur APC Smart-UPS RV 10000VA 230V**
+   - Prix avant: 17,500,000 Ar
+   - Prix actuel: 17,500,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
