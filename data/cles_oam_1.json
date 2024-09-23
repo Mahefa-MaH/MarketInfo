@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
-      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
-      "prix_base": 11856000,
-      "prix_comparaison": 11856000,
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 12398000,
+      "prix_comparaison": 12398000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143096poeleaboisinvictakazangrandangle9kwbuches58cm3244336104439_html",
-      "name": "Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - B\u00fbches 58 cm",
-      "prix_base": 12382000,
-      "prix_comparaison": 12382000,
+      "cle": "tableplaquedecuissoninduction_144050tableinductionaspiranteboschser6pvq711h26enoir4foyershomeconnectl710xp522mm4242005433582_html",
+      "name": "Table induction aspirante - BOSCH SER6 - PVQ711H26E Noir - 4-foyers - Home Connect - L710xP522 mm",
+      "prix_base": 11638000,
+      "prix_comparaison": 11638000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143094poeleaboisinvictawilsonsurbanc8kwfontebuches55cm3244336482247_html",
-      "name": "Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - B\u00fbches 55 cm",
-      "prix_base": 16884000,
-      "prix_comparaison": 16884000,
+      "cle": "tableplaquedecuissoninduction_141174tableinductionaspiranteboschser6pvq811h26enoir4foyershomeconnectl802xp522mm4242005433612_html",
+      "name": "Table induction Aspirante - BOSCH SER6 - PVQ811H26E Noir - 4-foyers - Home Connect - L802xP522 mm",
+      "prix_base": 12422000,
+      "prix_comparaison": 12422000,
       "variation": 0,
       "indice_prix": 100.0
     }
