@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_187754poeleaboispanaderoinsertc101secodesign89kwbuches80cm8426964191059_html",
-      "name": "Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - B\u00fbches 80 cm",
-      "prix_base": 17259000,
-      "prix_comparaison": 17259000,
+      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
+      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
+      "prix_base": 17500000,
+      "prix_comparaison": 17500000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
-      "name": "Echafaudage roulant Neolium 200 Line 14m",
-      "prix_base": 37000000,
-      "prix_comparaison": 37000000,
+      "cle": "tablettetactile_141606appleipadpro202413wificellulaire2tonoirsideral0195949247064_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral",
+      "prix_base": 14092000,
+      "prix_comparaison": 14092000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
+      "cle": "tablettetactile_141602appleipadpro202413wificellulaire1tonoirsideral0195949246463_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral",
+      "prix_base": 11696000,
+      "prix_comparaison": 11696000,
       "variation": 0,
       "indice_prix": 100.0
     }

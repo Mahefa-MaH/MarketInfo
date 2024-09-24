@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Pilonneuse SP80-345x285 mm**
-   - Prix avant: 15,800,000 Ar
-   - Prix actuel: 15,800,000 Ar
+1. **Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Gris Sidéral**
+   - Prix avant: 13,280,000 Ar
+   - Prix actuel: 13,280,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Nettoyeur HP eau chaude 170 bars***
-   - Prix avant: 12,650,000 Ar
-   - Prix actuel: 12,650,000 Ar
+2. **Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent Nano-texturé**
+   - Prix avant: 11,911,000 Ar
+   - Prix actuel: 11,911,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Poele a granulés - INVICTA LODI 10 - Wifi - Noir**
-   - Prix avant: 14,218,000 Ar
-   - Prix actuel: 14,218,000 Ar
+3. **Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Argent Nano-texturé**
+   - Prix avant: 11,327,000 Ar
+   - Prix actuel: 11,327,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

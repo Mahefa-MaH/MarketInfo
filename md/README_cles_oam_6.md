@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - Bûches 50 cm**
-   - Prix avant: 15,758,000 Ar
-   - Prix actuel: 15,758,000 Ar
+1. **Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Noir sidéral Nano-texturé**
+   - Prix avant: 13,053,000 Ar
+   - Prix actuel: 13,053,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Poele a bois - PANADERO - Chopin 3V Ecodesign - 8,2 kw - Bûches 80 cm**
-   - Prix avant: 18,235,000 Ar
-   - Prix actuel: 18,235,000 Ar
+2. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Argent Nano-texturé**
+   - Prix avant: 12,478,000 Ar
+   - Prix actuel: 12,478,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Poele a bois - PANADERO - Hogar IZQ Ecodesign - 5,9 kw - Bûches 50 cm**
-   - Prix avant: 15,758,000 Ar
-   - Prix actuel: 15,758,000 Ar
+3. **Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sidéral**
+   - Prix avant: 12,432,000 Ar
+   - Prix actuel: 12,432,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

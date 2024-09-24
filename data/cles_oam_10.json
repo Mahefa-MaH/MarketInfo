@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 14633000,
-      "prix_comparaison": 14633000,
+      "cle": "tablettetactile_141566appleipadpro202411wificellulaire1toargent0195949230431_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Argent",
+      "prix_base": 10250000,
+      "prix_comparaison": 10250000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
-      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
-      "prix_base": 21450000,
-      "prix_comparaison": 21450000,
+      "cle": "tablettetactile_145050appleipadpro202413wificellulaire1tonoirsideralnanotexture0195949469787_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 12480000,
+      "prix_comparaison": 12480000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_100755coffretaoutils416200mz_html",
-      "name": "Coffret \u00e0 outils 416-200MZ",
-      "prix_base": 13200000,
-      "prix_comparaison": 13200000,
+      "cle": "tablettetactile_141569appleipadpro202411wificellulaire2tonoirsideral0195949230721_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral",
+      "prix_base": 12464000,
+      "prix_comparaison": 12464000,
       "variation": 0,
       "indice_prix": 100.0
     }

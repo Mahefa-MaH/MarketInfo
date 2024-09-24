@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_187753poeleaboispanaderohogarderecodesign59kwbuches50cm8426964190830_html",
-      "name": "Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - B\u00fbches 50 cm",
-      "prix_base": 15758000,
-      "prix_comparaison": 15758000,
+      "cle": "tablettetactile_145047appleipadpro202411wificellulaire2tonoirsideralnanotexture0195949469244_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 13053000,
+      "prix_comparaison": 13053000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187755poeleaboispanaderochopin3vecodesign82kwbuches80cm8426964280227_html",
-      "name": "Poele a bois - PANADERO - Chopin 3V Ecodesign - 8,2 kw - B\u00fbches 80 cm",
-      "prix_base": 18235000,
-      "prix_comparaison": 18235000,
+      "cle": "tablettetactile_145051appleipadpro202413wificellulaire1toargentnanotexture0195949470035_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Argent Nano-textur\u00e9",
+      "prix_base": 12478000,
+      "prix_comparaison": 12478000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187752poeleaboispanaderohogarizqecodesign59kwbuches50cm8426964190823_html",
-      "name": "Poele a bois - PANADERO - Hogar IZQ Ecodesign - 5,9 kw - B\u00fbches 50 cm",
-      "prix_base": 15758000,
-      "prix_comparaison": 15758000,
+      "cle": "tablettetactile_63219appleipadpro202211wificellular2togrissideral0194253278801_html",
+      "name": "Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sid\u00e9ral",
+      "prix_base": 12432000,
+      "prix_comparaison": 12432000,
       "variation": 0,
       "indice_prix": 100.0
     }

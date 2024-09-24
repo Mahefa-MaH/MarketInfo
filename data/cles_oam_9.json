@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_143097poeleaboisinvictaovatio5kwbuches32cm3244336149041_html",
-      "name": "Poele a bois - INVICTA Ovatio - 5 KW - b\u00fbches 32 cm",
-      "prix_base": 13132000,
-      "prix_comparaison": 13132000,
+      "cle": "tablettetactile_144303appleipadpro202411wificellulaire1tonoirsideralnanotexture0195949468742_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral Nano-textur\u00e9",
+      "prix_base": 10851000,
+      "prix_comparaison": 10851000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187746poeleaboispanaderosydneyecodesign74kwbuches50cm8426964182507_html",
-      "name": "Poele a bois - PANADERO - Sydney Ecodesign - 7,4 kw - B\u00fbches 50 cm",
-      "prix_base": 11872000,
-      "prix_comparaison": 11872000,
+      "cle": "tablettetactile_144310appleipadpro202413wifi1tonoirsideral0195949239731_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Noir sid\u00e9ral",
+      "prix_base": 10725000,
+      "prix_comparaison": 10725000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_144295poeleaboisinvictaode10kwfontebuches25cm3244339149444_html",
-      "name": "Poele a bois - INVICTA Ode - 10 KW - Fonte - B\u00fbches 25 cm",
-      "prix_base": 19135000,
-      "prix_comparaison": 19135000,
+      "cle": "tablettetactile_141570appleipadpro202411wifi2tonoirsideral0195949224041_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Noir sid\u00e9ral",
+      "prix_base": 11311000,
+      "prix_comparaison": 11311000,
       "variation": 0,
       "indice_prix": 100.0
     }

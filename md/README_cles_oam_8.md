@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Station totale électronique**
-   - Prix avant: 17,600,000 Ar
-   - Prix actuel: 17,600,000 Ar
+1. **Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Noir sidéral**
+   - Prix avant: 12,939,000 Ar
+   - Prix actuel: 12,939,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Betonnière 255L gasoil KM178F**
-   - Prix avant: 14,290,000 Ar
-   - Prix actuel: 14,290,000 Ar
+2. **Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Noir sidéral Nano-texturé**
+   - Prix avant: 11,326,000 Ar
+   - Prix actuel: 11,326,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Poele a bois - PANADERO - Alba Ecodesign - 9,5 kw - Bûches 50 cm**
-   - Prix avant: 12,901,000 Ar
-   - Prix actuel: 12,901,000 Ar
+3. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Argent**
+   - Prix avant: 11,922,000 Ar
+   - Prix actuel: 11,922,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

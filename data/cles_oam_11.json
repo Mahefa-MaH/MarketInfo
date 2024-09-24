@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
-      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "tablettetactile_141564appleipadpro202411wificellulaire1tonoirsideral0195949230141_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral",
+      "prix_base": 10238000,
+      "prix_comparaison": 10238000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cartegraphiqueinterne_136142msigeforcecartegraphiquertx4090suprimliquidx24go4711377019224_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM LIQUID X - 24 Go",
-      "prix_base": 10951000,
-      "prix_comparaison": 10951000,
+      "cle": "tablettetactile_141603appleipadpro202413wifi1toargent0195949240003_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Argent",
+      "prix_base": 10726000,
+      "prix_comparaison": 10726000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "cartegraphiqueinterne_85864msigeforcecartegraphiquertx4090suprimx24go4711377019200_html",
-      "name": "MSI - GeForce - Carte graphique - RTX 4090 - SUPRIM X - 24 Go",
-      "prix_base": 10113000,
-      "prix_comparaison": 10113000,
+      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
+      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
+      "prix_base": 12232000,
+      "prix_comparaison": 12232000,
       "variation": 0,
       "indice_prix": 100.0
     }
