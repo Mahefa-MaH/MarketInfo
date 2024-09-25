@@ -1,38 +1,87 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_chapelureredriverbridge250grs_",
-      "name": "Chapelure red river bridge 250grs",
-      "prix_base": 268,
-      "prix_comparaison": 279,
-      "variation": 11
+      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
+      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
+      "prix_base": 110,
+      "prix_comparaison": 165,
+      "variation": 55
+    },
+    {
+      "cle": "produit_mieldemokarana300g_",
+      "name": "Miel de Mokarana 300g",
+      "prix_base": 419,
+      "prix_comparaison": 420,
+      "variation": 1
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_chapelureredriverbridge250grs_",
-      "name": "Chapelure red river bridge 250grs",
-      "prix_base": 268,
-      "prix_comparaison": 279,
-      "variation": 11
+      "cle": "produit_mieldeucalyptus300g_",
+      "name": "Miel d\u2019eucalyptus 300g",
+      "prix_base": 408,
+      "prix_comparaison": 407,
+      "variation": -1
+    },
+    {
+      "cle": "produit_mieldemokarana300g_",
+      "name": "Miel de Mokarana 300g",
+      "prix_base": 419,
+      "prix_comparaison": 420,
+      "variation": 1
+    },
+    {
+      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
+      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
+      "prix_base": 110,
+      "prix_comparaison": 165,
+      "variation": 55
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_chapelureredriverbridge250grs_",
-      "name": "Chapelure red river bridge 250grs",
-      "prix_base": 268,
-      "prix_comparaison": 279,
-      "indice_prix": 104.1044776119403
+      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
+      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
+      "prix_base": 110,
+      "prix_comparaison": 165,
+      "indice_prix": 150.0
+    },
+    {
+      "cle": "produit_mieldemokarana300g_",
+      "name": "Miel de Mokarana 300g",
+      "prix_base": 419,
+      "prix_comparaison": 420,
+      "indice_prix": 100.23866348448688
+    },
+    {
+      "cle": "produit_mieldeucalyptus300g_",
+      "name": "Miel d\u2019eucalyptus 300g",
+      "prix_base": 408,
+      "prix_comparaison": 407,
+      "indice_prix": 99.75490196078431
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_chapelureredriverbridge250grs_",
-      "name": "Chapelure red river bridge 250grs",
-      "prix_base": 268,
-      "prix_comparaison": 279,
-      "indice_prix": 104.1044776119403
+      "cle": "produit_mieldeucalyptus300g_",
+      "name": "Miel d\u2019eucalyptus 300g",
+      "prix_base": 408,
+      "prix_comparaison": 407,
+      "indice_prix": 99.75490196078431
+    },
+    {
+      "cle": "produit_mieldemokarana300g_",
+      "name": "Miel de Mokarana 300g",
+      "prix_base": 419,
+      "prix_comparaison": 420,
+      "indice_prix": 100.23866348448688
+    },
+    {
+      "cle": "produit_papayefraichemure1pieceaconsommerlejourmeme2_",
+      "name": "Papaye fra\u00eeche m\u00fbre 1 pi\u00e8ce | A consommer le jour m\u00eame",
+      "prix_base": 110,
+      "prix_comparaison": 165,
+      "indice_prix": 150.0
     }
   ]
 }

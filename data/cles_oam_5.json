@@ -1,18 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_144313appleipadpro202413wifi2tonoirsideralnanotexture0195949468261_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
-      "prix_base": 13540000,
-      "prix_comparaison": 13540000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "tablettetactile_144306appleipadpro202411wifi2toargent0195949224300_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent",
-      "prix_base": 11314000,
-      "prix_comparaison": 11314000,
+      "cle": "tablettetactile_141564appleipadpro202411wificellulaire1tonoirsideral0195949230141_html",
+      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral",
+      "prix_base": 10238000,
+      "prix_comparaison": 10238000,
       "variation": 0,
       "indice_prix": 100.0
     },
@@ -21,6 +13,14 @@
       "name": "Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Argent",
       "prix_base": 12938000,
       "prix_comparaison": 12938000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "tablettetactile_141607appleipadpro202413wificellulaire2toargent0195949247361_html",
+      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Argent",
+      "prix_base": 14093000,
+      "prix_comparaison": 14093000,
       "variation": 0,
       "indice_prix": 100.0
     }
