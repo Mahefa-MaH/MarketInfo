@@ -1,10 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
-      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
-      "prix_base": 12374000,
-      "prix_comparaison": 12374000,
+      "cle": "outillage_103928betonniere255lgasoilkm178f_html",
+      "name": "Betonni\u00e8re 255L gasoil KM178F",
+      "prix_base": 14290000,
+      "prix_comparaison": 14290000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
+      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
+      "prix_base": 13153000,
+      "prix_comparaison": 13153000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
+      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
+      "prix_base": 10302000,
+      "prix_comparaison": 10302000,
       "variation": 0,
       "indice_prix": 100.0
     }

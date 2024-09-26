@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Noir sidéral Nano-texturé**
-   - Prix avant: 11,326,000 Ar
-   - Prix actuel: 11,326,000 Ar
+1. **Poele a bois - PANADERO - Hogar IZQ Ecodesign - 5,9 kw - Bûches 50 cm**
+   - Prix avant: 15,758,000 Ar
+   - Prix actuel: 15,758,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Argent**
-   - Prix avant: 10,250,000 Ar
-   - Prix actuel: 10,250,000 Ar
+2. **Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - Bûches 80 cm**
+   - Prix avant: 17,259,000 Ar
+   - Prix actuel: 17,259,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Noir sidéral**
-   - Prix avant: 12,939,000 Ar
-   - Prix actuel: 12,939,000 Ar
+3. **Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - Bûches 50 cm**
+   - Prix avant: 15,758,000 Ar
+   - Prix actuel: 15,758,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

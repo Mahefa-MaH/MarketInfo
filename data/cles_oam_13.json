@@ -1,28 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_144303appleipadpro202411wificellulaire1tonoirsideralnanotexture0195949468742_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral Nano-textur\u00e9",
-      "prix_base": 10948000,
-      "prix_comparaison": 10948000,
+      "cle": "poeleabois_144295poeleaboisinvictaode10kwfontebuches25cm3244339149444_html",
+      "name": "Poele a bois - INVICTA Ode - 10 KW - Fonte - B\u00fbches 25 cm",
+      "prix_base": 19135000,
+      "prix_comparaison": 19135000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "smartphone_144551samsunggalaxyzfold6smartphonebleunuit1to8806095616414_html",
-      "name": "Smartphone Samsung GALAXY Z FOLD6 1To BLEU 5G",
-      "prix_base": 10596000,
-      "prix_comparaison": 10596000,
+      "cle": "poeleabois_187755poeleaboispanaderochopin3vecodesign82kwbuches80cm8426964280227_html",
+      "name": "Poele a bois - PANADERO - Chopin 3V Ecodesign - 8,2 kw - B\u00fbches 80 cm",
+      "prix_base": 18235000,
+      "prix_comparaison": 18235000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "smartphone_144549samsunggalaxyzfold6smartphonerose1to8806095616179_html",
-      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Rose 1 To",
-      "prix_base": 10595000,
-      "prix_comparaison": 10595000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 11619000,
+      "prix_comparaison": 11622000,
+      "variation": 3000,
+      "indice_prix": 100.0258197779499
     }
   ]
 }

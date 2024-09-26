@@ -1,18 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_144306appleipadpro202411wifi2toargent0195949224300_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent",
-      "prix_base": 11314000,
-      "prix_comparaison": 11314000,
+      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
+      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_145048appleipadpro202411wificellulaire2toargent0195949231018_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Argent",
-      "prix_base": 12467000,
-      "prix_comparaison": 12467000,
+      "cle": "outillage_100755coffretaoutils416200mz_html",
+      "name": "Coffret \u00e0 outils 416-200MZ",
+      "prix_base": 13200000,
+      "prix_comparaison": 13200000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
+      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
+      "prix_base": 10450000,
+      "prix_comparaison": 10450000,
       "variation": 0,
       "indice_prix": 100.0
     }

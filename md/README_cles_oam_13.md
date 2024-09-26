@@ -2,21 +2,21 @@
 
 ## Ireto indray ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Noir sidéral Nano-texturé**
-   - Prix avant: 10,948,000 Ar
-   - Prix actuel: 10,948,000 Ar
+1. **Poele a bois - INVICTA Ode - 10 KW - Fonte - Bûches 25 cm**
+   - Prix avant: 19,135,000 Ar
+   - Prix actuel: 19,135,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Smartphone Samsung GALAXY Z FOLD6 1To BLEU 5G**
-   - Prix avant: 10,596,000 Ar
-   - Prix actuel: 10,596,000 Ar
+2. **Poele a bois - PANADERO - Chopin 3V Ecodesign - 8,2 kw - Bûches 80 cm**
+   - Prix avant: 18,235,000 Ar
+   - Prix actuel: 18,235,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **SAMSUNG Galaxy Z Fold6 Smartphone Rose 1 To**
-   - Prix avant: 10,595,000 Ar
-   - Prix actuel: 10,595,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
+3. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sidéral - Azerty**
+   - Prix avant: 11,619,000 Ar
+   - Prix actuel: 11,622,000 Ar
+   - Variation: +3,000 Ar
+   - Indice de prix : 100.03
 

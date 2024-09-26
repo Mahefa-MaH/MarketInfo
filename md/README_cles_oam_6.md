@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Argent Nano-texturé**
-   - Prix avant: 11,327,000 Ar
-   - Prix actuel: 11,327,000 Ar
+1. **Pilonneuse SP80-345x285 mm**
+   - Prix avant: 15,800,000 Ar
+   - Prix actuel: 15,800,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Argent Nano-texturé**
-   - Prix avant: 12,478,000 Ar
-   - Prix actuel: 12,478,000 Ar
+2. **Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty**
+   - Prix avant: 10,111,000 Ar
+   - Prix actuel: 10,111,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Argent Nano-texturé**
-   - Prix avant: 13,064,000 Ar
-   - Prix actuel: 13,064,000 Ar
+3. **PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16” QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY**
+   - Prix avant: 10,413,000 Ar
+   - Prix actuel: 10,413,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

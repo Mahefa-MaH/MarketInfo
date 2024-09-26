@@ -3,26 +3,18 @@
     {
       "cle": "ordinateurportable_133170apple16macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949073939_html",
       "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
-      "prix_base": 14682000,
-      "prix_comparaison": 14682000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "prix_base": 13577000,
+      "prix_comparaison": 13637000,
+      "variation": 60000,
+      "indice_prix": 100.44192384179127
     },
     {
-      "cle": "ordinateurportable_133947apple16macbookprom3max2023ram48gostockage1toargentazerty0195949185601_html",
-      "name": "Apple - 16 - MacBook Pro M3 Max (2023) - RAM 48Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 21448000,
-      "prix_comparaison": 21448000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ordinateurportable_135417apple16macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949074813_html",
-      "name": "MacBook Apple MacBook Pro 16 1To SSD 36Go RAM Puce M3 Max CPU 14 coeurs GPU 30 coeurs Noir sideral Nouveau",
-      "prix_base": 19291000,
-      "prix_comparaison": 19291000,
-      "variation": 0,
-      "indice_prix": 100.0
+      "cle": "ordinateurportable_140306apple14macbookprom32024ram16gostockage1togrissideralazerty0195949640490_html",
+      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sid\u00e9ral - AZERTY",
+      "prix_base": 11448000,
+      "prix_comparaison": 11537000,
+      "variation": 89000,
+      "indice_prix": 100.777428371768
     }
   ]
 }

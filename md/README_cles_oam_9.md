@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Noir sidéral Nano-texturé**
-   - Prix avant: 13,540,000 Ar
-   - Prix actuel: 13,540,000 Ar
+1. **Pompe pneumatique Airless pro sur chariot 322 bars***
+   - Prix avant: 21,450,000 Ar
+   - Prix actuel: 21,450,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent Nano-texturé**
-   - Prix avant: 11,911,000 Ar
-   - Prix actuel: 11,911,000 Ar
+2. **Echafaudage roulant Neolium 200 Line 14m**
+   - Prix avant: 37,000,000 Ar
+   - Prix actuel: 37,000,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Noir sidéral Nano-texturé**
-   - Prix avant: 14,692,000 Ar
-   - Prix actuel: 14,692,000 Ar
+3. **Station totale électronique**
+   - Prix avant: 17,600,000 Ar
+   - Prix actuel: 17,600,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

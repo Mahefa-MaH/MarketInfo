@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_141564appleipadpro202411wificellulaire1tonoirsideral0195949230141_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral",
-      "prix_base": 10238000,
-      "prix_comparaison": 10238000,
+      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
+      "name": "Nettoyeur HP eau chaude 170 bars*",
+      "prix_base": 12650000,
+      "prix_comparaison": 12650000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_141608appleipadpro202413wifi2toargent0195949240546_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Argent",
-      "prix_base": 12938000,
-      "prix_comparaison": 12938000,
+      "cle": "groupeelectrogene_135742groupeelectrogenedieselzeuzsilencieux6300wdemarrageelectrique3283494501803_html",
+      "name": "Groupe \u00e9lectrogene diesel ZEUZ - Silencieux - 6300 W - D\u00e9marrage \u00e9lectrique",
+      "prix_base": 13354000,
+      "prix_comparaison": 13354000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_141607appleipadpro202413wificellulaire2toargent0195949247361_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Argent",
-      "prix_base": 14093000,
-      "prix_comparaison": 14093000,
+      "cle": "poeleagranulesetpellets_144296poeleagranulesinvictalodi10wifinoir3244339419745_html",
+      "name": "Poele a granul\u00e9s - INVICTA LODI 10 - Wifi - Noir",
+      "prix_base": 14219000,
+      "prix_comparaison": 14219000,
       "variation": 0,
       "indice_prix": 100.0
     }

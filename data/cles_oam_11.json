@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_141564appleipadpro202411wificellulaire1tonoirsideral0195949230141_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 1 To - Noir sid\u00e9ral",
-      "prix_base": 10238000,
-      "prix_comparaison": 10238000,
+      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
+      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
+      "prix_base": 11900000,
+      "prix_comparaison": 11900000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_141603appleipadpro202413wifi1toargent0195949240003_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Argent",
-      "prix_base": 10726000,
-      "prix_comparaison": 10726000,
+      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
+      "name": "Poele a bois en fonte - INVICTA - mandorin",
+      "prix_base": 10130000,
+      "prix_comparaison": 10130000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "caveavin_137011boschcaveavinposelibreportenoirser6classeenergiegh18600cmxl6000cmxp6100cm4242005193561_html",
-      "name": "BOSCH - Cave a vin pose-libre - Porte: noir - SER6 - Classe \u00e9nergie G - H: 186,00 cm x L: 60,00 cm x P: 61,00 cm",
-      "prix_base": 12232000,
-      "prix_comparaison": 12232000,
+      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
+      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
+      "prix_base": 12368000,
+      "prix_comparaison": 12368000,
       "variation": 0,
       "indice_prix": 100.0
     }

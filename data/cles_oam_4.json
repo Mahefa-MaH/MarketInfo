@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_141569appleipadpro202411wificellulaire2tonoirsideral0195949230721_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral",
-      "prix_base": 12464000,
-      "prix_comparaison": 12464000,
+      "cle": "poeleabois_187746poeleaboispanaderosydneyecodesign74kwbuches50cm8426964182507_html",
+      "name": "Poele a bois - PANADERO - Sydney Ecodesign - 7,4 kw - B\u00fbches 50 cm",
+      "prix_base": 11872000,
+      "prix_comparaison": 11872000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_143115appleipadpro202413wificellulaire1toargent0195949246760_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 1 To - Argent",
-      "prix_base": 11922000,
-      "prix_comparaison": 11922000,
+      "cle": "poeleabois_143095poeleaboisinvictaneosenraccordableacier8kwbuches40cm3244339488369_html",
+      "name": "Poele a bois- INVICTA Neosen Raccordable - Acier - 8KW - B\u00fbches 40 cm",
+      "prix_base": 10881000,
+      "prix_comparaison": 10881000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_144310appleipadpro202413wifi1tonoirsideral0195949239731_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 1 To - Noir sid\u00e9ral",
-      "prix_base": 10725000,
-      "prix_comparaison": 10725000,
+      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
+      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
+      "prix_base": 11856000,
+      "prix_comparaison": 11856000,
       "variation": 0,
       "indice_prix": 100.0
     }

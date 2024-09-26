@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tablettetactile_144313appleipadpro202413wifi2tonoirsideralnanotexture0195949468261_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
-      "prix_base": 13540000,
-      "prix_comparaison": 13540000,
+      "cle": "outillage_101880pompepneumatiqueairlessprosurchariot322bars_html",
+      "name": "Pompe pneumatique Airless pro sur chariot 322 bars*",
+      "prix_base": 21450000,
+      "prix_comparaison": 21450000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_145049appleipadpro202411wifi2toargentnanotexture0195949467578_html",
-      "name": "Apple - iPad Pro (2024) - 11 - WiFi - 2 To - Argent Nano-textur\u00e9",
-      "prix_base": 11911000,
-      "prix_comparaison": 11911000,
+      "cle": "outillage_102884echafaudageroulantneolium200line14m_html",
+      "name": "Echafaudage roulant Neolium 200 Line 14m",
+      "prix_base": 37000000,
+      "prix_comparaison": 37000000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tablettetactile_145053appleipadpro202413wificellulaire2tonoirsideralnanotexture0195949470288_html",
-      "name": "Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Noir sid\u00e9ral Nano-textur\u00e9",
-      "prix_base": 14692000,
-      "prix_comparaison": 14692000,
+      "cle": "outillage_104176stationtotaleelectronique_html",
+      "name": "Station totale \u00e9lectronique",
+      "prix_base": 17600000,
+      "prix_comparaison": 17600000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -8,15 +8,15 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Riz rouge Malgache Supermarché.mg™ 5kg | Vary mena | Origine Madagascar**
-   - Prix avant: 454 Ar
-   - Prix actuel: 454 Ar
+2. **Huile de Soja Hina™ 1L | Riche en Oméga 3 et en Vitamine E**
+   - Prix avant: 225 Ar
+   - Prix actuel: 225 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Huile de Soja Hina™ 1L | Riche en Oméga 3 et en Vitamine E**
-   - Prix avant: 225 Ar
-   - Prix actuel: 225 Ar
+3. **Huile pure de soja 1l**
+   - Prix avant: 275 Ar
+   - Prix actuel: 275 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

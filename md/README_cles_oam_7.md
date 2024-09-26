@@ -2,21 +2,21 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - iPad Pro (2022) - 12.9 - WiFi - 2 To - Gris Sidéral**
-   - Prix avant: 13,280,000 Ar
-   - Prix actuel: 13,280,000 Ar
+1. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 14,049,000 Ar
+   - Prix actuel: 14,049,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - iPad Pro (2024) - 13 - WiFi + Cellulaire - 2 To - Argent Nano-texturé**
-   - Prix avant: 14,693,000 Ar
-   - Prix actuel: 14,693,000 Ar
+2. **PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3” QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY**
+   - Prix avant: 13,863,000 Ar
+   - Prix actuel: 13,863,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - iPad Pro (2022) - 11 - WiFi + Cellular - 2 To - Gris Sidéral**
-   - Prix avant: 12,432,000 Ar
-   - Prix actuel: 12,432,000 Ar
+3. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 17,971,000 Ar
+   - Prix actuel: 17,971,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
