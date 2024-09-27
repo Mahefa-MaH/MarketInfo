@@ -1,150 +1,150 @@
 {
   "prix_augmentes": [
     {
-      "cle": "offrestbloc_123795champignonnoirfin200g_html",
-      "name": "Champignon noir fin 200g",
-      "prix_base": 29000,
-      "prix_comparaison": 41900,
-      "variation": 12900
+      "cle": "bracelets_184906braceletfemmemajorica125160120000101_html",
+      "name": "Bracelet Femme Majorica 12516.01.2.000.010.1",
+      "prix_base": 2967000,
+      "prix_comparaison": 3547000,
+      "variation": 580000
     },
     {
-      "cle": "conservesautreslegumes_130711aspergespicnicblanches110g_html",
-      "name": "Asperges Pic Nic blanches 110g",
-      "prix_base": 7500,
-      "prix_comparaison": 11500,
-      "variation": 4000
+      "cle": "bracelets_182159braceletfemmemichaelkorsmkj7959710_html",
+      "name": "Bracelet Femme Michael Kors MKJ7959710",
+      "prix_base": 1150000,
+      "prix_comparaison": 1377000,
+      "variation": 227000
     },
     {
-      "cle": "conservespoissons_131165morceauxdethonlistao280g_html",
-      "name": "Morceaux de thon listao 280g",
-      "prix_base": 19900,
-      "prix_comparaison": 21900,
-      "variation": 2000
+      "cle": "bracelets_182168braceletfemmemichaelkorsmkj7835710_html",
+      "name": "Bracelet Femme Michael Kors MKJ7835710",
+      "prix_base": 1150000,
+      "prix_comparaison": 1377000,
+      "variation": 227000
     },
     {
-      "cle": "conservesautreslegumes_130772cursdepalmiers250g_html",
-      "name": "C\u0153urs de palmiers 250g",
-      "prix_base": 19900,
-      "prix_comparaison": 21900,
-      "variation": 2000
+      "cle": "bracelets_184967braceletfemmealbertmwsox00206s_html",
+      "name": "Bracelet Femme Albert M. WSOX00206.S",
+      "prix_base": 1119000,
+      "prix_comparaison": 1307000,
+      "variation": 188000
     },
     {
-      "cle": "sauceschaudes_134442saucebolognaiseviandeextrasavoureuse680g_html",
-      "name": "Sauce bolognaise viande extra savoureuse 680g",
-      "prix_base": 24900,
-      "prix_comparaison": 26500,
-      "variation": 1600
+      "cle": "bracelets_185024braceletfemmemajorica155680120000101_html",
+      "name": "Bracelet Femme Majorica 15568.01.2.000.010.1",
+      "prix_base": 1061000,
+      "prix_comparaison": 1239000,
+      "variation": 178000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "saucesfroides_134423moutardededijonforteetonctueuse150g_html",
-      "name": "Moutarde de Dijon forte et onctueuse 150g",
-      "prix_base": 8300,
-      "prix_comparaison": 8600,
-      "variation": 300
+      "cle": "bracelets_171607bracelethommepolicepeagb00349024894816139063_html",
+      "name": "Bracelet Homme Police PEAGB0034902",
+      "prix_base": 361848,
+      "prix_comparaison": 362000,
+      "variation": 152
     },
     {
-      "cle": "saucesfroides_134376moutardemiforte350g_html",
-      "name": "Moutarde mi-forte 350g",
-      "prix_base": 11500,
-      "prix_comparaison": 11800,
-      "variation": 300
+      "cle": "bracelets_168775braceletfemmekarllagerfeld548357519cm9009654835755_html",
+      "name": "Bracelet Femme Karl Lagerfeld 5483575 19 cm",
+      "prix_base": 392840,
+      "prix_comparaison": 393000,
+      "variation": 160
     },
     {
-      "cle": "conservespoissons_130738saladeauthonpiemontaise250g_html",
-      "name": "Salade au thon pi\u00e9montaise 250g",
-      "prix_base": 12500,
-      "prix_comparaison": 12900,
-      "variation": 400
+      "cle": "bracelets_173745braceletunisexetomhopetm0137350087961408_html",
+      "name": "Bracelet Unisexe Tom Hope TM013",
+      "prix_base": 137828,
+      "prix_comparaison": 138000,
+      "variation": 172
     },
     {
-      "cle": "condiments_130869olivesalafarcedepoivron120g_html",
-      "name": "Olives \u00e0 la farce de poivron 120g",
-      "prix_base": 5500,
-      "prix_comparaison": 5900,
-      "variation": 400
+      "cle": "bracelets_172168braceletfemmeradiantry00000418cm8434103480148_html",
+      "name": "Bracelet Femme Radiant RY000004 18 cm",
+      "prix_base": 137828,
+      "prix_comparaison": 138000,
+      "variation": 172
     },
     {
-      "cle": "potages_134330veloutedelegumes1l_html",
-      "name": "Velout\u00e9 de l\u00e9gumes 1L",
-      "prix_base": 9500,
-      "prix_comparaison": 9900,
-      "variation": 400
+      "cle": "bracelets_171646bracelethommepolicepj26490blc0121cm4895220913096_html",
+      "name": "Bracelet Homme Police PJ26490BLC,01 21 cm",
+      "prix_base": 149788,
+      "prix_comparaison": 150000,
+      "variation": 212
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "conservesautreslegumes_130711aspergespicnicblanches110g_html",
-      "name": "Asperges Pic Nic blanches 110g",
-      "prix_base": 7500,
-      "prix_comparaison": 11500,
-      "indice_prix": 153.33333333333334
+      "cle": "bracelets_170186braceletfemmemorellatoscz101319cm_html",
+      "name": "Bracelet Femme Morellato SCZ1013 19 cm",
+      "prix_base": 131000,
+      "prix_comparaison": 206000,
+      "indice_prix": 157.25190839694656
     },
     {
-      "cle": "offrestbloc_123795champignonnoirfin200g_html",
-      "name": "Champignon noir fin 200g",
-      "prix_base": 29000,
-      "prix_comparaison": 41900,
-      "indice_prix": 144.48275862068965
+      "cle": "bracelets_170185braceletfemmemorellatoscz104919cm_html",
+      "name": "Bracelet Femme Morellato SCZ1049 19 cm",
+      "prix_base": 138000,
+      "prix_comparaison": 216000,
+      "indice_prix": 156.52173913043478
     },
     {
-      "cle": "riz_130837rizcomplet10min500g_html",
-      "name": "Riz complet 10 min 500g",
-      "prix_base": 8400,
-      "prix_comparaison": 9900,
-      "indice_prix": 117.85714285714286
+      "cle": "bracelets_170192braceletfemmemorellatosaes0719cm_html",
+      "name": "Bracelet Femme Morellato SAES07 19 cm",
+      "prix_base": 192000,
+      "prix_comparaison": 299000,
+      "indice_prix": 155.72916666666666
     },
     {
-      "cle": "bouillonsaidesculinaires_134481bouillondevolailledegraisse120g_html",
-      "name": "Bouillon de volaille d\u00e9graiss\u00e9 120g",
-      "prix_base": 6900,
-      "prix_comparaison": 7900,
-      "indice_prix": 114.4927536231884
+      "cle": "perlesdeverre_173635perledeverrefemmetimeforcehm031cargente13cm8431571015094_html",
+      "name": "Perle de verre Femme Time Force HM031C Argent\u00e9 1,3 cm",
+      "prix_base": 64000,
+      "prix_comparaison": 81000,
+      "indice_prix": 126.5625
     },
     {
-      "cle": "sauceschaudes_134371saucepournems90g_html",
-      "name": "Sauce pour Nems 90g",
-      "prix_base": 8500,
-      "prix_comparaison": 9500,
-      "indice_prix": 111.76470588235294
+      "cle": "perlesdeverre_173639perledeverrefemmetimeforcehm014cargente17cm8431571014929_html",
+      "name": "Perle de verre Femme Time Force HM014C Argent\u00e9 1,7 cm",
+      "prix_base": 64000,
+      "prix_comparaison": 81000,
+      "indice_prix": 126.5625
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "saucesfroides_134376moutardemiforte350g_html",
-      "name": "Moutarde mi-forte 350g",
-      "prix_base": 11500,
-      "prix_comparaison": 11800,
-      "indice_prix": 102.6086956521739
+      "cle": "bracelets_168775braceletfemmekarllagerfeld548357519cm9009654835755_html",
+      "name": "Bracelet Femme Karl Lagerfeld 5483575 19 cm",
+      "prix_base": 392840,
+      "prix_comparaison": 393000,
+      "indice_prix": 100.04072904999491
     },
     {
-      "cle": "conservespoissons_130738saladeauthonpiemontaise250g_html",
-      "name": "Salade au thon pi\u00e9montaise 250g",
-      "prix_base": 12500,
-      "prix_comparaison": 12900,
-      "indice_prix": 103.2
+      "cle": "bracelets_171607bracelethommepolicepeagb00349024894816139063_html",
+      "name": "Bracelet Homme Police PEAGB0034902",
+      "prix_base": 361848,
+      "prix_comparaison": 362000,
+      "indice_prix": 100.04200658840176
     },
     {
-      "cle": "conserveschampignons_131004champignonsdepariseminces3x115g_html",
-      "name": "Champignons de paris \u00e9minc\u00e9s 3x115g",
-      "prix_base": 18000,
-      "prix_comparaison": 18600,
-      "indice_prix": 103.33333333333333
+      "cle": "bracelets_168769braceletfemmekarllagerfeld551220319cm9009655122038_html",
+      "name": "Bracelet Femme Karl Lagerfeld 5512203 19 cm",
+      "prix_base": 523423,
+      "prix_comparaison": 524000,
+      "indice_prix": 100.11023588951957
     },
     {
-      "cle": "saucesfroides_134423moutardededijonforteetonctueuse150g_html",
-      "name": "Moutarde de Dijon forte et onctueuse 150g",
-      "prix_base": 8300,
-      "prix_comparaison": 8600,
-      "indice_prix": 103.6144578313253
+      "cle": "bracelets_173745braceletunisexetomhopetm0137350087961408_html",
+      "name": "Bracelet Unisexe Tom Hope TM013",
+      "prix_base": 137828,
+      "prix_comparaison": 138000,
+      "indice_prix": 100.12479322053574
     },
     {
-      "cle": "conserveschampignons_131117champignonsdeparispiedsetmorceaux460g_html",
-      "name": "Champignons de paris pieds et morceaux 460g",
-      "prix_base": 15900,
-      "prix_comparaison": 16500,
-      "indice_prix": 103.77358490566037
+      "cle": "bracelets_172168braceletfemmeradiantry00000418cm8434103480148_html",
+      "name": "Bracelet Femme Radiant RY000004 18 cm",
+      "prix_base": 137828,
+      "prix_comparaison": 138000,
+      "indice_prix": 100.12479322053574
     }
   ]
 }

@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Poele a bois - PANADERO - Hogar IZQ Ecodesign - 5,9 kw - Bûches 50 cm**
-   - Prix avant: 15,758,000 Ar
-   - Prix actuel: 15,758,000 Ar
+1. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sidéral - Azerty**
+   - Prix avant: 11,622,000 Ar
+   - Prix actuel: 11,622,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - Bûches 80 cm**
-   - Prix avant: 17,259,000 Ar
-   - Prix actuel: 17,259,000 Ar
+2. **PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3” QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY**
+   - Prix avant: 13,863,000 Ar
+   - Prix actuel: 13,863,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - Bûches 50 cm**
-   - Prix avant: 15,758,000 Ar
-   - Prix actuel: 15,758,000 Ar
+3. **Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sidéral - AZERTY**
+   - Prix avant: 11,537,000 Ar
+   - Prix actuel: 11,537,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

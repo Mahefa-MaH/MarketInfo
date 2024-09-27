@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_143096poeleaboisinvictakazangrandangle9kwbuches58cm3244336104439_html",
-      "name": "Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - B\u00fbches 58 cm",
-      "prix_base": 12382000,
-      "prix_comparaison": 12382000,
+      "cle": "ordinateurportable_135417apple16macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949074813_html",
+      "name": "MacBook Apple MacBook Pro 16 1To SSD 36Go RAM Puce M3 Max CPU 14 coeurs GPU 30 coeurs Noir sideral Nouveau",
+      "prix_base": 19594000,
+      "prix_comparaison": 19594000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
-      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
-      "prix_base": 12500000,
-      "prix_comparaison": 12500000,
+      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 10111000,
+      "prix_comparaison": 10111000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143094poeleaboisinvictawilsonsurbanc8kwfontebuches55cm3244336482247_html",
-      "name": "Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - B\u00fbches 55 cm",
-      "prix_base": 16884000,
-      "prix_comparaison": 16884000,
+      "cle": "ordinateurportable_140307apple14macbookprom32024ram16gostockage1toargentazerty0195949640940_html",
+      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Argent - AZERTY",
+      "prix_base": 11797000,
+      "prix_comparaison": 11797000,
       "variation": 0,
       "indice_prix": 100.0
     }

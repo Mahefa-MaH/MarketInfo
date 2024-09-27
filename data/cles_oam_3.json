@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_187752poeleaboispanaderohogarizqecodesign59kwbuches50cm8426964190823_html",
-      "name": "Poele a bois - PANADERO - Hogar IZQ Ecodesign - 5,9 kw - B\u00fbches 50 cm",
-      "prix_base": 15758000,
-      "prix_comparaison": 15758000,
+      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 11622000,
+      "prix_comparaison": 11622000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187754poeleaboispanaderoinsertc101secodesign89kwbuches80cm8426964191059_html",
-      "name": "Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - B\u00fbches 80 cm",
-      "prix_base": 17259000,
-      "prix_comparaison": 17259000,
+      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
+      "prix_base": 13863000,
+      "prix_comparaison": 13863000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187753poeleaboispanaderohogarderecodesign59kwbuches50cm8426964190830_html",
-      "name": "Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - B\u00fbches 50 cm",
-      "prix_base": 15758000,
-      "prix_comparaison": 15758000,
+      "cle": "ordinateurportable_140306apple14macbookprom32024ram16gostockage1togrissideralazerty0195949640490_html",
+      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sid\u00e9ral - AZERTY",
+      "prix_base": 11537000,
+      "prix_comparaison": 11537000,
       "variation": 0,
       "indice_prix": 100.0
     }
