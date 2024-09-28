@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133931apple14macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949077456_html",
-      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 17971000,
-      "prix_comparaison": 17971000,
+      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
+      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
+      "prix_base": 11284000,
+      "prix_comparaison": 11284000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_137456pcportablegamingerazernberazermajorx2016qhd240hzi914900hx32gossd1tohdd1tortx4070azerty4061275228540_html",
-      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY",
-      "prix_base": 10413000,
-      "prix_comparaison": 10413000,
+      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
+      "name": "Poele a bois en fonte - INVICTA - mandorin",
+      "prix_base": 10130000,
+      "prix_comparaison": 10130000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_137454pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tohdd1tortx4090azerty4061275228335_html",
-      "name": "PC Portable Gamer ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4090 - AZERTY",
-      "prix_base": 15731000,
-      "prix_comparaison": 15731000,
+      "cle": "poeleagranulesetpellets_144296poeleagranulesinvictalodi10wifinoir3244339419745_html",
+      "name": "Poele a granul\u00e9s - INVICTA LODI 10 - Wifi - Noir",
+      "prix_base": 14219000,
+      "prix_comparaison": 14219000,
       "variation": 0,
       "indice_prix": 100.0
     }

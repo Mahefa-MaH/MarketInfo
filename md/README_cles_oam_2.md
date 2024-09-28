@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sidéral - Azerty**
-   - Prix avant: 14,049,000 Ar
-   - Prix actuel: 14,049,000 Ar
+1. **Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - Bûches 80 cm**
+   - Prix avant: 16,848,000 Ar
+   - Prix actuel: 16,848,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sidéral - Azerty**
-   - Prix avant: 10,112,000 Ar
-   - Prix actuel: 10,112,000 Ar
+2. **Poele a bois - INVICTA Ode - 10 KW - Fonte - Bûches 25 cm**
+   - Prix avant: 17,634,000 Ar
+   - Prix actuel: 17,634,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sidéral - Azerty**
-   - Prix avant: 13,637,000 Ar
-   - Prix actuel: 13,637,000 Ar
+3. **Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - Bûches 50 cm**
+   - Prix avant: 14,487,000 Ar
+   - Prix actuel: 14,487,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

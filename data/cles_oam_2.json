@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133930apple14macbookprom3pro2023ram18gostockage1tonoirsideralazerty0195949077012_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
-      "prix_base": 14049000,
-      "prix_comparaison": 14049000,
+      "cle": "poeleabois_187754poeleaboispanaderoinsertc101secodesign89kwbuches80cm8426964191059_html",
+      "name": "Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - B\u00fbches 80 cm",
+      "prix_base": 16848000,
+      "prix_comparaison": 16848000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133945apple14macbookprom32023ram8gostockage1togrissideralazerty0195949099267_html",
-      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sid\u00e9ral - Azerty",
-      "prix_base": 10112000,
-      "prix_comparaison": 10112000,
+      "cle": "poeleabois_144295poeleaboisinvictaode10kwfontebuches25cm3244339149444_html",
+      "name": "Poele a bois - INVICTA Ode - 10 KW - Fonte - B\u00fbches 25 cm",
+      "prix_base": 17634000,
+      "prix_comparaison": 17634000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133170apple16macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949073939_html",
-      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
-      "prix_base": 13637000,
-      "prix_comparaison": 13637000,
+      "cle": "poeleabois_187753poeleaboispanaderohogarderecodesign59kwbuches50cm8426964190830_html",
+      "name": "Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - B\u00fbches 50 cm",
+      "prix_base": 14487000,
+      "prix_comparaison": 14487000,
       "variation": 0,
       "indice_prix": 100.0
     }

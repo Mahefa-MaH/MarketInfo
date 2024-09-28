@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_135417apple16macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949074813_html",
-      "name": "MacBook Apple MacBook Pro 16 1To SSD 36Go RAM Puce M3 Max CPU 14 coeurs GPU 30 coeurs Noir sideral Nouveau",
-      "prix_base": 19594000,
-      "prix_comparaison": 19594000,
+      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
+      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
+      "prix_base": 11996000,
+      "prix_comparaison": 11996000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
-      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
-      "prix_base": 10111000,
-      "prix_comparaison": 10111000,
+      "cle": "poeleabois_187744poeleaboispanaderozamoraecodesign71kwbuches50cm8426964110203_html",
+      "name": "Poele a bois - PANADERO - Zamora Ecodesign - 7,1 kw - B\u00fbches 50 cm",
+      "prix_base": 11862000,
+      "prix_comparaison": 11862000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_140307apple14macbookprom32024ram16gostockage1toargentazerty0195949640940_html",
-      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Argent - AZERTY",
-      "prix_base": 11797000,
-      "prix_comparaison": 11797000,
+      "cle": "poeleabois_187745poeleaboispanaderoalbaecodesign95kwbuches50cm8426964180503_html",
+      "name": "Poele a bois - PANADERO - Alba Ecodesign - 9,5 kw - B\u00fbches 50 cm",
+      "prix_base": 12901000,
+      "prix_comparaison": 12901000,
       "variation": 0,
       "indice_prix": 100.0
     }

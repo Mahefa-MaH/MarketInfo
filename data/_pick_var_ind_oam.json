@@ -1,20 +1,48 @@
 {
   "Variation de prix": [
     {
-      "cle": "disquedurssd_28295samsungssdinterne980250gom2nvmemzv8v250bw8806090572234_html",
-      "name": "SSD interne Samsung SSD 980 NVMe - MZ-V8V250BW - 250 Go",
-      "prix_base": 264000,
-      "prix_comparaison": 246000,
-      "variation": -18000
+      "cle": "semelleschaussettesetautresaccessoireschaussures_183761deodorantpourchaussuresspaldingp9321multicouleur_html",
+      "name": "D\u00e9odorant pour chaussures Spalding P9321 Multicouleur",
+      "prix_base": 162000,
+      "prix_comparaison": 189000,
+      "variation": 27000
+    },
+    {
+      "cle": "semelleschaussettesetautresaccessoireschaussures_148098deodorantpourchaussuresspaldingp8741multicouleur689344407036_html",
+      "name": "D\u00e9odorant pour chaussures Spalding P8741 Multicouleur",
+      "prix_base": 149000,
+      "prix_comparaison": 179000,
+      "variation": 30000
+    },
+    {
+      "cle": "semelleschaussettesetautresaccessoireschaussures_184044deodorantpourchaussurestecnifibre60xls144nnjaune_html",
+      "name": "D\u00e9odorant pour chaussures Tecnifibre 60XLS144NN Jaune",
+      "prix_base": 888000,
+      "prix_comparaison": 1079000,
+      "variation": 191000
     }
   ],
   "indice de prix": [
     {
-      "cle": "disquedurssd_28295samsungssdinterne980250gom2nvmemzv8v250bw8806090572234_html",
-      "name": "SSD interne Samsung SSD 980 NVMe - MZ-V8V250BW - 250 Go",
-      "prix_base": 264000,
-      "prix_comparaison": 246000,
-      "indice_prix": 93.18181818181819
+      "cle": "semelleschaussettesetautresaccessoireschaussures_183761deodorantpourchaussuresspaldingp9321multicouleur_html",
+      "name": "D\u00e9odorant pour chaussures Spalding P9321 Multicouleur",
+      "prix_base": 162000,
+      "prix_comparaison": 189000,
+      "indice_prix": 116.66666666666667
+    },
+    {
+      "cle": "semelleschaussettesetautresaccessoireschaussures_148098deodorantpourchaussuresspaldingp8741multicouleur689344407036_html",
+      "name": "D\u00e9odorant pour chaussures Spalding P8741 Multicouleur",
+      "prix_base": 149000,
+      "prix_comparaison": 179000,
+      "indice_prix": 120.13422818791946
+    },
+    {
+      "cle": "semelleschaussettesetautresaccessoireschaussures_184044deodorantpourchaussurestecnifibre60xls144nnjaune_html",
+      "name": "D\u00e9odorant pour chaussures Tecnifibre 60XLS144NN Jaune",
+      "prix_base": 888000,
+      "prix_comparaison": 1079000,
+      "indice_prix": 121.509009009009
     }
   ]
 }
