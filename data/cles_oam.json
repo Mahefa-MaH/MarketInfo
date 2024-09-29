@@ -1,22 +1,6 @@
 {
   "Variation de prix": [
     {
-      "cle": "piscinecompletekitpiscine_138986grekitpiscinehorssolaciergriseanthraciterondejunio480xh132cmlivreeavecfiltreasablesableechellet8412081314518_html",
-      "name": "GRE - Kit Piscine hors sol acier grise anthracite ronde Juni \u00d8480 x H132 cm (Livr\u00e9e avec filtre a sable + sable + \u00e9chelle + t",
-      "prix_base": 10464000,
-      "prix_comparaison": 10464000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "piscinecompletekitpiscine_138985piscinehorssolovaleenaciergrisanthracitegreloucofiltrationasable8412081314556_html",
-      "name": "Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable",
-      "prix_base": 10973000,
-      "prix_comparaison": 10973000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
       "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
       "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
       "prix_base": 17500000,

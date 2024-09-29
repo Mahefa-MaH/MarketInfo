@@ -1,38 +1,30 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
-      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
-      "prix_base": 56,
-      "prix_comparaison": 59,
-      "variation": 3
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
-      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
-      "prix_base": 56,
-      "prix_comparaison": 59,
-      "variation": 3
+      "cle": "produit_vintongasoarougemoelleux75cl_",
+      "name": "VinTongasoa rouge moelleux 75cl",
+      "prix_base": 679,
+      "prix_comparaison": 634,
+      "variation": -45
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
-      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
-      "prix_base": 56,
-      "prix_comparaison": 59,
-      "indice_prix": 105.35714285714286
+      "cle": "produit_vintongasoarougemoelleux75cl_",
+      "name": "VinTongasoa rouge moelleux 75cl",
+      "prix_base": 679,
+      "prix_comparaison": 634,
+      "indice_prix": 93.37260677466863
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_dentifriceaufluorpluscalciumtonident75gavecperlesactivesnettoierenforceprotege_",
-      "name": "Dentifrice Th\u00e9rapeutique au fluor plus Calcium Tonident\u2122 75g | Pour les dents sensibles avec girofle, cannelle et menthe poivr\u00e9e",
-      "prix_base": 56,
-      "prix_comparaison": 59,
-      "indice_prix": 105.35714285714286
+      "cle": "produit_vintongasoarougemoelleux75cl_",
+      "name": "VinTongasoa rouge moelleux 75cl",
+      "prix_base": 679,
+      "prix_comparaison": 634,
+      "indice_prix": 93.37260677466863
     }
   ]
 }
