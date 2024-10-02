@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 11447000,
+      "prix_comparaison": 11447000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
       "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
       "prix_base": 17500000,

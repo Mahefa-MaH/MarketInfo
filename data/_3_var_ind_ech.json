@@ -1,30 +1,122 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_barrechocolatminimixed400g_",
+      "name": "Barre Chocolat Mini Mixed 400g",
+      "prix_base": 818,
+      "prix_comparaison": 1144,
+      "variation": 326
+    },
+    {
+      "cle": "produit_bertinioliveoil500ml_",
+      "name": "BERTINI OLIVE OIL 500ML",
+      "prix_base": 499,
+      "prix_comparaison": 660,
+      "variation": 161
+    },
+    {
+      "cle": "produit_lauthentiquegasy250g_",
+      "name": "L\u2019Authentique Gasy 250g",
+      "prix_base": 469,
+      "prix_comparaison": 616,
+      "variation": 147
+    },
+    {
+      "cle": "produit_confituremanguealavanille250gbernadettedelavernette_",
+      "name": "Confiture Mangue \u00e0 la Vanille 250g Bernadette de Lavernette\u2122",
+      "prix_base": 275,
+      "prix_comparaison": 346,
+      "variation": 71
+    },
+    {
+      "cle": "produit_confiturelamuredumurier250gbernadettedelavernette_",
+      "name": "Confiture La M\u00fbre du M\u00fbrier 250g Bernadette de Lavernette\u2122",
+      "prix_base": 266,
+      "prix_comparaison": 333,
+      "variation": 67
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_vintongasoarougemoelleux75cl_",
-      "name": "VinTongasoa rouge moelleux 75cl",
-      "prix_base": 679,
-      "prix_comparaison": 634,
-      "variation": -45
+      "cle": "produit_chipsentubebarbecue110g_",
+      "name": "Chips en Tube Barbecue Mila\u2122 110g",
+      "prix_base": 268,
+      "prix_comparaison": 287,
+      "variation": 19
+    },
+    {
+      "cle": "produit_crememousseextradouxextradouxaulaitlepetitmarseillais300mlhydrateetnourrit_",
+      "name": "Cr\u00e8me mousse extra doux au lait Le Petit Marseillais\u2122 300ml | Hydrate et nourrit",
+      "prix_base": 298,
+      "prix_comparaison": 337,
+      "variation": 39
+    },
+    {
+      "cle": "produit_chocolatnoiramandestab200gr_",
+      "name": "Chocolat Noir Amandes Tab 200gr",
+      "prix_base": 396,
+      "prix_comparaison": 437,
+      "variation": 41
+    },
+    {
+      "cle": "produit_fromagefondusocolait_",
+      "name": "Fromage fondu Socolait",
+      "prix_base": 240,
+      "prix_comparaison": 287,
+      "variation": 47
+    },
+    {
+      "cle": "produit_confitureabricotauxamandes250gbernadettedelavernette_",
+      "name": "Confiture Abricot aux Amandes 250g Bernadette de Lavernette\u2122",
+      "prix_base": 290,
+      "prix_comparaison": 344,
+      "variation": 54
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_vintongasoarougemoelleux75cl_",
-      "name": "VinTongasoa rouge moelleux 75cl",
-      "prix_base": 679,
-      "prix_comparaison": 634,
-      "indice_prix": 93.37260677466863
+      "cle": "produit_barrechocolatminimixed400g_",
+      "name": "Barre Chocolat Mini Mixed 400g",
+      "prix_base": 818,
+      "prix_comparaison": 1144,
+      "indice_prix": 139.85330073349633
+    },
+    {
+      "cle": "produit_bertinioliveoil500ml_",
+      "name": "BERTINI OLIVE OIL 500ML",
+      "prix_base": 499,
+      "prix_comparaison": 660,
+      "indice_prix": 132.26452905811624
+    },
+    {
+      "cle": "produit_lauthentiquegasy250g_",
+      "name": "L\u2019Authentique Gasy 250g",
+      "prix_base": 469,
+      "prix_comparaison": 616,
+      "indice_prix": 131.34328358208955
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_vintongasoarougemoelleux75cl_",
-      "name": "VinTongasoa rouge moelleux 75cl",
-      "prix_base": 679,
-      "prix_comparaison": 634,
-      "indice_prix": 93.37260677466863
+      "cle": "produit_chipsentubebarbecue110g_",
+      "name": "Chips en Tube Barbecue Mila\u2122 110g",
+      "prix_base": 268,
+      "prix_comparaison": 287,
+      "indice_prix": 107.08955223880596
+    },
+    {
+      "cle": "produit_chocolatnoiramandestab200gr_",
+      "name": "Chocolat Noir Amandes Tab 200gr",
+      "prix_base": 396,
+      "prix_comparaison": 437,
+      "indice_prix": 110.35353535353535
+    },
+    {
+      "cle": "produit_crememousseextradouxextradouxaulaitlepetitmarseillais300mlhydrateetnourrit_",
+      "name": "Cr\u00e8me mousse extra doux au lait Le Petit Marseillais\u2122 300ml | Hydrate et nourrit",
+      "prix_base": 298,
+      "prix_comparaison": 337,
+      "indice_prix": 113.08724832214764
     }
   ]
 }

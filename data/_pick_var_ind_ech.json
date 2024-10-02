@@ -1,34 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_boitepppastelsalhuile12couleursagmy3322_",
-      "name": "Boite PP Pastels \u00e0 l\u2019huile \u2013 12 couleurs | AGMY3322",
-      "prix_base": 221,
-      "prix_comparaison": 295,
-      "variation": 74
-    },
-    {
-      "cle": "produit_boitepppastelsalhuile24couleursagmy3323_",
-      "name": "Boite PP Pastels \u00e0 l\u2019huile \u2013 24 couleurs | AGMY3323",
-      "prix_base": 449,
-      "prix_comparaison": 599,
-      "variation": 150
+      "cle": "produit_crememousseextradouxextradouxaulaitlepetitmarseillais300mlhydrateetnourrit_",
+      "name": "Cr\u00e8me mousse extra doux au lait Le Petit Marseillais\u2122 300ml | Hydrate et nourrit",
+      "prix_base": 298,
+      "prix_comparaison": 337,
+      "variation": 39
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_boitepppastelsalhuile24couleursagmy3323_",
-      "name": "Boite PP Pastels \u00e0 l\u2019huile \u2013 24 couleurs | AGMY3323",
-      "prix_base": 449,
-      "prix_comparaison": 599,
-      "indice_prix": 133.4075723830735
-    },
-    {
-      "cle": "produit_boitepppastelsalhuile12couleursagmy3322_",
-      "name": "Boite PP Pastels \u00e0 l\u2019huile \u2013 12 couleurs | AGMY3322",
-      "prix_base": 221,
-      "prix_comparaison": 295,
-      "indice_prix": 133.4841628959276
+      "cle": "produit_crememousseextradouxextradouxaulaitlepetitmarseillais300mlhydrateetnourrit_",
+      "name": "Cr\u00e8me mousse extra doux au lait Le Petit Marseillais\u2122 300ml | Hydrate et nourrit",
+      "prix_base": 298,
+      "prix_comparaison": 337,
+      "indice_prix": 113.08724832214764
     }
   ]
 }
