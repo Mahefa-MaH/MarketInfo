@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "poeleabois_143095poeleaboisinvictaneosenraccordableacier8kwbuches40cm3244339488369_html",
+      "name": "Poele a bois- INVICTA Neosen Raccordable - Acier - 8KW - B\u00fbches 40 cm",
+      "prix_base": 11631000,
+      "prix_comparaison": 11631000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "poeleabois_143096poeleaboisinvictakazangrandangle9kwbuches58cm3244336104439_html",
       "name": "Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - B\u00fbches 58 cm",
       "prix_base": 12382000,
@@ -13,14 +21,6 @@
       "name": "Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - B\u00fbches 55 cm",
       "prix_base": 16884000,
       "prix_comparaison": 16884000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "poeleabois_143095poeleaboisinvictaneosenraccordableacier8kwbuches40cm3244339488369_html",
-      "name": "Poele a bois- INVICTA Neosen Raccordable - Acier - 8KW - B\u00fbches 40 cm",
-      "prix_base": 11631000,
-      "prix_comparaison": 11631000,
       "variation": 0,
       "indice_prix": 100.0
     }

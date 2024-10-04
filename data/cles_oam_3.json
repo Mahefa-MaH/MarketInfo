@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 14012000,
-      "prix_comparaison": 14012000,
+      "cle": "poeleabois_187755poeleaboispanaderochopin3vecodesign82kwbuches80cm8426964280227_html",
+      "name": "Poele a bois - PANADERO - Chopin 3V Ecodesign - 8,2 kw - B\u00fbches 80 cm",
+      "prix_base": 18235000,
+      "prix_comparaison": 18235000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187752poeleaboispanaderohogarizqecodesign59kwbuches50cm8426964190823_html",
-      "name": "Poele a bois - PANADERO - Hogar IZQ Ecodesign - 5,9 kw - B\u00fbches 50 cm",
-      "prix_base": 14487000,
-      "prix_comparaison": 14487000,
+      "cle": "poeleabois_187744poeleaboispanaderozamoraecodesign71kwbuches50cm8426964110203_html",
+      "name": "Poele a bois - PANADERO - Zamora Ecodesign - 7,1 kw - B\u00fbches 50 cm",
+      "prix_base": 11862000,
+      "prix_comparaison": 11862000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187746poeleaboispanaderosydneyecodesign74kwbuches50cm8426964182507_html",
-      "name": "Poele a bois - PANADERO - Sydney Ecodesign - 7,4 kw - B\u00fbches 50 cm",
-      "prix_base": 11872000,
-      "prix_comparaison": 11872000,
+      "cle": "poeleabois_143099poeleaboisinvictafiftysurpied10kwbuches60cm3244336480441_html",
+      "name": "Poele a bois - INVICTA Fifty sur pied - 10 Kw - B\u00fbches 60 cm",
+      "prix_base": 14625000,
+      "prix_comparaison": 14625000,
       "variation": 0,
       "indice_prix": 100.0
     }

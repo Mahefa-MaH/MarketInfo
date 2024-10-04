@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Betonnière tractable 290 L avec moteur électrique de 2CV**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+1. **Poele a bois - PANADERO - Sydney Ecodesign - 7,4 kw - Bûches 50 cm**
+   - Prix avant: 11,872,000 Ar
+   - Prix actuel: 11,872,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Poele a bois en fonte - INVICTA - mandorin**
-   - Prix avant: 10,130,000 Ar
-   - Prix actuel: 10,130,000 Ar
+2. **Poele a bois - PANADERO - Hogar IZQ Ecodesign - 5,9 kw - Bûches 50 cm**
+   - Prix avant: 14,487,000 Ar
+   - Prix actuel: 14,487,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Armoire a fusils Ranger BURG-WÄCHTER 800/8 K**
-   - Prix avant: 12,368,000 Ar
-   - Prix actuel: 12,368,000 Ar
+3. **Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - Bûches 50 cm**
+   - Prix avant: 14,487,000 Ar
+   - Prix actuel: 14,487,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

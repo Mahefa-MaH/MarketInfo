@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_103928betonniere255lgasoilkm178f_html",
-      "name": "Betonni\u00e8re 255L gasoil KM178F",
-      "prix_base": 14290000,
-      "prix_comparaison": 14290000,
+      "cle": "poeleabois_187745poeleaboispanaderoalbaecodesign95kwbuches50cm8426964180503_html",
+      "name": "Poele a bois - PANADERO - Alba Ecodesign - 9,5 kw - B\u00fbches 50 cm",
+      "prix_base": 12901000,
+      "prix_comparaison": 12901000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
-      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
-      "prix_base": 13153000,
-      "prix_comparaison": 13153000,
+      "cle": "spacompletkitspajacuzzi_142716spagonflablebestwaylayzspasanfranciscohydrojetpro230x230x71cm57placescarrebacheunecartouche6941607350683_html",
+      "name": "Spa gonflable BESTWAY - Lay-Z-Spa San Francisco Hydrojet Pro - 230 x 230 x 71 cm - 5/7 places - Carr\u00e9 (b\u00e2che, une cartouche)",
+      "prix_base": 10873000,
+      "prix_comparaison": 10873000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
-      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
-      "prix_base": 10302000,
-      "prix_comparaison": 10302000,
+      "cle": "poeleagranulesetpellets_144296poeleagranulesinvictalodi10wifinoir3244339419745_html",
+      "name": "Poele a granul\u00e9s - INVICTA LODI 10 - Wifi - Noir",
+      "prix_base": 14220000,
+      "prix_comparaison": 14220000,
       "variation": 0,
       "indice_prix": 100.0
     }

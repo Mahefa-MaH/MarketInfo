@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
-      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "poeleabois_187746poeleaboispanaderosydneyecodesign74kwbuches50cm8426964182507_html",
+      "name": "Poele a bois - PANADERO - Sydney Ecodesign - 7,4 kw - B\u00fbches 50 cm",
+      "prix_base": 11872000,
+      "prix_comparaison": 11872000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
-      "name": "Poele a bois en fonte - INVICTA - mandorin",
-      "prix_base": 10130000,
-      "prix_comparaison": 10130000,
+      "cle": "poeleabois_187752poeleaboispanaderohogarizqecodesign59kwbuches50cm8426964190823_html",
+      "name": "Poele a bois - PANADERO - Hogar IZQ Ecodesign - 5,9 kw - B\u00fbches 50 cm",
+      "prix_base": 14487000,
+      "prix_comparaison": 14487000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "armoireafusil_126283armoireafusilsrangerburgwachter8008k4003482414804_html",
-      "name": "Armoire a fusils Ranger BURG-W\u00c4CHTER 800/8 K",
-      "prix_base": 12368000,
-      "prix_comparaison": 12368000,
+      "cle": "poeleabois_187753poeleaboispanaderohogarderecodesign59kwbuches50cm8426964190830_html",
+      "name": "Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - B\u00fbches 50 cm",
+      "prix_base": 14487000,
+      "prix_comparaison": 14487000,
       "variation": 0,
       "indice_prix": 100.0
     }

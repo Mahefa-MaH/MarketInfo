@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104421theodolitedigitalavectrepiedetmire_html",
-      "name": "Th\u00e9odolite digital avec tr\u00e9pied et mire",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "chauffeeau_126818chauffeeauthermodynamiqueegeaferroli260l8028693877343_html",
+      "name": "Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magn\u00e9sium - Classe \u00e9nerg\u00e9tique A+",
+      "prix_base": 14012000,
+      "prix_comparaison": 14012000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_100755coffretaoutils416200mz_html",
-      "name": "Coffret \u00e0 outils 416-200MZ",
-      "prix_base": 13200000,
-      "prix_comparaison": 13200000,
+      "cle": "poeleabois_187754poeleaboispanaderoinsertc101secodesign89kwbuches80cm8426964191059_html",
+      "name": "Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - B\u00fbches 80 cm",
+      "prix_base": 16848000,
+      "prix_comparaison": 16848000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_102261groupedesoudageessence250amp45kvaaux220v_html",
-      "name": "Groupe de soudage essence 250Amp 4.5KVA Aux 220V",
-      "prix_base": 10450000,
-      "prix_comparaison": 10450000,
+      "cle": "poeleabois_144295poeleaboisinvictaode10kwfontebuches25cm3244339149444_html",
+      "name": "Poele a bois - INVICTA Ode - 10 KW - Fonte - B\u00fbches 25 cm",
+      "prix_base": 17634000,
+      "prix_comparaison": 17634000,
       "variation": 0,
       "indice_prix": 100.0
     }

@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_187754poeleaboispanaderoinsertc101secodesign89kwbuches80cm8426964191059_html",
-      "name": "Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - B\u00fbches 80 cm",
-      "prix_base": 16848000,
-      "prix_comparaison": 16848000,
+      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
+      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
+      "prix_base": 12500000,
+      "prix_comparaison": 12500000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_144295poeleaboisinvictaode10kwfontebuches25cm3244339149444_html",
-      "name": "Poele a bois - INVICTA Ode - 10 KW - Fonte - B\u00fbches 25 cm",
-      "prix_base": 17634000,
-      "prix_comparaison": 17634000,
+      "cle": "poeleabois_143097poeleaboisinvictaovatio5kwbuches32cm3244336149041_html",
+      "name": "Poele a bois - INVICTA Ovatio - 5 KW - b\u00fbches 32 cm",
+      "prix_base": 12868000,
+      "prix_comparaison": 12868000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187753poeleaboispanaderohogarderecodesign59kwbuches50cm8426964190830_html",
-      "name": "Poele a bois - PANADERO - Hogar DER Ecodesign - 5,9 kw - B\u00fbches 50 cm",
-      "prix_base": 14487000,
-      "prix_comparaison": 14487000,
+      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
+      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
+      "prix_base": 11996000,
+      "prix_comparaison": 11996000,
       "variation": 0,
       "indice_prix": 100.0
     }

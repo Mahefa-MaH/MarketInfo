@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Théodolite digital avec trépied et mire**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+1. **Chauffe-eau thermodynamique vertical EGEA FERROLI 260L - Anode Magnésium - Classe énergétique A+**
+   - Prix avant: 14,012,000 Ar
+   - Prix actuel: 14,012,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Coffret à outils 416-200MZ**
-   - Prix avant: 13,200,000 Ar
-   - Prix actuel: 13,200,000 Ar
+2. **Poele a bois - PANADERO - Insert C-101-S Ecodesign - 8,9 kw - Bûches 80 cm**
+   - Prix avant: 16,848,000 Ar
+   - Prix actuel: 16,848,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Groupe de soudage essence 250Amp 4.5KVA Aux 220V**
-   - Prix avant: 10,450,000 Ar
-   - Prix actuel: 10,450,000 Ar
+3. **Poele a bois - INVICTA Ode - 10 KW - Fonte - Bûches 25 cm**
+   - Prix avant: 17,634,000 Ar
+   - Prix actuel: 17,634,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

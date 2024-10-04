@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
-      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
-      "prix_base": 11996000,
-      "prix_comparaison": 11996000,
+      "cle": "outillage_104003pilonneusesp80345x285mm_html",
+      "name": "Pilonneuse SP80-345x285 mm",
+      "prix_base": 15800000,
+      "prix_comparaison": 15800000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187744poeleaboispanaderozamoraecodesign71kwbuches50cm8426964110203_html",
-      "name": "Poele a bois - PANADERO - Zamora Ecodesign - 7,1 kw - B\u00fbches 50 cm",
-      "prix_base": 11862000,
-      "prix_comparaison": 11862000,
+      "cle": "tondeuseautoporteesansfil_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
+      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
+      "prix_base": 12443000,
+      "prix_comparaison": 12443000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187745poeleaboispanaderoalbaecodesign95kwbuches50cm8426964180503_html",
-      "name": "Poele a bois - PANADERO - Alba Ecodesign - 9,5 kw - B\u00fbches 50 cm",
-      "prix_base": 12901000,
-      "prix_comparaison": 12901000,
+      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
+      "name": "Poele a bois en fonte - INVICTA - mandorin",
+      "prix_base": 10130000,
+      "prix_comparaison": 10130000,
       "variation": 0,
       "indice_prix": 100.0
     }
