@@ -1,20 +1,62 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_crememousseextradouxextradouxaulaitlepetitmarseillais300mlhydrateetnourrit_",
-      "name": "Cr\u00e8me mousse extra doux au lait Le Petit Marseillais\u2122 300ml | Hydrate et nourrit",
-      "prix_base": 298,
-      "prix_comparaison": 337,
-      "variation": 39
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 90,
+      "prix_comparaison": 97,
+      "variation": 7
+    },
+    {
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 468,
+      "prix_comparaison": 504,
+      "variation": 36
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4675,
+      "prix_comparaison": 4840,
+      "variation": 165
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2286,
+      "prix_comparaison": 2464,
+      "variation": 178
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_crememousseextradouxextradouxaulaitlepetitmarseillais300mlhydrateetnourrit_",
-      "name": "Cr\u00e8me mousse extra doux au lait Le Petit Marseillais\u2122 300ml | Hydrate et nourrit",
-      "prix_base": 298,
-      "prix_comparaison": 337,
-      "indice_prix": 113.08724832214764
+      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
+      "prix_base": 4675,
+      "prix_comparaison": 4840,
+      "indice_prix": 103.52941176470588
+    },
+    {
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 468,
+      "prix_comparaison": 504,
+      "indice_prix": 107.6923076923077
+    },
+    {
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 90,
+      "prix_comparaison": 97,
+      "indice_prix": 107.77777777777777
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2286,
+      "prix_comparaison": 2464,
+      "indice_prix": 107.78652668416449
     }
   ]
 }

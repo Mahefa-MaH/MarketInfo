@@ -1,18 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
-      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
-      "prix_base": 11447000,
-      "prix_comparaison": 11447000,
+      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
+      "name": "Mac mini Apple Mac Studio 512Go SSD Puce M2 Max CPU 12 coeurs GPU 30 coeurs 2023",
+      "prix_base": 11029000,
+      "prix_comparaison": 11029000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
-      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
-      "prix_base": 17500000,
-      "prix_comparaison": 17500000,
+      "cle": "unitecentraleseuleminipc_92288pcdebureaugamingomenbyhp40lgt211007nfintelcorei913900kram32go1tossdgeforcertx409024gowindows110197192261767_html",
+      "name": "PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11",
+      "prix_base": 20629000,
+      "prix_comparaison": 20629000,
       "variation": 0,
       "indice_prix": 100.0
     }
