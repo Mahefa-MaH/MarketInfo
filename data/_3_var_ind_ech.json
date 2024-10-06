@@ -1,108 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2286,
-      "prix_comparaison": 2464,
-      "variation": 178
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 4675,
-      "prix_comparaison": 4840,
-      "variation": 165
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 468,
-      "prix_comparaison": 504,
-      "variation": 36
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 90,
-      "prix_comparaison": 97,
-      "variation": 7
+      "cle": "produit_eaudejavelnature12flc2l_",
+      "name": "Eau De Javel  Nature 12\u00b0 Flc 2l",
+      "prix_base": 320,
+      "prix_comparaison": 339,
+      "variation": 19
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 90,
-      "prix_comparaison": 97,
-      "variation": 7
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 468,
-      "prix_comparaison": 504,
-      "variation": 36
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 4675,
-      "prix_comparaison": 4840,
-      "variation": 165
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2286,
-      "prix_comparaison": 2464,
-      "variation": 178
+      "cle": "produit_eaudejavelnature12flc2l_",
+      "name": "Eau De Javel  Nature 12\u00b0 Flc 2l",
+      "prix_base": 320,
+      "prix_comparaison": 339,
+      "variation": 19
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2286,
-      "prix_comparaison": 2464,
-      "indice_prix": 107.78652668416449
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 90,
-      "prix_comparaison": 97,
-      "indice_prix": 107.77777777777777
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 468,
-      "prix_comparaison": 504,
-      "indice_prix": 107.6923076923077
+      "cle": "produit_eaudejavelnature12flc2l_",
+      "name": "Eau De Javel  Nature 12\u00b0 Flc 2l",
+      "prix_base": 320,
+      "prix_comparaison": 339,
+      "indice_prix": 105.9375
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 4675,
-      "prix_comparaison": 4840,
-      "indice_prix": 103.52941176470588
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 468,
-      "prix_comparaison": 504,
-      "indice_prix": 107.6923076923077
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 90,
-      "prix_comparaison": 97,
-      "indice_prix": 107.77777777777777
+      "cle": "produit_eaudejavelnature12flc2l_",
+      "name": "Eau De Javel  Nature 12\u00b0 Flc 2l",
+      "prix_base": 320,
+      "prix_comparaison": 339,
+      "indice_prix": 105.9375
     }
   ]
 }
