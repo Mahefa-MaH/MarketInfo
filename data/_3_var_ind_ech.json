@@ -1,122 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_chargegazbutane12kg_",
-      "name": "CHARGE GAZ Butane 12kg Vitogaz\u2122",
-      "prix_base": 1905,
-      "prix_comparaison": 2013,
-      "variation": 108
-    },
-    {
-      "cle": "produit_saucedesojadarkredriverbridge625ml_",
-      "name": "Sauce de soja dark red river bridge 625ml",
-      "prix_base": 240,
-      "prix_comparaison": 330,
-      "variation": 90
-    },
-    {
-      "cle": "produit_saucedepoisson625ml_",
-      "name": "Sauce de poisson 625ml",
-      "prix_base": 310,
-      "prix_comparaison": 387,
-      "variation": 77
-    },
-    {
-      "cle": "produit_chargegazbutane9kg_",
-      "name": "CHARGE GAZ Butane 9kg Vitogaz\u2122",
-      "prix_base": 1382,
-      "prix_comparaison": 1452,
-      "variation": 70
-    },
-    {
-      "cle": "produit_e9bouteillechargee9kg_",
-      "name": "E9 \u2013 Bouteille Charg\u00e9e 9KG Vitogaz\u2122",
-      "prix_base": 2372,
-      "prix_comparaison": 2442,
-      "variation": 70
+      "cle": "produit_bonbonskopiko_",
+      "name": "Bonbons Kopiko",
+      "prix_base": 7,
+      "prix_comparaison": 8,
+      "variation": 1
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_saucedesojalightredriverbridge150ml_",
-      "name": "Sauce de soja light red river bridge 150 ml",
-      "prix_base": 102,
-      "prix_comparaison": 123,
-      "variation": 21
-    },
-    {
-      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge150ml_",
-      "name": "Sauce de soja dark aux champignons red river bridge 150ml",
-      "prix_base": 106,
-      "prix_comparaison": 132,
-      "variation": 26
-    },
-    {
-      "cle": "produit_e4bouteillechargee4kg_",
-      "name": "E4 \u2013 Bouteille Charg\u00e9e 4KG Vitogaz\u2122",
-      "prix_base": 1197,
-      "prix_comparaison": 1243,
-      "variation": 46
-    },
-    {
-      "cle": "produit_chargegazbutane4kg_",
-      "name": "CHARGE GAZ Butane 4kg Vitogaz\u2122",
-      "prix_base": 603,
-      "prix_comparaison": 649,
-      "variation": 46
-    },
-    {
-      "cle": "produit_chargegazbutane9kg_",
-      "name": "CHARGE GAZ Butane 9kg Vitogaz\u2122",
-      "prix_base": 1382,
-      "prix_comparaison": 1452,
-      "variation": 70
+      "cle": "produit_bonbonskopiko_",
+      "name": "Bonbons Kopiko",
+      "prix_base": 7,
+      "prix_comparaison": 8,
+      "variation": 1
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_saucedesojadarkredriverbridge625ml_",
-      "name": "Sauce de soja dark red river bridge 625ml",
-      "prix_base": 240,
-      "prix_comparaison": 330,
-      "indice_prix": 137.5
-    },
-    {
-      "cle": "produit_saucedepoisson625ml_",
-      "name": "Sauce de poisson 625ml",
-      "prix_base": 310,
-      "prix_comparaison": 387,
-      "indice_prix": 124.83870967741936
-    },
-    {
-      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge150ml_",
-      "name": "Sauce de soja dark aux champignons red river bridge 150ml",
-      "prix_base": 106,
-      "prix_comparaison": 132,
-      "indice_prix": 124.52830188679245
+      "cle": "produit_bonbonskopiko_",
+      "name": "Bonbons Kopiko",
+      "prix_base": 7,
+      "prix_comparaison": 8,
+      "indice_prix": 114.28571428571429
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_e9bouteillechargee9kg_",
-      "name": "E9 \u2013 Bouteille Charg\u00e9e 9KG Vitogaz\u2122",
-      "prix_base": 2372,
-      "prix_comparaison": 2442,
-      "indice_prix": 102.95109612141653
-    },
-    {
-      "cle": "produit_e4bouteillechargee4kg_",
-      "name": "E4 \u2013 Bouteille Charg\u00e9e 4KG Vitogaz\u2122",
-      "prix_base": 1197,
-      "prix_comparaison": 1243,
-      "indice_prix": 103.84294068504595
-    },
-    {
-      "cle": "produit_chargegazbutane9kg_",
-      "name": "CHARGE GAZ Butane 9kg Vitogaz\u2122",
-      "prix_base": 1382,
-      "prix_comparaison": 1452,
-      "indice_prix": 105.06512301013025
+      "cle": "produit_bonbonskopiko_",
+      "name": "Bonbons Kopiko",
+      "prix_base": 7,
+      "prix_comparaison": 8,
+      "indice_prix": 114.28571428571429
     }
   ]
 }
