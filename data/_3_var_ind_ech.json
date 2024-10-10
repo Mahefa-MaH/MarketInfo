@@ -1,38 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_bonbonskopiko_",
-      "name": "Bonbons Kopiko",
-      "prix_base": 7,
-      "prix_comparaison": 8,
-      "variation": 1
+      "cle": "produit_shampooingextradouxlaitdepommepetitmarseillais250mldemelantlissant_",
+      "name": "Shampooing Extra doux au Lait de Pomme Le Petit Marseillais\u2122 250ml | D\u00e9m\u00ealant et Lissant | Livraison J+2",
+      "prix_base": 372,
+      "prix_comparaison": 549,
+      "variation": 177
+    },
+    {
+      "cle": "produit_saucissonalailnatureenviron200g_",
+      "name": "Saucisson \u00e0 l\u2019Ail Nature environ 200g",
+      "prix_base": 158,
+      "prix_comparaison": 231,
+      "variation": 73
+    },
+    {
+      "cle": "produit_geldoucheextradouxlaitdamandedoucelepetitmarseillais250mldouchecremehydratanteetnourrissante_",
+      "name": "Gel douche Extra Doux au Lait d\u2019Amande Douce\u00a0Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 339,
+      "prix_comparaison": 405,
+      "variation": 66
+    },
+    {
+      "cle": "produit_biscuitsgouterfchoconoisettex16295g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco Noisette x16 295g",
+      "prix_base": 463,
+      "prix_comparaison": 525,
+      "variation": 62
+    },
+    {
+      "cle": "produit_fromagefondulavachequirit120gboitede8portions_",
+      "name": "La Vache qui rit\u2122 120g | Fromage fondu en boite de 8 portions",
+      "prix_base": 144,
+      "prix_comparaison": 191,
+      "variation": 47
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_bonbonskopiko_",
-      "name": "Bonbons Kopiko",
-      "prix_base": 7,
-      "prix_comparaison": 8,
-      "variation": 1
+      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 28,
+      "prix_comparaison": 35,
+      "variation": 7
+    },
+    {
+      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 75,
+      "prix_comparaison": 88,
+      "variation": 13
+    },
+    {
+      "cle": "produit_potatochipscreamnonion40g_",
+      "name": "POTATO CHIPS CREAM N ONION 40G",
+      "prix_base": 50,
+      "prix_comparaison": 67,
+      "variation": 17
+    },
+    {
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 172,
+      "prix_comparaison": 190,
+      "variation": 18
+    },
+    {
+      "cle": "produit_spiralemacaronirossini500gpates2_",
+      "name": "Spirale Macaroni  Rossini\u2122 500g | P\u00e2tes",
+      "prix_base": 81,
+      "prix_comparaison": 99,
+      "variation": 18
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_bonbonskopiko_",
-      "name": "Bonbons Kopiko",
-      "prix_base": 7,
-      "prix_comparaison": 8,
-      "indice_prix": 114.28571428571429
+      "cle": "produit_shampooingextradouxlaitdepommepetitmarseillais250mldemelantlissant_",
+      "name": "Shampooing Extra doux au Lait de Pomme Le Petit Marseillais\u2122 250ml | D\u00e9m\u00ealant et Lissant | Livraison J+2",
+      "prix_base": 372,
+      "prix_comparaison": 549,
+      "indice_prix": 147.58064516129033
+    },
+    {
+      "cle": "produit_saucissonalailnatureenviron200g_",
+      "name": "Saucisson \u00e0 l\u2019Ail Nature environ 200g",
+      "prix_base": 158,
+      "prix_comparaison": 231,
+      "indice_prix": 146.20253164556962
+    },
+    {
+      "cle": "produit_potatochipscreamnonion40g_",
+      "name": "POTATO CHIPS CREAM N ONION 40G",
+      "prix_base": 50,
+      "prix_comparaison": 67,
+      "indice_prix": 134.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_bonbonskopiko_",
-      "name": "Bonbons Kopiko",
-      "prix_base": 7,
-      "prix_comparaison": 8,
-      "indice_prix": 114.28571428571429
+      "cle": "produit_saucedhuitres710grs_",
+      "name": "Sauce d\u2019hu\u00eetres 710 grs",
+      "prix_base": 323,
+      "prix_comparaison": 352,
+      "indice_prix": 108.9783281733746
+    },
+    {
+      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
+      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
+      "prix_base": 172,
+      "prix_comparaison": 190,
+      "indice_prix": 110.46511627906976
+    },
+    {
+      "cle": "produit_biscuitsgouterfchoconoisettex16295g_",
+      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco Noisette x16 295g",
+      "prix_base": 463,
+      "prix_comparaison": 525,
+      "indice_prix": 113.39092872570194
     }
   ]
 }

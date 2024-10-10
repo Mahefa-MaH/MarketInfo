@@ -1,48 +1,188 @@
 {
   "Variation de prix": [
     {
-      "cle": "semelleschaussettesetautresaccessoireschaussures_183761deodorantpourchaussuresspaldingp9321multicouleur_html",
-      "name": "D\u00e9odorant pour chaussures Spalding P9321 Multicouleur",
-      "prix_base": 162000,
-      "prix_comparaison": 189000,
-      "variation": 27000
+      "cle": "microondes_142082microondessamsungms32dg4504agenoir32l517x297x424cm8806095507057_html",
+      "name": "Micro-ondes - SAMSUNG - MS32DG4504AGE - Noir - 32L - 51,7 x 29,7 x 42,4 cm",
+      "prix_base": 769000,
+      "prix_comparaison": 763000,
+      "variation": -6000
     },
     {
-      "cle": "semelleschaussettesetautresaccessoireschaussures_148098deodorantpourchaussuresspaldingp8741multicouleur689344407036_html",
-      "name": "D\u00e9odorant pour chaussures Spalding P8741 Multicouleur",
-      "prix_base": 149000,
-      "prix_comparaison": 179000,
-      "variation": 30000
+      "cle": "microondes_55336microondessolosamsungms23k3555esacierinoxydable23lcontroleelectroniqueboutonfonctionmaintienauchau8806088219721_html",
+      "name": "Micro-ondes solo - SAMSUNG - MS23K3555ES - Acier inoxydable - 23L - Contr\u00f4le \u00e9lectronique + bouton - Fonction maintien au chaud",
+      "prix_base": 1076000,
+      "prix_comparaison": 1072000,
+      "variation": -4000
     },
     {
-      "cle": "semelleschaussettesetautresaccessoireschaussures_184044deodorantpourchaussurestecnifibre60xls144nnjaune_html",
-      "name": "D\u00e9odorant pour chaussures Tecnifibre 60XLS144NN Jaune",
-      "prix_base": 888000,
-      "prix_comparaison": 1079000,
-      "variation": 191000
+      "cle": "microondes_55350microondessolo20lsamsungmultifonctiondecongelationquickdefrostplateautournantde255cm8806092062863_html",
+      "name": "Micro-ondes SAMSUNG MS20A7013AT INOX",
+      "prix_base": 1868000,
+      "prix_comparaison": 1865000,
+      "variation": -3000
+    },
+    {
+      "cle": "microondes_138335microondessamsungsoloblanc23l800wcaviteceramiqueemail8806088219486_html",
+      "name": "Micro-ondes SAMSUNG Solo - Blanc - 23 L - 800 W - Cavit\u00e9 c\u00e9ramique \u00e9mail",
+      "prix_base": 944000,
+      "prix_comparaison": 941000,
+      "variation": -3000
+    },
+    {
+      "cle": "microondes_51227microondesgrillposelibresamsungmg23t5018cknoir23l8806090271434_html",
+      "name": "Micro-ondes grill pose libre SAMSUNG MG23T5018CK - Noir - 23 L",
+      "prix_base": 1357000,
+      "prix_comparaison": 1355000,
+      "variation": -2000
+    },
+    {
+      "cle": "four_61749fourencastrablesinglefanmultifonctionspyrolysesamsungnv7b41307aknoir595x596x570cm8806094336689_html",
+      "name": "Four encastrable single fan multifonctions pyrolyse SAMSUNG - NV7B41307AK \u2013 Noir \u2013 59,5x59,6x57,0cm",
+      "prix_base": 4419000,
+      "prix_comparaison": 4417000,
+      "variation": -2000
+    },
+    {
+      "cle": "four_61750fourencastrabletwinconvectionmultifonctioncatalysesamsungnv7b4420zasnv7b4420zasinox595x596x570cm8806094336917_html",
+      "name": "Four encastrable twin convection multifonction catalyse SAMSUNG - NV7B4420ZAS - NV7B4420ZAS - Inox - Connect\u00e9",
+      "prix_base": 4419000,
+      "prix_comparaison": 4417000,
+      "variation": -2000
+    },
+    {
+      "cle": "hotte_48282hottedecorativemuralesamsungnk24m3050ps60cmgris8806088787671_html",
+      "name": "Hotte d\u00e9corative murale SAMSUNG NK24M3050PS 60 cm - Gris",
+      "prix_base": 716000,
+      "prix_comparaison": 715000,
+      "variation": -1000
+    },
+    {
+      "cle": "packgrosappareilsdecuisson_126077fourencastrablepyrolysesamsungnv7b4430zabnoirinox76l595lx596x57p8806094337020_html",
+      "name": "Four encastrable SAMSUNG NV7B4430ZAB - Multifonction - Pyrolyse - Chaleur tournante - Inox anti-traces.",
+      "prix_base": 5029000,
+      "prix_comparaison": 5028000,
+      "variation": -1000
+    },
+    {
+      "cle": "tableplaquedecuissoninduction_86750plaquedecuissoninductionsamsung3zonesl59xp57cmnz63m3nm1bbur7200wrevetementverrenoir8806088754871_html",
+      "name": "Plaque de cuisson induction - SAMSUNG - 3 zones - L59 x P57 cm - NZ63M3NM1BB/UR - 7200 W - Revetement verre - Noir",
+      "prix_base": 2032000,
+      "prix_comparaison": 2031000,
+      "variation": -1000
+    },
+    {
+      "cle": "microondes_54938microondessolo23lsamsungms23k3555ewblanccontroleelectroniqueboutonfonctionmaintienauchaud8806088219660_html",
+      "name": "Micro-ondes solo 23L - SAMSUNG - MS23K3555EW - Blanc - Contr\u00f4le \u00e9lectronique + bouton - Fonction maintien au chaud",
+      "prix_base": 1044000,
+      "prix_comparaison": 1043000,
+      "variation": -1000
+    },
+    {
+      "cle": "microondes_96142microondessamsungmg23k3513ak23lgrilelectronique800w288cmcaviteceramiqueemailnoir8801643757601_html",
+      "name": "Micro-ondes Samsung MG23K3513AK - 23L - Gril - Electronique - 800W - 28,8 cm - Cavit\u00e9 c\u00e9ramique \u00e9mail - Noir",
+      "prix_base": 933000,
+      "prix_comparaison": 938000,
+      "variation": 5000
+    },
+    {
+      "cle": "tableplaquedecuissoninduction_86751tabledecuissoninductionsamsung4zonesl59xp57cmnz64m3nm1bbur8806088757261_html",
+      "name": "Table de cuisson induction SAMSUNG - 4 zones - L59 x P57 cm - NZ64M3NM1BB/UR",
+      "prix_base": 1870000,
+      "prix_comparaison": 1878000,
+      "variation": 8000
     }
   ],
   "indice de prix": [
     {
-      "cle": "semelleschaussettesetautresaccessoireschaussures_183761deodorantpourchaussuresspaldingp9321multicouleur_html",
-      "name": "D\u00e9odorant pour chaussures Spalding P9321 Multicouleur",
-      "prix_base": 162000,
-      "prix_comparaison": 189000,
-      "indice_prix": 116.66666666666667
+      "cle": "microondes_142082microondessamsungms32dg4504agenoir32l517x297x424cm8806095507057_html",
+      "name": "Micro-ondes - SAMSUNG - MS32DG4504AGE - Noir - 32L - 51,7 x 29,7 x 42,4 cm",
+      "prix_base": 769000,
+      "prix_comparaison": 763000,
+      "indice_prix": 99.21976592977893
     },
     {
-      "cle": "semelleschaussettesetautresaccessoireschaussures_148098deodorantpourchaussuresspaldingp8741multicouleur689344407036_html",
-      "name": "D\u00e9odorant pour chaussures Spalding P8741 Multicouleur",
-      "prix_base": 149000,
-      "prix_comparaison": 179000,
-      "indice_prix": 120.13422818791946
+      "cle": "microondes_55336microondessolosamsungms23k3555esacierinoxydable23lcontroleelectroniqueboutonfonctionmaintienauchau8806088219721_html",
+      "name": "Micro-ondes solo - SAMSUNG - MS23K3555ES - Acier inoxydable - 23L - Contr\u00f4le \u00e9lectronique + bouton - Fonction maintien au chaud",
+      "prix_base": 1076000,
+      "prix_comparaison": 1072000,
+      "indice_prix": 99.62825278810409
     },
     {
-      "cle": "semelleschaussettesetautresaccessoireschaussures_184044deodorantpourchaussurestecnifibre60xls144nnjaune_html",
-      "name": "D\u00e9odorant pour chaussures Tecnifibre 60XLS144NN Jaune",
-      "prix_base": 888000,
-      "prix_comparaison": 1079000,
-      "indice_prix": 121.509009009009
+      "cle": "microondes_138335microondessamsungsoloblanc23l800wcaviteceramiqueemail8806088219486_html",
+      "name": "Micro-ondes SAMSUNG Solo - Blanc - 23 L - 800 W - Cavit\u00e9 c\u00e9ramique \u00e9mail",
+      "prix_base": 944000,
+      "prix_comparaison": 941000,
+      "indice_prix": 99.6822033898305
+    },
+    {
+      "cle": "microondes_55350microondessolo20lsamsungmultifonctiondecongelationquickdefrostplateautournantde255cm8806092062863_html",
+      "name": "Micro-ondes SAMSUNG MS20A7013AT INOX",
+      "prix_base": 1868000,
+      "prix_comparaison": 1865000,
+      "indice_prix": 99.83940042826552
+    },
+    {
+      "cle": "microondes_51227microondesgrillposelibresamsungmg23t5018cknoir23l8806090271434_html",
+      "name": "Micro-ondes grill pose libre SAMSUNG MG23T5018CK - Noir - 23 L",
+      "prix_base": 1357000,
+      "prix_comparaison": 1355000,
+      "indice_prix": 99.85261606484893
+    },
+    {
+      "cle": "hotte_48282hottedecorativemuralesamsungnk24m3050ps60cmgris8806088787671_html",
+      "name": "Hotte d\u00e9corative murale SAMSUNG NK24M3050PS 60 cm - Gris",
+      "prix_base": 716000,
+      "prix_comparaison": 715000,
+      "indice_prix": 99.86033519553072
+    },
+    {
+      "cle": "microondes_54938microondessolo23lsamsungms23k3555ewblanccontroleelectroniqueboutonfonctionmaintienauchaud8806088219660_html",
+      "name": "Micro-ondes solo 23L - SAMSUNG - MS23K3555EW - Blanc - Contr\u00f4le \u00e9lectronique + bouton - Fonction maintien au chaud",
+      "prix_base": 1044000,
+      "prix_comparaison": 1043000,
+      "indice_prix": 99.90421455938697
+    },
+    {
+      "cle": "tableplaquedecuissoninduction_86750plaquedecuissoninductionsamsung3zonesl59xp57cmnz63m3nm1bbur7200wrevetementverrenoir8806088754871_html",
+      "name": "Plaque de cuisson induction - SAMSUNG - 3 zones - L59 x P57 cm - NZ63M3NM1BB/UR - 7200 W - Revetement verre - Noir",
+      "prix_base": 2032000,
+      "prix_comparaison": 2031000,
+      "indice_prix": 99.9507874015748
+    },
+    {
+      "cle": "four_61749fourencastrablesinglefanmultifonctionspyrolysesamsungnv7b41307aknoir595x596x570cm8806094336689_html",
+      "name": "Four encastrable single fan multifonctions pyrolyse SAMSUNG - NV7B41307AK \u2013 Noir \u2013 59,5x59,6x57,0cm",
+      "prix_base": 4419000,
+      "prix_comparaison": 4417000,
+      "indice_prix": 99.95474089160443
+    },
+    {
+      "cle": "four_61750fourencastrabletwinconvectionmultifonctioncatalysesamsungnv7b4420zasnv7b4420zasinox595x596x570cm8806094336917_html",
+      "name": "Four encastrable twin convection multifonction catalyse SAMSUNG - NV7B4420ZAS - NV7B4420ZAS - Inox - Connect\u00e9",
+      "prix_base": 4419000,
+      "prix_comparaison": 4417000,
+      "indice_prix": 99.95474089160443
+    },
+    {
+      "cle": "packgrosappareilsdecuisson_126077fourencastrablepyrolysesamsungnv7b4430zabnoirinox76l595lx596x57p8806094337020_html",
+      "name": "Four encastrable SAMSUNG NV7B4430ZAB - Multifonction - Pyrolyse - Chaleur tournante - Inox anti-traces.",
+      "prix_base": 5029000,
+      "prix_comparaison": 5028000,
+      "indice_prix": 99.98011533107974
+    },
+    {
+      "cle": "tableplaquedecuissoninduction_86751tabledecuissoninductionsamsung4zonesl59xp57cmnz64m3nm1bbur8806088757261_html",
+      "name": "Table de cuisson induction SAMSUNG - 4 zones - L59 x P57 cm - NZ64M3NM1BB/UR",
+      "prix_base": 1870000,
+      "prix_comparaison": 1878000,
+      "indice_prix": 100.42780748663101
+    },
+    {
+      "cle": "microondes_96142microondessamsungmg23k3513ak23lgrilelectronique800w288cmcaviteceramiqueemailnoir8801643757601_html",
+      "name": "Micro-ondes Samsung MG23K3513AK - 23L - Gril - Electronique - 800W - 28,8 cm - Cavit\u00e9 c\u00e9ramique \u00e9mail - Noir",
+      "prix_base": 933000,
+      "prix_comparaison": 938000,
+      "indice_prix": 100.53590568060021
     }
   ]
 }
