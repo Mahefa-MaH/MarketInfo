@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_104003pilonneusesp80345x285mm_html",
-      "name": "Pilonneuse SP80-345x285 mm",
-      "prix_base": 15800000,
-      "prix_comparaison": 15800000,
+      "cle": "tondeuserobotsansfil_137380tondeuserobotautonomestigaa1000fonctionneavecbatterie8008984864672_html",
+      "name": "Tondeuse robot autonome STIGA A 1000 - Fonctionne avec batterie",
+      "prix_base": 10479000,
+      "prix_comparaison": 10479000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuseautoporteesansfil_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
-      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
-      "prix_base": 12443000,
-      "prix_comparaison": 12443000,
+      "cle": "piscinecompletekitpiscine_138986grekitpiscinehorssolaciergriseanthraciterondejunio480xh132cmlivreeavecfiltreasablesableechellet8412081314518_html",
+      "name": "GRE - Kit Piscine hors sol acier grise anthracite ronde Juni \u00d8480 x H132 cm (Livr\u00e9e avec filtre a sable + sable + \u00e9chelle + t",
+      "prix_base": 10468000,
+      "prix_comparaison": 10468000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_99606poeleaboisenfonteinvictamandorin3244336483046_html",
-      "name": "Poele a bois en fonte - INVICTA - mandorin",
-      "prix_base": 10130000,
-      "prix_comparaison": 10130000,
+      "cle": "piscinecompletekitpiscine_138985piscinehorssolovaleenaciergrisanthracitegreloucofiltrationasable8412081314556_html",
+      "name": "Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable",
+      "prix_base": 10977000,
+      "prix_comparaison": 10977000,
       "variation": 0,
       "indice_prix": 100.0
     }

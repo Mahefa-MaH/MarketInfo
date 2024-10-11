@@ -2,89 +2,89 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Shampooing Extra doux au Lait de Pomme Le Petit Marseillais™ 250ml | Démêlant et Lissant | Livraison J+2**
-   - Prix avant: 372 Ar
-   - Prix actuel: 549 Ar
-   - Variation: +177 Ar
+1. **Papier Toilette Blanc Extra Confort Super Soft 2Plis FOXY 12 Rouleaux**
+   - Prix avant: 475 Ar
+   - Prix actuel: 587 Ar
+   - Variation: +112 Ar
 
-2. **Saucisson à l’Ail Nature environ 200g**
-   - Prix avant: 158 Ar
-   - Prix actuel: 231 Ar
-   - Variation: +73 Ar
-
-3. **Gel douche Extra Doux au Lait d’Amande Douce Le Petit Marseillais™ 250ml | Douche crème hydratante et nourrissante | Livraison J+2**
-   - Prix avant: 339 Ar
-   - Prix actuel: 405 Ar
+2. **Pack de 6 Jus de Pomme en brique LeFRUIT™ 1L |  Fabriqué à Madagascar**
+   - Prix avant: 858 Ar
+   - Prix actuel: 924 Ar
    - Variation: +66 Ar
 
-4. **Biscuits Goûter Fourrés Choco Noisette x16 295g**
-   - Prix avant: 463 Ar
-   - Prix actuel: 525 Ar
-   - Variation: +62 Ar
+3. **Sauce d’huîtres 500 grs**
+   - Prix avant: 240 Ar
+   - Prix actuel: 279 Ar
+   - Variation: +39 Ar
 
-5. **La Vache qui rit™ 120g | Fromage fondu en boite de 8 portions**
-   - Prix avant: 144 Ar
-   - Prix actuel: 191 Ar
-   - Variation: +47 Ar
+4. **Lave sol Pomme Impec™ 1L**
+   - Prix avant: 182 Ar
+   - Prix actuel: 220 Ar
+   - Variation: +38 Ar
+
+5. **Délice Framboise Mila™ Food 150g | Biscuit**
+   - Prix avant: 196 Ar
+   - Prix actuel: 232 Ar
+   - Variation: +36 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Gaufrette Frego Fraise Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
-   - Prix avant: 28 Ar
-   - Prix actuel: 35 Ar
-   - Variation: +7 Ar
+1. **Pack de 6 Yaourt aromatisé Pêche Passion Socolait™ 100g**
+   - Prix avant: 194 Ar
+   - Prix actuel: 185 Ar
+   - Variation: -9 Ar
 
-2. **Ananas Frais 1 pièce |   Petit Calibre | Mûr à consommer le jour même**
-   - Prix avant: 75 Ar
-   - Prix actuel: 88 Ar
-   - Variation: +13 Ar
+2. **Yaourt aromatisé Pêche Passion Socolait™ 100g**
+   - Prix avant: 32 Ar
+   - Prix actuel: 31 Ar
+   - Variation: -1 Ar
 
-3. **POTATO CHIPS CREAM N ONION 40G**
-   - Prix avant: 50 Ar
-   - Prix actuel: 67 Ar
-   - Variation: +17 Ar
+3. **Sel Fin matsiro Salone™ 200g**
+   - Prix avant: 5 Ar
+   - Prix actuel: 6 Ar
+   - Variation: +1 Ar
 
-4. **Lait demi écrémé Candia™ LeLait 1L**
-   - Prix avant: 172 Ar
-   - Prix actuel: 190 Ar
-   - Variation: +18 Ar
+4. **Spaghetti Paq 1 Kg**
+   - Prix avant: 466 Ar
+   - Prix actuel: 469 Ar
+   - Variation: +3 Ar
 
-5. **Spirale Macaroni  Rossini™ 500g | Pâtes**
-   - Prix avant: 81 Ar
-   - Prix actuel: 99 Ar
-   - Variation: +18 Ar
+5. **Brèdes bemol 500g | forme allongé**
+   - Prix avant: 29 Ar
+   - Prix actuel: 32 Ar
+   - Variation: +3 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Shampooing Extra doux au Lait de Pomme Le Petit Marseillais™ 250ml | Démêlant et Lissant | Livraison J+2**
-   - Prix avant: 372 Ar
-   - Prix actuel: 549 Ar
-   - Indice de prix : 147.58
+1. **Papier Toilette Blanc Extra Confort Super Soft 2Plis FOXY 12 Rouleaux**
+   - Prix avant: 475 Ar
+   - Prix actuel: 587 Ar
+   - Indice de prix : 123.58
 
-2. **Saucisson à l’Ail Nature environ 200g**
-   - Prix avant: 158 Ar
-   - Prix actuel: 231 Ar
-   - Indice de prix : 146.20
+2. **Lave sol Pomme Impec™ 1L**
+   - Prix avant: 182 Ar
+   - Prix actuel: 220 Ar
+   - Indice de prix : 120.88
 
-3. **POTATO CHIPS CREAM N ONION 40G**
-   - Prix avant: 50 Ar
-   - Prix actuel: 67 Ar
-   - Indice de prix : 134.00
+3. **Pack de 6 Sel Fin matsiro Salone™ 200g**
+   - Prix avant: 29 Ar
+   - Prix actuel: 35 Ar
+   - Indice de prix : 120.69
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Sauce d’huîtres 710 grs**
-   - Prix avant: 323 Ar
-   - Prix actuel: 352 Ar
-   - Indice de prix : 108.98
+1. **Pack de 6 Yaourt aromatisé Pêche Passion Socolait™ 100g**
+   - Prix avant: 194 Ar
+   - Prix actuel: 185 Ar
+   - Indice de prix : 95.36
 
-2. **Lait demi écrémé Candia™ LeLait 1L**
-   - Prix avant: 172 Ar
-   - Prix actuel: 190 Ar
-   - Indice de prix : 110.47
+2. **Yaourt aromatisé Pêche Passion Socolait™ 100g**
+   - Prix avant: 32 Ar
+   - Prix actuel: 31 Ar
+   - Indice de prix : 96.88
 
-3. **Biscuits Goûter Fourrés Choco Noisette x16 295g**
-   - Prix avant: 463 Ar
-   - Prix actuel: 525 Ar
-   - Indice de prix : 113.39
+3. **Spaghetti Paq 1 Kg**
+   - Prix avant: 466 Ar
+   - Prix actuel: 469 Ar
+   - Indice de prix : 100.64
 

@@ -1,122 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_shampooingextradouxlaitdepommepetitmarseillais250mldemelantlissant_",
-      "name": "Shampooing Extra doux au Lait de Pomme Le Petit Marseillais\u2122 250ml | D\u00e9m\u00ealant et Lissant | Livraison J+2",
-      "prix_base": 372,
-      "prix_comparaison": 549,
-      "variation": 177
+      "cle": "produit_papiertoiletteblancextraconfortsupersoft2plisfoxy12rouleaux_",
+      "name": "Papier Toilette Blanc Extra Confort Super Soft 2Plis FOXY 12 Rouleaux",
+      "prix_base": 475,
+      "prix_comparaison": 587,
+      "variation": 112
     },
     {
-      "cle": "produit_saucissonalailnatureenviron200g_",
-      "name": "Saucisson \u00e0 l\u2019Ail Nature environ 200g",
-      "prix_base": 158,
-      "prix_comparaison": 231,
-      "variation": 73
-    },
-    {
-      "cle": "produit_geldoucheextradouxlaitdamandedoucelepetitmarseillais250mldouchecremehydratanteetnourrissante_",
-      "name": "Gel douche Extra Doux au Lait d\u2019Amande Douce\u00a0Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 339,
-      "prix_comparaison": 405,
+      "cle": "produit_packde6jusdepommeenbriquelefruit1lfabriqueamadagascar_",
+      "name": "Pack de 6 Jus de Pomme en brique LeFRUIT\u2122 1L |  Fabriqu\u00e9 \u00e0 Madagascar",
+      "prix_base": 858,
+      "prix_comparaison": 924,
       "variation": 66
     },
     {
-      "cle": "produit_biscuitsgouterfchoconoisettex16295g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco Noisette x16 295g",
-      "prix_base": 463,
-      "prix_comparaison": 525,
-      "variation": 62
+      "cle": "produit_saucedhuitres500grs_",
+      "name": "Sauce d\u2019hu\u00eetres 500 grs",
+      "prix_base": 240,
+      "prix_comparaison": 279,
+      "variation": 39
     },
     {
-      "cle": "produit_fromagefondulavachequirit120gboitede8portions_",
-      "name": "La Vache qui rit\u2122 120g | Fromage fondu en boite de 8 portions",
-      "prix_base": 144,
-      "prix_comparaison": 191,
-      "variation": 47
+      "cle": "produit_lavesolpommeimpec1l_",
+      "name": "Lave sol Pomme Impec\u2122 1L",
+      "prix_base": 182,
+      "prix_comparaison": 220,
+      "variation": 38
+    },
+    {
+      "cle": "produit_deliceframboisemilafood150gbiscuit_",
+      "name": "D\u00e9lice Framboise Mila\u2122 Food 150g | Biscuit",
+      "prix_base": 196,
+      "prix_comparaison": 232,
+      "variation": 36
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 28,
-      "prix_comparaison": 35,
-      "variation": 7
+      "cle": "produit_packde6yaourtaromatisepechepassionsocolait100g_",
+      "name": "Pack de 6 Yaourt aromatis\u00e9 P\u00eache Passion Socolait\u2122 100g",
+      "prix_base": 194,
+      "prix_comparaison": 185,
+      "variation": -9
     },
     {
-      "cle": "produit_ananasfrais1piecepetitcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce |   Petit Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 75,
-      "prix_comparaison": 88,
-      "variation": 13
+      "cle": "produit_yaourtaromatisepassionsocolait100g_",
+      "name": "Yaourt aromatis\u00e9 P\u00eache Passion Socolait\u2122 100g",
+      "prix_base": 32,
+      "prix_comparaison": 31,
+      "variation": -1
     },
     {
-      "cle": "produit_potatochipscreamnonion40g_",
-      "name": "POTATO CHIPS CREAM N ONION 40G",
-      "prix_base": 50,
-      "prix_comparaison": 67,
-      "variation": 17
+      "cle": "produit_selfinmatsirosalone200g_",
+      "name": "Sel Fin matsiro Salone\u2122 200g",
+      "prix_base": 5,
+      "prix_comparaison": 6,
+      "variation": 1
     },
     {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 172,
-      "prix_comparaison": 190,
-      "variation": 18
+      "cle": "produit_spaghettipaq1kg_",
+      "name": "Spaghetti Paq 1 Kg",
+      "prix_base": 466,
+      "prix_comparaison": 469,
+      "variation": 3
     },
     {
-      "cle": "produit_spiralemacaronirossini500gpates2_",
-      "name": "Spirale Macaroni  Rossini\u2122 500g | P\u00e2tes",
-      "prix_base": 81,
-      "prix_comparaison": 99,
-      "variation": 18
+      "cle": "produit_bredebemol3pieces_",
+      "name": "Br\u00e8des bemol 500g | forme allong\u00e9",
+      "prix_base": 29,
+      "prix_comparaison": 32,
+      "variation": 3
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_shampooingextradouxlaitdepommepetitmarseillais250mldemelantlissant_",
-      "name": "Shampooing Extra doux au Lait de Pomme Le Petit Marseillais\u2122 250ml | D\u00e9m\u00ealant et Lissant | Livraison J+2",
-      "prix_base": 372,
-      "prix_comparaison": 549,
-      "indice_prix": 147.58064516129033
+      "cle": "produit_papiertoiletteblancextraconfortsupersoft2plisfoxy12rouleaux_",
+      "name": "Papier Toilette Blanc Extra Confort Super Soft 2Plis FOXY 12 Rouleaux",
+      "prix_base": 475,
+      "prix_comparaison": 587,
+      "indice_prix": 123.57894736842105
     },
     {
-      "cle": "produit_saucissonalailnatureenviron200g_",
-      "name": "Saucisson \u00e0 l\u2019Ail Nature environ 200g",
-      "prix_base": 158,
-      "prix_comparaison": 231,
-      "indice_prix": 146.20253164556962
+      "cle": "produit_lavesolpommeimpec1l_",
+      "name": "Lave sol Pomme Impec\u2122 1L",
+      "prix_base": 182,
+      "prix_comparaison": 220,
+      "indice_prix": 120.87912087912088
     },
     {
-      "cle": "produit_potatochipscreamnonion40g_",
-      "name": "POTATO CHIPS CREAM N ONION 40G",
-      "prix_base": 50,
-      "prix_comparaison": 67,
-      "indice_prix": 134.0
+      "cle": "produit_packde6selfinmatsirosalone200g_",
+      "name": "Pack de 6 Sel Fin matsiro Salone\u2122 200g",
+      "prix_base": 29,
+      "prix_comparaison": 35,
+      "indice_prix": 120.6896551724138
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_saucedhuitres710grs_",
-      "name": "Sauce d\u2019hu\u00eetres 710 grs",
-      "prix_base": 323,
-      "prix_comparaison": 352,
-      "indice_prix": 108.9783281733746
+      "cle": "produit_packde6yaourtaromatisepechepassionsocolait100g_",
+      "name": "Pack de 6 Yaourt aromatis\u00e9 P\u00eache Passion Socolait\u2122 100g",
+      "prix_base": 194,
+      "prix_comparaison": 185,
+      "indice_prix": 95.36082474226804
     },
     {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 172,
-      "prix_comparaison": 190,
-      "indice_prix": 110.46511627906976
+      "cle": "produit_yaourtaromatisepassionsocolait100g_",
+      "name": "Yaourt aromatis\u00e9 P\u00eache Passion Socolait\u2122 100g",
+      "prix_base": 32,
+      "prix_comparaison": 31,
+      "indice_prix": 96.875
     },
     {
-      "cle": "produit_biscuitsgouterfchoconoisettex16295g_",
-      "name": "Biscuits Go\u00fbter Fourr\u00e9s Choco Noisette x16 295g",
-      "prix_base": 463,
-      "prix_comparaison": 525,
-      "indice_prix": 113.39092872570194
+      "cle": "produit_spaghettipaq1kg_",
+      "name": "Spaghetti Paq 1 Kg",
+      "prix_base": 466,
+      "prix_comparaison": 469,
+      "indice_prix": 100.64377682403433
     }
   ]
 }

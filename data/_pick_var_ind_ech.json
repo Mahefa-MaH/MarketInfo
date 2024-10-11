@@ -1,48 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 28,
-      "prix_comparaison": 35,
-      "variation": 7
-    },
-    {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 172,
-      "prix_comparaison": 190,
-      "variation": 18
-    },
-    {
-      "cle": "produit_geldoucheextradouxlaitdamandedoucelepetitmarseillais250mldouchecremehydratanteetnourrissante_",
-      "name": "Gel douche Extra Doux au Lait d\u2019Amande Douce\u00a0Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 339,
-      "prix_comparaison": 405,
-      "variation": 66
+      "cle": "produit_yaourtbrassenaturesanssucresocolait100g_",
+      "name": "Yaourt nature sans sucre  Socolait\u2122 100g",
+      "prix_base": 26,
+      "prix_comparaison": 31,
+      "variation": 5
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_laitdemiecremebriquecandia1lsourcenaturelledecalcium_",
-      "name": "Lait demi \u00e9cr\u00e9m\u00e9 Candia\u2122 LeLait 1L",
-      "prix_base": 172,
-      "prix_comparaison": 190,
-      "indice_prix": 110.46511627906976
-    },
-    {
-      "cle": "produit_geldoucheextradouxlaitdamandedoucelepetitmarseillais250mldouchecremehydratanteetnourrissante_",
-      "name": "Gel douche Extra Doux au Lait d\u2019Amande Douce\u00a0Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 339,
-      "prix_comparaison": 405,
-      "indice_prix": 119.46902654867256
-    },
-    {
-      "cle": "produit_gaufrettefregrosaveurfraisegouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Fraise Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 28,
-      "prix_comparaison": 35,
-      "indice_prix": 125.0
+      "cle": "produit_yaourtbrassenaturesanssucresocolait100g_",
+      "name": "Yaourt nature sans sucre  Socolait\u2122 100g",
+      "prix_base": 26,
+      "prix_comparaison": 31,
+      "indice_prix": 119.23076923076923
     }
   ]
 }

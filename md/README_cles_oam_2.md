@@ -2,21 +2,21 @@
 
 ## Mba fantaro ary ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Betonnière 290L essence GX 160 Honda (BET.350L-RG-LAT)**
-   - Prix avant: 12,500,000 Ar
-   - Prix actuel: 12,500,000 Ar
+1. **Tondeuse autoportée thermique ALPINA AT2 66 QA - 66cm de coupe - éjection bac 150L**
+   - Prix avant: 12,461,000 Ar
+   - Prix actuel: 12,461,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Poele a bois - INVICTA Ovatio - 5 KW - bûches 32 cm**
-   - Prix avant: 12,868,000 Ar
-   - Prix actuel: 12,868,000 Ar
+2. **FARTOOLS Fendeur de bûche vertical 10T**
+   - Prix avant: 10,558,000 Ar
+   - Prix actuel: 10,558,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magnésium**
-   - Prix avant: 11,996,000 Ar
-   - Prix actuel: 11,996,000 Ar
+3. **Tondeuse robot autonome STIGA A 1500 - 1500m²**
+   - Prix avant: 12,658,000 Ar
+   - Prix actuel: 12,658,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

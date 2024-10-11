@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_103930betonniere290lessencegx160hondabet350lrglat_html",
-      "name": "Betonni\u00e8re 290L essence GX 160 Honda (BET.350L-RG-LAT)",
-      "prix_base": 12500000,
-      "prix_comparaison": 12500000,
+      "cle": "tondeuseautoporteesansfil_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
+      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
+      "prix_base": 12461000,
+      "prix_comparaison": 12461000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143097poeleaboisinvictaovatio5kwbuches32cm3244336149041_html",
-      "name": "Poele a bois - INVICTA Ovatio - 5 KW - b\u00fbches 32 cm",
-      "prix_base": 12868000,
-      "prix_comparaison": 12868000,
+      "cle": "fendeurdebuches_187456fartoolsfendeurdebuchevertical10t3431541820395_html",
+      "name": "FARTOOLS Fendeur de b\u00fbche vertical 10T",
+      "prix_base": 10558000,
+      "prix_comparaison": 10558000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "chauffeeau_126817chauffeeauthermodynamiqueegeaferroli200l8028693877336_html",
-      "name": "Chauffe-eau thermodynamique Ferroli EGEA 200L - Electrique - A+ - Anode Magn\u00e9sium",
-      "prix_base": 11996000,
-      "prix_comparaison": 11996000,
+      "cle": "tondeuserobotsansfil_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
+      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
+      "prix_base": 12658000,
+      "prix_comparaison": 12658000,
       "variation": 0,
       "indice_prix": 100.0
     }
