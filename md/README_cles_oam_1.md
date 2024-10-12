@@ -2,21 +2,21 @@
 
 ## Mba fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Tondeuse robot autonome STIGA A 1000 - Fonctionne avec batterie**
-   - Prix avant: 10,479,000 Ar
-   - Prix actuel: 10,479,000 Ar
+1. **Montre Homme Seiko SSE170J1**
+   - Prix avant: 10,499,000 Ar
+   - Prix actuel: 6,534,000 Ar
+   - Variation: -3,965,000 Ar
+   - Indice de prix : 62.23
+
+2. **Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four électrique - multifonction - Noire**
+   - Prix avant: 11,449,000 Ar
+   - Prix actuel: 11,449,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **GRE - Kit Piscine hors sol acier grise anthracite ronde Juni Ø480 x H132 cm (Livrée avec filtre a sable + sable + échelle + t**
-   - Prix avant: 10,468,000 Ar
-   - Prix actuel: 10,468,000 Ar
-   - Variation: 0 Ar
-   - Indice de prix : 100.00
-
-3. **Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable**
-   - Prix avant: 10,977,000 Ar
-   - Prix actuel: 10,977,000 Ar
+3. **Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sidéral - AZERTY**
+   - Prix avant: 11,519,000 Ar
+   - Prix actuel: 11,519,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

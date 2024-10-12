@@ -1,20 +1,34 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_yaourtbrassenaturesanssucresocolait100g_",
-      "name": "Yaourt nature sans sucre  Socolait\u2122 100g",
-      "prix_base": 26,
-      "prix_comparaison": 31,
-      "variation": 5
+      "cle": "produit_yaourtaboireyopnaturesucreyoplait250ml_",
+      "name": "Yop Nature sucr\u00e9 Yoplait\u2122 250ml | Yaourt \u00e0 boire",
+      "prix_base": 55,
+      "prix_comparaison": 59,
+      "variation": 4
+    },
+    {
+      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 28,
+      "prix_comparaison": 35,
+      "variation": 7
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_yaourtbrassenaturesanssucresocolait100g_",
-      "name": "Yaourt nature sans sucre  Socolait\u2122 100g",
-      "prix_base": 26,
-      "prix_comparaison": 31,
-      "indice_prix": 119.23076923076923
+      "cle": "produit_yaourtaboireyopnaturesucreyoplait250ml_",
+      "name": "Yop Nature sucr\u00e9 Yoplait\u2122 250ml | Yaourt \u00e0 boire",
+      "prix_base": 55,
+      "prix_comparaison": 59,
+      "indice_prix": 107.27272727272727
+    },
+    {
+      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
+      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
+      "prix_base": 28,
+      "prix_comparaison": 35,
+      "indice_prix": 125.0
     }
   ]
 }

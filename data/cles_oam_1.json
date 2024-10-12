@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuserobotsansfil_137380tondeuserobotautonomestigaa1000fonctionneavecbatterie8008984864672_html",
-      "name": "Tondeuse robot autonome STIGA A 1000 - Fonctionne avec batterie",
-      "prix_base": 10479000,
-      "prix_comparaison": 10479000,
+      "cle": "montres_172501montrehommeseikosse170j1_html",
+      "name": "Montre Homme Seiko SSE170J1",
+      "prix_base": 10499000,
+      "prix_comparaison": 6534000,
+      "variation": -3965000,
+      "indice_prix": 62.23449852366892
+    },
+    {
+      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
+      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
+      "prix_base": 11449000,
+      "prix_comparaison": 11449000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "piscinecompletekitpiscine_138986grekitpiscinehorssolaciergriseanthraciterondejunio480xh132cmlivreeavecfiltreasablesableechellet8412081314518_html",
-      "name": "GRE - Kit Piscine hors sol acier grise anthracite ronde Juni \u00d8480 x H132 cm (Livr\u00e9e avec filtre a sable + sable + \u00e9chelle + t",
-      "prix_base": 10468000,
-      "prix_comparaison": 10468000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "piscinecompletekitpiscine_138985piscinehorssolovaleenaciergrisanthracitegreloucofiltrationasable8412081314556_html",
-      "name": "Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable",
-      "prix_base": 10977000,
-      "prix_comparaison": 10977000,
+      "cle": "ordinateurportable_140306apple14macbookprom32024ram16gostockage1togrissideralazerty0195949640490_html",
+      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sid\u00e9ral - AZERTY",
+      "prix_base": 11519000,
+      "prix_comparaison": 11519000,
       "variation": 0,
       "indice_prix": 100.0
     }

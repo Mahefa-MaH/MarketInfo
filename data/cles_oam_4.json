@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "outillage_102579nettoyeurhpeauchaude170bars_html",
-      "name": "Nettoyeur HP eau chaude 170 bars*",
-      "prix_base": 12650000,
-      "prix_comparaison": 12650000,
+      "cle": "ordinateurportable_137456pcportablegamingerazernberazermajorx2016qhd240hzi914900hx32gossd1tohdd1tortx4070azerty4061275228540_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY",
+      "prix_base": 10415000,
+      "prix_comparaison": 10415000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "outillage_103929betonnieretractable290lavecmoteurelectriquede2cv_html",
-      "name": "Betonni\u00e8re tractable 290 L avec moteur \u00e9lectrique de 2CV",
-      "prix_base": 11900000,
-      "prix_comparaison": 11900000,
+      "cle": "ordinateurportable_140307apple14macbookprom32024ram16gostockage1toargentazerty0195949640940_html",
+      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Argent - AZERTY",
+      "prix_base": 11813000,
+      "prix_comparaison": 11813000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_99607poeleaboisenfonteinvictamandorpuissanceoptimale12kwmax18kwbuches33cmmaxfabriqueenfranceecodesg3244339180645_html",
-      "name": "Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - B\u00fbches 33 cm max - Fabriqu\u00e9 en France - Ecodesg",
-      "prix_base": 11285000,
-      "prix_comparaison": 11285000,
+      "cle": "ordinateurportable_133931apple14macbookprom3max2023ram36gostockage1tonoirsideralazerty0195949077456_html",
+      "name": "Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sid\u00e9ral - Azerty",
+      "prix_base": 17971000,
+      "prix_comparaison": 17971000,
       "variation": 0,
       "indice_prix": 100.0
     }

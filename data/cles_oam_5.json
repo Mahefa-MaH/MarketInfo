@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_143095poeleaboisinvictaneosenraccordableacier8kwbuches40cm3244339488369_html",
-      "name": "Poele a bois- INVICTA Neosen Raccordable - Acier - 8KW - B\u00fbches 40 cm",
-      "prix_base": 11631000,
-      "prix_comparaison": 11631000,
+      "cle": "ordinateurportable_133170apple16macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949073939_html",
+      "name": "Apple - 16 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 13668000,
+      "prix_comparaison": 13668000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143096poeleaboisinvictakazangrandangle9kwbuches58cm3244336104439_html",
-      "name": "Poele a bois - INVICTA Kazan Grand Angle - 9 Kw - B\u00fbches 58 cm",
-      "prix_base": 12382000,
-      "prix_comparaison": 12382000,
+      "cle": "ordinateurportable_133932apple14macbookprom3pro2023ram18gostockage1toargentazerty0195949078330_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 13536000,
+      "prix_comparaison": 13536000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143094poeleaboisinvictawilsonsurbanc8kwfontebuches55cm3244336482247_html",
-      "name": "Poele a bois - INVICTA Wilson sur banc - 8 KW - Fonte - B\u00fbches 55 cm",
-      "prix_base": 16884000,
-      "prix_comparaison": 16884000,
+      "cle": "onduleur_120267onduleurapcsmartupsrv10000va230v_html",
+      "name": "Onduleur APC Smart-UPS RV 10000VA 230V",
+      "prix_base": 17500000,
+      "prix_comparaison": 17500000,
       "variation": 0,
       "indice_prix": 100.0
     }

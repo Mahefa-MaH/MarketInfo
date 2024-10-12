@@ -2,89 +2,89 @@
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHAKARAM-BIDY(na nidina kely) AMIN'NY ANDROANY
 
-1. **Papier Toilette Blanc Extra Confort Super Soft 2Plis FOXY 12 Rouleaux**
-   - Prix avant: 475 Ar
-   - Prix actuel: 587 Ar
-   - Variation: +112 Ar
+1. **Biscuits Salés Apero Mix 350GR Mila**
+   - Prix avant: 372 Ar
+   - Prix actuel: 534 Ar
+   - Variation: +162 Ar
 
-2. **Pack de 6 Jus de Pomme en brique LeFRUIT™ 1L |  Fabriqué à Madagascar**
-   - Prix avant: 858 Ar
-   - Prix actuel: 924 Ar
-   - Variation: +66 Ar
+2. **Mortadelle Pur Porc Fumée Environ 200g LeaderPrice™**
+   - Prix avant: 150 Ar
+   - Prix actuel: 209 Ar
+   - Variation: +59 Ar
 
-3. **Sauce d’huîtres 500 grs**
-   - Prix avant: 240 Ar
-   - Prix actuel: 279 Ar
-   - Variation: +39 Ar
+3. **Côte de Porc  – Tranches épaisses x 4 | environ 750g**
+   - Prix avant: 462 Ar
+   - Prix actuel: 484 Ar
+   - Variation: +22 Ar
 
-4. **Lave sol Pomme Impec™ 1L**
-   - Prix avant: 182 Ar
-   - Prix actuel: 220 Ar
-   - Variation: +38 Ar
+4. **Carottes Fraîche 500g | Gros calibre**
+   - Prix avant: 55 Ar
+   - Prix actuel: 66 Ar
+   - Variation: +11 Ar
 
-5. **Délice Framboise Mila™ Food 150g | Biscuit**
-   - Prix avant: 196 Ar
-   - Prix actuel: 232 Ar
-   - Variation: +36 Ar
+5. **Gaufrette Frego Chocolat Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
+   - Prix avant: 28 Ar
+   - Prix actuel: 35 Ar
+   - Variation: +7 Ar
 
 ## IRETO INDRAY NY ENTANA AHITANA FIHENAM-BIDY(na fiakarana fa kely) ANDROANY
 
-1. **Pack de 6 Yaourt aromatisé Pêche Passion Socolait™ 100g**
-   - Prix avant: 194 Ar
-   - Prix actuel: 185 Ar
-   - Variation: -9 Ar
+1. **Patate douce Vomanga 1kg | Chair Blanche**
+   - Prix avant: 73 Ar
+   - Prix actuel: 34 Ar
+   - Variation: -39 Ar
 
-2. **Yaourt aromatisé Pêche Passion Socolait™ 100g**
-   - Prix avant: 32 Ar
-   - Prix actuel: 31 Ar
-   - Variation: -1 Ar
+2. **Yop Vanille Yoplait™ 250ml | Yaourt à boire**
+   - Prix avant: 55 Ar
+   - Prix actuel: 59 Ar
+   - Variation: +4 Ar
 
-3. **Sel Fin matsiro Salone™ 200g**
-   - Prix avant: 5 Ar
-   - Prix actuel: 6 Ar
-   - Variation: +1 Ar
+3. **Yop Banane Yoplait™ 250ml | Yaourt à boire**
+   - Prix avant: 55 Ar
+   - Prix actuel: 59 Ar
+   - Variation: +4 Ar
 
-4. **Spaghetti Paq 1 Kg**
-   - Prix avant: 466 Ar
-   - Prix actuel: 469 Ar
-   - Variation: +3 Ar
+4. **Yop Coco Yoplait™ 250ml | Yaourt à boire**
+   - Prix avant: 55 Ar
+   - Prix actuel: 59 Ar
+   - Variation: +4 Ar
 
-5. **Brèdes bemol 500g | forme allongé**
-   - Prix avant: 29 Ar
-   - Prix actuel: 32 Ar
-   - Variation: +3 Ar
+5. **Yop Fraise Yoplait™ 250ml | Yaourt à boire**
+   - Prix avant: 55 Ar
+   - Prix actuel: 59 Ar
+   - Variation: +4 Ar
 
 ## Ireo entana ahitana fiovam-bidy eny amin'ny supermarche
 
-1. **Papier Toilette Blanc Extra Confort Super Soft 2Plis FOXY 12 Rouleaux**
-   - Prix avant: 475 Ar
-   - Prix actuel: 587 Ar
-   - Indice de prix : 123.58
+1. **Biscuits Salés Apero Mix 350GR Mila**
+   - Prix avant: 372 Ar
+   - Prix actuel: 534 Ar
+   - Indice de prix : 143.55
 
-2. **Lave sol Pomme Impec™ 1L**
-   - Prix avant: 182 Ar
-   - Prix actuel: 220 Ar
-   - Indice de prix : 120.88
+2. **Mortadelle Pur Porc Fumée Environ 200g LeaderPrice™**
+   - Prix avant: 150 Ar
+   - Prix actuel: 209 Ar
+   - Indice de prix : 139.33
 
-3. **Pack de 6 Sel Fin matsiro Salone™ 200g**
-   - Prix avant: 29 Ar
+3. **Gaufrette Frego Chocolat Gouty™ 46g | 8 gaufrettes à la crème onctueuse**
+   - Prix avant: 28 Ar
    - Prix actuel: 35 Ar
-   - Indice de prix : 120.69
+   - Indice de prix : 125.00
 
 ## Ireo entana hita midina(na niakatra fa kely) ny vidiny eny amin'ny supermarche eto an-toerana
 
-1. **Pack de 6 Yaourt aromatisé Pêche Passion Socolait™ 100g**
-   - Prix avant: 194 Ar
-   - Prix actuel: 185 Ar
-   - Indice de prix : 95.36
+1. **Patate douce Vomanga 1kg | Chair Blanche**
+   - Prix avant: 73 Ar
+   - Prix actuel: 34 Ar
+   - Indice de prix : 46.58
 
-2. **Yaourt aromatisé Pêche Passion Socolait™ 100g**
-   - Prix avant: 32 Ar
-   - Prix actuel: 31 Ar
-   - Indice de prix : 96.88
+2. **Côte de Porc  – Tranches épaisses x 4 | environ 750g**
+   - Prix avant: 462 Ar
+   - Prix actuel: 484 Ar
+   - Indice de prix : 104.76
 
-3. **Spaghetti Paq 1 Kg**
-   - Prix avant: 466 Ar
-   - Prix actuel: 469 Ar
-   - Indice de prix : 100.64
+3. **Yop Vanille Yoplait™ 250ml | Yaourt à boire**
+   - Prix avant: 55 Ar
+   - Prix actuel: 59 Ar
+   - Indice de prix : 107.27
 

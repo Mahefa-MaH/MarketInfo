@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "poeleabois_187755poeleaboispanaderochopin3vecodesign82kwbuches80cm8426964280227_html",
-      "name": "Poele a bois - PANADERO - Chopin 3V Ecodesign - 8,2 kw - B\u00fbches 80 cm",
-      "prix_base": 18235000,
-      "prix_comparaison": 18235000,
+      "cle": "ordinateurportable_133945apple14macbookprom32023ram8gostockage1togrissideralazerty0195949099267_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sid\u00e9ral - Azerty",
+      "prix_base": 10116000,
+      "prix_comparaison": 10116000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_187744poeleaboispanaderozamoraecodesign71kwbuches50cm8426964110203_html",
-      "name": "Poele a bois - PANADERO - Zamora Ecodesign - 7,1 kw - B\u00fbches 50 cm",
-      "prix_base": 11862000,
-      "prix_comparaison": 11862000,
+      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 11622000,
+      "prix_comparaison": 11622000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "poeleabois_143099poeleaboisinvictafiftysurpied10kwbuches60cm3244336480441_html",
-      "name": "Poele a bois - INVICTA Fifty sur pied - 10 Kw - B\u00fbches 60 cm",
-      "prix_base": 14625000,
-      "prix_comparaison": 14625000,
+      "cle": "ordinateurportable_133173apple16macbookprom3pro2023ram36gostockage512goargentazerty0195949075698_html",
+      "name": "MacBook Apple MacBook Pro 16 512Go SSD 36Go RAM Puce M3 Pro CPU 12 coeurs GPU 18 coeurs Argent Nouveau",
+      "prix_base": 15623000,
+      "prix_comparaison": 15623000,
       "variation": 0,
       "indice_prix": 100.0
     }

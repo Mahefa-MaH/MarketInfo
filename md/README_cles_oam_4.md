@@ -2,21 +2,21 @@
 
 ## Fantatrao ve ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Nettoyeur HP eau chaude 170 bars***
-   - Prix avant: 12,650,000 Ar
-   - Prix actuel: 12,650,000 Ar
+1. **PC portable Gaming - ERAZER - NB ERAZER MAJOR X20 - 16” QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4070 - AZERTY**
+   - Prix avant: 10,415,000 Ar
+   - Prix actuel: 10,415,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-2. **Betonnière tractable 290 L avec moteur électrique de 2CV**
-   - Prix avant: 11,900,000 Ar
-   - Prix actuel: 11,900,000 Ar
+2. **Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Argent - AZERTY**
+   - Prix avant: 11,813,000 Ar
+   - Prix actuel: 11,813,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Poele a bois en fonte INVICTA Mandor - Puissance optimale: 12 kW - Max: 18kW - Bûches 33 cm max - Fabriqué en France - Ecodesg**
-   - Prix avant: 11,285,000 Ar
-   - Prix actuel: 11,285,000 Ar
+3. **Apple - 14 - MacBook Pro M3 Max (2023) - RAM 36Go - Stockage 1To - Noir sidéral - Azerty**
+   - Prix avant: 17,971,000 Ar
+   - Prix actuel: 17,971,000 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 

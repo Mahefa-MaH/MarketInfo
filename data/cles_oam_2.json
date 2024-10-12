@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "tondeuseautoporteesansfil_136386tondeuseautoporteethermiquealpinaat266qa66cmdecoupeejectionbac150l8008984851313_html",
-      "name": "Tondeuse autoport\u00e9e thermique ALPINA AT2 66 QA - 66cm de coupe - \u00e9jection bac 150L",
-      "prix_base": 12461000,
-      "prix_comparaison": 12461000,
+      "cle": "ordinateurportable_137454pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tohdd1tortx4090azerty4061275228335_html",
+      "name": "PC Portable Gamer ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To + HDD 1To - RTX 4090 - AZERTY",
+      "prix_base": 15734000,
+      "prix_comparaison": 15734000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "fendeurdebuches_187456fartoolsfendeurdebuchevertical10t3431541820395_html",
-      "name": "FARTOOLS Fendeur de b\u00fbche vertical 10T",
-      "prix_base": 10558000,
-      "prix_comparaison": 10558000,
+      "cle": "ordinateurportable_133927apple14macbookprom32023ram8gostockage1toargentazerty0195949015205_html",
+      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Argent - Azerty",
+      "prix_base": 10115000,
+      "prix_comparaison": 10115000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "tondeuserobotsansfil_136868tondeuserobotautonomestigaa15001500m8008984852402_html",
-      "name": "Tondeuse robot autonome STIGA A 1500 - 1500m\u00b2",
-      "prix_base": 12658000,
-      "prix_comparaison": 12658000,
+      "cle": "ordinateurportable_137455pcportablegamingerazernberazerbeastx40173qhd240hzi914900hx32gossd1tortx4080azerty4061275228410_html",
+      "name": "PC portable Gaming - ERAZER - NB ERAZER BEAST X40 - 17,3\u201d QHD 240Hz - i9-14900HX - 32Go - SSD 1To - RTX 4080 - AZERTY",
+      "prix_base": 13868000,
+      "prix_comparaison": 13868000,
       "variation": 0,
       "indice_prix": 100.0
     }
