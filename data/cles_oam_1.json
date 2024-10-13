@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "montres_172501montrehommeseikosse170j1_html",
-      "name": "Montre Homme Seiko SSE170J1",
-      "prix_base": 10499000,
-      "prix_comparaison": 6534000,
-      "variation": -3965000,
-      "indice_prix": 62.23449852366892
-    },
-    {
-      "cle": "cuisinierepianodecuisine_133070cuisinierelagermaniasm909ininduction5zonesfourelectriquemultifonctionnoire8057971103461_html",
-      "name": "Cuisiniere LA GERMANIA - sm909in - Induction - 5 zones - four \u00e9lectrique - multifonction - Noire",
-      "prix_base": 11449000,
-      "prix_comparaison": 11449000,
+      "cle": "smartphone_144551samsunggalaxyzfold6smartphonebleunuit1to8806095616414_html",
+      "name": "Smartphone Samsung GALAXY Z FOLD6 1To BLEU 5G",
+      "prix_base": 10596000,
+      "prix_comparaison": 10596000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_140306apple14macbookprom32024ram16gostockage1togrissideralazerty0195949640490_html",
-      "name": "Apple - 14 MacBook Pro M3 (2024) - RAM 16Go - Stockage 1To - Gris Sid\u00e9ral - AZERTY",
-      "prix_base": 11519000,
-      "prix_comparaison": 11519000,
+      "cle": "smartphone_127682samsunggalaxyzfold51tonoir8806095019062_html",
+      "name": "SAMSUNG Galaxy Z Fold5 1To Noir",
+      "prix_base": 10234000,
+      "prix_comparaison": 10234000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "smartphone_144557samsunggalaxyzfold6smartphonegris1to8806095667539_html",
+      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Gris 1 To",
+      "prix_base": 10599000,
+      "prix_comparaison": 10599000,
       "variation": 0,
       "indice_prix": 100.0
     }

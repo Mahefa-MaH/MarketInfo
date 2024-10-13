@@ -1,122 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_biscuitssalesaperomix350grmila_",
-      "name": "Biscuits Sal\u00e9s Apero Mix 350GR Mila",
-      "prix_base": 372,
-      "prix_comparaison": 534,
-      "variation": 162
-    },
-    {
-      "cle": "produit_mortadellepurporcfumeeenviron200g_",
-      "name": "Mortadelle Pur Porc Fum\u00e9e Environ 200g LeaderPrice\u2122",
-      "prix_base": 150,
-      "prix_comparaison": 209,
-      "variation": 59
-    },
-    {
-      "cle": "produit_cotedeporctrancheepaissesx4environ750g_",
-      "name": "C\u00f4te de Porc  \u2013 Tranches \u00e9paisses x 4 | environ 750g",
-      "prix_base": 462,
-      "prix_comparaison": 484,
-      "variation": 22
-    },
-    {
-      "cle": "produit_carottesfraiche500ggroscalibre_",
-      "name": "Carottes Fra\u00eeche 500g | Gros calibre",
-      "prix_base": 55,
-      "prix_comparaison": 66,
+      "cle": "produit_carottesfraiche1kggroscalibre_",
+      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
+      "prix_base": 88,
+      "prix_comparaison": 99,
       "variation": 11
     },
     {
-      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 28,
-      "prix_comparaison": 35,
-      "variation": 7
+      "cle": "produit_pommesdeterrepourcuisson1kggroscalibre_",
+      "name": "Pommes de terre pour cuisson 1kg | Gros calibre",
+      "prix_base": 53,
+      "prix_comparaison": 57,
+      "variation": 4
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_patatedoucheblanchebio1kgvomanga_",
-      "name": "Patate douce Vomanga 1kg | Chair Blanche",
-      "prix_base": 73,
-      "prix_comparaison": 34,
-      "variation": -39
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 112,
+      "prix_comparaison": 88,
+      "variation": -24
     },
     {
-      "cle": "produit_yaourtaboireyopvanilleyoplait250ml_",
-      "name": "Yop Vanille Yoplait\u2122 250ml | Yaourt \u00e0 boire",
-      "prix_base": 55,
-      "prix_comparaison": 59,
+      "cle": "produit_citronpresse1l_",
+      "name": "Jus de Citron frais press\u00e9 1.5L",
+      "prix_base": 117,
+      "prix_comparaison": 99,
+      "variation": -18
+    },
+    {
+      "cle": "produit_pommesdeterrepourcuisson1kggroscalibre_",
+      "name": "Pommes de terre pour cuisson 1kg | Gros calibre",
+      "prix_base": 53,
+      "prix_comparaison": 57,
       "variation": 4
     },
     {
-      "cle": "produit_yopbananeyoplait250mlyaourtaboire_",
-      "name": "Yop Banane Yoplait\u2122 250ml | Yaourt \u00e0 boire",
-      "prix_base": 55,
-      "prix_comparaison": 59,
-      "variation": 4
-    },
-    {
-      "cle": "produit_yopcocoyoplait250mlyaourtaboire_",
-      "name": "Yop Coco Yoplait\u2122 250ml | Yaourt \u00e0 boire",
-      "prix_base": 55,
-      "prix_comparaison": 59,
-      "variation": 4
-    },
-    {
-      "cle": "produit_yaourtaboireyopfraiseyoplait250ml_",
-      "name": "Yop Fraise Yoplait\u2122 250ml | Yaourt \u00e0 boire",
-      "prix_base": 55,
-      "prix_comparaison": 59,
-      "variation": 4
+      "cle": "produit_carottesfraiche1kggroscalibre_",
+      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
+      "prix_base": 88,
+      "prix_comparaison": 99,
+      "variation": 11
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_biscuitssalesaperomix350grmila_",
-      "name": "Biscuits Sal\u00e9s Apero Mix 350GR Mila",
-      "prix_base": 372,
-      "prix_comparaison": 534,
-      "indice_prix": 143.5483870967742
+      "cle": "produit_carottesfraiche1kggroscalibre_",
+      "name": "Carottes Fra\u00eeche 1 kg | Gros calibre",
+      "prix_base": 88,
+      "prix_comparaison": 99,
+      "indice_prix": 112.5
     },
     {
-      "cle": "produit_mortadellepurporcfumeeenviron200g_",
-      "name": "Mortadelle Pur Porc Fum\u00e9e Environ 200g LeaderPrice\u2122",
-      "prix_base": 150,
-      "prix_comparaison": 209,
-      "indice_prix": 139.33333333333334
+      "cle": "produit_pommesdeterrepourcuisson1kggroscalibre_",
+      "name": "Pommes de terre pour cuisson 1kg | Gros calibre",
+      "prix_base": 53,
+      "prix_comparaison": 57,
+      "indice_prix": 107.54716981132076
     },
     {
-      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 28,
-      "prix_comparaison": 35,
-      "indice_prix": 125.0
+      "cle": "produit_citronpresse1l_",
+      "name": "Jus de Citron frais press\u00e9 1.5L",
+      "prix_base": 117,
+      "prix_comparaison": 99,
+      "indice_prix": 84.61538461538461
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_patatedoucheblanchebio1kgvomanga_",
-      "name": "Patate douce Vomanga 1kg | Chair Blanche",
-      "prix_base": 73,
-      "prix_comparaison": 34,
-      "indice_prix": 46.57534246575342
+      "cle": "produit_pommessucrees1kggrandcalibre_",
+      "name": "Angivy 1kg",
+      "prix_base": 112,
+      "prix_comparaison": 88,
+      "indice_prix": 78.57142857142857
     },
     {
-      "cle": "produit_cotedeporctrancheepaissesx4environ750g_",
-      "name": "C\u00f4te de Porc  \u2013 Tranches \u00e9paisses x 4 | environ 750g",
-      "prix_base": 462,
-      "prix_comparaison": 484,
-      "indice_prix": 104.76190476190476
+      "cle": "produit_citronpresse1l_",
+      "name": "Jus de Citron frais press\u00e9 1.5L",
+      "prix_base": 117,
+      "prix_comparaison": 99,
+      "indice_prix": 84.61538461538461
     },
     {
-      "cle": "produit_yaourtaboireyopvanilleyoplait250ml_",
-      "name": "Yop Vanille Yoplait\u2122 250ml | Yaourt \u00e0 boire",
-      "prix_base": 55,
-      "prix_comparaison": 59,
-      "indice_prix": 107.27272727272727
+      "cle": "produit_pommesdeterrepourcuisson1kggroscalibre_",
+      "name": "Pommes de terre pour cuisson 1kg | Gros calibre",
+      "prix_base": 53,
+      "prix_comparaison": 57,
+      "indice_prix": 107.54716981132076
     }
   ]
 }
