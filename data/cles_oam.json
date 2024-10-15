@@ -1,10 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "standuppaddlesup_193434planchedesurfkohalaarrowschool2024310x84x12cm8436039868632_html",
-      "name": "planche de surf Kohala Arrow School 2024 310 x 84 x 12 cm",
-      "prix_base": 19035000,
-      "prix_comparaison": 19035000,
+      "cle": "ecranordinateur_189273ecranpcsamsungodysseyoledg9g93sc8806095053653_html",
+      "name": "Ecran PC Samsung ODYSSEY OLED G9 - G93SC",
+      "prix_base": 11157000,
+      "prix_comparaison": 11157000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
+      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
+      "prix_base": 11622000,
+      "prix_comparaison": 11622000,
       "variation": 0,
       "indice_prix": 100.0
     }
