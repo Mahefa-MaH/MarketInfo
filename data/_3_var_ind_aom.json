@@ -1,66 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "basketsetchaussuresdesport_193427chaussuresdecoursesparcoslalombleutaille428033280414184_html",
-      "name": "Chaussures de course Sparco SLALOM Bleu Taille 42",
-      "prix_base": 1131000,
-      "prix_comparaison": 771000,
-      "variation": -360000
+      "cle": "plaquedecuissonposable_54852plaqueainductiondomo2feux56x34x7cmdo338ip5411397156099_html",
+      "name": "Plaque a induction - DOMO - 2 feux - 56 x 34 x 7 cm - DO338IP",
+      "prix_base": 721000,
+      "prix_comparaison": 730000,
+      "variation": 9000
     },
     {
-      "cle": "basketsetchaussuresdesport_193428chaussuresdecoursesparcoslalomnoirtaille448033280414252_html",
-      "name": "Chaussures de course Sparco SLALOM Noir Taille 44",
-      "prix_base": 1136000,
-      "prix_comparaison": 775000,
-      "variation": -361000
+      "cle": "plaquedecuissonposable_138171plaqueinductionposablemedionmd153242feuxl603xp355cm4061275015409_html",
+      "name": "Plaque induction posable - MEDION - MD 15324 - 2 Feux - L 60,3 x P 35,5 cm",
+      "prix_base": 722000,
+      "prix_comparaison": 723000,
+      "variation": 1000
+    },
+    {
+      "cle": "plaquedecuissonposable_126796plaquedecuissondoubleencastrablelivoodoc168n3523930086045_html",
+      "name": "Plaque de cuisson double encastrable LIVOO - DOC168N",
+      "prix_base": 417000,
+      "prix_comparaison": 418000,
+      "variation": 1000
+    },
+    {
+      "cle": "plaquedecuissonposable_124544plaquedecuissonelectriqueencastrablelivoodoc167n3523930086021_html",
+      "name": "Plaque de cuisson \u00e9lectrique encastrable LIVOO - DOC167N",
+      "prix_base": 269000,
+      "prix_comparaison": 264000,
+      "variation": -5000
     }
   ],
   "prix_diminues": [
     {
-      "cle": "basketsetchaussuresdesport_193428chaussuresdecoursesparcoslalomnoirtaille448033280414252_html",
-      "name": "Chaussures de course Sparco SLALOM Noir Taille 44",
-      "prix_base": 1136000,
-      "prix_comparaison": 775000,
-      "variation": -361000
+      "cle": "plaquedecuissonposable_124544plaquedecuissonelectriqueencastrablelivoodoc167n3523930086021_html",
+      "name": "Plaque de cuisson \u00e9lectrique encastrable LIVOO - DOC167N",
+      "prix_base": 269000,
+      "prix_comparaison": 264000,
+      "variation": -5000
     },
     {
-      "cle": "basketsetchaussuresdesport_193427chaussuresdecoursesparcoslalombleutaille428033280414184_html",
-      "name": "Chaussures de course Sparco SLALOM Bleu Taille 42",
-      "prix_base": 1131000,
-      "prix_comparaison": 771000,
-      "variation": -360000
+      "cle": "plaquedecuissonposable_126796plaquedecuissondoubleencastrablelivoodoc168n3523930086045_html",
+      "name": "Plaque de cuisson double encastrable LIVOO - DOC168N",
+      "prix_base": 417000,
+      "prix_comparaison": 418000,
+      "variation": 1000
+    },
+    {
+      "cle": "plaquedecuissonposable_138171plaqueinductionposablemedionmd153242feuxl603xp355cm4061275015409_html",
+      "name": "Plaque induction posable - MEDION - MD 15324 - 2 Feux - L 60,3 x P 35,5 cm",
+      "prix_base": 722000,
+      "prix_comparaison": 723000,
+      "variation": 1000
+    },
+    {
+      "cle": "plaquedecuissonposable_54852plaqueainductiondomo2feux56x34x7cmdo338ip5411397156099_html",
+      "name": "Plaque a induction - DOMO - 2 feux - 56 x 34 x 7 cm - DO338IP",
+      "prix_base": 721000,
+      "prix_comparaison": 730000,
+      "variation": 9000
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "basketsetchaussuresdesport_193428chaussuresdecoursesparcoslalomnoirtaille448033280414252_html",
-      "name": "Chaussures de course Sparco SLALOM Noir Taille 44",
-      "prix_base": 1136000,
-      "prix_comparaison": 775000,
-      "indice_prix": 68.22183098591549
+      "cle": "plaquedecuissonposable_54852plaqueainductiondomo2feux56x34x7cmdo338ip5411397156099_html",
+      "name": "Plaque a induction - DOMO - 2 feux - 56 x 34 x 7 cm - DO338IP",
+      "prix_base": 721000,
+      "prix_comparaison": 730000,
+      "indice_prix": 101.24826629680999
     },
     {
-      "cle": "basketsetchaussuresdesport_193427chaussuresdecoursesparcoslalombleutaille428033280414184_html",
-      "name": "Chaussures de course Sparco SLALOM Bleu Taille 42",
-      "prix_base": 1131000,
-      "prix_comparaison": 771000,
-      "indice_prix": 68.16976127320955
+      "cle": "plaquedecuissonposable_126796plaquedecuissondoubleencastrablelivoodoc168n3523930086045_html",
+      "name": "Plaque de cuisson double encastrable LIVOO - DOC168N",
+      "prix_base": 417000,
+      "prix_comparaison": 418000,
+      "indice_prix": 100.23980815347721
+    },
+    {
+      "cle": "plaquedecuissonposable_138171plaqueinductionposablemedionmd153242feuxl603xp355cm4061275015409_html",
+      "name": "Plaque induction posable - MEDION - MD 15324 - 2 Feux - L 60,3 x P 35,5 cm",
+      "prix_base": 722000,
+      "prix_comparaison": 723000,
+      "indice_prix": 100.13850415512465
+    },
+    {
+      "cle": "plaquedecuissonposable_124544plaquedecuissonelectriqueencastrablelivoodoc167n3523930086021_html",
+      "name": "Plaque de cuisson \u00e9lectrique encastrable LIVOO - DOC167N",
+      "prix_base": 269000,
+      "prix_comparaison": 264000,
+      "indice_prix": 98.14126394052045
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "basketsetchaussuresdesport_193427chaussuresdecoursesparcoslalombleutaille428033280414184_html",
-      "name": "Chaussures de course Sparco SLALOM Bleu Taille 42",
-      "prix_base": 1131000,
-      "prix_comparaison": 771000,
-      "indice_prix": 68.16976127320955
+      "cle": "plaquedecuissonposable_124544plaquedecuissonelectriqueencastrablelivoodoc167n3523930086021_html",
+      "name": "Plaque de cuisson \u00e9lectrique encastrable LIVOO - DOC167N",
+      "prix_base": 269000,
+      "prix_comparaison": 264000,
+      "indice_prix": 98.14126394052045
     },
     {
-      "cle": "basketsetchaussuresdesport_193428chaussuresdecoursesparcoslalomnoirtaille448033280414252_html",
-      "name": "Chaussures de course Sparco SLALOM Noir Taille 44",
-      "prix_base": 1136000,
-      "prix_comparaison": 775000,
-      "indice_prix": 68.22183098591549
+      "cle": "plaquedecuissonposable_138171plaqueinductionposablemedionmd153242feuxl603xp355cm4061275015409_html",
+      "name": "Plaque induction posable - MEDION - MD 15324 - 2 Feux - L 60,3 x P 35,5 cm",
+      "prix_base": 722000,
+      "prix_comparaison": 723000,
+      "indice_prix": 100.13850415512465
+    },
+    {
+      "cle": "plaquedecuissonposable_126796plaquedecuissondoubleencastrablelivoodoc168n3523930086045_html",
+      "name": "Plaque de cuisson double encastrable LIVOO - DOC168N",
+      "prix_base": 417000,
+      "prix_comparaison": 418000,
+      "indice_prix": 100.23980815347721
+    },
+    {
+      "cle": "plaquedecuissonposable_54852plaqueainductiondomo2feux56x34x7cmdo338ip5411397156099_html",
+      "name": "Plaque a induction - DOMO - 2 feux - 56 x 34 x 7 cm - DO338IP",
+      "prix_base": 721000,
+      "prix_comparaison": 730000,
+      "indice_prix": 101.24826629680999
     }
   ]
 }

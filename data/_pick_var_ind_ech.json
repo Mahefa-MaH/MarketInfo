@@ -1,34 +1,160 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_yaourtaboireyopnaturesucreyoplait250ml_",
-      "name": "Yop Nature sucr\u00e9 Yoplait\u2122 250ml | Yaourt \u00e0 boire",
-      "prix_base": 55,
-      "prix_comparaison": 59,
-      "variation": 4
+      "cle": "produit_geldoucheextradouxlaitdamandedoucelepetitmarseillais250mldouchecremehydratanteetnourrissante_",
+      "name": "Gel douche Extra Doux au Lait d\u2019Amande Douce\u00a0Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 405,
+      "prix_comparaison": 550,
+      "variation": 145
     },
     {
-      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 28,
-      "prix_comparaison": 35,
-      "variation": 7
+      "cle": "produit_geldouchelaitdecotonetcoquelicotbiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Lait de Coton et Coquelicot BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 389,
+      "prix_comparaison": 550,
+      "variation": 161
+    },
+    {
+      "cle": "produit_geldouchepecheetnectarinebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche P\u00eache et Nectarine BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 389,
+      "prix_comparaison": 550,
+      "variation": 161
+    },
+    {
+      "cle": "produit_geldoucheverveineetcitronbiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Verveine et Citron BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 389,
+      "prix_comparaison": 550,
+      "variation": 161
+    },
+    {
+      "cle": "produit_geldoucheextradouxpetitmarseillais250mlpincristemarine_",
+      "name": "Gel douche Extra Doux Pin et Criste marine Le Petit Marseillais 250ml | Douche cr\u00e8me parfum\u00e9e et hydratante | Livraison J+2",
+      "prix_base": 353,
+      "prix_comparaison": 550,
+      "variation": 197
+    },
+    {
+      "cle": "produit_geldoucheextradouxmandarinecitronlepetitmarseillais250mldouchecremehydratante_",
+      "name": "Gel douche Extra Doux Mandarine Citron Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante",
+      "prix_base": 353,
+      "prix_comparaison": 550,
+      "variation": 197
+    },
+    {
+      "cle": "produit_geldoucheextradouxpetitmarseillais250mlptitsbonheursarosedeprovence_",
+      "name": "Gel douche Extra Doux \u00e0 la Rose de Provence Le Petit Marseillais 250ml | Douche cr\u00e8me hydratante\u00a0| Collection Les P\u2019TITS BONHEURS | Livraison J+2",
+      "prix_base": 348,
+      "prix_comparaison": 550,
+      "variation": 202
+    },
+    {
+      "cle": "produit_geldoucheextralaitlepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Extra Lait Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 339,
+      "prix_comparaison": 550,
+      "variation": 211
+    },
+    {
+      "cle": "produit_douche250mllaitdevanillelepetitmarseillais_",
+      "name": "Gel douche Extra Doux Lait de Vanille Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 339,
+      "prix_comparaison": 550,
+      "variation": 211
+    },
+    {
+      "cle": "produit_geldoucheextradouxlaitdevanillebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Extra Doux Lait de Vanille BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 339,
+      "prix_comparaison": 550,
+      "variation": 211
+    },
+    {
+      "cle": "produit_geldouchecremeextradouxpetitmarseillais250mlfleurdoranger_",
+      "name": "Gel douche Extra Doux Fleur d\u2019Oranger\u00a0Le Petit Marseillais 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 326,
+      "prix_comparaison": 550,
+      "variation": 224
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_yaourtaboireyopnaturesucreyoplait250ml_",
-      "name": "Yop Nature sucr\u00e9 Yoplait\u2122 250ml | Yaourt \u00e0 boire",
-      "prix_base": 55,
-      "prix_comparaison": 59,
-      "indice_prix": 107.27272727272727
+      "cle": "produit_geldoucheextradouxlaitdamandedoucelepetitmarseillais250mldouchecremehydratanteetnourrissante_",
+      "name": "Gel douche Extra Doux au Lait d\u2019Amande Douce\u00a0Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 405,
+      "prix_comparaison": 550,
+      "indice_prix": 135.80246913580248
     },
     {
-      "cle": "produit_gaufrettefregrosaveurchocolatgouty8gaufrettesalacremeonctueuse_",
-      "name": "Gaufrette Frego Chocolat Gouty\u2122 46g | 8 gaufrettes \u00e0 la cr\u00e8me onctueuse",
-      "prix_base": 28,
-      "prix_comparaison": 35,
-      "indice_prix": 125.0
+      "cle": "produit_geldouchelaitdecotonetcoquelicotbiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Lait de Coton et Coquelicot BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 389,
+      "prix_comparaison": 550,
+      "indice_prix": 141.38817480719794
+    },
+    {
+      "cle": "produit_geldouchepecheetnectarinebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche P\u00eache et Nectarine BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 389,
+      "prix_comparaison": 550,
+      "indice_prix": 141.38817480719794
+    },
+    {
+      "cle": "produit_geldoucheverveineetcitronbiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Verveine et Citron BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 389,
+      "prix_comparaison": 550,
+      "indice_prix": 141.38817480719794
+    },
+    {
+      "cle": "produit_geldoucheextradouxpetitmarseillais250mlpincristemarine_",
+      "name": "Gel douche Extra Doux Pin et Criste marine Le Petit Marseillais 250ml | Douche cr\u00e8me parfum\u00e9e et hydratante | Livraison J+2",
+      "prix_base": 353,
+      "prix_comparaison": 550,
+      "indice_prix": 155.80736543909347
+    },
+    {
+      "cle": "produit_geldoucheextradouxmandarinecitronlepetitmarseillais250mldouchecremehydratante_",
+      "name": "Gel douche Extra Doux Mandarine Citron Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante",
+      "prix_base": 353,
+      "prix_comparaison": 550,
+      "indice_prix": 155.80736543909347
+    },
+    {
+      "cle": "produit_geldoucheextradouxpetitmarseillais250mlptitsbonheursarosedeprovence_",
+      "name": "Gel douche Extra Doux \u00e0 la Rose de Provence Le Petit Marseillais 250ml | Douche cr\u00e8me hydratante\u00a0| Collection Les P\u2019TITS BONHEURS | Livraison J+2",
+      "prix_base": 348,
+      "prix_comparaison": 550,
+      "indice_prix": 158.04597701149424
+    },
+    {
+      "cle": "produit_geldoucheextralaitlepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Extra Lait Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 339,
+      "prix_comparaison": 550,
+      "indice_prix": 162.24188790560473
+    },
+    {
+      "cle": "produit_douche250mllaitdevanillelepetitmarseillais_",
+      "name": "Gel douche Extra Doux Lait de Vanille Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 339,
+      "prix_comparaison": 550,
+      "indice_prix": 162.24188790560473
+    },
+    {
+      "cle": "produit_geldoucheextradouxlaitdevanillebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
+      "name": "Gel douche Extra Doux Lait de Vanille BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 339,
+      "prix_comparaison": 550,
+      "indice_prix": 162.24188790560473
+    },
+    {
+      "cle": "produit_geldouchecremeextradouxpetitmarseillais250mlfleurdoranger_",
+      "name": "Gel douche Extra Doux Fleur d\u2019Oranger\u00a0Le Petit Marseillais 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
+      "prix_base": 326,
+      "prix_comparaison": 550,
+      "indice_prix": 168.7116564417178
     }
   ]
 }

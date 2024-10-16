@@ -1,18 +1,10 @@
 {
   "Variation de prix": [
     {
-      "cle": "ecranordinateur_189273ecranpcsamsungodysseyoledg9g93sc8806095053653_html",
-      "name": "Ecran PC Samsung ODYSSEY OLED G9 - G93SC",
-      "prix_base": 11157000,
-      "prix_comparaison": 11157000,
-      "variation": 0,
-      "indice_prix": 100.0
-    },
-    {
-      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
-      "prix_base": 11622000,
-      "prix_comparaison": 11622000,
+      "cle": "spacompletkitspajacuzzi_142716spagonflablebestwaylayzspasanfranciscohydrojetpro230x230x71cm57placescarrebacheunecartouche6941607350683_html",
+      "name": "Spa gonflable BESTWAY - Lay-Z-Spa San Francisco Hydrojet Pro - 230 x 230 x 71 cm - 5/7 places - Carr\u00e9 (b\u00e2che, une cartouche)",
+      "prix_base": 10789000,
+      "prix_comparaison": 10789000,
       "variation": 0,
       "indice_prix": 100.0
     }
