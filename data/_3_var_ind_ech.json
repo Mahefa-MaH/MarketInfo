@@ -1,122 +1,94 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_geldouchecremeextradouxpetitmarseillais250mlfleurdoranger_",
-      "name": "Gel douche Extra Doux Fleur d\u2019Oranger\u00a0Le Petit Marseillais 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 326,
-      "prix_comparaison": 550,
-      "variation": 224
-    },
-    {
-      "cle": "produit_geldoucheextralaitlepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
-      "name": "Gel douche Extra Lait Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 339,
-      "prix_comparaison": 550,
-      "variation": 211
-    },
-    {
-      "cle": "produit_douche250mllaitdevanillelepetitmarseillais_",
-      "name": "Gel douche Extra Doux Lait de Vanille Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 339,
-      "prix_comparaison": 550,
-      "variation": 211
-    },
-    {
-      "cle": "produit_geldoucheextradouxlaitdevanillebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
-      "name": "Gel douche Extra Doux Lait de Vanille BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 339,
-      "prix_comparaison": 550,
-      "variation": 211
-    },
-    {
-      "cle": "produit_shampooingantipelliculairedetoxpetrolehahn250ml_",
-      "name": "Shampooing Antip\u00e9lliculaire DETOX P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 254,
+      "cle": "produit_shampooingantichutepetrolehahn250ml_",
+      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
       "prix_comparaison": 462,
-      "variation": 208
+      "variation": 81
+    },
+    {
+      "cle": "produit_shampooingantipelliculairebiopetrolehahn250ml_",
+      "name": "Shampooing Antipelliculaire BIO P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
+      "prix_comparaison": 462,
+      "variation": 81
+    },
+    {
+      "cle": "produit_shampooingfortifiantantipelliculairebiocheveuxnormauxpetrolehahn250ml_",
+      "name": "Shampooing Fortifiant Antipelliculaire BIO cheveux normaux P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
+      "prix_comparaison": 462,
+      "variation": 81
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_papiertoilettelys6rouleauxclassicpapierrecycle_",
-      "name": "Papier toilette Lys\u2122 6 rouleaux | Classic Papier Recycl\u00e9 | Papier hygi\u00e9nique",
-      "prix_base": 102,
-      "prix_comparaison": 114,
-      "variation": 12
+      "cle": "produit_shampooingantichutepetrolehahn250ml_",
+      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
+      "prix_comparaison": 462,
+      "variation": 81
     },
     {
-      "cle": "produit_geldoucheextradouxlavandedeprovencelepetitmarseillais250ml_",
-      "name": "Gel douche Extra Doux Lavande de Provence Le Petit Marseillais 250ml",
-      "prix_base": 411,
-      "prix_comparaison": 550,
-      "variation": 139
+      "cle": "produit_shampooingantipelliculairebiopetrolehahn250ml_",
+      "name": "Shampooing Antipelliculaire BIO P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
+      "prix_comparaison": 462,
+      "variation": 81
     },
     {
-      "cle": "produit_geldoucheextradouxlaitdamandedoucelepetitmarseillais250mldouchecremehydratanteetnourrissante_",
-      "name": "Gel douche Extra Doux au Lait d\u2019Amande Douce\u00a0Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 405,
-      "prix_comparaison": 550,
-      "variation": 145
-    },
-    {
-      "cle": "produit_geldouchelaitdecotonetcoquelicotbiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
-      "name": "Gel douche Lait de Coton et Coquelicot BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 389,
-      "prix_comparaison": 550,
-      "variation": 161
-    },
-    {
-      "cle": "produit_geldouchepecheetnectarinebiolepetitmarseillais250mldouchecremehydratanteetnourrissantelivraisonj2_",
-      "name": "Gel douche P\u00eache et Nectarine BIO Le Petit Marseillais\u2122 250 ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 389,
-      "prix_comparaison": 550,
-      "variation": 161
+      "cle": "produit_shampooingfortifiantantipelliculairebiocheveuxnormauxpetrolehahn250ml_",
+      "name": "Shampooing Fortifiant Antipelliculaire BIO cheveux normaux P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
+      "prix_comparaison": 462,
+      "variation": 81
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_shampooingantipelliculepuretecheveuxgraspetrolehahn250ml_",
-      "name": "Shampooing Anti-pellicule puret\u00e9 cheveux gras P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 254,
+      "cle": "produit_shampooingfortifiantantipelliculairebiocheveuxnormauxpetrolehahn250ml_",
+      "name": "Shampooing Fortifiant Antipelliculaire BIO cheveux normaux P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
       "prix_comparaison": 462,
-      "indice_prix": 181.88976377952756
+      "indice_prix": 121.25984251968504
     },
     {
-      "cle": "produit_shampooingantipelliculeantidemangeaisonpetrolehahn250ml_",
-      "name": "Shampooing Anti-pelliculaire, Anti-d\u00e9mangeaison P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 254,
+      "cle": "produit_shampooingantipelliculairebiopetrolehahn250ml_",
+      "name": "Shampooing Antipelliculaire BIO P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
       "prix_comparaison": 462,
-      "indice_prix": 181.88976377952756
+      "indice_prix": 121.25984251968504
     },
     {
-      "cle": "produit_shampooingantichuteresistancepetrolehahn250ml_",
-      "name": "Shampooing Anti Chute R\u00e9sistance P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 254,
+      "cle": "produit_shampooingantichutepetrolehahn250ml_",
+      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
       "prix_comparaison": 462,
-      "indice_prix": 181.88976377952756
+      "indice_prix": 121.25984251968504
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_papiertoilettelys6rouleauxclassicpapierrecycle_",
-      "name": "Papier toilette Lys\u2122 6 rouleaux | Classic Papier Recycl\u00e9 | Papier hygi\u00e9nique",
-      "prix_base": 102,
-      "prix_comparaison": 114,
-      "indice_prix": 111.76470588235294
+      "cle": "produit_shampooingantichutepetrolehahn250ml_",
+      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
+      "prix_comparaison": 462,
+      "indice_prix": 121.25984251968504
     },
     {
-      "cle": "produit_geldoucheextradouxlavandedeprovencelepetitmarseillais250ml_",
-      "name": "Gel douche Extra Doux Lavande de Provence Le Petit Marseillais 250ml",
-      "prix_base": 411,
-      "prix_comparaison": 550,
-      "indice_prix": 133.8199513381995
+      "cle": "produit_shampooingantipelliculairebiopetrolehahn250ml_",
+      "name": "Shampooing Antipelliculaire BIO P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
+      "prix_comparaison": 462,
+      "indice_prix": 121.25984251968504
     },
     {
-      "cle": "produit_geldoucheextradouxlaitdamandedoucelepetitmarseillais250mldouchecremehydratanteetnourrissante_",
-      "name": "Gel douche Extra Doux au Lait d\u2019Amande Douce\u00a0Le Petit Marseillais\u2122 250ml | Douche cr\u00e8me hydratante et nourrissante | Livraison J+2",
-      "prix_base": 405,
-      "prix_comparaison": 550,
-      "indice_prix": 135.80246913580248
+      "cle": "produit_shampooingfortifiantantipelliculairebiocheveuxnormauxpetrolehahn250ml_",
+      "name": "Shampooing Fortifiant Antipelliculaire BIO cheveux normaux P\u00e9trole Hahn\u2122 250ml",
+      "prix_base": 381,
+      "prix_comparaison": 462,
+      "indice_prix": 121.25984251968504
     }
   ]
 }
