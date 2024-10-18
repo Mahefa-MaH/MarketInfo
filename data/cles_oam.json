@@ -1,12 +1,28 @@
 {
   "Variation de prix": [
     {
-      "cle": "spacompletkitspajacuzzi_142716spagonflablebestwaylayzspasanfranciscohydrojetpro230x230x71cm57placescarrebacheunecartouche6941607350683_html",
-      "name": "Spa gonflable BESTWAY - Lay-Z-Spa San Francisco Hydrojet Pro - 230 x 230 x 71 cm - 5/7 places - Carr\u00e9 (b\u00e2che, une cartouche)",
-      "prix_base": 10789000,
-      "prix_comparaison": 10778000,
-      "variation": -11000,
-      "indice_prix": 99.8980443043841
+      "cle": "piscinecompletekitpiscine_138986grekitpiscinehorssolaciergriseanthraciterondejunio480xh132cmlivreeavecfiltreasablesableechellet8412081314518_html",
+      "name": "GRE - Kit Piscine hors sol acier grise anthracite ronde Juni \u00d8480 x H132 cm (Livr\u00e9e avec filtre a sable + sable + \u00e9chelle + t",
+      "prix_base": 10468000,
+      "prix_comparaison": 10468000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "piscinecompletekitpiscine_138985piscinehorssolovaleenaciergrisanthracitegreloucofiltrationasable8412081314556_html",
+      "name": "Piscine hors sol ovale en acier gris anthracite - GRE - Louco - Filtration a sable",
+      "prix_base": 10977000,
+      "prix_comparaison": 10977000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "piscinecompletekitpiscine_139610piscinehorssolacierrondeimitationboismaurituso480x132cmgre8412081257389_html",
+      "name": "Piscine hors sol acier ronde imitation bois - Mauritus - \u00d8480 x 132 cm - GRE",
+      "prix_base": 11434000,
+      "prix_comparaison": 11434000,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
