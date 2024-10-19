@@ -1,94 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_shampooingantichutepetrolehahn250ml_",
-      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "variation": 81
+      "cle": "produit_liquidevaissellenickelfraise1l_",
+      "name": "Liquide vaisselle Fraise Nickel\u2122 1L",
+      "prix_base": 89,
+      "prix_comparaison": 136,
+      "variation": 47
     },
     {
-      "cle": "produit_shampooingantipelliculairebiopetrolehahn250ml_",
-      "name": "Shampooing Antipelliculaire BIO P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "variation": 81
+      "cle": "produit_liquidevaissellepomme1l_",
+      "name": "Liquide vaisselle Pomme Nickel\u2122 1L",
+      "prix_base": 89,
+      "prix_comparaison": 136,
+      "variation": 47
     },
     {
-      "cle": "produit_shampooingfortifiantantipelliculairebiocheveuxnormauxpetrolehahn250ml_",
-      "name": "Shampooing Fortifiant Antipelliculaire BIO cheveux normaux P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "variation": 81
+      "cle": "produit_liquidevaissellecitron1l_",
+      "name": "Liquide Vaisselle Citron Nickel\u2122 1L",
+      "prix_base": 94,
+      "prix_comparaison": 136,
+      "variation": 42
+    },
+    {
+      "cle": "produit_liquidevaissellefleurdecerisierimpec1l_",
+      "name": "Liquide vaisselle Fleur de cerisier Impec\u2122 1L",
+      "prix_base": 103,
+      "prix_comparaison": 136,
+      "variation": 33
+    },
+    {
+      "cle": "produit_liquidevaissellepommeraisinimpec1l_",
+      "name": "Liquide vaisselle Pomme Raisin Impec\u2122 1L",
+      "prix_base": 103,
+      "prix_comparaison": 136,
+      "variation": 33
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_shampooingantichutepetrolehahn250ml_",
-      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "variation": 81
+      "cle": "produit_liquidevaissellementhecitronimpec1l_",
+      "name": "Liquide vaisselle Menthe Citron Impec\u2122 1L",
+      "prix_base": 105,
+      "prix_comparaison": 136,
+      "variation": 31
     },
     {
-      "cle": "produit_shampooingantipelliculairebiopetrolehahn250ml_",
-      "name": "Shampooing Antipelliculaire BIO P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "variation": 81
+      "cle": "produit_liquidevaissellefleurdecerisierimpec1l_",
+      "name": "Liquide vaisselle Fleur de cerisier Impec\u2122 1L",
+      "prix_base": 103,
+      "prix_comparaison": 136,
+      "variation": 33
     },
     {
-      "cle": "produit_shampooingfortifiantantipelliculairebiocheveuxnormauxpetrolehahn250ml_",
-      "name": "Shampooing Fortifiant Antipelliculaire BIO cheveux normaux P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "variation": 81
+      "cle": "produit_liquidevaissellepommeraisinimpec1l_",
+      "name": "Liquide vaisselle Pomme Raisin Impec\u2122 1L",
+      "prix_base": 103,
+      "prix_comparaison": 136,
+      "variation": 33
+    },
+    {
+      "cle": "produit_liquidevaissellecitron1l_",
+      "name": "Liquide Vaisselle Citron Nickel\u2122 1L",
+      "prix_base": 94,
+      "prix_comparaison": 136,
+      "variation": 42
+    },
+    {
+      "cle": "produit_liquidevaissellenickelfraise1l_",
+      "name": "Liquide vaisselle Fraise Nickel\u2122 1L",
+      "prix_base": 89,
+      "prix_comparaison": 136,
+      "variation": 47
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_shampooingfortifiantantipelliculairebiocheveuxnormauxpetrolehahn250ml_",
-      "name": "Shampooing Fortifiant Antipelliculaire BIO cheveux normaux P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "indice_prix": 121.25984251968504
+      "cle": "produit_liquidevaissellepomme1l_",
+      "name": "Liquide vaisselle Pomme Nickel\u2122 1L",
+      "prix_base": 89,
+      "prix_comparaison": 136,
+      "indice_prix": 152.80898876404495
     },
     {
-      "cle": "produit_shampooingantipelliculairebiopetrolehahn250ml_",
-      "name": "Shampooing Antipelliculaire BIO P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "indice_prix": 121.25984251968504
+      "cle": "produit_liquidevaissellenickelfraise1l_",
+      "name": "Liquide vaisselle Fraise Nickel\u2122 1L",
+      "prix_base": 89,
+      "prix_comparaison": 136,
+      "indice_prix": 152.80898876404495
     },
     {
-      "cle": "produit_shampooingantichutepetrolehahn250ml_",
-      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "indice_prix": 121.25984251968504
+      "cle": "produit_liquidevaissellecitron1l_",
+      "name": "Liquide Vaisselle Citron Nickel\u2122 1L",
+      "prix_base": 94,
+      "prix_comparaison": 136,
+      "indice_prix": 144.68085106382978
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_shampooingantichutepetrolehahn250ml_",
-      "name": "Shampooing Antichute P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "indice_prix": 121.25984251968504
+      "cle": "produit_liquidevaissellementhecitronimpec1l_",
+      "name": "Liquide vaisselle Menthe Citron Impec\u2122 1L",
+      "prix_base": 105,
+      "prix_comparaison": 136,
+      "indice_prix": 129.52380952380952
     },
     {
-      "cle": "produit_shampooingantipelliculairebiopetrolehahn250ml_",
-      "name": "Shampooing Antipelliculaire BIO P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "indice_prix": 121.25984251968504
+      "cle": "produit_liquidevaissellefleurdecerisierimpec1l_",
+      "name": "Liquide vaisselle Fleur de cerisier Impec\u2122 1L",
+      "prix_base": 103,
+      "prix_comparaison": 136,
+      "indice_prix": 132.03883495145632
     },
     {
-      "cle": "produit_shampooingfortifiantantipelliculairebiocheveuxnormauxpetrolehahn250ml_",
-      "name": "Shampooing Fortifiant Antipelliculaire BIO cheveux normaux P\u00e9trole Hahn\u2122 250ml",
-      "prix_base": 381,
-      "prix_comparaison": 462,
-      "indice_prix": 121.25984251968504
+      "cle": "produit_liquidevaissellepommeraisinimpec1l_",
+      "name": "Liquide vaisselle Pomme Raisin Impec\u2122 1L",
+      "prix_base": 103,
+      "prix_comparaison": 136,
+      "indice_prix": 132.03883495145632
     }
   ]
 }
