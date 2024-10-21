@@ -1,10 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphone_175470smartphonesamsunggalaxyzfold6512gobleu5g8806095616490_html",
-      "name": "Smartphone Samsung GALAXY Z FOLD6 512Go BLEU 5G",
-      "prix_base": 10028000,
-      "prix_comparaison": 10028000,
+      "cle": "ecranordinateur_189272ecranpcsamsungodysseyoledg9g95sc498806094972566_html",
+      "name": "Ecran PC Samsung ODYSSEY OLED G9 - G95SC 49",
+      "prix_base": 11812000,
+      "prix_comparaison": 11812000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ecranordinateur_189273ecranpcsamsungodysseyoledg9g93sc8806095053653_html",
+      "name": "Ecran PC Samsung ODYSSEY OLED G9 - G93SC",
+      "prix_base": 11157000,
+      "prix_comparaison": 11157000,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "ensemblesommiermatelas_52217dekodreamensemblematelassommierrelaxationelectriqueergo9dreamzone2x80x200cmmatelasressortsensaches5412618134469_html",
+      "name": "Ensemble relaxation \u00e9lectrique matelas + sommier - 2x80x200 cm - Matelas ressorts ensach\u00e9s DEKO DREAM ERGO 9 Dreamzone",
+      "prix_base": 10167000,
+      "prix_comparaison": 10167000,
       "variation": 0,
       "indice_prix": 100.0
     }

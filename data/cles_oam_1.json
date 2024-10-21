@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "smartphone_144551samsunggalaxyzfold6smartphonebleunuit1to8806095616414_html",
-      "name": "Smartphone Samsung GALAXY Z FOLD6 1To BLEU 5G",
-      "prix_base": 10596000,
-      "prix_comparaison": 10596000,
+      "cle": "unitecentraleseuleminipc_92288pcdebureaugamingomenbyhp40lgt211007nfintelcorei913900kram32go1tossdgeforcertx409024gowindows110197192261767_html",
+      "name": "PC Gamer Omen by HP 40L GT21-1007nf - Intel Core i9-13900K - RAM 32Go - 1To SSD - GeForce RTX 4090 24Go - Windows 11",
+      "prix_base": 14495000,
+      "prix_comparaison": 14495000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "smartphone_127682samsunggalaxyzfold51tonoir8806095019062_html",
-      "name": "SAMSUNG Galaxy Z Fold5 1To Noir",
-      "prix_base": 10234000,
-      "prix_comparaison": 10234000,
+      "cle": "unitecentraleseuleminipc_126976applemacstudioapplem2max12corecpu30coregpuram32gostockage512gosilver0194253433965_html",
+      "name": "Mac mini Apple Mac Studio 512Go SSD Puce M2 Max CPU 12 coeurs GPU 30 coeurs 2023",
+      "prix_base": 11013000,
+      "prix_comparaison": 11013000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "smartphone_144557samsunggalaxyzfold6smartphonegris1to8806095667539_html",
-      "name": "SAMSUNG Galaxy Z Fold6 Smartphone Gris 1 To",
-      "prix_base": 10599000,
-      "prix_comparaison": 10599000,
+      "cle": "ecranordinateur_189274ecranpcsamsungodysseyneog9g95nc578806094972252_html",
+      "name": "Ecran PC Samsung ODYSSEY NEO G9 - G95NC 57",
+      "prix_base": 17290000,
+      "prix_comparaison": 17290000,
       "variation": 0,
       "indice_prix": 100.0
     }
