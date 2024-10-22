@@ -1,26 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "ordinateurportable_133945apple14macbookprom32023ram8gostockage1togrissideralazerty0195949099267_html",
-      "name": "Apple - 14 - MacBook Pro M3 (2023) - RAM 8Go - Stockage 1To - Gris sid\u00e9ral - Azerty",
-      "prix_base": 10116000,
-      "prix_comparaison": 10116000,
+      "cle": "onduleur_193460onduleurtwinpro2onlinedoubleconversion10000va_html",
+      "name": "Onduleur twin PRO2 on line double conversion 10000VA",
+      "prix_base": 15700000,
+      "prix_comparaison": 15700000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133929apple14macbookprom3pro2023ram18gostockage512gonoirsideralazerty0195949076572_html",
-      "name": "Apple - 14 - MacBook Pro M3 Pro (2023) - RAM 18Go - Stockage 512Go - Noir sid\u00e9ral - Azerty",
-      "prix_base": 11622000,
-      "prix_comparaison": 11622000,
+      "cle": "groupeelectrogene_135113groupeelectrogeneessencedefpro8500wtriphasebitension3760040205922_html",
+      "name": "Groupe \u00e9lectrogene Essence DEFPRO - 8500 W - Triphas\u00e9 bi-tension",
+      "prix_base": 10062000,
+      "prix_comparaison": 10062000,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "ordinateurportable_133173apple16macbookprom3pro2023ram36gostockage512goargentazerty0195949075698_html",
-      "name": "MacBook Apple MacBook Pro 16 512Go SSD 36Go RAM Puce M3 Pro CPU 12 coeurs GPU 18 coeurs Argent Nouveau",
-      "prix_base": 15623000,
-      "prix_comparaison": 15623000,
+      "cle": "groupeelectrogene_189453groupeelectrogene22kvatriphase1500trmninsonorise_html",
+      "name": "Groupe \u00e9lectrog\u00e8ne 22 KVA triphas\u00e9 1500TR/MN insonoris\u00e9",
+      "prix_base": 35000000,
+      "prix_comparaison": 35000000,
       "variation": 0,
       "indice_prix": 100.0
     }

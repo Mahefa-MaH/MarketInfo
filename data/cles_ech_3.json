@@ -1,6 +1,14 @@
 {
   "Variation de prix": [
     {
+      "cle": "produit_haricotsblancsseches1kgtsaramasomaina_",
+      "name": "Haricots Rouges s\u00e9ch\u00e9s 1kg | Tsaramaso mena maina",
+      "prix_base": 176,
+      "prix_comparaison": 176,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
       "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
       "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
       "prix_base": 4840,
