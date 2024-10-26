@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz blanc parfumé Madame Rose™ 5kg | Riz de Madagascar Naturellement parfumé**
-   - Prix avant: 880 Ar
-   - Prix actuel: 880 Ar
+3. **Riz blanc Makalioka Supermarché.mg™ 50kg | Origine Madagascar**
+   - Prix avant: 4,840 Ar
+   - Prix actuel: 4,840 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
