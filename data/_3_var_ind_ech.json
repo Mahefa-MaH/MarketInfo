@@ -1,122 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_liquidevaissellenickelfraise1l_",
-      "name": "Liquide vaisselle Fraise Nickel\u2122 1L",
-      "prix_base": 89,
-      "prix_comparaison": 136,
-      "variation": 47
+      "cle": "produit_canardentier_",
+      "name": "Canard entier | environ 1.8 kg \u2013 Canard malgache \u00e9lev\u00e9 \u00e0 l\u2019air libre",
+      "prix_base": 1162,
+      "prix_comparaison": 1493,
+      "variation": 331
     },
     {
-      "cle": "produit_liquidevaissellepomme1l_",
-      "name": "Liquide vaisselle Pomme Nickel\u2122 1L",
-      "prix_base": 89,
-      "prix_comparaison": 136,
-      "variation": 47
+      "cle": "produit_patesbarillalinguinen93_",
+      "name": "P\u00e2tes Barilla Linguine n\u00b093",
+      "prix_base": 359,
+      "prix_comparaison": 528,
+      "variation": 169
     },
     {
-      "cle": "produit_liquidevaissellecitron1l_",
-      "name": "Liquide Vaisselle Citron Nickel\u2122 1L",
-      "prix_base": 94,
-      "prix_comparaison": 136,
-      "variation": 42
+      "cle": "produit_pouletfumeenviron500g_",
+      "name": "Poulet Fum\u00e9 environ 1kg",
+      "prix_base": 860,
+      "prix_comparaison": 1027,
+      "variation": 167
     },
     {
-      "cle": "produit_liquidevaissellefleurdecerisierimpec1l_",
-      "name": "Liquide vaisselle Fleur de cerisier Impec\u2122 1L",
-      "prix_base": 103,
-      "prix_comparaison": 136,
-      "variation": 33
+      "cle": "produit_fromageenbarquettekiri200g2_",
+      "name": "Fromage en Barquette Kiri 200g",
+      "prix_base": 469,
+      "prix_comparaison": 616,
+      "variation": 147
     },
     {
-      "cle": "produit_liquidevaissellepommeraisinimpec1l_",
-      "name": "Liquide vaisselle Pomme Raisin Impec\u2122 1L",
-      "prix_base": 103,
-      "prix_comparaison": 136,
-      "variation": 33
+      "cle": "produit_packde6sardinealhuilevegetaledelmonaco125g_",
+      "name": "Pack de 6 Sardines \u00e0 l\u2019huile v\u00e9g\u00e9tale Delmonaco\u2122 125g",
+      "prix_base": 739,
+      "prix_comparaison": 880,
+      "variation": 141
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_liquidevaissellementhecitronimpec1l_",
-      "name": "Liquide vaisselle Menthe Citron Impec\u2122 1L",
-      "prix_base": 105,
-      "prix_comparaison": 136,
-      "variation": 31
+      "cle": "produit_fromagecreamcheeseauxfinesherbesmaminiaina225g_",
+      "name": "Fromage Cream Cheese aux Fines herbes Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "variation": 13
     },
     {
-      "cle": "produit_liquidevaissellefleurdecerisierimpec1l_",
-      "name": "Liquide vaisselle Fleur de cerisier Impec\u2122 1L",
-      "prix_base": 103,
-      "prix_comparaison": 136,
-      "variation": 33
+      "cle": "produit_fromagecreamcheesemelangemaminiaina225g_",
+      "name": "Fromage Cream Cheese M\u00e9lange Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "variation": 13
     },
     {
-      "cle": "produit_liquidevaissellepommeraisinimpec1l_",
-      "name": "Liquide vaisselle Pomme Raisin Impec\u2122 1L",
-      "prix_base": 103,
-      "prix_comparaison": 136,
-      "variation": 33
+      "cle": "produit_fromagevachequirit112g8portions_",
+      "name": "Fromage Vache qui rit 112g | 8 portions",
+      "prix_base": 138,
+      "prix_comparaison": 152,
+      "variation": 14
     },
     {
-      "cle": "produit_liquidevaissellecitron1l_",
-      "name": "Liquide Vaisselle Citron Nickel\u2122 1L",
-      "prix_base": 94,
-      "prix_comparaison": 136,
-      "variation": 42
+      "cle": "produit_painchocolatfeuilletemofomadagascar_",
+      "name": "Pain au chocolat Casanou\u2122",
+      "prix_base": 132,
+      "prix_comparaison": 146,
+      "variation": 14
     },
     {
-      "cle": "produit_liquidevaissellenickelfraise1l_",
-      "name": "Liquide vaisselle Fraise Nickel\u2122 1L",
-      "prix_base": 89,
-      "prix_comparaison": 136,
-      "variation": 47
+      "cle": "produit_sardinealhuilevegetaledelmonaco125g_",
+      "name": "Sardines \u00e0 l\u2019huile v\u00e9g\u00e9tale Delmonaco\u2122 125g",
+      "prix_base": 123,
+      "prix_comparaison": 147,
+      "variation": 24
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_liquidevaissellepomme1l_",
-      "name": "Liquide vaisselle Pomme Nickel\u2122 1L",
-      "prix_base": 89,
-      "prix_comparaison": 136,
-      "indice_prix": 152.80898876404495
+      "cle": "produit_patesbarillalinguinen93_",
+      "name": "P\u00e2tes Barilla Linguine n\u00b093",
+      "prix_base": 359,
+      "prix_comparaison": 528,
+      "indice_prix": 147.07520891364902
     },
     {
-      "cle": "produit_liquidevaissellenickelfraise1l_",
-      "name": "Liquide vaisselle Fraise Nickel\u2122 1L",
-      "prix_base": 89,
-      "prix_comparaison": 136,
-      "indice_prix": 152.80898876404495
+      "cle": "produit_fromageenbarquettekiri200g2_",
+      "name": "Fromage en Barquette Kiri 200g",
+      "prix_base": 469,
+      "prix_comparaison": 616,
+      "indice_prix": 131.34328358208955
     },
     {
-      "cle": "produit_liquidevaissellecitron1l_",
-      "name": "Liquide Vaisselle Citron Nickel\u2122 1L",
-      "prix_base": 94,
-      "prix_comparaison": 136,
-      "indice_prix": 144.68085106382978
+      "cle": "produit_canardentier_",
+      "name": "Canard entier | environ 1.8 kg \u2013 Canard malgache \u00e9lev\u00e9 \u00e0 l\u2019air libre",
+      "prix_base": 1162,
+      "prix_comparaison": 1493,
+      "indice_prix": 128.4853700516351
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_liquidevaissellementhecitronimpec1l_",
-      "name": "Liquide vaisselle Menthe Citron Impec\u2122 1L",
-      "prix_base": 105,
-      "prix_comparaison": 136,
-      "indice_prix": 129.52380952380952
+      "cle": "produit_lauthentiquegasy250g_",
+      "name": "L\u2019Authentique Gasy 250g",
+      "prix_base": 616,
+      "prix_comparaison": 645,
+      "indice_prix": 104.70779220779221
     },
     {
-      "cle": "produit_liquidevaissellefleurdecerisierimpec1l_",
-      "name": "Liquide vaisselle Fleur de cerisier Impec\u2122 1L",
-      "prix_base": 103,
-      "prix_comparaison": 136,
-      "indice_prix": 132.03883495145632
+      "cle": "produit_fromagecreamcheeseauxfinesherbesmaminiaina225g_",
+      "name": "Fromage Cream Cheese aux Fines herbes Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "indice_prix": 106.28019323671498
     },
     {
-      "cle": "produit_liquidevaissellepommeraisinimpec1l_",
-      "name": "Liquide vaisselle Pomme Raisin Impec\u2122 1L",
-      "prix_base": 103,
-      "prix_comparaison": 136,
-      "indice_prix": 132.03883495145632
+      "cle": "produit_fromagecreamcheesemelangemaminiaina225g_",
+      "name": "Fromage Cream Cheese M\u00e9lange Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "indice_prix": 106.28019323671498
     }
   ]
 }
