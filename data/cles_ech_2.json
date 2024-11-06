@@ -15,6 +15,14 @@
       "prix_comparaison": 2464,
       "variation": 0,
       "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_huilesoja1l_",
+      "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
+      "prix_base": 225,
+      "prix_comparaison": 225,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }
