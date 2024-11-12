@@ -1,122 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_citrouillevoatavoentranches1kgenviron5tranches_",
-      "name": "Citrouille Voatavo en tranches 1kg | environ 5 tranches",
+      "cle": "produit_ferrerorochert3_",
+      "name": "Ferrero Rocher T3",
+      "prix_base": 206,
+      "prix_comparaison": 374,
+      "variation": 168
+    },
+    {
+      "cle": "produit_haricotsvert500gavecbouts_",
+      "name": "Haricots verts 500g | Avec bouts",
       "prix_base": 44,
-      "prix_comparaison": 86,
-      "variation": 42
+      "prix_comparaison": 59,
+      "variation": 15
     },
     {
-      "cle": "produit_saladerouge1piece2_",
-      "name": "salade rouge 1 pi\u00e8ce",
-      "prix_base": 66,
-      "prix_comparaison": 88,
-      "variation": 22
+      "cle": "produit_fromagecreamcheesealailmaminiaina225g_",
+      "name": "Fromage Cream Cheese \u00e0 l\u2019ail Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "variation": 13
     },
     {
-      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 88,
-      "prix_comparaison": 105,
-      "variation": 17
+      "cle": "produit_fromagecreamcheesenaturemaminiaina225g_",
+      "name": "Fromage Cream Cheese Nature Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "variation": 13
     },
     {
-      "cle": "produit_mures500gvoaroyhazo_",
-      "name": "M\u00fbres 500g | Voaroy hazo",
-      "prix_base": 66,
-      "prix_comparaison": 77,
-      "variation": 11
-    },
-    {
-      "cle": "produit_saladeverte1piecelegumefrais_",
-      "name": "Salade Verte 1 pi\u00e8ce | Battavia",
-      "prix_base": 23,
-      "prix_comparaison": 26,
-      "variation": 3
+      "cle": "produit_fromagefonduaupoivremaminiaina225g_",
+      "name": "Fromage fondu  au Poivre Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "variation": 13
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_noixdecocorapee1kg_",
-      "name": "Noix De Coco R\u00e2p\u00e9e 1kg",
-      "prix_base": 1151,
-      "prix_comparaison": 471,
-      "variation": -680
+      "cle": "produit_lessiveenpoudreextrapropre30g_",
+      "name": "Lessive en Poudre Extra Propre 30g",
+      "prix_base": 9,
+      "prix_comparaison": 15,
+      "variation": 6
     },
     {
-      "cle": "produit_citrouillevoatavoentierentre3a4kg_",
-      "name": "Citrouille Voatavo Entier | environ 4 kg",
-      "prix_base": 557,
-      "prix_comparaison": 240,
-      "variation": -317
+      "cle": "produit_fromagecreamcheesealailmaminiaina225g_",
+      "name": "Fromage Cream Cheese \u00e0 l\u2019ail Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "variation": 13
     },
     {
-      "cle": "produit_persil1botte2_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 500 g",
-      "prix_base": 440,
-      "prix_comparaison": 154,
-      "variation": -286
+      "cle": "produit_fromagecreamcheesenaturemaminiaina225g_",
+      "name": "Fromage Cream Cheese Nature Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "variation": 13
     },
     {
-      "cle": "produit_sakaytsilandimilahyfrais1kgpimenthabanero_",
-      "name": "Sakay Tsilandimilahy Frais 1Kg  | Piment Habanero",
-      "prix_base": 352,
-      "prix_comparaison": 198,
-      "variation": -154
+      "cle": "produit_fromagefonduaupoivremaminiaina225g_",
+      "name": "Fromage fondu  au Poivre Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "variation": 13
     },
     {
-      "cle": "produit_ailfraisepluche100gr_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 200 g",
-      "prix_base": 198,
-      "prix_comparaison": 88,
-      "variation": -110
+      "cle": "produit_fromagefondunaturemaminiaina225g_",
+      "name": "Fromage Fondu Nature Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "variation": 13
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_citrouillevoatavoentranches1kgenviron5tranches_",
-      "name": "Citrouille Voatavo en tranches 1kg | environ 5 tranches",
+      "cle": "produit_ferrerorochert3_",
+      "name": "Ferrero Rocher T3",
+      "prix_base": 206,
+      "prix_comparaison": 374,
+      "indice_prix": 181.55339805825244
+    },
+    {
+      "cle": "produit_lessiveenpoudreextrapropre30g_",
+      "name": "Lessive en Poudre Extra Propre 30g",
+      "prix_base": 9,
+      "prix_comparaison": 15,
+      "indice_prix": 166.66666666666666
+    },
+    {
+      "cle": "produit_haricotsvert500gavecbouts_",
+      "name": "Haricots verts 500g | Avec bouts",
       "prix_base": 44,
-      "prix_comparaison": 86,
-      "indice_prix": 195.45454545454547
-    },
-    {
-      "cle": "produit_saladerouge1piece2_",
-      "name": "salade rouge 1 pi\u00e8ce",
-      "prix_base": 66,
-      "prix_comparaison": 88,
-      "indice_prix": 133.33333333333334
-    },
-    {
-      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
-      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
-      "prix_base": 88,
-      "prix_comparaison": 105,
-      "indice_prix": 119.31818181818181
+      "prix_comparaison": 59,
+      "indice_prix": 134.0909090909091
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_persil1botte2_",
-      "name": "Ail frais \u00e9pluch\u00e9 Pr\u00eat \u00e0 cuisiner | 500 g",
-      "prix_base": 440,
-      "prix_comparaison": 154,
-      "indice_prix": 35.0
+      "cle": "produit_fromagecreamcheesealailmaminiaina225g_",
+      "name": "Fromage Cream Cheese \u00e0 l\u2019ail Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "indice_prix": 106.28019323671498
     },
     {
-      "cle": "produit_noixdecocorapee1kg_",
-      "name": "Noix De Coco R\u00e2p\u00e9e 1kg",
-      "prix_base": 1151,
-      "prix_comparaison": 471,
-      "indice_prix": 40.92093831450912
+      "cle": "produit_fromagecreamcheesenaturemaminiaina225g_",
+      "name": "Fromage Cream Cheese Nature Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "indice_prix": 106.28019323671498
     },
     {
-      "cle": "produit_citrouillevoatavoentierentre3a4kg_",
-      "name": "Citrouille Voatavo Entier | environ 4 kg",
-      "prix_base": 557,
-      "prix_comparaison": 240,
-      "indice_prix": 43.08797127468582
+      "cle": "produit_fromagefonduaupoivremaminiaina225g_",
+      "name": "Fromage fondu  au Poivre Maminiaina\u2122 225g",
+      "prix_base": 207,
+      "prix_comparaison": 220,
+      "indice_prix": 106.28019323671498
     }
   ]
 }

@@ -1,18 +1,26 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_rizrougevarygasykapoaka_",
-      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 1kg | Vary mena | Origine Madagascar",
-      "prix_base": 87,
-      "prix_comparaison": 87,
+      "cle": "produit_huilesoja1l_",
+      "name": "Huile de Soja Hina\u2122 1L | Riche en Om\u00e9ga 3 et en Vitamine E",
+      "prix_base": 225,
+      "prix_comparaison": 225,
       "variation": 0,
       "indice_prix": 100.0
     },
     {
-      "cle": "produit_haricotsblancsseches1kgtsaramasomaina_",
-      "name": "Haricots Rouges s\u00e9ch\u00e9s 1kg | Tsaramaso mena maina",
-      "prix_base": 176,
-      "prix_comparaison": 176,
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 504,
+      "prix_comparaison": 504,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_rizrougevarygasykapoaka_",
+      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 1kg | Vary mena | Origine Madagascar",
+      "prix_base": 87,
+      "prix_comparaison": 87,
       "variation": 0,
       "indice_prix": 100.0
     }
