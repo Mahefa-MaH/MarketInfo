@@ -1,48 +1,34 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_sardinealhuilevegetaledelmonaco125g_",
-      "name": "Sardines \u00e0 l\u2019huile v\u00e9g\u00e9tale Delmonaco\u2122 125g",
-      "prix_base": 123,
-      "prix_comparaison": 147,
-      "variation": 24
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 97,
+      "prix_comparaison": 98,
+      "variation": 1
     },
     {
-      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
-      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
-      "prix_base": 231,
-      "prix_comparaison": 264,
-      "variation": 33
-    },
-    {
-      "cle": "produit_packde6sardinealhuilevegetaledelmonaco125g_",
-      "name": "Pack de 6 Sardines \u00e0 l\u2019huile v\u00e9g\u00e9tale Delmonaco\u2122 125g",
-      "prix_base": 739,
-      "prix_comparaison": 880,
-      "variation": 141
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2464,
+      "prix_comparaison": 2492,
+      "variation": 28
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
-      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
-      "prix_base": 231,
-      "prix_comparaison": 264,
-      "indice_prix": 114.28571428571429
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 97,
+      "prix_comparaison": 98,
+      "indice_prix": 101.03092783505154
     },
     {
-      "cle": "produit_packde6sardinealhuilevegetaledelmonaco125g_",
-      "name": "Pack de 6 Sardines \u00e0 l\u2019huile v\u00e9g\u00e9tale Delmonaco\u2122 125g",
-      "prix_base": 739,
-      "prix_comparaison": 880,
-      "indice_prix": 119.07983761840325
-    },
-    {
-      "cle": "produit_sardinealhuilevegetaledelmonaco125g_",
-      "name": "Sardines \u00e0 l\u2019huile v\u00e9g\u00e9tale Delmonaco\u2122 125g",
-      "prix_base": 123,
-      "prix_comparaison": 147,
-      "indice_prix": 119.51219512195122
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2464,
+      "prix_comparaison": 2492,
+      "indice_prix": 101.13636363636364
     }
   ]
 }

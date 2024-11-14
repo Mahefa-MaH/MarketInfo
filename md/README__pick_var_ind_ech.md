@@ -2,37 +2,27 @@
 
 ## Vaovao mahakasika ny fiovan'ny vidin'ny entana(PPN) eny amin'ireo supermarchés lehibe amin'ity androany ity.
 
-1. **Sardines à l’huile végétale Delmonaco™ 125g**
-   - Prix avant: 123 Ar
-   - Prix actuel: 147 Ar
-   - Variation: +24 Ar
+1. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 97 Ar
+   - Prix actuel: 98 Ar
+   - Variation: +1 Ar
 
-2. **Huile de Tournesol Lafatra™ 1L | Riche en Oméga 6**
-   - Prix avant: 231 Ar
-   - Prix actuel: 264 Ar
-   - Variation: +33 Ar
-
-3. **Pack de 6 Sardines à l’huile végétale Delmonaco™ 125g**
-   - Prix avant: 739 Ar
-   - Prix actuel: 880 Ar
-   - Variation: +141 Ar
+2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 2,464 Ar
+   - Prix actuel: 2,492 Ar
+   - Variation: +28 Ar
 
 
 
 ## Indice de prix
 
-1. **Huile de Tournesol Lafatra™ 1L | Riche en Oméga 6**
-   - Prix avant: 231 Ar
-   - Prix actuel: 264 Ar
-   - Indice de prix : 114.29
+1. **Riz blanc Makalioka Supermarché.mg™ 1kg | Origine Madagascar**
+   - Prix avant: 97 Ar
+   - Prix actuel: 98 Ar
+   - Indice de prix : 101.03
 
-2. **Pack de 6 Sardines à l’huile végétale Delmonaco™ 125g**
-   - Prix avant: 739 Ar
-   - Prix actuel: 880 Ar
-   - Indice de prix : 119.08
-
-3. **Sardines à l’huile végétale Delmonaco™ 125g**
-   - Prix avant: 123 Ar
-   - Prix actuel: 147 Ar
-   - Indice de prix : 119.51
+2. **Riz blanc Makalioka Supermarché.mg™ 25kg | Origine Madagascar**
+   - Prix avant: 2,464 Ar
+   - Prix actuel: 2,492 Ar
+   - Indice de prix : 101.14
 
