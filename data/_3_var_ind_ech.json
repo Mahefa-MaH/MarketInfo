@@ -1,122 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_queuedeboeuf500g_",
-      "name": "Queue de b\u0153uf 1 pi\u00e8ce | entre 600g \u00e0 800g",
-      "prix_base": 411,
-      "prix_comparaison": 499,
-      "variation": 88
-    },
-    {
-      "cle": "produit_bossesdeboeuf250g_",
-      "name": "Trafony ou Bosse de Z\u00e9bu | 250g \u2013 morceau gras",
-      "prix_base": 220,
-      "prix_comparaison": 287,
-      "variation": 67
-    },
-    {
-      "cle": "produit_queuedeporcenviron500g_",
-      "name": "Queue de Porc Environ 500g LeaderPrice\u2122",
-      "prix_base": 249,
-      "prix_comparaison": 293,
-      "variation": 44
-    },
-    {
-      "cle": "produit_osamoelle500gtsoka_",
-      "name": "Tsoka ou Os \u00e0 moelle de Boeuf | environ 500g | Livraison J+2",
-      "prix_base": 59,
-      "prix_comparaison": 88,
-      "variation": 29
-    },
-    {
-      "cle": "produit_foiedezebu500g_",
-      "name": "Foie de Boeuf  | 500g",
-      "prix_base": 352,
-      "prix_comparaison": 367,
-      "variation": 15
+      "cle": "produit_drageeschocolatrose1kg_",
+      "name": "Drag\u00e9es Chocolat Rose 1kg",
+      "prix_base": 1789,
+      "prix_comparaison": 2200,
+      "variation": 411
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_filetmignon500g_",
-      "name": "Filet mignon de Porc | 500g",
-      "prix_base": 662,
-      "prix_comparaison": 367,
-      "variation": -295
-    },
-    {
-      "cle": "produit_saucissepurporcenviron500g_",
-      "name": "Saucisse Pur Porc environ 500g",
-      "prix_base": 386,
-      "prix_comparaison": 308,
-      "variation": -78
-    },
-    {
-      "cle": "produit_steakhachepurboeuf5x100g100purboeuf_",
-      "name": "Steak hach\u00e9 pur boeuf 5x100g | 500g \u2013 sans assaisonement",
-      "prix_base": 331,
-      "prix_comparaison": 293,
-      "variation": -38
-    },
-    {
-      "cle": "produit_foiedezebu500g_",
-      "name": "Foie de Boeuf  | 500g",
-      "prix_base": 352,
-      "prix_comparaison": 367,
-      "variation": 15
-    },
-    {
-      "cle": "produit_osamoelle500gtsoka_",
-      "name": "Tsoka ou Os \u00e0 moelle de Boeuf | environ 500g | Livraison J+2",
-      "prix_base": 59,
-      "prix_comparaison": 88,
-      "variation": 29
+      "cle": "produit_drageeschocolatrose1kg_",
+      "name": "Drag\u00e9es Chocolat Rose 1kg",
+      "prix_base": 1789,
+      "prix_comparaison": 2200,
+      "variation": 411
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_osamoelle500gtsoka_",
-      "name": "Tsoka ou Os \u00e0 moelle de Boeuf | environ 500g | Livraison J+2",
-      "prix_base": 59,
-      "prix_comparaison": 88,
-      "indice_prix": 149.15254237288136
-    },
-    {
-      "cle": "produit_bossesdeboeuf250g_",
-      "name": "Trafony ou Bosse de Z\u00e9bu | 250g \u2013 morceau gras",
-      "prix_base": 220,
-      "prix_comparaison": 287,
-      "indice_prix": 130.45454545454547
-    },
-    {
-      "cle": "produit_queuedeboeuf500g_",
-      "name": "Queue de b\u0153uf 1 pi\u00e8ce | entre 600g \u00e0 800g",
-      "prix_base": 411,
-      "prix_comparaison": 499,
-      "indice_prix": 121.41119221411192
+      "cle": "produit_drageeschocolatrose1kg_",
+      "name": "Drag\u00e9es Chocolat Rose 1kg",
+      "prix_base": 1789,
+      "prix_comparaison": 2200,
+      "indice_prix": 122.97372833985467
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_filetmignon500g_",
-      "name": "Filet mignon de Porc | 500g",
-      "prix_base": 662,
-      "prix_comparaison": 367,
-      "indice_prix": 55.438066465256796
-    },
-    {
-      "cle": "produit_saucissepurporcenviron500g_",
-      "name": "Saucisse Pur Porc environ 500g",
-      "prix_base": 386,
-      "prix_comparaison": 308,
-      "indice_prix": 79.79274611398964
-    },
-    {
-      "cle": "produit_steakhachepurboeuf5x100g100purboeuf_",
-      "name": "Steak hach\u00e9 pur boeuf 5x100g | 500g \u2013 sans assaisonement",
-      "prix_base": 331,
-      "prix_comparaison": 293,
-      "indice_prix": 88.51963746223565
+      "cle": "produit_drageeschocolatrose1kg_",
+      "name": "Drag\u00e9es Chocolat Rose 1kg",
+      "prix_base": 1789,
+      "prix_comparaison": 2200,
+      "indice_prix": 122.97372833985467
     }
   ]
 }
