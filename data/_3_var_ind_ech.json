@@ -1,38 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_drageeschocolatrose1kg_",
-      "name": "Drag\u00e9es Chocolat Rose 1kg",
-      "prix_base": 1789,
-      "prix_comparaison": 2200,
-      "variation": 411
+      "cle": "produit_rizrougevarygasykapoaka_",
+      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 1kg | Vary mena | Origine Madagascar",
+      "prix_base": 87,
+      "prix_comparaison": 92,
+      "variation": 5
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_drageeschocolatrose1kg_",
-      "name": "Drag\u00e9es Chocolat Rose 1kg",
-      "prix_base": 1789,
-      "prix_comparaison": 2200,
-      "variation": 411
+      "cle": "produit_rizrougevarygasykapoaka_",
+      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 1kg | Vary mena | Origine Madagascar",
+      "prix_base": 87,
+      "prix_comparaison": 92,
+      "variation": 5
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_drageeschocolatrose1kg_",
-      "name": "Drag\u00e9es Chocolat Rose 1kg",
-      "prix_base": 1789,
-      "prix_comparaison": 2200,
-      "indice_prix": 122.97372833985467
+      "cle": "produit_rizrougevarygasykapoaka_",
+      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 1kg | Vary mena | Origine Madagascar",
+      "prix_base": 87,
+      "prix_comparaison": 92,
+      "indice_prix": 105.74712643678161
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_drageeschocolatrose1kg_",
-      "name": "Drag\u00e9es Chocolat Rose 1kg",
-      "prix_base": 1789,
-      "prix_comparaison": 2200,
-      "indice_prix": 122.97372833985467
+      "cle": "produit_rizrougevarygasykapoaka_",
+      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 1kg | Vary mena | Origine Madagascar",
+      "prix_base": 87,
+      "prix_comparaison": 92,
+      "indice_prix": 105.74712643678161
     }
   ]
 }
