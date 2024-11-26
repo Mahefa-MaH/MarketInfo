@@ -1,122 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_bossedeboeufoutrafonyenviron500gspecialementhalal_",
-      "name": "Bosse de Boeuf ou Trafony Environ  500g LeaderPrice\u2122| Sp\u00e9cialement Halal",
-      "prix_base": 308,
-      "prix_comparaison": 440,
-      "variation": 132
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2492,
+      "prix_comparaison": 2547,
+      "variation": 55
     },
     {
-      "cle": "produit_packde6eaumineralegazeusecristal15lbouteilleenpetrecyclable_",
-      "name": "Pack de 6 Eau Min\u00e9rale Gazeuse Cristal\u2122 1.5L | Bouteille en PET recyclable",
-      "prix_base": 733,
-      "prix_comparaison": 846,
-      "variation": 113
+      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge150ml_",
+      "name": "Sauce de soja dark aux champignons red river bridge 150ml",
+      "prix_base": 132,
+      "prix_comparaison": 153,
+      "variation": 21
     },
     {
-      "cle": "produit_confitureallegeeabricotboc350g_",
-      "name": "Confiture Allegee Abricot Boc 350g",
-      "prix_base": 378,
-      "prix_comparaison": 448,
-      "variation": 70
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 509,
+      "prix_comparaison": 520,
+      "variation": 11
     },
     {
-      "cle": "produit_laitenpoudredelice250glaitentierinstantanefortifie28_",
-      "name": "Lait en poudre D\u00e9lice\u2122 250g | Lait entier instantan\u00e9 fortifi\u00e9 28%",
-      "prix_base": 310,
-      "prix_comparaison": 338,
-      "variation": 28
+      "cle": "produit_saucedhuitres500grs_",
+      "name": "Sauce d\u2019hu\u00eetres 500 grs",
+      "prix_base": 279,
+      "prix_comparaison": 287,
+      "variation": 8
     },
     {
-      "cle": "produit_eaugazeusecristal15l_",
-      "name": "Eau Min\u00e9rale Gazeuse Cristal 1.5L | Bouteille en PET recyclable",
-      "prix_base": 122,
-      "prix_comparaison": 141,
-      "variation": 19
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 98,
+      "prix_comparaison": 100,
+      "variation": 2
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_packcadeaukids_",
-      "name": "Pack Cadeau Kids",
-      "prix_base": 266,
-      "prix_comparaison": 0,
-      "variation": -266
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 98,
+      "prix_comparaison": 100,
+      "variation": 2
     },
     {
-      "cle": "produit_saucissonalailfumeenviron200g_",
-      "name": "Saucisson \u00e0 l\u2019Ail Fum\u00e9 environ 200g LeaderPrice\u2122",
-      "prix_base": 188,
-      "prix_comparaison": 197,
-      "variation": 9
+      "cle": "produit_saucedhuitres500grs_",
+      "name": "Sauce d\u2019hu\u00eetres 500 grs",
+      "prix_base": 279,
+      "prix_comparaison": 287,
+      "variation": 8
     },
     {
-      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
-      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
-      "prix_base": 264,
-      "prix_comparaison": 279,
-      "variation": 15
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 509,
+      "prix_comparaison": 520,
+      "variation": 11
     },
     {
-      "cle": "produit_eaugazeusecristal15l_",
-      "name": "Eau Min\u00e9rale Gazeuse Cristal 1.5L | Bouteille en PET recyclable",
-      "prix_base": 122,
-      "prix_comparaison": 141,
-      "variation": 19
+      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge150ml_",
+      "name": "Sauce de soja dark aux champignons red river bridge 150ml",
+      "prix_base": 132,
+      "prix_comparaison": 153,
+      "variation": 21
     },
     {
-      "cle": "produit_laitenpoudredelice250glaitentierinstantanefortifie28_",
-      "name": "Lait en poudre D\u00e9lice\u2122 250g | Lait entier instantan\u00e9 fortifi\u00e9 28%",
-      "prix_base": 310,
-      "prix_comparaison": 338,
-      "variation": 28
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2492,
+      "prix_comparaison": 2547,
+      "variation": 55
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_bossedeboeufoutrafonyenviron500gspecialementhalal_",
-      "name": "Bosse de Boeuf ou Trafony Environ  500g LeaderPrice\u2122| Sp\u00e9cialement Halal",
-      "prix_base": 308,
-      "prix_comparaison": 440,
-      "indice_prix": 142.85714285714286
+      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge150ml_",
+      "name": "Sauce de soja dark aux champignons red river bridge 150ml",
+      "prix_base": 132,
+      "prix_comparaison": 153,
+      "indice_prix": 115.9090909090909
     },
     {
-      "cle": "produit_confitureallegeeabricotboc350g_",
-      "name": "Confiture Allegee Abricot Boc 350g",
-      "prix_base": 378,
-      "prix_comparaison": 448,
-      "indice_prix": 118.51851851851852
+      "cle": "produit_saucedhuitres500grs_",
+      "name": "Sauce d\u2019hu\u00eetres 500 grs",
+      "prix_base": 279,
+      "prix_comparaison": 287,
+      "indice_prix": 102.8673835125448
     },
     {
-      "cle": "produit_eaugazeusecristal15l_",
-      "name": "Eau Min\u00e9rale Gazeuse Cristal 1.5L | Bouteille en PET recyclable",
-      "prix_base": 122,
-      "prix_comparaison": 141,
-      "indice_prix": 115.57377049180327
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2492,
+      "prix_comparaison": 2547,
+      "indice_prix": 102.20706260032102
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_packcadeaukids_",
-      "name": "Pack Cadeau Kids",
-      "prix_base": 266,
-      "prix_comparaison": 0,
-      "indice_prix": 0.0
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 98,
+      "prix_comparaison": 100,
+      "indice_prix": 102.04081632653062
     },
     {
-      "cle": "produit_saucissonalailfumeenviron200g_",
-      "name": "Saucisson \u00e0 l\u2019Ail Fum\u00e9 environ 200g LeaderPrice\u2122",
-      "prix_base": 188,
-      "prix_comparaison": 197,
-      "indice_prix": 104.7872340425532
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 509,
+      "prix_comparaison": 520,
+      "indice_prix": 102.16110019646365
     },
     {
-      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
-      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
-      "prix_base": 264,
-      "prix_comparaison": 279,
-      "indice_prix": 105.68181818181819
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2492,
+      "prix_comparaison": 2547,
+      "indice_prix": 102.20706260032102
     }
   ]
 }

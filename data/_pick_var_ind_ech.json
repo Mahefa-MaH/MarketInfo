@@ -1,20 +1,48 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
-      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
-      "prix_base": 264,
-      "prix_comparaison": 279,
-      "variation": 15
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 98,
+      "prix_comparaison": 100,
+      "variation": 2
+    },
+    {
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 509,
+      "prix_comparaison": 520,
+      "variation": 11
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2492,
+      "prix_comparaison": 2547,
+      "variation": 55
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
-      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
-      "prix_base": 264,
-      "prix_comparaison": 279,
-      "indice_prix": 105.68181818181819
+      "cle": "produit_rizblancmakaliokakapoakavrac_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
+      "prix_base": 98,
+      "prix_comparaison": 100,
+      "indice_prix": 102.04081632653062
+    },
+    {
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 509,
+      "prix_comparaison": 520,
+      "indice_prix": 102.16110019646365
+    },
+    {
+      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
+      "prix_base": 2492,
+      "prix_comparaison": 2547,
+      "indice_prix": 102.20706260032102
     }
   ]
 }
