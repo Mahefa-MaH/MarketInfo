@@ -1,122 +1,30 @@
 {
-  "prix_augmentes": [
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2492,
-      "prix_comparaison": 2547,
-      "variation": 55
-    },
-    {
-      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge150ml_",
-      "name": "Sauce de soja dark aux champignons red river bridge 150ml",
-      "prix_base": 132,
-      "prix_comparaison": 153,
-      "variation": 21
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 509,
-      "prix_comparaison": 520,
-      "variation": 11
-    },
-    {
-      "cle": "produit_saucedhuitres500grs_",
-      "name": "Sauce d\u2019hu\u00eetres 500 grs",
-      "prix_base": 279,
-      "prix_comparaison": 287,
-      "variation": 8
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 98,
-      "prix_comparaison": 100,
-      "variation": 2
-    }
-  ],
+  "prix_augmentes": [],
   "prix_diminues": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 98,
-      "prix_comparaison": 100,
-      "variation": 2
-    },
-    {
-      "cle": "produit_saucedhuitres500grs_",
-      "name": "Sauce d\u2019hu\u00eetres 500 grs",
-      "prix_base": 279,
-      "prix_comparaison": 287,
-      "variation": 8
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 509,
-      "prix_comparaison": 520,
-      "variation": 11
-    },
-    {
-      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge150ml_",
-      "name": "Sauce de soja dark aux champignons red river bridge 150ml",
-      "prix_base": 132,
-      "prix_comparaison": 153,
-      "variation": 21
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2492,
-      "prix_comparaison": 2547,
-      "variation": 55
+      "cle": "produit_biscuitgoutybeurre_",
+      "name": "Biscuit Gouty Beurre  JB\u2122 | 18 biscuits au beurre",
+      "prix_base": 41,
+      "prix_comparaison": 33,
+      "variation": -8
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_saucedesojadarkauxchampignonsredriverbridge150ml_",
-      "name": "Sauce de soja dark aux champignons red river bridge 150ml",
-      "prix_base": 132,
-      "prix_comparaison": 153,
-      "indice_prix": 115.9090909090909
-    },
-    {
-      "cle": "produit_saucedhuitres500grs_",
-      "name": "Sauce d\u2019hu\u00eetres 500 grs",
-      "prix_base": 279,
-      "prix_comparaison": 287,
-      "indice_prix": 102.8673835125448
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2492,
-      "prix_comparaison": 2547,
-      "indice_prix": 102.20706260032102
+      "cle": "produit_biscuitgoutybeurre_",
+      "name": "Biscuit Gouty Beurre  JB\u2122 | 18 biscuits au beurre",
+      "prix_base": 41,
+      "prix_comparaison": 33,
+      "indice_prix": 80.48780487804878
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 98,
-      "prix_comparaison": 100,
-      "indice_prix": 102.04081632653062
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 509,
-      "prix_comparaison": 520,
-      "indice_prix": 102.16110019646365
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2492,
-      "prix_comparaison": 2547,
-      "indice_prix": 102.20706260032102
+      "cle": "produit_biscuitgoutybeurre_",
+      "name": "Biscuit Gouty Beurre  JB\u2122 | 18 biscuits au beurre",
+      "prix_base": 41,
+      "prix_comparaison": 33,
+      "indice_prix": 80.48780487804878
     }
   ]
 }
