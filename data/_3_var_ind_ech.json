@@ -1,30 +1,59 @@
 {
-  "prix_augmentes": [],
+  "prix_augmentes": [
+    {
+      "cle": "produit_haricotfraistsaramasolena_",
+      "name": "Haricots blancs frais 250g | Tsaramaso lena",
+      "prix_base": 70,
+      "prix_comparaison": 101,
+      "variation": 31
+    }
+  ],
   "prix_diminues": [
     {
-      "cle": "produit_biscuitgoutybeurre_",
-      "name": "Biscuit Gouty Beurre  JB\u2122 | 18 biscuits au beurre",
-      "prix_base": 41,
-      "prix_comparaison": 33,
-      "variation": -8
+      "cle": "produit_packtuyauxagazmocohgaz_",
+      "name": "Pack Tuyaux \u00e0 Gaz Mocoh Gaz\u2122",
+      "prix_base": 693,
+      "prix_comparaison": 462,
+      "variation": -231
+    },
+    {
+      "cle": "produit_haricotfraistsaramasolena_",
+      "name": "Haricots blancs frais 250g | Tsaramaso lena",
+      "prix_base": 70,
+      "prix_comparaison": 101,
+      "variation": 31
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_biscuitgoutybeurre_",
-      "name": "Biscuit Gouty Beurre  JB\u2122 | 18 biscuits au beurre",
-      "prix_base": 41,
-      "prix_comparaison": 33,
-      "indice_prix": 80.48780487804878
+      "cle": "produit_haricotfraistsaramasolena_",
+      "name": "Haricots blancs frais 250g | Tsaramaso lena",
+      "prix_base": 70,
+      "prix_comparaison": 101,
+      "indice_prix": 144.28571428571428
+    },
+    {
+      "cle": "produit_packtuyauxagazmocohgaz_",
+      "name": "Pack Tuyaux \u00e0 Gaz Mocoh Gaz\u2122",
+      "prix_base": 693,
+      "prix_comparaison": 462,
+      "indice_prix": 66.66666666666667
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_biscuitgoutybeurre_",
-      "name": "Biscuit Gouty Beurre  JB\u2122 | 18 biscuits au beurre",
-      "prix_base": 41,
-      "prix_comparaison": 33,
-      "indice_prix": 80.48780487804878
+      "cle": "produit_packtuyauxagazmocohgaz_",
+      "name": "Pack Tuyaux \u00e0 Gaz Mocoh Gaz\u2122",
+      "prix_base": 693,
+      "prix_comparaison": 462,
+      "indice_prix": 66.66666666666667
+    },
+    {
+      "cle": "produit_haricotfraistsaramasolena_",
+      "name": "Haricots blancs frais 250g | Tsaramaso lena",
+      "prix_base": 70,
+      "prix_comparaison": 101,
+      "indice_prix": 144.28571428571428
     }
   ]
 }
