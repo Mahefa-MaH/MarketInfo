@@ -1,59 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_haricotfraistsaramasolena_",
-      "name": "Haricots blancs frais 250g | Tsaramaso lena",
-      "prix_base": 70,
-      "prix_comparaison": 101,
-      "variation": 31
+      "cle": "produit_packde6youzou150clbouteilleenpetrecyclable_",
+      "name": "Pack de  6 Youzou 1,5l  | Boisson Gazeuse \u2013 bouteille en PET recyclable",
+      "prix_base": 726,
+      "prix_comparaison": 880,
+      "variation": 154
+    },
+    {
+      "cle": "produit_packde6capriceorange50clboissongazeusebouteilleenpetrecyclable_",
+      "name": "Pack de 6 Caprice\u2122 Orange 50cl | Boisson Gazeuse \u2013 bouteille en PET recyclable",
+      "prix_base": 253,
+      "prix_comparaison": 366,
+      "variation": 113
+    },
+    {
+      "cle": "produit_packde6bouteillesdeauvive15leauminerale_",
+      "name": "Pack de 6 bouteilles d\u2019Eau Vive 1,5L | Eau min\u00e9rale",
+      "prix_base": 449,
+      "prix_comparaison": 537,
+      "variation": 88
+    },
+    {
+      "cle": "produit_packde3thbpilsener50clencanette_",
+      "name": "Pack de 3 THB Pilsener 50cl- en canette",
+      "prix_base": 360,
+      "prix_comparaison": 398,
+      "variation": 38
+    },
+    {
+      "cle": "produit_youzou150clbouteilleenpetrecyclable_",
+      "name": "Youzou 1,5l  | Boisson Gazeuse \u2013 bouteille en PET recyclable",
+      "prix_base": 121,
+      "prix_comparaison": 147,
+      "variation": 26
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_packtuyauxagazmocohgaz_",
-      "name": "Pack Tuyaux \u00e0 Gaz Mocoh Gaz\u2122",
-      "prix_base": 693,
-      "prix_comparaison": 462,
-      "variation": -231
+      "cle": "produit_goldblanche33clenverreavecconsignation_",
+      "name": "GOLD Blanche 33cl en verre | avec consignation",
+      "prix_base": 86,
+      "prix_comparaison": 87,
+      "variation": 1
     },
     {
-      "cle": "produit_haricotfraistsaramasolena_",
-      "name": "Haricots blancs frais 250g | Tsaramaso lena",
-      "prix_base": 70,
-      "prix_comparaison": 101,
-      "variation": 31
+      "cle": "produit_7upcitroncitronvert33clenpet_",
+      "name": "7UP\u2122 Citron & Citron Vert 33cl en PET",
+      "prix_base": 61,
+      "prix_comparaison": 66,
+      "variation": 5
+    },
+    {
+      "cle": "produit_bosoterappelmix50clenverreavecconsignation_",
+      "name": "Booster Appel-Mix 50cl en verre | avec consignation",
+      "prix_base": 110,
+      "prix_comparaison": 119,
+      "variation": 9
+    },
+    {
+      "cle": "produit_boostercubalibre50clenverreavecconsignation_",
+      "name": "Booster Cuba Libre 50cl en verre | avec consignation",
+      "prix_base": 110,
+      "prix_comparaison": 119,
+      "variation": 9
+    },
+    {
+      "cle": "produit_boosterexotique50clenverreavecconsignation_",
+      "name": "Booster \u00e9xotique 50cl en verre | avec consignation",
+      "prix_base": 110,
+      "prix_comparaison": 119,
+      "variation": 9
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_haricotfraistsaramasolena_",
-      "name": "Haricots blancs frais 250g | Tsaramaso lena",
-      "prix_base": 70,
-      "prix_comparaison": 101,
-      "indice_prix": 144.28571428571428
+      "cle": "produit_eauvive50cl_",
+      "name": "Eau de source Eau Vive\u2122 50cl",
+      "prix_base": 30,
+      "prix_comparaison": 45,
+      "indice_prix": 150.0
     },
     {
-      "cle": "produit_packtuyauxagazmocohgaz_",
-      "name": "Pack Tuyaux \u00e0 Gaz Mocoh Gaz\u2122",
-      "prix_base": 693,
-      "prix_comparaison": 462,
-      "indice_prix": 66.66666666666667
+      "cle": "produit_boissongazeuseorangecaprice50clbouteilleenpetrecyclable_",
+      "name": "Caprice\u2122 Orange 50cl | Boisson Gazeuse \u2013 bouteille en PET recyclable",
+      "prix_base": 42,
+      "prix_comparaison": 61,
+      "indice_prix": 145.23809523809524
+    },
+    {
+      "cle": "produit_packde6capriceorange50clboissongazeusebouteilleenpetrecyclable_",
+      "name": "Pack de 6 Caprice\u2122 Orange 50cl | Boisson Gazeuse \u2013 bouteille en PET recyclable",
+      "prix_base": 253,
+      "prix_comparaison": 366,
+      "indice_prix": 144.66403162055337
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_packtuyauxagazmocohgaz_",
-      "name": "Pack Tuyaux \u00e0 Gaz Mocoh Gaz\u2122",
-      "prix_base": 693,
-      "prix_comparaison": 462,
-      "indice_prix": 66.66666666666667
+      "cle": "produit_goldblanche33clenverreavecconsignation_",
+      "name": "GOLD Blanche 33cl en verre | avec consignation",
+      "prix_base": 86,
+      "prix_comparaison": 87,
+      "indice_prix": 101.16279069767442
     },
     {
-      "cle": "produit_haricotfraistsaramasolena_",
-      "name": "Haricots blancs frais 250g | Tsaramaso lena",
-      "prix_base": 70,
-      "prix_comparaison": 101,
-      "indice_prix": 144.28571428571428
+      "cle": "produit_7upcitroncitronvert15lenpet_",
+      "name": "7UP\u2122 Citron & Citron Vert 1.5L en PET",
+      "prix_base": 299,
+      "prix_comparaison": 308,
+      "indice_prix": 103.01003344481606
+    },
+    {
+      "cle": "produit_bosoterappelmix50clenverreavecconsignation_",
+      "name": "Booster Appel-Mix 50cl en verre | avec consignation",
+      "prix_base": 110,
+      "prix_comparaison": 119,
+      "indice_prix": 108.18181818181819
     }
   ]
 }
