@@ -14,9 +14,9 @@
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
-3. **Riz rouge Malgache Supermarché.mg™ 1kg | Vary mena | Origine Madagascar**
-   - Prix avant: 100 Ar
-   - Prix actuel: 100 Ar
+3. **Riz blanc Makalioka Supermarché.mg™ 5kg | Origine Madagascar**
+   - Prix avant: 520 Ar
+   - Prix actuel: 520 Ar
    - Variation: 0 Ar
    - Indice de prix : 100.00
 
