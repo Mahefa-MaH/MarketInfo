@@ -1,108 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 5005,
-      "prix_comparaison": 5280,
-      "variation": 275
+      "cle": "produit_noixdeporc500g_",
+      "name": "Escalope de porc 500g",
+      "prix_base": 308,
+      "prix_comparaison": 337,
+      "variation": 29
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2547,
-      "prix_comparaison": 2684,
-      "variation": 137
+      "cle": "produit_cotedeporcnature500g_",
+      "name": "C\u00f4te de Porc  | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 337,
+      "variation": 29
     },
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 520,
-      "prix_comparaison": 548,
-      "variation": 28
+      "cle": "produit_rumsteckdeboeuf500g_",
+      "name": "Rumsteak de Boeuf  | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 323,
+      "variation": 15
     },
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 100,
-      "prix_comparaison": 106,
-      "variation": 6
+      "cle": "produit_blancdepouletsansos500g_",
+      "name": "Blanc de Poulet sans os | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 323,
+      "variation": 15
+    },
+    {
+      "cle": "produit_hacheedeviande500g_",
+      "name": "Viande de Boeuf hach\u00e9e | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 323,
+      "variation": 15
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 100,
-      "prix_comparaison": 106,
-      "variation": 6
+      "cle": "produit_cuissedepoulet1kgenviron4pieces_",
+      "name": "Cuisse de Poulet | 1 kg \u2013 environ 4 pi\u00e8ces",
+      "prix_base": 809,
+      "prix_comparaison": 660,
+      "variation": -149
     },
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 520,
-      "prix_comparaison": 548,
-      "variation": 28
+      "cle": "produit_entrecotedezebu1kg_",
+      "name": "Entrec\u00f4te de Boeuf | 500g",
+      "prix_base": 279,
+      "prix_comparaison": 293,
+      "variation": 14
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2547,
-      "prix_comparaison": 2684,
-      "variation": 137
+      "cle": "produit_rumsteckdeboeuf500g_",
+      "name": "Rumsteak de Boeuf  | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 323,
+      "variation": 15
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 5005,
-      "prix_comparaison": 5280,
-      "variation": 275
+      "cle": "produit_blancdepouletsansos500g_",
+      "name": "Blanc de Poulet sans os | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 323,
+      "variation": 15
+    },
+    {
+      "cle": "produit_hacheedeviande500g_",
+      "name": "Viande de Boeuf hach\u00e9e | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 323,
+      "variation": 15
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 100,
-      "prix_comparaison": 106,
-      "indice_prix": 106.0
+      "cle": "produit_cotedeporcnature500g_",
+      "name": "C\u00f4te de Porc  | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 337,
+      "indice_prix": 109.41558441558442
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 5005,
-      "prix_comparaison": 5280,
-      "indice_prix": 105.49450549450549
+      "cle": "produit_noixdeporc500g_",
+      "name": "Escalope de porc 500g",
+      "prix_base": 308,
+      "prix_comparaison": 337,
+      "indice_prix": 109.41558441558442
     },
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 520,
-      "prix_comparaison": 548,
-      "indice_prix": 105.38461538461539
+      "cle": "produit_entrecotedezebu1kg_",
+      "name": "Entrec\u00f4te de Boeuf | 500g",
+      "prix_base": 279,
+      "prix_comparaison": 293,
+      "indice_prix": 105.0179211469534
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2547,
-      "prix_comparaison": 2684,
-      "indice_prix": 105.37887711032587
+      "cle": "produit_cuissedepoulet1kgenviron4pieces_",
+      "name": "Cuisse de Poulet | 1 kg \u2013 environ 4 pi\u00e8ces",
+      "prix_base": 809,
+      "prix_comparaison": 660,
+      "indice_prix": 81.5822002472188
     },
     {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 520,
-      "prix_comparaison": 548,
-      "indice_prix": 105.38461538461539
+      "cle": "produit_rumsteckdeboeuf500g_",
+      "name": "Rumsteak de Boeuf  | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 323,
+      "indice_prix": 104.87012987012987
     },
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 5005,
-      "prix_comparaison": 5280,
-      "indice_prix": 105.49450549450549
+      "cle": "produit_blancdepouletsansos500g_",
+      "name": "Blanc de Poulet sans os | 500g",
+      "prix_base": 308,
+      "prix_comparaison": 323,
+      "indice_prix": 104.87012987012987
     }
   ]
 }
