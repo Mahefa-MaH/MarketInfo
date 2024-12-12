@@ -1,20 +1,12 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2547,
-      "prix_comparaison": 2684,
-      "variation": 137,
-      "indice_prix": 105.37887711032587
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 5005,
-      "prix_comparaison": 5280,
-      "variation": 275,
-      "indice_prix": 105.49450549450549
+      "cle": "produit_sucreblanctanjaka1kg_",
+      "name": "Sucre blanc Tanjaka 1kg",
+      "prix_base": 220,
+      "prix_comparaison": 220,
+      "variation": 0,
+      "indice_prix": 100.0
     }
   ]
 }

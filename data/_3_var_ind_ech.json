@@ -1,122 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_noixdeporc500g_",
-      "name": "Escalope de porc 500g",
-      "prix_base": 308,
-      "prix_comparaison": 337,
-      "variation": 29
+      "cle": "produit_lapinentierdepiauteenviron1kglivraisonj2_",
+      "name": "Lapin entier d\u00e9piaut\u00e9 | environ 1 kg | Livraison J+2",
+      "prix_base": 880,
+      "prix_comparaison": 1158,
+      "variation": 278
     },
     {
-      "cle": "produit_cotedeporcnature500g_",
-      "name": "C\u00f4te de Porc  | 500g",
-      "prix_base": 308,
-      "prix_comparaison": 337,
-      "variation": 29
+      "cle": "produit_cuissedepoulet1kgenviron4pieces_",
+      "name": "Cuisse de Poulet | 1 kg \u2013 environ 4 pi\u00e8ces",
+      "prix_base": 660,
+      "prix_comparaison": 809,
+      "variation": 149
     },
     {
-      "cle": "produit_rumsteckdeboeuf500g_",
-      "name": "Rumsteak de Boeuf  | 500g",
-      "prix_base": 308,
-      "prix_comparaison": 323,
-      "variation": 15
+      "cle": "produit_rouelledeporc500g_",
+      "name": "Rouelle de porc 500g",
+      "prix_base": 323,
+      "prix_comparaison": 443,
+      "variation": 120
     },
     {
-      "cle": "produit_blancdepouletsansos500g_",
-      "name": "Blanc de Poulet sans os | 500g",
-      "prix_base": 308,
-      "prix_comparaison": 323,
-      "variation": 15
+      "cle": "produit_tomatecerise1kg_",
+      "name": "Tomate Cerise 1kg",
+      "prix_base": 550,
+      "prix_comparaison": 660,
+      "variation": 110
     },
     {
-      "cle": "produit_hacheedeviande500g_",
-      "name": "Viande de Boeuf hach\u00e9e | 500g",
+      "cle": "produit_kitozakisoaprepare500gviandedeporcboucanee_",
+      "name": "Kitoza de Porc pr\u00e9par\u00e9 | 500g \u2013 assaisonn\u00e9",
       "prix_base": 308,
-      "prix_comparaison": 323,
-      "variation": 15
+      "prix_comparaison": 377,
+      "variation": 69
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_cuissedepoulet1kgenviron4pieces_",
-      "name": "Cuisse de Poulet | 1 kg \u2013 environ 4 pi\u00e8ces",
-      "prix_base": 809,
-      "prix_comparaison": 660,
-      "variation": -149
+      "cle": "produit_gingembre500g_",
+      "name": "Gingembre 500g",
+      "prix_base": 53,
+      "prix_comparaison": 55,
+      "variation": 2
     },
     {
-      "cle": "produit_entrecotedezebu1kg_",
-      "name": "Entrec\u00f4te de Boeuf | 500g",
-      "prix_base": 279,
-      "prix_comparaison": 293,
-      "variation": 14
+      "cle": "produit_tomateronde1kggrandcalibre_",
+      "name": "Tomates rondes fermes 500g | Gros Calibre | A consommer le lendemain",
+      "prix_base": 55,
+      "prix_comparaison": 57,
+      "variation": 2
     },
     {
-      "cle": "produit_rumsteckdeboeuf500g_",
-      "name": "Rumsteak de Boeuf  | 500g",
-      "prix_base": 308,
-      "prix_comparaison": 323,
-      "variation": 15
+      "cle": "produit_saucissegarnies500g_",
+      "name": "Saucisse m\u00e9lange | 500g \u2013 M\u00e9lange de Boeuf et de Porc",
+      "prix_base": 293,
+      "prix_comparaison": 296,
+      "variation": 3
     },
     {
-      "cle": "produit_blancdepouletsansos500g_",
-      "name": "Blanc de Poulet sans os | 500g",
-      "prix_base": 308,
-      "prix_comparaison": 323,
-      "variation": 15
+      "cle": "produit_tomatesjaponaisefraichesfermes1kgaconsommerlelendemain_",
+      "name": "Tomates rondes fermes 1kg | Calibre Moyen | A consommer le lendemain",
+      "prix_base": 99,
+      "prix_comparaison": 103,
+      "variation": 4
     },
     {
-      "cle": "produit_hacheedeviande500g_",
-      "name": "Viande de Boeuf hach\u00e9e | 500g",
-      "prix_base": 308,
-      "prix_comparaison": 323,
-      "variation": 15
+      "cle": "produit_ciboulette1botte_",
+      "name": "Ciboulette 1 botte",
+      "prix_base": 29,
+      "prix_comparaison": 33,
+      "variation": 4
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_cotedeporcnature500g_",
-      "name": "C\u00f4te de Porc  | 500g",
-      "prix_base": 308,
-      "prix_comparaison": 337,
-      "indice_prix": 109.41558441558442
+      "cle": "produit_voanjoborylena1kapoaka_",
+      "name": "Pois de bambara frais 250g | Voanjobory lena",
+      "prix_base": 44,
+      "prix_comparaison": 79,
+      "indice_prix": 179.54545454545453
     },
     {
-      "cle": "produit_noixdeporc500g_",
-      "name": "Escalope de porc 500g",
-      "prix_base": 308,
-      "prix_comparaison": 337,
-      "indice_prix": 109.41558441558442
+      "cle": "produit_carottesfraiche500g_",
+      "name": "Carottes Fra\u00eeche 500g | Calibre moyen",
+      "prix_base": 55,
+      "prix_comparaison": 98,
+      "indice_prix": 178.1818181818182
     },
     {
-      "cle": "produit_entrecotedezebu1kg_",
-      "name": "Entrec\u00f4te de Boeuf | 500g",
-      "prix_base": 279,
-      "prix_comparaison": 293,
-      "indice_prix": 105.0179211469534
+      "cle": "produit_rouelledeporc500g_",
+      "name": "Rouelle de porc 500g",
+      "prix_base": 323,
+      "prix_comparaison": 443,
+      "indice_prix": 137.1517027863777
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_cuissedepoulet1kgenviron4pieces_",
-      "name": "Cuisse de Poulet | 1 kg \u2013 environ 4 pi\u00e8ces",
-      "prix_base": 809,
-      "prix_comparaison": 660,
-      "indice_prix": 81.5822002472188
+      "cle": "produit_saucissegarnies500g_",
+      "name": "Saucisse m\u00e9lange | 500g \u2013 M\u00e9lange de Boeuf et de Porc",
+      "prix_base": 293,
+      "prix_comparaison": 296,
+      "indice_prix": 101.02389078498294
     },
     {
-      "cle": "produit_rumsteckdeboeuf500g_",
-      "name": "Rumsteak de Boeuf  | 500g",
-      "prix_base": 308,
-      "prix_comparaison": 323,
-      "indice_prix": 104.87012987012987
+      "cle": "produit_tomateronde1kggrandcalibre_",
+      "name": "Tomates rondes fermes 500g | Gros Calibre | A consommer le lendemain",
+      "prix_base": 55,
+      "prix_comparaison": 57,
+      "indice_prix": 103.63636363636364
     },
     {
-      "cle": "produit_blancdepouletsansos500g_",
-      "name": "Blanc de Poulet sans os | 500g",
-      "prix_base": 308,
-      "prix_comparaison": 323,
-      "indice_prix": 104.87012987012987
+      "cle": "produit_boudinblanc500g_",
+      "name": "Boudin Blanc Environ 600g LeaderPrice\u2122",
+      "prix_base": 511,
+      "prix_comparaison": 530,
+      "indice_prix": 103.71819960861056
     }
   ]
 }
