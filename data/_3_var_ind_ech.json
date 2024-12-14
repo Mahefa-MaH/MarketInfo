@@ -1,66 +1,122 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_bonbonsanssucreminiminthsmenthefortehollywood_",
-      "name": "Bonbon Sans sucre Mini Minths Menthe Forte Hollywood",
-      "prix_base": 135,
-      "prix_comparaison": 220,
-      "variation": 85
+      "cle": "produit_saucissesfumees500g_",
+      "name": "Saucisse fum\u00e9e de Porc | 500g",
+      "prix_base": 381,
+      "prix_comparaison": 411,
+      "variation": 30
     },
     {
-      "cle": "produit_pastillesmmcacahuette100g_",
-      "name": "Pastilles M&M\u2019s Cacahuette 100g",
-      "prix_base": 254,
-      "prix_comparaison": 330,
-      "variation": 76
+      "cle": "produit_courgettes3pieces_",
+      "name": "Courgettes 1Kg | Calibre Moyen",
+      "prix_base": 44,
+      "prix_comparaison": 59,
+      "variation": 15
+    },
+    {
+      "cle": "produit_courgette500g_",
+      "name": "Courgettes 500g | Calibre Moyen",
+      "prix_base": 29,
+      "prix_comparaison": 44,
+      "variation": 15
+    },
+    {
+      "cle": "produit_courgettes500ggroscalibre_",
+      "name": "Courgettes 500g | Gros Calibre",
+      "prix_base": 29,
+      "prix_comparaison": 44,
+      "variation": 15
+    },
+    {
+      "cle": "produit_bananefraiche1kgfermeaconsommelelendemain_",
+      "name": "Bananes fermes 1kg | \u00e0 consommer le lendemain",
+      "prix_base": 59,
+      "prix_comparaison": 73,
+      "variation": 14
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_pastillesmmcacahuette100g_",
-      "name": "Pastilles M&M\u2019s Cacahuette 100g",
-      "prix_base": 254,
-      "prix_comparaison": 330,
-      "variation": 76
+      "cle": "produit_haricotsvert1kgavecbouts_",
+      "name": "Haricots verts 1kg Avec bouts",
+      "prix_base": 163,
+      "prix_comparaison": 106,
+      "variation": -57
     },
     {
-      "cle": "produit_bonbonsanssucreminiminthsmenthefortehollywood_",
-      "name": "Bonbon Sans sucre Mini Minths Menthe Forte Hollywood",
-      "prix_base": 135,
-      "prix_comparaison": 220,
-      "variation": 85
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 79,
+      "prix_comparaison": 73,
+      "variation": -6
+    },
+    {
+      "cle": "produit_anamamy500gbredes_",
+      "name": "Anamamy 500g | Br\u00e8des",
+      "prix_base": 40,
+      "prix_comparaison": 44,
+      "variation": 4
+    },
+    {
+      "cle": "produit_bredemafana1botteanamalao_",
+      "name": "Anamalao 250g | Br\u00e8des mafana",
+      "prix_base": 31,
+      "prix_comparaison": 37,
+      "variation": 6
+    },
+    {
+      "cle": "produit_ananasfrais1piecegrandcalibremuraconsommerlejourmeme_",
+      "name": "Ananas Frais 1 pi\u00e8ce | Grand Calibre | M\u00fbr \u00e0 consommer le jour m\u00eame",
+      "prix_base": 105,
+      "prix_comparaison": 117,
+      "variation": 12
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_bonbonsanssucreminiminthsmenthefortehollywood_",
-      "name": "Bonbon Sans sucre Mini Minths Menthe Forte Hollywood",
-      "prix_base": 135,
-      "prix_comparaison": 220,
-      "indice_prix": 162.96296296296296
+      "cle": "produit_courgettes500ggroscalibre_",
+      "name": "Courgettes 500g | Gros Calibre",
+      "prix_base": 29,
+      "prix_comparaison": 44,
+      "indice_prix": 151.72413793103448
     },
     {
-      "cle": "produit_pastillesmmcacahuette100g_",
-      "name": "Pastilles M&M\u2019s Cacahuette 100g",
-      "prix_base": 254,
-      "prix_comparaison": 330,
-      "indice_prix": 129.92125984251967
+      "cle": "produit_courgette500g_",
+      "name": "Courgettes 500g | Calibre Moyen",
+      "prix_base": 29,
+      "prix_comparaison": 44,
+      "indice_prix": 151.72413793103448
+    },
+    {
+      "cle": "produit_courgettes3pieces_",
+      "name": "Courgettes 1Kg | Calibre Moyen",
+      "prix_base": 44,
+      "prix_comparaison": 59,
+      "indice_prix": 134.0909090909091
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_pastillesmmcacahuette100g_",
-      "name": "Pastilles M&M\u2019s Cacahuette 100g",
-      "prix_base": 254,
-      "prix_comparaison": 330,
-      "indice_prix": 129.92125984251967
+      "cle": "produit_haricotsvert1kgavecbouts_",
+      "name": "Haricots verts 1kg Avec bouts",
+      "prix_base": 163,
+      "prix_comparaison": 106,
+      "indice_prix": 65.03067484662577
     },
     {
-      "cle": "produit_bonbonsanssucreminiminthsmenthefortehollywood_",
-      "name": "Bonbon Sans sucre Mini Minths Menthe Forte Hollywood",
-      "prix_base": 135,
-      "prix_comparaison": 220,
-      "indice_prix": 162.96296296296296
+      "cle": "produit_tomatesallongeesmures1kgcalibremoyenaconsommerlejoursmeme_",
+      "name": "Tomates allong\u00e9es m\u00fbres 1kg | Calibre Moyen | A consommer le jours m\u00eame",
+      "prix_base": 79,
+      "prix_comparaison": 73,
+      "indice_prix": 92.40506329113924
+    },
+    {
+      "cle": "produit_saucissesfumees500g_",
+      "name": "Saucisse fum\u00e9e de Porc | 500g",
+      "prix_base": 381,
+      "prix_comparaison": 411,
+      "indice_prix": 107.8740157480315
     }
   ]
 }

@@ -1,10 +1,18 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_sucreblanctanjaka1kg_",
-      "name": "Sucre blanc Tanjaka 1kg",
-      "prix_base": 220,
-      "prix_comparaison": 220,
+      "cle": "produit_rizmakalioka5kg_",
+      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
+      "prix_base": 548,
+      "prix_comparaison": 548,
+      "variation": 0,
+      "indice_prix": 100.0
+    },
+    {
+      "cle": "produit_rizrougevarygasykapoaka_",
+      "name": "Riz rouge Malgache Supermarch\u00e9.mg\u2122 1kg | Vary mena | Origine Madagascar",
+      "prix_base": 100,
+      "prix_comparaison": 100,
       "variation": 0,
       "indice_prix": 100.0
     }
