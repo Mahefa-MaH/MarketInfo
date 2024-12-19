@@ -1,108 +1,38 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_beteensbukifrance4_",
-      "name": "Be Teens Buki France",
-      "prix_base": 1507,
-      "prix_comparaison": 1877,
-      "variation": 370
-    },
-    {
-      "cle": "produit_gold8star50clenverreavecconsignation_",
-      "name": "GOLD 8 Star\u2122 50 cl en verre | avec consignation",
-      "prix_base": 110,
-      "prix_comparaison": 157,
-      "variation": 47
-    },
-    {
-      "cle": "produit_goldblondepremiumstar65clenverreavecconsignation_",
-      "name": "GOLD Blonde Premium Star\u2122 65cl en verre | avec consignation",
-      "prix_base": 123,
-      "prix_comparaison": 157,
-      "variation": 34
-    },
-    {
-      "cle": "produit_goldblanche33clenverreavecconsignation_",
-      "name": "GOLD Blanche 33cl en verre | avec consignation",
-      "prix_base": 87,
-      "prix_comparaison": 91,
-      "variation": 4
+      "cle": "produit_ben10360_",
+      "name": "BEN10 360\u00b0",
+      "prix_base": 2097,
+      "prix_comparaison": 2254,
+      "variation": 157
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_goldblanche33clenverreavecconsignation_",
-      "name": "GOLD Blanche 33cl en verre | avec consignation",
-      "prix_base": 87,
-      "prix_comparaison": 91,
-      "variation": 4
-    },
-    {
-      "cle": "produit_goldblondepremiumstar65clenverreavecconsignation_",
-      "name": "GOLD Blonde Premium Star\u2122 65cl en verre | avec consignation",
-      "prix_base": 123,
-      "prix_comparaison": 157,
-      "variation": 34
-    },
-    {
-      "cle": "produit_gold8star50clenverreavecconsignation_",
-      "name": "GOLD 8 Star\u2122 50 cl en verre | avec consignation",
-      "prix_base": 110,
-      "prix_comparaison": 157,
-      "variation": 47
-    },
-    {
-      "cle": "produit_beteensbukifrance4_",
-      "name": "Be Teens Buki France",
-      "prix_base": 1507,
-      "prix_comparaison": 1877,
-      "variation": 370
+      "cle": "produit_ben10360_",
+      "name": "BEN10 360\u00b0",
+      "prix_base": 2097,
+      "prix_comparaison": 2254,
+      "variation": 157
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_gold8star50clenverreavecconsignation_",
-      "name": "GOLD 8 Star\u2122 50 cl en verre | avec consignation",
-      "prix_base": 110,
-      "prix_comparaison": 157,
-      "indice_prix": 142.72727272727272
-    },
-    {
-      "cle": "produit_goldblondepremiumstar65clenverreavecconsignation_",
-      "name": "GOLD Blonde Premium Star\u2122 65cl en verre | avec consignation",
-      "prix_base": 123,
-      "prix_comparaison": 157,
-      "indice_prix": 127.64227642276423
-    },
-    {
-      "cle": "produit_beteensbukifrance4_",
-      "name": "Be Teens Buki France",
-      "prix_base": 1507,
-      "prix_comparaison": 1877,
-      "indice_prix": 124.5520902455209
+      "cle": "produit_ben10360_",
+      "name": "BEN10 360\u00b0",
+      "prix_base": 2097,
+      "prix_comparaison": 2254,
+      "indice_prix": 107.48688602765856
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_goldblanche33clenverreavecconsignation_",
-      "name": "GOLD Blanche 33cl en verre | avec consignation",
-      "prix_base": 87,
-      "prix_comparaison": 91,
-      "indice_prix": 104.59770114942529
-    },
-    {
-      "cle": "produit_beteensbukifrance4_",
-      "name": "Be Teens Buki France",
-      "prix_base": 1507,
-      "prix_comparaison": 1877,
-      "indice_prix": 124.5520902455209
-    },
-    {
-      "cle": "produit_goldblondepremiumstar65clenverreavecconsignation_",
-      "name": "GOLD Blonde Premium Star\u2122 65cl en verre | avec consignation",
-      "prix_base": 123,
-      "prix_comparaison": 157,
-      "indice_prix": 127.64227642276423
+      "cle": "produit_ben10360_",
+      "name": "BEN10 360\u00b0",
+      "prix_base": 2097,
+      "prix_comparaison": 2254,
+      "indice_prix": 107.48688602765856
     }
   ]
 }
