@@ -1,62 +1,20 @@
 {
   "Variation de prix": [
     {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 100,
-      "prix_comparaison": 106,
-      "variation": 6
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 520,
-      "prix_comparaison": 548,
-      "variation": 28
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2547,
-      "prix_comparaison": 2684,
-      "variation": 137
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 5005,
-      "prix_comparaison": 5280,
-      "variation": 275
+      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
+      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
+      "prix_base": 279,
+      "prix_comparaison": 330,
+      "variation": 51
     }
   ],
   "indice de prix": [
     {
-      "cle": "produit_rizblancmakaliokasupermarchemg25kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 25kg | Origine Madagascar",
-      "prix_base": 2547,
-      "prix_comparaison": 2684,
-      "indice_prix": 105.37887711032587
-    },
-    {
-      "cle": "produit_rizmakalioka5kg_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 5kg | Origine Madagascar",
-      "prix_base": 520,
-      "prix_comparaison": 548,
-      "indice_prix": 105.38461538461539
-    },
-    {
-      "cle": "produit_rizblancmakaliokasupermarchemg50kgoriginemadagascar_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 50kg | Origine Madagascar",
-      "prix_base": 5005,
-      "prix_comparaison": 5280,
-      "indice_prix": 105.49450549450549
-    },
-    {
-      "cle": "produit_rizblancmakaliokakapoakavrac_",
-      "name": "Riz blanc Makalioka Supermarch\u00e9.mg\u2122 1kg | Origine Madagascar",
-      "prix_base": 100,
-      "prix_comparaison": 106,
-      "indice_prix": 106.0
+      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
+      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
+      "prix_base": 279,
+      "prix_comparaison": 330,
+      "indice_prix": 118.27956989247312
     }
   ]
 }
