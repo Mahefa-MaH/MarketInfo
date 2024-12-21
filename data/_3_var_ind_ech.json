@@ -1,122 +1,66 @@
 {
   "prix_augmentes": [
     {
-      "cle": "produit_trampolineessential365vertfiletdeprotection_",
-      "name": "trampoline-essential-365-vert-filet de protection",
-      "prix_base": 72600,
-      "prix_comparaison": 76421,
-      "variation": 3821
+      "cle": "produit_dindeentiereenviron35kg_",
+      "name": "Dinde enti\u00e8re surgel\u00e9e | Environ 3,5 kg",
+      "prix_base": 3098,
+      "prix_comparaison": 4400,
+      "variation": 1302
     },
     {
-      "cle": "produit_dreamhouseadventuresbarbielamaisonderevedebarbiemaisondepoupeemannequin3anset_",
-      "name": "Dreamhouse Adventures Barbie \u2013 La Maison de R\u00eave de Barbie \u2013 Maison de Poup\u00e9e Mannequin \u2013 3 ans et +",
-      "prix_base": 61054,
-      "prix_comparaison": 64268,
-      "variation": 3214
-    },
-    {
-      "cle": "produit_trottinetteelectrique125mmbleu_",
-      "name": "Trottinette \u00e9lectrique 125mm \u2013 Bleu",
-      "prix_base": 48400,
-      "prix_comparaison": 50947,
-      "variation": 2547
-    },
-    {
-      "cle": "produit_chaiselonguegonflablepourpiscinepouradultes_",
-      "name": "Chaise longue gonflable pour piscine pour adultes",
-      "prix_base": 2974,
-      "prix_comparaison": 4289,
-      "variation": 1315
-    },
-    {
-      "cle": "produit_lampesfrontales_",
-      "name": "Lampes Frontales",
-      "prix_base": 1804,
-      "prix_comparaison": 2902,
-      "variation": 1098
+      "cle": "produit_bouquetderoseblanche24tigesflorencefleurs_",
+      "name": "Bouquet de Rose Blanche 24 tiges Florence Fleurs\u2122",
+      "prix_base": 1320,
+      "prix_comparaison": 1650,
+      "variation": 330
     }
   ],
   "prix_diminues": [
     {
-      "cle": "produit_ironman_",
-      "name": "IRON MAN",
-      "prix_base": 220,
-      "prix_comparaison": 237,
-      "variation": 17
+      "cle": "produit_bouquetderoseblanche24tigesflorencefleurs_",
+      "name": "Bouquet de Rose Blanche 24 tiges Florence Fleurs\u2122",
+      "prix_base": 1320,
+      "prix_comparaison": 1650,
+      "variation": 330
     },
     {
-      "cle": "produit_doctorsuit_",
-      "name": "Doctor suit",
-      "prix_base": 337,
-      "prix_comparaison": 362,
-      "variation": 25
-    },
-    {
-      "cle": "produit_superhero_",
-      "name": "Super hero",
-      "prix_base": 627,
-      "prix_comparaison": 674,
-      "variation": 47
-    },
-    {
-      "cle": "produit_janodposkaleidoscope_",
-      "name": "Janod \u2013 POS Kal\u00e9idoscope",
-      "prix_base": 660,
-      "prix_comparaison": 710,
-      "variation": 50
-    },
-    {
-      "cle": "produit_huiledetournesollafatra1lricheenomega6_",
-      "name": "Huile de Tournesol Lafatra\u2122 1L | Riche en Om\u00e9ga 6",
-      "prix_base": 279,
-      "prix_comparaison": 330,
-      "variation": 51
+      "cle": "produit_dindeentiereenviron35kg_",
+      "name": "Dinde enti\u00e8re surgel\u00e9e | Environ 3,5 kg",
+      "prix_base": 3098,
+      "prix_comparaison": 4400,
+      "variation": 1302
     }
   ],
   "indices_prix_plus_eleves": [
     {
-      "cle": "produit_lampesfrontales_",
-      "name": "Lampes Frontales",
-      "prix_base": 1804,
-      "prix_comparaison": 2902,
-      "indice_prix": 160.86474501108648
+      "cle": "produit_dindeentiereenviron35kg_",
+      "name": "Dinde enti\u00e8re surgel\u00e9e | Environ 3,5 kg",
+      "prix_base": 3098,
+      "prix_comparaison": 4400,
+      "indice_prix": 142.0271142672692
     },
     {
-      "cle": "produit_lampedepoche_",
-      "name": "Lampe de poche",
-      "prix_base": 1067,
-      "prix_comparaison": 1609,
-      "indice_prix": 150.796626054358
-    },
-    {
-      "cle": "produit_chaiselonguegonflablepourpiscinepouradultes_",
-      "name": "Chaise longue gonflable pour piscine pour adultes",
-      "prix_base": 2974,
-      "prix_comparaison": 4289,
-      "indice_prix": 144.2165433759247
+      "cle": "produit_bouquetderoseblanche24tigesflorencefleurs_",
+      "name": "Bouquet de Rose Blanche 24 tiges Florence Fleurs\u2122",
+      "prix_base": 1320,
+      "prix_comparaison": 1650,
+      "indice_prix": 125.0
     }
   ],
   "indices_prix_plus_faibles": [
     {
-      "cle": "produit_spraykitchen_",
-      "name": "Spray kitchen",
-      "prix_base": 2977,
-      "prix_comparaison": 3133,
-      "indice_prix": 105.24017467248909
+      "cle": "produit_bouquetderoseblanche24tigesflorencefleurs_",
+      "name": "Bouquet de Rose Blanche 24 tiges Florence Fleurs\u2122",
+      "prix_base": 1320,
+      "prix_comparaison": 1650,
+      "indice_prix": 125.0
     },
     {
-      "cle": "produit_beteensbukifrance_",
-      "name": "Be Teens Buki France",
-      "prix_base": 1507,
-      "prix_comparaison": 1586,
-      "indice_prix": 105.24220305242203
-    },
-    {
-      "cle": "produit_beteensbukifrance2_",
-      "name": "Be Teens Buki France",
-      "prix_base": 1507,
-      "prix_comparaison": 1586,
-      "indice_prix": 105.24220305242203
+      "cle": "produit_dindeentiereenviron35kg_",
+      "name": "Dinde enti\u00e8re surgel\u00e9e | Environ 3,5 kg",
+      "prix_base": 3098,
+      "prix_comparaison": 4400,
+      "indice_prix": 142.0271142672692
     }
   ]
 }
